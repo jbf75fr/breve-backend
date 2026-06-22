@@ -1,0 +1,55 @@
+name: Brève — revue quotidienne
+
+# Quand ce traitement se déclenche
+on:
+  schedule:
+    # Tous les jours à 03:30 UTC = 05:30 heure de Paris (été).
+    # En hiver (heure d'hiver française), cela correspond à 04:30 Paris.
+    # Format cron : minute heure jour mois jour_semaine
+    - cron: "30 3 * * *"
+  # Permet aussi de lancer manuellement depuis l'onglet Actions de GitHub
+  # (utile pour tester sans attendre le lendemain matin).
+  workflow_dispatch:
+
+# Autorise le workflow à réécrire le fichier de données dans le dépôt
+permissions:
+  contents: write
+
+jobs:
+  generer-la-revue:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Récupère votre code
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      # 2. Installe Python
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 3. Installe les dépendances
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      # 4. Génère la revue du jour
+      #    La clé API est lue depuis les "secrets" du dépôt (jamais en clair).
+      - name: Générer les brèves
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python run_daily.py --limit 12 --out ./public
+
+      # 5. Publie le résultat : si breves.json a changé, on l'enregistre
+      #    dans le dépôt. L'app pourra alors lire la revue à jour.
+      - name: Publier la revue
+        run: |
+          git config user.name "Brève Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/breves.json public/breves.js
+          if git diff --staged --quiet; then
+            echo "Aucun changement — rien à publier."
+          else
+            git commit -m "Revue du jour — $(date -u +%Y-%m-%d)"
+            git push
+          fi
