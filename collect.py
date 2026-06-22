@@ -34,7 +34,7 @@ USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 FRESHNESS_HOURS = 24
 
 # Seuil de similarité (0..1) au-delà duquel deux articles sont "le même sujet".
-SIM_THRESHOLD = 0.34
+SIM_THRESHOLD = 0.42
 
 
 # --------------------------------------------------------------------------- #
@@ -129,12 +129,16 @@ def salient_tokens(title: str) -> set[str]:
 
 def similar(a: Article, b: Article) -> float:
     """
-    Similarité entre deux articles, combinant :
-      - Jaccard sur les mots significatifs (titre + résumé),
-      - bonus de recouvrement (part des mots du plus court présents dans l'autre),
-      - ratio de séquence sur les titres (titres quasi identiques),
-      - un FORT bonus si les articles partagent des termes saillants (noms
-        propres) : c'est le signal décisif pour le même événement.
+    Similarité entre deux articles. Conçue pour être STRICTE : deux sujets ne
+    fusionnent que s'ils partagent réellement plusieurs mots significatifs,
+    pas un seul nom propre en commun (sinon « Colombie » dans deux sujets
+    différents les collerait à tort).
+
+    Combine :
+      - Jaccard et recouvrement sur les mots significatifs (titre + résumé),
+      - ratio de séquence sur les titres,
+      - un bonus de noms propres communs qui n'est accordé QUE s'il y a déjà
+        un recouvrement de base (le bonus renforce, il ne crée pas le lien).
     """
     if not (a._tokens and b._tokens):
         return 0.0
@@ -144,14 +148,21 @@ def similar(a: Article, b: Article) -> float:
     overlap = inter / (min(len(a._tokens), len(b._tokens)) or 1)
     seq = SequenceMatcher(None, a.title.lower(), b.title.lower()).ratio()
 
-    base = 0.40 * jaccard + 0.35 * overlap + 0.10 * seq
+    base = 0.50 * jaccard + 0.35 * overlap + 0.15 * seq
 
-    # bonus noms propres partagés
+    # Garde-fou : il faut un minimum de mots communs pour envisager une fusion.
+    # Un seul mot partagé ne suffit jamais.
+    if inter < 2:
+        return base * 0.5      # on étouffe le score : sujets trop peu liés
+
+    # Bonus noms propres, accordé seulement si le recouvrement de base est déjà
+    # réel (le bonus renforce un lien existant, il n'en invente pas).
     shared_sal = a._salient & b._salient
-    if len(shared_sal) >= 2:
-        base += 0.45            # deux noms propres communs : très probablement le même sujet
-    elif len(shared_sal) == 1:
-        base += 0.18
+    if base >= 0.18:
+        if len(shared_sal) >= 2:
+            base += 0.30
+        elif len(shared_sal) == 1:
+            base += 0.10
     return min(base, 1.0)
 
 
