@@ -1,178 +1,163 @@
 {
-  "generated_at": "2026-06-22T07:24:41.299260+00:00",
+  "generated_at": "2026-06-22T07:30:52.346565+00:00",
   "date_label": "Lundi 22 juin",
   "count": 12,
   "breves": [
     {
       "theme": "International",
       "title": "Iran et États-Unis progressent en Suisse sur le Liban et Ormuz",
-      "brief": "Après une première séance de négociations, Téhéran et Washington s'entendent sur des mécanismes de désescalade au Moyen-Orient.",
-      "summary": "Les délégations iranienne et américaine ont achevé dimanche leur première session de pourparlers en Suisse, sous la médiation du Pakistan et du Qatar. Elles se sont mises d'accord sur une feuille de route visant à conclure un accord définitif dans un délai de soixante jours. Les médiateurs ont annoncé des progrès sur la sécurisation du détroit d'Ormuz et la cessation des affrontements au Liban.",
-      "full": "Les négociations entre l'Iran et les États-Unis, tenues en Suisse dimanche et lundi, ont débouché sur des avancées selon les médiateurs pakistanais et qataris. Les deux délégations ont approuvé une feuille de route pour aboutir à un accord définitif en soixante jours. Une cellule de gestion des conflits a été créée afin de mettre fin aux affrontements au Liban, où s'affrontent le Hezbollah et l'armée israélienne. Les deux parties se sont également entendues sur des mécanismes visant à sécuriser le détroit d'Ormuz. Téhéran a qualifié ces progrès de « majeurs » concernant le dossier libanais. Ces négociations interviennent dans un contexte de tensions persistantes au Moyen-Orient.",
+      "brief": "Téhéran et Washington conviennent de mécanismes pour cesser les affrontements au Liban et sécuriser le détroit d'Ormuz.",
+      "summary": "Les délégations américaine et iranienne ont marqué des avancées lors de leur première session de négociations en Suisse, dimanche et lundi. Les médiateurs pakistanais et qataris ont annoncé un accord sur une feuille de route visant un accord définitif dans les soixante jours. Une cellule de gestion des conflits a été créée spécifiquement pour le dossier libanais.",
+      "full": "Les négociations entre l'Iran et les États-Unis se sont ouvertes en Suisse dans un contexte régional tendu, marqué par les affrontements entre le Hezbollah et l'armée israélienne au Liban. À l'issue de la première séance, les deux délégations se sont entendues sur des mécanismes destinés à faire cesser ces affrontements et à sécuriser le détroit d'Ormuz, zone stratégique majeure. Les médiateurs pakistanais et qataris ont qualifié ces progrés d'« encourageants » et annoncé la mise en place d'une feuille de route pour parvenir à un accord global. Téhéran a décrit les avancées comme « majeures » sur le dossier libanais. L'objectif affiché est de conclure un accord définitif dans les deux mois, bien que le contexte politique reste marqué par des tensions extérieures.",
       "angles": [
         {
+          "outlet": "France 24",
+          "take": "Souligne que les médiateurs pakistanais et qataris ont annoncé l'accord au terme de la première séance de négociations pour mettre fin à la guerre au Moyen-Orient.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260621-en-direct-iran-etats-unis-negociations-suisse-tensions-jd-vance-pakistan-nucleaire"
+        },
+        {
           "outlet": "Le Monde",
-          "take": "Souligne l'accord sur une feuille de route de soixante jours et la création d'une cellule de gestion des conflits dédiée au Liban.",
+          "take": "Précise que les délégations se sont mises d'accord sur une feuille de route avec un délai de soixante jours et que la cellule de gestion des conflits a été créée pour le Liban.",
           "url": "https://www.lemonde.fr/international/live/2026/06/22/en-direct-guerre-au-moyen-orient-l-iran-fait-etat-de-progres-encourageants-apres-la-premiere-seance-de-discussions-avec-les-etats-unis-en-suisse_6705272_3210.html"
         },
         {
-          "outlet": "Libération",
-          "take": "Contextualise les négociations dans un climat de tensions amplifiées par les menaces de Donald Trump.",
-          "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-et-les-etats-unis-sentendent-sur-une-feuille-de-route-pour-un-accord-definitif-sous-60-jours-20260622_3GC3LEO2TZBJTK63DGLWU3225I/"
+          "outlet": "Courrier International",
+          "take": "Rapporte que le camp iranien a qualifié les progrès de « majeurs » spécifiquement sur le dossier libanais.",
+          "url": "https://www.courrierinternational.com/article/geopolitique-progres-encourageants-apres-la-premiere-journee-de-negociations-entre-les-etats-unis-et-l-iran_245482"
         },
         {
-          "outlet": "Courrier International",
-          "take": "Rapporte la qualification des progrès comme « majeurs » par le camp iranien, particulièrement sur le dossier libanais.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-progres-encourageants-apres-la-premiere-journee-de-negociations-entre-les-etats-unis-et-l-iran_245482"
+          "outlet": "Libération",
+          "take": "Contextualise les négociations dans un environnement tendu marqué par les nouvelles menaces de Donald Trump et les affrontements au Liban.",
+          "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-et-les-etats-unis-sentendent-sur-une-feuille-de-route-pour-un-accord-definitif-sous-60-jours-20260622_3GC3LEO2TZBJTK63DGLWU3225I/"
         }
       ],
       "id": 0,
       "priority": 1
     },
     {
-      "theme": "Politique",
-      "title": "Manifestation à Paris contre le racisme et l'extrême droite",
-      "brief": "Plusieurs milliers de personnes ont défilé dimanche à Paris pour protester contre le racisme et l'extrême droite.",
-      "summary": "Une marche s'est déroulée dimanche à Paris entre Barbès et la place de la République, organisée par le maire LFI de Saint-Denis Bally Bagayoko. L'événement a rassemblé plusieurs milliers de manifestants dans une atmosphère festive, avec la participation de syndicats et d'associations. La marche s'inscrit dans un contexte de mobilisation contre la montée de l'extrême droite en France, à l'approche de la présidentielle de 2027.",
-      "full": "Le maire insoumis de Saint-Denis a organisé dimanche une « marche contre le racisme et l'extrême droite » qui s'est déroulée à Paris en direction de la place de la République, où s'est tenu un concert organisé par La France insoumise. Plusieurs milliers de personnes ont participé au défilé, aux côtés d'organisations syndicales et associatives, dans une ambiance décrite comme festive et bon enfant. Bally Bagayoko, en poste depuis trois mois, a appelé à inscrire la lutte contre toutes les formes de racisme à l'agenda de la campagne présidentielle. Cette mobilisation intervient dans un contexte de préoccupations face à la progression de l'extrême droite en amont du scrutin présidentiel de 2027, certains observateurs estimant que les forces traditionnelles devraient s'unir pour répondre à cette menace.",
+      "theme": "International",
+      "title": "L'Égypte remporte sa première victoire en Coupe du monde",
+      "brief": "L'Égypte s'impose face à la Nouvelle-Zélande (3-1) et enregistre son premier succès en Coupe du monde.",
+      "summary": "L'Égypte a remporté dimanche sa première victoire de l'histoire en Coupe du monde en renversant la Nouvelle-Zélande 3-1. Menée pendant une heure, la sélection égyptienne a finalement basculé le match et prend la tête du groupe G. Cette victoire rapproche l'équipe des seizièmes de finale.",
+      "full": "L'Égypte a décroché dimanche un succès historique en s'imposant 3-1 face à la Nouvelle-Zélande lors de la Coupe du monde 2026. Cette victoire revêt une importance particulière : il s'agit du premier succès égyptien dans un Mondial. Les coéquipiers de Mohamed Salah, menés au score depuis une heure, ont réussi à renverser la situation en deuxième mi-temps. Cette performance permet à l'Égypte de prendre la tête du groupe G et de se positionner favrablement pour accéder aux seizièmes de finale. La sélection égyptienne peut désormais envisager de progresser dans la compétition.",
       "angles": [
         {
           "outlet": "France 24",
-          "take": "Le sujet traité concerne les enjeux politiques colombiens, sans lien direct avec la manifestation parisienne.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260621-jean-jacques-kourliandsky-les-r%C3%A9sultats-de-gustavo-petro-sur-la-s%C3%A9curit%C3%A9-en-colombie-sont-minimes"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "La marche est présentée comme transpartisane, malgré la promotion par Bally Bagayoko de la « grande alliance populaire » de Jean-Luc Mélenchon.",
-          "url": "https://www.lemonde.fr/politique/article/2026/06/21/a-paris-quelques-milliers-de-personnes-defilent-contre-le-racisme-et-l-extreme-droite-a-l-appel-de-bally-bagayoko_6706117_823448.html"
+          "take": "L'Égypte, partie de loin, réalise un exploit en convertissant son retard en victoire et se place en position de force pour les 16es de finale.",
+          "url": "https://www.france24.com/fr/sports/20260622-mondial-2026-egypte-premiere-victoire-nouvelle-zelande-salah-coupe-monde"
         },
         {
           "outlet": "France Info",
-          "take": "Les premiers mois de mandat du maire sont contestés localement à Saint-Denis, où les habitants attendent des résultats concrets.",
-          "url": "https://www.franceinfo.fr/politique/bally-bagayoko-est-rattrape-par-la-realite-derriere-la-communication-les-premiers-mois-contestes-du-maire-lfi-de-saint-denis_8050601.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Le revirement égyptien survient après plus d'une heure de domination néo-zélandaise, marquant un tournant dans le match.",
+          "url": "https://www.franceinfo.fr/coupe-du-monde/l-egypte-renverse-la-nouvelle-zelande-le-cap-vert-epate-face-a-l-uruguay-ce-qu-il-faut-retenir-des-matchs-de-la-nuit-a-la-coupe-du-monde_8073386.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "Libération",
-          "take": "L'événement s'est caractérisé par une atmosphère festive et conviviale entre Barbès et la place de la République.",
-          "url": "https://www.liberation.fr/societe/en-images-a-paris-des-milliers-de-personne-defilent-contre-le-racisme-a-lappel-de-la-france-insoumise-20260621_6KYCLVDFRRFA7ARUCZHLENYIBI/"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Plusieurs milliers de personnes ont répondu à l'appel du maire LFI pour cette manifestation contre le racisme et l'extrême droite.",
-          "url": "https://www.20minutes.fr/societe/4230296-20260621-paris-milliers-personnes-manifestent-contre-racisme-appel-lfi?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "Le Guardian juge que la France sous-estime la menace croissante de l'extrême droite avant un scrutin déterminant pour l'Europe.",
-          "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-qu-attend-la-france-pour-prendre-la-menace-de-l-extreme-droite-au-serieux_245070"
+          "outlet": "Le Monde",
+          "take": "Cette victoire intervient dans un contexte où d'autres sélections comme l'Espagne progressent également, avec des leaders comme Messi et Mbappé en avant-plan.",
+          "url": "https://www.lemonde.fr/sport/article/2026/06/22/coupe-du-monde-2026-l-espagne-se-libere-la-belgique-inquiete-le-cap-vert-surprend-ce-qu-il-faut-retenir-du-dimanche-21-juin_6706502_3242.html"
         }
       ],
       "id": 1,
       "priority": 2
     },
     {
-      "theme": "Culture",
-      "title": "La Fête de la musique se déroule sous la canicule",
-      "brief": "Le 21 juin, la Fête de la musique s'est tenue dans toute la France malgré une vague de chaleur record, avec des restrictions sur l'alcool.",
-      "summary": "La Fête de la musique s'est déroulée dimanche 21 juin dans un contexte de vigilance canicule rouge dans 39 départements français. Des interdictions de consommation d'alcool sur la voie publique ont été mises en place dans les zones les plus touchées, notamment à Paris, où les touristes étrangers ont néanmoins participé à l'événement. Malgré ces mesures, les restaurateurs et certains établissements ont exprimé leurs difficultés à appliquer ces restrictions.",
-      "full": "La Fête de la musique 2026 s'est déroulée le 21 juin sous une vague de chaleur exceptionnelle, avec 39 départements placés en vigilance rouge canicule et 45 autres en vigilance orange. Afin de limiter les risques liés aux conditions météorologiques, les autorités ont interdit la vente et la consommation d'alcool sur la voie publique dans les zones d'alerte maximum, y compris à Paris. Cette interdiction a contraint les professionnels du secteur, notamment dans les terrasses servant habituellement de gobelets jetables, à adapter leur activité. Bien que la consommation d'alcool reste autorisée à l'intérieur des établissements, des restaurateurs ont exprimé leur difficultés à gérer l'application de ces restrictions. Malgré ces mesures, l'événement a attiré des milliers de participants, dont des touristes étrangers à Paris, qui ont choisi de célébrer la musique malgré les conditions climatiques. Certains exploitants ont assumé ne pas respecter la réglementation face à la demande des consommateurs.",
+      "theme": "International",
+      "title": "Colombie : élection d'un candidat de droite dure",
+      "brief": "Abelardo de la Espriella remporte l'élection présidentielle colombienne face au candidat de gauche.",
+      "summary": "L'homme d'affaires et avocat conservateur Abelardo de la Espriella a remporté dimanche le second tour de la présidentielle colombienne avec 49,7 % des voix, face au sénateur Ivan Cepeda qui en a obtenu 48,7 %. Ce novice en politique s'impose sur un programme de ligne dure contre la criminalité organisée. Le scrutin offrait aux électeurs colombiens un choix entre deux visions radicalement opposées de l'orientation politique et étrangère du pays.",
+      "full": "Le nouvel élu, âgé de 47 ans, prône une approche sécuritaire stricte face à la résurgence de la violence des groupes armés qui affecte la Colombie. Cet homme d'affaires défend une ligne politique qualifiée d'antisystème et se positionne en rupture avec la première présidence de gauche de l'histoire du pays, menée par Gustavo Petro. Son adversaire, Ivan Cepeda, était présenté comme le soutien du gouvernement sortant et défenseur des droits humains. La victoire électorale à dominante conservatrice intervient dans un contexte régional d'évolution politique observable dans plusieurs pays d'Amérique latine.",
       "angles": [
         {
           "outlet": "France 24",
-          "take": "Des milliers de touristes étrangers, notamment britanniques, ont participé à la Fête de la musique à Paris malgré les restrictions liées à la canicule.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260621-une-mani%C3%A8re-de-d%C3%A9couvrir-paris-les-touristes-%C3%A9trangers-d%C3%A9barquent-pour-la-f%C3%AAte-de-la-musique"
+          "take": "Un analyste de la Fondation Jean-Jaurès note que les résultats du gouvernement Petro sur la sécurité ont été limités.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260621-jean-jacques-kourliandsky-les-r%C3%A9sultats-de-gustavo-petro-sur-la-s%C3%A9curit%C3%A9-en-colombie-sont-minimes"
         },
         {
           "outlet": "France Info",
-          "take": "Les professionnels de la restauration critiquent le manque de préavis et la précipitation de l'interdiction d'alcool en terrasse, qu'ils jugent difficile à mettre en œuvre.",
-          "url": "https://www.franceinfo.fr/culture/musique/fete-de-la-musique/fete-de-la-musique-l-umih-a-du-mal-a-comprendre-l-improvisation-du-gouvernement-sur-l-interdiction-d-alcool_8072354.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Certains patrons de bar n'ont pas respecté l'interdiction d'alcool, assumant cette position face à une forte affluence de consommateurs.",
-          "url": "https://www.liberation.fr/lifestyle/consommation/a-paris-sous-la-canicule-une-fete-de-la-musique-alcoolisee-malgre-linterdiction-20260621_YN3R3FV23BGGXPISU4BU7FVYM4/"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "La préfecture de police de Paris a précisé que toute consommation d'alcool sur la voie publique serait sanctionnée par une amende.",
-          "url": "https://www.20minutes.fr/paris/4230301-20260621-fete-musique-paris-quelqu-boit-alcool-voie-publique-droit-amende?at_medium=display&at_campaign=149"
+          "take": "Abelardo de la Espriella, présenté comme proche des positions de Donald Trump, l'emporte d'une très courte majorité.",
+          "url": "https://www.franceinfo.fr/monde/ameriques/en-colombie-le-candidat-pro-trump-remporte-l-election-presidentielle_8073404.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Le Monde",
-          "take": "Les Français ont maintenu leurs célébrations musicales dans tout le pays malgré une chaleur record, certains privilégiant la fête à l'extérieur plutôt que de rester confinés.",
-          "url": "https://www.lemonde.fr/planete/article/2026/06/22/dans-toute-la-france-la-fete-de-la-musique-malgre-la-canicule-de-toute-facon-il-fait-aussi-chaud-dans-l-appartement-ou-je-vis_6706323_3244.html"
+          "take": "Le nouveau président élu, novice en politique, entend appliquer une ligne dure face au crime organisé.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/22/colombie-abelardo-de-la-espriella-candidat-de-l-utradroite-soutenu-par-donald-trump-elu-president_6706155_3210.html"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Les électeurs colombiens ont préféré un avocat antisystème à l'allié du premier gouvernement progressiste du pays.",
+          "url": "https://www.liberation.fr/international/amerique/avec-abelardo-de-la-espriella-la-colombie-elit-a-son-tour-un-president-dextreme-droite-pro-trump-20260622_6ZHYS3WDR5HPXC7C2JYJKVCZ4E/"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Le candidat antisystème remporte une élection serrée contre un sénateur d'opposition au nouveau président.",
+          "url": "https://www.20minutes.fr/monde/etats-unis/4230323-20260622-victoire-candidat-antisysteme-pro-trump-presidentielle-colombie?at_medium=display&at_campaign=149"
         }
       ],
       "id": 2,
       "priority": 3
     },
     {
-      "theme": "Sport",
-      "title": "Coupe du monde 2026 : la Belgique en difficulté, la France attend",
-      "brief": "La Belgique compromet ses chances après un nul contre l'Iran. La France prépare son deuxième match face à l'Irak.",
-      "summary": "La Belgique, déjà handicapée par un nul face à l'Égypte, n'a pas décroché la victoire contre l'Iran dimanche, réduite à dix joueurs pendant une heure. Cette équipe doit se relancer lors de la dernière journée de poule pour espérer poursuivre sa route. De son côté, la France s'apprête à affronter l'Irak lundi en Pennsylvanie, dans un second match décisif de sa compétition.",
-      "full": "En groupe G très équilibré, la Belgique a dû se contenter d'un match nul contre l'Iran, avec notamment le gardien iranien Alireza Beiranvand auteur d'une prestation solide. L'expulsion d'un joueur belge en seconde période a compliqué la tâche des Diables Rouges, incapables de trouver la faille face à une défense iranienne compacte. Avant ce match, la Belgique avait déjà été tenue en échec par l'Égypte, ce qui laisse peu de marge pour les derniers matchs de poule. La France, elle, se prépare à affronter l'Irak lundi à Philadelphie, un rendez-vous crucial pour ses ambitions. Les Bleus, avec des performances remarquées de leurs stars offensives lors du premier tour, visent une nouvelle victoire pour consolider leur position dans le tournoi.",
+      "theme": "Culture",
+      "title": "La Fête de la musique se déroule sous la canicule",
+      "brief": "La Fête de la musique s'est tenue dimanche 21 juin dans une France en alerte rouge canicule, avec des mesures d'interdiction d'alcool.",
+      "summary": "La Fête de la musique a eu lieu le 21 juin dans un contexte de canicule exceptionnelle, 39 départements étant en vigilance rouge. Les autorités ont interdit la vente et la consommation d'alcool sur la voie publique à Paris et dans plusieurs autres départements. Malgré ces restrictions, les festivités ont attiré de nombreux participants, dont des touristes étrangers venus célébrer l'événement.",
+      "full": "Dimanche 21 juin, la Fête de la musique s'est déroulée dans un contexte météorologique difficile, avec 39 départements en vigilance rouge canicule et 45 autres en vigilance orange. Pour faire face aux températures exceptionnelles, les autorités ont mis en place des mesures de sécurité spécifiques, notamment l'interdiction de la vente et de la consommation d'alcool sur la voie publique à Paris et dans les zones les plus chaudes. Selon le préfet de police de Paris, Patrice Faure, les contrevenants risquaient une amende. Malgré ces restrictions, des milliers de personnes se sont mobilisées pour participer à la fête, attirant notamment des touristes britanniques et étrangers à la capitale. Certains exploitants de bars parisiens ont remis en question le respect de cette interdiction face à l'affluence de consommateurs.",
       "angles": [
         {
           "outlet": "France 24",
-          "take": "La Belgique, réduite à dix joueurs et face à une gardienne iranienne infranchissable, ne peut plus se permettre d'erreur en dernière journée de poule.",
-          "url": "https://www.france24.com/fr/sports/20260621-coupe-du-monde-belgique-mauvaise-posture-nul-iran-resume"
+          "take": "La Fête de la musique a attiré une affluence importante de touristes étrangers malgré les conditions climatiques extrêmes et les restrictions sanitaires.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260621-une-mani%C3%A8re-de-d%C3%A9couvrir-paris-les-touristes-%C3%A9trangers-d%C3%A9barquent-pour-la-f%C3%AAte-de-la-musique"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Les matchs de l'Argentine et de la France contre l'Autriche et l'Irak sont attendus lundi, avec Messi et Mbappé en position de briller à nouveau.",
-          "url": "https://www.lemonde.fr/sport/article/2026/06/22/coupe-du-monde-2026-l-espagne-se-libere-la-belgique-inquiete-le-cap-vert-surprend-ce-qu-il-faut-retenir-du-dimanche-21-juin_6706502_3242.html"
+          "outlet": "Libération",
+          "take": "Les patrons de bar parisiens contestent l'interdiction d'alcool et certains avoient ne pas la respecter face au succès commercial de l'événement.",
+          "url": "https://www.liberation.fr/lifestyle/consommation/a-paris-sous-la-canicule-une-fete-de-la-musique-alcoolisee-malgre-linterdiction-20260621_YN3R3FV23BGGXPISU4BU7FVYM4/"
         },
         {
           "outlet": "20 Minutes",
-          "take": "Le groupe L'Équipe a présenté des excuses au footballeur belge Jeremy Doku suite à des critiques formulées par sa journaliste sur son implication en Coupe du monde.",
-          "url": "https://www.20minutes.fr/arts-stars/medias/4230304-20260621-equipe-desolidarise-propos-france-pierron-scandalisee-volonte-doku-quitter-mondial?at_medium=display&at_campaign=149"
+          "take": "Le préfet de police a détaillé un dispositif spécifique de sécurisation avec des sanctions prévues pour les contrevenants à l'interdiction d'alcool.",
+          "url": "https://www.20minutes.fr/paris/4230301-20260621-fete-musique-paris-quelqu-boit-alcool-voie-publique-droit-amende?at_medium=display&at_campaign=149"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "L'événement s'est déroulé sur l'ensemble du territoire français malgré une vague de chaleur affectant une majorité de départements.",
+          "url": "https://www.lemonde.fr/planete/article/2026/06/22/dans-toute-la-france-la-fete-de-la-musique-malgre-la-canicule-de-toute-facon-il-fait-aussi-chaud-dans-l-appartement-ou-je-vis_6706323_3244.html"
         },
         {
           "outlet": "France Info",
-          "take": "L'équipe de France transfère son quartier général de Boston à Philadelphie pour préparer son rendez-vous contre l'Irak.",
-          "url": "https://www.franceinfo.fr/coupe-du-monde/dans-les-coulisses-de-l-equipe-de-france-de-football-avant-le-match-contre-l-irak_8073134.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "Didier Deschamps, considéré comme une figure majeure du football français, vit sa dernière compétition en tant que sélectionneur national.",
-          "url": "https://www.courrierinternational.com/article/vu-de-suisse-didier-deschamps-le-personnage-le-plus-important-de-l-histoire-du-football-francais_245438"
+          "take": "Au-delà de l'interdiction d'alcool, d'autres mesures restrictives ont été appliquées, notamment concernant les baignades en espaces publics.",
+          "url": "https://www.franceinfo.fr/culture/musique/fete-de-la-musique/alcool-baignades-ce-qui-est-interdit-a-paris-pour-la-fete-de-la-musique_8072387.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 3,
       "priority": 4
     },
     {
-      "theme": "Climat",
-      "title": "La France face à une canicule exceptionnelle, 49 départements en alerte rouge",
-      "brief": "Une vague de chaleur intense s'intensifie lundi en France, plaçant 35 millions de Français en vigilance rouge et perturbant l'activité économique.",
-      "summary": "Météo France place 49 départements français en vigilance rouge canicule lundi, affectant 35 millions de personnes, tandis que 40 autres départements sont en alerte orange. Les températures atteindront jusqu'à 43 °C en façade ouest. Cette situation contraint fermetures d'établissements scolaires et perturbations du trafic ferroviaire.",
-      "full": "La vague de chaleur qui frappe la France depuis près d'une semaine s'aggrave lundi avec 49 départements placés en vigilance rouge canicule par Météo France, exposant 90 % de la population française à des conditions météorologiques extrêmes. Les températures les plus élevées, jusqu'à 43 °C, concerneront principalement la façade ouest du pays. Sur le plan scolaire, cette situation entraîne la fermeture de 845 écoles et collèges, tandis que 1 800 autres établissements aménagent leurs horaires. La plupart des 60 000 établissements scolaires restent ouverts mais mettent en place des mesures d'adaptation variées pour atténuer les effets de la chaleur. Le secteur des transports est également affecté : la SNCF envisage de nouvelles annulations de trains, le PDG annonçant que les décisions dépendront de l'évolution des températures et de leur impact sur le réseau.",
+      "theme": "Politique",
+      "title": "Manifestation contre le racisme à Paris organisée par LFI",
+      "brief": "Plusieurs milliers de personnes ont défilé dimanche à Paris contre le racisme, à l'initiative du maire insoumis de Saint-Denis.",
+      "summary": "Une manifestation s'est déroulée dimanche à Paris, de Barbès à la place de la République, contre le racisme et l'extrême droite. Le défilé a été organisé à l'appel de Bally Bagayoko, maire de Saint-Denis et membre de La France insoumise, avec le soutien de plusieurs organisations syndicales et associatives. Un concert de la Fête de la musique a suivi la marche.",
+      "full": "Plusieurs milliers de personnes ont participé dimanche à une manifestation parisienne contre le racisme, initiée par Bally Bagayoko, maire de Saint-Denis affilié à La France insoumise. Le cortège s'est formé à Barbès et s'est dirigé vers la place de la République, malgré des conditions météorologiques difficiles marquées par une forte chaleur. Selon les organisateurs, cette marche visait à mettre la question de la lutte contre le racisme à l'agenda politique. L'événement s'est déroulé dans une ambiance décrite comme festive, rassemblant plusieurs organisations syndicales et associatives au-delà des seuls partisans du mouvement insoumis. Le défilé a précédé un concert organisé par La France insoumise à l'occasion de la Fête de la musique.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "L'intensification de la canicule affecte largement le territoire avec 49 départements en vigilance maximale et des fermetures massives d'établissements scolaires.",
-          "url": "https://www.france24.com/fr/france/20260622-france-canicule-vigilance-rouge"
-        },
-        {
           "outlet": "France Info",
-          "take": "La SNCF anticipe de possibles suppressions supplémentaires de trains, dont l'ampleur dépendra de l'évolution thermique.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/vers-de-nouvelles-annulations-de-trains-sur-le-reseau-sncf_8072432.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Libération",
-          "take": "La majorité des écoles restent ouvertes et déploient des solutions improvisées et disparates pour faire face aux fortes chaleurs.",
-          "url": "https://www.liberation.fr/societe/education/ventilateurs-barnums-demenagements-en-pleine-canicule-comment-lecole-bricole-20260622_AYHM2BIYUBHWBHPMPKXYSINOWA/"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Le gouvernement affirme adopter une approche territoriale flexible, avec fermetures ciblées et aménagements d'horaires adaptés localement.",
-          "url": "https://www.20minutes.fr/societe/4230293-20260621-canicule-pres-850-ecoles-colleges-fermes-lundi-1-800-autres-amenageront-horaires?at_medium=display&at_campaign=149"
+          "take": "Met en avant le parcours du cortège et les conditions climatiques difficiles ayant accompagné l'événement.",
+          "url": "https://www.franceinfo.fr/societe/racisme/des-milliers-de-personnes-manifestent-contre-le-racisme-a-paris-a-l-appel-de-la-france-insoumise_8072834.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Le Monde",
-          "take": "La canicule affecte 90 % de la population française, combinant vigilance rouge et orange sur l'ensemble du territoire.",
-          "url": "https://www.lemonde.fr/planete/article/2026/06/22/canicule-49-departements-et-35-millions-de-francais-concernes-par-la-vigilance-rouge-lundi_6706357_3244.html"
+          "take": "Souligne l'appel du maire à intégrer la lutte contre le racisme dans la campagne présidentielle et met l'accent sur la volonté transpartisane affichée par les organisateurs.",
+          "url": "https://www.lemonde.fr/politique/article/2026/06/21/a-paris-quelques-milliers-de-personnes-defilent-contre-le-racisme-et-l-extreme-droite-a-l-appel-de-bally-bagayoko_6706117_823448.html"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Insiste sur l'atmosphère festive et conviviale qui a caractérisé la marche jusqu'au concert final.",
+          "url": "https://www.liberation.fr/societe/en-images-a-paris-des-milliers-de-personne-defilent-contre-le-racisme-a-lappel-de-la-france-insoumise-20260621_6KYCLVDFRRFA7ARUCZHLENYIBI/"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Précise que la marche s'opposait à la fois au racisme et à l'extrême droite, mettant en avant le double enjeu de la mobilisation.",
+          "url": "https://www.20minutes.fr/societe/4230296-20260621-paris-milliers-personnes-manifestent-contre-racisme-appel-lfi?at_medium=display&at_campaign=149"
         }
       ],
       "id": 4,
@@ -180,113 +165,98 @@
     },
     {
       "theme": "Sport",
-      "title": "L'Égypte remporte sa première victoire en Coupe du monde",
-      "brief": "L'Égypte a battu la Nouvelle-Zélande 3-1 dimanche, marquant son premier succès en phase finale.",
-      "summary": "L'Égypte a obtenu dimanche son premier succès en Coupe du monde en s'imposant face à la Nouvelle-Zélande 3-1, après avoir été menée au score. Cette victoire permet à l'équipe égyptienne de prendre la tête du groupe G et d'envisager une qualification pour les huitièmes de finale.",
-      "full": "Lors de son match de groupe disputé dimanche, l'Égypte a remporté une victoire décisive contre la Nouvelle-Zélande sur le score de 3-1, marquant ainsi un tournant dans son histoire en Coupe du monde. L'équipe égyptienne, qui avait d'abord été menée, a su revenir au score et s'imposer finalement. Cette performance permet à l'Égypte de monopoliser la première place du groupe G. Fort de cette victoire, le pays peut désormais envisager sérieusement une qualification pour le prochain tour, les huitièmes de finale. Il s'agit d'une étape majeure pour une sélection qui n'avait jamais remporté de match lors des phases finales précédentes.",
+      "title": "Coupe du monde 2026 : le Cap-Vert surprend l'Uruguay",
+      "brief": "Le Cap-Vert a arraché un match nul contre l'Uruguay (2-2) en phase de groupes.",
+      "summary": "Lors de son deuxième match de la Coupe du monde 2026, le Cap-Vert a tenu tête à l'Uruguay en obtenant un nul (2-2) dimanche à Miami. Cette performance marque les premiers buts des Requins Bleus dans un Mondial. Une victoire face à l'Arabie saoudite pourrait propulser le Cap-Vert en huitièmes de finale.",
+      "full": "Le Cap-Vert a signé un nouvel exploit en accrochant l'Uruguay (2-2) lors de la troisième journée du groupe H de la Coupe du monde 2026. Il s'agit du deuxième match des Requins Bleus dans le tournoi, et ils ont inscrit leurs premiers buts dans un Mondial. L'équipe a montré une détermination remarquable face à une Céleste peu convaincante, maintenant le suspense dans la poule. Le Cap-Vert peut envisager une qualification aux huitièmes de finale en remportant son prochain match contre l'Arabie saoudite. Cette performance a suscité une émotion intense parmi les supporters du petit archipel, qui découvrent les joies du Mondial.",
       "angles": [
         {
           "outlet": "France 24",
-          "take": "L'Égypte remporte son premier succès en Coupe du monde en dominant la Nouvelle-Zélande malgré un début de match défavorable.",
-          "url": "https://www.france24.com/fr/sports/20260622-mondial-2026-egypte-premiere-victoire-nouvelle-zelande-salah-coupe-monde"
+          "take": "Le Cap-Vert inscrit ses premiers buts en Coupe du monde et retrouve l'incertitude en tête du groupe H face à une Uruguay décevante.",
+          "url": "https://www.france24.com/fr/sports/20260622-mondial-2026-nouvel-exploit-cap-vert-nul-uruguay"
         },
         {
           "outlet": "Libération",
-          "take": "Une vague de chaleur extrême affecte l'Espagne, forçant les autorités à annuler les fan zones prévues à Madrid en raison des alertes canicule.",
-          "url": "https://www.liberation.fr/international/europe/lespagne-bascule-aussi-dans-la-canicule-les-supporteurs-de-la-roja-prives-de-fan-zone-a-madrid-20260621_TINJWAGZDVDQLNCOAYR5DJQJZM/"
+          "take": "Les supporters du Cap-Vert ont vibré d'une joie incrédule, le nul laissant espérer une qualification en seizièmes si l'équipe bat l'Arabie saoudite.",
+          "url": "https://www.liberation.fr/sports/football/je-vais-mettre-dix-ans-a-men-remettre-limmense-emotion-des-supporters-du-cap-vert-apres-un-nouvel-exploit-face-a-luruguay-20260622_EPHGJFKD2VDURHX3NVBLMAMHPE/"
         },
         {
           "outlet": "20 Minutes",
-          "take": "Kylian Mbappé a atteint son centième but en compétition officielle avec l'équipe de France durant la Coupe du monde 2026.",
-          "url": "https://www.20minutes.fr/sport/football/4230319-20260622-coupe-monde-2026-kylian-mbappe-franchit-mur-100-inquietude-tchouameni-journal-bleus?at_medium=display&at_campaign=149"
+          "take": "Cette nuit du Mondial a également marqué la première victoire de l'Égypte en Coupe du monde.",
+          "url": "https://www.20minutes.fr/sport/football/4230461-20260622-coupe-monde-2026-premiere-historique-pharaons-salah-nouvel-exploit-cap-vert-recap-nuit?at_medium=display&at_campaign=149"
         }
       ],
       "id": 5,
       "priority": 6
     },
     {
-      "theme": "Climat",
-      "title": "Canicule extrême : 49 départements en vigilance rouge",
-      "brief": "Une vague de chaleur sans précédent paralyse la France, avec fermetures d'écoles et perturbations massives des transports.",
-      "summary": "La France connaît lundi 22 juin une canicule historique touchant quasi l'intégralité du territoire, avec des températures dépassant 40 °C prévues dans l'Ouest. Météo-France a placé 49 départements en vigilance rouge et 40 autres en vigilance orange. Ces conditions météorologiques extrêmes entraînent la fermeture de plusieurs centaines d'établissements scolaires, le report d'épreuves du baccalauréat et d'importants dysfonctionnements du réseau ferroviaire.",
-      "full": "Selon Météo-France, 49 départements sont en vigilance rouge lundi 22 juin en raison d'une vague de chaleur d'ampleur exceptionnelle affectant l'ensemble de l'Hexagone. Les températures devraient dépasser 40 °C dans les régions de l'Ouest. Face à cette situation, une nouvelle cellule de crise interministérielle est prévue pour coordonner la réponse des autorités. Plusieurs centaines d'écoles, collèges et lycées restent fermés, tandis que certaines épreuves du baccalauréat ont été reportées. Le réseau de transports subit d'importantes perturbations, notamment en Île-de-France, avec des dysfonctionnements particulièrement aigus sur trois lignes Intercités reliant Paris à Limoges, Toulouse, Clermont et Bordeaux, en raison d'un vieillissement prolongé du matériel roulant.",
+      "theme": "International",
+      "title": "Keir Starmer face à des rumeurs de démission au Royaume-Uni",
+      "brief": "Le Premier ministre britannique, confronté à l'impopularité et aux tensions internes du Labour, consulte ses équipes.",
+      "summary": "Le Premier ministre britannique Keir Starmer fait face à des rumeurs de démission croissantes, alimentées par son impopularité et les divisions au sein du parti travailliste. Dimanche 21 juin, un ministre a déclaré que Starmer « réfléchissait aux réalités politiques » auxquelles il est confronté. Cette instabilité intervient après une défaite électorale partielle et suscite une agitation dans les médias britanniques.",
+      "full": "Le Premier ministre britannique Keir Starmer traverse une crise politique majeure, avec des rumeurs d'une possible démission dès lundi. Son impopularité croissante, combinée à des tensions au sein du parti travailliste, a affaibli sa position à la tête du gouvernement. Le ministre du commerce Peter Kyle a déclaré que le Premier ministre prenait le temps d'évaluer les défis et possibilités auxquels il fait face, un énoncé interprété comme un signal d'une réflexion sur son avenir politique. Cette situation s'est aggravée suite à une défaite électorale partielle, qui a renforcé la fronde au sein de ses propres rangs. Les médias britanniques spéculent activement sur un départ imminent du locataire du 10, Downing Street.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "La Fédération des usagers des transports dénonce l'absence de renouvellement du matériel ferroviaire depuis des décennies comme cause majeure des défaillances actuelles.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-la-federation-nationale-des-associations-d-usagers-des-transports-denonce-une-situation-incontrolable-dans-les-trains_8072693.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "Met l'accent sur les consultations menées par Starmer face aux rumeurs et note la position de Donald Trump qui anticipe une démission.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/21/keir-starmer-en-butte-a-des-rumeurs-de-demission-au-royaume-uni-multiplie-les-consultations_6706118_3210.html"
         },
         {
-          "outlet": "Libération",
-          "take": "La vague de chaleur paralyse l'éducation nationale avec la fermeture généralisée d'établissements et le report de dizaines d'épreuves du baccalauréat.",
-          "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-49-departements-en-vigilance-rouge-ce-lundi-des-centaines-decoles-fermees-20260622_2Q6QO37QOBHL5EVOJJYZYBKHJI/"
+          "outlet": "Courrier International",
+          "take": "Souligne l'emballement de la presse britannique autour d'une démission imminente et la fronde interne au parti travailliste.",
+          "url": "https://www.courrierinternational.com/article/royaume-uni-vers-la-demission-de-keir-starmer-lundi-la-presse-britannique-en-alerte_245481"
         },
         {
           "outlet": "20 Minutes",
-          "take": "L'étendue de la vigilance rouge atteint des niveaux inédits, avec des mesures de confinement incitant les Parisiens au télétravail.",
-          "url": "https://www.20minutes.fr/planete/canicule/4230438-20260622-direct-canicule-vigilance-rouge-etend-comme-jamais-centaines-ecoles-fermees?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Le gouvernement active une cellule interministérielle de crise tandis que les perturbations frappent simultanément l'éducation, les transports et le trafic routier.",
-          "url": "https://www.lemonde.fr/planete/live/2026/06/22/en-direct-canicule-une-nouvelle-cellule-interministerielle-de-crise-prevue-lundi-alors-que-les-temperatures-pourraient-depasser-40-c-dans-l-ouest_6704498_3244.html"
+          "take": "Insiste sur le caractère « intenable » de la situation et la critique même au sein du propre camp politique du Premier ministre.",
+          "url": "https://www.20minutes.fr/monde/4230298-20260621-royaume-uni-pressurise-premier-ministre-starmer-reflechit-realites-politiques?at_medium=display&at_campaign=149"
         }
       ],
       "id": 6,
       "priority": 7
     },
     {
-      "theme": "International",
-      "title": "Keir Starmer face à des rumeurs de démission",
-      "brief": "Le Premier ministre britannique, confronté à une impopularité croissante, consulte largement ses alliés.",
-      "summary": "Keir Starmer, premier ministre britannique, fait face à des rumeurs persistantes de démission. Miné par son impopularité et critiqué au sein de son propre parti travailliste, il multiplie les consultations politiques. Plusieurs sources évoquent une possible démission dans les jours à venir, tandis que le roi Charles annonce publier sa déclaration d'impôts dans un effort de modernisation.",
-      "full": "Le Premier ministre britannique Keir Starmer connaît une période politique difficile, marquée par des appels à la démission au sein de son propre camp. Le ministre du commerce Peter Kyle a déclaré dimanche que le chef du gouvernement « prenait le temps de réfléchir aux réalités politiques, aux défis et aux possibilités auxquels il est confronté ». Cette situation intervient après la victoire d'Andy Burnham, figure dissidente du parti travailliste, lors d'une élection partielle qui a affaibli la position de Starmer. Donald Trump a déjà considéré une démission comme acquise, souhaitant au dirigeant britannique « le meilleur ». Parallèlement, le roi Charles III annoncera prochainement la publication de sa déclaration fiscale, une première pour un monarque britannique, dans le cadre d'un effort de modernisation.",
+      "theme": "Sport",
+      "title": "Coupe du monde 2026 : résultats contrastés en groupe G",
+      "brief": "La Belgique fait du surplace avec un nul contre l'Iran, tandis que l'Espagne se relance spectaculairement.",
+      "summary": "En Coupe du monde 2026, la Belgique a concédé un match nul contre l'Iran (dimanche à Los Angeles) malgré une supériorité numérique en seconde période, compliquant sa qualification. De son côté, l'Espagne a largement dominé l'Arabie saoudite (4-0) pour se rapprocher des seizièmes de finale après un démarrage difficile.",
+      "full": "Dimanche, les matchs du groupe G de la Coupe du monde 2026 ont produit des scénarios contrastés. La Belgique, déjà entravée par un précédent nul contre l'Égypte, n'a pu venir à bout d'une équipe iranienne compacte malgré une réduction à dix adversaires en deuxième période. Le gardien iranien Alireza Beiranvand s'est montré décisif face aux Diables Rouges. La qualification belge reste suspendue à la dernière journée du groupe. À l'inverse, l'Espagne a surclassé l'Arabie saoudite avec un score sans appel de 4-0, consolidant sa position dans le tournoi. Le retour de Lamine Yamal dans l'équipe de départ a contribué à cette démonstration offensive réussie, permettant aux Espagnols de se relancer après un revers initial face au Cap-Vert.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Les déclarations du ministre du commerce suggèrent que Starmer réfléchit sérieusement aux enjeux politiques auxquels il fait face.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/21/keir-starmer-en-butte-a-des-rumeurs-de-demission-au-royaume-uni-multiplie-les-consultations_6706118_3210.html"
+          "outlet": "France 24",
+          "take": "Souligne la situation critique de la Belgique, réduite à dix et incapable de percer une défense iranienne solide.",
+          "url": "https://www.france24.com/fr/sports/20260621-coupe-du-monde-belgique-mauvaise-posture-nul-iran-resume"
         },
         {
-          "outlet": "Libération",
-          "take": "Le roi Charles rompt avec la tradition en rendant public le montant de ses impôts, marquant une évolution vers la transparence royale.",
-          "url": "https://www.liberation.fr/international/europe/royaume-uni-le-roi-charles-va-publier-sa-feuille-dimpots-pour-lannee-2024-et-2025-20260621_VZYSVQAYB5HUPMBJWEHVX7ESOQ/"
+          "outlet": "France Info",
+          "take": "Met l'accent sur la réaction convaincante de l'Espagne, consolide par le retour et l'efficacité offensifs.",
+          "url": "https://www.franceinfo.fr/coupe-du-monde/l-espagne-se-rassure-en-ecrasant-l-arabie-saoudite-et-se-rapproche-des-seiziemes-de-finale-de-la-coupe-du-monde-2026_8072918.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "20 Minutes",
-          "take": "La pression politique s'intensifie autour de Starmer, avec des critiques provenant également de son propre parti travailliste.",
-          "url": "https://www.20minutes.fr/monde/4230298-20260621-royaume-uni-pressurise-premier-ministre-starmer-reflechit-realites-politiques?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "La victoire d'Andy Burnham à l'élection partielle a particulièrement endommagé l'autorité du Premier ministre au sein de sa formation politique.",
-          "url": "https://www.courrierinternational.com/article/royaume-uni-vers-la-demission-de-keir-starmer-lundi-la-presse-britannique-en-alerte_245481"
+          "take": "Relève le passage à l'acte offensif de Lamine Yamal, marquant son premier but en Coupe du monde.",
+          "url": "https://www.20minutes.fr/sport/football/4230285-20260621-direct-espagne-arabie-saoudite-roja-doit-reprendre-toute-urgence-lamine-yamal-enfin-titulaire?at_medium=display&at_campaign=149"
         }
       ],
       "id": 7,
       "priority": 8
     },
     {
-      "theme": "Sport",
-      "title": "Coupe du monde 2026 : le Cap-Vert surprend l'Uruguay",
-      "brief": "Le Cap-Vert a obtenu un match nul face à l'Uruguay (2-2) dimanche à Miami, confirmant son émergence dans cette Coupe du monde.",
-      "summary": "Lors de son deuxième match du Mondial 2026, le Cap-Vert a tenu tête à l'Uruguay en inscrivant ses premiers buts dans une Coupe du monde. Cette performance face à une équipe de prestige marque un exploit pour la petite nation insulaire. Le Cap-Vert reste en lice pour les 16es de finale s'il remporte son prochain match face à l'Arabie saoudite.",
-      "full": "Le Cap-Vert a signé un résultat remarquable en arrachant un nul (2-2) contre l'Uruguay, dimanche lors de la deuxième journée du groupe H du Mondial 2026 à Miami. Cette rencontre a permis aux Requins Bleus d'inscrire pour la première fois de leur histoire des buts dans une Coupe du monde, confirmant une progression notable depuis leur premier match. L'Uruguay, longtemps dominant, n'a pu dominer une équipe déterminée et compétitive. Avec quatre points en deux rencontres, le Cap-Vert se trouve en position de disputer les 16es de finale si l'équipe remporte sa prochaine rencontre vendredi contre l'Arabie saoudite. Ce parcours d'une jeune sélection représente un moment historique pour le petit archipel de l'Atlantique, dont les supporters ont célébré cet exploit avec une émotion palpable.",
+      "theme": "Climat",
+      "title": "Une canicule exceptionnelle paralyse la France",
+      "brief": "Une vague de chaleur intense traverse l'Hexagone, forçant la fermeture de centaines d'établissements scolaires.",
+      "summary": "La France connaît une canicule d'ampleur rare ce lundi 22 juin, avec un niveau de vigilance rouge s'étendant sur de nombreux départements. Les écoles, collèges et lycées ferment massivement, tandis que certaines épreuves du baccalauréat sont reportées. Les transports et la vie quotidienne connaissent d'importantes perturbations.",
+      "full": "Une vague de chaleur exceptionnelle frappe la quasi-totalité du territoire français ce lundi 22 juin. Le niveau de vigilance rouge, le plus élevé, s'étend sur un nombre sans précédent de départements, tandis que des centaines d'établissements scolaires décident de fermer leurs portes. Cette fermeture massive s'accompagne d'annulations ou de reports d'épreuves du baccalauréat, perturbant ainsi le calendrier des examens. Les réseaux de transport subissent également des impacts, avec des dysfonctionnements signalés dans plusieurs régions. Face à cette situation, certaines collectivités, dont Paris, recommandent aux salariés le télétravail pour réduire la charge sur les services essentiels.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "Le Cap-Vert a inscrit ses premiers buts en Coupe du monde en tenant en échec une Uruguay peu convaincante, dans un groupe où tout reste ouvert.",
-          "url": "https://www.france24.com/fr/sports/20260622-mondial-2026-nouvel-exploit-cap-vert-nul-uruguay"
-        },
-        {
           "outlet": "Libération",
-          "take": "Le Cap-Vert a fourni une prestation de grande qualité et peut envisager une qualification en 16es de finale s'il bat l'Arabie saoudite, générant une joie intense parmi ses supporters.",
-          "url": "https://www.liberation.fr/sports/football/je-vais-mettre-dix-ans-a-men-remettre-limmense-emotion-des-supporters-du-cap-vert-apres-un-nouvel-exploit-face-a-luruguay-20260622_EPHGJFKD2VDURHX3NVBLMAMHPE/"
+          "take": "Souligne la couverture généralisée de la canicule sur l'ensemble du territoire et ses répercussions directes sur le système scolaire et les examens.",
+          "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-49-departements-en-vigilance-rouge-ce-lundi-des-centaines-decoles-fermees-20260622_2Q6QO37QOBHL5EVOJJYZYBKHJI/"
         },
         {
           "outlet": "20 Minutes",
-          "take": "Cette nuit de Coupe du monde a aussi été marquée par une première victoire historique de l'Égypte et une performance remarquable du gardien iranien.",
-          "url": "https://www.20minutes.fr/sport/football/4230461-20260622-coupe-monde-2026-premiere-historique-pharaons-salah-nouvel-exploit-cap-vert-recap-nuit?at_medium=display&at_campaign=149"
+          "take": "Insiste sur le caractère inédit de l'extension de la vigilance rouge et met l'accent sur les mesures d'adaptation prises par les autorités urbaines.",
+          "url": "https://www.20minutes.fr/planete/canicule/4230438-20260622-direct-canicule-vigilance-rouge-etend-comme-jamais-centaines-ecoles-fermees?at_medium=display&at_campaign=149"
         }
       ],
       "id": 8,
@@ -294,24 +264,19 @@
     },
     {
       "theme": "Politique",
-      "title": "Canicule : les politiques peinent à adapter leurs réponses",
-      "brief": "Une nouvelle vague de chaleur relance le débat sur l'adaptation climatique, mettant en lumière l'impréparation politique.",
-      "summary": "Alors qu'une canicule exceptionnelle affecte la France, les responsables politiques et candidats à la présidentielle 2027 multiplient les propositions ponctuelles, des climatiseurs aux congés climatiques, sans véritables stratégies d'adaptation à long terme. Les politiques publiques restent freinées par le court-termisme et les priorités électorales, l'adaptation au réchauffement climatique demeurant un angle mort du débat.",
-      "full": "Une sévère vague de chaleur traverse actuellement le territoire français, relançant les questionnements sur la capacité des gouvernants à répondre aux enjeux climatiques. Responsables politiques et candidats proposent des mesures ponctuelles face à cette crise : climatiseurs, congés climatiques ou équipements d'urgence. Cependant, ces réactions révèlent une préparation insuffisante face aux phénomènes extrêmes qui se multiplient. À un an de l'élection présidentielle, l'adaptation au changement climatique reste largement absente des priorités affichées par les principaux acteurs politiques. Les analystes s'accordent à constater que le réchauffement climatique peine à s'imposer durablement dans le débat public, tandis que les politiques publiques se concentrent davantage sur les urgences immédiates que sur des transformations structurelles durables.",
+      "title": "Adaptation climatique absente du débat présidentiel 2027",
+      "brief": "Alors qu'une canicule frappe la France, les enjeux d'adaptation au réchauffement restent marginalisés dans la campagne électorale.",
+      "summary": "Une sévère vague de chaleur affecte le quotidien des Français à un an de l'élection présidentielle. L'adaptation au changement climatique demeure insuffisamment intégrée aux priorités politiques et au débat des candidats. Les politiques publiques restent limitées par des logiques court-termistes et électorales.",
+      "full": "Tandis que la France traverse une nouvelle canicule d'ampleur exceptionnelle, les observateurs constatent que l'adaptation aux impacts du réchauffement climatique reste largement absente des débats politiques à l'approche de la présidentielle de 2027. Bien que des efforts aient été consentis par les gouvernements successifs, les politiques publiques demeurent freinées par le court-termisme et les enjeux électoraux immédiats. Les crises climatiques répétées ne parviennent pas à s'imposer durablement dans le débat public, malgré leurs effets visibles sur la vie quotidienne des citoyens. Les responsables politiques apparaissent régulièrement surpris par l'intensité des phénomènes météorologiques extrêmes. Cette situation révèle un décalage entre l'urgence des défis climatiques et la préparation institutionnelle des candidats aux élections à venir.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "Met en avant les initiatives gouvernementales et les débats soulevés par le climatiseur et les congés climatiques, ainsi que les déplacements diplomatiques de Macron sur le sujet.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260621-climatiseurs-cong%C3%A9s-climatiques-la-canicule-relance-le-d%C3%A9bat-chez-les-politiques"
-        },
-        {
           "outlet": "Le Monde",
-          "take": "Souligne que les candidats à la présidentielle 2027 ignorent largement l'adaptation au changement climatique malgré les impacts visibles de la canicule.",
+          "take": "Souligne que l'adaptation au changement climatique constitue un point aveugle des politiques et des prétendants à l'Élysée.",
           "url": "https://www.lemonde.fr/planete/article/2026/06/22/canicule-a-un-an-de-la-presidentielle-les-politiques-en-plein-deni-des-enjeux-de-l-adaptation-au-rechauffement_6706433_3244.html"
         },
         {
           "outlet": "France Info",
-          "take": "Pointe le court-termisme et les calculs électoraux comme obstacles à des politiques climatiques véritablement ambitieuses et durables.",
+          "take": "Met l'accent sur le décalage entre les impacts concrets et les réponses politiques, freinées par des logiques électorales.",
           "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-face-a-la-canicule-les-responsables-politiques-semblent-toujours-pris-de-court_8049629.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
@@ -320,51 +285,41 @@
     },
     {
       "theme": "International",
-      "title": "Ukraine: stalemate militaire et recrutement étranger s'intensifient",
-      "brief": "Plus de quatre ans après son début, la guerre en Ukraine persiste sans perspective de règlement, tandis que Kiev recrute massivement des combattants étrangers.",
-      "summary": "Le conflit ukrainien entre dans sa cinquième année sans signes d'une solution diplomatique, la Russie intensifiant ses opérations militaires. Face aux besoins en effectifs, l'Ukraine augmente le recrutement de combattants étrangers, notamment latino-américains. Des mesures de gestion des ressources affectent également les territoires occupés, comme la Crimée.",
-      "full": "Après plus de quatre années de conflit, la guerre en Ukraine demeure dans une impasse. Selon l'ambassadeur de France à Kiev, la Russie ne manifeste aucune volonté de négociations sérieuses, tandis que le pays poursuit des campagnes de frappes particulièrement intensives. Face à ce blocus diplomatique, l'Ukraine intensifie son effort militaire en recrutant des combattants étrangers, notamment via le bataillon Bolivar qui attire des volontaires d'Amérique latine (Chili, Colombie, Brésil, Venezuela). Kiev envisage de porter à 30 à 50 % la proportion d'étrangers dans ses unités d'infanterie d'assaut, reflétant des pénuries d'effectifs. Sur le terrain, les autorités occupantes en Crimée ont suspendu la vente civile de carburant, limitant l'approvisionnement aux services publics.",
+      "title": "Moscou ferme ses aéroports après une attaque de drones",
+      "brief": "Les quatre aéroports de la capitale russe ont été fermés brièvement lundi, lors d'une opération ukrainienne massive.",
+      "summary": "Les aéroports de Moscou ont connu une fermeture temporaire lundi 22 juin en raison d'une attaque de drones ukrainiens. Selon les autorités russes, la défense anti-aérienne aurait abattu 59 drones dirigés vers la ville. Cette attaque s'inscrit dans le contexte du conflit russo-ukrainien en cours.",
+      "full": "Lundi 22 juin, les quatre aéroports de Moscou ont été fermés provisoirement après une opération ukrainienne menée par essaims de drones. Le maire de la capitale russe, Sergueï Sobianine, a annoncé dans une série de messages que les défenses anti-aériennes avaient neutralisé 59 drones en direction de la ville. Cette attaque représente une nouvelle escalade des opérations menées par l'Ukraine contre le territoire russe. Parallèlement, un cargo a également pris feu en mer Noire suite à une attaque russe, élargissant le champ des opérations militaires au-delà du territoire continental. Ces incidents illustrent l'intensification des frappes croisées entre les deux belligérants depuis le début du conflit.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "L'ambassadeur français souligne l'absence de volonté russe de dialogue et note le soutien inattendu de Donald Trump à l'Ukraine lors du G7.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260621-ga%C3%ABl-veyssi%C3%A8re-la-russie-ne-montre-aucune-volont%C3%A9-de-dialogue-s%C3%A9rieux-sur-l-ukraine"
-        },
-        {
           "outlet": "Le Monde",
-          "take": "Le recrutement croissant de mercenaires latino-américains répond à une stratégie officielle visant à combler les déficits d'infanterie avec des étrangers.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/22/les-bolivar-ces-mercenaires-latino-americains-venus-combattre-la-russie-en-ukraine_6706504_3210.html"
+          "take": "Les autorités russes rapportent l'interception de 59 drones ukrainiens par les défenses anti-aériennes lors d'une attaque en direction de Moscou.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/22/en-direct-guerre-en-ukraine-les-quatre-aeroports-de-moscou-brievement-fermes-la-russie-a-dit-avoir-abattu-plusieurs-dizaines-de-drones-ukrainiens_6706390_3210.html"
         },
         {
           "outlet": "20 Minutes",
-          "take": "Les autorités de Crimée suspendent la distribution de carburant à la population civile, la réservant aux services publics.",
-          "url": "https://www.20minutes.fr/monde/ukraine/4230289-20260621-guerre-ukraine-vente-carburant-suspendue-crimee-annexee?at_medium=display&at_campaign=149"
+          "take": "La fermeture des aéroports moscovites coïncide avec une attaque russe contre un navire-cargo en feu en mer Noire.",
+          "url": "https://www.20minutes.fr/monde/ukraine/4230436-20260622-direct-guerre-ukraine-aeroports-moscou-brievement-fermes-raison-vagues-drones?at_medium=display&at_campaign=149"
         }
       ],
       "id": 10,
       "priority": 11
     },
     {
-      "theme": "Politique",
-      "title": "Rapport sur l'affaire Lyhanna : dysfonctionnements confirmés",
-      "brief": "Un rapport administratif rendu public lundi documente des manquements dans le traitement d'une plainte pour viols.",
-      "summary": "Les inspections générales de la gendarmerie et de la justice confirment des dysfonctionnements et des erreurs individuelles dans le traitement d'une plainte pour viols sur mineur datant d'août 2025. Le rapport, remis lundi 22 juin 2026, met en avant le manque de moyens mais soulève aussi des questions sur la crédibilité accordée à la parole de l'enfant. La question des sanctions envisagées contre les magistrats impliqués demeure en suspens.",
-      "full": "Les inspections générales de la gendarmerie et de la justice ont confirmé l'existence de dysfonctionnements et d'erreurs individuelles dans le traitement d'une plainte pour viols sur mineur déposée en août 2025, selon un rapport remis lundi 22 juin 2026. Le document identifie notamment un manque de moyens comme facteur contributif. Au-delà des lacunes matérielles, une pédopsychiatre toulousaine alerte sur la sous-estimation systématique de la parole de l'enfant, estimant que seuls 2 à 6 % des allégations d'enfants s'avèrent mensongères, et lie cette défiance à l'héritage de l'affaire d'Outreau. Concernant les suites judiciaires, le garde des Sceaux Gérald Darmanin disposera du dernier mot sur les sanctions à l'encontre des magistrats du parquet, tout en s'alignant généralement sur l'avis du Conseil supérieur de la magistrature.",
+      "theme": "Climat",
+      "title": "La France face à une canicule record, 90 % de la population affectée",
+      "brief": "Quarante-neuf départements sont placés en vigilance rouge canicule lundi, avec des températures atteignant 43 °C.",
+      "summary": "Une intensification de la vague de chaleur place 49 départements français en vigilance rouge canicule lundi, concernant 35 millions de Français. Quarante autres départements sont en vigilance orange, soit au total 90 % de la population exposée à des chaleurs exceptionnelles. Cette situation entraîne la fermeture ou la réorganisation de près de 2 000 établissements scolaires.",
+      "full": "La canicule qui frappe la France depuis une semaine s'aggrave lundi avec l'activation de la vigilance rouge dans 49 départements, touchant 35 millions de Français selon Météo France. Simultanément, 40 départements supplémentaires sont placés en vigilance orange, portant à 90 % la proportion de la population française exposée à des chaleurs exceptionnelles. Les températures les plus extrêmes, jusqu'à 43 °C, devraient affecter principalement la façade ouest du pays. Cette situation d'urgence pousse les autorités à fermer ou réorganiser près de 2 000 établissements scolaires pour protéger les enfants face aux conditions météorologiques dangereuses.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Une pédopsychiatre souligne que le mythe de l'enfant menteur perdure depuis l'affaire d'Outreau, alors que les fausses allégations représentent une infime part des signalements.",
-          "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/interview-affaire-lyhanna-2-a-6-de-fausses-allegations-seulement-l-alerte-de-la-pedopsychiatre-eugenie-izard-sur-le-mythe-de-l-enfant-menteur-3371092.html#xtor=RSS-3-[lestitres]"
+          "outlet": "France 24",
+          "take": "Souligne l'amplification progressive de la canicule sur une semaine et ses conséquences directes sur le fonctionnement des écoles.",
+          "url": "https://www.france24.com/fr/france/20260622-france-canicule-vigilance-rouge"
         },
         {
-          "outlet": "Libération",
-          "take": "Le garde des Sceaux devrait décider des sanctions contre les magistrats impliqués, en se conformant habituellement à l'avis du Conseil supérieur de la magistrature.",
-          "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-comment-fonctionnent-les-sanctions-contre-les-magistrats-en-cas-de-manquements-20260621_KPKZIG4CTJFPHGLBBPN75EOODU/"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Les inspections confirment des défaillances administratives et des erreurs de traitement lors de l'examen de la plainte initiale.",
-          "url": "https://www.20minutes.fr/justice/4230286-20260621-affaire-lyhanna-confirmation-dysfonctionnements-erreurs-individuelles?at_medium=display&at_campaign=149"
+          "outlet": "Le Monde",
+          "take": "Met l'accent sur les records de température attendus à l'ouest et la proportion exceptionnelle de la population française exposée à des chaleurs extrêmes.",
+          "url": "https://www.lemonde.fr/planete/article/2026/06/22/canicule-49-departements-et-35-millions-de-francais-concernes-par-la-vigilance-rouge-lundi_6706357_3244.html"
         }
       ],
       "id": 11,
