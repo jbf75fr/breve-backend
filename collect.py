@@ -49,8 +49,9 @@ class Article:
     summary: str
     published: dt.datetime | None
 
-    # tokens normalisés du titre, calculés une fois (pour la similarité)
+    # tokens normalisés (titre + résumé) et termes saillants, calculés une fois
     _tokens: set[str] = field(default_factory=set, repr=False)
+    _salient: set[str] = field(default_factory=set, repr=False)
 
 
 @dataclass
@@ -89,20 +90,51 @@ def _strip_accents(s: str) -> str:
     return "".join(c for c in unicodedata.normalize("NFD", s)
                    if unicodedata.category(c) != "Mn")
 
-def tokenize(title: str) -> set[str]:
-    t = _strip_accents(title.lower())
+def tokenize(text: str) -> set[str]:
+    t = _strip_accents(text.lower())
     words = re.findall(r"[a-z0-9]+", t)
     return {w for w in words if len(w) > 2 and w not in _STOP}
 
+# Mots très courants dans l'actualité : présents partout, peu distinctifs.
+# On les ignore pour le repérage des "noms propres / termes saillants".
+_COMMON = {
+    "apres","avant","contre","face","cette","leur","leurs","mais","plus",
+    "tout","tous","toute","fait","faire","etre","avoir","ans","pres","lors",
+    "alors","selon","entre","depuis","jusqu","encore","aussi","ainsi","deux",
+    "trois","premier","premiere","nouveau","nouvelle","grande","grand",
+    "milliers","millions","journee","jour","matin","soir","semaine",
+    "annonce","annoncee","direct","video","images","live","article",
+}
+
+def salient_tokens(title: str) -> set[str]:
+    """
+    Termes saillants d'un titre : noms propres et mots rares qui identifient
+    le sujet (ex. « Colombie », « Espriella », « Ormuz », « Moscou »).
+    On repère les mots commençant par une majuscule dans le titre original,
+    plus les mots longs peu communs. C'est ce qui permet de reconnaître que
+    deux titres très différents parlent du même événement.
+    """
+    sal = set()
+    # mots capitalisés dans le titre d'origine (noms propres)
+    for w in re.findall(r"\b[A-ZÀ-Ÿ][\wÀ-ÿ’'-]{2,}", title):
+        norm = _strip_accents(w.lower())
+        norm = re.sub(r"[^a-z0-9]", "", norm)
+        if len(norm) > 2 and norm not in _STOP and norm not in _COMMON:
+            sal.add(norm)
+    # mots longs et distinctifs (chiffres-clés, termes rares)
+    for w in tokenize(title):
+        if len(w) >= 6 and w not in _COMMON:
+            sal.add(w)
+    return sal
+
 def similar(a: Article, b: Article) -> float:
     """
-    Similarité entre deux titres, combinant trois signaux :
-      - Jaccard sur les mots significatifs (robuste aux reformulations),
-      - ratio de séquence (capte les titres quasi identiques),
-      - bonus de recouvrement : part des mots du titre le plus court qui
-        se retrouvent dans l'autre (capte "même sujet, titre plus long").
-    Le bonus de recouvrement permet de regrouper trois dépêches sur la
-    canicule alors qu'elles n'emploient pas exactement les mêmes mots.
+    Similarité entre deux articles, combinant :
+      - Jaccard sur les mots significatifs (titre + résumé),
+      - bonus de recouvrement (part des mots du plus court présents dans l'autre),
+      - ratio de séquence sur les titres (titres quasi identiques),
+      - un FORT bonus si les articles partagent des termes saillants (noms
+        propres) : c'est le signal décisif pour le même événement.
     """
     if not (a._tokens and b._tokens):
         return 0.0
@@ -111,7 +143,16 @@ def similar(a: Article, b: Article) -> float:
     jaccard = inter / union
     overlap = inter / (min(len(a._tokens), len(b._tokens)) or 1)
     seq = SequenceMatcher(None, a.title.lower(), b.title.lower()).ratio()
-    return 0.45 * jaccard + 0.40 * overlap + 0.15 * seq
+
+    base = 0.40 * jaccard + 0.35 * overlap + 0.10 * seq
+
+    # bonus noms propres partagés
+    shared_sal = a._salient & b._salient
+    if len(shared_sal) >= 2:
+        base += 0.45            # deux noms propres communs : très probablement le même sujet
+    elif len(shared_sal) == 1:
+        base += 0.18
+    return min(base, 1.0)
 
 
 # --------------------------------------------------------------------------- #
@@ -152,7 +193,8 @@ def fetch_feed(name: str, url: str, theme: str) -> list[Article]:
             summary=_clean_html(getattr(e, "summary", ""))[:600],
             published=_parse_date(e),
         )
-        art._tokens = tokenize(title)
+        art._tokens = tokenize(title + " " + art.summary)
+        art._salient = salient_tokens(title)
         out.append(art)
     return out
 
@@ -183,26 +225,64 @@ def filter_fresh(articles: list[Article], hours: int = FRESHNESS_HOURS) -> list[
     return fresh
 
 
+def _base_outlet(name: str) -> str:
+    """
+    Ramène « Le Monde Politique », « Le Monde Économie », « France Info Sport »…
+    à leur média de base (« Le Monde », « France Info »). Sert à n'avoir qu'un
+    seul angle par média réel dans une brève.
+    """
+    bases = ["Le Monde", "France Info", "France 24", "Libération",
+             "Les Échos", "20 Minutes", "Courrier International",
+             "Sciences et Avenir", "L'Équipe", "Numerama", "Reporterre"]
+    for b in bases:
+        if name.startswith(b):
+            return b
+    return name
+
+def _dedup_articles(arts: list[Article]) -> list[Article]:
+    """
+    Au sein d'un dossier : retire les articles identiques (même lien) et ne
+    garde qu'UN article par média de base (le plus riche en contenu). Évite
+    les angles répétés et les « identique à la source précédente ».
+    """
+    by_link = {}
+    for a in arts:
+        # même lien = même article : on garde le plus informatif
+        key = a.link
+        if key not in by_link or len(a.summary) > len(by_link[key].summary):
+            by_link[key] = a
+    # puis un seul par média de base
+    by_outlet = {}
+    for a in by_link.values():
+        b = _base_outlet(a.outlet)
+        if b not in by_outlet or len(a.summary) > len(by_outlet[b].summary):
+            by_outlet[b] = a
+    # on renomme proprement chaque article avec son média de base
+    out = []
+    for a in by_outlet.values():
+        a.outlet = _base_outlet(a.outlet)
+        out.append(a)
+    return out
+
+
 def group_by_topic(articles: list[Article],
                    threshold: float = SIM_THRESHOLD) -> list[Dossier]:
     """
-    Regroupe les articles par sujet via similarité de titres (clustering glouton).
-    Un article rejoint un groupe si sa similarité MOYENNE avec les membres du
-    groupe dépasse le seuil, OU s'il partage au moins deux mots distinctifs
-    avec un membre (recouvrement fort). Comparer à la moyenne évite les
-    "chaînes" trop laxistes tout en regroupant les reformulations d'un sujet.
+    Regroupe les articles par sujet via similarité (titre + résumé + noms
+    propres). Un article rejoint un groupe si sa similarité avec le groupe
+    dépasse le seuil. Chaque dossier est ensuite dédupliqué pour n'avoir
+    qu'un seul angle par média réel.
     """
     dossiers: list[list[Article]] = []
     for art in articles:
         best_grp, best_score = None, 0.0
         for grp in dossiers:
-            scores = [similar(art, other) for other in grp]
-            avg = sum(scores) / len(scores)
-            mx = max(scores)
-            # un fort recouvrement ponctuel suffit (même sujet, titres variés)
-            score = max(avg, mx * 0.85)
-            if score > best_score:
-                best_score, best_grp = score, grp
+            # on retient la MEILLEURE correspondance avec un membre du groupe :
+            # deux articles du même sujet doivent se trouver même si le groupe
+            # contient déjà d'autres articles moins proches.
+            mx = max(similar(art, other) for other in grp)
+            if mx > best_score:
+                best_score, best_grp = mx, grp
         if best_grp is not None and best_score >= threshold:
             best_grp.append(art)
         else:
@@ -212,7 +292,8 @@ def group_by_topic(articles: list[Article],
     for grp in dossiers:
         themes = [a.theme for a in grp if a.theme != "Général"]
         theme = max(set(themes), key=themes.count) if themes else grp[0].theme
-        result.append(Dossier(theme=theme, articles=grp))
+        deduped = _dedup_articles(grp)
+        result.append(Dossier(theme=theme, articles=deduped))
     return result
 
 

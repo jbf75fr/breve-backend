@@ -47,7 +47,8 @@ Règles impératives :
 - La thématique doit être choisie STRICTEMENT dans cette liste :
   {', '.join(THEMES_BREVE)}.
 
-Tu réponds UNIQUEMENT avec un objet JSON valide, sans texte autour, de la forme :
+Tu réponds UNIQUEMENT avec un objet JSON valide, sans texte autour, et SANS
+aucun champ supplémentaire que ceux demandés, de la forme :
 {{
   "theme": "<une des thématiques autorisées>",
   "title": "<titre clair, ~10 mots>",
@@ -58,7 +59,9 @@ Tu réponds UNIQUEMENT avec un objet JSON valide, sans texte autour, de la forme
     {{"outlet": "<nom du média>", "take": "<ce que cette source met en avant, 1 phrase neutre>"}}
   ]
 }}
-L'ordre et le nombre des angles doit correspondre aux sources fournies."""
+Un SEUL angle par média (ne répète jamais deux fois le même média). Chaque
+« take » doit être distinct et informatif ; n'écris jamais « identique à la
+source précédente ». L'ordre des angles suit les sources fournies."""
 
 
 def _client():
@@ -107,15 +110,34 @@ def summarize_one(client, d: Dossier) -> dict | None:
     except json.JSONDecodeError:
         return None
 
-    # Réassocie les liens réels aux angles (par ordre, puis par nom de média)
-    links_by_outlet = {a.outlet: a.link for a in d.articles}
-    for ang in data.get("angles", []):
-        ang["url"] = links_by_outlet.get(ang.get("outlet", ""), d.lead.link)
-
     # Garde-fou thème : on impose une valeur autorisée
     if data.get("theme") not in THEMES_BREVE:
         data["theme"] = d.theme if d.theme in THEMES_BREVE else THEMES_BREVE[0]
-    return data
+
+    # Réassocie les liens réels aux angles et déduplique par média.
+    links_by_outlet = {a.outlet: a.link for a in d.articles}
+    seen_outlets = set()
+    clean_angles = []
+    for ang in data.get("angles", []):
+        outlet = (ang.get("outlet") or "").strip()
+        if not outlet or outlet in seen_outlets:
+            continue                       # évite les angles répétés du même média
+        seen_outlets.add(outlet)
+        clean_angles.append({
+            "outlet": outlet,
+            "take": (ang.get("take") or "").strip(),
+            "url": links_by_outlet.get(outlet, d.lead.link),
+        })
+
+    # On ne conserve QUE les champs attendus par l'app (supprime summary2 & co.)
+    return {
+        "theme": data["theme"],
+        "title": (data.get("title") or "").strip(),
+        "brief": (data.get("brief") or "").strip(),
+        "summary": (data.get("summary") or "").strip(),
+        "full": (data.get("full") or "").strip(),
+        "angles": clean_angles,
+    }
 
 
 def build_breves(dossiers: list[Dossier], limit: int = 20,
