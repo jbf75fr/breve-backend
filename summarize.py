@@ -39,6 +39,10 @@ rédiger UNE brève sobre, factuelle et neutre.
 
 Règles impératives :
 - Écris en français, vouvoiement, sans anglicismes inutiles.
+- N'utilise JAMAIS de tiret cadratin (—) ni de tiret demi-cadratin (–), ni
+  dans les titres ni dans les textes. Pour une incise, utilise la virgule, les
+  parenthèses ou le deux-points. Pour un intervalle, utilise « à » ou « et ».
+  Le seul tiret autorisé est le trait d'union simple (-) des mots composés.
 - Reste strictement factuel. Ne suppose JAMAIS l'opinion, l'intérêt personnel
   ou la situation du lecteur. Pas de « pourquoi ça vous concerne ».
 - Ne qualifie pas la ligne politique des médias.
@@ -94,6 +98,28 @@ def _dossier_to_prompt(d: Dossier) -> str:
     return "\n".join(lines)
 
 
+def _no_dash(text: str) -> str:
+    """
+    Filet de sécurité : retire tout tiret cadratin (—) ou demi-cadratin (–) que
+    l'IA aurait pu glisser malgré la consigne. On remplace par une ponctuation
+    française correcte selon le contexte :
+      - un tiret entouré d'espaces (incise) devient une virgule ;
+      - un tiret entre deux nombres/mots (intervalle, ex. 2024–2025) devient
+        un trait d'union simple.
+    """
+    if not text:
+        return text
+    import re
+    t = text
+    # Incise «  — » ou «  – » (espace avant/après) → virgule
+    t = re.sub(r"\s*[—–]\s+", ", ", t)
+    # Cas résiduel : tiret long collé (ex. intervalle 2024–2025) → trait d'union
+    t = t.replace("—", "-").replace("–", "-")
+    # Nettoyage d'éventuelles doubles virgules introduites
+    t = re.sub(r",\s*,", ",", t)
+    return t.strip()
+
+
 def summarize_one(client, d: Dossier) -> dict | None:
     """Appelle Claude pour un dossier et renvoie la brève (dict) ou None si échec."""
     msg = client.messages.create(
@@ -129,17 +155,17 @@ def summarize_one(client, d: Dossier) -> dict | None:
         seen_outlets.add(outlet)
         clean_angles.append({
             "outlet": outlet,
-            "take": (ang.get("take") or "").strip(),
+            "take": _no_dash((ang.get("take") or "").strip()),
             "url": links_by_outlet.get(outlet, d.lead.link),
         })
 
     # On ne conserve QUE les champs attendus par l'app (supprime summary2 & co.)
     return {
         "theme": data["theme"],
-        "title": (data.get("title") or "").strip(),
-        "brief": (data.get("brief") or "").strip(),
-        "summary": (data.get("summary") or "").strip(),
-        "full": (data.get("full") or "").strip(),
+        "title": _no_dash((data.get("title") or "").strip()),
+        "brief": _no_dash((data.get("brief") or "").strip()),
+        "summary": _no_dash((data.get("summary") or "").strip()),
+        "full": _no_dash((data.get("full") or "").strip()),
         "angles": clean_angles,
     }
 
