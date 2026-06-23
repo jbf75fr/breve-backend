@@ -1,60 +1,80 @@
 {
-  "generated_at": "2026-06-22T07:30:52.346565+00:00",
-  "date_label": "Lundi 22 juin",
-  "count": 12,
+  "generated_at": "2026-06-23T06:04:30.263753+00:00",
+  "date_label": "Mardi 23 juin",
+  "count": 28,
   "breves": [
     {
-      "theme": "International",
-      "title": "Iran et États-Unis progressent en Suisse sur le Liban et Ormuz",
-      "brief": "Téhéran et Washington conviennent de mécanismes pour cesser les affrontements au Liban et sécuriser le détroit d'Ormuz.",
-      "summary": "Les délégations américaine et iranienne ont marqué des avancées lors de leur première session de négociations en Suisse, dimanche et lundi. Les médiateurs pakistanais et qataris ont annoncé un accord sur une feuille de route visant un accord définitif dans les soixante jours. Une cellule de gestion des conflits a été créée spécifiquement pour le dossier libanais.",
-      "full": "Les négociations entre l'Iran et les États-Unis se sont ouvertes en Suisse dans un contexte régional tendu, marqué par les affrontements entre le Hezbollah et l'armée israélienne au Liban. À l'issue de la première séance, les deux délégations se sont entendues sur des mécanismes destinés à faire cesser ces affrontements et à sécuriser le détroit d'Ormuz, zone stratégique majeure. Les médiateurs pakistanais et qataris ont qualifié ces progrés d'« encourageants » et annoncé la mise en place d'une feuille de route pour parvenir à un accord global. Téhéran a décrit les avancées comme « majeures » sur le dossier libanais. L'objectif affiché est de conclure un accord définitif dans les deux mois, bien que le contexte politique reste marqué par des tensions extérieures.",
+      "theme": "Sport",
+      "title": "Coupe du monde 2026 : la France qualifiée, la Norvège assurée",
+      "brief": "La France s'impose face à l'Irak et valide son accès aux seizièmes de finale du Mondial 2026.",
+      "summary": "L'équipe de France a remporté sa rencontre contre l'Irak sur le score de 3-0 lundi en phase de poules de la Coupe du monde 2026, assurant ainsi sa qualification pour les seizièmes de finale. Le match disputé à Philadelphie a été interrompu pendant plus de deux heures en raison d'orages, s'étirant sur plus de trois heures au total. Kylian Mbappé, auteur d'un doublé, ainsi qu'Ousmane Dembélé et Michael Olise ont marqué les buts français.",
+      "full": "L'équipe de France a validé son accès aux seizièmes de finale de la Coupe du monde 2026 en disposant de l'Irak 3-0 lundi, en phase de poules du groupe I. Le match disputé à Philadelphie a été perturbé par les conditions météorologiques, avec des orages ayant provoqué une interruption de plus de deux heures et allongeant la rencontre à plus de trois heures. Kylian Mbappé a ouvert le score avec un doublé, complété par les réalisations d'Ousmane Dembélé et de Michael Olise. Cette victoire permet aux Bleus de prendre la tête du groupe avant leur dernier match contre la Norvège vendredi. Dans le même groupe, la Norvège s'est imposée face au Sénégal 3-2 et est assurée des seizièmes de finale, tandis que le Sénégal, sans point après deux journées, doit absolument réagir à la troisième journée pour espérer se qualifier.",
       "angles": [
         {
           "outlet": "France 24",
-          "take": "Souligne que les médiateurs pakistanais et qataris ont annoncé l'accord au terme de la première séance de négociations pour mettre fin à la guerre au Moyen-Orient.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260621-en-direct-iran-etats-unis-negociations-suisse-tensions-jd-vance-pakistan-nucleaire"
+          "take": "La Norvège est qualifiée et affrontera la France pour la première place du groupe, tandis que le Sénégal reste en péril avec zéro point.",
+          "url": "https://www.france24.com/fr/sports/20260623-norv%C3%A8ge-s%C3%A9n%C3%A9galn"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Un doublé de Mbappé et un but de Dembélé permettent à la France de prendre la première place avant le choc contre la Norvège.",
+          "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-les-bleus-qualifies-pour-les-16es-de-finale_8074895.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "Le Monde",
-          "take": "Précise que les délégations se sont mises d'accord sur une feuille de route avec un délai de soixante jours et que la cellule de gestion des conflits a été créée pour le Liban.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/22/en-direct-guerre-au-moyen-orient-l-iran-fait-etat-de-progres-encourageants-apres-la-premiere-seance-de-discussions-avec-les-etats-unis-en-suisse_6705272_3210.html"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "Rapporte que le camp iranien a qualifié les progrès de « majeurs » spécifiquement sur le dossier libanais.",
-          "url": "https://www.courrierinternational.com/article/geopolitique-progres-encourageants-apres-la-premiere-journee-de-negociations-entre-les-etats-unis-et-l-iran_245482"
+          "take": "Le match s'est distingué par des interruptions longues dues aux orages à Philadelphie, avec une durée totale dépassant trois heures.",
+          "url": "https://www.lemonde.fr/sport/article/2026/06/23/coupe-du-monde-2026-la-france-s-impose-face-a-l-irak-et-se-qualifie-pour-les-16-de-finale-au-terme-d-un-match-interrompu-par-l-orage_6708543_3242.html"
         },
         {
           "outlet": "Libération",
-          "take": "Contextualise les négociations dans un environnement tendu marqué par les nouvelles menaces de Donald Trump et les affrontements au Liban.",
-          "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-et-les-etats-unis-sentendent-sur-une-feuille-de-route-pour-un-accord-definitif-sous-60-jours-20260622_3GC3LEO2TZBJTK63DGLWU3225I/"
+          "take": "La victoire 3-0 avec un doublé de Mbappé assure la qualification française pour les seizièmes de finale.",
+          "url": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-les-bleus-au-seuil-de-leur-deuxieme-match-face-a-lirak-20260622_HFRID3H5NZBHFKSZ4H72TVZJ4E/"
+        },
+        {
+          "outlet": "Courrier International",
+          "take": "La France a eu besoin de près de quatre heures pour dominer l'Irak, le match étant retardé de plus de deux heures par les orages régionaux.",
+          "url": "https://www.courrierinternational.com/article/football-coupe-du-monde-la-france-portee-par-mbappe-faisant-pleuvoir-les-buts-domine-l-irak-et-se-qualifie-en-16es-de-finale_245545"
         }
       ],
       "id": 0,
       "priority": 1
     },
     {
-      "theme": "International",
-      "title": "L'Égypte remporte sa première victoire en Coupe du monde",
-      "brief": "L'Égypte s'impose face à la Nouvelle-Zélande (3-1) et enregistre son premier succès en Coupe du monde.",
-      "summary": "L'Égypte a remporté dimanche sa première victoire de l'histoire en Coupe du monde en renversant la Nouvelle-Zélande 3-1. Menée pendant une heure, la sélection égyptienne a finalement basculé le match et prend la tête du groupe G. Cette victoire rapproche l'équipe des seizièmes de finale.",
-      "full": "L'Égypte a décroché dimanche un succès historique en s'imposant 3-1 face à la Nouvelle-Zélande lors de la Coupe du monde 2026. Cette victoire revêt une importance particulière : il s'agit du premier succès égyptien dans un Mondial. Les coéquipiers de Mohamed Salah, menés au score depuis une heure, ont réussi à renverser la situation en deuxième mi-temps. Cette performance permet à l'Égypte de prendre la tête du groupe G et de se positionner favrablement pour accéder aux seizièmes de finale. La sélection égyptienne peut désormais envisager de progresser dans la compétition.",
+      "theme": "Politique",
+      "title": "Inspection révèle des dysfonctionnements dans l'affaire Lyhanna",
+      "brief": "Une mission d'inspection pointe des défaillances de la gendarmerie et du parquet d'Auch.",
+      "summary": "Le prérapport d'une mission d'inspection remis lundi au gouvernement souligne plusieurs dysfonctionnements dans le traitement d'une affaire antérieure visant Jérôme Barella, principal suspect dans la mort de Lyhanna. Les enquêteurs et le parquet d'Auch sont épinglés pour des erreurs et des retards. Des mesures disciplinaires ont déjà été annoncées par les ministres de l'Intérieur et de la Justice.",
+      "full": "La mission d'inspection générale de la gendarmerie et de la justice a livré lundi son prérapport sur les défaillances dans le traitement d'une plainte antérieure visant Jérôme Barella. Le document souligne une accumulation d'erreurs et de retards au sein du parquet d'Auch, ainsi que des carences dans les actes d'enquête menés par la gendarmerie de Lectoure. Au-delà des responsabilités individuelles identifiées, le rapport aborde également les questions de moyens insuffisants et de surcharge de travail affectant les acteurs de la chaîne pénale. Le garde des Sceaux a annoncé l'engagement d'une procédure disciplinaire contre un substitut du procureur pour défaillances graves. Des mutations et mesures disciplinaires ont d'ores et déjà été prises par les ministères de l'Intérieur et de la Justice suite aux premiers éléments du rapport.",
       "angles": [
         {
           "outlet": "France 24",
-          "take": "L'Égypte, partie de loin, réalise un exploit en convertissant son retard en victoire et se place en position de force pour les 16es de finale.",
-          "url": "https://www.france24.com/fr/sports/20260622-mondial-2026-egypte-premiere-victoire-nouvelle-zelande-salah-coupe-monde"
+          "take": "La mission d'inspection met en avant une série de dysfonctionnements systématiques chez les enquêteurs et le parquet.",
+          "url": "https://www.france24.com/fr/france/20260622-affaire-lyhanna-l-inspection-pointe-de-nombreux-dysfonctionnements"
         },
         {
           "outlet": "France Info",
-          "take": "Le revirement égyptien survient après plus d'une heure de domination néo-zélandaise, marquant un tournant dans le match.",
-          "url": "https://www.franceinfo.fr/coupe-du-monde/l-egypte-renverse-la-nouvelle-zelande-le-cap-vert-epate-face-a-l-uruguay-ce-qu-il-faut-retenir-des-matchs-de-la-nuit-a-la-coupe-du-monde_8073386.html#xtor=RSS-3-[lestitres]"
+          "take": "L'accent est mis sur les suites disciplinaires concrètes déjà engagées par les deux ministères compétents.",
+          "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-quelles-eventuelles-suites-disciplinaires-apres-les-conclusions-de-la-mission-d-inspection_8074127.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Le Monde",
-          "take": "Cette victoire intervient dans un contexte où d'autres sélections comme l'Espagne progressent également, avec des leaders comme Messi et Mbappé en avant-plan.",
-          "url": "https://www.lemonde.fr/sport/article/2026/06/22/coupe-du-monde-2026-l-espagne-se-libere-la-belgique-inquiete-le-cap-vert-surprend-ce-qu-il-faut-retenir-du-dimanche-21-juin_6706502_3242.html"
+          "take": "Le rapport souligne que les erreurs individuelles s'inscrivent dans un contexte de moyens et de ressources insuffisants pour la justice.",
+          "url": "https://www.lemonde.fr/societe/article/2026/06/22/mort-de-lyhanna-un-rapport-qui-pointe-des-responsabilites-individuelles-dans-un-systeme-judiciaire-manquant-de-moyens_6708168_3224.html"
+        },
+        {
+          "outlet": "Libération",
+          "take": "L'article insiste sur l'itinéraire des défaillances antérieures concernant le suspect Jérôme Barella avant l'affaire Lyhanna.",
+          "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-la-petite-rosa-a-dit-avoir-subi-une-cinquantaine-de-viols-par-jerome-barella-20260622_OB5ZZNTGNVGPBMTC6O6ZNQROLI/"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Darmanin annonce spécifiquement une enquête disciplinaire ciblant un substitut du parquet pour défaillances graves.",
+          "url": "https://www.20minutes.fr/justice/4230614-20260622-affaire-lyhanna-darmanin-annonce-enquete-sanctions-visant-substitut-procureur-auch?at_medium=display&at_campaign=149"
+        },
+        {
+          "outlet": "Courrier International",
+          "take": "Le prérapport expose des carences précises : manque d'actes d'enquête de la gendarmerie et prise en charge défaillante du parquet.",
+          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-affaire-lyhanna-les-incroyables-rates-de-la-justice-francaise_245536"
         }
       ],
       "id": 1,
@@ -62,35 +82,30 @@
     },
     {
       "theme": "International",
-      "title": "Colombie : élection d'un candidat de droite dure",
-      "brief": "Abelardo de la Espriella remporte l'élection présidentielle colombienne face au candidat de gauche.",
-      "summary": "L'homme d'affaires et avocat conservateur Abelardo de la Espriella a remporté dimanche le second tour de la présidentielle colombienne avec 49,7 % des voix, face au sénateur Ivan Cepeda qui en a obtenu 48,7 %. Ce novice en politique s'impose sur un programme de ligne dure contre la criminalité organisée. Le scrutin offrait aux électeurs colombiens un choix entre deux visions radicalement opposées de l'orientation politique et étrangère du pays.",
-      "full": "Le nouvel élu, âgé de 47 ans, prône une approche sécuritaire stricte face à la résurgence de la violence des groupes armés qui affecte la Colombie. Cet homme d'affaires défend une ligne politique qualifiée d'antisystème et se positionne en rupture avec la première présidence de gauche de l'histoire du pays, menée par Gustavo Petro. Son adversaire, Ivan Cepeda, était présenté comme le soutien du gouvernement sortant et défenseur des droits humains. La victoire électorale à dominante conservatrice intervient dans un contexte régional d'évolution politique observable dans plusieurs pays d'Amérique latine.",
+      "title": "L'Iran revendique le contrôle du détroit d'Ormuz",
+      "brief": "Téhéran affirme vouloir administrer le détroit stratégique après la fin du conflit moyen-oriental.",
+      "summary": "Le négociateur en chef iranien a déclaré mardi que l'Iran garderait le contrôle du détroit d'Ormuz à l'issue des négociations en cours avec Washington. Cette position intervient dans le contexte de pourparlers visant à mettre fin à la guerre au Moyen-Orient, au cours desquels les États-Unis ont annoncé une levée des sanctions sur le pétrole iranien. Téhéran estime avoir obtenu des « réussites » dans ces discussions.",
+      "full": "Mohammad Bagher Ghalibaf, négociateur iranien en chef, a réaffirmé mardi que Téhéran administrerait le détroit d'Ormuz après la fin du conflit régional. Cette déclaration survient alors que les pourparlers entre l'Iran et les États-Unis progressent, avec l'annonce d'une levée des sanctions pétrolières américaines. Le vice-président américain JD Vance a indiqué lundi que des « très bonnes bases » étaient posées en vue d'un accord final, précisant que le détroit reste ouvert, un point que les données de suivi maritime confirment. Selon Téhéran, l'Iran n'a pas négocié de questions nucléaires supplémentaires au cours de ces discussions. Les deux parties disposent de soixante jours pour finaliser un accord global.",
       "angles": [
         {
           "outlet": "France 24",
-          "take": "Un analyste de la Fondation Jean-Jaurès note que les résultats du gouvernement Petro sur la sécurité ont été limités.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260621-jean-jacques-kourliandsky-les-r%C3%A9sultats-de-gustavo-petro-sur-la-s%C3%A9curit%C3%A9-en-colombie-sont-minimes"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Abelardo de la Espriella, présenté comme proche des positions de Donald Trump, l'emporte d'une très courte majorité.",
-          "url": "https://www.franceinfo.fr/monde/ameriques/en-colombie-le-candidat-pro-trump-remporte-l-election-presidentielle_8073404.html#xtor=RSS-3-[lestitres]"
+          "take": "Met l'accent sur la fermeté de la position iranienne concernant le contrôle du détroit malgré les levées de sanctions annoncées.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260623-en-direct-iran-detroit-dormuz-etats-unis-petrole-sanctions-liban-israel"
         },
         {
           "outlet": "Le Monde",
-          "take": "Le nouveau président élu, novice en politique, entend appliquer une ligne dure face au crime organisé.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/22/colombie-abelardo-de-la-espriella-candidat-de-l-utradroite-soutenu-par-donald-trump-elu-president_6706155_3210.html"
+          "take": "Souligne que le négociateur iranien présente ces pourparlers comme des succès pour son pays.",
+          "url": "https://www.lemonde.fr/international/live/2026/06/23/en-direct-guerre-au-moyen-orient-l-iran-administrera-le-detroit-d-ormuz-a-l-issue-du-conflit-affirme-le-negociateur-iranien-qui-se-felicite-des-belles-reussites-obtenues-par-son-pays-dans-les-negociations_6705272_3210.html"
         },
         {
           "outlet": "Libération",
-          "take": "Les électeurs colombiens ont préféré un avocat antisystème à l'allié du premier gouvernement progressiste du pays.",
-          "url": "https://www.liberation.fr/international/amerique/avec-abelardo-de-la-espriella-la-colombie-elit-a-son-tour-un-president-dextreme-droite-pro-trump-20260622_6ZHYS3WDR5HPXC7C2JYJKVCZ4E/"
+          "take": "Relève que Téhéran précise n'avoir fait aucune concession sur les questions nucléaires et qu'aucun engagement supplémentaire n'a été pris.",
+          "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-et-les-etats-unis-sentendent-sur-une-feuille-de-route-pour-un-accord-definitif-sous-60-jours-20260622_3GC3LEO2TZBJTK63DGLWU3225I/"
         },
         {
           "outlet": "20 Minutes",
-          "take": "Le candidat antisystème remporte une élection serrée contre un sénateur d'opposition au nouveau président.",
-          "url": "https://www.20minutes.fr/monde/etats-unis/4230323-20260622-victoire-candidat-antisysteme-pro-trump-presidentielle-colombie?at_medium=display&at_campaign=149"
+          "take": "Situe la revendication iranienne d'Ormuz dans le contexte plus large des soubresauts du conflit régional.",
+          "url": "https://www.20minutes.fr/monde/etats-unis/4230646-20260623-direct-guerre-moyen-orient-iran-veut-garder-controle-ormuz-trump-regle-comptes-otan?at_medium=display&at_campaign=149"
         }
       ],
       "id": 2,
@@ -98,186 +113,191 @@
     },
     {
       "theme": "Culture",
-      "title": "La Fête de la musique se déroule sous la canicule",
-      "brief": "La Fête de la musique s'est tenue dimanche 21 juin dans une France en alerte rouge canicule, avec des mesures d'interdiction d'alcool.",
-      "summary": "La Fête de la musique a eu lieu le 21 juin dans un contexte de canicule exceptionnelle, 39 départements étant en vigilance rouge. Les autorités ont interdit la vente et la consommation d'alcool sur la voie publique à Paris et dans plusieurs autres départements. Malgré ces restrictions, les festivités ont attiré de nombreux participants, dont des touristes étrangers venus célébrer l'événement.",
-      "full": "Dimanche 21 juin, la Fête de la musique s'est déroulée dans un contexte météorologique difficile, avec 39 départements en vigilance rouge canicule et 45 autres en vigilance orange. Pour faire face aux températures exceptionnelles, les autorités ont mis en place des mesures de sécurité spécifiques, notamment l'interdiction de la vente et de la consommation d'alcool sur la voie publique à Paris et dans les zones les plus chaudes. Selon le préfet de police de Paris, Patrice Faure, les contrevenants risquaient une amende. Malgré ces restrictions, des milliers de personnes se sont mobilisées pour participer à la fête, attirant notamment des touristes britanniques et étrangers à la capitale. Certains exploitants de bars parisiens ont remis en question le respect de cette interdiction face à l'affluence de consommateurs.",
+      "title": "Décès de Guesch Patti, interprète du tube « Etienne »",
+      "brief": "La chanteuse Guesch Patti, connue pour son grand succès des années 1980, est décédée à 80 ans.",
+      "summary": "Guesch Patti, chanteuse, danseuse et comédienne française, est morte d'une longue maladie. Elle était surtout connue pour « Etienne », son plus grand succès commercial sorti à la fin des années 1980. Elle avait reçu une Victoire de la musique dans la catégorie « Révélation féminine » en 1987.",
+      "full": "Guesch Patti s'est éteinte à l'âge de 80 ans, victime d'une longue maladie. Elle reste dans les mémoires comme l'interprète d'« Etienne », titre qui a marqué la fin des années 1980 et lui a permis d'obtenir une reconnaissance précoce dans l'industrie musicale française. Au-delà de ce tube emblématique, la carrière de Guesch Patti s'était développée dans plusieurs domaines : elle a travaillé comme chanteuse, danseuse et comédienne. Son parcours témoigne d'une polyvalence artistique caractéristique de certains interprètes de cette époque.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "La Fête de la musique a attiré une affluence importante de touristes étrangers malgré les conditions climatiques extrêmes et les restrictions sanitaires.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260621-une-mani%C3%A8re-de-d%C3%A9couvrir-paris-les-touristes-%C3%A9trangers-d%C3%A9barquent-pour-la-f%C3%AAte-de-la-musique"
-        },
-        {
           "outlet": "Libération",
-          "take": "Les patrons de bar parisiens contestent l'interdiction d'alcool et certains avoient ne pas la respecter face au succès commercial de l'événement.",
-          "url": "https://www.liberation.fr/lifestyle/consommation/a-paris-sous-la-canicule-une-fete-de-la-musique-alcoolisee-malgre-linterdiction-20260621_YN3R3FV23BGGXPISU4BU7FVYM4/"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Le préfet de police a détaillé un dispositif spécifique de sécurisation avec des sanctions prévues pour les contrevenants à l'interdiction d'alcool.",
-          "url": "https://www.20minutes.fr/paris/4230301-20260621-fete-musique-paris-quelqu-boit-alcool-voie-publique-droit-amende?at_medium=display&at_campaign=149"
+          "take": "Souligne l'importance de la danse dans la carrière de Guesch Patti au-delà de son célèbre tube musical.",
+          "url": "https://www.liberation.fr/culture/musique/guesch-patti-interprete-detienne-est-morte-a-80-ans-20260622_H6CLZ2OVYBHGPGBQC2GXHOR4T4/"
         },
         {
           "outlet": "Le Monde",
-          "take": "L'événement s'est déroulé sur l'ensemble du territoire français malgré une vague de chaleur affectant une majorité de départements.",
-          "url": "https://www.lemonde.fr/planete/article/2026/06/22/dans-toute-la-france-la-fete-de-la-musique-malgre-la-canicule-de-toute-facon-il-fait-aussi-chaud-dans-l-appartement-ou-je-vis_6706323_3244.html"
+          "take": "Précise que la chanteuse avait reçu une Victoire de la musique en 1987 et mentionne sa mort d'une longue maladie.",
+          "url": "https://www.lemonde.fr/culture/article/2026/06/22/guesch-patti-interprete-de-etienne-celebre-tube-de-1988-est-morte-a-80-ans_6707962_3246.html"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Rappelle sa polyvalence d'artiste en tant que chanteuse, comédienne et danseuse.",
+          "url": "https://www.20minutes.fr/arts-stars/culture/4230561-20260622-guesch-patti-autrice-interprete-tube-etienne-morte?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "France Info",
-          "take": "Au-delà de l'interdiction d'alcool, d'autres mesures restrictives ont été appliquées, notamment concernant les baignades en espaces publics.",
-          "url": "https://www.franceinfo.fr/culture/musique/fete-de-la-musique/alcool-baignades-ce-qui-est-interdit-a-paris-pour-la-fete-de-la-musique_8072387.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Met l'accent sur son double statut de chanteuse et danseuse dans le contexte de son décès.",
+          "url": "https://www.franceinfo.fr/culture/musique/la-chanteuse-et-danseuse-guesch-patti-interprete-d-etienne-est-morte-a-80-ans_8074136.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 3,
       "priority": 4
     },
     {
-      "theme": "Politique",
-      "title": "Manifestation contre le racisme à Paris organisée par LFI",
-      "brief": "Plusieurs milliers de personnes ont défilé dimanche à Paris contre le racisme, à l'initiative du maire insoumis de Saint-Denis.",
-      "summary": "Une manifestation s'est déroulée dimanche à Paris, de Barbès à la place de la République, contre le racisme et l'extrême droite. Le défilé a été organisé à l'appel de Bally Bagayoko, maire de Saint-Denis et membre de La France insoumise, avec le soutien de plusieurs organisations syndicales et associatives. Un concert de la Fête de la musique a suivi la marche.",
-      "full": "Plusieurs milliers de personnes ont participé dimanche à une manifestation parisienne contre le racisme, initiée par Bally Bagayoko, maire de Saint-Denis affilié à La France insoumise. Le cortège s'est formé à Barbès et s'est dirigé vers la place de la République, malgré des conditions météorologiques difficiles marquées par une forte chaleur. Selon les organisateurs, cette marche visait à mettre la question de la lutte contre le racisme à l'agenda politique. L'événement s'est déroulé dans une ambiance décrite comme festive, rassemblant plusieurs organisations syndicales et associatives au-delà des seuls partisans du mouvement insoumis. Le défilé a précédé un concert organisé par La France insoumise à l'occasion de la Fête de la musique.",
+      "theme": "Climat",
+      "title": "La France face à une canicule exceptionnelle, 54 départements en vigilance rouge",
+      "brief": "Une vague de chaleur sans précédent touche la France avec plus de la moitié du territoire en vigilance rouge.",
+      "summary": "La France connaît une vague de chaleur exceptionnelle depuis une semaine, avec 54 départements placés en vigilance rouge mardi et près de 40 millions de Français exposés aux températures extrêmes. Météo-France qualifie cet épisode de comparable par sa sévérité à la canicule de 2003. Des décès liés à la chaleur ont déjà été enregistrés, et plusieurs milliers d'établissements scolaires ont fermé ou réorganisé leur fonctionnement.",
+      "full": "La vague de chaleur qui frappe le territoire français depuis près d'une semaine s'intensifie, avec un nombre croissant de départements basculant en vigilance rouge. Lundi, 49 départements et 35 millions de Français étaient concernés ; mardi, ce chiffre s'étend à 54 départements, soit plus de la moitié du pays, affectant environ 40 millions de personnes. Météo-France qualifie cet épisode caniculaire d'exceptionnel, le rapprochant par son intensité de la canicule historique de 2003. Les nuits restent particulièrement chaudes, avec des températures minimales comprises entre 20 et 26 °C selon les régions. Cet épisode a déjà entraîné des décès et pousse les autorités à adapter le fonctionnement de près de 2 000 établissements scolaires. La vigilance rouge signifie des risques sanitaires graves pour la population générale, notamment pour les personnes âgées et vulnérables.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Met en avant le parcours du cortège et les conditions climatiques difficiles ayant accompagné l'événement.",
-          "url": "https://www.franceinfo.fr/societe/racisme/des-milliers-de-personnes-manifestent-contre-le-racisme-a-paris-a-l-appel-de-la-france-insoumise_8072834.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Souligne l'appel du maire à intégrer la lutte contre le racisme dans la campagne présidentielle et met l'accent sur la volonté transpartisane affichée par les organisateurs.",
-          "url": "https://www.lemonde.fr/politique/article/2026/06/21/a-paris-quelques-milliers-de-personnes-defilent-contre-le-racisme-et-l-extreme-droite-a-l-appel-de-bally-bagayoko_6706117_823448.html"
+          "outlet": "France 24",
+          "take": "L'intensification rapide de la canicule en quelques jours, passant de 49 à 54 départements en vigilance rouge, entraînant des fermetures massives d'écoles.",
+          "url": "https://www.france24.com/fr/france/20260622-france-canicule-vigilance-rouge"
         },
         {
           "outlet": "Libération",
-          "take": "Insiste sur l'atmosphère festive et conviviale qui a caractérisé la marche jusqu'au concert final.",
-          "url": "https://www.liberation.fr/societe/en-images-a-paris-des-milliers-de-personne-defilent-contre-le-racisme-a-lappel-de-la-france-insoumise-20260621_6KYCLVDFRRFA7ARUCZHLENYIBI/"
+          "take": "La nature inédite de la situation avec plus de la moitié du pays en vigilance rouge simultanément, accompagnée de records de température et de morts liées à la chaleur.",
+          "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-54-departements-en-vigilance-rouge-ce-mardi-20260623_UVFXNYTAY5G5JLJTIQDES5CG4Y/"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Précise que la marche s'opposait à la fois au racisme et à l'extrême droite, mettant en avant le double enjeu de la mobilisation.",
-          "url": "https://www.20minutes.fr/societe/4230296-20260621-paris-milliers-personnes-manifestent-contre-racisme-appel-lfi?at_medium=display&at_campaign=149"
+          "outlet": "Le Monde",
+          "take": "L'extension progressive de la vigilance rouge aux régions du nord-ouest français, notamment le Calvados, l'Eure et la Manche, à compter de mardi à midi.",
+          "url": "https://www.lemonde.fr/planete/live/2026/06/23/en-direct-canicule-de-20-a-26-c-a-l-aube-sur-la-majeure-partie-de-la-france-54-departements-places-en-vigilance-rouge-mardi-a-midi_6704498_3244.html"
+        },
+        {
+          "outlet": "Sciences et Avenir",
+          "take": "La comparaison de cet épisode avec la canicule de 2003 en raison de son caractère exceptionnel et de sa sévérité, selon les experts de Météo-France.",
+          "url": "https://www.sciencesetavenir.fr/nature-environnement/meteo/canicule-en-france-49-departements-en-vigilance-rouge-ecoles-fermees-et-records-de-chaleur-attendus_193332?xtor=RSS-15"
         }
       ],
       "id": 4,
       "priority": 5
     },
     {
-      "theme": "Sport",
-      "title": "Coupe du monde 2026 : le Cap-Vert surprend l'Uruguay",
-      "brief": "Le Cap-Vert a arraché un match nul contre l'Uruguay (2-2) en phase de groupes.",
-      "summary": "Lors de son deuxième match de la Coupe du monde 2026, le Cap-Vert a tenu tête à l'Uruguay en obtenant un nul (2-2) dimanche à Miami. Cette performance marque les premiers buts des Requins Bleus dans un Mondial. Une victoire face à l'Arabie saoudite pourrait propulser le Cap-Vert en huitièmes de finale.",
-      "full": "Le Cap-Vert a signé un nouvel exploit en accrochant l'Uruguay (2-2) lors de la troisième journée du groupe H de la Coupe du monde 2026. Il s'agit du deuxième match des Requins Bleus dans le tournoi, et ils ont inscrit leurs premiers buts dans un Mondial. L'équipe a montré une détermination remarquable face à une Céleste peu convaincante, maintenant le suspense dans la poule. Le Cap-Vert peut envisager une qualification aux huitièmes de finale en remportant son prochain match contre l'Arabie saoudite. Cette performance a suscité une émotion intense parmi les supporters du petit archipel, qui découvrent les joies du Mondial.",
+      "theme": "International",
+      "title": "Dix ans après le Brexit, bilan contrasté au Royaume-Uni",
+      "brief": "Le Royaume-Uni marque une décennie depuis son départ de l'UE, avec des trajectoires politiques et économiques divergentes.",
+      "summary": "Le référendum du 23 juin 2016 a ouvert une période d'instabilité politique au Royaume-Uni, marquée par plusieurs changements de gouvernement et la récente démission du premier ministre Keir Starmer. Sur le plan économique, contrairement aux prédictions catastrophistes initiales, le pays n'a pas connu l'effondrement annoncé et affiche même une performance comparable ou supérieure à ses voisins européens. Politiquement, Nigel Farage, figure emblématique du mouvement pour le Brexit, conserve une influence majeure, comme l'a démontré la percée électorale de son parti Reform UK aux scrutins locaux de mai.",
+      "full": "Le 23 juin 2016, les Britanniques votaient pour la sortie du Royaume-Uni de l'Union européenne, marquant un tournant dans l'histoire politique du pays. Une décennie plus tard, les conséquences du Brexit restent mitigées selon les domaines considérés. Sur le plan politique, l'instabilité a prévalu : le pays a connu plusieurs alternances gouvernementales, et la démission récente du premier ministre Labour intervient comme point d'orgue d'une gouvernance chaotique. En revanche, sur le plan économique, les craintes d'un désastre immédiat ne se sont pas matérialisées. Le Royaume-Uni affiche des performances économiques comparables voire meilleures que certains pays européens, démentant les prophéties d'effondrement formulées par les partisans du maintien dans l'UE. Parallèlement, Nigel Farage, principal artisan du Brexit, demeure une figure incontournable de la politique britannique, comme en témoigne le succès électoral de son mouvement Reform UK aux élections locales de mai 2024, notamment dans des régions comme Clacton-on-Sea où le Brexit avait obtenu un large soutien populaire.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "Le Cap-Vert inscrit ses premiers buts en Coupe du monde et retrouve l'incertitude en tête du groupe H face à une Uruguay décevante.",
-          "url": "https://www.france24.com/fr/sports/20260622-mondial-2026-nouvel-exploit-cap-vert-nul-uruguay"
+          "outlet": "France Info",
+          "take": "Nigel Farage consolide son influence politique dix ans après le Brexit, avec une percée significative de son parti Reform UK aux élections locales de 2024.",
+          "url": "https://www.franceinfo.fr/monde/royaume-uni/royaume-uni-dix-ans-apres-le-brexit-l-inoxydable-popularite-de-nigel-farage_8066231.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Libération",
-          "take": "Les supporters du Cap-Vert ont vibré d'une joie incrédule, le nul laissant espérer une qualification en seizièmes si l'équipe bat l'Arabie saoudite.",
-          "url": "https://www.liberation.fr/sports/football/je-vais-mettre-dix-ans-a-men-remettre-limmense-emotion-des-supporters-du-cap-vert-apres-un-nouvel-exploit-face-a-luruguay-20260622_EPHGJFKD2VDURHX3NVBLMAMHPE/"
+          "outlet": "Le Monde",
+          "take": "Le Brexit s'accompagne d'une instabilité gouvernementale prolongée, incarnée par les multiples changements de premier ministre et la démission récente de Keir Starmer.",
+          "url": "https://www.lemonde.fr/podcasts/article/2026/06/23/dix-ans-plus-tard-un-brexit-pour-rien_6708544_5463015.html"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Cette nuit du Mondial a également marqué la première victoire de l'Égypte en Coupe du monde.",
-          "url": "https://www.20minutes.fr/sport/football/4230461-20260622-coupe-monde-2026-premiere-historique-pharaons-salah-nouvel-exploit-cap-vert-recap-nuit?at_medium=display&at_campaign=149"
+          "outlet": "Courrier International",
+          "take": "Contrairement aux prévisions de catastrophe économique, le Royaume-Uni a enregistré des performances économiques solides depuis son départ de l'UE.",
+          "url": "https://www.courrierinternational.com/article/opinion-le-brexit-n-a-jamais-ete-le-desastre-economique-annonce_244986"
         }
       ],
       "id": 5,
       "priority": 6
     },
     {
-      "theme": "International",
-      "title": "Keir Starmer face à des rumeurs de démission au Royaume-Uni",
-      "brief": "Le Premier ministre britannique, confronté à l'impopularité et aux tensions internes du Labour, consulte ses équipes.",
-      "summary": "Le Premier ministre britannique Keir Starmer fait face à des rumeurs de démission croissantes, alimentées par son impopularité et les divisions au sein du parti travailliste. Dimanche 21 juin, un ministre a déclaré que Starmer « réfléchissait aux réalités politiques » auxquelles il est confronté. Cette instabilité intervient après une défaite électorale partielle et suscite une agitation dans les médias britanniques.",
-      "full": "Le Premier ministre britannique Keir Starmer traverse une crise politique majeure, avec des rumeurs d'une possible démission dès lundi. Son impopularité croissante, combinée à des tensions au sein du parti travailliste, a affaibli sa position à la tête du gouvernement. Le ministre du commerce Peter Kyle a déclaré que le Premier ministre prenait le temps d'évaluer les défis et possibilités auxquels il fait face, un énoncé interprété comme un signal d'une réflexion sur son avenir politique. Cette situation s'est aggravée suite à une défaite électorale partielle, qui a renforcé la fronde au sein de ses propres rangs. Les médias britanniques spéculent activement sur un départ imminent du locataire du 10, Downing Street.",
+      "theme": "Santé",
+      "title": "Deux enfants morts dans une voiture à Carpentras",
+      "brief": "Deux enfants de 2 et 4 ans ont été retrouvés décédés lundi dans un véhicule garé à Carpentras, en Provence-Alpes-Côte d'Azur.",
+      "summary": "Deux enfants en bas âge ont été découverts sans vie lundi après-midi dans la voiture familiale stationnée devant leur domicile à Carpentras. Selon les premiers éléments de l'enquête, les enfants se seraient enfermés dans le véhicule. La canicule sévère qui frappe la région ces derniers jours est considérée comme la piste privilégiée par les enquêteurs.",
+      "full": "Les deux enfants âgés de 2 et 4 ans ont été retrouvés décédés lundi après-midi dans la voiture familiale garée devant leur résidence à Carpentras. D'après les déclarations initiales, les enfants se seraient glissés dans le véhicule de manière involontaire, selon le parquet. Les enquêteurs examinent le rôle de la canicule exceptionnelle actuellement en cours dans la région, qui crée des conditions extrêmes à l'intérieur des véhicules fermés. Selon certaines sources policières, la mère aurait découvert l'absence de ses enfants après son retour. Une enquête est en cours pour établir les circonstances précises de ce drame et clarifier les différentes versions des faits.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Met l'accent sur les consultations menées par Starmer face aux rumeurs et note la position de Donald Trump qui anticipe une démission.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/21/keir-starmer-en-butte-a-des-rumeurs-de-demission-au-royaume-uni-multiplie-les-consultations_6706118_3210.html"
+          "outlet": "France Info",
+          "take": "Les enquêteurs privilégient l'hypothèse que les enfants se seraient enfermés dans le véhicule, avec la canicule comme facteur aggravant.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/deux-enfants-de-2-et-4-ans-ont-ete-retrouves-morts-dans-une-voiture-a-carpentras-la-piste-de-la-canicule-privilegiee_8074079.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "Courrier International",
-          "take": "Souligne l'emballement de la presse britannique autour d'une démission imminente et la fronde interne au parti travailliste.",
-          "url": "https://www.courrierinternational.com/article/royaume-uni-vers-la-demission-de-keir-starmer-lundi-la-presse-britannique-en-alerte_245481"
+          "outlet": "Libération",
+          "take": "Selon des sources policières divergentes, les enfants auraient pu se glisser à l'insu de leur mère, ou celle-ci aurait omis de les retrouver lors de ses courses.",
+          "url": "https://www.liberation.fr/societe/police-justice/deux-enfants-retrouves-morts-dans-la-voiture-de-leurs-parents-a-carpentras-en-pleine-canicule-20260622_WNLNOA4HFFCEJN3QRSP5RORWUM/"
         },
         {
           "outlet": "20 Minutes",
-          "take": "Insiste sur le caractère « intenable » de la situation et la critique même au sein du propre camp politique du Premier ministre.",
-          "url": "https://www.20minutes.fr/monde/4230298-20260621-royaume-uni-pressurise-premier-ministre-starmer-reflechit-realites-politiques?at_medium=display&at_campaign=149"
+          "take": "Les enfants ont été découverts lundi après-midi dans le véhicule familial stationné devant le domicile, en contexte de canicule.",
+          "url": "https://www.20minutes.fr/faits_divers/4230613-20260622-canicule-carpentras-sait-mort-deux-enfants-voiture?at_medium=display&at_campaign=149"
         }
       ],
       "id": 6,
       "priority": 7
     },
     {
-      "theme": "Sport",
-      "title": "Coupe du monde 2026 : résultats contrastés en groupe G",
-      "brief": "La Belgique fait du surplace avec un nul contre l'Iran, tandis que l'Espagne se relance spectaculairement.",
-      "summary": "En Coupe du monde 2026, la Belgique a concédé un match nul contre l'Iran (dimanche à Los Angeles) malgré une supériorité numérique en seconde période, compliquant sa qualification. De son côté, l'Espagne a largement dominé l'Arabie saoudite (4-0) pour se rapprocher des seizièmes de finale après un démarrage difficile.",
-      "full": "Dimanche, les matchs du groupe G de la Coupe du monde 2026 ont produit des scénarios contrastés. La Belgique, déjà entravée par un précédent nul contre l'Égypte, n'a pu venir à bout d'une équipe iranienne compacte malgré une réduction à dix adversaires en deuxième période. Le gardien iranien Alireza Beiranvand s'est montré décisif face aux Diables Rouges. La qualification belge reste suspendue à la dernière journée du groupe. À l'inverse, l'Espagne a surclassé l'Arabie saoudite avec un score sans appel de 4-0, consolidant sa position dans le tournoi. Le retour de Lamine Yamal dans l'équipe de départ a contribué à cette démonstration offensive réussie, permettant aux Espagnols de se relancer après un revers initial face au Cap-Vert.",
+      "theme": "Politique",
+      "title": "Chlordécone : la justice confirme le non-lieu en appel",
+      "brief": "La cour d'appel de Paris maintient l'absence de poursuites dans le scandale du pesticide aux Antilles.",
+      "summary": "La cour d'appel de Paris a confirmé lundi le non-lieu prononcé en 2023 dans l'enquête pénale sur le chlordécone, ce pesticide massivement utilisé à la Martinique et en Guadeloupe jusqu'en 1993 malgré sa toxicité connue. Les victimes dénoncent un « rendez-vous manqué » et expriment un sentiment d'abandon face à ce scandale sanitaire toujours d'actualité. La partie civile envisage de poursuivre le combat en cassation et devant les juridictions européennes.",
+      "full": "Le chlordécone, utilisé largement aux Antilles jusqu'en 1993 pour traiter les cultures de banane, continue de contaminer les sols et les eaux de ces territoires. Malgré les connaissances établies sur sa toxicité, aucune poursuite pénale n'a pu être engagée. La décision de la cour d'appel de Paris, rendue lundi, confirme le non-lieu de première instance, fermant ainsi la voie pénale dans cette affaire. Les victimes et leurs représentants qualifient cette décision de revers judiciaire majeur et demandent des réparations concrètes. Ils annoncent d'ores et déjà des recours en cassation et un appel possible aux instances juridiques européennes pour obtenir justice.",
       "angles": [
         {
           "outlet": "France 24",
-          "take": "Souligne la situation critique de la Belgique, réduite à dix et incapable de percer une défense iranienne solide.",
-          "url": "https://www.france24.com/fr/sports/20260621-coupe-du-monde-belgique-mauvaise-posture-nul-iran-resume"
+          "take": "La partie civile dénonce une absence de réponse de la justice aux Français ultramarins et promet de poursuivre le combat par tous les recours disponibles.",
+          "url": "https://www.france24.com/fr/france/20260622-scandale-sanitaire-du-chlord%C3%A9cone-dans-les-antilles-non-lieu-confirm%C3%A9-en-appel"
         },
         {
-          "outlet": "France Info",
-          "take": "Met l'accent sur la réaction convaincante de l'Espagne, consolide par le retour et l'efficacité offensifs.",
-          "url": "https://www.franceinfo.fr/coupe-du-monde/l-espagne-se-rassure-en-ecrasant-l-arabie-saoudite-et-se-rapproche-des-seiziemes-de-finale-de-la-coupe-du-monde-2026_8072918.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "Les victimes du chlordécone expriment un sentiment d'abandon et réclament des mesures de réparation face à un problème sanitaire persistant.",
+          "url": "https://www.lemonde.fr/planete/article/2026/06/22/chlordecone-la-cour-d-appel-de-paris-confirme-le-non-lieu-dans-le-scandale-sanitaire-de-ce-pesticide_6707576_3244.html"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Relève le passage à l'acte offensif de Lamine Yamal, marquant son premier but en Coupe du monde.",
-          "url": "https://www.20minutes.fr/sport/football/4230285-20260621-direct-espagne-arabie-saoudite-roja-doit-reprendre-toute-urgence-lamine-yamal-enfin-titulaire?at_medium=display&at_campaign=149"
+          "outlet": "Libération",
+          "take": "La justice refuse la réouverture de l'enquête malgré l'utilisation massive du pesticide pendant des décennies, sachant ses effets nocifs.",
+          "url": "https://www.liberation.fr/environnement/pollution/scandale-du-chlordecone-la-justice-refuse-la-reouverture-de-lenquete-20260622_D6Z3VOVBIRDXVLVNOODCFM4KSM/"
         }
       ],
       "id": 7,
       "priority": 8
     },
     {
-      "theme": "Climat",
-      "title": "Une canicule exceptionnelle paralyse la France",
-      "brief": "Une vague de chaleur intense traverse l'Hexagone, forçant la fermeture de centaines d'établissements scolaires.",
-      "summary": "La France connaît une canicule d'ampleur rare ce lundi 22 juin, avec un niveau de vigilance rouge s'étendant sur de nombreux départements. Les écoles, collèges et lycées ferment massivement, tandis que certaines épreuves du baccalauréat sont reportées. Les transports et la vie quotidienne connaissent d'importantes perturbations.",
-      "full": "Une vague de chaleur exceptionnelle frappe la quasi-totalité du territoire français ce lundi 22 juin. Le niveau de vigilance rouge, le plus élevé, s'étend sur un nombre sans précédent de départements, tandis que des centaines d'établissements scolaires décident de fermer leurs portes. Cette fermeture massive s'accompagne d'annulations ou de reports d'épreuves du baccalauréat, perturbant ainsi le calendrier des examens. Les réseaux de transport subissent également des impacts, avec des dysfonctionnements signalés dans plusieurs régions. Face à cette situation, certaines collectivités, dont Paris, recommandent aux salariés le télétravail pour réduire la charge sur les services essentiels.",
+      "theme": "Culture",
+      "title": "Marc Bloch et son épouse Simonne entrent au Panthéon",
+      "brief": "L'historien et résistant Marc Bloch fait son entrée au Panthéon mardi, accompagné de son épouse Simonne Vidal.",
+      "summary": "L'historien Marc Bloch, assassiné par la Gestapo en 1944, est panthéonisé ce mardi 23 juin aux côtés de son épouse Simonne Vidal. Cette double intronisation honore à la fois l'œuvre intellectuelle de Bloch et l'engagement du couple dans la Résistance. Simonne, longtemps restée dans l'ombre, y est reconnue pour son rôle essentiel auprès de son mari, tant dans ses travaux universitaires que pendant la clandestinité.",
+      "full": "Le médiéviste Marc Bloch, figure majeure de l'historiographie française du XXe siècle, accède au Panthéon ce 23 juin. Né en Auvergne-Rhône-Alpes mais ayant passé plus d'un quart de sa vie à Strasbourg, Bloch s'est distingué par son approche novatrice de l'histoire médiévale et ses travaux fondateurs sur la feudalité et la société. Au-delà de ses contributions académiques, il est honoré pour son rôle éminent dans la Résistance française, avant d'être exécuté par les nazis en 1944. Cette panthéonisation marque également la première reconnaissance officielle de Simonne Vidal, son épouse, qui a contribué directement à ses recherches en qualité de secrétaire et d'assistante, tout en s'engageant auprès de lui dans les actions clandestines de la Résistance. Le couple incarne ainsi l'union entre engagement intellectuel et combat pour la liberté.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Souligne la couverture généralisée de la canicule sur l'ensemble du territoire et ses répercussions directes sur le système scolaire et les examens.",
-          "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-49-departements-en-vigilance-rouge-ce-lundi-des-centaines-decoles-fermees-20260622_2Q6QO37QOBHL5EVOJJYZYBKHJI/"
+          "outlet": "France 24",
+          "take": "Souligne que Simonne Vidal, femme de l'ombre du couple, accède elle aussi au Panthéon en reconnaissance de son rôle essentiel dans les travaux et la vie clandestine de Marc Bloch.",
+          "url": "https://www.france24.com/fr/france/20260622-marc-bloch-simonne-vidal-couple-resistance-guerre-pantheon"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Insiste sur les liens profonds unissant Marc Bloch à l'Alsace, région où il a passé plus d'un quart de sa vie et exercé ses fonctions universitaires.",
+          "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/marc-bloch-au-pantheon-trois-questions-pour-comprendre-l-attachement-a-l-alsace-de-l-historien-et-resistant-3373048.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "20 Minutes",
-          "take": "Insiste sur le caractère inédit de l'extension de la vigilance rouge et met l'accent sur les mesures d'adaptation prises par les autorités urbaines.",
-          "url": "https://www.20minutes.fr/planete/canicule/4230438-20260622-direct-canicule-vigilance-rouge-etend-comme-jamais-centaines-ecoles-fermees?at_medium=display&at_campaign=149"
+          "take": "Retient l'aspect dual de la panthéonisation : la reconnaissance simultanée de ses contributions majeures comme historien et de son engagement dans la Résistance.",
+          "url": "https://www.20minutes.fr/tv/videos/4230082-20260623-marc-bloch-entre-pantheon-uvre-historien-engagement-resistance?at_medium=display&at_campaign=149"
         }
       ],
       "id": 8,
       "priority": 9
     },
     {
-      "theme": "Politique",
-      "title": "Adaptation climatique absente du débat présidentiel 2027",
-      "brief": "Alors qu'une canicule frappe la France, les enjeux d'adaptation au réchauffement restent marginalisés dans la campagne électorale.",
-      "summary": "Une sévère vague de chaleur affecte le quotidien des Français à un an de l'élection présidentielle. L'adaptation au changement climatique demeure insuffisamment intégrée aux priorités politiques et au débat des candidats. Les politiques publiques restent limitées par des logiques court-termistes et électorales.",
-      "full": "Tandis que la France traverse une nouvelle canicule d'ampleur exceptionnelle, les observateurs constatent que l'adaptation aux impacts du réchauffement climatique reste largement absente des débats politiques à l'approche de la présidentielle de 2027. Bien que des efforts aient été consentis par les gouvernements successifs, les politiques publiques demeurent freinées par le court-termisme et les enjeux électoraux immédiats. Les crises climatiques répétées ne parviennent pas à s'imposer durablement dans le débat public, malgré leurs effets visibles sur la vie quotidienne des citoyens. Les responsables politiques apparaissent régulièrement surpris par l'intensité des phénomènes météorologiques extrêmes. Cette situation révèle un décalage entre l'urgence des défis climatiques et la préparation institutionnelle des candidats aux élections à venir.",
+      "theme": "Climat",
+      "title": "Canicule : au moins 13 décès par noyade en France",
+      "brief": "Un épisode de canicule a provoqué une vague de noyades en France ce week-end, les autorités appelant à la prudence.",
+      "summary": "Entre samedi et lundi, au moins 13 à 20 décès par noyade ont été enregistrés en France lors d'un épisode de canicule. Les chiffres varient selon les sources : la Sécurité civile en dénombre 13, tandis que la ministre des Sports en mentionne une vingtaine. Les autorités mettent en avant le danger des baignades en zones non surveillées pendant les périodes de forte chaleur.",
+      "full": "Un épisode de canicule a provoqué une augmentation notable des noyades en France ce week-end. La Sécurité civile a annoncé au moins 13 décès par noyade depuis samedi 20 juin, tandis que la ministre des Sports et de la Jeunesse évoque une vingtaine de morts. Ces chiffres divergents reflètent probablement des périodes de comptage différentes. Face à cette situation, les autorités insistent sur les risques liés aux baignades dans des zones non surveillées en période de canicule. La Sécurité civile recommande de privilégier les zones avec surveillance et appelle à la vigilance. Les responsables publics soulignent que même si se rafraîchir devient impératif lors de fortes chaleurs, il convient de respecter les règles de sécurité à l'eau.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Souligne que l'adaptation au changement climatique constitue un point aveugle des politiques et des prétendants à l'Élysée.",
-          "url": "https://www.lemonde.fr/planete/article/2026/06/22/canicule-a-un-an-de-la-presidentielle-les-politiques-en-plein-deni-des-enjeux-de-l-adaptation-au-rechauffement_6706433_3244.html"
+          "outlet": "France Info",
+          "take": "La ministre des Sports signale une vingtaine de décès et met en garde contre les baignades en zones non surveillées pendant la canicule.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-une-vingtaine-de-deces-par-noyade-depuis-le-debut-du-week-end-indique-marina-ferrari-ministre-des-sports-et-de-la-jeunesse_8075039.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "France Info",
-          "take": "Met l'accent sur le décalage entre les impacts concrets et les réponses politiques, freinées par des logiques électorales.",
-          "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-face-a-la-canicule-les-responsables-politiques-semblent-toujours-pris-de-court_8049629.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "La Sécurité civile rapporte au minimum 13 noyades et appelle à privilégier les baignades dans les zones encadrées.",
+          "url": "https://www.lemonde.fr/societe/article/2026/06/22/canicule-au-moins-13-morts-par-noyade-en-france-la-securite-civile-appelle-a-la-vigilance-et-a-privilegier-les-baignades-surveillees_6707517_3224.html"
+        },
+        {
+          "outlet": "Reporterre",
+          "take": "Le porte-parole de la Sécurité civile souligne l'importance de la surveillance active des enfants et du caractère essentiel de se baigner dans des lieux sécurisés.",
+          "url": "https://reporterre.net/Canicule-13-morts-par-noyade-depuis-samedi-soir-en-France"
         }
       ],
       "id": 9,
@@ -285,45 +305,391 @@
     },
     {
       "theme": "International",
-      "title": "Moscou ferme ses aéroports après une attaque de drones",
-      "brief": "Les quatre aéroports de la capitale russe ont été fermés brièvement lundi, lors d'une opération ukrainienne massive.",
-      "summary": "Les aéroports de Moscou ont connu une fermeture temporaire lundi 22 juin en raison d'une attaque de drones ukrainiens. Selon les autorités russes, la défense anti-aérienne aurait abattu 59 drones dirigés vers la ville. Cette attaque s'inscrit dans le contexte du conflit russo-ukrainien en cours.",
-      "full": "Lundi 22 juin, les quatre aéroports de Moscou ont été fermés provisoirement après une opération ukrainienne menée par essaims de drones. Le maire de la capitale russe, Sergueï Sobianine, a annoncé dans une série de messages que les défenses anti-aériennes avaient neutralisé 59 drones en direction de la ville. Cette attaque représente une nouvelle escalade des opérations menées par l'Ukraine contre le territoire russe. Parallèlement, un cargo a également pris feu en mer Noire suite à une attaque russe, élargissant le champ des opérations militaires au-delà du territoire continental. Ces incidents illustrent l'intensification des frappes croisées entre les deux belligérants depuis le début du conflit.",
+      "title": "Colombie : élection d'un président d'extrême droite",
+      "brief": "Abelardo de la Espriella remporte la présidentielle colombienne face au candidat de gauche Ivan Cepeda.",
+      "summary": "Le richissime Abelardo de la Espriella a remporté dimanche le second tour de la présidentielle colombienne, devançant le progressiste Ivan Cepeda. Sa victoire s'accompagne de violences, le candidat perdant appelant à la sérénité. Le nouvel élu, proche de Donald Trump, a promis une politique favorable aux énergies fossiles.",
+      "full": "Abelardo de la Espriella, candidat d'extrême droite, l'a emporté au second tour de la présidentielle colombienne face à Ivan Cepeda, représentant la gauche progressiste. Cette victoire intervient dans un contexte de tensions, avec des violences signalées au lendemain du scrutin. Ivan Cepeda a appelé à des manifestations « pacifiques » et à la sérénité lors d'une conférence de presse. Le scrutin a été marqué par l'ingérence notable de Donald Trump dans la campagne, qui a rapidement salué la victoire du nouvel élu. Selon ses déclarations, le nouveau président colombien entend relancer les hydrocarbures et réduire les mesures environnementales existantes, suscitant des craintes parmi les militants écologistes.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "Les autorités russes rapportent l'interception de 59 drones ukrainiens par les défenses anti-aériennes lors d'une attaque en direction de Moscou.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/22/en-direct-guerre-en-ukraine-les-quatre-aeroports-de-moscou-brievement-fermes-la-russie-a-dit-avoir-abattu-plusieurs-dizaines-de-drones-ukrainiens_6706390_3210.html"
+          "take": "Ivan Cepeda, défait au second tour, exhorte à la mobilisation pacifique malgré les violences qui ont suivi le scrutin.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/22/colombie-ivan-cepeda-defait-a-la-presidentielle-face-au-candidat-d-ultradroite-abelardo-de-la-espriella-lance-un-appel-au-calme-au-lendemain-de-violences_6707561_3211.html"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "La fermeture des aéroports moscovites coïncide avec une attaque russe contre un navire-cargo en feu en mer Noire.",
-          "url": "https://www.20minutes.fr/monde/ukraine/4230436-20260622-direct-guerre-ukraine-aeroports-moscou-brievement-fermes-raison-vagues-drones?at_medium=display&at_campaign=149"
+          "outlet": "Libération",
+          "take": "La Colombie rejoint d'autres démocraties élisant des leaders d'extrême droite, avec le soutien explicite et la campagne active de Donald Trump.",
+          "url": "https://www.liberation.fr/international/amerique/avec-abelardo-de-la-espriella-la-colombie-elit-a-son-tour-un-president-dextreme-droite-pro-trump-20260622_6ZHYS3WDR5HPXC7C2JYJKVCZ4E/"
+        },
+        {
+          "outlet": "Reporterre",
+          "take": "Le nouveau président s'engage dans une relance des énergies fossiles et un démantèlement des protections environnementales, provoquant l'inquiétude des écologistes.",
+          "url": "https://reporterre.net/Allie-de-Trump-le-nouveau-president-colombien-promet-une-ruee-vers-les-energies-fossiles"
         }
       ],
       "id": 10,
       "priority": 11
     },
     {
-      "theme": "Climat",
-      "title": "La France face à une canicule record, 90 % de la population affectée",
-      "brief": "Quarante-neuf départements sont placés en vigilance rouge canicule lundi, avec des températures atteignant 43 °C.",
-      "summary": "Une intensification de la vague de chaleur place 49 départements français en vigilance rouge canicule lundi, concernant 35 millions de Français. Quarante autres départements sont en vigilance orange, soit au total 90 % de la population exposée à des chaleurs exceptionnelles. Cette situation entraîne la fermeture ou la réorganisation de près de 2 000 établissements scolaires.",
-      "full": "La canicule qui frappe la France depuis une semaine s'aggrave lundi avec l'activation de la vigilance rouge dans 49 départements, touchant 35 millions de Français selon Météo France. Simultanément, 40 départements supplémentaires sont placés en vigilance orange, portant à 90 % la proportion de la population française exposée à des chaleurs exceptionnelles. Les températures les plus extrêmes, jusqu'à 43 °C, devraient affecter principalement la façade ouest du pays. Cette situation d'urgence pousse les autorités à fermer ou réorganiser près de 2 000 établissements scolaires pour protéger les enfants face aux conditions météorologiques dangereuses.",
+      "theme": "International",
+      "title": "Keir Starmer démissionne, Andy Burnham favori pour le remplacer",
+      "brief": "Le Premier ministre britannique a annoncé sa démission lundi après la perte de contrôle de sa majorité travailliste.",
+      "summary": "Keir Starmer a démissionné de ses fonctions de Premier ministre britannique lundi 22 juin, moins de deux ans après sa victoire aux législatives de juillet 2024. Critiqué pour son indécision et son austérité perçue, il n'a pas tenu les promesses de changement de sa campagne et a subi un revers électoral lors des scrutins locaux de mai. Andy Burnham, maire du Grand Manchester, s'impose comme le grand favori pour lui succéder.",
+      "full": "Keir Starmer a annoncé sa démission du poste de Premier ministre britannique lundi 22 juin après avoir perdu le contrôle de sa majorité travailliste au Parlement. Élu en juillet 2024 avec un mandat de changement, il n'a pas réussi à concrétiser ses promesses électorales et a été exposé à des critiques tant de la gauche que de la droite, accusé d'indécision et de politique d'austérité. Un revers électoral lors des scrutins locaux de mai a précipité son départ. Andy Burnham, ancien ministre du travail et actuel maire du Grand Manchester, élu député vendredi 19 juin, s'impose comme le candidat favori pour lui succéder à 10 Downing Street. Une nomination pourrait intervenir dès la mi-juillet.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "Souligne l'amplification progressive de la canicule sur une semaine et ses conséquences directes sur le fonctionnement des écoles.",
-          "url": "https://www.france24.com/fr/france/20260622-france-canicule-vigilance-rouge"
+          "outlet": "France Info",
+          "take": "Starmer a été poussé vers la sortie après avoir échoué à mettre en œuvre le changement promis et s'être attiré des critiques de tous côtés sur sa gestion austère.",
+          "url": "https://www.franceinfo.fr/monde/royaume-uni/certains-sont-decus-de-moi-comment-le-premier-ministre-britannique-keir-starmer-qui-a-demissionne-lundi-a-ete-pousse-vers-la-sortie_8073683.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Le Monde",
-          "take": "Met l'accent sur les records de température attendus à l'ouest et la proportion exceptionnelle de la population française exposée à des chaleurs extrêmes.",
-          "url": "https://www.lemonde.fr/planete/article/2026/06/22/canicule-49-departements-et-35-millions-de-francais-concernes-par-la-vigilance-rouge-lundi_6706357_3244.html"
+          "take": "Andy Burnham émerge comme le grand favori pour succéder à Starmer après sa récente élection législative vendredi.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/22/au-royaume-uni-apres-la-demission-de-keir-starmer-andy-burnham-pourrait-etre-nomme-des-la-mi-juillet_6708095_3210.html"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Le maire du Grand Manchester Andy Burnham est le candidat presenti pour occuper le poste de Premier ministre.",
+          "url": "https://www.20minutes.fr/monde/royaume-uni/4230483-20260622-royaume-uni-andy-burham-favori-succeder-keir-starmer-comme-premier-ministre?at_medium=display&at_campaign=149"
         }
       ],
       "id": 11,
       "priority": 12
+    },
+    {
+      "theme": "Santé",
+      "title": "Cancers et maladies cardiovasculaires dominent la mortalité en France",
+      "brief": "Les tumeurs et affections cardiaques restent les principales causes de décès en France en 2024.",
+      "summary": "En 2024, les cancers représentent 27,1 % des décès en France, tandis que les maladies cardiovasculaires constituent la deuxième cause de mortalité. Le taux de mortalité global atteint un niveau historiquement bas à 777,9 pour 100 000 habitants, bien que la mortalité liée aux maladies respiratoires poursuive sa progression.",
+      "full": "Les cancers demeurent la première cause de décès en France en 2024, responsables de plus d'un quart de la mortalité nationale. Les maladies cardiovasculaires occupent la deuxième place parmi les causes de mortalité. Parallèlement, le taux de mortalité global des Français atteint un niveau historiquement bas, établi à 777,9 décès pour 100 000 habitants, indiquant une amélioration générale de l'état sanitaire de la population. Cependant, cette situation positive est nuancée par une tendance préoccupante : la mortalité attribuée aux maladies respiratoires continue de progresser, révélant une évolution défavorable dans ce domaine spécifique.",
+      "angles": [
+        {
+          "outlet": "20 Minutes",
+          "take": "Met l'accent sur la prédominance des tumeurs, qui constituent 27,1 % de l'ensemble des décès enregistrés.",
+          "url": "https://www.20minutes.fr/societe/4230648-20260623-cancers-maladies-cardiovasculaires-principales-causes-deces-france?at_medium=display&at_campaign=149"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Souligne la baisse historique de la mortalité globale en France tout en alertant sur la hausse de la mortalité respiratoire.",
+          "url": "https://www.lemonde.fr/societe/article/2026/06/23/les-cancers-et-les-maladies-cardiovasculaires-premieres-causes-de-deces-en-france-en-2024_6708568_3224.html"
+        }
+      ],
+      "id": 12,
+      "priority": 13
+    },
+    {
+      "theme": "Sport",
+      "title": "France qualifiée aux seizièmes de la Coupe du monde 2026",
+      "brief": "L'équipe de France s'est imposée face à l'Irak et assure sa qualification pour la suite de la compétition.",
+      "summary": "La France a obtenu son billet pour les seizièmes de finale de la Coupe du monde 2026 en remportant sa deuxième victoire consécutive. Les Bleus ont dominé l'Irak sur le score de 3-0, malgré une interruption de près de deux heures due à un orage survenu à Philadelphie entre la première et la seconde période.",
+      "full": "Avec cette victoire, la sélection française a mathématiquement assuré sa qualification parmi les meilleures équipes de sa poule. Sur le terrain, les Bleus n'ont jamais été menacés par leur adversaire irakien. L'événement climatique majeur de la rencontre a été l'orage qui a perturbé le déroulement du match à Philadelphie, contraignant les organisateurs à interrompre le jeu pendant presque deux heures entre les deux mi-temps. D'autres rencontres sont prévues dans les prochaines heures : Panama affrontera la Croatie et la Colombie recevra la République démocratique du Congo.",
+      "angles": [
+        {
+          "outlet": "France 24",
+          "take": "Souligne que la France a dominé nettement l'Irak malgré le facteur climatique disruptif du match.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260623-coupe-du-monde-la-france-qualifi%C3%A9e-en-seizi%C3%A8mes-de-finale-au-bout-de-la-nuit"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Contextualise la qualification française en relation avec les autres rencontres du calendrier de cette nuit.",
+          "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-le-portugal-de-cristiano-ronaldo-en-quete-d-une-premiere-victoire-l-angleterre-vise-les-seiziemes-face-au-ghana_8073899.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "id": 13,
+      "priority": 14
+    },
+    {
+      "theme": "International",
+      "title": "Iran et États-Unis engagent des négociations sur le nucléaire",
+      "brief": "Téhéran et Washington ont lancé des pourparlers en Suisse visant un accord sur le nucléaire et les sanctions.",
+      "summary": "L'Iran et les États-Unis ont organisé dimanche en Suisse des négociations pour résoudre les différends relatifs au programme nucléaire iranien et aux sanctions économiques. Le vice-président américain a estimé que ces discussions ont établi des « bases très solides » en vue d'un accord final. Washington a également annoncé une levée temporaire de soixante jours des sanctions pétrolières contre l'Iran.",
+      "full": "Des pourparlers entre l'Iran et les États-Unis se sont tenus dimanche en Suisse dans l'objectif de mettre fin aux tensions au Moyen-Orient. Selon le vice-président américain, ces discussions ont jeté les fondations d'un accord potentiel. À cette occasion, l'Iran a annoncé la création de groupes de travail chargés d'aborder les questions nucléaires et la levée des sanctions. Parallèlement, l'administration américaine a décidé de suspendre temporairement les sanctions pétrolières contre Téhéran pour une période de soixante jours. Ces mesures marquent une évolution notable dans les relations entre les deux pays, longtemps caractérisées par des tensions diplomatiques et économiques.",
+      "angles": [
+        {
+          "outlet": "France Info",
+          "take": "Le vice-président américain souligne que les négociations ont créé des bases solides pour un accord final sur le nucléaire et les sanctions.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-pourparlers-entre-l-iran-et-les-etats-unis-l-iran-annonce-des-groupes-de-travail-sur-le-nucleaire-et-la-levee-des-sanctions_8075054.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "outlet": "Courrier International",
+          "take": "Washington lève temporairement pour soixante jours les sanctions pétrolières contre l'Iran, perçues comme un avantage significatif pour Téhéran.",
+          "url": "https://www.courrierinternational.com/article/geopolitique-les-etats-unis-levent-leurs-sanctions-sur-le-petrole-iranien-une-aubaine-pour-teheran_245543"
+        }
+      ],
+      "id": 14,
+      "priority": 15
+    },
+    {
+      "theme": "International",
+      "title": "La Roumanie reste sans Premier ministre après nouvel échec",
+      "brief": "Adrian Vestea n'a pas obtenu la confiance du Parlement roumain lundi, prolongeant l'instabilité gouvernementale.",
+      "summary": "La Roumanie traverse une crise politique prolongée depuis la chute du gouvernement d'Ilie Bolojan il y a deux mois. Adrian Vestea, candidat libéral au poste de Premier ministre, n'a pas réussi à se faire élire par le Parlement. Le président Dan doit désormais présenter une nouvelle candidature pour former un exécutif.",
+      "full": "La Roumanie demeure sans gouvernement après l'échec de la candidature d'Adrian Vestea à la charge de Premier ministre, rejetée lundi par le Parlement. Cette nouvelle impasse intervient près de deux mois après la dissolution du gouvernement précédent dirigé par Ilie Bolojan. Le président roumain doit proposer un autre nom pour tenter de constituer un exécutif viable. Pendant ce temps, le parti d'extrême droite AUR, en progression dans les sondages, demande l'organisation d'élections anticipées. Cette situation reflète les difficultés du pays à former une majorité stable au sein de ses institutions législatives.",
+      "angles": [
+        {
+          "outlet": "France 24",
+          "take": "Met l'accent sur la continuité de la crise politique depuis la chute du gouvernement Bolojan et sur le rôle du président dans le choix d'un nouveau candidat.",
+          "url": "https://www.france24.com/fr/europe/20260622-la-roumanie-cherche-toujours-un-nouveau-premier-ministre-apr%C3%A8s-l-%C3%A9chec-d-adrian-vestea"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Souligne la montée électorale du parti d'extrême droite AUR qui réclame des élections anticipées face à cette impasse gouvernementale.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/23/en-roumanie-adrian-vestea-echoue-a-obtenir-la-confiance-du-parlement-le-pays-toujours-sans-premier-ministre_6708376_3210.html"
+        }
+      ],
+      "id": 15,
+      "priority": 16
+    },
+    {
+      "theme": "Économie",
+      "title": "Le groupe Altrad visé par une enquête pour fraude fiscale",
+      "brief": "Le parquet national financier enquête sur le géant montpelliérain du BTP pour soupçons de fraude fiscale aggravée.",
+      "summary": "Le groupe Altrad, important acteur du secteur du bâtiment et des travaux publics, fait l'objet d'une enquête judiciaire pour fraude fiscale aggravée et blanchiment en bande organisée. Ses locaux ont été perquisitionnés par la justice. Le groupe, qui emploie 65 000 personnes, est soupçonné d'avoir mis en place un dispositif international de fraude fiscale.",
+      "full": "Le parquet national financier a ouvert une enquête pénale contre le groupe Altrad pour fraude fiscale aggravée et blanchiment de fraude fiscale aggravée en bande organisée. Des perquisitions ont été menées dans les locaux du groupe montpelliérain. Altrad est un géant du secteur du bâtiment et des travaux publics qui emploie 65 000 personnes. Selon les investigations, le groupe serait soupçonné d'avoir orchestré un système international de fraude fiscale. L'enquête se poursuit pour établir les faits précis et les responsabilités de chacun.",
+      "angles": [
+        {
+          "outlet": "France Info",
+          "take": "Le PNF précise que l'enquête porte spécifiquement sur des infractions de fraude fiscale aggravée et blanchiment en bande organisée.",
+          "url": "https://www.franceinfo.fr/faits-divers/police/la-justice-enquete-sur-le-groupe-industriel-altrad-pour-des-soupcons-de-fraude-fiscale-plusieurs-perquisitions-menees_8074658.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Altrad est présenté comme un géant montpelliérain du BTP soupçonné d'avoir orchestré un système de fraude fiscale de portée internationale.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/23/le-groupe-altrad-vise-par-une-enquete-pour-fraude-fiscale-ses-locaux-perquisitionnes_6708553_3234.html"
+        }
+      ],
+      "id": 16,
+      "priority": 17
+    },
+    {
+      "theme": "Climat",
+      "title": "Canicule : perturbations majeures du trafic ferroviaire",
+      "brief": "La vague de chaleur provoque des dégâts aux infrastructures ferroviaires et des retards importants.",
+      "summary": "Une intense vague de chaleur frappe la France et entraîne des perturbations du trafic ferroviaire. À Bordeaux, des câbles d'alimentation électrique en gare ont été endommagés par les températures extrêmes, causant un retard de plus de cinq heures sur un TGV à destination de Paris. La vigilance rouge s'étend sur le territoire et de nouveaux records de chaleur sont attendus.",
+      "full": "L'intense vague de chaleur qui traverse la France provoque des dégâts importants aux infrastructures de transport. En gare de Bordeaux, les câbles d'alimentation électrique ont été endommagés par la chaleur extrême, entraînant une panne qui a paralysé le trafic ferroviaire. Un train TGV en provenance de Lourdes à destination de Paris a accumulé plus de cinq heures de retard à cause de cet incident. Les agents de la SNCF ont dû intervenir pour rétablir l'alimentation électrique et normaliser la circulation. Cette situation illustre l'impact croissant des vagues de chaleur sur les infrastructures nationales. Selon les autorités, la vigilance rouge s'étend progressivement sur le territoire, et de nouveaux records de température sont anticipés dans les prochains jours.",
+      "angles": [
+        {
+          "outlet": "France Info",
+          "take": "Mets l'accent sur l'incident spécifique de Bordeaux où la chaleur a directement détérioré les installations électriques ferroviaires.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-trafic-tres-perturbe-a-bordeaux-dont-5h40-de-retard-sur-un-tgv-lourdes-paris-suite-a-une-panne-d-alimentation-electrique_8074511.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Souligne l'ampleur générale de la canicule avec l'extension de la vigilance rouge et l'attente de nouveaux records thermiques.",
+          "url": "https://www.20minutes.fr/planete/canicule/4230640-20260623-direct-canicule-vigilance-rouge-cesse-etendre-encore-records-inquietants-vue?at_medium=display&at_campaign=149"
+        }
+      ],
+      "id": 17,
+      "priority": 18
+    },
+    {
+      "theme": "Politique",
+      "title": "Le statut d'autonomie de la Corse examiné à l'Assemblée",
+      "brief": "Les députés votent mardi sur un projet de loi constitutionnelle accordant une autonomie à la Corse.",
+      "summary": "L'Assemblée nationale doit se prononcer mardi 23 juin sur un projet de réforme constitutionnelle visant à conférer un statut d'autonomie à la Corse. Le texte, remanié par plusieurs amendements, constitue une version de compromis mais ne recueille pas l'adhésion de tous les groupes parlementaires. Le projet devra être adopté dans les mêmes termes par le Sénat et soumis au Congrès avant d'acquérir valeur constitutionnelle.",
+      "full": "L'Assemblée nationale examine mardi un projet de loi constitutionnelle destiné à accorder un statut d'autonomie à la Corse. Le texte a été amendé au cours de son examen en commission, entraînant diverses modifications dont certaines relatives à la notion de « communauté insulaire ». Selon les sources, le vote à l'Assemblée est attendu, bien que subsistent des doutes concernant le ralliement de tous les groupes parlementaires. La France insoumise regrette notamment l'absence du principe de « non-régression sociale » dans la version finale. Une fois adopté à l'Assemblée, le projet devra passer par le Sénat dans les mêmes termes, puis être soumis au vote du Congrès pour modifier la Constitution.",
+      "angles": [
+        {
+          "outlet": "Le Monde",
+          "take": "Le texte devrait être voté malgré quelques amendements mineurs, sous réserve de surprise.",
+          "url": "https://www.lemonde.fr/politique/article/2026/06/22/le-statut-d-autonomie-de-la-corse-en-bonne-voie-pour-passer-l-obstacle-de-l-assemblee-nationale_6708090_823448.html"
+        },
+        {
+          "outlet": "Libération",
+          "take": "La version de compromis suscite des réticences, notamment de la part de la France insoumise qui juge le texte incomplet.",
+          "url": "https://www.liberation.fr/politique/statut-de-la-corse-a-lassemblee-une-version-de-compromis-suspendue-a-un-vote-incertain-20260623_7I6OP7ZXPRH2PCLH5J23CMMKPU/"
+        }
+      ],
+      "id": 18,
+      "priority": 19
+    },
+    {
+      "theme": "Culture",
+      "title": "Décès du producteur Clive Davis, figure majeure de la musique",
+      "brief": "Le producteur Clive Davis, découvreur de Whitney Houston et d'innombrables artistes, est décédé lundi à 94 ans.",
+      "summary": "Clive Davis, producteur légendaire de l'industrie musicale américaine, est mort à 94 ans. Figure incontournable pendant plus de cinquante ans, il a découvert et propulsé les plus grandes stars de la musique pop et rock mondiale. Son influence s'étend de Whitney Houston à Aretha Franklin, en passant par Bruce Springsteen, Santana et Billy Joel.",
+      "full": "Clive Davis, l'une des personnalités les plus influentes de l'histoire de la musique enregistrée, s'est éteint lundi. Le producteur de 94 ans a marqué l'industrie musicale en découvrant et en accompagnant nombre des plus grands artistes du XXe siècle. Parmi ses protégés figurent Whitney Houston, Aretha Franklin, Bruce Springsteen, Santana, Janis Joplin, Aerosmith, Billy Joel, Patti Smith, Earth, Wind & Fire et plus récemment Alicia Keys. Aretha Franklin elle-même l'avait autrefois qualifié du « plus grand producteur de disques de tous les temps ». Son flair pour identifier les talents et sa capacité à les développer lui ont valu une reconnaissance unanime dans le secteur musical jusqu'à son décès.",
+      "angles": [
+        {
+          "outlet": "Libération",
+          "take": "Clive Davis est présenté comme une figure de proue de l'industrie musicale américaine ayant contribué aux carrières de figures majeures comme Whitney Houston, Aretha Franklin, Bruce Springsteen et Santana.",
+          "url": "https://www.liberation.fr/culture/musique/mort-du-producteur-de-musique-clive-davis-qui-avait-notamment-decouvert-whitney-houston-20260622_TGUMU3VP2FCZ3OFCOOJUBOAFWE/"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "La source souligne l'étendue de son influence en énumérant une galerie très diverse d'artistes allant de Janis Joplin à Alicia Keys, en passant par Aerosmith et Patti Smith, couvrant plusieurs décennies et genres musicaux.",
+          "url": "https://www.lemonde.fr/culture/article/2026/06/22/le-producteur-clive-davis-qui-avait-notamment-decouvert-whitney-houston-est-mort-a-94-ans_6708094_3246.html"
+        }
+      ],
+      "id": 19,
+      "priority": 20
+    },
+    {
+      "theme": "Politique",
+      "title": "La CFDT se réunit à Bordeaux face à la montée de l'extrême droite",
+      "brief": "Le syndicat CFDT tient son 51e congrès cette semaine dans un contexte de crainte face aux forces d'extrême droite.",
+      "summary": "La CFDT ouvre son 51e congrès à Bordeaux avec plus de 1 600 délégués, dans un contexte marqué par la préparation de l'élection présidentielle de 2027. Marylise Léon, secrétaire générale de la centrale, fustige le Rassemblement national et les partis idéologiquement proches. L'organisation planche sur des propositions destinées à contrer une possible accession au pouvoir de l'extrême droite.",
+      "full": "Le syndicat CFDT réunit depuis lundi à Bordeaux plus de 1 600 délégués pour son 51e congrès, qui se poursuivra toute la semaine. Marylise Léon a ouvert les débats en critiquant vivement le Rassemblement national et les forces politiques qui en sont idéologiquement proches. Ces travaux s'inscrivent dans une perspective clairement tournée vers l'élection présidentielle de 2027, dans un contexte où la centrale syndicale exprime ses préoccupations face à la progression de l'extrême droite. Le congrès sera l'occasion de définir les propositions du syndicat dans l'optique de contrer une éventuelle arrivée au pouvoir de ces formations. La réélection de Marylise Léon à la tête du syndicat est d'ores et déjà acquise.",
+      "angles": [
+        {
+          "outlet": "Le Monde",
+          "take": "Marylise Léon dénonce frontalement le Rassemblement national et les partis proches de ses positions lors du discours inaugural.",
+          "url": "https://www.lemonde.fr/politique/article/2026/06/22/au-premier-jour-de-son-congres-la-cfdt-se-tourne-vers-2027-dans-un-contexte-ou-l-extreme-droite-prospere_6708209_823448.html"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Le congrès se concentre sur l'élaboration de propositions syndicales destinées à prévenir une accession au pouvoir de l'extrême droite.",
+          "url": "https://www.liberation.fr/economie/le-51e-congres-de-la-cfdt-a-lombre-de-la-presidentielle-20260622_H5NZZKYJYRB27E7P4HO3X4W444/"
+        }
+      ],
+      "id": 20,
+      "priority": 21
+    },
+    {
+      "theme": "Économie",
+      "title": "Ebra lance un plan de départs volontaires de 400 postes",
+      "brief": "Le groupe de presse régionale Ebra annonce un plan de réduction d'effectifs représentant 10 % de ses salariés.",
+      "summary": "Ebra, principal groupe de presse régionale de l'est de la France et propriété du Crédit Mutuel, a annoncé un plan de départs volontaires visant jusqu'à 400 postes sur ses 3 200 salariés. La rédaction, l'imprimerie, l'administration des ventes et le studio graphique sont les principaux services affectés. Les syndicats expriment des préoccupations concernant les futures conditions de travail et l'intégration de l'intelligence artificielle.",
+      "full": "Ebra, principal groupe de presse régionale de l'est de la France et propriété du Crédit Mutuel, a annoncé un plan de départs volontaires visant jusqu'à 400 postes sur ses 3 200 salariés, ce qui représente une réduction de 10 % des effectifs. Selon le communiqué du groupe, la rédaction, l'imprimerie, l'administration des ventes et le studio graphique sont les principaux services concernés par ce plan. Cette mesure intervient dans un contexte de transformation du secteur de la presse régionale. Les syndicats se sont montrés préoccupés par les perspectives ouvertes par ce plan, notamment quant aux conditions de travail futures et au rôle croissant de l'intelligence artificielle dans les processus de production.",
+      "angles": [
+        {
+          "outlet": "France Info",
+          "take": "Détaille les départements affectés par le plan : rédaction, imprimerie, administration des ventes et studio graphique.",
+          "url": "https://www.franceinfo.fr/economie/medias/le-groupe-de-presse-regionale-ebra-annonce-un-plan-de-departs-volontaires-visant-jusqu-a-400-postes_8074211.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Souligne que les syndicats craignent des dégradations des conditions de travail et un recours accru à l'intelligence artificielle.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/22/le-groupe-ebra-lance-un-plan-de-departs-volontaires-pour-reduire-les-effectifs-de-10_6707821_3234.html"
+        }
+      ],
+      "id": 21,
+      "priority": 22
+    },
+    {
+      "theme": "Technologie",
+      "title": "Canicule : les appareils électroniques en danger",
+      "brief": "Les fortes chaleurs mettent en péril le fonctionnement de nombreux équipements technologiques.",
+      "summary": "Lors de la canicule qui sévit en France, les appareils électroniques affichent des limites de température d'utilisation qui peuvent être dépassées. Nintendo a notamment rappelé que sa Switch 2 ne doit être utilisée que dans une plage de 5 à 35 degrés Celsius. Au-delà, les risques de dysfonctionnement augmentent significativement.",
+      "full": "Les épisodes de canicule exposent les appareils électroniques à des conditions extrêmes qui excèdent souvent leurs spécifications techniques. La Nintendo Switch 2, par exemple, dispose d'une plage d'utilisation sécurisée comprise entre 5 et 35 degrés Celsius, au-delà de laquelle le constructeur déconseille formellement son usage. Ces restrictions ne concernent pas que le secteur du jeu vidéo : les infrastructures de transport ferroviaire connaissent également des perturbations liées aux chaleurs extrêmes. Les appareils électroniques risquent une surchauffe pouvant affecter leurs composants internes et réduire leur durée de vie. En période de canicule, il est donc recommandé de limiter l'utilisation prolongée des équipements sensibles et de respecter les consignes des fabricants concernant les plages de température.",
+      "angles": [
+        {
+          "outlet": "Numerama",
+          "take": "Nintendo prévient que la Switch 2 ne doit pas être utilisée au-delà de 35 degrés Celsius lors de fortes chaleurs.",
+          "url": "https://www.numerama.com/tech/2045981-nintendo-conseille-de-ne-pas-jouer-a-la-switch-2-pendant-la-canicule.html"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Les chaleurs extrêmes impactent aussi les systèmes ferroviaires, la SNCF ayant du mal à maintenir certaines liaisons.",
+          "url": "https://www.franceinfo.fr/economie/transports/canicule-pourquoi-la-sncf-n-arrive-pas-a-assurer-certaines-liaisons_8074124.html#xtor=RSS-3-%5Bgeneral%5D"
+        }
+      ],
+      "id": 22,
+      "priority": 23
+    },
+    {
+      "theme": "Politique",
+      "title": "Le congé climatique, une mesure défendue en France et appliquée en Espagne",
+      "brief": "La formation écologiste française propose un congé climatique face aux événements météorologiques extrêmes, une mesure déjà en vigueur en Espagne.",
+      "summary": "Les Écologistes français réclament l'instauration d'un congé climatique de cinq jours par an pour protéger les travailleurs lors d'alertes météorologiques. L'Espagne a mis en place un dispositif similaire après les inondations meurtrières de Valence en 2024. Ce congé climatique prévoit des congés payés en cas d'alerte rouge ou orange pour les salariés ne pouvant pas télétravailler.",
+      "full": "Face aux épisodes de canicule et aux intempéries, la formation politique écologiste française promeut l'adoption d'un congé climatique annuel d'une durée de cinq jours. Cette mesure viserait à offrir une protection aux travailleurs exposés à des conditions climatiques dangereuses, notamment ceux dont l'emploi ne permet pas le télétravail. L'Espagne a d'ores et déjà instauré un système comparable, déclenché par les catastrophes naturelles de l'année 2024 dans la région de Valence. Le dispositif espagnol prévoit l'octroi de congés rémunérés lors du déclenchement d'alertes météorologiques de niveau orange ou rouge. Cette approche transalpine démontre qu'une telle mesure ne relève pas d'une proposition purement théorique, mais constitue une politique applicable et déjà en application.",
+      "angles": [
+        {
+          "outlet": "France Info",
+          "take": "Met l'accent sur le fonctionnement du congé climatique espagnol, mis en place après les inondations de 2024 pour protéger les salariés non-télétravaillers lors des alertes météorologiques.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-trois-questions-sur-le-conge-climatique-propose-par-marine-tondelier-et-deja-deploye-en-espagne_8073881.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Souligne que la revendication écologiste française de cinq jours de congé climatique annuel s'inspire d'un précédent espagnol déjà adopté, présenté comme un exemple concret et réalisable.",
+          "url": "https://www.20minutes.fr/societe/4230496-20260623-canicule-conge-climatique-suggere-ecologistes-existe-ailleurs-spoiler-oui?at_medium=display&at_campaign=149"
+        }
+      ],
+      "id": 23,
+      "priority": 24
+    },
+    {
+      "theme": "Politique",
+      "title": "Réexamen de plaintes : 134 personnes en détention provisoire",
+      "brief": "Un réexamen de 70 000 plaintes pour atteintes sur mineurs a conduit à plus de 1 200 gardes à vue.",
+      "summary": "Suite à une directive des ministres de la Justice et de l'Intérieur en juin, les procureurs, policiers et gendarmes ont réétudié toutes les procédures en cours concernant des mineurs. Cette opération a abouti à plus de 1 200 gardes à vue et au placement de 134 personnes en détention provisoire pour violences sexuelles.",
+      "full": "Les autorités françaises ont lancé en juin un réexamen systématique de 70 000 plaintes pour atteintes sexuelles sur mineurs, sur demande des ministres de la Justice et de l'Intérieur. Cette opération, menée par les procureurs, policiers et gendarmes, a débouché sur plus de 1 200 gardes à vue. Au total, 134 personnes ont été placées en détention provisoire pour violences sexuelles. Cette initiative vise à relancer les enquêtes sur les dossiers en suspens ou insuffisamment traités. L'ampleur de ces résultats illustre l'enjeu que représente le traitement des affaires impliquant des mineurs dans le système judiciaire français.",
+      "angles": [
+        {
+          "outlet": "France Info",
+          "take": "Met l'accent sur le bilan chiffré : plus de 1 200 gardes à vue et 134 mises en détention provisoire.",
+          "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/plus-de-1-200-gardes-a-vue-a-la-suite-du-reexamen-de-70-000-plaintes-pour-atteintes-sur-mineur-ordonne-par-gerald-darmanin_8074679.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Souligne le contexte de la directive gouvernementale demandant la réétude exhaustive de toutes les procédures en cours.",
+          "url": "https://www.liberation.fr/societe/police-justice/violences-sexuelles-sur-mineurs-134-personnes-en-detention-provisoire-a-la-suite-du-reexamen-de-70-000-plaintes-20260622_SBP4Z7DSTZG2ZLTDLXLBLJ5TEA/"
+        }
+      ],
+      "id": 24,
+      "priority": 25
+    },
+    {
+      "theme": "Culture",
+      "title": "Thomas Docquir devient première étoile belge de l'Opéra de Paris",
+      "brief": "Le danseur belge Thomas Docquir a été nommé étoile du Ballet de l'Opéra national de Paris.",
+      "summary": "Thomas Docquir, interprète belge de 28 ans, a reçu le titre d'étoile du Ballet de l'Opéra national de Paris le 21 juin, à l'issue d'une représentation de « La Bayadère » à l'Opéra Bastille. Il devient ainsi la première étoile belge de cette prestigieuse institution. Cette nomination couronne une ascension dont le milieu de la danse parlait depuis plusieurs mois.",
+      "full": "Thomas Docquir, danseur belge de 28 ans, a été nommé étoile du Ballet de l'Opéra national de Paris le 21 juin dernier. Cette consécration intervient à l'issue d'une représentation en matinée du ballet « La Bayadère », créé par Rudolf Noureev et donné à l'Opéra Bastille. Docquir devient ainsi le premier danseur belge à accéder à ce titre prestigieux au sein de cette compagnie. Sa nomination met fin à une période d'anticipation au sein des milieux chorégraphiques, où son nom circulait depuis plusieurs mois. Ce grade d'étoile représente le plus haut niveau hiérarchique dans la compagnie de l'Opéra de Paris, reconnaissant l'excellence technique et artistique du danseur.",
+      "angles": [
+        {
+          "outlet": "Le Monde",
+          "take": "Souligne que Docquir devient la première étoile belge de l'institution parisienne et précise le contexte de sa nomination lors d'une représentation de « La Bayadère ».",
+          "url": "https://www.lemonde.fr/culture/article/2026/06/22/le-danseur-thomas-docquir-premiere-etoile-belge-au-ballet-de-l-opera-national-de-paris_6708042_3246.html"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Rapporte que l'annonce était attendue depuis plusieurs mois dans les milieux professionnels avant sa confirmation officielle à l'Opéra Bastille.",
+          "url": "https://www.franceinfo.fr/culture/spectacles/danse/le-belge-thomas-docquir-nomme-etoile-de-l-opera-de-paris-a-28-ans_8073716.html#xtor=RSS-3-%5Bgeneral%5D"
+        }
+      ],
+      "id": 25,
+      "priority": 26
+    },
+    {
+      "theme": "Culture",
+      "title": "Au Rond-Point, Bernhard épingle la bourgeoisie culturelle",
+      "brief": "Jean-François Sivadier met en scène la satire sociale de Thomas Bernhard au théâtre parisien.",
+      "summary": "Le Théâtre du Rond-Point accueille une adaptation de la pièce autrichienne « Tout est calme dans les hauteurs », mise en scène par Jean-François Sivadier. La satire sociale de Thomas Bernhard s'attaque à l'autosatisfaction de la bourgeoisie intellectuelle à travers le couple qu'incarnent Norah Krief et Nicolas Bouchaud. La pièce révèle progressivement le fossé entre l'apparence de respectabilité et la nature corrosive de ses personnages.",
+      "full": "Le Théâtre du Rond-Point accueille une adaptation de la pièce autrichienne « Tout est calme dans les hauteurs », mise en scène par Jean-François Sivadier. La satire sociale de Thomas Bernhard s'attaque à l'autosatisfaction de la bourgeoisie intellectuelle à travers le couple qu'incarnent Norah Krief et Nicolas Bouchaud. La pièce révèle progressivement le fossé entre l'apparence de respectabilité et la nature corrosive de ses personnages. Sous la plume acérée du dramaturge autrichien, deux intellectuels d'apparence convenable se dévoilent comme profondément monstrueux. La mise en scène joue sur ce contraste, laissant le venin de la pièce s'installer progressivement. L'humour et l'abjection se mêlent pour former une critique virulente des travers de l'élite culturelle.",
+      "angles": [
+        {
+          "outlet": "Libération",
+          "take": "La satire décortique la bêtise autosatisfaite de la bourgeoisie culturelle, révélant son venin de manière progressive et troublante.",
+          "url": "https://www.liberation.fr/culture/scenes/tout-est-calme-dans-les-hauteurs-au-theatre-du-rond-point-la-crasse-dominante-20260623_36RRLIYCQ5GF3LSKCGJIDWDHHA/"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Les acteurs Norah Krief et Nicolas Bouchaud incarnent avec excellence ce couple d'apparence respectable dont la nature monstrueuse s'expose sous la plume de Bernhard.",
+          "url": "https://www.lemonde.fr/culture/article/2026/06/22/au-theatre-du-rond-point-tout-est-calme-dans-les-hauteurs-atteint-des-sommets-d-humour-et-d-abjection_6707556_3246.html"
+        }
+      ],
+      "id": 26,
+      "priority": 27
+    },
+    {
+      "theme": "Culture",
+      "title": "France Pierron suspendue après ses propos sur Jérémy Doku",
+      "brief": "La présentatrice de L'Equipe a été sanctionnée pour avoir critiqué la présence d'un footballeur à l'accouchement.",
+      "summary": "France Pierron, animatrice du groupe L'Equipe, a tenu des propos controversés vendredi en estimant qu'un père ne servait à rien lors d'un accouchement et qu'il était préférable que Jérémy Doku reste à la Coupe du monde. Le groupe s'est disassocié de ces commentaires dimanche et a suspendu la journaliste jusqu'à la fin de la saison.",
+      "full": "Vendredi, lors de l'émission « L'Equipe de choc », France Pierron a déclaré que « le papa ne sert à rien » pendant un accouchement, suggérant que le footballeur belge devrait privilégier sa participation à la compétition mondiale. Ces propos ont suscité des réactions négatives. Le groupe L'Equipe s'est excusé publiquement dimanche auprès de Jérémy Doku et a annoncé la suspension de la présentatrice jusqu'à la fin de la saison. France Pierron s'est elle-même excusée le week-end, qualifiant ses remarques d'« avis personnel » et reconnaissant qu'elles « aient pu choquer, heurter ou blesser ».",
+      "angles": [
+        {
+          "outlet": "France Info",
+          "take": "Le groupe L'Equipe s'est disassocié des propos de son animatrice et s'est excusé auprès du footballeur belge.",
+          "url": "https://www.franceinfo.fr/coupe-du-monde/le-groupe-l-equipe-se-desolidarise-des-propos-de-france-pierron-sur-jeremy-doku-qui-voudrait-assister-a-la-naissance-de-son-enfant-pendant-la-coupe-du-monde_8073602.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "Libération",
+          "take": "France Pierron a été suspendue jusqu'à la fin de la saison pour avoir affirmé qu'un père était inutile lors d'un accouchement.",
+          "url": "https://www.liberation.fr/sports/football/lequipe-se-desolidarise-des-propos-de-sa-journaliste-france-pierron-sur-jeremy-doku-et-laccouchement-de-sa-femme-20260622_YGDSWMAS6VETRPH25KTD3I5KNI/"
+        }
+      ],
+      "id": 27,
+      "priority": 28
     }
   ]
 }
