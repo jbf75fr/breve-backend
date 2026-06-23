@@ -61,10 +61,8 @@ jobs:
           cp public/breves.json /tmp/breve-out/ 2>/dev/null || true
           cp public/breves.js   /tmp/breve-out/ 2>/dev/null || true
 
-          # Annule toute modification locale et se cale sur le dépôt distant.
-          git reset --hard
+          # Se recale proprement sur la dernière version distante de main.
           git fetch origin main
-          git checkout main
           git reset --hard origin/main
 
           # Replace la version fraîche par-dessus la version distante à jour.
@@ -76,5 +74,5 @@ jobs:
             echo "Aucun changement, rien à publier."
           else
             git commit -m "Revue du jour $(date -u +%Y-%m-%d)"
-            git push origin main
+            git push origin HEAD:main
           fi
