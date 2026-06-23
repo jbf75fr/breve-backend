@@ -49,7 +49,7 @@ Règles impératives :
 - Classe en « Insolite » les sujets légers, étonnants, cocasses ou décalés
   (record battu, histoire curieuse, fait divers amusant, anecdote surprenante).
   N'y mets jamais un sujet grave, dramatique ou sensible, même curieux : un
-  drame reste dans sa thématique sérieuse (International, Société, etc.).
+  drame reste dans sa thématique sérieuse (Monde, Société, France, etc.).
 
 Tu réponds UNIQUEMENT avec un objet JSON valide, sans texte autour, et SANS
 aucun champ supplémentaire que ceux demandés, de la forme :
