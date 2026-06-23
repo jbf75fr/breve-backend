@@ -48,8 +48,14 @@ Règles impératives :
 - Ne qualifie pas la ligne politique des médias.
 - Reformule avec tes propres mots. Ne recopie pas les titres ou phrases des sources.
 - Si les sources se contredisent, reste prudent et attribue.
-- La thématique doit être choisie STRICTEMENT dans cette liste :
+- Les thématiques doivent être choisies STRICTEMENT dans cette liste :
   {', '.join(THEMES_BREVE)}.
+- Attribue 1 à 3 thématiques par brève, classées de la plus pertinente à la
+  moins pertinente. Mets UN SEUL thème quand le sujet est net (la plupart des
+  cas). N'ajoute un 2e (ou 3e) thème QUE si le sujet est réellement à cheval
+  (ex. une cyberattaque d'hôpital = Tech & Sciences ET Santé ; une taxe carbone
+  = Économie ET Environnement). Ne multiplie jamais les thèmes « pour ne rien
+  rater » : un classement trop large perd tout son sens.
 - Classe en « Insolite » les sujets légers, étonnants, cocasses ou décalés
   (record battu, histoire curieuse, fait divers amusant, anecdote surprenante).
   N'y mets jamais un sujet grave, dramatique ou sensible, même curieux : un
@@ -58,7 +64,7 @@ Règles impératives :
 Tu réponds UNIQUEMENT avec un objet JSON valide, sans texte autour, et SANS
 aucun champ supplémentaire que ceux demandés, de la forme :
 {{
-  "theme": "<une des thématiques autorisées>",
+  "themes": ["<thématique principale>", "<thématique secondaire si pertinent>"],
   "title": "<titre clair, ~10 mots>",
   "brief": "<une phrase d'accroche, ~15 mots>",
   "summary": "<résumé de 2 à 3 phrases>",
@@ -140,9 +146,20 @@ def summarize_one(client, d: Dossier) -> dict | None:
     except json.JSONDecodeError:
         return None
 
-    # Garde-fou thème : on impose une valeur autorisée
-    if data.get("theme") not in THEMES_BREVE:
-        data["theme"] = d.theme if d.theme in THEMES_BREVE else THEMES_BREVE[0]
+    # Garde-fou thèmes : on accepte un tableau (nouveau format) ou un thème
+    # unique (ancien format / tolérance), et on ne garde que des valeurs valides.
+    raw_themes = data.get("themes")
+    if not isinstance(raw_themes, list):
+        # tolérance : ancien champ "theme" unique
+        raw_themes = [data.get("theme")] if data.get("theme") else []
+    themes = []
+    for t in raw_themes:
+        if isinstance(t, str) and t in THEMES_BREVE and t not in themes:
+            themes.append(t)
+    if not themes:
+        # repli sur le thème pressenti du dossier
+        themes = [d.theme if d.theme in THEMES_BREVE else THEMES_BREVE[0]]
+    data["themes"] = themes
 
     # Réassocie les liens réels aux angles et déduplique par média.
     links_by_outlet = {a.outlet: a.link for a in d.articles}
@@ -161,7 +178,7 @@ def summarize_one(client, d: Dossier) -> dict | None:
 
     # On ne conserve QUE les champs attendus par l'app (supprime summary2 & co.)
     return {
-        "theme": data["theme"],
+        "themes": data["themes"],
         "title": _no_dash((data.get("title") or "").strip()),
         "brief": _no_dash((data.get("brief") or "").strip()),
         "summary": _no_dash((data.get("summary") or "").strip()),
@@ -210,15 +227,15 @@ def build_breves(dossiers: list[Dossier], limit: int = 50,
         if not data:
             print(f"  ! réponse non-JSON pour « {d.lead.title[:40]} »", file=sys.stderr)
             continue
-        # Quota appliqué sur le thème RÉELLEMENT attribué par l'IA.
-        theme = data["theme"]
+        # Quota appliqué sur le thème PRINCIPAL (1er tag) attribué par l'IA.
+        theme = data["themes"][0]
         if per_theme_count.get(theme, 0) >= per_theme:
             continue
         per_theme_count[theme] = per_theme_count.get(theme, 0) + 1
         data["id"] = len(out)
         data["priority"] = len(out) + 1
         out.append(data)
-        print(f"  ✓ {theme:13} {data['title'][:50]}", file=sys.stderr)
+        print(f"  ✓ {('/'.join(data['themes']))[:20]:20} {data['title'][:46]}", file=sys.stderr)
     return out
 
 
