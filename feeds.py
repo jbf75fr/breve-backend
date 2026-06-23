@@ -52,9 +52,16 @@ FEEDS = [
     # --- Santé ---
     ("France Info Santé",    "https://www.franceinfo.fr/sante.rss",                           "Santé"),
     ("Le Monde Santé",       "https://www.lemonde.fr/sante/rss_full.xml",                     "Santé"),
+
+    # --- Insolite ---
+    # 20 Minutes Insolite est un flux dédié qui fonctionne. En complément,
+    # l'IA (summarize.py) classe aussi en « Insolite » les sujets légers et
+    # étonnants repérés dans les flux généralistes — ce qui aide au recoupement
+    # (règle des 2 sources) et garantit du contenu même les jours creux.
+    ("20 Minutes Insolite",  "https://www.20minutes.fr/feeds/rss-insolite.xml",               "Insolite"),
 ]
 
 # Mapping des thèmes "Général" vers les thématiques Brève se fait à l'étape IA,
 # qui classe chaque sujet. Les thèmes ci-dessus correspondent à ceux de l'app :
 THEMES_BREVE = ["Politique", "Économie", "International", "Technologie",
-                "Sciences", "Culture", "Sport", "Climat", "Santé"]
+                "Sciences", "Culture", "Sport", "Climat", "Santé", "Insolite"]

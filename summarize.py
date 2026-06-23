@@ -46,6 +46,10 @@ Règles impératives :
 - Si les sources se contredisent, reste prudent et attribue.
 - La thématique doit être choisie STRICTEMENT dans cette liste :
   {', '.join(THEMES_BREVE)}.
+- Classe en « Insolite » les sujets légers, étonnants, cocasses ou décalés
+  (record battu, histoire curieuse, fait divers amusant, anecdote surprenante).
+  N'y mets jamais un sujet grave, dramatique ou sensible, même curieux : un
+  drame reste dans sa thématique sérieuse (International, Société, etc.).
 
 Tu réponds UNIQUEMENT avec un objet JSON valide, sans texte autour, et SANS
 aucun champ supplémentaire que ceux demandés, de la forme :
@@ -140,17 +144,38 @@ def summarize_one(client, d: Dossier) -> dict | None:
     }
 
 
-def build_breves(dossiers: list[Dossier], limit: int = 20,
-                 min_sources: int = 2) -> list[dict]:
+def build_breves(dossiers: list[Dossier], limit: int = 50,
+                 min_sources: int = 2, per_theme: int = 6) -> list[dict]:
     """
     Génère les brèves pour les meilleurs dossiers.
-    min_sources=2 applique la règle « au moins deux sources » de Brève
-    (les dossiers à source unique sont ignorés ici).
+
+    Deux garde-fous pour servir le lecteur sans surcharger :
+      - min_sources : règle « au moins N sources » de Brève (def. 2) ;
+      - per_theme   : nombre maximum de brèves par thème (def. 6). On vise
+                      « jusqu'à » ce nombre : si l'actualité d'un thème est
+                      pauvre un jour donné, on en aura moins, et c'est normal —
+                      on ne fabrique pas d'actualité qui n'existe pas ;
+      - limit       : plafond TOTAL de brèves, tous thèmes confondus (def. 50),
+                      pour borner le coût et la durée du batch.
+
+    Les dossiers sont déjà triés par importance par collect(). On les parcourt
+    dans l'ordre et on s'arrête de générer pour un thème dès qu'il a atteint son
+    quota — ce qui répartit naturellement les brèves entre thématiques.
     """
     client = _client()
     out = []
+    per_theme_count: dict[str, int] = {}
     eligible = [d for d in dossiers if len(d.outlets) >= min_sources]
-    for i, d in enumerate(eligible[:limit]):
+
+    for d in eligible:
+        if len(out) >= limit:
+            break  # plafond total atteint
+        # Pré-filtre par le thème pressenti du dossier : si ce thème a déjà son
+        # quota, inutile d'appeler l'IA (économie d'appels). Le thème final
+        # confirmé par l'IA est revérifié juste après.
+        tentative = d.theme if d.theme in THEMES_BREVE else None
+        if tentative and per_theme_count.get(tentative, 0) >= per_theme:
+            continue
         try:
             data = summarize_one(client, d)
         except Exception as ex:
@@ -159,10 +184,15 @@ def build_breves(dossiers: list[Dossier], limit: int = 20,
         if not data:
             print(f"  ! réponse non-JSON pour « {d.lead.title[:40]} »", file=sys.stderr)
             continue
-        data["id"] = i
-        data["priority"] = i + 1
+        # Quota appliqué sur le thème RÉELLEMENT attribué par l'IA.
+        theme = data["theme"]
+        if per_theme_count.get(theme, 0) >= per_theme:
+            continue
+        per_theme_count[theme] = per_theme_count.get(theme, 0) + 1
+        data["id"] = len(out)
+        data["priority"] = len(out) + 1
         out.append(data)
-        print(f"  ✓ {data['theme']:13} {data['title'][:50]}", file=sys.stderr)
+        print(f"  ✓ {theme:13} {data['title'][:50]}", file=sys.stderr)
     return out
 
 
