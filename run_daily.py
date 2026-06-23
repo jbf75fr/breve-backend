@@ -30,7 +30,7 @@ def main():
     ap = argparse.ArgumentParser(description="Batch quotidien Brève")
     ap.add_argument("--limit", type=int, default=50)
     ap.add_argument("--min-sources", type=int, default=2)
-    ap.add_argument("--per-theme", type=int, default=6,
+    ap.add_argument("--per-theme", type=int, default=5,
                     help="nombre maximum de brèves par thème (def. 6)")
     ap.add_argument("--out", default=".")
     ap.add_argument("--dry-run", action="store_true",

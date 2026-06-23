@@ -171,13 +171,13 @@ def summarize_one(client, d: Dossier) -> dict | None:
 
 
 def build_breves(dossiers: list[Dossier], limit: int = 50,
-                 min_sources: int = 2, per_theme: int = 6) -> list[dict]:
+                 min_sources: int = 2, per_theme: int = 5) -> list[dict]:
     """
     Génère les brèves pour les meilleurs dossiers.
 
     Deux garde-fous pour servir le lecteur sans surcharger :
       - min_sources : règle « au moins N sources » de Brève (def. 2) ;
-      - per_theme   : nombre maximum de brèves par thème (def. 6). On vise
+      - per_theme   : nombre maximum de brèves par thème (def. 5). On vise
                       « jusqu'à » ce nombre : si l'actualité d'un thème est
                       pauvre un jour donné, on en aura moins, et c'est normal —
                       on ne fabrique pas d'actualité qui n'existe pas ;
