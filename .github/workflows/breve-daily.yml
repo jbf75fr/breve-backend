@@ -47,14 +47,34 @@ jobs:
         run: |
           git config user.name "Brève Bot"
           git config user.email "actions@users.noreply.github.com"
+
+          # Les fichiers de données (breves.json / breves.js) sont ENTIÈREMENT
+          # régénérés à chaque exécution : l'ancienne version n'a aucune valeur.
+          # On met donc en place une stratégie sans conflit possible :
+          #   1. on sauvegarde la version fraîche qu'on vient de produire ;
+          #   2. on se resynchronise sur la dernière version du dépôt ;
+          #   3. on réécrit les fichiers avec la version fraîche ;
+          #   4. on publie.
+          # Ainsi, quoi qu'il se soit passé entre-temps, la revue du jour gagne.
+
+          mkdir -p /tmp/breve-out
+          cp public/breves.json /tmp/breve-out/ 2>/dev/null || true
+          cp public/breves.js   /tmp/breve-out/ 2>/dev/null || true
+
+          # Annule toute modification locale et se cale sur le dépôt distant.
+          git reset --hard
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+
+          # Replace la version fraîche par-dessus la version distante à jour.
+          cp /tmp/breve-out/breves.json public/breves.json 2>/dev/null || true
+          cp /tmp/breve-out/breves.js   public/breves.js   2>/dev/null || true
+
           git add public/breves.json public/breves.js
           if git diff --staged --quiet; then
-            echo "Aucun changement — rien à publier."
+            echo "Aucun changement, rien à publier."
           else
-            git commit -m "Revue du jour — $(date -u +%Y-%m-%d)"
-            # Se resynchronise avec le dépôt avant de publier, pour éviter
-            # un rejet si le dépôt a changé entre-temps. --rebase rejoue
-            # proprement notre commit par-dessus les éventuels changements.
-            git pull --rebase origin main || true
-            git push
+            git commit -m "Revue du jour $(date -u +%Y-%m-%d)"
+            git push origin main
           fi
