@@ -3,10 +3,11 @@ name: Brève — revue quotidienne
 # Quand ce traitement se déclenche
 on:
   schedule:
-    # Tous les jours à 03:30 UTC = 05:30 heure de Paris (été).
-    # En hiver (heure d'hiver française), cela correspond à 04:30 Paris.
-    # Format cron : minute heure jour mois jour_semaine
-    - cron: "30 3 * * *"
+    # Tous les jours à 04:00 UTC = 06:00 heure de Paris (été, UTC+2).
+    # En hiver (heure d'hiver française, UTC+1), cela correspond à 05:00 Paris.
+    # GitHub Actions ne gère pas le changement d'heure : ce décalage d'une
+    # heure en hiver est normal. Format cron : minute heure jour mois jour_semaine
+    - cron: "0 4 * * *"
   # Permet aussi de lancer manuellement depuis l'onglet Actions de GitHub
   # (utile pour tester sans attendre le lendemain matin).
   workflow_dispatch:
@@ -38,7 +39,7 @@ jobs:
       - name: Générer les brèves
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python run_daily.py --limit 12 --out ./public
+        run: python run_daily.py --limit 50 --out ./public
 
       # 5. Publie le résultat : si breves.json a changé, on l'enregistre
       #    dans le dépôt. L'app pourra alors lire la revue à jour.
@@ -51,5 +52,9 @@ jobs:
             echo "Aucun changement — rien à publier."
           else
             git commit -m "Revue du jour — $(date -u +%Y-%m-%d)"
+            # Se resynchronise avec le dépôt avant de publier, pour éviter
+            # un rejet si le dépôt a changé entre-temps. --rebase rejoue
+            # proprement notre commit par-dessus les éventuels changements.
+            git pull --rebase origin main || true
             git push
           fi
