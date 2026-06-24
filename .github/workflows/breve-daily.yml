@@ -8,6 +8,8 @@ on:
     # GitHub Actions ne gère pas le changement d'heure : ce décalage d'une
     # heure en hiver est normal. Format cron : minute heure jour mois jour_semaine
     - cron: "0 4 * * *"
+    # --- CRÉNEAU DE TEST TEMPORAIRE (à retirer ensuite) : 06:16 UTC = 08:16 Paris ---
+    - cron: "16 6 * * *"
   # Permet aussi de lancer manuellement depuis l'onglet Actions de GitHub
   # (utile pour tester sans attendre le lendemain matin).
   workflow_dispatch:
