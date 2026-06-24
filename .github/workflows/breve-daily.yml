@@ -80,3 +80,12 @@ jobs:
             git commit -m "Revue du jour $(date -u +%Y-%m-%d)"
             git push origin HEAD:main
           fi
+
+      # 6. Prévient les abonnés que la revue du jour est prête (via OneSignal).
+      #    La clé est un secret du dépôt ; si elle est absente, l'étape ne fait
+      #    rien et ne casse pas le workflow.
+      - name: Notifier les abonnés
+        env:
+          ONESIGNAL_API_KEY: ${{ secrets.ONESIGNAL_API_KEY }}
+          ONESIGNAL_APP_ID: c26253c9-7282-4fca-9dbf-53183c86796d
+        run: python notify_onesignal.py
