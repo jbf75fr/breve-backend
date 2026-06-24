@@ -16,26 +16,33 @@ FEEDS = [
     ("Libération",           "https://www.liberation.fr/arc/outboundfeeds/rss/?outputType=xml","Général"),
     ("France 24",            "https://www.france24.com/fr/france/rss",                        "Général"),
     ("20 Minutes",           "https://www.20minutes.fr/feeds/rss-une.xml",                    "Général"),
+    ("Le Point",             "https://www.lepoint.fr/rss.xml",                                "Général"),
 
     # --- France (vie politique et nationale) ---
     ("France Info Politique","https://www.franceinfo.fr/politique.rss",                       "France"),
     ("Le Monde Politique",   "https://www.lemonde.fr/politique/rss_full.xml",                 "France"),
+    ("Le Figaro Politique",  "https://www.lefigaro.fr/rss/figaro_politique.xml",              "France"),
+    ("L'Humanité",           "https://www.humanite.fr/feed",                                  "France"),
 
     # --- Économie ---
     ("Le Monde Économie",    "https://www.lemonde.fr/economie/rss_full.xml",                  "Économie"),
     ("Les Échos",            "https://services.lesechos.fr/rss/les-echos-economie.xml",       "Économie"),
     ("France Info Éco",      "https://www.franceinfo.fr/economie.rss",                        "Économie"),
+    ("Le Figaro Éco",        "https://www.lefigaro.fr/rss/figaro_economie.xml",               "Économie"),
+    ("L'Opinion",            "https://www.lopinion.fr/feed",                                  "Économie"),
 
     # --- Monde (actualité internationale) ---
     ("Le Monde International","https://www.lemonde.fr/international/rss_full.xml",             "Monde"),
     ("France 24 Monde",      "https://www.france24.com/fr/rss",                               "Monde"),
     ("Courrier International","https://www.courrierinternational.com/feed/all/rss.xml",        "Monde"),
+    ("Le Figaro International","https://www.lefigaro.fr/rss/figaro_international.xml",         "Monde"),
 
     # --- Tech & Sciences (fusionnées) ---
     ("Numerama",             "https://www.numerama.com/feed/",                                "Tech & Sciences"),
     ("Le Monde Pixels",      "https://www.lemonde.fr/pixels/rss_full.xml",                    "Tech & Sciences"),
     ("Sciences et Avenir",   "https://www.sciencesetavenir.fr/rss.xml",                       "Tech & Sciences"),
     ("Le Monde Sciences",    "https://www.lemonde.fr/sciences/rss_full.xml",                  "Tech & Sciences"),
+    ("Le Figaro Sciences",   "https://www.lefigaro.fr/rss/figaro_sciences.xml",               "Tech & Sciences"),
 
     # --- Culture ---
     ("France Info Culture",  "https://www.franceinfo.fr/culture.rss",                         "Culture"),
@@ -56,6 +63,8 @@ FEEDS = [
     # --- Société (faits de société, éducation, justice) ---
     ("France Info Société",  "https://www.franceinfo.fr/societe.rss",                         "Société"),
     ("Le Monde Société",     "https://www.lemonde.fr/societe/rss_full.xml",                   "Société"),
+    ("Mediapart",            "https://www.mediapart.fr/articles/feed",                        "Société"),
+    ("Politis",              "https://www.politis.fr/flux-rss-apps/",                         "Société"),
 
     # --- Insolite ---
     # 20 Minutes Insolite est un flux dédié qui fonctionne. En complément,
