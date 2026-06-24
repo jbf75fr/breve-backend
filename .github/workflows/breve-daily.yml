@@ -4,14 +4,16 @@ name: Brève — revue quotidienne
 on:
   schedule:
     # Tous les jours à 04:00 UTC = 06:00 heure de Paris (été, UTC+2).
-    # En hiver (heure d'hiver française, UTC+1), cela correspond à 05:00 Paris.
-    # GitHub Actions ne gère pas le changement d'heure : ce décalage d'une
-    # heure en hiver est normal. Format cron : minute heure jour mois jour_semaine
+    # NB : les crons GitHub sont peu fiables (souvent retardés ou sautés).
+    # Le déclenchement réel se fait via un planificateur externe (cron-job.org)
+    # qui appelle le déclencheur "repository_dispatch" ci-dessous. Ce cron reste
+    # en filet de secours au cas où GitHub l'honorerait.
     - cron: "0 4 * * *"
-    # --- CRÉNEAU DE TEST TEMPORAIRE (à retirer ensuite) : 06:16 UTC = 08:16 Paris ---
-    - cron: "16 6 * * *"
-  # Permet aussi de lancer manuellement depuis l'onglet Actions de GitHub
-  # (utile pour tester sans attendre le lendemain matin).
+  # Déclenchement par appel extérieur (planificateur cron-job.org) : c'est le
+  # mécanisme fiable qui lance vraiment la revue chaque matin.
+  repository_dispatch:
+    types: [revue-quotidienne]
+  # Permet aussi de lancer manuellement depuis l'onglet Actions de GitHub.
   workflow_dispatch:
 
 # Autorise le workflow à réécrire le fichier de données dans le dépôt
