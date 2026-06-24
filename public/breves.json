@@ -1,36 +1,32 @@
 {
-  "generated_at": "2026-06-24T07:32:53.901673+00:00",
+  "generated_at": "2026-06-24T12:08:34.908056+00:00",
   "date_label": "Mercredi 24 juin",
-  "count": 27,
+  "count": 32,
   "breves": [
     {
       "themes": [
-        "Sport"
+        "Santé",
+        "Monde"
       ],
-      "title": "Deschamps absent du banc contre la Norvège pour obsèques",
-      "brief": "Le sélectionneur de l'équipe de France rentre pour les obsèques de sa mère et manquera le dernier match de groupe.",
-      "summary": "Didier Deschamps quitte la Coupe du monde 2026 quelques jours pour assister aux obsèques de sa mère, annoncée par la Fédération française de football. Il ne dirigera pas les Bleus lors du match contre la Norvège, vendredi 26 juin, dernier match de la phase de groupe. Son adjoint Guy Stéphan le remplacera sur le banc de touche pour cette rencontre.",
-      "full": "La Fédération française de football a annoncé mardi le décès de la mère du sélectionneur Didier Deschamps. Endeuillé, ce dernier va quitter temporairement le groupe pour retourner en France et assister à ses obsèques. Il ne sera donc pas présent lors du dernier match de groupe de la France face à la Norvège, prévu vendredi 26 juin en Coupe du monde 2026. Son adjoint Guy Stéphan, considéré comme un pilier du système en quatorze années aux côtés de Deschamps, prendra sa place à la tête du banc français pour cette rencontre. Le sélectionneur devrait revenir avec l'équipe après cette pause personnelle.",
+      "title": "Premier cas d'Ebola identifié en France",
+      "brief": "Un médecin de retour de RD Congo est atteint du virus Ebola, première détection sur le territoire français.",
+      "summary": "Les autorités sanitaires ont annoncé mercredi la détection d'un premier cas de maladie à virus Ebola en France, chez un médecin humanitaire revenant de République démocratique du Congo. Le patient a été immédiatement pris en charge dans un établissement spécialisé et se trouve dans un état stable. Selon le ministère de la Santé, sa charge virale est très faible et le risque de transmission reste jugé faible.",
+      "full": "Un premier cas de maladie à virus Ebola a été identifié en France chez un médecin de retour de RD Congo, ont annoncé les autorités sanitaires mercredi 24 juin. Il s'agit de la première détection de la maladie jamais diagnostiquée sur le territoire français. Le patient a été pris en charge dès son arrivée dans un établissement spécialisé et demeure dans un état stable. Le ministère de la Santé précise que sa charge virale est très faible. Le gouvernement suit la situation de très près, selon l'Agence France Presse. Le risque de transmission épidémique en France et à l'échelle mondiale est actuellement jugé faible par les autorités sanitaires.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "Souligne le rôle central de Guy Stéphan dans le fonctionnement du groupe tricolore depuis une décennie et demie.",
-          "url": "https://www.lemonde.fr/sport/article/2026/06/24/coupe-du-monde-2026-guy-stephan-la-piece-maitresse-du-systeme-deschamps-dirigera-les-bleus-contre-la-norvege_6710203_3242.html"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Confirme que Deschamps s'absente quelques jours et sera remplacé par son adjoint lors de la rencontre.",
-          "url": "https://www.franceinfo.fr/sports/foot/didier-deschamps/didier-deschamps-rentre-en-france-pour-les-obseques-de-sa-mere_8076491.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Rapporte que la Fédération française a officiellement annoncé l'absence du sélectionneur et la désignation de son remplaçant.",
-          "url": "https://www.france24.com/fr/sports/20260623-mondial-2026-didier-deschamps-rentre-en-france-suite-au-d%C3%A9c%C3%A8s-de-sa-m%C3%A8re-et-sera-absent-contre-la-norv%C3%A8ge"
+          "take": "Souligne que le premier ministre Sébastien Lecornu suit la situation de très près.",
+          "url": "https://www.lemonde.fr/societe/article/2026/06/24/ebola-un-premier-cas-identifie-en-france-chez-un-medecin-de-retour-de-rdc_6710248_3224.html"
         },
         {
           "outlet": "Libération",
-          "take": "Précise que ce dernier match de groupe verra l'adjoint de Deschamps diriger l'équipe.",
-          "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-didier-deschamps-va-rentrer-en-france-apres-la-mort-de-sa-mere-20260623_R2RDNKK6VJBKVHO3WBBVUSIA3I/"
+          "take": "Insiste sur la charge virale très faible du patient et l'absence de risque de transmission épidémique.",
+          "url": "https://www.liberation.fr/societe/sante/ebola-un-premier-cas-identifie-en-france-chez-un-medecin-de-retour-de-rdc-20260624_K46A4NVLABA2JIQQ6TTFGBSRCE/"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Précise que le patient est un médecin humanitaire ayant été pris en charge immédiatement.",
+          "url": "https://www.20minutes.fr/sante/4230913-20260624-ebola-premier-cas-maladie-identifie-france-chez-medecin-humanitaire?at_medium=display&at_campaign=149"
         }
       ],
       "id": 0,
@@ -38,38 +34,37 @@
     },
     {
       "themes": [
-        "Culture",
-        "France"
+        "Sport"
       ],
-      "title": "Marc Bloch et son épouse entrent au Panthéon",
-      "brief": "L'historien et résistant Marc Bloch a été panthéonisé mardi, quatre-vingt-deux ans après son exécution par la Gestapo.",
-      "summary": "Mardi 23 juin, Marc Bloch, historien du Moyen Âge et figure de la Résistance fusillé en 1944, a effectué son entrée au Panthéon aux côtés de son épouse Simonne Vidal. La cérémonie, présidée par Emmanuel Macron, a été marquée par un discours du chef de l'État dénonçant Vichy, l'antisémitisme et « l'esprit de défaite » affectant la vie publique. La famille de l'historien a exprimé sa satisfaction de l'absence de représentants de l'extrême droite à l'événement, redoutant une récupération de son héritage.",
-      "full": "L'historien Marc Bloch, fondateur de la revue « Annales d'histoire économique et sociale » et participant aux deux guerres mondiales, rejoint le Panthéon. Fusillé par les Allemands le 16 juin 1944, il est honoré soixante-dix-huit années plus tard pour son engagement en faveur de la France et ses travaux académiques. Emmanuel Macron a prononcé un discours réquisitoire contre Vichy et l'antisémitisme, établissant des parallèles avec la situation politique contemporaine. Matis Bloch, arrière-petit-fils de l'historien, a salué l'absence de représentants de l'extrême droite lors de la cérémonie, craignant une appropriation inappropriée du travail de son aïeul. La presse européenne a relevé le caractère politique de cette panthéonisation, interrogeant à la fois l'ampleur des cérémonies présidentielles et les tentatives de récupération de la figure de résistant.",
+      "title": "Mondial 2026 : la dernière journée de poules décide les huit meilleurs troisièmes",
+      "brief": "Mercredi 24 juin, la phase de groupes s'achève avec six matchs décisifs pour déterminer les huit sélections accédant aux seizièmes.",
+      "summary": "La dernière journée de la phase de poules du Mondial 2026 se dispute mercredi soir, avec plusieurs équipes encore en lice pour figurer parmi les huit meilleurs troisièmes qualifiés pour les seizièmes de finale. Le Brésil et le Maroc se disputent la première place de leur groupe, tandis que le Canada et la Suisse cherchent à sécuriser leur billet. Le système des meilleurs troisièmes, réinstauré pour la première fois depuis 1994, continue de susciter des critiques sur son équité.",
+      "full": "Avant la clôture de la phase de groupes, mercredi 24 juin, plusieurs sélections occupent des positions incertaines et espèrent encore accéder aux seizièmes de finale par le biais des meilleurs troisièmes. Six matchs sont au programme, distribués sur trois groupes en soirée et dans la nuit. Le Brésil et le Maroc se battent pour le leadership de leur groupe, tandis que des équipes comme le Canada et la Suisse tentent de consolider leur avance pour sécuriser directement leur qualification. L'Écosse, menée par ses supporteurs de la Tartan Army, affronte le Brésil dans une rencontre à suivre. Le format retenu pour 2026, qui accorde une chance à huit troisièmes, marque le retour de cette règle depuis la dernière application en 1994, bien que le système ne fasse pas consensus au sein du monde du football.",
       "angles": [
         {
+          "outlet": "France 24",
+          "take": "Propose une analyse de la situation de chaque meilleur tiers en lice, avec classement et critères de départage en amont de la dernière journée.",
+          "url": "https://www.france24.com/fr/sports/20260624-mondial-2026-focus-sur-les-meilleurs-troisi%C3%A8mes-avant-la-derni%C3%A8re-journ%C3%A9e"
+        },
+        {
           "outlet": "Le Monde",
-          "take": "Macron a livré dans son discours un réquisitoire contre Vichy et l'antisémitisme, mettant en garde contre « l'esprit de défaite » qui caractériserait la vie publique actuelle.",
-          "url": "https://www.lemonde.fr/politique/article/2026/06/24/marc-bloch-fait-son-entree-au-pantheon-dans-un-emouvant-moment-de-communion-republicaine_6710059_823448.html"
+          "take": "Soulève les critiques formulées contre le système des meilleurs troisièmes, le qualifiant de formule contestée pour son équité.",
+          "url": "https://www.lemonde.fr/sport/article/2026/06/24/c-est-le-pire-la-qualification-des-meilleurs-troisiemes-un-systeme-qui-ne-fait-pas-l-unanimite-a-la-coupe-du-monde-2026_6710229_3242.html"
         },
         {
           "outlet": "France Info",
-          "take": "La famille de Bloch s'est félicitée de l'absence de l'extrême droite à la cérémonie et dénonce toute tentative de récupération de l'historien.",
-          "url": "https://www.franceinfo.fr/societe/debats/pantheon/marc-bloch-sa-famille-ne-veut-pas-voir-l-extreme-droite-au-pantheon_8075819.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Marc Bloch est présenté comme un combattant engagé lors de deux conflits mondiaux et un savant spécialiste du Moyen Âge.",
-          "url": "https://www.france24.com/fr/france/20260623-marc-bloch-pantheon-macron-ceremonie-direct"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "La presse européenne interroge le caractère politique de la panthéonisation et la récupération potentielle de cet événement par l'extrême droite.",
-          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-la-pantheonisation-tres-politique-de-l-historien-marc-bloch_245597"
+          "take": "Détaille le programme de mercredi avec la configuration des trois groupes au complet et les enjeux spécifiques de chaque équipe.",
+          "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-le-bresil-et-le-maroc-a-distance-pour-la-premiere-place-de-leur-groupe-le-canada-et-la-suisse-veulent-verrouiller-leur-qualification_8076098.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Libération",
-          "take": "Le discours présidentiel tisse volontairement des parallèles entre l'héritage de Bloch et les enjeux politiques contemporains.",
-          "url": "https://www.liberation.fr/politique/au-pantheon-macron-honore-marc-bloch-et-met-en-garde-contre-lesprit-de-defaite-20260624_VPYL7IDB3ZA7BGLWVMYOLWTBBQ/"
+          "take": "Braque l'attention sur l'ambiance créée par les supporteurs écossais et leur présence remarquée avant le match contre le Brésil.",
+          "url": "https://www.liberation.fr/sports/football/pourquoi-lecosse-est-championne-du-monde-des-supporteurs-avec-sa-tartan-army-20260624_QYQM2R6TVVHDNFZVDRCC5KJ5L4/"
+        },
+        {
+          "outlet": "Courrier International",
+          "take": "Synthétise l'état général de la compétition avec sept équipes déjà qualifiées, cinq éliminées, et les récits marquants de la presse étrangère.",
+          "url": "https://www.courrierinternational.com/live/coupe-du-monde-jour-14-les-petites-et-grandes-histoires-de-la-presse-etrangere_244129_14"
         }
       ],
       "id": 1,
@@ -77,27 +72,37 @@
     },
     {
       "themes": [
-        "Sport"
+        "France"
       ],
-      "title": "Coupe du monde 2026 : l'Angleterre blanchie par le Ghana",
-      "brief": "L'Angleterre et le Ghana se sont quittés sur un score de 0-0 lors de la deuxième journée de la phase de groupes.",
-      "summary": "L'Angleterre n'a pas trouvé la faille face à une défense ghanéenne bien organisée, mardi à Boston, lors du Mondial 2026. Le match nul 0-0 représente un point positif pour le Ghana mais frustra les Three Lions, incapables de dominer malgré leur statut de favori. L'Angleterre reste en tête de son groupe mais devra attendre ses prochains matchs pour consolider sa position.",
-      "full": "Les Three Lions se sont heurtés à une solide organisation défensive ghanéenne, mardi à Foxborough en Floride, lors de la deuxième journée de la phase de groupes du Mondial 2026. Malgré leur domination relative, l'Angleterre n'a pas réussi à trouver la brèche et a concédé un match nul logique (0-0). Ce résultat constitue un exploit pour les Black Stars, équipe disciplinée qui a montré une belle cohésion tactique. Cependant, ni l'une ni l'autre formation n'est pleinement satisfaite : l'Angleterre aurait aimé creuser l'écart au classement, tandis que le Ghana aurait rêvé de ravir la tête du groupe. Les deux équipes doivent poursuivre leur parcours pour sécuriser leur qualification.",
+      "title": "Marc Bloch et son épouse entrent au Panthéon",
+      "brief": "L'historien et résistant Marc Bloch a été panthéonisé mardi 23 juin, aux côtés de son épouse Simonne Vidal.",
+      "summary": "L'historien et résistant Marc Bloch a fait son entrée au Panthéon le 23 juin lors d'une cérémonie présidée par Emmanuel Macron. Le chef de l'État a insisté sur l'héritage intellectuel et antifasciste de Bloch, tué par la Gestapo, dont les messages sont jugés pertinents face aux enjeux politiques contemporains. La famille de l'historien a souhaité que cette panthéonisation ne soit pas l'occasion d'une appropriation par l'extrême droite.",
+      "full": "L'historien et résistant Marc Bloch a fait son entrée au Panthéon le 23 juin lors d'une cérémonie présidée par Emmanuel Macron, accompagné de son épouse Simonne Vidal. Bloch, fondateur de la revue « Annales d'histoire économique et sociale », a été exécuté par la Gestapo en 1944. Le chef de l'État a mis en avant l'héritage intellectuel et antifasciste du résistant, dont les avertissements contre les « étranges défaites » et l'esprit de défaitisme sont présentés comme particulièrement pertinents face aux enjeux politiques actuels. Son message résonne en effet dans un contexte marqué par la montée des nationalismes, de la xénophobie, du racisme et de l'antisémitisme. La famille de l'historien a exprimé sa satisfaction quant à l'absence de représentants de l'extrême droite lors de la cérémonie, souhaitant éviter toute appropriation inappropriée de son œuvre. Cette panthéonisation intervient dans un contexte où la portée politique de cet honneur suscite des interrogations en Europe.",
       "angles": [
         {
           "outlet": "France 24",
-          "take": "Le match nul représente un véritable exploit pour le Ghana, mais laisse les deux équipes en attente de précisions sur leur première place au classement.",
-          "url": "https://www.france24.com/fr/sports/20260623-mondial-2026-l-angleterre-frustr%C3%A9e-et-tenue-en-%C3%A9chec-par-le-ghana"
+          "take": "La cérémonie souligne l'héritage antifasciste et intellectuel de Bloch, dont le message conserve une résonance dans le contexte politique contemporain.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260624-france-l-historien-et-r%C3%A9sistant-marc-bloch-est-entr%C3%A9-au-panth%C3%A9on"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "L'Angleterre s'est heurtée à un mur défensif ghanéen impénétrable à Boston.",
-          "url": "https://www.20minutes.fr/sport/football/4230814-20260623-direct-angleterre-ghana-three-lions-veulent-continuer-rugir-suivez-match?at_medium=display&at_campaign=149"
+          "outlet": "Le Monde",
+          "take": "L'entrée de Bloch au Panthéon revêt une dimension prophétique face au retour des nationalismes, de la xénophobie et de l'antisémitisme.",
+          "url": "https://www.lemonde.fr/idees/article/2026/06/24/entendre-l-avertissement-de-marc-bloch-contre-les-etranges-defaites_6710224_3232.html"
         },
         {
           "outlet": "France Info",
-          "take": "Malgré une prestation impuissante et un match nul logique, l'Angleterre conserve la tête de son groupe.",
-          "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-impuissante-l-angleterre-tenue-en-echec-par-le-ghana-mais-toujours-en-tete-de-son-groupe_8076449.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "La famille de Bloch se réjouit de l'absence de l'extrême droite à la cérémonie et rejette toute récupération de son travail historique.",
+          "url": "https://www.franceinfo.fr/societe/debats/pantheon/marc-bloch-sa-famille-ne-veut-pas-voir-l-extreme-droite-au-pantheon_8075819.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Macron utilise la panthéonisation pour mettre en garde contre l'esprit de défaite, établissant des parallèles explicites avec la situation politique actuelle.",
+          "url": "https://www.liberation.fr/politique/au-pantheon-macron-honore-marc-bloch-et-met-en-garde-contre-lesprit-de-defaite-20260624_VPYL7IDB3ZA7BGLWVMYOLWTBBQ/"
+        },
+        {
+          "outlet": "Courrier International",
+          "take": "La presse européenne salue le résistant tout en questionnant le caractère politique assumé de cette panthéonisation et les tentatives de récupération.",
+          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-la-pantheonisation-tres-politique-de-l-historien-marc-bloch_245597"
         }
       ],
       "id": 2,
@@ -105,32 +110,27 @@
     },
     {
       "themes": [
-        "Environnement"
+        "Monde"
       ],
-      "title": "La France connaît sa journée la plus chaude jamais enregistrée",
-      "brief": "Mardi, la température moyenne nationale a atteint 29,8°C, dépassant le record précédent d'août 2003.",
-      "summary": "Mardi 23 juin marque un tournant climatique en France: la journée la plus chaude jamais enregistrée depuis le début des mesures en 1947. L'indicateur thermique national a atteint 29,8°C en moyenne selon Météo-France. Plus de la moitié du territoire était placée en vigilance rouge canicule, une situation inédite.",
-      "full": "C'est la deuxième canicule en moins d'un mois que connaît le pays. Mardi, plus de 44 millions de Français ont été concernés par cette vigilance rouge, tandis que de nombreux records absolus de température ont été battus dans l'ouest du pays. Cette journée historique dépasse le précédent record datant d'août 2003. Météo-France attribue cette intensification à l'effet du réchauffement climatique. Les habitants ont dû faire face à des conditions extrêmes, avec une forte demande en climatisation et des mesures de prévention face aux risques liés à la chaleur.",
+      "title": "Les États-Unis et l'Iran signent un accord, tensions au Congrès",
+      "brief": "Un protocole d'accord entre Washington et Téhéran crée des divisions politiques internes aux États-Unis.",
+      "summary": "Les États-Unis et l'Iran ont conclu un protocole d'accord que Téhéran présente comme une victoire diplomatique. Le secrétaire d'État américain Marco Rubio entreprend une tournée dans les pays du Golfe pour consolider les positions régionales. Le Congrès américain a adopté mardi une résolution non contraignante demandant le retrait des troupes américaines de la région.",
+      "full": "Un accord négocié entre Washington et Téhéran a été signé, suscitant des réactions contrastées. Les autorités iraniennes le qualifient de « déclaration de défaite de l'Amérique », tandis que le gouvernement américain défend cette initiative. Marco Rubio, chef de la diplomatie américaine, effectue une tournée rapide dans le Golfe, rencontrant mercredi à huis clos le président des Émirats avant de se rendre au Koweït et à Bahreïn. Parallèlement, le Congrès américain a voté mardi une résolution appelant au départ des militaires américains d'Iran. Le président américain a dénoncé ce vote comme « inopportun et insensé ». Bien que cette résolution n'ait pas force de loi, elle reflète des tensions internes sur la gestion de ce dossier stratégique au Moyen-Orient.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Météo-France a confirmé que l'indicateur thermique national a atteint 29,8°C en données provisoires mardi.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/alerte-canicule-l-hexagone-a-connu-mardi-sa-journee-la-plus-chaude-jamais-enregistree_8076401.html#xtor=RSS-3-[lestitres]"
+          "take": "L'Iran interprète l'accord comme une victoire et une capitulation américaine, tandis que Washington mène une diplomatie d'apaisement régional.",
+          "url": "https://www.franceinfo.fr/monde/conflit-israel-iran/pour-l-iran-le-protocole-d-accord-conclu-avec-les-etats-unis-est-la-declaration-de-defaite-de-l-amerique_8077172.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "France 24",
-          "take": "Mardi représente la journée la plus chaude depuis le début des relevés en 1947, avec plusieurs records absolus battus à l'ouest.",
-          "url": "https://www.france24.com/fr/france/20260623-canicule-france-connait-journ%C3%A9e-plus-chaude-jamais-enregistr%C3%A9e-meteo"
+          "outlet": "20 Minutes",
+          "take": "L'accord ouvre des débats sur des enjeux régionaux comme le contrôle du détroit d'Ormuz et le partage des responsabilités.",
+          "url": "https://www.20minutes.fr/monde/etats-unis/4230873-20260624-direct-guerre-moyen-orient-etats-unis-veulent-entendre-parler-peage-detroit-ormuz?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "Libération",
-          "take": "Plus de la moitié de l'Hexagone était en vigilance rouge, une situation du jamais-vu, après des décès liés à la chaleur lundi.",
-          "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-54-departements-en-vigilance-rouge-ce-mardi-20260623_UVFXNYTAY5G5JLJTIQDES5CG4Y/"
-        },
-        {
-          "outlet": "Reporterre",
-          "take": "Cette deuxième canicule en moins d'un mois s'inscrit dans un contexte d'accumulation de records due au réchauffement climatique.",
-          "url": "https://reporterre.net/Canicule-ce-mardi-est-la-journee-la-plus-chaude-jamais-enregistree-en-France"
+          "take": "Le Congrès américain vote une résolution symbolique contestant la présence militaire américaine, fragilisant la position du président.",
+          "url": "https://www.liberation.fr/international/amerique/guerre-au-moyen-orient-le-congres-americain-appelle-a-ce-que-les-soldats-americains-quittent-liran-20260624_3SL4EFDEPZH37GDVJMKUNJIR7I/"
         }
       ],
       "id": 3,
@@ -140,25 +140,25 @@
       "themes": [
         "Sport"
       ],
-      "title": "Coupe du monde 2026: enjeux décisifs en phase de poules",
-      "brief": "La dernière journée de la phase de poules débute mercredi avec six matchs cruciaux pour les qualifications.",
-      "summary": "La Coupe du monde 2026 entre dans sa phase décisive avec la dernière journée des poules. Le groupe C promet d'être particulièrement serré, avec le Brésil et le Maroc en lutte pour la première place, tandis que l'Écosse et Haïti jouent les troubles-fêtes. D'autres sélections comme le Canada et la Suisse tentent de verrouiller leur qualification aux 16es de finale.",
-      "full": "Mercredi et jeudi, trois groupes disputent leur dernier match de la phase de poules, avec six rencontres au total et des places qualificatives en jeu pour les 16es de finale. Dans le groupe C, l'affiche la plus attendue opposera le Brésil et le Maroc dans la nuit de jeudi à vendredi pour la première place. L'Écosse, selon les résultats, pourrait théoriquement encore prétendre au sommet du groupe, tandis que Haïti, déjà éliminé, reste un adversaire potentiellement imprévisible. Au Canada et en Suisse, les sélections espèrent convertir leurs dernières chances pour accéder aux 16es de finale. Ces enjeux font de cette dernière journée un moment charnière du tournoi disputé aux États-Unis.",
+      "title": "Didier Deschamps absent du banc contre la Norvège",
+      "brief": "Le sélectionneur de l'équipe de France rentre en France suite au décès de sa mère.",
+      "summary": "Didier Deschamps a appris mardi le décès de sa mère, Ginette. L'équipe de France a observé une minute de silence en sa mémoire à l'entraînement. Le sélectionneur quitte le camp américain pour assister aux obsèques et manquera le match France-Norvège prévu vendredi 26 juin, en phase de groupe du Mondial 2026.",
+      "full": "Didier Deschamps rentre en France après le décès de sa mère, survenu mardi. L'équipe de France a rendu hommage à cette triste nouvelle lors d'une minute de silence lors de la séance d'entraînement. Durant l'absence du sélectionneur, son adjoint Guy Stéphan assurera l'intérim et dirigera les Bleus lors du dernier match de groupe contre la Norvège, prévu vendredi 26 juin aux États-Unis. Deschamps se rendra aux obsèques de sa mère et devrait être de retour après cette rencontre.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Souligne que trois groupes sont en jeu mercredi et jeudi, avec six matchs au programme et des places qualificatives à conquérir pour les 16es de finale.",
-          "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-le-bresil-et-le-maroc-a-distance-pour-la-premiere-place-de-leur-groupe-le-canada-et-la-suisse-veulent-verrouiller-leur-qualification_8076098.html#xtor=RSS-3-[lestitres]"
+          "outlet": "France 24",
+          "take": "Le sélectionneur quitte le stage américain pour assister aux funérailles, tandis que son adjoint prendra en charge la direction de l'équipe.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260624-mondial-2026-endeuill%C3%A9-didier-deschamps-rentre-en-france-quelques-jours"
         },
         {
-          "outlet": "France 24",
-          "take": "Met en avant la lutte serrée du groupe C jeudi, où le Brésil et le Maroc se disputent la première place tandis que l'Écosse et Haïti conservent des espoirs mathématiques.",
-          "url": "https://www.france24.com/fr/sports/20260624-mondial-2026-br%C3%A9sil-maroc-%C3%A9cosse-ha%C3%AFti-enjeux-derni%C3%A8re-journ%C3%A9e-groupe-c"
+          "outlet": "20 Minutes",
+          "take": "Kylian Mbappé exprime son soutien à Deschamps dans ce contexte difficile, parmi les actualités des Bleus aux États-Unis.",
+          "url": "https://www.20minutes.fr/sport/football/4230853-20260624-coupe-monde-2026-mbappe-soutien-deschamps-recuperation-opposition-journal-bleus?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "Libération",
-          "take": "Accorde une attention particulière à l'ambiance créée par les supporteurs écossais et leur mobilisation à travers les États-Unis avant le match contre le Brésil.",
-          "url": "https://www.liberation.fr/sports/football/pourquoi-lecosse-est-championne-du-monde-des-supporteurs-avec-sa-tartan-army-20260624_QYQM2R6TVVHDNFZVDRCC5KJ5L4/"
+          "take": "Il s'agit du dernier match de la phase de groupe, une étape clé avant les phases à élimination directe.",
+          "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-didier-deschamps-va-rentrer-en-france-apres-la-mort-de-sa-mere-20260623_R2RDNKK6VJBKVHO3WBBVUSIA3I/"
         }
       ],
       "id": 4,
@@ -166,28 +166,32 @@
     },
     {
       "themes": [
-        "Environnement",
-        "Santé"
+        "Environnement"
       ],
-      "title": "La France face à une vague de chaleur extrême jusqu'à mi-juillet",
-      "brief": "La France subit une canicule intense avec 58 départements en vigilance rouge. Les chaleurs extrêmes devraient persister jusqu'au 14 juillet.",
-      "summary": "La France connaît mercredi 24 juin le pic d'une vague de chaleur exceptionnelle, qui a d'ailleurs enregistré mardi la journée la plus chaude de son histoire. Cinquante-huit départements sont placés en vigilance rouge par Météo-France, tandis que 31 autres le sont en vigilance orange. Après une « pause relative » la semaine prochaine, les conditions extrêmes devraient réapparaître jusqu'au 14 juillet.",
-      "full": "La France traverse une période de chaleurs extrêmes sans précédent. Le mercredi 24 juin marque le pic de cet épisode caniculaire, avec plus de 90 % de la population exposée à des conditions dangereuses. Cinquante-huit départements sont en vigilance rouge et trente-et-un autres en vigilance orange selon les prévisions de Météo-France. Mardi a déjà établi un record thermique comme journée la plus chaude jamais enregistrée dans le pays. Les autorités météorologiques prévoient une légère accalmie la semaine suivante, mais le retour des chaleurs extrêmes est anticipé jusqu'au 14 juillet. Les hôpitaux français signalent pour l'heure une situation maîtrisée malgré l'intensité de la vague.",
+      "title": "Canicule record : 68 000 foyers privés d'électricité en Bretagne",
+      "brief": "Une vague de chaleur exceptionnelle paralyse la France avec des coupures d'électricité massives et 58 départements en alerte rouge.",
+      "summary": "La France connaît mercredi sa journée la plus chaude depuis 1947, avec une vague de chaleur comparable à celle d'août 2003. Un incident lié à la chaleur sur les infrastructures électriques prive environ 68 000 foyers du Finistère et 5 000 du Vaucluse de courant. Météo-France prévient que les conditions extrêmes persisteront jusqu'au week-end, avec des maximales entre 40 et 42 degrés.",
+      "full": "La France traverse une canicule exceptionnelle qui a établi le record de température depuis 1947. Au lendemain de cette journée historique, 58 départements restent placés en vigilance rouge mercredi, dont quatre supplémentaires par rapport à la veille. Un incident affectant un transformateur prive 68 000 foyers du sud du Finistère et 5 000 du Vaucluse d'électricité, ces coupures étant directement liées aux stress thermiques sur les infrastructures. Au plus fort de la panne, environ 120 000 foyers avaient été touchés selon le ministère de l'Énergie. Aucun rétablissement complet du courant n'est attendu avant la fin de journée. Météo-France anticipe des conditions similaires jusqu'au week-end, avec des températures minimales éprouvantes qui compliquent le rafraîchissement nocturne.",
       "angles": [
         {
+          "outlet": "France 24",
+          "take": "Souligne l'ampleur des coupures d'électricité causées par l'incident thermique et l'absence de rétablissement rapide du courant.",
+          "url": "https://www.france24.com/fr/france/20260624-sous-une-chaleur-record-la-france-oblig%C3%A9e-de-s-adapter-dans-l-urgence"
+        },
+        {
           "outlet": "France Info",
-          "take": "La ministre de la Transition écologique met en avant les fortes probabilités de prolongation des chaleurs extrêmes jusqu'au 14 juillet.",
-          "url": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/direct-alerte-canicule-26-c-a-paris-27-c-a-bordeaux-29-c-a-la-rochelle-a-5-heures-mercredi-quatre-nouveaux-departements-places-en-vigilance-rouge-mercredi_8076842.html#xtor=RSS-3-[lestitres]"
+          "take": "Rapporte que près de 120 000 foyers ont été affectés au pic de l'incident, donnée fournie par le ministère de l'Énergie.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-environ-68-000-foyers-prives-d-electricite-dans-le-finistere-un-retablissement-complet-attendu-en-fin-de-journee-au-plus-tot_8077175.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Insiste sur la comparaison de sévérité avec la canicule d'août 2003 et l'escalade du nombre de départements en alerte rouge.",
+          "url": "https://www.lemonde.fr/planete/live/2026/06/23/en-direct-canicule-la-vague-de-chaleur-est-tout-a-fait-comparable-en-severite-a-celle-d-aout-2003-selon-meteo-france_6704498_3244.html"
         },
         {
           "outlet": "Libération",
-          "take": "Après avoir enregistré mardi la journée la plus chaude de l'histoire, la France atteint le pic mercredi avec un retour des extrêmes prévu après une pause relative.",
-          "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-le-pic-attendu-aujourdhui-avec-des-records-a-43-degres-dans-le-sud-ouest-20260624_JXYTHQKX6FBLHE5PR7PIYRYFAM/"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Plus de 90 % de la population française est exposée aux chaleurs extrêmes tandis que le système hospitalier parvient à maintenir sa capacité opérationnelle.",
-          "url": "https://www.20minutes.fr/planete/4230871-20260624-direct-canicule-plus-90-population-exposee-chaleurs-extremes?at_medium=display&at_campaign=149"
+          "take": "Met l'accent sur le lien direct entre la chaleur et le dysfonctionnement du transformateur, entravant les moyens de rafraîchissement en région bretonne.",
+          "url": "https://www.liberation.fr/societe/canicule-68-000-foyers-prives-delectricite-dans-le-finistere-20260624_AG2IY6GKL5HTDMR375EJKQ7BVI/"
         }
       ],
       "id": 5,
@@ -195,27 +199,32 @@
     },
     {
       "themes": [
-        "Économie"
+        "Environnement"
       ],
-      "title": "Airbus ordonne des inspections sur seize A380 suite à des fissures",
-      "brief": "L'avionneur européen annonce le contrôle de seize appareils A380 après la découverte de défauts structurels aux ailes.",
-      "summary": "Airbus a annoncé que seize avions A380 doivent faire l'objet d'inspections suite à la découverte de fissures dans la structure des ailes d'un appareil. Cinq d'entre eux, exploités par la compagnie Emirates, nécessitent un contrôle immédiat. L'Agence européenne de la sécurité aérienne a ordonné ces vérifications.",
-      "full": "Le constructeur aéronautique Airbus a communiqué une directive d'inspection portant sur seize appareils de type A380, le plus grand avion civil de passagers. Cette mesure fait suite à la détection de fissures dans les éléments structurels des ailes d'un aéronef en service. Parmi les appareils concernés, quinze sont exploités par la compagnie aérienne Emirates et un par Qantas, basée en Australie. Cinq avions d'Emirates doivent être immédiatement soumis à des contrôles, tandis que les autres appareils feront l'objet d'inspections planifiées. Cette directive émane de l'Agence européenne de la sécurité aérienne, qui supervise la conformité aux normes de sécurité du secteur. Airbus n'a pas précisé à ce stade si ces défauts pourraient affecter d'autres modèles de sa gamme.",
+      "title": "La France connaît sa journée la plus chaude jamais enregistrée",
+      "brief": "Mardi 23 juin, la température moyenne nationale a atteint 29,8°C, battant tous les records depuis 1947.",
+      "summary": "Mardi 23 juin marque un tournant climatique pour la France : la journée la plus chaude jamais enregistrée depuis le début des mesures en 1947, avec une moyenne nationale de 29,8°C selon Météo-France. Ce record surpasse celui d'août 2003, précédent pic de chaleur. Plus de la moitié du territoire, soit environ 44 millions d'habitants, est placée en vigilance rouge canicule.",
+      "full": "La France a vécu mardi une journée historique de chaleur extrême, avec une température moyenne nationale atteignant 29,8°C en données provisoires. Ce record invalide celui d'août 2003, jusqu'alors le plus chaud jamais enregistré depuis le démarrage des mesures officielles en 1947. De nombreux records absolus de température ont également été battus dans l'ouest du pays. Plus de 54 départements sont placés en vigilance rouge, soit un record d'alerte simultanée jamais atteint. Cette deuxième canicule en moins d'un mois intervient dans un contexte de réchauffement climatique, qui intensifie et multiplie les phénomènes extrêmes. Les impacts sur la population et les infrastructures sont déjà visibles, de la surcharge des systèmes de climatisation aux alertes sanitaires.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Quinze des seize appareils inspectés sont opérés par Emirates, avec cinq contrôles requis en urgence immédiate.",
-          "url": "https://www.franceinfo.fr/economie/aeronautique/airbus-annonce-que-16-avions-a380-necessitent-des-inspections-dont-cinq-immediatement-apres-la-decouverte-de-fissures-dans-la-structure-des-ailes-d-un-appareil_8076323.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "France 24",
+          "take": "Souligne l'ampleur du phénomène avec des records de température battus dans l'ouest et décrit les comportements d'adaptation des Français face à la chaleur.",
+          "url": "https://www.france24.com/fr/france/20260623-canicule-france-connait-journ%C3%A9e-plus-chaude-jamais-enregistr%C3%A9e-meteo"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "L'Agence européenne de la sécurité aérienne a officiellement ordonné les vérifications après la découverte des anomalies.",
-          "url": "https://www.20minutes.fr/economie/4230829-20260623-airbus-annonce-16-a380-besoin-inspections-potentielles-fissures-ailes?at_medium=display&at_campaign=149"
+          "outlet": "Sciences et Avenir",
+          "take": "Rapporte le chiffre exact de la température moyenne nationale à 29,8°C en données provisoires établies en fin d'après-midi.",
+          "url": "https://www.sciencesetavenir.fr/nature-environnement/meteo/la-france-a-connu-sa-journee-la-plus-chaude-jamais-enregistree_193371?xtor=RSS-15"
         },
         {
           "outlet": "Libération",
-          "take": "Les contrôles d'urgence concernent spécifiquement cinq avions d'Emirates à la suite de ce défaut identifié.",
-          "url": "https://www.liberation.fr/economie/transports/airbus-seize-a380-necessitent-des-inspections-pour-de-potentielles-fissures-dans-les-ailes-20260623_IWRWZQPPQ5HOHLDGTVAIQTZNUE/"
+          "take": "Insiste sur l'inédit de la vigilance rouge étendue à plus de la moitié du territoire et établit la comparaison avec le précédent record d'août 2003.",
+          "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-54-departements-en-vigilance-rouge-ce-mardi-20260623_UVFXNYTAY5G5JLJTIQDES5CG4Y/"
+        },
+        {
+          "outlet": "Reporterre",
+          "take": "Relie ce record à l'accélération du réchauffement climatique et à la succession de canicules, présentant cette journée comme historique et annonçant une accumulation de records à venir.",
+          "url": "https://reporterre.net/Canicule-ce-mardi-est-la-journee-la-plus-chaude-jamais-enregistree-en-France"
         }
       ],
       "id": 6,
@@ -223,23 +232,27 @@
     },
     {
       "themes": [
-        "Économie",
-        "Monde"
+        "Société"
       ],
-      "title": "La Chine amortit les chocs énergétiques du Moyen-Orient",
-      "brief": "Malgré sa dépendance aux hydrocarbures du Golfe, Pékin a limité l'impact des tensions régionales.",
-      "summary": "Fortement dépendante des hydrocarbures du Golfe persique, la Chine a réussi à atténuer les effets des tensions au Moyen-Orient sur son approvisionnement énergétique. Pékin a compensé en diversifiant ses sources d'énergie, notamment via le charbon et les énergies renouvelables, tandis que la faiblesse économique actuelle réduisait aussi sa consommation globale d'or noir.",
-      "full": "Contrairement aux craintes d'un grand choc énergétique, la Chine n'a pas connu de rupture majeure dans son approvisionnement pétrolier malgré les tensions autour du détroit d'Ormuz. Cette résilience s'explique par plusieurs facteurs : d'abord, Pékin a progressivement réduit sa dépendance au pétrole du Golfe en développant d'autres sources d'énergie. Le charbon et les énergies vertes ont joué un rôle de compensation dans le bouquet énergétique chinois. Parallèlement, la conjoncture économique morose du pays a naturellement abaissé les besoins en hydrocarbures. Ces ajustements ont permis à la Chine de traverser cette période d'instabilité géopolitique sans perturbation majeure de son économie.",
+      "title": "Un rapport préconise de quintupler les frais d'inscription universitaires",
+      "brief": "Les assises du financement des universités suggèrent de porter à 900 euros la licence et 1 300 euros le master.",
+      "summary": "Un rapport issu des assises gouvernementales lancées en janvier préconise une augmentation substantielle des frais d'inscription à l'université. Les montants proposés seraient de 900 euros annuels pour une licence et 1 300 euros pour un master, contre respectivement 178 et 254 euros aujourd'hui pour les étudiants non-boursiers français et européens. Cette hausse quintuples vise à assurer la viabilité financière des établissements face à des défis budgétaires croissants.",
+      "full": "Le rapport rendu au gouvernement mercredi propose un changement majeur du modèle de financement de l'enseignement supérieur français. Selon ce document, les frais d'inscription des étudiants français et européens passeraient de 178 euros à 900 euros pour une licence, et de 254 euros à 1 300 euros pour un master. Les rédacteurs du rapport justifient cette augmentation par l'inadéquation du modèle financier actuel, qu'ils jugent insoutenable à horizon 2030. Cette hausse significative s'inscrit dans une stratégie plus large de réforme du financement des universités, dont le but affiché est d'éviter l'appauvrissement des établissements d'enseignement supérieur.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "Souligne que la Chine a compensé sa dépendance aux hydrocarbures moyen-orientaux par une diversification vers le charbon et les énergies renouvelables, aggravée par un ralentissement économique.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/23/pour-la-chine-la-guerre-au-moyen-orient-n-a-pas-engendre-de-grand-choc-energetique_6709989_3234.html"
+          "take": "Le rapport affirme que le modèle financier actuel des universités ne sera plus viable d'ici à 2030.",
+          "url": "https://www.lemonde.fr/societe/article/2026/06/24/universites-un-rapport-preconise-de-quintupler-les-frais-d-inscription-a-900-euros-pour-une-licence-et-1-300-euros-pour-un-master_6710242_3224.html"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Rapporte les négociations en cours entre les États-Unis et l'Iran autour des enjeux de péage et de contrôle du détroit d'Ormuz.",
-          "url": "https://www.20minutes.fr/monde/etats-unis/4230873-20260624-direct-guerre-moyen-orient-etats-unis-veulent-entendre-parler-peage-detroit-ormuz?at_medium=display&at_campaign=149"
+          "outlet": "France Info",
+          "take": "Le document suggère plusieurs pistes pour prévenir l'appauvrissement des établissements universitaires.",
+          "url": "https://www.franceinfo.fr/economie/neuf-cents-euros-pour-une-annee-de-licence-1-300-euros-en-master-un-rapport-preconise-de-quintupler-les-frais-d-inscription-a-l-universite_8077289.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Les nouveaux tarifs s'appliqueraient aux étudiants français et européens, avec des montants actuels respectifs de 178 et 254 euros pour les non-boursiers.",
+          "url": "https://www.liberation.fr/societe/education/universites-un-rapport-preconise-de-multiplier-par-cinq-les-frais-dinscription-20260624_3P3234YDAFE33KTX5UAEHDRGEQ/"
         }
       ],
       "id": 7,
@@ -247,28 +260,27 @@
     },
     {
       "themes": [
-        "France",
         "Société"
       ],
-      "title": "Un projet de loi intégral contre les violences sexistes inscrit à l'ordre du jour",
-      "brief": "Le gouvernement s'engage à examiner un texte global de lutte contre les violences sexuelles à l'automne.",
-      "summary": "Le Premier ministre Sébastien Lecornu a annoncé l'inscription à l'agenda de l'Assemblée nationale d'un projet de loi intégral contre les violences sexistes et sexuelles, en réponse à l'affaire Lyhanna. Le texte sera examiné en septembre et octobre. Des décrets préalables sont promis dès juillet pour mettre en place les premières mesures.",
-      "full": "Face à la mobilisation féministe et enfantiste suivant la mort de Lyhanna, le Premier ministre a confirmé que le projet de loi intégral contre les violences sexistes et sexuelles sera débattu au Parlement à la rentrée parlementaire. Cette annonce constitue un changement de trajectoire pour l'exécutif. Avant l'examen parlementaire complet, le gouvernement prévoit l'adoption de plusieurs décrets à partir de juillet pour amorcer les actions de prévention et de protection. Un passage préalable devant le Conseil d'État pourrait modifier les contours du projet de loi. Cette loi viserait à renforcer les outils de lutte contre les violences sexistes et sexuelles dans leur globalité.",
+      "title": "Convention citoyenne à Paris recommande le retour à quatre jours d'école",
+      "brief": "Une convention citoyenne parisienne propose de revenir à la semaine de quatre jours pour améliorer la sécurité des enfants.",
+      "summary": "Une convention réunissant 77 parents d'élèves à Paris a présenté ses recommandations au maire Emmanuel Grégoire, mardi soir. Le groupe préconise un retour à l'organisation scolaire sur quatre jours, prioritairement pour garantir le bien-être et la sécurité des enfants. Cette proposition intervient dans un contexte de scandale relatif aux violences sexuelles signalées dans le périscolaire parisien.",
+      "full": "Après un mois de travaux, la convention citoyenne parisienne sur les rythmes scolaires recommande une semaine d'école condensée sur quatre jours. Cette position fait suite à des discussions mettant l'accent sur la sécurité des enfants et les dysfonctionnements du secteur périscolaire. Moins d'un tiers des parents souhaite maintenir le rythme scolaire actuel à Paris, selon les chiffres présentés. Le maire Emmanuel Grégoire a indiqué ne pas avoir de « tabous » face à cette recommandation. Les propositions visent à résoudre des problèmes de surveillance et d'encadrement identifiés dans les structures d'accueil périscolaire.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "L'inscription du texte représente une victoire pour les mouvements féministes et enfantistes, bien que le Conseil d'État soit susceptible d'en modifier les éléments.",
-          "url": "https://www.lemonde.fr/politique/article/2026/06/23/mort-de-lyhanna-la-loi-integrale-inscrite-a-l-agenda-de-l-assemblee-nationale-une-victoire-pour-les-feministes-et-les-enfantistes_6710010_823448.html"
+          "take": "Le maire de Paris, surpris par la convention, affiche son ouverture aux changements, tandis que l'enquête révèle un faible soutien parental au maintien du système actuel.",
+          "url": "https://www.lemonde.fr/societe/article/2026/06/24/violences-sexuelles-dans-le-periscolaire-a-paris-la-convention-citoyenne-lancee-par-emmanuel-gregoire-propose-le-retour-a-la-semaine-de-quatre-jours_6710202_3224.html"
         },
         {
           "outlet": "France Info",
-          "take": "Le gouvernement prévoit une mise en œuvre progressive avec des décrets dès juillet, avant l'examen parlementaire de septembre-octobre.",
-          "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-une-loi-integrale-contre-les-violences-sexistes-et-sexuelles-doit-etre-examinee-au-parlement-en-septembre-octobre_8075909.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Les 77 citoyens participant à la convention placent la sécurité et le bien-être des enfants au cœur de leurs propositions face à la persistance du scandale.",
+          "url": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/la-priorite-ce-sont-les-enfants-face-au-scandale-du-periscolaire-a-paris-la-convention-citoyenne-plaide-pour-un-retour-a-la-semaine-de-quatre-jours_8077163.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Le projet de loi sera soumis au Parlement dès la rentrée, confirmant l'engagement exécutif sur ce dossier.",
-          "url": "https://www.20minutes.fr/societe/4230761-20260623-affaire-lyhanna-loi-integrale-violences-sexuelles-examinee-parlement-rentree?at_medium=display&at_campaign=149"
+          "outlet": "Libération",
+          "take": "La convention met en lumière les failles structurelles du périscolaire sans statuer définitivement sur les rythmes scolaires futurs.",
+          "url": "https://www.liberation.fr/societe/education/convention-citoyenne-sur-les-rythmes-scolaires-a-paris-la-semaine-decole-de-45-jours-vacille-20260624_HBPKM5QCJJBCPORQ6N47SECUL4/"
         }
       ],
       "id": 8,
@@ -276,23 +288,28 @@
     },
     {
       "themes": [
-        "Santé",
-        "Environnement"
+        "Environnement",
+        "Santé"
       ],
-      "title": "Canicule : les hôpitaux français activent leur plan de crise",
-      "brief": "Face à la vague de chaleur, le gouvernement mobilise les hôpitaux et s'attend à une hausse des passages aux urgences.",
-      "summary": "La ministre de la Santé Stéphanie Rist anticipe une augmentation des passages aux urgences liée à la canicule en cours. Le Premier ministre a activé le plan Orsan, qui permet de mobiliser les personnels hospitaliers supplémentaires. Bien que les hôpitaux ne soient pas saturés pour l'instant, plusieurs établissements procèdent à des déprogrammations de soins ciblées.",
-      "full": "Face à la vague de chaleur qui traverse la France, le gouvernement a décidé d'activer le plan Orsan au niveau 2 sur 4, permettant une mobilisation des personnels nécessaires au fonctionnement des services hospitaliers. La ministre de la Santé rapporte une augmentation du nombre d'appels au Samu de l'ordre de 15 à 20 % et une légère hausse des passages aux urgences. Stéphanie Rist souligne que les hôpitaux ne sont pas saturés à l'heure actuelle, bien que la situation pourrait s'aggraver puisque les effets de la canicule s'exercent avec un délai de 5 à 10 jours. Des déprogrammations de soins ciblées ont été mises en place dans certains établissements afin de libérer des ressources face aux urgences attendues.",
+      "title": "Chlordécone: plus de 80% de la population contaminée aux Antilles",
+      "brief": "Une étude de Santé publique France révèle l'ampleur persistante de la contamination au pesticide interdit depuis plus de trente ans.",
+      "summary": "Plus de 80 % des adultes de Guadeloupe et de Martinique sont contaminés au chlordécone, selon une étude de Santé publique France publiée en juin 2026. Le pesticide, interdit depuis 1993, a pollué durablement plusieurs milliers d'hectares de terres agricoles aux Antilles et demeure très présent dans l'environnement et les organismes. Un adulte contaminé sur six dépasse le seuil de risque sanitaire.",
+      "full": "Plus de trois décennies après son interdiction en 1993, le chlordécone continue de contaminer massivement la population des Antilles françaises. Selon les résultats d'une étude de Santé publique France, 80 % des adultes de Guadeloupe et de Martinique présentent des traces de ce pesticide dans leur organisme. Le chlordécone, un perturbateur endocrinien, a été utilisé intensivement dans les bananeraies antillaises jusqu'à son interdiction tardive, contaminant durablement les sols et l'environnement. L'ampleur de cette contamination générale de la population pose des questions sur les risques sanitaires à long terme, notamment chez les personnes exposées professionnellement ou par leur alimentation. Les autorités poursuivent le suivi de cette situation qui demeure l'une des plus importantes crises sanitaires liées à une pollution chimique en France.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "La ministre de la Santé alerte sur une hausse prévisible des passages aux urgences tout en précisant que la situation reste normale pour le moment, justifiant l'activation du plan Orsan.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-canicule-a-une-action-retardee-de-5-a-10-jours-la-ministre-de-la-sante-s-attend-a-une-hausse-des-passages-aux-urgences_8077055.html#xtor=RSS-3-[lestitres]"
+          "outlet": "Le Monde",
+          "take": "Met l'accent sur la persistance durable du pesticide dans l'environnement et les terres agricoles contaminées aux Antilles.",
+          "url": "https://www.lemonde.fr/outre-mer/article/2026/06/24/chlordecone-plus-de-80-de-la-population-de-guadeloupe-et-de-martinique-reste-contaminee-selon-sante-publique-france_6710024_1840826.html"
+        },
+        {
+          "outlet": "Sciences et Avenir",
+          "take": "Souligne que un adulte contaminé sur six dépasse le seuil de risque sanitaire défini par les autorités.",
+          "url": "https://www.sciencesetavenir.fr/sante/chlordecone-plus-de-80-de-la-population-de-guadeloupe-et-martinique-contaminee_193372?xtor=RSS-16"
         },
         {
           "outlet": "Libération",
-          "take": "Stéphanie Rist rassure en indiquant que les hôpitaux ne sont pas saturés malgré les augmentations d'appels au Samu et les déprogrammations de soins menées dans certains établissements.",
-          "url": "https://www.liberation.fr/societe/sante/canicule-les-hopitaux-ne-sont-pas-satures-rassure-la-ministre-de-la-sante-malgre-quelques-deprogrammations-de-soin-ciblees-20260624_QSJAYHHUMRGV3B3E5HLDEP6JYU/"
+          "take": "Qualifie le chlordécone de perturbateur endocrinien et rappelle la date d'interdiction du produit en 1993.",
+          "url": "https://www.liberation.fr/environnement/chlordecone-huit-adultes-sur-dix-contamines-en-guadeloupe-et-en-martinique-20260624_W6CO6FPIW5BD7BQ2SSTEE5GJ4U/"
         }
       ],
       "id": 9,
@@ -300,22 +317,28 @@
     },
     {
       "themes": [
-        "Monde"
+        "Environnement",
+        "Société"
       ],
-      "title": "Pérou : Keiko Fujimori en passe de remporter l'élection présidentielle",
-      "brief": "La candidate de droite Keiko Fujimori devance son rival de gauche avec 50,12 % des voix dépouillées.",
-      "summary": "Keiko Fujimori, fille de l'ancien président Alberto Fujimori, est en passe de remporter l'élection présidentielle péruvienne. Avec 99,86 % des bulletins dépouillés, elle devance son concurrent de gauche Roberto Sanchez de plus de 43 000 voix. Sanchez conteste les résultats selon l'autorité électorale.",
-      "full": "Au Pérou, Keiko Fujimori recueille 50,12 % des suffrages contre 49,88 % pour son rival de gauche Roberto Sanchez, selon l'autorité électorale du pays. Avec 99,86 % des bulletins dépouillés, l'avance de la candidate de droite parait insurmontable, le nombre de voix restant à compter étant trop faible pour permettre un rattrapage. Keiko Fujimori, fille de l'ancien chef de l'État Alberto Fujimori condamné pour crimes contre l'humanité, devance Sanchez de plus de 43 000 voix. Le candidat de gauche conteste néanmoins les résultats publiés par l'autorité électorale.",
+      "title": "Canicule record en France, le brevet maintenu avec aménagements",
+      "brief": "Une vague de chaleur extrême frappe la France. Le brevet des collèges se tiendra vendredi avec des mesures d'adaptation.",
+      "summary": "La France subit une intense vague de chaleur mercredi 24 juin, avec 44 millions d'habitants en vigilance rouge canicule et des records de température qui continuent de tomber. Le brevet des collèges, prévu vendredi, sera maintenu mais avec des aménagements pour protéger les candidats des conditions météorologiques extrêmes.",
+      "full": "Une vague de chaleur sans précédent s'abat sur la France en ce mois de juin. Plus de 44 millions d'habitants restent en vigilance rouge canicule le 24 juin, les seuils de température établissant de nouveaux records. Face à cette situation, le ministre de l'Éducation Edouard Geffray a confirmé que le brevet des collèges se tiendrait bien vendredi, mais avec plusieurs mesures d'adaptation. Les responsables des centres d'examen pourront prévoir deux pauses de 15 minutes pendant l'épreuve et limiteront le nombre d'élèves par salle à 10 ou 15 maximum. Ces dispositions visent à réduire l'exposition des candidats à la chaleur extrême tout en maintenant le calendrier d'examen initialement prévu.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Met l'accent sur les pourcentages très serrés et le faible nombre de bulletins restant à compter rendant un revirement improbable.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/24/au-perou-keiko-fujimori-la-candidate-de-droite-en-passe-d-etre-elue-presidente_6710211_3210.html"
+          "outlet": "20 Minutes",
+          "take": "Met l'accent sur le suivi en direct de la vague de chaleur intense avec la poursuite des records thermiques et les mesures prises pour le déroulement du brevet.",
+          "url": "https://www.20minutes.fr/planete/4230871-20260624-direct-canicule-plus-90-population-exposee-chaleurs-extremes?at_medium=display&at_campaign=149"
+        },
+        {
+          "outlet": "Sciences et Avenir",
+          "take": "Souligne l'ampleur du phénomène météorologique avec l'étendue géographique de la vigilance rouge et l'enchaînement des nouveaux records de température.",
+          "url": "https://www.sciencesetavenir.fr/nature-environnement/meteo/canicule-la-chaleur-gagne-encore-du-terrain-et-les-records-tombent_193349?xtor=RSS-15"
         },
         {
           "outlet": "Libération",
-          "take": "Souligne le contexte familial sensible avec la condamnation du père de la candidate pour crimes contre l'humanité, ainsi que la contestation des résultats par l'opposition.",
-          "url": "https://www.liberation.fr/international/amerique/presidentielle-au-perou-la-candidate-de-droite-keiko-fujimori-en-passe-detre-elue-selon-lautorite-electorale-20260624_5P2SDRJQ7FCDPKQ3CIMSJ3SCVI/"
+          "take": "Détaille les aménagements spécifiques décidés pour les épreuves d'examen, mettant en avant la réduction du nombre d'élèves par salle et l'organisation des pauses.",
+          "url": "https://www.liberation.fr/societe/education/brevet-des-colleges-lepreuve-maintenue-vendredi-mais-avec-des-amenagements-annonce-le-minsitre-de-leducation-20260624_HJUIT77FT5F35CMFBY7U76YGFQ/"
         }
       ],
       "id": 10,
@@ -325,20 +348,20 @@
       "themes": [
         "Société"
       ],
-      "title": "Paris envisage le retour à la semaine de quatre jours d'école",
-      "brief": "Une convention citoyenne parisienne propose de revenir à quatre jours de classe, suite à des préoccupations de sécurité.",
-      "summary": "Une convention citoyenne réunissant 77 parents a formulé une recommandation pour un retour à la semaine de quatre jours d'école à Paris, après un mois de travaux. Cette proposition répond aux inquiétudes concernant la sécurité des enfants et les dysfonctionnements du périscolaire. Le maire Emmanuel Grégoire, pris de court, a déclaré qu'il n'aurait « aucun tabou » sur cette question.",
-      "full": "Une convention citoyenne composée de 77 parents parisiens a rendu ses conclusions sur les rythmes scolaires, recommandant un retour à une semaine de quatre jours. Cette instance, lancée par Emmanuel Grégoire, maire de Paris, a centré ses travaux sur les enjeux de sécurité des enfants et les carences du système périscolaire actuel. Moins d'un tiers des parents parisiens souhaite le maintien du calendrier scolaire en vigueur. Le maire a indiqué être ouvert à cette réflexion, sans préjugé. Cette recommandation intervient dans un contexte de questions plus larges sur l'organisation de la semaine scolaire dans la capitale.",
+      "title": "Trente-trois hommes interpellés pour pédocriminalité",
+      "brief": "Une opération nationale a conduit à l'arrestation de trente-trois suspects ayant téléchargé des images d'abus sexuels sur des mineurs.",
+      "summary": "Trente-trois hommes, âgés de 25 à 55 ans, ont été interpellés en France entre le 22 et le 24 juin par l'Office des mineurs. Ils sont soupçonnés d'avoir téléchargé des vidéos documentant des tortures et des viols sur trois enfants, dont un bébé de 18 mois. Les arrestations se sont déroulées dans une vingtaine de départements.",
+      "full": "Une opération de lutte contre la pédocriminalité a abouti à l'interpellation de trente-trois hommes répartis dans toute la France. Les suspects, âgés de 25 à 55 ans, ont été arrêtés entre mardi et mercredi matin par l'Office des mineurs. Ils font l'objet de poursuites pour avoir téléchargé des contenus à caractère sexuel mettant en scène trois enfants victimes, parmi lesquels un nourrisson de 18 mois. Les arrestations ont concerné environ une vingtaine de départements français. Cette opération s'inscrit dans le cadre des investigations menées par les autorités pour démanteler les réseaux de distribution de matériel d'exploitation d'enfants.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "La convention citoyenne met en lumière les problèmes de sécurité dans le périscolaire parisien et force le maire à reconsidérer le rythme scolaire actuel.",
-          "url": "https://www.lemonde.fr/societe/article/2026/06/24/violences-sexuelles-dans-le-periscolaire-a-paris-la-convention-citoyenne-lancee-par-emmanuel-gregoire-propose-le-retour-a-la-semaine-de-quatre-jours_6710202_3224.html"
+          "outlet": "France Info",
+          "take": "Détaille l'âge des suspects (25 à 55 ans) et souligne le calendrier précis des interpellations menées par l'Office des mineurs sur deux jours.",
+          "url": "https://www.franceinfo.fr/societe/pedocriminalite/une-trentaine-d-hommes-interpelles-pour-avoir-telecharge-une-video-de-torture-et-de-viols-sur-un-bebe_8077349.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Libération",
-          "take": "Les citoyens membres de la convention ont privilégié la question de la sécurité des enfants et des failles du périscolaire dans leurs débats sur les rythmes.",
-          "url": "https://www.liberation.fr/societe/education/convention-citoyenne-sur-les-rythmes-scolaires-a-paris-la-semaine-decole-de-45-jours-vacille-20260624_HBPKM5QCJJBCPORQ6N47SECUL4/"
+          "take": "Précise le nombre de départements impliqués (une vingtaine) et identifie trois enfants victimes, en mettant l'accent sur l'âge du plus jeune (18 mois).",
+          "url": "https://www.liberation.fr/societe/police-justice/une-trentaine-dhommes-interpelles-en-france-apres-avoir-telecharge-une-video-de-sevices-sexuels-sur-un-bebe-20260624_J2XP5PA77ZGP7K4WWOUS6VFWUA/"
         }
       ],
       "id": 11,
@@ -346,23 +369,23 @@
     },
     {
       "themes": [
-        "France",
-        "Environnement"
+        "Société",
+        "Économie"
       ],
-      "title": "Canicule record: 58 départements en alerte rouge",
-      "brief": "La France connaît sa journée la plus chaude depuis 1947, avec 58 départements en vigilance rouge et des coupures d'électricité.",
-      "summary": "La France a enregistré mardi sa température la plus élevée depuis le début des mesures en 1947, avec un indicateur thermique national de 29,8 °C. Mercredi, 58 départements restent placés en vigilance rouge canicule. Aucune baisse des températures n'est attendue mercredi et jeudi.",
-      "full": "La journée de mardi 24 juin a marqué un record thermique en France, avec un indicateur thermique national atteignant 29,8 °C selon des données provisoires de Météo-France. Cette vague de chaleur historique, favorisée par le changement climatique, a des impacts concrets sur le terrain. Mercredi, 58 départements restent en vigilance rouge canicule et près de 68 000 foyers sont privés d'électricité dans le sud du Finistère. Les perturbations touchent les écoles, les hôpitaux et l'activité économique. Aucune amélioration n'est envisagée à court terme, les prévisionnistes n'attendant pas de baisse des températures mercredi et jeudi.",
+      "title": "Le gouvernement envisage d'assouplir les restrictions sur les passoires thermiques",
+      "brief": "Un projet de loi pourrait repousser les interdictions de location des logements mal isolés.",
+      "summary": "Le gouvernement prépare un assouplissement de la législation encadrant la location des passoires thermiques, ces logements très énergivores classés F et G au diagnostic de performance énergétique. Le projet de loi viserait à accorder un délai supplémentaire aux propriétaires pour rénover leurs biens avant d'être soumis aux interdictions actuelles.",
+      "full": "Actuellement, des règles encadrent déjà la location des logements les plus mal isolés. Le gouvernement souhaite modifier ce cadre réglementaire en proposant un sursis aux propriétaires pour entreprendre les travaux de rénovation nécessaires. Cette mesure d'assouplissement concerne spécifiquement les logements classés F et G, qui consomment le plus d'énergie pour le chauffage et l'eau chaude. Le projet de loi doit permettre à ces biens de rester davantage accessibles au marché locatif en repoussant les délais d'interdiction. Cette évolution intervient alors que la question des logements peu performants énergétiquement devient un enjeu majeur pour le parc immobilier français.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "Souligne que cette canicule historique provoque des dysfonctionnements directs dans les services publics et l'économie, avec les coupures d'électricité dans le Finistère comme illustration concrète.",
-          "url": "https://www.france24.com/fr/france/20260624-sous-une-chaleur-record-la-france-oblig%C3%A9e-de-s-adapter-dans-l-urgence"
+          "outlet": "Le Monde",
+          "take": "L'article dresse un bilan des règles actuellement applicables et de leurs effets concrets sur le marché locatif.",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/06/24/location-des-passoires-thermiques-ou-en-est-la-legislation_6711155_4355770.html"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Appuie sur l'aspect record climatique et l'absence de perspective d'amélioration à court terme, insistant sur la persistance de l'alerte.",
-          "url": "https://www.lemonde.fr/planete/live/2026/06/24/en-direct-canicule-cinquante-huit-departements-en-vigilance-rouge-aucune-baisse-des-temperatures-attendue-mercredi-et-jeudi_6710159_3244.html"
+          "outlet": "France Info",
+          "take": "La source souligne que le gouvernement entend donner un délai additionnel aux propriétaires pour rénover les logements les plus mal isolés avant une éventuelle interdiction.",
+          "url": "https://www.franceinfo.fr/economie/immobilier/passoires-thermiques-vers-une-remise-sur-le-marche-des-logements-g-et-f_8076347.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 12,
@@ -370,22 +393,23 @@
     },
     {
       "themes": [
-        "Sport"
+        "Environnement",
+        "Santé"
       ],
-      "title": "Coupe du monde 2026 : la Colombie se qualifie, la Croatie se relance",
-      "brief": "La Colombie a obtenu son billet pour les 16es de finale lors de la deuxième journée de phase de groupes.",
-      "summary": "La Colombie s'est qualifiée pour les 16es de finale du Mondial 2026 en battant la République démocratique du Congo. La Croatie, de son côté, a surmonté une rencontre difficile pour l'emporter 1 à 0 contre le Panama et relancer ses espoirs de qualification. Ces deux résultats de la nuit de mardi à mercredi redessinent les enjeux des dernières journées de phase de groupes.",
-      "full": "Lors de la deuxième journée de la Coupe du monde 2026, la Colombie a assuré sa qualification pour les 16es de finale en disposant de la République démocratique du Congo. Dans un match plus laborieux, la Croatie a remporté une victoire 1 à 0 face au Panama, mardi à Toronto. Ante Budimir, entré en seconde période, a ouvert le score sur un centre de Stanisic à la 54e minute. Cette victoire permet à la Croatie de se relancer avant la dernière journée et de maintenir ses chances de qualification, tandis que le Panama se retrouve pratiquement éliminé. La Colombie, quant à elle, peut maintenant aborder ses deux derniers matchs de groupe en position de force.",
+      "title": "Une mission parlementaire examine l'impact des aliments ultratransformés",
+      "brief": "L'Assemblée nationale lance une enquête sur les conséquences environnementales et sanitaires des aliments industriels.",
+      "summary": "Une mission d'information a été créée mercredi à l'Assemblée nationale pour étudier les effets des aliments ultratransformés sur le climat et la biodiversité. En France, ces produits constituent déjà 35 % des calories consommées par les adultes et 46 % chez les enfants. Une investigation télévisée consacrée au sujet sera diffusée le 25 juin sur France 2.",
+      "full": "Une mission d'information parlementaire a été lancée mercredi à l'Assemblée nationale pour examiner les impacts environnementaux des aliments ultratransformés. L'enquête doit éclairer les effets de ces produits industriels sur le climat et la biodiversité. En France, la consommation de tels aliments s'est accrue significativement : ils représentent actuellement 35 % des calories ingérées par les adultes et 46 % chez les enfants. Au-delà de l'enjeu environnemental, les questions de santé publique liées à cette alimentation ultra-transformée font débat. Une investigation journalistique sur ce thème sera diffusée le 25 juin sur France 2.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "La Colombie accède aux 16es de finale, marquant un tournant dans la compétition de phase de groupes.",
-          "url": "https://www.franceinfo.fr/coupe-du-monde/service-minimum-pour-la-croatie-la-colombie-qualifiee-pour-les-16es-ce-qu-il-faut-retenir-des-matchs-de-la-nuit-de-la-coupe-du-monde_8076845.html#xtor=RSS-3-[lestitres]"
+          "outlet": "Le Monde",
+          "take": "Souligne que la mission parlementaire doit clarifier les effets des aliments industriels sur le climat et la biodiversité.",
+          "url": "https://www.lemonde.fr/planete/article/2026/06/24/aliments-ultratransformes-une-mission-parlementaire-va-se-pencher-sur-leurs-impacts-environnementaux_6710240_3244.html"
         },
         {
-          "outlet": "France 24",
-          "take": "La Croatie obtient difficilement la victoire contre le Panama et se relance avant l'ultime journée malgré une prestation laborieuse.",
-          "url": "https://www.france24.com/fr/sports/20260624-mondial-2026-la-croatie-fait-le-minimum-et-se-relance-dans-la-douleur-face-au-panama"
+          "outlet": "France Info",
+          "take": "Met l'accent sur la proportion croissante de ces aliments dans l'alimentation française, particulièrement chez les enfants, et leur impact sanitaire.",
+          "url": "https://www.franceinfo.fr/replay-magazine/france-2/cash-investigation/cash-investigation-aliments-ultratransformes-dans-les-arriere-cuisines-des-industriels_8045651.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 13,
@@ -393,22 +417,23 @@
     },
     {
       "themes": [
-        "Monde"
+        "France",
+        "Société"
       ],
-      "title": "Corée du Nord arme sa marine de capacités nucléaires",
-      "brief": "Kim Jong-un annonce équiper la flotte navale d'armes nucléaires et lance de nouveaux navires de guerre.",
-      "summary": "Le leader nord-coréen a déclaré mardi que sa marine était en cours d'armement nucléaire lors de la mise en service du Choe Hyon, un navire de 5 000 tonnes. Kim Jong-un a également annoncé le développement de futurs navires de guerre stratégiques de 10 000 tonnes. Ces annonces s'inscrivent dans la continuité de la stratégie d'expansion nucléaire revendiquée par Pyongyang.",
-      "full": "Kim Jong-un a annoncé mardi que la Corée du Nord équipait progressivement sa marine d'armes nucléaires. Cette déclaration a été faite lors de la mise en service du Choe Hyon, un navire de guerre de 5 000 tonnes. Le leader nord-coréen a précisé que des navires militaires supplémentaires recevaient des armements nucléaires. Il a également confirmé la construction à venir de navires de guerre stratégiques de 10 000 tonnes. Ces annonces reflètent la poursuite de l'effort de militarisation nucléaire entrepris par Pyongyang depuis plusieurs années, dans un contexte de tensions géopolitiques persistantes en Asie du Nord-Est.",
+      "title": "Débat sur un congé climatique face aux vagues de chaleur",
+      "brief": "Les écologistes proposent un congé climatique pour protéger les travailleurs exposés à la canicule.",
+      "summary": "Alors que la France traverse une vague de chaleur exceptionnelle, la question des conditions de travail des salariés exposés devient centrale. Les écologistes déposent une proposition de loi créant un « congé climatique » pour permettre aux travailleurs de s'absenter lors des pics de température. Les partenaires sociaux se réunissent mercredi au ministère du Travail pour discuter des mesures à mettre en place.",
+      "full": "Face à une canicule exceptionnelle en France, le débat s'intensifie sur la protection des salariés exposés à des conditions thermiques difficiles. Le parti écologiste envisage de déposer une proposition de loi instaurant un « congé climatique », permettant aux travailleurs de se soustraire à la chaleur extrême lors des pics de température. Marine Tondelier, leader du parti, plaide pour une « mutualisation » des risques liés à la chaleur, une approche visant à partager collectivement la responsabilité des adaptations nécessaires. Dans cette dynamique, une réunion est programmée mercredi au ministère du Travail avec les partenaires sociaux afin de définir les mesures appropriées. Cette initiative s'inscrit dans une réflexion plus large sur l'adaptation du monde du travail aux défis climatiques croissants.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Kim Jong-un a présenté cette annonce lors d'une cérémonie officielle de mise en service du navire de 5 000 tonnes.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/24/la-coree-du-nord-est-en-train-d-equiper-sa-marine-d-armes-nucleaires-affirme-kim-jong-un_6710023_3210.html"
+          "outlet": "France 24",
+          "take": "Met l'accent sur le contexte de canicule exceptionnelle et la mobilisation des acteurs institutionnels autour de cette question.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260624-travail-sous-la-canicule-faut-il-instaurer-un-cong%C3%A9-climatique"
         },
         {
-          "outlet": "France 24",
-          "take": "L'annonce inclut des plans pour de futurs navires de guerre stratégiques de plus grande taille, soit 10 000 tonnes.",
-          "url": "https://www.france24.com/fr/asie-pacifique/20260624-coree-du-nord-kim-jong-un-annonce-equiper-marine-armes-nucleaires"
+          "outlet": "Libération",
+          "take": "Souligne l'action concrète des écologistes et leur appel à une mutualisation des risques climatiques au niveau collectif.",
+          "url": "https://www.liberation.fr/politique/les-ecologistes-vont-deposer-une-proposition-de-loi-pour-instaurer-un-conge-climatique-20260624_W23HMGRVBVHGVLPZSLAKVCNQ3M/"
         }
       ],
       "id": 14,
@@ -418,20 +443,20 @@
       "themes": [
         "Monde"
       ],
-      "title": "Le Congrès américain demande le retrait des troupes face à l'Iran",
-      "brief": "Le Sénat a adopté une résolution appelant au retrait des soldats américains impliqués dans le conflit avec l'Iran.",
-      "summary": "Le Sénat américain a voté mardi une résolution demandant le retrait des troupes américaines impliquées dans les tensions avec l'Iran, déjà approuvée par la Chambre des représentants. Bien que symbolique et sans force de loi, cette résolution bénéficie d'un soutien bipartisan puisque quatre élus républicains ont rejoint les démocrates. Le vote représente un camouflet politique pour le président Trump, qui a dénoncé cette initiative comme « inopportune et insensée ».",
-      "full": "Le Sénat américain a voté mardi une résolution, déjà approuvée par la Chambre des représentants, appelant au retrait des troupes américaines engagées dans le conflit avec l'Iran. Bien que dépourvue de force contraignante, cette résolution revêt une portée politique significative. Le texte bénéficie d'un soutien bipartisan : quatre sénateurs républicains se sont joints aux démocrates pour l'adopter. Le président Trump a qualifié ce vote d'« inopportun et insensé », le considérant comme un désaveu de sa politique étrangère au Moyen-Orient. Cette résolution illustre les tensions persistantes entre l'exécutif et le Congrès sur la gestion des opérations militaires impliquant les États-Unis dans la région.",
+      "title": "Pedro Sánchez fragilisé par plusieurs affaires de corruption",
+      "brief": "Le Premier ministre espagnol fait face à plusieurs scandales impliquant son entourage proche.",
+      "summary": "Pedro Sánchez, chef du gouvernement espagnol, voit son autorité affaiblie par une série d'affaires de corruption touchant des proches collaborateurs. Son ancien ministre des transports, José Luis Abalos, a été condamné lundi à vingt-quatre ans de prison pour corruption. L'épouse du Premier ministre est également mise en cause dans une enquête pour trafic d'influence.",
+      "full": "Le chef du gouvernement espagnol doit affronter une succession de scandales menaçant sa position politique. José Luis Abalos, ancien ministre des transports de son gouvernement et figure clé de son entourage, a reçu lundi une condamnation à vingt-quatre ans de prison pour corruption. Parallèlement, l'épouse de Pedro Sánchez fait l'objet d'une enquête pour trafic d'influence. Face aux accusations et aux critiques croissantes de l'opposition, le Premier ministre réaffirme son attachement au principe de la présomption d'innocence et rejette toute idée d'une corruption systémique au sein de son gouvernement ou de son parti socialiste. Ces affaires successives fragilisent progressivement la position du chef de l'exécutif dans le contexte politique espagnol.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Souligne que quatre élus républicains ont rompu les rangs de leur parti pour soutenir le texte, ce qui constitue un revers symbolique mais notable pour le président.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/24/le-congres-americain-ordonne-a-donald-trump-de-retirer-les-troupes-americaines-impliquees-dans-le-conflit-avec-l-iran_6710020_3210.html"
+          "outlet": "France 24",
+          "take": "Pedro Sánchez défend le respect de la présomption d'innocence face aux critiques de l'opposition sur l'accumulation des scandales.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260624-pedro-s%C3%A1nchez-fragilis%C3%A9-par-une-s%C3%A9rie-d-affaires-de-corruption"
         },
         {
-          "outlet": "Libération",
-          "take": "Insiste sur le caractère non contraignant de la résolution tout en rapportant la réaction critique de Trump face à ce qu'il juge comme une initiative déplacée.",
-          "url": "https://www.liberation.fr/international/amerique/guerre-au-moyen-orient-le-congres-americain-appelle-a-ce-que-les-soldats-americains-quittent-liran-20260624_3SL4EFDEPZH37GDVJMKUNJIR7I/"
+          "outlet": "Le Monde",
+          "take": "Le Premier ministre dément formellement toute corruption endémique du gouvernement ou du Parti socialiste espagnol.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/24/espagne-pedro-sanchez-dement-toute-corruption-generalisee-du-gouvernement-et-du-parti-socialiste_6710231_3210.html"
         }
       ],
       "id": 15,
@@ -439,23 +464,23 @@
     },
     {
       "themes": [
-        "Économie",
+        "Culture",
         "Tech & Sciences"
       ],
-      "title": "L'Allemagne retrouve son trafic ferroviaire après une panne informatique",
-      "brief": "Une défaillance du système de communications a paralysé tous les trains de la Deutsche Bahn. Le service reprend progressivement.",
-      "summary": "Le trafic ferroviaire allemand a été totalement interrompu suite à une panne informatique affectant les systèmes de communications de la Deutsche Bahn, l'opérateur national. Cette défaillance a immobilisé l'ensemble des trains du réseau, qu'ils soient municipaux, régionaux ou longue distance. Après intervention de ses équipes informatiques, l'opérateur a annoncé la reprise graduelle de la circulation.",
-      "full": "La Deutsche Bahn, principal opérateur ferroviaire allemand, a connu une paralysie totale de son réseau suite à une panne informatique affectant ses systèmes de communications. Cette défaillance a immobilisé simultanément tous les trains circulant sur le territoire, qu'ils assurent des trajets municipaux, régionaux ou longue distance. Un porte-parole de l'entreprise a confirmé que ses équipes informatiques avaient travaillé sans interruption pour résoudre le problème. Le trafic a progressivement repris après la résolution de la panne. L'incident illustre la vulnérabilité des infrastructures de transport européennes face aux dysfonctionnements numériques. Aucune information n'a été fournie sur la cause précise de la panne ou la durée totale de l'interruption.",
+      "title": "Michael Caine prête sa voix à l'IA pour un livre audio",
+      "brief": "L'acteur britannique de 93 ans a autorisé ElevenLabs à générer une version synthétique de sa voix.",
+      "summary": "Michael Caine a conclu un partenariat avec ElevenLabs, une entreprise spécialisée dans la synthèse vocale par intelligence artificielle, permettant de reproduire numériquement sa voix. Cette technologie est utilisée pour narrer « L'Odyssée » en livre audio, disponible depuis le 23 juin. Ce projet coïncide avec la sortie prévue du film de Christopher Nolan adapté du même poème antique.",
+      "full": "Michael Caine, comédien britannique de 93 ans, a accepté de céder les droits à sa voix au sein du catalogue d'ElevenLabs, une société de synthèse vocale par intelligence artificielle. Cette collaboration débouche sur un livre audio de treize heures consacrées à « L'Odyssée », enrichi de musique et d'effets sonores. La narration est effectuée intégralement par un clone vocal de l'acteur, généré par l'IA. Disponible depuis le 23 juin, ce projet intervient à quelques semaines de la sortie cinématographique du film de Christopher Nolan adapté du texte antique, prévue pour la mi-juillet. L'initiative illustre l'adoption croissante des technologies de synthèse vocale dans le secteur culturel et médias.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "La Deutsche Bahn a annoncé que ses experts informatiques avaient résolu le problème et que la circulation reprenait graduellement.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/24/en-allemagne-le-trafic-ferroviaire-suspendu-dans-tout-le-pays-apres-une-panne-des-communications_6710019_3210.html"
+          "outlet": "France Info",
+          "take": "Michael Caine commercialise son empreinte vocale auprès d'ElevenLabs, qui dispose désormais d'une licence pour générer sa voix dans divers projets futurs.",
+          "url": "https://www.franceinfo.fr/culture/cinema/l-odyssee-racontee-en-livre-audio-par-un-double-ia-de-michael-caine_8077121.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France Info",
-          "take": "La panne a affecté l'ensemble du réseau ferroviaire allemand, tous types de services confondus.",
-          "url": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-le-trafic-ferroviaire-du-pays-totalement-paralyse-a-cause-d-une-panne-des-communications_8076521.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Libération",
+          "take": "Le livre audio constitue une opération de promotion coordonnée en amont de la sortie du film de Christopher Nolan en salles.",
+          "url": "https://www.liberation.fr/culture/lacteur-britannique-michael-caine-a-cede-sa-voix-a-lia-lodyssee-narree-en-livre-audio-par-son-clone-vocal-20260624_JQJX56IYSNDONB4JCTH7NWPY24/"
         }
       ],
       "id": 16,
@@ -463,22 +488,22 @@
     },
     {
       "themes": [
-        "Monde"
+        "Société"
       ],
-      "title": "La Commission européenne reçoit une délégation talibane à Bruxelles",
-      "brief": "L'UE a accueilli des représentants du régime afghan pour discuter de reconduites de migrants.",
-      "summary": "La Commission européenne a reçu, mardi 23 juin à Bruxelles, une délégation officielle du gouvernement taliban afin de négocier les modalités de renvoi de migrants afghans vers l'Afghanistan. Cette rencontre intervient alors que l'Union européenne dénonce publiquement les violations des droits humains commises par le régime de Kaboul. La visite suscite des critiques virulentes parmi les militants afghans et les organisations humanitaires.",
-      "full": "Des représentants du gouvernement taliban ont été reçus mardi par la Commission européenne dans le but de faciliter les expulsions de ressortissants afghans depuis les États membres de l'UE. Cette démarche contraste fortement avec la condamnation officielle que l'Union adresse régulièrement au régime sur la question des droits fondamentaux et des exactions documentées en Afghanistan depuis leur retour au pouvoir en 2021. Selon les critiques exprimées par des ONG et des militants afghans, cette approche révèle une contradiction majeure entre les valeurs affichées par Bruxelles et ses priorités en matière de gestion migratoire. L'enjeu des reconduites est devenu central dans le débat politique européen sur l'immigration, poussant certains États à engager des discussions avec des autorités autrement isolées sur la scène internationale.",
+      "title": "Un projet de loi global contre les violences sexuelles à l'automne",
+      "brief": "Le gouvernement prépare une législation complète pour combattre les violences sexistes et sexuelles.",
+      "summary": "Suite au meurtre et au viol de Lyhanna, une enfant de 11 ans, le gouvernement français a annoncé l'examen d'une loi globale contre les violences sexistes et sexuelles à l'automne. Ce texte comprend 78 mesures couvrant la prévention, la justice et la protection des victimes. Cette annonce intervient alors que les autorités font face à des critiques concernant le traitement des violences envers les mineurs.",
+      "full": "Frappé par le crime commis contre Lyhanna, une enfant de 11 ans, le gouvernement a présenté un projet de loi ambitieux destiné à renforcer la lutte contre les violences sexistes et sexuelles. Ce texte, examiné à l'automne, repose sur 78 mesures déclinées en trois axes: la prévention des violences, l'amélioration du système judiciaire et le renforcement de la protection des victimes. Cette initiative législative s'inscrit dans un contexte où les pouvoirs publics sont confrontés à des reproches portant sur leur gestion des cas de violences impliquant des mineurs. Le projet vise à offrir un cadre législatif plus complet et coordonné face à ce phénomène.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "La rencontre s'est déroulée discrètement alors que l'UE condamne officiellement les exactions du régime taliban.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/24/immigration-la-commission-recoit-en-catimini-une-delegation-de-talibans-a-bruxelles_6710125_3210.html"
+          "outlet": "France 24",
+          "take": "Le projet de loi comprend 78 mesures transversales englobant la prévention, la justice et la protection des victimes, face aux critiques sur le traitement des violences envers les mineurs.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260624-apr%C3%A8s-le-meurtre-de-lyhanna-une-loi-contre-les-violences-sexuelles-%C3%A0-l-automne-en-france"
         },
         {
-          "outlet": "Libération",
-          "take": "Des militants afghans et des ONG dénoncent la contradiction flagrante entre les principes affichés par Bruxelles et cette ouverture au régime taliban.",
-          "url": "https://www.liberation.fr/international/nous-sommes-dans-la-schizophrenie-la-plus-totale-linvitation-de-responsables-talibans-par-bruxelles-ulcere-militants-afghans-et-ong-20260623_F2HDS2GOQ5CS5MR7HEUV4VRV5M/"
+          "outlet": "France Info",
+          "take": "Cette loi intégrale contre les violences sexuelles figure parmi les principaux sujets d'actualité du jour aux côtés d'autres enjeux gouvernementaux.",
+          "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/loi-integrale-contre-les-violences-sexuelles-plan-du-rn-face-a-la-canicule-les-informes-du-matin-du-mercredi-24-juin-2026_8052977.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 17,
@@ -486,22 +511,23 @@
     },
     {
       "themes": [
-        "Monde"
+        "Santé",
+        "Environnement"
       ],
-      "title": "Ukraine: frappes russes sur Kharkiv, riposte ukrainienne sur Sébastopol",
-      "brief": "La Russie et l'Ukraine poursuivent leurs bombardements réciproques. Un mort à Kharkiv, coupures d'électricité en Crimée.",
-      "summary": "Des frappes russes ont tué une femme et endommagé plusieurs habitations et commerces à Kharkiv, dans l'est de l'Ukraine. En représailles, l'Ukraine a frappé les infrastructures énergétiques de Sébastopol, le principal port russe en Crimée, plongeant la ville dans le noir. Le conflit reste marqué par des échanges d'attaques de part et d'autre.",
-      "full": "Une femme a été tuée lors d'une frappe russe sur Kharkiv, capitale de l'oblast du même nom. Selon les autorités locales, quatre maisons individuelles, un magasin et une dépendance ont été endommagés, et des incendies se sont déclarés sur les lieux des bombardements. En réaction, l'Ukraine a mené une attaque contre les installations énergétiques de Sébastopol, le plus important port de Crimée annexée par la Russie, provoquant des coupures d'électricité dans la ville. Ces frappes s'inscrivent dans la continuité des échanges d'attaques entre les deux belligérants depuis le début du conflit.",
+      "title": "Canicule : les hôpitaux activent le plan Orsan face aux urgences",
+      "brief": "Face à la vague de chaleur, le gouvernement mobilise les ressources hospitalières et anticipe une augmentation des passages aux urgences.",
+      "summary": "La ministre de la Santé Stéphanie Rist s'attend à une hausse des passages aux urgences liée à la canicule dans les jours à venir. Le Premier ministre a activé le plan Orsan au niveau 2 sur 4 pour mobiliser les personnels nécessaires. Selon la ministre, les hôpitaux ne sont pas saturés pour l'heure, malgré une augmentation de 15 à 20 % des appels au Samu et quelques déprogrammations ciblées.",
+      "full": "Face à la vague de chaleur, le gouvernement met en place des mesures de renforcement du système hospitalier. Le Premier ministre Sébastien Lecornu a activé le plan Orsan au niveau 2 sur 4, permettant de mobiliser les personnels requis pour assurer le fonctionnement des établissements. La ministre de la Santé Stéphanie Rist anticipe une augmentation du nombre de passages aux urgences, effet qui pourrait se manifester avec un délai de 5 à 10 jours. Elle rapporte une augmentation des appels au Samu de l'ordre de 15 à 20 % et une légère hausse des passages aux urgences. Bien que certains soins aient été déprogrammés de manière ciblée, la ministre affirme que les hôpitaux ne sont pas saturés actuellement et que la situation demeure normale pour le moment.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Détails des destructions matérielles à Kharkiv et confirmation de l'attaque ukrainienne contre les infrastructures de Sébastopol.",
-          "url": "https://www.lemonde.fr/international/live/2026/06/24/en-direct-guerre-en-ukraine-une-femme-tuee-dans-une-frappe-russe-sur-kharkiv-sebastopol-privee-d-electricite-apres-une-attaque-ukrainienne_6706390_3210.html"
+          "outlet": "France Info",
+          "take": "La ministre alerte sur une hausse attendue des passages aux urgences dans les jours suivants et confirme l'activation du plan Orsan au niveau 2.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-canicule-a-une-action-retardee-de-5-a-10-jours-la-ministre-de-la-sante-s-attend-a-une-hausse-des-passages-aux-urgences_8077055.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Mise en avant du bilan humain lourd des frappes russes et des tensions entre Moscou et Washington.",
-          "url": "https://www.20minutes.fr/monde/ukraine/4230727-20260623-guerre-ukraine-poutine-doute-serieusement-etats-unis-frappes-russes-tuent-encore?at_medium=display&at_campaign=149"
+          "outlet": "Libération",
+          "take": "Malgré une augmentation de 15 à 20 % des appels au Samu et quelques déprogrammations ciblées, la ministre rassure sur l'absence de saturation des hôpitaux.",
+          "url": "https://www.liberation.fr/societe/sante/canicule-les-hopitaux-ne-sont-pas-satures-rassure-la-ministre-de-la-sante-malgre-quelques-deprogrammations-de-soin-ciblees-20260624_QSJAYHHUMRGV3B3E5HLDEP6JYU/"
         }
       ],
       "id": 18,
@@ -509,23 +535,22 @@
     },
     {
       "themes": [
-        "Économie",
-        "Santé"
+        "Culture"
       ],
-      "title": "Grève à Stellantis Mulhouse face aux conditions de chaleur extrême",
-      "brief": "La CGT appelle à cesser le travail à l'usine automobile de Mulhouse en raison des températures dangereuses.",
-      "summary": "Le syndicat CGT a déposé un préavis de grève à l'usine Stellantis de Mulhouse du 23 au 28 juin, demandant aux 4 500 salariés de cesser le travail plus tôt en raison des fortes chaleurs. Selon un délégué syndical, les températures dans certains ateliers atteignent 38 à 40°C. Cette action vise à dénoncer les conditions de travail jugées dangereuses en période de canicule.",
-      "full": "La CGT a déposé un préavis de grève à l'usine Stellantis de Mulhouse du 23 au 28 juin, appelant à un arrêt du travail plus précoce pour les équipes du matin et de l'après-midi. Le syndicat justifie cette action par les conditions de travail extrêmes, avec des températures frôlant les 38 à 40°C dans certains ateliers du géant automobile. Cet appel concerne l'ensemble des 4 500 salariés du site. La démarche s'inscrit dans une contestation des conditions d'exposition à la chaleur jugées dangereuses pour la santé des travailleurs pendant la période de canicule.",
+      "title": "Charli XCX fait ses débuts au cinéma dans Eruption",
+      "brief": "La chanteuse britannique Charli XCX joue son premier grand rôle cinématographique dans un film indépendant sorti mercredi.",
+      "summary": "Charli XCX incarne une touriste en week-end à Varsovie dont le couple traverse une crise dans le film « Eruption ». Réalisé par le cinéaste américain Pete Ohs, ce projet à petit budget marque le premier grand rôle actoral de la superstar de la pop. Le film sort mercredi en salles.",
+      "full": "Charli XCX, célèbre chanteuse britannique, fait ses débuts au cinéma dans « Eruption », un long-métrage produit à petit budget qui sort mercredi. Elle y interprète une touriste en séjour touristique à Varsovie, confrontée à des difficultés conjugales. Le réalisateur américain Pete Ohs signe ce film qui se présente comme une aventure sentimentale mêlant comédie et drame. Il s'agit du premier grand rôle actoral de la pop star, après des apparitions mineures au cinéma. Le projet illustre la tendance croissante des artistes musicaux à explorer l'écran de cinéma.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Le syndicat alerte sur le danger sanitaire spécifique des ateliers, où les thermomètres dépassent les 38°C.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/alerte-canicule-la-cgt-depose-un-preavis-de-greve-a-stellantis-mulhouse-en-raison-des-fortes-chaleurs_8076008.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Met l'accent sur l'ampleur du rôle pour Charli XCX et la nature économe de la production cinématographique.",
+          "url": "https://www.franceinfo.fr/culture/cinema/le-premier-grand-role-au-cinema-de-la-chanteuse-charli-xcx-dans-eruption-un-film-a-petit-budget_8077331.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "Libération",
-          "take": "La CGT mobilise l'ensemble des salariés du site pour contester collectivement les conditions de travail liées aux fortes chaleurs.",
-          "url": "https://www.liberation.fr/economie/chez-stellantis-mulhouse-un-appel-a-la-greve-contre-la-chaleur-20260623_QA2SORMSAVEJTKTKMFDVJEVIYA/"
+          "outlet": "Le Monde",
+          "take": "Souligne le réalisateur Pete Ohs et la dimension romantico-comique du scénario situé en Pologne.",
+          "url": "https://www.lemonde.fr/culture/article/2026/06/24/eruption-charli-xcx-a-l-ecran-dans-un-jeu-de-l-amour-et-du-hasard-a-varsovie_6710214_3246.html"
         }
       ],
       "id": 19,
@@ -533,22 +558,22 @@
     },
     {
       "themes": [
-        "France"
+        "Monde"
       ],
-      "title": "L'Assemblée adopte en première lecture le statut d'autonomie de la Corse",
-      "brief": "Les députés ont voté favorablement un projet de loi constitutionnelle accordant une autonomie renforcée à la Corse.",
-      "summary": "L'Assemblée nationale a adopté en première lecture, mardi 23 juin, un projet de loi constitutionnelle visant à modifier le statut de la Corse. Le texte, issu de négociations, reconnaît à la collectivité insulaire la capacité d'adapter les lois et règlements nationaux selon ses spécificités. Ce projet de compromis a suscité des critiques, notamment de la part de La France insoumise, qui regrette l'absence de garanties sur la non-régression sociale.",
-      "full": "L'Assemblée nationale a voté favorablement, mardi 23 juin, en première lecture, un projet de loi constitutionnelle restructurant le statut de la Corse. Le texte confère à la collectivité insulaire le pouvoir de réaliser des « adaptations » des lois et règlements nationaux en tenant compte de ses « spécificités ». Ce projet représente le fruit de négociations et d'amendements visant à construire un consensus autour de cette évolution institutionnelle. Le statut proposé reconnaît une forme d'autonomie renforcée, placée sous contrôle du Conseil d'État. Cependant, le texte a fait l'objet de critiques : La France insoumise regrette notamment l'absence d'un principe de non-régression sociale dans le dispositif. Le projet devra désormais être soumis à d'autres étapes parlementaires avant une possible entrée en vigueur.",
+      "title": "Au Pérou, Keiko Fujimori en passe de remporter l'élection présidentielle",
+      "brief": "La candidate de droite Keiko Fujimori devance son rival de gauche avec environ 50 % des voix dépouillées.",
+      "summary": "Au Pérou, Keiko Fujimori, fille de l'ancien président Alberto Fujimori, est en passe de remporter l'élection présidentielle selon l'autorité électorale. Avec 99,86 % des bulletins dépouillés, elle recueille 50,12 % des voix contre 49,88 % pour son rival de gauche Roberto Sanchez. L'avance de plus de 43 000 voix de la candidate de droite paraît insurmontable au vu du faible nombre de bulletins restants à compter.",
+      "full": "Au Pérou, Keiko Fujimori, candidate de droite et fille de l'ancien président Alberto Fujimori, est en passe de remporter l'élection présidentielle selon l'autorité électorale. Avec 99,86 % des bulletins dépouillés, elle recueille 50,12 % des voix contre 49,88 % pour son rival de gauche Roberto Sanchez, soit une avance de plus de 43 000 voix. Le nombre de bulletins restants à dépouiller est insuffisant pour permettre à Roberto Sanchez de rattraper son retard. Ce dernier a d'ores et déjà contesté les résultats de ce scrutin.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Le projet accorde à la Corse la possibilité d'adapter les lois et règlements nationaux selon ses spécificités insulaires.",
-          "url": "https://www.franceinfo.fr/france/corse/corse/autonomie-controle-du-conseil-d-etat-ce-que-contient-le-projet-de-loi-constitutionnelle-sur-le-statut-de-la-corse-adopte-en-premiere-lecture-a-l-assemblee_8075333.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "L'avance de Keiko Fujimori est présentée comme définitive au regard du faible nombre de bulletins encore à dépouiller.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/24/au-perou-keiko-fujimori-la-candidate-de-droite-en-passe-d-etre-elue-presidente_6710211_3210.html"
         },
         {
           "outlet": "Libération",
-          "take": "Le texte de compromis a obtenu l'aval des députés mais ne satisfait pas tous les groupes parlementaires, notamment sur les garanties sociales.",
-          "url": "https://www.liberation.fr/politique/statut-de-la-corse-a-lassemblee-une-version-de-compromis-suspendue-a-un-vote-incertain-20260623_7I6OP7ZXPRH2PCLH5J23CMMKPU/"
+          "take": "La source souligne que le père de la candidate a été condamné pour crimes contre l'humanité et que son rival conteste les résultats.",
+          "url": "https://www.liberation.fr/international/amerique/presidentielle-au-perou-la-candidate-de-droite-keiko-fujimori-en-passe-detre-elue-selon-lautorite-electorale-20260624_5P2SDRJQ7FCDPKQ3CIMSJ3SCVI/"
         }
       ],
       "id": 20,
@@ -556,22 +581,22 @@
     },
     {
       "themes": [
-        "Sport"
+        "Monde"
       ],
-      "title": "Le Portugal écrase l'Ouzbékistan, Ronaldo entre dans l'histoire",
-      "brief": "Le Portugal s'impose 5-0 contre l'Ouzbékistan en Coupe du monde 2026. Cristiano Ronaldo marque deux buts.",
-      "summary": "Le Portugal a remporté une victoire convaincante 5-0 face à l'Ouzbékistan lors de son deuxième match de la Coupe du monde 2026. Cristiano Ronaldo a inscrit un doublé, franchissant un cap historique en devenant le premier joueur à marquer lors de six éditions différentes du Mondial.",
-      "full": "Le Portugal a dominé l'Ouzbékistan 5-0 dans le groupe de la Coupe du monde 2026, mercredi. Capitaine de la Seleção, Cristiano Ronaldo a marqué deux buts lors de cette rencontre. À 41 ans, le joueur portugais entre dans l'histoire du football mondial en devenant le premier joueur à inscrire des buts lors de six éditions différentes du Mondial. Cette victoire permet au Portugal de faire un pas décisif vers la qualification pour les 16es de finale du tournoi.",
+      "title": "Ukraine : échanges de frappes meurtrières et coupures électriques",
+      "brief": "Les belligérants se sont échangé des coups meurtriers mercredi, touchant civils et infrastructures énergétiques.",
+      "summary": "Dans la nuit du 24 au 25 juin, des frappes russes et ukrainiennes ont fait quatre morts au total. Une femme a été tuée dans un bombardement russe à Kharkiv, tandis que trois personnes ont péri dans des attaques de drones ukrainiens. Une frappe ukrainienne sur Sébastopol, principal port militaire de Crimée, a provoqué une coupure de courant temporaire dans la région.",
+      "full": "Les deux camps ont intensifié leurs opérations offensives durant la nuit du 23 au 24 juin. En Russie, des attaques par drones ukrainiens ont fait trois morts. De son côté, l'armée russe a frappé Kharkiv, grande ville du nord-est ukrainien, causant la mort d'au moins une civile. Ces opérations s'inscrivent dans un cycle continu d'échanges de frappes qui caractérise le conflit depuis des mois. Par ailleurs, une attaque ukrainienne contre le port militaire de Sébastopol, en Crimée annexée par la Russie en 2014, a visé les infrastructures énergétiques. L'impact a provoqué une interruption temporaire de l'électricité dans la région péninsulaire.",
       "angles": [
         {
           "outlet": "20 Minutes",
-          "take": "Souligne la victoire rassurante du Portugal après une première partie de tournoi plus difficile, avec l'exploit personnel de Ronaldo auteur d'un doublé.",
-          "url": "https://www.20minutes.fr/sport/football/4230755-20260623-direct-portugal-ouzbekistan-selecao-cristiano-ronaldo-grosse-pression-suivez-tournant-mondial-18h30?at_medium=display&at_campaign=149"
+          "take": "Met l'accent sur la continuité des opérations offensives de part et d'autre et sur l'impact sur les approvisionnements énergétiques crimées.",
+          "url": "https://www.20minutes.fr/monde/ukraine/4230872-20260624-direct-guerre-ukraine-femme-tuee-frappe-russe-kharkiv?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "France Info",
-          "take": "Met l'accent sur l'accomplissement historique de Ronaldo, seul joueur à franchir la barre des six Coupes du monde avec des buts marqués.",
-          "url": "https://www.franceinfo.fr/coupe-du-monde/le-portugal-et-cristiano-ronaldo-se-reveillent-avec-la-maniere-contre-l-ouzbekistan-et-font-un-grand-pas-vers-les-16es-de-finale-de-la-coupe-du-monde-2026_8076365.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Libération",
+          "take": "Souligne l'implication de civils dans les bombardements russes et détaille les conséquences sur le port stratégique de Sébastopol.",
+          "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-une-femme-tuee-dans-une-frappe-russe-a-kharkiv-trois-morts-dans-des-attaques-de-drones-ukrainiens-20260624_JKTJ742JQFGXDMVJB2GXGXJQXY/"
         }
       ],
       "id": 21,
@@ -579,22 +604,23 @@
     },
     {
       "themes": [
+        "Économie",
         "Société"
       ],
-      "title": "Mère d'enfants abandonnés au Portugal: pas d'extradition",
-      "brief": "Une femme française qui avait abandonné ses deux jeunes fils au Portugal ne sera pas extradée vers la France.",
-      "summary": "En mai, deux enfants âgés de 4 et 5 ans ont été retrouvés seuls en pleurs au bord d'une route au sud du Portugal, après avoir été abandonnés par leur mère. Cette dernière, Marine R., avait pris la fuite avec son compagnon et tous deux avaient été interpellés et incarcérés. Les autorités portugaises ont refusé de l'extrader vers la France.",
-      "full": "Deux enfants français, âgés de 4 et 5 ans, avaient été retrouvés le 19 mai au bord d'une route nationale dans le sud du Portugal, assis en pleurs, plusieurs jours après leur abandon par leur mère. Marine R. s'était enfuie avec son compagnon et avait été rapidement interpellée et incarcérée sur le territoire portugais. Bien que la France ait sollicité son extradition, les autorités portugaises ont refusé cette demande. Les raisons précises de ce refus ne sont pas détaillées dans les sources disponibles. Les deux enfants ont pu être pris en charge après leur découverte par un automobiliste.",
+      "title": "Soldes d'été sous canicule: une aubaine pour le commerce en ligne",
+      "brief": "Les soldes d'été commencent mercredi en pleine vague de chaleur, créant des conditions de magasinage inégales.",
+      "summary": "Les soldes d'été débutent ce mercredi dans un contexte de canicule exceptionnelle qui devrait fragmenter les résultats commerciaux. Les boutiques de centre-ville pâtiront de la chaleur dissuadant les clients de sortir, tandis que les grands magasins climatisés et le commerce électronique devraient bénéficier de cette situation.",
+      "full": "La période des rabais qui s'ouvre ce mercredi 26 juin s'annonce contrastée pour les commerces français. La vague de chaleur qui traverse le pays incite les consommateurs à limiter leurs déplacements et à privilégier les achats en ligne, où la climatisation n'est pas un enjeu. Les boutiques indépendantes et magasins situés en centre-ville, dépourvus de climatisation performante, risquent de connaître une baisse de fréquentation. À l'inverse, les grands magasins équipés d'une climatisation efficace et les plateformes de commerce électronique pourraient enregistrer des résultats plus favorables. Cette dynamique confirme une tendance que les professionnels du secteur observent depuis plusieurs années: les conditions météorologiques extrêmes accélèrent le basculement vers le commerce digital.",
       "angles": [
         {
           "outlet": "20 Minutes",
-          "take": "Insiste sur la chronologie de l'abandon et l'interpellation rapide de la mère et son compagnon.",
-          "url": "https://www.20minutes.fr/faits_divers/4230751-20260623-enfants-abandonnes-portugal-mere-extradee-vers-france?at_medium=display&at_campaign=149"
+          "take": "Souligne que la canicule dissuade les consommateurs de se déplacer physiquement et bénéficie au commerce en ligne.",
+          "url": "https://www.20minutes.fr/societe/4230870-20260624-prix-plus-legers-soleil-plomb-debut-soldes-mercredi?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Souligne le délai de huit jours entre l'abandon et la découverte des enfants par un tiers.",
-          "url": "https://www.lemonde.fr/societe/article/2026/06/23/la-mere-des-enfants-abandonnes-au-portugal-ne-sera-pas-extradee-vers-la-france_6709969_3224.html"
+          "outlet": "Libération",
+          "take": "Met l'accent sur les disparités sectorielles: impact négatif pour les petits commerces de centre-ville versus bénéfice pour les grandes surfaces climatisées et l'e-commerce.",
+          "url": "https://www.liberation.fr/economie/conso/soldes-dete-sous-le-cagnard-catastrophe-pour-les-boutiques-de-centre-ville-aubaine-pour-les-grands-magasins-climatises-20260624_AFKEPN4WO5EKPMYDK3S3G7OUIY/"
         }
       ],
       "id": 22,
@@ -602,22 +628,22 @@
     },
     {
       "themes": [
-        "Économie"
+        "Monde"
       ],
-      "title": "La SNCF annonce une prime de 100 euros pour ses cheminots en juillet",
-      "brief": "Suite à une grève du 10 juin, l'entreprise ferroviaire versera une allocation à l'ensemble de ses agents.",
-      "summary": "La SNCF a annoncé le versement d'une prime de 100 euros brut à chaque cheminot en juillet, en réponse à la grève de 24 heures du 10 juin qui a mobilisé environ la moitié des agents du groupe. Cette mesure intervient après une réunion entre la direction et les syndicats, dans l'objectif de rétablir le climat social avant la période estivale.",
-      "full": "Suite à une grève de 24 heures le 10 juin, la SNCF a annoncé le versement d'une prime de 100 euros brut à l'ensemble de ses cheminots, qui figurera sur la fiche de paie de juillet. Selon une source syndicale, près de la moitié des agents du groupe a participé à ce mouvement. La direction de l'entreprise ferroviaire justifie cette allocation par la volonté de « retrouver de la sérénité » et d'éviter une dégradation du climat social en période estivale. Cette décision survient à l'issue d'une réunion entre le groupe et les représentants des syndicats.",
+      "title": "Évacuation de 11 000 marins bloqués au détroit d'Ormuz",
+      "brief": "L'Organisation maritime internationale débute le rapatriement progressif des équipages piégés depuis plus de cent jours.",
+      "summary": "L'Organisation maritime internationale a annoncé le démarrage de l'évacuation de 11 000 marins bloqués dans le détroit d'Ormuz, une avancée humanitaire après plus de 100 jours d'immobilisation pour certains équipages. Cette opération à grande échelle mobilise l'Iran, Oman, les États-Unis et les pays de la région. Parallèlement, le bras de fer diplomatique persiste : Téhéran souhaite imposer de nouvelles règles de gestion du détroit, que Washington refuse.",
+      "full": "L'Organisation maritime internationale (OMI) a confirmé le lancement du rapatriement progressif de 11 000 marins retenus depuis des mois dans le détroit d'Ormuz, l'une des plus importantes voies d'approvisionnement énergétique mondiale. Cette annonce intervient après des pourparlers impliquant l'Iran, Oman, les États-Unis et les pays riverains. Certains équipages ont passé plus de cent jours immobilisés, ce qui constitue une urgence humanitaire. Malgré cette avancée, les désaccords demeurent quant à l'avenir du détroit, par lequel transite près de 20 % du pétrole mondial. L'Iran défend l'établissement de nouvelles modalités de gestion, tandis que Washington s'y oppose catégoriquement. La négociation poursuit ainsi ses deux fronts : humanitarian et géopolitique.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "La SNCF cherche à apaiser les tensions sociales et à préserver la stabilité avant l'été.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/23/apres-la-greve-la-sncf-annonce-une-prime-de-100-euros-pour-chaque-cheminot-en-juillet_6709814_3234.html"
+          "outlet": "France 24",
+          "take": "Souligne la tension persistante entre Washington et Téhéran sur le contrôle et la gestion future du détroit, au-delà de la question immédiate de l'évacuation.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260624-d%C3%A9troit-d-ormuz-11-000-marins-vont-%C3%AAtre-%C3%A9vacu%C3%A9s-le-bras-de-fer-se-poursuit"
         },
         {
           "outlet": "France Info",
-          "take": "La mobilisation a concerné environ la moitié des cheminots lors de la grève du 10 juin.",
-          "url": "https://www.franceinfo.fr/economie/transports/sncf/greve-a-la-sncf/tous-les-cheminots-a-la-sncf-toucheront-une-prime-de-100-euros-brut-sur-la-fiche-de-paie-de-juillet-en-reponse-a-la-greve-du-10-juin_8075657.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Met l'accent sur le caractère coopératif multinational de l'opération d'évacuation impliquant les principales puissances régionales et internationales.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-pourparlers-entre-l-iran-et-les-etats-unis-l-iran-annonce-des-groupes-de-travail-sur-le-nucleaire-et-la-levee-des-sanctions_8075054.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 23,
@@ -625,23 +651,22 @@
     },
     {
       "themes": [
-        "Environnement",
-        "Santé"
+        "Sport"
       ],
-      "title": "Une canicule exceptionnelle s'installe en France en juin",
-      "brief": "La France connaît une vague de chaleur remarquable avec des records de température battus sur plusieurs régions.",
-      "summary": "Une canicule exceptionnelle pour le mois de juin touche la France, avec des niveaux de chaleur rarement observés à cette période. Quarante-quatre millions d'habitants restent placés en vigilance rouge canicule le 24 juin. Des outils numériques permettent désormais de suivre l'évolution horaire des records météorologiques sur le territoire.",
-      "full": "La France fait face à une vague de chaleur intense et précoce en ce mois de juin 2026. Les températures atteignent des niveaux exceptionnels, inhabituel pour cette saison, et plusieurs records de température sont tombus dans différentes régions. Selon les alertes météorologiques, environ 44 millions d'habitants demeurent en vigilance rouge canicule le 24 juin, indiquant un risque sanitaire significatif. Pour suivre l'évolution de cette situation climatique, des bénévoles ont mis en ligne une carte interactive permettant de consulter les données thermiques heure par heure à l'échelle nationale. Cet outil offre une visibilité détaillée sur la progression des records météorologiques et aide à mieux comprendre l'ampleur du phénomène.",
+      "title": "Coupe du monde 2026 : l'Angleterre blanchie par le Ghana",
+      "brief": "L'Angleterre et le Ghana se sont quittés sur un 0-0 controversé à Boston.",
+      "summary": "L'Angleterre a concédé le match nul face au Ghana (0-0) mardi à Boston. Les Three Lions, dominés par les Black Stars, conservent la première place de leur groupe. L'arbitre n'a pas accordé un penalty controversé au Ghana suite à une intervention d'Ezri Konsa, une décision qui a suscité des critiques.",
+      "full": "En Coupe du monde 2026, l'Angleterre et le Ghana se sont neutralisés sur le score de 0-0 mardi à Boston. Bien qu'impuissants offensivement, les Three Lions demeurent leaders de leur groupe. Le Ghana a fourni une prestation solide et aurait dû obtenir un penalty suite à un tacle du défenseur anglais Ezri Konsa, jugé comme punissable par certains observateurs. Cet incident arbitral n'a pas été sanctionné, malgré les réclamations ghanéennes. Malgré cette contre-performance, l'Angleterre maintient sa position privilégiée dans la compétition.",
       "angles": [
         {
-          "outlet": "Sciences et Avenir",
-          "take": "Met l'accent sur l'ampleur géographique et démographique de la canicule, avec plus de 44 millions de personnes touchées par la vigilance rouge.",
-          "url": "https://www.sciencesetavenir.fr/nature-environnement/meteo/canicule-la-chaleur-gagne-encore-du-terrain-et-les-records-tombent_193349?xtor=RSS-15"
+          "outlet": "20 Minutes",
+          "take": "Souligne le penalty non accordé au Ghana, estimant que le tacle de Konsa aurait dû être sanctionné et relève la qualification colombienne.",
+          "url": "https://www.20minutes.fr/sport/football/4230760-20260624-coupe-monde-2026-hallucinant-penalty-oublie-contre-angleterre-qualif-colombienne-recap-nuit?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "Numerama",
-          "take": "Souligne le caractère exceptionnel de cette canicule pour juin et décrit le développement d'une solution interactive pour suivre les records en temps réel.",
-          "url": "https://www.numerama.com/sciences/2282389-canicule-de-juin-2026-une-carte-interactive-permet-de-suivre-heure-par-heure-les-records-de-chaleur.html"
+          "outlet": "France Info",
+          "take": "Met l'accent sur l'impuissance offensiva de l'Angleterre et son maintien en tête du groupe malgré le résultat décevant.",
+          "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-impuissante-l-angleterre-tenue-en-echec-par-le-ghana-mais-toujours-en-tete-de-son-groupe_8076449.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 24,
@@ -649,23 +674,23 @@
     },
     {
       "themes": [
-        "Environnement",
+        "Culture",
         "Tech & Sciences"
       ],
-      "title": "Le changement climatique aggrave significativement les canicules",
-      "brief": "Une étude du CNRS montre que les vagues de chaleur actuelles seraient 2 à 4 degrés plus froides sans le réchauffement climatique.",
-      "summary": "Selon une analyse du CNRS, la canicule qui sévit actuellement en France aurait été nettement moins intense sans le changement climatique. À Paris, par exemple, les températures seraient 2,4 degrés plus fraîches en l'absence de réchauffement. Ces résultats renforcent l'inquiétude de climatologues éminents face au manque de prise en compte politique des avertissements scientifiques.",
-      "full": "Une étude du CNRS quantifie l'impact direct du changement climatique sur les conditions météorologiques extrêmes actuelles. Sans le réchauffement climatique d'origine anthropique, la canicule touchant la France serait sensiblement moins sévère, avec des écarts de 2 à 4 degrés Celsius selon les régions. À titre d'exemple, Paris bénéficierait d'une baisse de 2,4 degrés si les émissions de gaz à effet de serre n'avaient pas modifié le climat. Ces travaux interviennent dans un contexte où des climatologues de renom, dont Valérie Masson-Delmotte et Jean Jouzel, expriment leur préoccupation face à la responsabilité politique qu'ils jugent insuffisamment assumée. Selon eux, les avertissements répétés de la communauté scientifique au cours des dernières années n'ont pas débouché sur les mesures d'adaptation et d'atténuation jugées nécessaires.",
+      "title": "Cate Blanchett lance un registre numérique pour protéger son identité face à l'IA",
+      "brief": "L'actrice australienne crée un site gratuit permettant aux utilisateurs de contrôler l'utilisation de leurs données personnelles par les systèmes d'intelligence artificielle.",
+      "summary": "Cate Blanchett a lancé un portail en ligne baptisé « registre du consentement humain » visant à protéger les droits individuels face à l'essor de l'intelligence artificielle. Ce site gratuit permet à chaque personne d'enregistrer les éléments composant son identité, notamment son nom, son visage ou sa voix, et d'autoriser ou d'interdire leur utilisation par les systèmes d'IA. L'initiative répond aux préoccupations croissantes concernant l'exploitation non autorisée des données personnelles dans le développement des technologies d'IA.",
+      "full": "L'actrice australienne Cate Blanchett a créé un registre numérique destiné à défendre les droits des individus face à l'intelligence artificielle. Ce portail en ligne, présenté comme un « registre du consentement humain », offre à chacun la possibilité d'enregistrer les caractéristiques qui forment son identité personnelle. Les utilisateurs peuvent alors décider d'autoriser ou d'interdire l'utilisation de ces éléments (nom, visage, voix, etc.) par les systèmes d'IA. Le site fonctionne sur le mode gratuit et s'adresse à tout citoyen souhaitant protéger son image et ses données contre toute exploitation non consentie. Cette initiative reflète les enjeux croissants de protection des droits individuels dans un contexte de développement accéléré des technologies d'intelligence artificielle, où les données personnelles constituent une ressource majeure.",
       "angles": [
         {
-          "outlet": "Sciences et Avenir",
-          "take": "Quantification précise de l'influence humaine sur les canicules actuelles par le biais d'une modélisation climatique du CNRS.",
-          "url": "https://www.sciencesetavenir.fr/nature-environnement/climat/sans-le-changement-climatique-les-temperatures-auraient-ete-2-a-4-c-plus-fraiches_193357?xtor=RSS-15"
+          "outlet": "Le Monde",
+          "take": "Insiste sur le concept de « registre du consentement humain » comme outil permettant à chacun de contrôler les éléments de son identité et leur utilisation par l'IA.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/06/23/face-a-l-essor-de-l-intelligence-artificielle-cate-blanchett-lance-un-site-pour-faire-valoir-les-droits-de-chacun_6710013_4408996.html"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Frustration des grands climatologues français face à l'inaction politique malgré des décennies d'alertes scientifiques.",
-          "url": "https://www.lemonde.fr/planete/article/2026/06/23/en-pleine-canicule-les-climatologues-atterres-par-le-deni-de-responsabilite-des-politiques-face-au-changement-climatique_6709864_3244.html"
+          "outlet": "France Info",
+          "take": "Souligne l'accès gratuit au site et la protection concrète offerte contre l'utilisation non autorisée du nom, du visage ou de la voix des utilisateurs.",
+          "url": "https://www.franceinfo.fr/culture/cinema/face-a-l-ia-cate-blanchett-lance-un-site-pour-faire-valoir-les-droits-de-chacun_8077127.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 25,
@@ -673,26 +698,143 @@
     },
     {
       "themes": [
-        "Santé"
+        "Sport"
       ],
-      "title": "Cancers et maladies cardiovasculaires restent les premières causes de décès en France",
-      "brief": "Tumeurs et maladies du cœur représentent près de la moitié des décès français en 2024.",
-      "summary": "Selon un bilan publié mardi 23 juin par plusieurs organismes de recherche, les cancers et les maladies cardiovasculaires demeurent les principales causes de mortalité en France. Les cancers sont responsables de 27,1 % des décès, tandis que les maladies circulatoires en représentent 21,2 %, totalisant ainsi près de la moitié de la mortalité nationale.",
-      "full": "Un rapport annuel rendu public mardi 23 juin par plusieurs organismes de recherche confirme que les tumeurs malignes et les pathologies cardiovasculaires restent, en France, les premiers facteurs de mortalité. Les cancers sont à l'origine de 27,1 % de l'ensemble des décès en 2024, tandis que les maladies circulatoires (infarctus, accidents vasculaires cérébraux, insuffisance cardiaque) en provoquent 21,2 %. À elles seules, ces deux catégories concentrent donc une part majeure de la mortalité française, dépassant les 48 %. Ce constat reflète les enjeux de santé publique auxquels le pays fait face et met en lumière l'importance de la prévention et de la recherche dans ces domaines.",
+      "title": "Le Portugal relancé par Ronaldo face à l'Ouzbékistan",
+      "brief": "Cristiano Ronaldo a inscrit un doublé pour porter le Portugal à la victoire 5-0 contre l'Ouzbékistan.",
+      "summary": "Le Portugal s'est imposé largement face à l'Ouzbékistan (5-0) grâce à un doublé de Cristiano Ronaldo, qui a réagi aux critiques après le match nul inaugural contre la République démocratique du Congo. À 41 ans, le capitaine de la Seleçao devient le premier joueur de l'histoire à marquer lors de six éditions différentes de la Coupe du monde. Cette victoire rapproche considérablement le Portugal de la qualification pour les 16es de finale.",
+      "full": "Le Portugal a remporté une victoire éclatante mercredi face à l'Ouzbékistan (5-0), relançant ses ambitions dans cette Coupe du monde 2026. Cristiano Ronaldo, auteur d'un doublé, a réagi de manière efficace aux critiques qui visaient son équipe depuis le résultat décevant contre la République démocratique du Congo en match inaugural. À 41 ans, l'attaquant portugais établit un record historique en devenant le premier joueur à inscrire un but lors de six éditions différentes du Mondial. Cette performance offre au Portugal un avantage certain dans sa quête de qualification pour les 16es de finale du tournoi.",
       "angles": [
         {
-          "outlet": "Sciences et Avenir",
-          "take": "Le rapport d'organismes de recherche souligne que cancers et maladies cardiovasculaires concentrent à eux seuls près de la moitié des décès annuels.",
-          "url": "https://www.sciencesetavenir.fr/sante/cancers-et-maladies-cardiovasculaires-restent-en-tete-des-deces-en-france_193355?xtor=RSS-16"
+          "outlet": "France 24",
+          "take": "L'accent est mis sur la réaction de Ronaldo face aux critiques, qui ont visé l'équipe portugaise suite à son match nul inaugural.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260624-coupe-du-monde-le-portugal-se-relance-gr%C3%A2ce-%C3%A0-un-grand-cristiano-ronaldo"
         },
         {
           "outlet": "France Info",
-          "take": "Les chiffres détaillés indiquent 27,1 % de décès liés aux cancers et 21,2 % aux maladies circulatoires en 2024.",
-          "url": "https://www.franceinfo.fr/sante/maladie/cancers-et-maladies-cardiovasculaires-restent-en-tete-des-deces-en-france_8075213.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Le focus porte sur l'exploit historique de Ronaldo, premier joueur à marquer dans six Mondiaux différents, et l'avancée du Portugal vers les 16es de finale.",
+          "url": "https://www.franceinfo.fr/coupe-du-monde/le-portugal-et-cristiano-ronaldo-se-reveillent-avec-la-maniere-contre-l-ouzbekistan-et-font-un-grand-pas-vers-les-16es-de-finale-de-la-coupe-du-monde-2026_8076365.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 26,
       "priority": 27
+    },
+    {
+      "themes": [
+        "Économie"
+      ],
+      "title": "Airbus ordonne des inspections sur 16 A380 suite à des fissures",
+      "brief": "L'Agence européenne de la sécurité aérienne impose un contrôle immédiat de cinq gros porteurs après la détection de défauts structurels.",
+      "summary": "Airbus a annoncé que seize avions A380 doivent faire l'objet d'inspections suite à la découverte de fissures dans la structure des ailes. Cinq appareils doivent être contrôlés immédiatement, tandis que les onze autres seront inspectés dans les meilleurs délais. Quinze de ces avions sont exploités par Emirates et un par Qantas.",
+      "full": "L'Agence européenne de la sécurité aérienne a ordonné des contrôles sur seize Airbus A380 après la détection de fissures sur un appareil en service. Cinq de ces gros porteurs sont soumis à une inspection immédiate, les autres devant suivre rapidement. Sur l'ensemble des seize appareils concernés, quinze appartiennent à la compagnie aérienne Emirates, qui exploite la majorité de la flotte mondiale d'A380, et un à la compagnie australienne Qantas. Ces contrôles visent à vérifier l'intégrité structurelle des ailes et à évaluer l'étendue du problème avant un retour en service normal.",
+      "angles": [
+        {
+          "outlet": "France Info",
+          "take": "Précise que les fissures ont été découvertes dans la structure des ailes d'un appareil et énumère les compagnies concernées.",
+          "url": "https://www.franceinfo.fr/economie/aeronautique/airbus-annonce-que-16-avions-a380-necessitent-des-inspections-dont-cinq-immediatement-apres-la-decouverte-de-fissures-dans-la-structure-des-ailes-d-un-appareil_8076323.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Souligne que l'Agence européenne de la sécurité aérienne a pris l'initiative d'ordonner les contrôles suite aux défauts détectés.",
+          "url": "https://www.20minutes.fr/economie/4230829-20260623-airbus-annonce-16-a380-besoin-inspections-potentielles-fissures-ailes?at_medium=display&at_campaign=149"
+        }
+      ],
+      "id": 27,
+      "priority": 28
+    },
+    {
+      "themes": [
+        "France"
+      ],
+      "title": "François Patriat ne se représentera pas aux sénatoriales 2026",
+      "brief": "Le sénateur macroniste François Patriat, 83 ans, renonce à briguer un quatrième mandat en septembre.",
+      "summary": "François Patriat, élu de Côte-d'Or et patron du groupe macroniste au Sénat depuis plusieurs mandats, a annoncé qu'il ne se représenterait pas aux élections sénatoriales de 2026. Cette décision marque le départ d'une figure majeure de la majorité présidentielle à la chambre haute.",
+      "full": "À 83 ans, François Patriat, qui dirige le groupe macroniste au Sénat, abandonne l'idée de briguer un nouveau mandat. Élu de Côte-d'Or, ce sénateur a longtemps incarné une présence de confiance du président Emmanuel Macron dans cette assemblée. Son retrait intervient alors que les élections sénatoriales se tiendront en septembre 2026. Cette annonce affecte la composition du groupe macroniste au Sénat, dont Patriat était un élément structurant depuis plusieurs années. L'âge avancé du sénateur était un facteur probable de cette décision de ne pas poursuivre.",
+      "angles": [
+        {
+          "outlet": "France Info",
+          "take": "Le sénateur macroniste historique, âgé de 83 ans et chef de groupe au Sénat, met fin à une carrière parlementaire longue de plusieurs mandats.",
+          "url": "https://www.franceinfo.fr/politique/parlement-francais/senat/francois-patriat-fidele-d-emmanuel-macron-ne-se-representera-pas-lors-des-senatoriales-2026_8076296.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Le départ met un terme à la présence d'une figure centrale du soutien macroniste à la chambre haute.",
+          "url": "https://www.liberation.fr/politique/francois-patriat-le-depart-du-plus-grand-fanzouz-demmanuel-macron-20260624_RSZVCSKLI5GKDHLJZUEEMA6IJI/"
+        }
+      ],
+      "id": 28,
+      "priority": 29
+    },
+    {
+      "themes": [
+        "France"
+      ],
+      "title": "Une loi contre les violences sexistes inscrite à l'agenda parlementaire",
+      "brief": "Le gouvernement examinera à l'automne un texte global destiné à renforcer la lutte contre les violences sexistes et sexuelles.",
+      "summary": "Le Premier ministre Sébastien Lecornu a annoncé l'inscription à l'agenda de l'Assemblée nationale d'une « loi intégrale » contre les violences sexistes et sexuelles, qui sera examinée en septembre-octobre. Ce texte, attendu par les associations féministes et de protection de l'enfance, devra subir un avis du Conseil d'État pouvant en modifier les contours. En parallèle, le gouvernement prévoit d'adopter dès l'été des décrets d'application.",
+      "full": "Le gouvernement a annoncé que la « loi intégrale » contre les violences sexistes et sexuelles sera examinée par le Parlement à l'automne, en septembre et octobre. Ce texte vise à renforcer la lutte contre ces violences et répond aux demandes des associations féministes et de protection de l'enfance. L'avis du Conseil d'État devrait amener des ajustements au projet de loi avant son passage en assemblée. En attendant cet examen parlementaire, le Premier ministre Sébastien Lecornu a annoncé l'adoption de décrets à compter de juillet, août et septembre, pour traduire rapidement certaines mesures en vigueur.",
+      "angles": [
+        {
+          "outlet": "Le Monde",
+          "take": "L'inscription de ce texte à l'agenda législatif constitue une victoire pour les féministes et les associations de protection de l'enfance, bien que le Conseil d'État puisse modifier ses dispositions.",
+          "url": "https://www.lemonde.fr/politique/article/2026/06/23/mort-de-lyhanna-la-loi-integrale-inscrite-a-l-agenda-de-l-assemblee-nationale-une-victoire-pour-les-feministes-et-les-enfantistes_6710010_823448.html"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Le gouvernement prévoit des mesures rapides via des décrets dès l'été parallèlement à l'examen parlementaire du texte complet.",
+          "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-une-loi-integrale-contre-les-violences-sexistes-et-sexuelles-doit-etre-examinee-au-parlement-en-septembre-octobre_8075909.html#xtor=RSS-3-%5Bgeneral%5D"
+        }
+      ],
+      "id": 29,
+      "priority": 30
+    },
+    {
+      "themes": [
+        "Culture",
+        "Environnement"
+      ],
+      "title": "Le Louvre ferme plus tôt face à la canicule",
+      "brief": "Le musée parisien réduit ses horaires et ferme certaines salles pour protéger ses collections.",
+      "summary": "Face à l'épisode caniculaire qui atteint son pic mercredi 24 juin, le Louvre avance son heure de fermeture à 16 heures de mercredi à samedi. Certaines salles seront également fermées durant cette période afin de préserver les œuvres des dégâts liés aux températures extrêmes. La France connaît actuellement sa plus intense vague de chaleur, avec des températures dépassant déjà les 40 degrés dans plusieurs régions.",
+      "full": "Face à l'épisode caniculaire qui atteint son pic mercredi 24 juin, le Louvre avance son heure de fermeture à 16 heures de mercredi à samedi. Cette mesure vise à réduire la consommation énergétique et à limiter l'exposition des locaux aux chaleurs extrêmes. Certaines salles seront également fermées durant cette période afin de mieux protéger les œuvres et les collections des risques liés aux températures élevées. La France connaît actuellement sa plus intense vague de chaleur, avec des températures dépassant déjà les 40 degrés dans le Sud-Ouest et à Nantes depuis mardi, journée qualifiée de la plus chaude de l'histoire météorologique française.",
+      "angles": [
+        {
+          "outlet": "France Info",
+          "take": "Le musée justifie la fermeture de certaines salles par la nécessité de protéger les œuvres d'art des impacts de la canicule.",
+          "url": "https://www.franceinfo.fr/culture/arts-expos/louvre/certaines-salles-sont-susceptibles-d-etre-fermees-durant-la-periode-de-canicule-afin-de-mieux-proteger-les-uvres-explique-le-site-du-musee_8075867.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "Libération",
+          "take": "La vague de chaleur actuelle établit des records historiques, le pic étant attendu mercredi avec des températures frôlant les 43 degrés.",
+          "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-le-pic-attendu-aujourdhui-avec-des-records-a-43-degres-dans-le-sud-ouest-20260624_JXYTHQKX6FBLHE5PR7PIYRYFAM/"
+        }
+      ],
+      "id": 30,
+      "priority": 31
+    },
+    {
+      "themes": [
+        "Santé",
+        "Environnement"
+      ],
+      "title": "Canicule : travailleurs et cognition à l'épreuve",
+      "brief": "Avec 54 départements en alerte rouge, la chaleur extrême affecte santé physique et capacités mentales.",
+      "summary": "Une vague de canicule s'intensifie en France, touchant 89 départements en vigilance rouge ou orange. Au-delà des risques physiques classiques, les fortes températures altèrent aussi les fonctions cognitives et la prise de décision. Sur les chantiers, dans les vignes et les boulangeries, les travailleurs adaptent leurs horaires et augmentent leur consommation d'eau pour limiter les risques.",
+      "full": "Mardi, Météo France place 54 départements en vigilance rouge canicule et 35 en vigilance orange, avec des températures dépassant régulièrement les 40 degrés. Les effets de cette chaleur extrême vont au-delà de l'épuisement physique : les experts pointent une dégradation des capacités intellectuelles, recommandant de différer les décisions importantes. Sur le terrain, les secteurs exposés comme l'agriculture, la construction ou la boulangerie mettent en place des mesures d'adaptation : avancement des horaires de travail, pauses à l'ombre et hydratation renforcée. Ces ajustements visent à préserver la santé des salariés face à des conditions qui mettent les organismes à rude épreuve.",
+      "angles": [
+        {
+          "outlet": "France 24",
+          "take": "Met l'accent sur les adaptations concrètes des travailleurs dans les secteurs exposés pour gérer les risques immédiats.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260624-canicule-comment-les-travailleurs-s-adaptent-aux-fortes-chaleurs"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Souligne l'impact moins visible mais significatif de la canicule sur les fonctions cognitives et la qualité du jugement.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/il-faut-differer-des-decisions-importantes-comment-la-canicule-agit-aussi-sur-notre-cerveau_8075297.html#xtor=RSS-3-%5Bgeneral%5D"
+        }
+      ],
+      "id": 31,
+      "priority": 32
     }
   ]
 }
