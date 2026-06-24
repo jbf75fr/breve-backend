@@ -36,7 +36,10 @@ def main() -> int:
     payload = {
         "app_id": app_id,
         "target_channel": "push",
-        "included_segments": ["Subscribed Users"],
+        # Segment par défaut de CE compte OneSignal : « Total Subscriptions »
+        # (badge Default), qui contient tous les abonnés. Le nom des segments
+        # par défaut varie selon l'ancienneté du compte ; ici c'est celui-ci.
+        "included_segments": ["Total Subscriptions"],
         "headings": {"en": "Brève", "fr": "Brève"},
         "contents": {
             "en": "Votre revue du jour est prête",
