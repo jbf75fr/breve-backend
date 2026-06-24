@@ -40,7 +40,8 @@ def main() -> int:
         # (badge Default), qui contient tous les abonnés. Le nom des segments
         # par défaut varie selon l'ancienneté du compte ; ici c'est celui-ci.
         "included_segments": ["Total Subscriptions"],
-        "headings": {"en": "Brève", "fr": "Brève"},
+        # Pas de "headings" : le système (iOS/navigateur) affiche déjà « Brève »
+        # comme expéditeur. Définir un titre « Brève » ferait doublon.
         "contents": {
             "en": "Votre revue du jour est prête",
             "fr": "Votre revue du jour est prête",
