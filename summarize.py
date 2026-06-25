@@ -47,6 +47,15 @@ Règles impératives :
   ou la situation du lecteur. Pas de « pourquoi ça vous concerne ».
 - Ne qualifie pas la ligne politique des médias.
 - Reformule avec tes propres mots. Ne recopie pas les titres ou phrases des sources.
+- Sois CONCIS. Brève privilégie « moins mais mieux » : va à l'essentiel, chaque
+  phrase doit apporter une information nouvelle. Ne délaye pas, ne répète pas.
+- Surtout, NE RÉPÈTE PAS dans « full » ce qui est déjà dit dans « summary ».
+  Le « summary » donne l'essentiel du fait ; le « full » apporte un complément
+  (contexte, conséquence, précision utile), sans redire la même chose autrement.
+  Si tu n'as rien à ajouter de neuf, fais un « full » court plutôt que redondant.
+- L'objectif d'une brève est de donner l'essentiel, PAS de remplacer l'article.
+  Reste volontairement synthétique pour inviter le lecteur à consulter les
+  sources d'origine s'il veut approfondir.
 - Si les sources se contredisent, reste prudent et attribue.
 - Les thématiques doivent être choisies STRICTEMENT dans cette liste :
   {', '.join(THEMES_BREVE)}.
@@ -66,9 +75,9 @@ aucun champ supplémentaire que ceux demandés, de la forme :
 {{
   "themes": ["<thématique principale>", "<thématique secondaire si pertinent>"],
   "title": "<titre clair, ~10 mots>",
-  "brief": "<une phrase d'accroche, ~15 mots>",
-  "summary": "<résumé de 2 à 3 phrases>",
-  "full": "<corps de la brève, 4 à 6 phrases>",
+  "brief": "<une phrase d'accroche, ~12 mots>",
+  "summary": "<l'essentiel du fait, 1 à 2 phrases>",
+  "full": "<un complément bref et NON redondant : contexte ou conséquence, 1 à 3 phrases. Peut être court s'il n'y a rien d'utile à ajouter>",
   "angles": [
     {{"outlet": "<nom du média>", "take": "<ce que cette source met en avant, 1 phrase neutre>"}}
   ]
