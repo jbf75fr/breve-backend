@@ -1,39 +1,34 @@
 {
-  "generated_at": "2026-06-25T12:54:42.616769+00:00",
-  "date_label": "Jeudi 25 juin",
-  "count": 34,
+  "generated_at": "2026-06-26T04:03:18.743855+00:00",
+  "date_label": "Vendredi 26 juin",
+  "count": 27,
   "breves": [
     {
       "themes": [
-        "Monde"
+        "Environnement"
       ],
-      "title": "Double séisme meurtrier au Venezuela, 164 morts",
-      "full": "Deux puissants tremblements de terre, de magnitude 7,2 puis 7,5, ont frappé le nord du Venezuela mercredi soir, près de Caracas et de la ville de Moron. Le bilan provisoire s'élève à au moins 164 morts et près de 1 000 blessés, selon la présidente par intérim Delcy Rodriguez, qui a déclaré l'état d'urgence. Plusieurs immeubles, dont une tour de 22 étages à Caracas, se sont effondrés. L'État de La Guaira a été déclaré zone de désastre. La France annonce l'envoi de 85 secouristes et l'aide internationale s'organise aux côtés des autorités vénézuéliennes.",
+      "title": "Le tribunal de Paris ordonne à TotalEnergies d'intégrer les émissions de ses clients",
+      "full": "Le tribunal judiciaire de Paris a condamné TotalEnergies à actualiser son plan de vigilance en y intégrant les émissions de gaz à effet de serre générées par ses clients, dans un délai de six mois. Cette décision intervient après huit ans de procédure intentée par une coalition d'ONG et la Ville de Paris pour contraindre le géant pétrolier à assumer l'impact climatique complet de ses activités. La justice n'a cependant pas imposé de mesures précises au groupe, contrairement aux demandes des plaignants.",
       "angles": [
         {
+          "outlet": "Reporterre",
+          "take": "Après huit ans de procédure, le tribunal condamne TotalEnergies pour non-respect de son devoir de vigilance et impose l'intégration des émissions de scope 3, c'est-à-dire celles générées par les produits vendus.",
+          "url": "https://reporterre.net/TotalEnergies-condamne-a-prendre-en-compte-les-emissions-carbone-de-ses-clients"
+        },
+        {
           "outlet": "Le Monde",
-          "take": "Emmanuel Macron exprime la solidarité de la France et annonce que le pays se tient prêt à apporter une assistance en partenariat avec ses alliés européens.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/25/seismes-au-venezuela-l-aide-internationale-s-organise-emmanuel-macron-annonce-l-envoi-de-85-secouristes-francais_6713270_3211.html"
+          "take": "Le jugement constitue une avancée significative pour la coalition d'associations et la Ville de Paris qui demandaient depuis 2020 une prise en compte complète des émissions du groupe.",
+          "url": "https://www.lemonde.fr/planete/article/2026/06/25/proces-climatique-contre-totalenergies-la-justice-ordonne-au-groupe-petrolier-de-prendre-en-compte-les-emissions-de-co-de-ses-clients_6715418_3244.html"
         },
         {
           "outlet": "France Info",
-          "take": "Mets l'accent sur les magnitudes respectives des deux séismes survenus mercredi et l'annonce de l'état d'urgence par les autorités vénézuéliennes.",
-          "url": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/deux-puissants-seismes-au-venezuela-font-au-moins-32-morts-et-plus-de-700-blesses_8078708.html#xtor=RSS-3-[lestitres]"
+          "take": "La justice a refusé d'imposer des mesures précises quant aux activités du géant pétrogazier, comme le réclamaient les ONG et la Ville de Paris.",
+          "url": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/le-tribunal-judiciaire-de-paris-ordonne-a-totalenergies-d-integrer-les-emissions-co2-de-ses-clients-dans-son-plan-de-vigilance_8079461.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Libération",
-          "take": "Souligne la localisation proche de Caracas et l'ampleur des destructions qui laisse craindre une augmentation du bilan.",
-          "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Note que de nombreux habitants étaient chez eux en raison d'un jour férié et que les autorités craignent une aggravation du bilan dans les heures suivantes.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260625-venezuela-deux-puissants-s%C3%A9ismes-un-lourd-bilan-redout%C3%A9"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "Rapporte que la présidence elle-même juge le bilan appelé à augmenter, notamment dans l'État de La Guaira.",
-          "url": "https://www.courrierinternational.com/article/amerique-du-sud-le-venezuela-frappe-par-un-double-seisme-meurtrier-le-fracas-etait-horrible_245670"
+          "take": "Il s'agit du premier grand procès climatique d'une entreprise en France, aboutissant à une obligation de mettre à jour la cartographie des risques.",
+          "url": "https://www.liberation.fr/environnement/climat/proces-climatique-la-justice-demande-a-totalenergies-dintegrer-les-emissions-de-gaz-a-effet-de-serre-de-ses-clients-dans-son-plan-de-vigilance-20260625_CTUGLE5ADRFZ7ISBVPTJQG6IQM/"
         }
       ],
       "id": 0,
@@ -41,26 +36,25 @@
     },
     {
       "themes": [
-        "Santé",
-        "Environnement"
+        "France"
       ],
-      "title": "Canicule : le gouvernement active le plan Orsan au niveau maximum",
-      "full": "Face à une canicule exceptionnelle affectant 72 départements en vigilance rouge, le gouvernement a activé jeudi le niveau 3 du plan Orsan, mobilisant le système de santé à son niveau le plus élevé. Le Premier ministre Sébastien Lecornu a justifié cette décision par la nécessité de permettre aux hôpitaux de « tenir dans la durée » face à une pression sanitaire qui s'intensifie. À Paris, 25 arrêts cardiaques ont été enregistrés en vingt-quatre heures, contre moins de 10 en temps normal, illustrant l'impact de la vague de chaleur sur la santé. Les températures devraient avoisiner les 40 °C ce jeudi avant un rafraîchissement progressif en fin de semaine.",
+      "title": "Marylise Léon reconduite à la tête de la CFDT pour quatre ans",
+      "full": "La secrétaire générale de la CFDT a été réélue à l'unanimité lors du congrès du syndicat, jeudi 25 juin à Bordeaux, pour un nouveau mandat de quatre ans. Yvan Ricordeau a également été reconduit comme secrétaire général adjoint, tandis que Laurent Soulier, issu de la fédération Chimie-Énergie, a été désigné trésorier confédéral. Cette reconduction survient dans un contexte où la CFDT, premier syndicat français, entend peser sur l'agenda politique des années à venir.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Souligne les conséquences sanitaires immédiates de la canicule, notamment l'augmentation des arrêts cardiaques à Paris.",
-          "url": "https://www.lemonde.fr/planete/live/2026/06/25/en-direct-canicule-la-mobilisation-du-systeme-de-sante-est-portee-a-son-niveau-le-plus-eleve-selon-sebastien-lecornu_6710159_3244.html"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Met l'accent sur l'exceptionnalité et la persistance de la canicule motivant la mobilisation maximale du système de santé.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/face-a-la-canicule-le-gouvernement-active-le-plan-orsan-au-niveau-3-pour-mobiliser-le-systeme-de-sante-a-son-niveau-le-plus-eleve_8079215.html#xtor=RSS-3-[lestitres]"
-        },
-        {
           "outlet": "Libération",
-          "take": "Insiste sur l'évolution attendue des températures et la perspective d'un rafraîchissement futur.",
-          "url": "https://www.liberation.fr/environnement/en-direct-canicule-le-pic-depasse-mais-encore-72-departements-en-vigilance-rouge-ce-jeudi-20260625_COQYICRPXRCP7ESAJG6XVYRGXQ/"
+          "take": "La réélection de Marylise Léon intervient sans surprise lors du congrès bordelais de la CFDT.",
+          "url": "https://www.liberation.fr/economie/social/congres-de-la-cfdt-marylise-leon-reconduite-a-lunanimite-a-la-tete-du-syndicat-pour-quatre-ans-20260625_P6EDWA7Z3JHIVMS57Q6OHPLCF4/"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Avec cette réélection, trois des cinq syndicats représentatifs nationaux seront désormais dirigés par des femmes.",
+          "url": "https://www.lemonde.fr/economie-francaise/article/2026/06/25/marylise-leon-reelue-a-la-tete-de-la-cfdt-pour-un-mandat-de-quatre-ans-denonce-les-a-coups-successifs-portes-a-la-democratie_6715453_1656968.html"
+        },
+        {
+          "outlet": "Mediapart",
+          "take": "La CFDT a pris position contre l'extrême droite mais maintient sa stratégie fondée sur la négociation et le dialogue.",
+          "url": "https://www.mediapart.fr/journal/economie-et-social/250626/marylise-leon-tres-largement-reelue-la-tete-d-une-cfdt-qui-joue-la-continuite"
         }
       ],
       "id": 1,
@@ -70,23 +64,33 @@
       "themes": [
         "Monde"
       ],
-      "title": "La France intercepte un cinquième pétrolier de la flotte fantôme russe",
-      "full": "La Marine française a arraisonné mardi en Méditerranée centrale un pétrolier russe soupçonné d'appartenir à la « flotte fantôme », navires contournant les sanctions occidentales contre Moscou. Le navire arborait un faux pavillon camerounais et provenait de Russie. Emmanuel Macron a confirmé cette interception en affirmant que la France ne laisserait pas cette flotte « financer l'effort de guerre russe ». C'est le cinquième pétrolier de ce type intercepté par la France.",
+      "title": "Double séisme meurtrier au Venezuela, au moins 188 morts",
+      "full": "Deux tremblements de terre de magnitude 7,2 et 7,5 ont frappé le nord du Venezuela mercredi en fin d'après-midi, près de la capitale Caracas. Le bilan provisoire s'élève à au moins 188 morts et environ 1 520 blessés, selon les autorités officielles. Plusieurs immeubles se sont effondrés et l'aéroport de la région a été endommagé, tandis que les équipes de secours cherchent les survivants parmi les décombres.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "La France dénonce l'usage de faux pavillons pour contourner les sanctions et appelle à bloquer le financement de l'effort de guerre russe.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/25/la-france-a-arraisonne-un-cinquieme-petrolier-soupconne-d-appartenir-a-la-flotte-fantome-russe_6713410_3210.html"
-        },
-        {
           "outlet": "France Info",
-          "take": "Cette interception fait suite à une autre opération similaire menée en début juin au large de Brest.",
-          "url": "https://www.franceinfo.fr/monde/europe/la-france-a-intercepte-un-cinquieme-petrolier-de-la-flotte-fantome-russe-annonce-emmanuel-macron_8079167.html#xtor=RSS-3-[lestitres]"
+          "take": "Souligne l'ampleur du double séisme avec un bilan provisoire de 188 morts et 1 520 blessés, actualisé en continu.",
+          "url": "https://www.franceinfo.fr/monde/venezuela/en-images-immeubles-detruits-aeroport-effondre-et-recherche-des-survivants-le-venezuela-sous-le-choc-apres-un-double-seisme-meurtrier_8079023.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Le navire intercepté, le Deliver, provient directement de Russie et utilisait des documents d'immatriculation frauduleux.",
-          "url": "https://www.20minutes.fr/societe/4231174-20260625-mediterranee-nouveau-petrolier-flotte-fantome-russe-intercepte-marine-francaise?at_medium=display&at_campaign=149"
+          "outlet": "Libération",
+          "take": "Mentionne la mobilisation de secouristes français aux côtés des équipes locales.",
+          "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/"
+        },
+        {
+          "outlet": "Le Figaro International",
+          "take": "Met l'accent sur les témoignages directs des habitants face au chaos provoqué par les secousses.",
+          "url": "https://www.lefigaro.fr/international/je-pensais-mourir-au-venezuela-un-double-seisme-plonge-le-pays-dans-le-chaos-20260625"
+        },
+        {
+          "outlet": "L'Humanité",
+          "take": "Évoque l'exceptionnalité de ce séisme, le plus violent connu au Venezuela depuis un siècle.",
+          "url": "https://www.humanite.fr/monde/amerique-latine/au-venezuela-les-premieres-actions-apres-un-double-seisme-au-bilan-qui-sannonce-effroyable"
+        },
+        {
+          "outlet": "Sciences et Avenir",
+          "take": "Rapporte un bilan légèrement inférieur (164 morts selon la présidente par intérim) à celui des autres sources.",
+          "url": "https://www.sciencesetavenir.fr/fondamental/geologie/deux-seismes-de-tres-fortes-magnitudes-frappent-le-venezuela-immeubles-effondres-a-caracas_193390?xtor=RSS-10"
         }
       ],
       "id": 2,
@@ -94,31 +98,30 @@
     },
     {
       "themes": [
-        "France",
-        "Société"
+        "Monde"
       ],
-      "title": "Un enfant de 3 ans retrouvé mort dans une voiture en Île-de-France",
-      "full": "Un petit garçon de 3 ans a été découvert décédé mercredi soir dans le véhicule de ses parents à Saint-Gratien, en Val-d'Oise, pendant une vague de chaleur. L'enfant, censé faire la sieste, s'est échappé à la vigilance de ses parents et s'est retrouvé enfermé dans l'habitacle stationné devant le domicile familial. Une enquête pour homicide involontaire a été ouverte. Les habitacles de voitures exposés au soleil peuvent atteindre des températures extrêmement élevées en quelques minutes, phénomène particulièrement dangereux lors de périodes de canicule.",
+      "title": "Un cargo touché dans le détroit d'Ormuz, l'évacuation suspendue",
+      "full": "Un navire cargo a été endommagé jeudi par un projectile non identifié dans le golfe d'Oman, sans faire de victimes selon l'agence de sécurité maritime britannique. L'attaque a conduit l'Organisation maritime internationale à suspendre un plan d'évacuation de milliers de marins, le temps de vérifier les conditions de sécurité. Ces tensions interviennent alors que le détroit d'Ormuz, crucial pour le trafic pétrolier mondial, reste au cœur des négociations entre Washington et Téhéran.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Privilégie les faits établis : la découverte du corps mercredi soir et l'ouverture d'une enquête pour homicide involontaire.",
-          "url": "https://www.franceinfo.fr/faits-divers/un-enfant-de-trois-ans-retrouve-mort-dans-la-voiture-de-ses-parents-en-pleine-canicule-dans-le-val-d-oise_8078981.html#xtor=RSS-3-[lestitres]"
+          "take": "Insiste sur l'absence de victimes et de dommages environnementaux, tout en rappelant le contexte diplomatique Iran-États-Unis.",
+          "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/un-cargo-touche-par-un-projectile-d-origine-inconnue-dans-le-detroit-d-ormuz_8079662.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Souligne que la passerelle du navire a été endommagée et que l'évacuation des marins est reportée.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/25/detroit-d-ormuz-le-plan-d-evacuation-suspendu-a-la-suite-d-une-attaque-dans-le-golfe-d-oman_6715464_3210.html"
         },
         {
           "outlet": "Libération",
-          "take": "Insiste sur le danger des véhicules fermés en période de chaleur et le caractère récurrent de tels drames.",
-          "url": "https://www.liberation.fr/societe/canicule-un-enfant-de-3-ans-retrouve-mort-dans-une-voiture-en-region-parisienne-20260625_WOWCCUDQAZDH3JH265VDZDRZYI/"
+          "take": "Met l'accent sur le rôle de l'Organisation maritime internationale et ses vérifications de sécurité.",
+          "url": "https://www.liberation.fr/international/moyen-orient/le-plan-devacuation-du-detroit-dormuz-suspendu-apres-une-attaque-dans-le-golfe-doman-20260625_J65OAKEOI5FHJM23KV7FU3X7M4/"
         },
         {
-          "outlet": "L'Humanité",
-          "take": "Rapporte les circonstances précises : l'enfant retrouvé par ses parents dans le véhicule stationné devant le domicile.",
-          "url": "https://www.humanite.fr/-/-/un-enfant-de-3-ans-retrouve-mort-dans-une-voiture-dans-le-val-doise"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Souligne que l'enfant s'est retrouvé piégé dans l'habitacle après avoir échappé à la surveillance parentale.",
-          "url": "https://www.20minutes.fr/societe/4231120-20260625-canicule-enfant-3-ans-retrouve-mort-voiture-val-oise?at_medium=display&at_campaign=149"
+          "outlet": "Courrier International",
+          "take": "Contextualise l'incident dans la dynamique des prix du pétrole et de l'équilibre offre-demande.",
+          "url": "https://www.courrierinternational.com/article/energie-des-millions-de-barils-passent-le-detroit-d-ormuz-le-prix-du-brent-retrouve-son-niveau-d-avant-la-guerre_245699"
         }
       ],
       "id": 3,
@@ -128,23 +131,23 @@
       "themes": [
         "Sport"
       ],
-      "title": "Coupe du monde 2026 : six nations qualifiées pour les seizièmes",
-      "full": "Le Brésil, le Maroc, le Mexique, l'Afrique du Sud, la Suisse et le Canada se sont qualifiés pour les seizièmes de finale de la Coupe du monde 2026. L'Afrique du Sud accède pour la première fois aux phases éliminatoires d'un Mondial. Le Brésil a retrouvé le buteur Neymar, absent des dernières rencontres. Les groupes de l'Allemagne et des États-Unis connaîtront leur épilogue le 26 juin.",
+      "title": "Coupe du monde 2026 : l'Équateur renverse l'Allemagne",
+      "full": "L'Équateur a battu l'Allemagne 2-1 jeudi dans le groupe E de la Coupe du monde 2026, infligeant sa première défaite à la Mannschaft. Déjà qualifiée et assurée de terminer première de son groupe, l'Allemagne concède cette revers face à des Équatoriens qui se qualifient eux aussi en seizièmes de finale au titre de meilleur troisième, après avoir marqué leurs deux premiers buts du tournoi. En parallèle, la Côte d'Ivoire a éliminé Curaçao (2-0) et signe sa première qualification pour une phase finale mondiale, complétant ainsi les trois équipes qualifiées du groupe E.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Souligne la première qualification historique de l'Afrique du Sud aux phases éliminatoires et met l'accent sur le retour de Neymar au Brésil.",
-          "url": "https://www.lemonde.fr/sport/article/2026/06/25/coupe-du-monde-2026-l-afrique-du-sud-qualifiee-neymar-de-retour-derniere-d-ochoa-ce-qu-il-faut-retenir-du-mercredi-24-juin_6713373_3243.html"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Relève la victoire qualifiée comme surprise de l'Afrique du Sud et évoque la Bosnie comme meilleure équipe éliminée.",
-          "url": "https://www.liberation.fr/sports/football/victoire-surprise-de-lafrique-du-sud-le-bresil-et-le-maroc-qualifies-les-bosniens-meilleurs-troisiemes-lactu-de-la-coupe-du-monde-ce-jeudi-25-juin-20260625_CPIWO5DEFZA5FKR4ABJQJVJVIU/"
-        },
-        {
           "outlet": "France Info",
-          "take": "Détaille les résultats du groupe C avec la qualification du Brésil et du Maroc, et celle du Mexique et l'Afrique du Sud du groupe A.",
-          "url": "https://www.franceinfo.fr/coupe-du-monde/le-bresil-retrouve-neymar-et-s-impose-l-afrique-du-sud-qualifiee-aux-depens-de-la-coree-du-sud-ce-qu-il-faut-retenir-des-matchs-de-la-nuit-a-la-coupe-du-monde_8078726.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "L'Allemagne, déjà assurée de sa qualification et de la première place, subit sa première défaite face à l'Équateur qui se glisse en seizièmes comme meilleur troisième.",
+          "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-deja-qualifiee-l-allemagne-tombe-face-a-l-equateur-et-inquiete-la-cote-d-ivoire-sort-de-poules-pour-la-premiere-fois-de-son-histoire_8080061.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "L'Allemagne se qualifie malgré la défaite, mais sans avoir convaincue, tandis que la Côte d'Ivoire franchit pour la première fois une phase de poules en Coupe du monde.",
+          "url": "https://www.lemonde.fr/sport/article/2026/06/26/coupe-du-monde-2026-defaite-par-l-equateur-l-allemagne-se-qualifie-a-la-premiere-place-du-groupe-e-sans-avoir-prouve-grand-chose_6715536_3242.html"
+        },
+        {
+          "outlet": "France 24",
+          "take": "L'Équateur, qui n'avait marqué aucun but jusqu'alors, renverse les quadruples champions du monde dans un stade en fusion pour décrocher sa place en seizièmes.",
+          "url": "https://www.france24.com/fr/sports/20260625-mondial-2026-miracle-pour-l-%C3%A9quateur-qui-renverse-l-allemagne-et-rejoint-les-seizi%C3%A8mes"
         }
       ],
       "id": 4,
@@ -152,30 +155,30 @@
     },
     {
       "themes": [
-        "Monde"
+        "Économie"
       ],
-      "title": "Trump inaugure les 250 ans des États-Unis en mettant en avant son bilan",
-      "full": "Donald Trump a prononcé un discours lors du lancement officiel des célébrations du 250e anniversaire de l'indépendance américaine à Washington. Le président a largement utilisé l'événement pour vanter ses réalisations et critiquer ses prédécesseurs, brouillant la distinction entre commémoration historique et meeting politique. Le projet phare du président, visant à donner une teinte bleue au bassin de la capitale pour l'occasion, a connu plusieurs déboires. Parallèlement, Trump a exprimé des critiques envers l'OTAN et regretté un manque de soutien européen sur la question iranienne.",
+      "title": "Grand Paris Express : nouveaux retards pour les lignes 15 et 18",
+      "full": "La Société des Grands Projets a officialisé de nouveaux reports pour deux lignes du Grand Paris Express. La ligne 18 ouvrira début décembre au lieu du 1er octobre prévu, soit deux mois de retard. La ligne 15 sud, attendue au printemps 2027, ne sera mise en service qu'à l'automne 2027, soit six mois supplémentaires. Ce tronçon sud, qui relie notamment Massy et Saclay, a déjà été reporté à plusieurs reprises depuis son calendrier initial de 2020.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Le bassin de Washington, élément clé du projet présidentiel, accumule les problèmes pratiques et politiques.",
-          "url": "https://www.franceinfo.fr/monde/usa/projet-cle-pour-donald-trump-couacs-multiples-et-interpellations-on-vous-raconte-la-polemique-autour-d-un-bassin-a-washington-devenue-un-feuilleton-politique-aux-etats-unis_8077262.html#xtor=RSS-3-[lestitres]"
+          "take": "La Société des Grands Projets annonce un décalage de deux mois pour la ligne 18 et de six mois pour la ligne 15.",
+          "url": "https://www.franceinfo.fr/economie/transports/grand-paris-express-de-nouveaux-retards-officialises-pour-les-lignes-15-et-18-du-metro_8079617.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Libération",
-          "take": "Trump a transformé la cérémonie commémorative en plateforme d'autocélébration de son action politique.",
-          "url": "https://www.liberation.fr/international/amerique/donald-trump-sautocongratule-pour-le-250e-anniversaire-des-etats-unis-20260625_WPNYXWGWMVERZOI73A6C2FNGHY/"
+          "take": "Souligne l'historique des reports de la ligne 15 sud, reportée de nombreuses fois depuis 2020.",
+          "url": "https://www.liberation.fr/economie/transports/grand-paris-express-demarrage-de-la-ligne-18-debut-decembre-report-de-six-mois-pour-la-15-sud-a-lautomne-2027-20260625_ZZSSFYJFGNGJTNS227IUCG4TUY/"
         },
         {
-          "outlet": "France 24",
-          "take": "L'optimisme affiché par Trump sur l'état du pays contraste avec un scepticisme majoritaire dans l'opinion publique selon les sondages.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260625-donald-trump-lance-les-festivit%C3%A9s-des-250-ans-des-%C3%A9tats-unis-en-c%C3%A9l%C3%A9brant-son-propre-bilan"
+          "outlet": "Le Figaro Éco",
+          "take": "Insiste sur le fait que la ligne 18 ouvrira avant la fin de l'année, contrairement à la ligne 15 sud.",
+          "url": "https://www.lefigaro.fr/societes/grand-paris-express-la-ligne-15-sud-encore-repoussee-de-plusieurs-mois-la-ligne-18-ouvrira-debut-decembre-20260625"
         },
         {
-          "outlet": "Courrier International",
-          "take": "La journée a été marquée par plusieurs tensions, dont l'annulation de dernière minute d'une loi sur le logement et des frictions avec le Sénat.",
-          "url": "https://www.courrierinternational.com/article/tensions-engueulade-avec-les-senateurs-critiques-de-l-otan-et-grand-discours-la-journee-chargee-de-donald-trump_245668"
+          "outlet": "Le Monde",
+          "take": "Précise les dates initiales de mise en service (1er octobre pour la 18, printemps 2027 pour la 15 sud) avant ces nouveaux décalages.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/25/metro-de-nouveaux-retards-pour-les-lignes-15-et-18-du-grand-paris-express_6715440_3234.html"
         }
       ],
       "id": 5,
@@ -183,30 +186,30 @@
     },
     {
       "themes": [
-        "Société"
+        "Économie"
       ],
-      "title": "Effondrement de falaise à Biarritz: une plongeuse morte, une autre recherchée",
-      "full": "Un pan de falaise d'environ 2 000 mètres carrés s'est effondré mercredi vers 20 h 20 près du phare de Biarritz, au pied d'une plage très fréquentée. Une femme de 33 ans, plongeuse, a été tuée par l'éboulement. Un homme de 34 ans, également plongeur, demeure porté disparu. Un troisième plongeur présent sur place a pu s'en sortir indemne. Les recherches ont repris jeudi matin dans une zone jugée dangereuse.",
+      "title": "La Cour suprême américaine bloque les plaintes contre Bayer sur le Roundup",
+      "full": "La Cour suprême des États-Unis a tranché jeudi en faveur de Bayer dans le dossier du Roundup, son désherbant à base de glyphosate. Une majorité de sept juges sur neuf a estimé que le groupe ne pouvait être condamné pour n'avoir pas apposé d'avertissement sanitaire supplémentaire sur ses produits, puisque l'Agence fédérale de protection de l'environnement n'imposait aucune alerte sanitaire. Cette décision bloque potentiellement des dizaines de milliers de plaintes contre le fabricant, liées à des risques supposés de cancer. Les contentieux accumulés ont déjà coûté plus de 10 milliards de dollars au groupe allemand.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "La préfecture confirme la récupération du corps féminin et annonce la reprise des recherches jeudi matin pour retrouver le plongeur disparu.",
-          "url": "https://www.franceinfo.fr/faits-divers/un-pan-de-falaise-s-effondre-pres-d-une-plage-a-biarritz-deux-plongeurs-recherches_8078339.html#xtor=RSS-3-[lestitres]"
+          "take": "Souligne que la majorité des juges a rejeté l'idée qu'un avertissement supplémentaire pouvait être exigé du fabricant.",
+          "url": "https://www.franceinfo.fr/economie/entreprises/monsanto/monsanto-la-cour-supreme-americaine-bloque-la-voie-a-des-dizaines-de-milliers-de-plaintes-contre-bayer_8079635.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Libération",
-          "take": "L'effondrement s'est produit en soirée durant la période estivale, au moment où la plage du Miramar connaissait une forte affluence.",
-          "url": "https://www.liberation.fr/societe/comme-un-coup-de-tonnerre-un-pan-de-falaise-seffondre-pres-dune-plage-de-biarritz-deux-plongeurs-disparus-20260624_3MRMPFCTUFDLNNFET4YIUZXMII/"
+          "take": "Mentionne que l'absence de directive fédérale concernant le caractère cancérigène du glyphosate a été centrale dans le raisonnement des magistrats.",
+          "url": "https://www.liberation.fr/environnement/agriculture/monsanto-la-cour-supreme-americaine-bloque-la-voie-a-des-dizaines-de-milliers-de-plaintes-contre-bayer-20260625_YLKPVGUAENFZXBD5PEUPI3UZQA/"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Les opérations de secours ont dû être suspendues peu avant minuit en raison du caractère dangereux de la zone d'intervention.",
-          "url": "https://www.20minutes.fr/faits_divers/4231121-20260625-biarritz-reprise-recherches-zone-dangereuse-sait-effondrement-mortel-pan-falaise?at_medium=display&at_campaign=149"
+          "outlet": "France 24",
+          "take": "Souligne le potentiel allègement financier pour Bayer face à la multitude de litiges en attente.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260625-glyphosate-la-cour-supr%C3%AAme-am%C3%A9ricaine-soulage-potentiellement-bayer-de-milliers-de-plaintes"
         },
         {
           "outlet": "Le Monde",
-          "take": "Trois plongeurs se trouvaient au pied de la falaise au moment de la catastrophe, dont un seul a pu s'échapper sans dommages.",
-          "url": "https://www.lemonde.fr/societe/article/2026/06/24/pres-d-une-plage-a-biarritz-deux-plongeurs-recherches-apres-l-effondrement-d-un-pan-de-falaise_6713234_3224.html"
+          "take": "Rappelle l'ampleur des dégâts financiers antérieurs, estimés à plus de 10 milliards de dollars pour le groupe.",
+          "url": "https://www.lemonde.fr/planete/article/2026/06/25/la-cour-supreme-des-etats-unis-donne-raison-a-bayer-face-aux-milliers-de-plaintes-pour-risque-de-cancer-du-roundup_6715430_3244.html"
         }
       ],
       "id": 6,
@@ -214,26 +217,30 @@
     },
     {
       "themes": [
-        "Environnement",
-        "Société"
+        "France"
       ],
-      "title": "La France bat successivement ses records de chaleur nocturne",
-      "full": "La France traverse une canicule intense avec plusieurs records de température battus en deux jours. Le 24 juin a marqué la journée la plus chaude jamais enregistrée, avec une moyenne de 30 °C sur le pays, tandis que le record de la nuit la plus chaude a été dépassé dans la nuit du 26 au 27 juin. Plus de 50 millions d'habitants sont placés en vigilance rouge. Des températures supérieures à 40 °C ont été relevées sur environ 20 % du territoire, avec un pic de 43,8 °C en Vendée. Une amélioration progressive est attendue à partir de dimanche dans l'Ouest, mais la chaleur devrait persister jusqu'à la fin du mois dans le reste du pays.",
+      "title": "L'UDR d'Éric Ciotti quitte sa niche parlementaire face à l'obstruction",
+      "full": "Le groupe Union des droites pour la République (UDR) a boycotté jeudi 25 juin sa journée réservée à l'Assemblée nationale, en quittant l'hémicycle avec ses alliés du Rassemblement national. Le groupe souhaitait débattre de plusieurs textes, dont une proposition visant à interdire le mariage aux étrangers en situation irrégulière, mais a rencontré l'obstruction de la gauche. Le garde des Sceaux a refusé d'écourter les débats, contrairement aux demandes du groupe.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "Le record de la nuit la plus chaude a été établi jeudi matin, soit deux jours après un précédent record, tandis que la canicule continue de sévir sur le territoire.",
-          "url": "https://www.france24.com/fr/france/20260625-canicule-se-poursuit-france-enfant-mort-voiture-climat-record"
+          "outlet": "Mediapart",
+          "take": "L'UDR et le RN ont quitté l'hémicycle pour protester contre l'obstruction de la gauche lors de cette niche parlementaire.",
+          "url": "https://www.mediapart.fr/journal/politique/250626/l-assemblee-le-groupe-d-eric-ciotti-saborde-sa-niche-et-se-tape-l-affiche"
         },
         {
-          "outlet": "Libération",
-          "take": "La journée du 24 juin a atteint une moyenne de 30 °C, avec un seuil de 40 °C dépassé sur environ un cinquième du territoire entre lundi et mercredi.",
-          "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-le-pic-attendu-aujourdhui-avec-des-records-a-43-degres-dans-le-sud-ouest-20260624_JXYTHQKX6FBLHE5PR7PIYRYFAM/"
+          "outlet": "France Info",
+          "take": "Les thèmes présentés par le groupe d'Éric Ciotti ont été élaborés en concertation avec le Rassemblement national.",
+          "url": "https://www.franceinfo.fr/politique/main-dans-la-main-sur-quasiment-la-plupart-des-textes-avec-la-niche-parlementaire-de-l-udr-l-assemblee-rouvre-le-debat-sur-les-mariages-en-situation-irreguliere_8078300.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Une sortie progressive de la canicule est attendue à partir de dimanche dans l'Ouest, mais la chaleur devrait persister jusqu'à la fin du mois ou début juillet ailleurs en France.",
-          "url": "https://www.lemonde.fr/planete/article/2026/06/24/apres-avoir-enregistre-sa-journee-la-plus-chaude-la-france-entrapercoit-la-fin-de-la-canicule_6713225_3244.html"
+          "outlet": "Le Figaro Politique",
+          "take": "Le groupe ciottiste présentait plusieurs mesures qualifiées de « probusiness » et de fermeté régalienne.",
+          "url": "https://www.lefigaro.fr/politique/mariages-sous-oqtf-squat-pme-a-l-assemblee-l-udr-d-eric-ciotti-espere-le-soutien-de-lr-20260625"
+        },
+        {
+          "outlet": "L'Humanité",
+          "take": "Le gouvernement reste favorable à la proposition d'interdire le mariage aux étrangers en situation irrégulière malgré les critiques.",
+          "url": "https://www.humanite.fr/politique/eric-ciotti/mariage-des-etrangers-en-situation-irreguliere-cynique-darmanin-renvoie-ludr-a-sa-niche"
         }
       ],
       "id": 7,
@@ -241,25 +248,26 @@
     },
     {
       "themes": [
-        "Société"
+        "France",
+        "Environnement"
       ],
-      "title": "Affaire Lyhanna : les magistrats dénoncent une « crise systémique »",
-      "full": "Les deux plus hauts magistrats de France, Christophe Soulard et Rémy Heitz, ont appelé jeudi à dépasser les seules responsabilités individuelles dans l'affaire du meurtre de Lyhanna. Ils dénoncent une « mécanique du bouc émissaire » face à ce qu'ils qualifient de « crise systémique » de la justice. Les magistrats réclament un débat démocratique approfondi plutôt que « des déclarations à l'emporte-pièce ». Ils pointent un sous-financement relatif de la justice française : 77 euros par habitant et par an contre 85 euros en moyenne en Europe.",
+      "title": "Canicule : 50 000 foyers sans électricité, Enedis active son plan d'urgence",
+      "full": "La canicule provoque des coupures d'électricité massives en Île-de-France et en Gironde. Selon Enedis, environ 50 000 clients sont privés d'électricité, principalement dans les Yvelines (33 000), les Hauts-de-Seine (7 400) et la Gironde (5 700). Face à ce risque jugé « élevé », le gestionnaire du réseau a déclenché jeudi sa force d'intervention rapide électricité (FIRE) pour rétablir au plus vite les connexions, les sols surchauffés mettant les câbles à rude épreuve.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Les deux plus hauts magistrats exigent un débat démocratique rigoureux plutôt que des réactions précipitées.",
-          "url": "https://www.lemonde.fr/societe/article/2026/06/25/mort-de-lyhanna-les-deux-plus-hauts-magistrats-de-france-denoncent-la-mecanique-du-bouc-emissaire-face-a-une-crise-systemique_6713404_3224.html"
-        },
-        {
           "outlet": "France Info",
-          "take": "Le communiqué souligne le financement insuffisant de la justice en France comparé à ses voisins européens.",
-          "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-les-deux-plus-hauts-magistrats-de-france-denoncent-la-mecanique-du-bouc-emissaire-face-a-une-crise-systemique_8078993.html#xtor=RSS-3-[lestitres]"
+          "take": "Les coupures se concentrent géographiquement en Île-de-France et en Gironde, avec une majorité des incidents dans les Yvelines.",
+          "url": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/direct-canicule-72-departements-en-vigilance-rouge-dont-dix-passeront-en-alerte-orange-aux-orages-a-partir-de-jeudi-apres-midi_8078654.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "Libération",
-          "take": "Les magistrats appellent à tirer des enseignements généraux de l'affaire, au-delà des seules sanctions individuelles.",
-          "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-les-deux-plus-hauts-magistrats-de-france-fustigent-la-mecanique-du-bouc-emissaire-face-a-une-crise-systemique-20260625_WVBGDLVKQNCAJAA3LVZEBWW5EM/"
+          "outlet": "L'Humanité",
+          "take": "Enedis anticipe un risque d'incidents élevé dans les heures à venir à cause de la canicule qui sollicite intensément les infrastructures souterraines.",
+          "url": "https://www.humanite.fr/-/-/enedis-declenche-sa-force-dintervention-face-au-risque-eleve-dincidents"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Le gestionnaire du réseau a déployé son dispositif d'intervention rapide face aux chaleurs exceptionnelles qui menacent l'intégrité des câbles.",
+          "url": "https://www.lemonde.fr/planete/live/2026/06/26/en-direct-canicule-50-000-clients-prives-d-electricite-selon-enedis-en-raison-des-chaleurs-exceptionnelles_6710159_3244.html"
         }
       ],
       "id": 8,
@@ -267,25 +275,25 @@
     },
     {
       "themes": [
-        "Économie"
+        "Monde"
       ],
-      "title": "L'UE valide son accord commercial avec les États-Unis",
-      "full": "L'Union européenne a donné son feu vert définitif à l'accord commercial négocié avec Washington, grâce au vote des Vingt-Sept et du Parlement européen jeudi. Cet accord, qui devrait entrer en vigueur avant le 4 juillet (délai fixé par Donald Trump), supprime les droits de douane européens sur la plupart des produits industriels et agricoles américains. En contrepartie, les taxes américaines imposées l'an dernier sur les importations européennes sont plafonnées à 15 %.",
+      "title": "La Cour suprême américaine valide la politique migratoire restrictive de Trump",
+      "full": "La Cour suprême des États-Unis a autorisé l'administration Trump à reconduire les demandeurs d'asile à la frontière mexicaine sans examiner leur dossier, ainsi qu'à révoquer un statut de protection pour environ 350 000 ressortissants haïtiens et 6 000 Syriens. Cette décision restaure des mesures adoptées en 2016 et suspendues sous la présidence Biden. La majorité conservatrice de la Cour a ainsi validé deux volets clés de la politique migratoire restrictive de l'administration actuelle.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "Donald Trump avait imposé une date limite au 4 juillet pour que les Européens finalisent la ratification.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/25/l-accord-commercial-entre-l-ue-et-les-etats-unis-va-pouvoir-entrer-en-vigueur_6713405_3210.html"
-        },
-        {
-          "outlet": "Le Figaro Éco",
-          "take": "L'accord pourra entrer en vigueur avant l'échéance fixée par Trump, grâce à la validation des institutions européennes.",
-          "url": "https://www.lefigaro.fr/conjoncture/l-union-europeenne-valide-definitivement-son-accord-commercial-avec-les-etats-unis-20260625"
+          "take": "La décision permet à Trump de renouer avec une politique frontalière de blocage des demandes d'asile mise en place en 2016.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/25/la-cour-supreme-americaine-autorise-un-eventuel-renvoi-des-demandeurs-d-asile-a-la-frontiere-avec-le-mexique_6715461_3210.html"
         },
         {
           "outlet": "Libération",
-          "take": "L'accord supprime les droits de douane de l'UE sur les produits américains en échange d'un plafonnement des taxes Trump à 15 %.",
-          "url": "https://www.liberation.fr/international/europe/les-27-donnent-leur-feu-vert-final-a-laccord-commercial-entre-lue-et-les-etats-unis-20260625_H7NBOCAJXBCH5DIMUSSK5DXTDA/"
+          "take": "Cette autorisation expose des centaines de milliers de migrants haïtiens à des expulsions vers un pays en proie à des crises multiples.",
+          "url": "https://www.liberation.fr/international/amerique/etats-unis-la-cour-supreme-autorise-ladministration-a-priver-350-000-haitiens-dune-protection-contre-leur-expulsion-20260625_ONJUTUYZ3RAGLMI244PQB6BLZQ/"
+        },
+        {
+          "outlet": "Courrier International",
+          "take": "La majorité conservatrice offre deux victoires majeures à Trump sur sa politique migratoire restrictive.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-la-cour-supreme-americaine-offre-deux-victoires-decisives-a-donald-trump-sur-sa-politique-migratoire_245723"
         }
       ],
       "id": 9,
@@ -293,25 +301,25 @@
     },
     {
       "themes": [
-        "Société"
+        "Monde"
       ],
-      "title": "Un adolescent tué à Narbonne, cinq jeunes mis en examen",
-      "full": "Un jeune de 17 ans, prénommé Louis, a été retrouvé inanimé samedi matin sur un chantier à Narbonne après avoir été violemment frappé la veille au soir. Il a succombé à ses blessures trois jours plus tard. Cinq jeunes hommes, âgés de 17 à 19 ans dont trois mineurs, ont été mis en examen pour tentative d'assassinat. Les enquêteurs considèrent ces faits comme prémédités, les suspects lui ayant tendu un guet-apens selon les premières investigations, mais les mobiles restent à établir.",
+      "title": "Séismes meurtriers au Venezuela, bilan encore incertain",
+      "full": "Deux puissants tremblements de terre ont frappé l'ouest de Caracas mercredi soir, le plus violent étant le plus intense enregistré au Venezuela depuis plus d'un siècle. Les bilans varient selon les sources : au moins 188 à 235 morts et plus de 1 500 blessés sont annoncés. Les opérations de recherche se poursuivent dans les décombres tandis que plusieurs pays, dont les États-Unis, ont proposé une aide humanitaire.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Met l'accent sur le caractère prémédité et grave des faits, avec la qualification de tentative d'assassinat.",
-          "url": "https://france3-regions.franceinfo.fr/occitanie/aude/narbonne/ces-faits-d-une-extreme-gravite-semblent-premedites-louis-17-ans-battu-a-mort-ses-agresseurs-presumes-mis-en-examen-pour-tentative-d-assassinat-3375460.html#xtor=RSS-3-[lestitres]"
+          "outlet": "France 24",
+          "take": "Insiste sur le renforcement des secours avec l'annonce du déploiement de navires, avions et hélicoptères américains en soutien aux opérations.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260626-en-direct-seismes-venezuela-bilan-morts-recherche-disparus-aide-humanitaire"
         },
         {
-          "outlet": "Libération",
-          "take": "Qualifie l'agression de « lynchage » et souligne que les raisons du guet-apens demeurent inconnues.",
-          "url": "https://www.liberation.fr/societe/police-justice/narbonne-cinq-adolescents-mis-en-examen-apres-le-lynchage-mortel-dun-mineur-20260625_NGFI3CEXJZG3XPDV2JON4U32N4/"
+          "outlet": "Le Monde",
+          "take": "Souligne le caractère exceptionnel du plus puissant séisme du siècle et évoque les craintes des spécialistes quant à l'ampleur des dégâts.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/25/seismes-au-venezuela-au-moins-188-morts-et-plus-de-1-500-blesses-selon-un-nouveau-bilan-provisoire_6714182_3211.html"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Rapporte que la découverte du corps a eu lieu le samedi matin, après l'agression de la veille au soir.",
-          "url": "https://www.20minutes.fr/faits_divers/4231085-20260625-narbonne-guet-apens-lynchage-cinq-jeunes-mis-examen-apres-agression-mortelle-mineur?at_medium=display&at_campaign=149"
+          "outlet": "Courrier International",
+          "take": "Explique la cause géologique en situant la zone sinistrée à la frontière des plaques sud-américaine et caraïbe.",
+          "url": "https://www.courrierinternational.com/explainer/tout-s-explique-pourquoi-la-terre-a-t-elle-tremble-au-venezuela_245692"
         }
       ],
       "id": 10,
@@ -319,25 +327,25 @@
     },
     {
       "themes": [
-        "Monde"
+        "Économie"
       ],
-      "title": "L'Iran dénonce la « complicité » de l'OTAN dans le conflit",
-      "full": "Le porte-parole de la diplomatie iranienne a accusé l'OTAN de complicité envers les États-Unis et Israël, réagissant à des déclarations du secrétaire général de l'Alliance atlantique, Mark Rutte. Ce dernier a révélé que des avions américains avaient utilisé des bases européennes pendant le conflit au Moyen-Orient. L'Iran conteste ainsi l'implication indirecte des pays européens aux côtés de Washington dans les opérations militaires en cours dans la région.",
+      "title": "Décès de Gérard Brémond, fondateur de Pierre & Vacances",
+      "full": "Gérard Brémond, fondateur du groupe touristique Pierre & Vacances, est décédé à l'âge de 88 ans. Entrepreneur et concepteur de la station de ski d'Avoriaz, il avait inventé un modèle novateur de résidences de tourisme permettant aux particuliers d'acheter des appartements confiés ensuite à la gestion et la location de son groupe, avec droit de séjour réservé. Il avait introduit son groupe en Bourse en 1999 et procédé au rachat de Center Parcs en 2003.",
       "angles": [
         {
+          "outlet": "France Info",
+          "take": "Souligne la création d'Avoriaz et l'introduction en Bourse en 1999, suivie du rachat de Center Parcs en 2003.",
+          "url": "https://www.franceinfo.fr/economie/tourisme/gerard-bremond-fondateur-du-groupe-touristique-pierre-vacances-est-mort-a-88-ans_8079425.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "Le Figaro Éco",
+          "take": "Met l'accent sur l'invention du modèle de résidence où des particuliers achètent des appartements loués par l'entreprise.",
+          "url": "https://www.lefigaro.fr/societes/le-fondateur-de-pierre-vacances-gerard-bremond-est-mort-a-88-ans-20260625"
+        },
+        {
           "outlet": "Le Monde",
-          "take": "Met l'accent sur la réaction iranienne aux propos du secrétaire général de l'OTAN concernant l'utilisation des bases européennes par l'aviation américaine.",
-          "url": "https://www.lemonde.fr/international/article/2026/06/25/l-iran-accuse-l-otan-de-complicite-dans-la-guerre-menee-par-les-etats-unis-et-israel-contre-la-republique-islamique_6713367_3210.html"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Intègre l'accusation iranienne dans un contexte plus large incluant le retrait israélien du sud du Liban et les fluctuations du cours du pétrole.",
-          "url": "https://www.liberation.fr/international/moyen-orient/baisse-du-cours-de-petrole-complicite-de-lotan-selon-liran-un-mort-israelien-dans-le-sud-du-liban-lactu-du-conflit-au-moyen-orient-ce-jeudi-25-juin-20260625_SBFTA5BBRFFBRNBFUYVARKZNGA/"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Relate les tensions actuelles en soulignant les enjeux stratégiques, notamment le détroit d'Ormuz et les négociations entre États-Unis et Iran.",
-          "url": "https://www.20minutes.fr/monde/etats-unis/4231077-20260625-direct-guerre-moyen-orient-iran-accuse-otan-complicite-guerre-menee-contre?at_medium=display&at_campaign=149"
+          "take": "Détaille le mécanisme du modèle avec l'achat à prix réduits et le droit de séjour réservé aux propriétaires.",
+          "url": "https://www.lemonde.fr/economie/article/2026/06/25/gerard-bremond-fondateur-du-groupe-touristique-pierre-vacances-est-mort-a-88-ans_6715414_3234.html"
         }
       ],
       "id": 11,
@@ -345,25 +353,26 @@
     },
     {
       "themes": [
-        "Monde"
+        "Environnement",
+        "Économie"
       ],
-      "title": "Macron et Meloni relancent la coopération franco-italienne",
-      "full": "Emmanuel Macron reçoit jeudi à Antibes la présidente du Conseil italien Giorgia Meloni pour le premier sommet bilatéral depuis l'arrivée au pouvoir de cette dernière en 2022. Après plusieurs années de tensions, les deux dirigeants entendent normaliser leurs relations et mettre l'accent sur leurs convergences. La défense, l'énergie, le spatial et les transports figurent au cœur des discussions.",
+      "title": "La canicule provoque des pertes massives dans les élevages français",
+      "full": "Une vague de chaleur extrême en mi-juin 2026 a entraîné la mort de plusieurs centaines de milliers de volailles dans les élevages français, ainsi que d'autres animaux d'élevage (bovins, porcins, ovins). Les élevages de volailles de chair sont particulièrement touchés, certains bâtiments accueillant entre 30 000 et 40 000 animaux. Cette hécatombe rappelle celle de 2003, où 2 % du cheptel français avait été décimé lors d'une canicule comparable.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Malgré des visions de l'Europe profondément divergentes, Macron et Meloni acceptent de dépasser leurs désaccords pour avancer sur des enjeux concrets.",
-          "url": "https://www.liberation.fr/politique/leurope-ideale-de-meloni-est-aux-antipodes-de-celle-de-macron-malgre-leurs-divergences-les-deux-dirigeants-veulent-briser-la-glace-franco-italienne-20260625_6SB7RBU6QFAEBMQFAHGESAOIME/"
+          "outlet": "France Info",
+          "take": "Met l'accent sur l'ampleur historique du phénomène en comparant avec la canicule de 2003.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/pourquoi-la-canicule-decime-t-elle-les-elevages-avicoles_8079245.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France 24",
-          "take": "Les deux chefs d'État cherchent à afficher une « bonne entente » publique autour de dossiers stratégiques partagés.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260625-emmanuel-macron-re%C3%A7oit-la-premi%C3%A8re-ministre-italienne-pour-mettre-en-sc%C3%A8ne-leur-bonne-entente"
+          "outlet": "Numerama",
+          "take": "Élargit le scope aux perturbations des transports, notamment les retards et annulations de trains causés par la chaleur.",
+          "url": "https://www.numerama.com/vroom/2283617-la-canicule-perturbe-le-trafic-ferroviaire-francais-pourquoi.html"
         },
         {
-          "outlet": "L'Humanité",
-          "take": "Cette rencontre intervient après plus de trois ans sans sommet bilatéral, marquant un tournant dans les relations franco-italiennes.",
-          "url": "https://www.humanite.fr/monde/antibes/emmanuel-macron-et-giorgia-meloni-a-antibes-pour-une-premiere-rencontre-bilaterale-depuis-plus-de-trois-ans"
+          "outlet": "Reporterre",
+          "take": "Détaille la structure des élevages intensifs et cite les représentants du secteur pour expliquer les pertes massives.",
+          "url": "https://reporterre.net/Canicule-des-centaines-de-milliers-de-volailles-meurent-dans-les-elevages-intensifs"
         }
       ],
       "id": 12,
@@ -371,25 +380,21 @@
     },
     {
       "themes": [
-        "France"
+        "Société",
+        "Santé"
       ],
-      "title": "L'UDR défend l'interdiction des mariages d'étrangers sans papiers",
-      "full": "Lors d'une journée parlementaire réservée à son groupe, l'UDR d'Éric Ciotti a présenté jeudi plusieurs mesures, dont une proposition de loi visant à interdire les mariages d'étrangers en situation irrégulière. Le gouvernement apporte son soutien à ce texte, qui répond à des demandes de maires refusant de célébrer certaines unions soupçonnées d'être frauduleuses. Les thèmes présentés par le groupe ciottiste, qui compte 15 députés, ont été concertés avec le Rassemblement national. L'UDR tente par ces mesures de fermeté d'obtenir le soutien de La République en Marche et d'affaiblir le cordon sanitaire que plusieurs formations maintiennent envers ce groupe.",
+      "title": "Canicule : les urgences débordées, premiers décès signalés",
+      "full": "Les services d'urgences français connaissent une saturation liée à la canicule, avec une accélération des conséquences sanitaires entre mercredi et jeudi. Le jeudi 25 juin, quatre fois plus d'arrêts cardiaques ont été enregistrés qu'en conditions normales, et les autorités parisiennes ont signalé une hausse des décès. Les hôpitaux du pays accueillent des patients souffrant d'hypothermies, de décompensations de maladies chroniques et d'arrêts cardiaques. Selon les professionnels de santé, le « point de basculement » a d'ores et déjà été franchi.",
       "angles": [
         {
-          "outlet": "Le Figaro Politique",
-          "take": "L'UDR mobilise sa niche parlementaire sur des mesures pro-entreprise et régaliennes pour tenter de convaincre LR de renoncer à son isolement politique.",
-          "url": "https://www.lefigaro.fr/politique/mariages-sous-oqtf-squat-pme-a-l-assemblee-l-udr-d-eric-ciotti-espere-le-soutien-de-lr-20260625"
-        },
-        {
           "outlet": "France Info",
-          "take": "Les sujets débattus lors de cette journée réservée à l'UDR ont été définis en coordination avec le Rassemblement national.",
-          "url": "https://www.franceinfo.fr/politique/main-dans-la-main-sur-quasiment-la-plupart-des-textes-avec-la-niche-parlementaire-de-l-udr-l-assemblee-rouvre-le-debat-sur-les-mariages-en-situation-irreguliere_8078300.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Les urgences de Châteauroux, comme d'autres hôpitaux en France, sont débordées par l'arrivée massive de victimes de la canicule.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/aux-urgences-de-chateauroux-les-soignants-debordes-alors-que-la-canicule-a-deja-fait-plusieurs-morts_8079971.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Le Monde",
-          "take": "Cette interdiction répond aux demandes de quelques maires qui craignent des mariages sans réelle intention conjugale et concernerait des personnes confrontées à des refus d'célébration.",
-          "url": "https://www.lemonde.fr/societe/article/2026/06/25/l-interdiction-des-mariages-d-etrangers-sans-papiers-de-retour-a-l-assemblee-nationale-avec-le-soutien-du-gouvernement_6713343_3224.html"
+          "take": "Les pathologies liées à la chaleur (arrêts cardiaques, décompensations) se sont multipliées en l'espace de vingt-quatre heures, signalant un seuil critique.",
+          "url": "https://www.lemonde.fr/societe/article/2026/06/26/canicule-premiers-deces-passages-aux-urgences-a-l-hopital-le-point-de-basculement-est-franchi_6715671_3224.html"
         }
       ],
       "id": 13,
@@ -397,25 +402,20 @@
     },
     {
       "themes": [
-        "Société"
+        "Monde"
       ],
-      "title": "Affaire Lyhanna : l'autopsie n'établit pas la cause du décès",
-      "full": "L'autopsie de Lyhanna, fillette de 11 ans retrouvée morte début juin, n'a pas permis de déterminer avec certitude la cause de son décès, selon le parquet d'Agen. Cet épisode judiciaire, marqué par des ratés présumés, a suscité une vive émotion en France. Jérôme Barella, mis en examen, est désormais poursuivi pour meurtre et viol sur mineur de surcroît de l'incertitude liée aux conclusions médicales.",
+      "title": "New York gèle les loyers d'un million de logements",
+      "full": "Le maire démocrate de New York, Zohran Mamdani, a mis en œuvre un gel des loyers affectant environ un million de logements dans la ville. Cette mesure, promesse électorale du candidat élu en novembre, répond à la crise du logement locatif. Elle intervient dans un contexte où l'aile socialiste du Parti démocrate américain gagne du terrain à travers plusieurs victoires aux primaires récentes.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "L'autopsie demeure inconclusive sur les causes du décès, un élément central dans une affaire qui a provoqué une forte réaction publique.",
-          "url": "https://www.france24.com/fr/france/20260624-affaire-lyhanna-la-cause-du-d%C3%A9c%C3%A8s-de-la-fillette-demeure-inconnue-malgr%C3%A9-l-autopsie"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Le suspect Jérôme Barella est poursuivi pour meurtre et viol, malgré l'incertitude médicale sur la cause exacte de la mort.",
-          "url": "https://www.20minutes.fr/faits_divers/4231040-20260624-affaire-lyhanna-autopsie-permis-determiner-certitude-cause-deces?at_medium=display&at_campaign=149"
-        },
-        {
           "outlet": "Le Monde",
-          "take": "L'enquête s'élargit aux qualifications de meurtre et viol sur mineur, indépendamment des résultats limitations de l'autopsie.",
-          "url": "https://www.lemonde.fr/societe/article/2026/06/24/lyhanna-l-autopsie-n-a-pas-permis-de-determiner-avec-certitude-la-cause-de-la-mort-de-l-enfant-de-11-ans_6713218_3224.html"
+          "take": "Le maire démocrate salue cette décision comme une victoire historique pour les locataires, répondant à l'engagement pris pendant sa campagne.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/26/new-york-gele-les-loyers-d-environ-un-million-de-logements-un-succes-politique-pour-le-maire-zohran-mamdani_6715678_3210.html"
+        },
+        {
+          "outlet": "Le Figaro",
+          "take": "Cette mesure s'inscrit dans une dynamique plus large : l'aile socialiste du Parti démocrate renforce son influence aux niveaux local et national.",
+          "url": "https://www.lefigaro.fr/international/mairie-de-new-york-primaire-a-washington-l-aile-socialiste-du-parti-democrate-a-le-vent-en-poupe-20260625"
         }
       ],
       "id": 14,
@@ -423,25 +423,21 @@
     },
     {
       "themes": [
-        "Santé"
+        "France",
+        "Monde"
       ],
-      "title": "Premier cas d'Ebola détecté en France",
-      "full": "Un médecin humanitaire revenu de mission en République démocratique du Congo a été diagnostiqué positif au virus Ebola, confirmant le premier cas de cette maladie en France. Le patient a été immédiatement isolé à son retour et présente des symptômes légers avec une faible charge virale. Cinq contacts potentiels sont en cours d'identification. Aucun vaccin ni traitement spécifique n'existe actuellement contre cette souche du virus.",
+      "title": "Macron et Meloni cherchent une coalition au Liban",
+      "full": "Emmanuel Macron et Giorgia Meloni, réunis jeudi à Antibes pour leur 36e sommet franco-italien, ont appelé à la mise en place d'une coalition multinationale au Liban à l'issue du mandat de la Finul (force de l'ONU). La première ministre italienne a insisté sur la nécessité d'une « présence internationale » pour éviter un vide sécuritaire dans le pays. Le sommet a également abordé les enjeux climatiques, Macron estimant que les adaptations mises en place au changement climatique ne suffisent pas face aux pics de chaleur sans précédent en Europe.",
       "angles": [
         {
+          "outlet": "Le Monde",
+          "take": "La France et l'Italie veulent coordonner une intervention multinationale au Liban pour prévenir un vide sécuritaire après le retrait de la Finul.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/25/liban-emmanuel-macron-et-giorgia-meloni-veulent-une-coalition-multinationale-a-la-fin-du-mandat-de-la-finul_6715462_3210.html"
+        },
+        {
           "outlet": "France Info",
-          "take": "L'absence de vaccin ou de traitement spécifique est relevée malgré la prise en charge immédiate et les symptômes faibles du patient.",
-          "url": "https://www.franceinfo.fr/sante/maladie/ebola/medecin-humanitaire-contamine-cas-contact-en-cours-d-identification-ce-que-l-on-sait-du-premier-cas-d-ebola-detecte-en-france_8077706.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Sciences et Avenir",
-          "take": "Les autorités sanitaires rassurent en soulignant l'isolement précoce du patient et sa faible charge virale.",
-          "url": "https://www.sciencesetavenir.fr/sante/ebola-un-premier-cas-identifie-en-france-un-medecin-revenu-de-rdc_193377?xtor=RSS-16"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "L'annonce officielle du 24 juin est contextualisée par l'état stable du patient déjà hospitalisé.",
-          "url": "https://www.courrierinternational.com/article/sante-un-premier-cas-d-ebola-identifie-en-france_245665"
+          "take": "Macron reconnaît que les mesures d'adaptation climatique existantes demeurent insuffisantes face aux pics de canicule inédits.",
+          "url": "https://www.franceinfo.fr/environnement/crise-climatique/canicule-un-gros-travail-a-ete-fait-assure-emmanuel-macron_8080001.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 15,
@@ -449,21 +445,21 @@
     },
     {
       "themes": [
-        "Économie",
-        "Environnement"
+        "Santé",
+        "France"
       ],
-      "title": "Trois réacteurs nucléaires français arrêtés en raison de la canicule",
-      "full": "EDF a procédé à l'arrêt de trois réacteurs nucléaires en France face aux températures extrêmes. Après la centrale de Golfech (Tarn-et-Garonne), le groupe a interrompu la production aux sites du Bugey (Ain) et de Nogent-sur-Seine (Aube). Ces arrêts, motivés par les difficultés à refroidir les installations par temps de canicule, affectent la capacité de production d'électricité du pays. EDF adapte également sa production sur d'autres centrales.",
+      "title": "Paris interdit la consommation d'alcool sur voie publique face à la canicule",
+      "full": "La préfecture de police de Paris a annoncé jeudi l'interdiction de la consommation d'alcool sur la voie publique à partir de vendredi midi, ainsi que l'interdiction de la vente d'alcool à partir de 18 heures. Cette mesure répond à la saturation des hôpitaux parisiens causée par la canicule, le préfet estimant que les établissements approchent de leurs limites d'accueil.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Insiste sur la succession des arrêts, en particulier les deux nouveaux réacteurs immobilisés après celui de Golfech.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/trois-reacteurs-nucleaires-sont-a-l-arret-en-france-en-raison-des-fortes-chaleurs_8079206.html#xtor=RSS-3-[lestitres]"
+          "take": "Le préfet évoque une « saturation » des établissements hospitaliers tout en précisant qu'ils ne sont pas « dépassés ».",
+          "url": "https://www.franceinfo.fr/france/ile-de-france/paris/paris/alerte-canicule-a-paris-la-consommation-d-alcool-sur-la-voie-publique-interdite-des-vendredi-midi-face-a-la-saturation-des-hopitaux_8079929.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "Le Figaro Éco",
-          "take": "Souligne qu'EDF ne se limite pas aux arrêts complets et ajuste aussi sa production sur plusieurs autres sites pour gérer la crise.",
-          "url": "https://www.lefigaro.fr/conjoncture/canicule-edf-arrete-deux-autres-reacteurs-a-nogent-sur-seine-et-au-bugey-20260625"
+          "outlet": "20 Minutes",
+          "take": "L'interdiction de l'alcool a été décidée en réaction directe à la situation de saturation hospitalière constatée à Paris.",
+          "url": "https://www.20minutes.fr/societe/4231290-20260625-canicule-paris-consommation-alcool-interdite-partir-vendredi-midi-annonce-prefet?at_medium=display&at_campaign=149"
         }
       ],
       "id": 16,
@@ -471,20 +467,20 @@
     },
     {
       "themes": [
-        "Sport"
+        "France"
       ],
-      "title": "Le ski-alpinisme confirmé aux JO 2030 en France",
-      "full": "Le Comité international olympique a officiellement validé le ski-alpinisme comme sport additionnel des Jeux d'hiver de 2030, qui se dérouleront dans les Alpes françaises. Cette discipline, apparue pour la première fois au programme olympique lors des Jeux de Milan-Cortina en février dernier, sera organisée en Briançonnais. La France a remporté trois médailles en ski-alpinisme à Milan, y compris l'or en relais mixte grâce à Emily Harrop et Thibault Anselmet.",
+      "title": "Effondrement de falaise à Biarritz : fin des recherches des pompiers",
+      "full": "Les pompiers ont cessé jeudi les opérations de recherche suite à l'effondrement d'une falaise à Biarritz survenu mercredi. Le corps d'une femme a été retrouvé, mais un homme âgé de 34 ans reste porté disparu. La mairie de Biarritz prend le relais à partir de vendredi avec un drone subaquatique équipé d'un sonar capable de couvrir un rayon de 250 mètres.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Le CIO a confirmé le ski-alpinisme comme discipline additionnelle pour les JO 2030 dans les Alpes françaises, après ses débuts en Italie.",
-          "url": "https://www.lemonde.fr/sport/article/2026/06/25/jo-2030-le-ski-alpinisme-officiellement-confirme-par-le-cio-au-programme-des-jeux-d-hiver-dans-les-alpes-francaises_6714843_3242.html"
+          "outlet": "France Info",
+          "take": "La municipalité biarrote intervient avec des moyens technologiques spécialisés pour poursuivre les recherches du disparu.",
+          "url": "https://www.franceinfo.fr/faits-divers/les-pompiers-arretent-les-recherches-de-la-personne-disparue-apres-l-effondrement-de-la-falaise-a-biarritz-la-mairie-prend-le-relais_8079965.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "France Info",
-          "take": "Le ski-alpinisme a débuté aux JO 2026 et a rapporté trois médailles à la France avant sa validation pour 2030.",
-          "url": "https://www.franceinfo.fr/sports/sports-d-hiver/ski-alpinisme/le-ski-alpinisme-valide-comme-sport-additionnel-aux-jo-2030-dans-les-alpes-francaises_8079119.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "20 Minutes",
+          "take": "Le passage de relais intervient après l'arrêt des opérations de secours menées par les pompiers.",
+          "url": "https://www.20minutes.fr/faits_divers/4231285-20260625-effondrement-falaise-biarritz-pompiers-arretent-recherches-trentenaire-disparu-introuvable?at_medium=display&at_campaign=149"
         }
       ],
       "id": 17,
@@ -492,20 +488,21 @@
     },
     {
       "themes": [
-        "Société"
+        "Économie",
+        "Tech & Sciences"
       ],
-      "title": "Yann Barthès critiqué pour ses moqueries sur la canicule",
-      "full": "L'animateur de Quotidien a ironisé mardi sur les personnes vivant sous les toits qui se plaignent de la chaleur étouffante, suscitant une vague d'indignation sur les réseaux sociaux. Ses commentaires ont été perçus comme un manque de considération envers ceux qui, contrairement aux personnalités aisées ou aux ministres, ne disposent pas de climatisation pour supporter les températures caniculaires.",
+      "title": "La Direction du Trésor abandonne un modèle d'IA chinois pour biais détectés",
+      "full": "La Direction générale du Trésor a interrompu le test d'un modèle d'intelligence artificielle chinois, baptisé « HéphAIstos », après la détection de réponses biaisées ou orientées chez plusieurs utilisateurs. L'outil était destiné à assister les hauts fonctionnaires dans leurs tâches quotidiennes, y compris le traitement de données sensibles ou confidentielles. Un modèle de la start-up française Mistral AI a depuis remplacé le système en question mercredi.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Le média souligne le contraste entre le plateau climatisé de l'animateur et la situation précaire des personnes vivant sous les toits, pointant un mépris social.",
-          "url": "https://www.liberation.fr/economie/social/canicule-non-yann-barthes-nous-ne-sommes-pas-tous-loges-a-la-meme-enseigne-que-bernard-arnault-et-les-ministres-20260625_H6T642OSKJH35JTTFMPLZHALDY/"
+          "outlet": "Le Figaro Éco",
+          "take": "Les agents de la Direction du Trésor ont signalé des réponses orientées ou biaisées, notamment sur des sujets relatifs à la Chine.",
+          "url": "https://www.lefigaro.fr/conjoncture/un-modele-d-ia-chinois-ecarte-par-la-direction-du-tresor-apres-des-alertes-sur-des-biais-dans-des-reponses-20260625"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "La source met l'accent sur l'ironie de Barthès face aux témoignages télévisés des difficultés liées aux températures extrêmes.",
-          "url": "https://www.20minutes.fr/arts-stars/television/4231102-20260625-canicule-tout-monde-fout-yann-barthes-moque-gens-vivant-sous-toits?at_medium=display&at_campaign=149"
+          "outlet": "Le Monde",
+          "take": "Le nouveau système retenu provient de la start-up française Mistral AI, à la différence du modèle chinois écarté.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/06/25/ia-le-test-d-un-modele-chinois-a-la-direction-generale-du-tresor-interrompu-a-cause-de-reponses-orientees-ou-biaisees_6715445_4408996.html"
         }
       ],
       "id": 18,
@@ -513,21 +510,20 @@
     },
     {
       "themes": [
-        "France",
-        "Environnement"
+        "Sport"
       ],
-      "title": "Restrictions d'eau dans le Val-d'Oise face à la demande record",
-      "full": "Depuis mardi soir, neuf communes du Val-d'Oise, concernant environ 8 300 à 12 000 habitants, sont soumises à des restrictions d'eau. Veolia, le gestionnaire du réseau, explique cette mesure par une hausse de la consommation dépassant 30 % sur le territoire, que le forage habituel ne peut satisfaire. Les communes touchées sont Magny-en-Vexin, Arthies, Gadancourt, Banthelu, Charmont, Cléry-en-Vexin, Guiry-en-Vexin, Maudétour-en-Vexin et Wy-dit-Joli-Village.",
+      "title": "L'OM change le nom de son stade pour sept ans",
+      "full": "Le Stade Vélodrome, enceinte de l'Olympique de Marseille, s'appellera désormais « CEPAC Vélodrome » pour les sept prochaines années. Ce contrat de naming remplace l'accord signé en 2016 avec l'opérateur Orange. Les deux parties n'ont pas divulgué le montant exact de cette nouvelle convention de sponsoring.",
       "angles": [
         {
-          "outlet": "L'Humanité",
-          "take": "Met l'accent sur le nombre de communes et habitants affectés par les restrictions depuis mardi soir.",
-          "url": "https://www.humanite.fr/-/-/des-restrictions-deau-dans-le-val-doise"
+          "outlet": "Libération",
+          "take": "Souligne que ni le club ni la Caisse d'épargne Provence Alpes Corse n'ont communiqué sur la valeur financière du contrat.",
+          "url": "https://www.liberation.fr/sports/football/cepac-velodrome-lom-signe-pour-sept-ans-avec-la-caisse-depargne-provence-alpes-corse-20260625_LPMRQBLMDZCOXJHDTIWRLGRECM/"
         },
         {
-          "outlet": "Sciences et Avenir",
-          "take": "Souligne l'ampleur de la hausse de consommation (30 %) et l'incapacité de l'infrastructure existante à y répondre.",
-          "url": "https://www.sciencesetavenir.fr/nature-environnement/meteo/canicule-restrictions-d-eau-pour-pres-de-12-000-habitants-du-val-d-oise_193397?xtor=RSS-15"
+          "outlet": "20 Minutes",
+          "take": "Précise que cet accord de naming court sur les sept prochaines saisons du club.",
+          "url": "https://www.20minutes.fr/sport/football/4231262-20260625-om-stade-velodrome-appellera-cepac-velodrome-7-prochaines-annees?at_medium=display&at_campaign=149"
         }
       ],
       "id": 19,
@@ -535,21 +531,20 @@
     },
     {
       "themes": [
-        "Environnement",
-        "Santé"
+        "Économie"
       ],
-      "title": "L'usage des pesticides augmente en France, surtout les PFAS",
-      "full": "L'association Générations futures a publié ses propres calculs le 25 juin montrant que l'usage des pesticides en France a augmenté de 6 % entre 2023 et 2024. Cette hausse s'inscrit dans une tendance générale à la croissance depuis 2019. Parmi les utilisations pesticides en 2024, environ 44 % concernent des substances classées cancérigènes, mutagènes, reprotoxiques, perturbatrices endocriniennes ou appartenant à la famille des « polluants éternels » (PFAS). Générations futures a comblé cette lacune faute de mise à jour récente de l'indicateur officiel par l'État, en s'appuyant sur les données de ventes et la méthodologie gouvernementale.",
+      "title": "Ryanair cède sur les frais de sièges familiaux",
+      "full": "Sous la pression du régulateur britannique de la concurrence, Ryanair a accepté de cesser de facturer l'attribution de sièges gratuits aux parents voyageant avec leurs enfants. La compagnie irlandaise imposait jusqu'à présent aux adultes de payer plus de 9 euros par trajet pour s'asseoir à côté de leurs enfants. Cette pratique faisait l'objet d'une enquête depuis deux semaines.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Souligne le rôle de Générations futures face à l'absence de mise à jour de l'indicateur historique par l'État.",
-          "url": "https://www.lemonde.fr/planete/article/2026/06/25/l-usage-des-pesticides-repart-a-la-hausse-en-france-en-particulier-les-substances-de-la-famille-des-pfas_6713391_3244.html"
+          "outlet": "Libération",
+          "take": "Ryanair abandonne les frais supplémentaires imposés aux parents souhaitant rester assis près de leurs enfants.",
+          "url": "https://www.liberation.fr/economie/transports/ryanair-dit-accepter-a-contrecoeur-dattribuer-des-sieges-gratuits-pour-les-parents-20260625_YTCGSNDQABBFXIHINHPM25WVBI/"
         },
         {
-          "outlet": "Reporterre",
-          "take": "Met l'accent sur la proportion croissante de substances dangereuses (CMR, perturbateurs endocriniens, PFAS) dans les usages pesticides.",
-          "url": "https://reporterre.net/L-usage-des-pesticides-a-augmente-de-6-en-un-an-en-particulier-les-PFAS"
+          "outlet": "Le Figaro Éco",
+          "take": "La compagnie devra cesser d'exiger la réservation d'un siège familial payant pour au moins un parent accompagnant des mineurs.",
+          "url": "https://www.lefigaro.fr/societes/ryanair-accepte-a-contrecoeur-de-ne-plus-faire-payer-les-parents-pour-s-asseoir-a-cote-de-leurs-enfants-20260625"
         }
       ],
       "id": 20,
@@ -557,20 +552,21 @@
     },
     {
       "themes": [
-        "Santé"
+        "Environnement",
+        "Économie"
       ],
-      "title": "La greffe de moelle osseuse d'Elio, 4 ans, a réussi",
-      "full": "Le petit garçon niçois atteint d'une leucémie rare a reçu sa greffe de moelle osseuse le mois dernier et son état s'améliore. L'intervention fait suite à un appel au don lancé par ses parents sur les réseaux sociaux, qui avait suscité une mobilisation exceptionnelle avec plus de 70 000 nouvelles inscriptions au registre des donneurs en quelques semaines.",
+      "title": "Canicule : la SNCF propose l'échange gratuit des billets TGV",
+      "full": "Face à une vague de chaleur intense, la SNCF autorise ses passagers à annuler ou échanger gratuitement leurs billets sur les lignes TGV Inoui et Ouigo. Le gestionnaire ferroviaire a également réduit d'environ 10 % son offre de trains en raison des conditions climatiques extrêmes, qui perturbent l'exploitation du réseau.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Le père d'Elio souligne que la famille a dépassé l'urgence médicale et appelle à renforcer la globalisation des dons de moelle osseuse.",
-          "url": "https://www.franceinfo.fr/sante/cancer/la-greffe-a-pris-se-rejouit-le-pere-d-elio-4-ans-atteint-d-un-cancer-du-sang-rare_8078795.html#xtor=RSS-3-[lestitres]"
+          "take": "La SNCF met en avant les mesures de flexibilité tarifaire tout en soulignant la réduction significative de son offre de trajets.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-raison-de-la-canicule-la-sncf-annonce-la-gratuite-de-l-echange-ou-de-l-annulation-des-trajets-en-tgv-inoui-ou-ouigo_8079488.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "Libération",
-          "take": "La mobilisation sans précédent sur les réseaux sociaux a permis de constituer rapidement un pool de donneurs potentiels pour ce cas rare.",
-          "url": "https://www.liberation.fr/societe/sante/elio-va-bien-aujourdhui-la-greffe-de-moelle-osseuse-a-reussi-pour-le-petit-garcon-atteint-dune-leucemie-rare-20260625_G675RZETMZF3FPNZM4FALZQOWI/"
+          "outlet": "Numerama",
+          "take": "L'accent est mis sur le droit d'annulation et d'échange gratuits proposé aux voyageurs confrontés à l'épisode caniculaire.",
+          "url": "https://www.numerama.com/vroom/2285149-la-sncf-autorise-lannulation-et-lechange-gratuits-des-billets-tgv-et-ouigo-face-a-la-canicule.html"
         }
       ],
       "id": 21,
@@ -578,20 +574,20 @@
     },
     {
       "themes": [
-        "Culture"
+        "Santé"
       ],
-      "title": "Netflix diffuse la saison 2 d'Avatar en prise de vues réelles",
-      "full": "Netflix a mis en ligne le 25 juin la deuxième saison de sa adaptation en prise de vues réelles d'Avatar, le dernier maître de l'air. La plateforme poursuit ses aventures autour du jeune moine nomade Aang et ses compagnons. Cette nouvelle saison représente un effort substantiel pour rester fidèle à la série animée d'origine.",
+      "title": "Canicule : des Français fuient leurs chambres pour dormir ailleurs",
+      "full": "Face aux nuits étouffantes, certains Français abandonnent leur chambre pour échapper à la chaleur. Certains optent pour dormir à l'extérieur en suivant les conseils des scouts, tandis que d'autres s'installent à la cave, où les températures peuvent être 10 degrés plus fraîches que dans les étages. Cette pratique s'étend à mesure que les logements deviennent intenables la nuit, avec des thermomètres dépassant les 30 degrés.",
       "angles": [
         {
-          "outlet": "Numerama",
-          "take": "Insiste sur le retour des personnages emblématiques et sur l'ambition épique maintenue pour cette deuxième saison.",
-          "url": "https://www.numerama.com/pop-culture/2283191-avatar-le-dernier-maitre-de-lair-une-saison-2-qui-prend-de-la-hauteur.html"
+          "outlet": "20 Minutes",
+          "take": "L'option de dormir à la belle étoile séduit davantage de Français, qui peuvent s'appuyer sur des conseils issus du mouvement scout.",
+          "url": "https://www.20minutes.fr/societe/4230965-20260625-canicule-voulez-dormir-belle-etoile-echapper-chaleur-suivez-conseils-scouts?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Souligne que Netflix a mobilisé des moyens importants pour adapter le matériau animé en format cinématographique et que le résultat s'avère satisfaisant.",
-          "url": "https://www.lemonde.fr/culture/article/2026/06/25/avatar-le-dernier-maitre-de-l-air-saison-2-sur-netflix-une-version-en-chair-et-en-os-plutot-reussie-des-aventures-du-jeune-moine-nomade-aang_6713380_3246.html"
+          "outlet": "France Info",
+          "take": "Des familles organisent leur sommeil dans les caves de leurs maisons, exploitant les différences de température significatives entre les niveaux.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/reportage-il-ne-faut-pas-avoir-peur-des-araignees-avec-la-canicule-ils-abandonnent-leur-chambre-pour-dormir-dans-leur-cave_8078744.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 22,
@@ -599,20 +595,20 @@
     },
     {
       "themes": [
-        "Économie"
+        "Culture"
       ],
-      "title": "La dette publique française dépasse les 3 500 milliards d'euros",
-      "full": "La dette publique française a atteint 3 536 milliards d'euros fin mars 2026, selon les chiffres publiés par l'Insee. Elle représente 117,5 % du produit intérieur brut, un niveau comparable à celui enregistré après la crise du Covid-19. Les perspectives d'augmentation supplémentaire demeurent préoccupantes pour les finances publiques.",
+      "title": "Le tube « Wannabe » des Spice Girls souffle ses 30 bougies",
+      "full": "Le 26 juin 1996, les Spice Girls lançaient « Wannabe », qui deviendrait l'un des plus grands succès de la musique pop. Le titre s'est immédiatement imposé en tête des classements au Royaume-Uni, aux États-Unis et dans de nombreux pays, consacrant le groupe britannique en phénomène mondial.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "L'endettement français atteint un niveau critique qui risque de continuer à se détériorer dans les mois à venir.",
-          "url": "https://www.lemonde.fr/politique/article/2026/06/25/la-dette-publique-s-envole-au-dela-de-3-500-milliards-d-euros_6713378_823448.html"
+          "outlet": "20 Minutes",
+          "take": "Souligne le caractère planétaire du succès et propose un retour sur le phénomène global incarné par le groupe.",
+          "url": "https://www.20minutes.fr/diaporama/diaporama-4231169-images-chanson-wannabe-fete-30-ans-retour-phenomene-spice-girls?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "Le Figaro Éco",
-          "take": "La dette s'élève à 117,5 % du PIB au premier trimestre 2026, illustrant une situation budgétaire structurellement problématique.",
-          "url": "https://www.lefigaro.fr/conjoncture/l-explosion-de-la-dette-publique-francaise-expliquee-en-quatre-infographies-20260625"
+          "outlet": "France Info",
+          "take": "Insiste sur l'immédiateté de l'ascension du titre aux sommets des hit-parades internationaux.",
+          "url": "https://www.franceinfo.fr/culture/musique/le-tube-des-spice-girls-wannabe-fete-ses-30-ans_8078945.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 23,
@@ -620,20 +616,21 @@
     },
     {
       "themes": [
-        "France"
+        "Environnement",
+        "Santé"
       ],
-      "title": "Un néonazi suisse engagé pour la communication du groupe RN au Parlement européen",
-      "full": "Une enquête de Mediapart révèle que la fondation des Patriotes pour l'Europe, liée au groupe parlementaire présidé par Jordan Bardella, a fait appel en février à Manuel Corchia, un activiste suisse néonazi, pour des prestations audiovisuelles. Corchia dirige le groupuscule Junge Tat, placé sous surveillance des services de renseignement. La fondation était alors gérée par deux membres du RN.",
+      "title": "Record de chaleur nocturne en France, 72 départements en vigilance rouge",
+      "full": "La canicule persiste en France jeudi, avec un nouveau record de la nuit la plus chaude jamais enregistrée dans l'Hexagone. Soixante-douze départements sont placés en vigilance rouge, une situation sans précédent. Une amélioration est attendue en soirée sur la façade atlantique. Face à ces conditions jugées « inacceptables », les syndicats d'enseignants appellent à la grève.",
       "angles": [
         {
-          "outlet": "Mediapart",
-          "take": "Un prestataire identifié comme néonazi a facturé des services de communication directement au groupe de Bardella à Bruxelles, selon des documents consultés par l'enquête.",
-          "url": "https://www.mediapart.fr/journal/politique/250626/un-prestataire-neonazi-au-service-de-la-communication-du-groupe-de-bardella-bruxelles"
+          "outlet": "France 24",
+          "take": "Insiste sur le nouveau record nocturne battu et la mobilisation des syndicats enseignants pour dénoncer les conditions de travail.",
+          "url": "https://www.france24.com/fr/france/20260625-canicule-se-poursuit-france-enfant-mort-voiture-climat-record"
         },
         {
-          "outlet": "L'Humanité",
-          "take": "L'embauche révèle un lien direct entre la fondation des Patriotes pour l'Europe et un activiste d'extrême-droite surveillé par les autorités.",
-          "url": "https://www.humanite.fr/politique/extreme-droite/un-neonazi-employe-par-le-think-tank-du-groupe-du-rn-au-parlement-europeen-revele-mediapart"
+          "outlet": "20 Minutes",
+          "take": "Souligne l'ampleur inédite de la vigilance rouge (72 départements) et interroge la pertinence des seuils d'alerte face à l'intensification du dérèglement climatique.",
+          "url": "https://www.20minutes.fr/planete/canicule/4230924-20260625-canicule-donnees-hallucinantes-sortent-cadre-faut-rajouter-vigilance-violette-noire?at_medium=display&at_campaign=149"
         }
       ],
       "id": 24,
@@ -641,21 +638,20 @@
     },
     {
       "themes": [
-        "Santé",
-        "France"
+        "Culture"
       ],
-      "title": "Paris enregistre une hausse anormale d'arrêts cardiaques lors de la canicule",
-      "full": "Le 24 juin, vingt-cinq arrêts cardiaques ont été enregistrés à Paris en vingt-quatre heures, soit environ 2,5 fois plus que la normale (moins de 10 habituellement), selon le cabinet de la ministre de la Santé. Cette augmentation intervient lors d'une vague de chaleur intense qui expose près de 100 millions d'Européens à des températures supérieures à 35 degrés. Les autorités sanitaires attribuent ces décès probables à l'exposition à des températures extrêmes.",
+      "title": "Netflix lance la saison 2 d'Avatar en prise de vues réelles",
+      "full": "Netflix a mis en ligne le 25 juin la deuxième saison de son adaptation en chair et en os d'« Avatar, le dernier maître de l'air ». La plateforme poursuit ses aventures autour du jeune moine nomade Aang, deux ans après le lancement de la série. Cette nouvelle saison a été élaborée en mobilisant des moyens importants pour rester fidèle à la version animée d'origine et à l'univers que les fans apprécient.",
       "angles": [
         {
-          "outlet": "L'Humanité",
-          "take": "Le gouvernement reconnaît les premiers décès imputables aux températures extrêmes et documente l'augmentation des arrêts cardiaques à Paris.",
-          "url": "https://www.humanite.fr/-/-/25-arrets-cardiaques-enregistres-a-paris-en-24-heures-contre-moins-dune-dizaine-en-temps-normal"
+          "outlet": "Le Monde",
+          "take": "L'adaptation en prises de vues réelles parvient à respecter le matériau de base et à proposer une transposition réussie de la série animée.",
+          "url": "https://www.lemonde.fr/culture/article/2026/06/25/avatar-le-dernier-maitre-de-l-air-saison-2-sur-netflix-une-version-en-chair-et-en-os-plutot-reussie-des-aventures-du-jeune-moine-nomade-aang_6713380_3246.html"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "La vague de chaleur touche un continent entier et provoque une multiplication observable des cas critiques dans les centres urbains.",
-          "url": "https://www.20minutes.fr/planete/canicule/4231078-20260625-direct-canicule-journee-annonce-encore-suffocante-avant-debut-amelioration-soiree?at_medium=display&at_campaign=149"
+          "outlet": "Numerama",
+          "take": "La saison 2 représente le retour de la franchise deux ans après ses débuts, avec de nouvelles aventures aux enjeux épiques.",
+          "url": "https://www.numerama.com/pop-culture/2283191-avatar-le-dernier-maitre-de-lair-une-saison-2-qui-prend-de-la-hauteur.html"
         }
       ],
       "id": 25,
@@ -663,174 +659,25 @@
     },
     {
       "themes": [
-        "Sport",
-        "Société"
+        "Santé",
+        "Environnement"
       ],
-      "title": "Décès d'un jeune footballeur après une noyade près de Lyon",
-      "full": "Kenzo Kies, joueur de 21 ans de l'équipe réserve de l'En Avant Guingamp, est décédé deux jours après s'être noyé lundi dans le Rhône, près de Lyon, dans une zone de baignade interdite. Le footballeur, qui avait également porté les couleurs de l'Olympique Lyonnais et de l'AS Saint-Etienne, était en état de mort cérébrale depuis son accident.",
+      "title": "Canicule : les hôpitaux parisiens saturés, rafraîchissement attendu",
+      "full": "La France connaît jeudi 25 juin une vague de chaleur intense, avec des températures approchant les 40 °C dans une grande partie du territoire. À Paris, les hôpitaux signalent une saturation de leurs services liée à cette situation. Un rafraîchissement progressif devrait intervenir à partir du week-end, en commençant par l'ouest du pays.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Souligne le parcours du joueur dans plusieurs clubs professionnels avant sa noyade lors d'une période de canicule.",
-          "url": "https://www.20minutes.fr/sport/football/4231076-20260625-canicule-victime-noyade-pres-lyon-jeune-footballeur-guingamp-decede?at_medium=display&at_campaign=149"
+          "outlet": "Libération",
+          "take": "Met l'accent sur le pic de températures et le maintien de 72 départements en vigilance rouge avant une amélioration progressive.",
+          "url": "https://www.liberation.fr/environnement/en-direct-canicule-le-pic-depasse-mais-encore-72-departements-en-vigilance-rouge-ce-jeudi-20260625_COQYICRPXRCP7ESAJG6XVYRGXQ/"
         },
         {
-          "outlet": "France Info",
-          "take": "Rapporte les deux jours écoulés entre l'accident et son décès, durant lesquels le joueur était déclaré en mort cérébrale.",
-          "url": "https://www.franceinfo.fr/sports/foot/foot-un-jeune-joueur-de-l-equipe-reserve-de-guingamp-decede-deux-jours-apres-s-etre-noye-dans-le-rhone_8078393.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "20 Minutes",
+          "take": "Souligne l'ampleur européenne de la vague (près de 100 millions d'Européens concernés) et les impacts sanitaires documentés (augmentation des arrêts cardiaques à Paris).",
+          "url": "https://www.20minutes.fr/planete/canicule/4231078-20260625-direct-canicule-pres-100-millions-europeens-sous-plus-35-arrets-cardiaques-multiplies-2-5-paris?at_medium=display&at_campaign=149"
         }
       ],
       "id": 26,
       "priority": 27
-    },
-    {
-      "themes": [
-        "Sport"
-      ],
-      "title": "Coupe du monde 2026 : le Brésil remporte le groupe C",
-      "full": "Le Brésil a remporté la poule C de la Coupe du monde 2026 en battant l'Écosse 3-0, devançant le Maroc qui a vaincu Haïti 4-2. Neymar a marqué son retour avec la sélection brésilienne. Plusieurs équipes se sont qualifiées pour les seizièmes de finale lors de cette troisième journée, tandis que d'autres compétitions de groupes déterminent encore leurs premiers et seconds places.",
-      "angles": [
-        {
-          "outlet": "20 Minutes",
-          "take": "Le Brésil termine premier de son groupe devant le Maroc, qui pourrait affronter les Pays-Bas en seizièmes de finale.",
-          "url": "https://www.20minutes.fr/sport/football/4231039-20260624-direct-bresil-maroc-luttent-distance-premiere-place-groupe-3e-journee-decisive-suivre?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "France Info",
-          "take": "L'Allemagne, déjà qualifiée et première de sa poule, affronte l'Équateur tandis que plusieurs nouveaux qualifiés se dessinent à travers les groupes.",
-          "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-la-cote-d-ivoire-en-quete-d-une-qualification-historique-les-pays-bas-le-japon-et-la-suede-visent-la-premiere-place-de-leur-groupe_8077685.html#xtor=RSS-3-[lestitres]"
-        }
-      ],
-      "id": 27,
-      "priority": 28
-    },
-    {
-      "themes": [
-        "Économie"
-      ],
-      "title": "Les soldes d'été attirent les consommateurs dans les centres commerciaux",
-      "full": "Depuis l'ouverture des soldes d'été le 24 juin, la fréquentation des centres commerciaux connaît une hausse, dopée par les fortes températures et les réductions proposées. Les enseignes de l'électroménager, de l'informatique et du multimédia participent massivement à l'opération commerciale avec des milliers de produits en promotion.",
-      "angles": [
-        {
-          "outlet": "France Info",
-          "take": "Les vagues de chaleur caniculaires incitent les consommateurs à chercher refuge climatisé dans les galeries marchandes pendant la période des soldes.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/les-fortes-temperatures-et-les-soldes-d-ete-entrainent-une-hausse-de-frequentation-des-centres-commerciaux_8077703.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Numerama",
-          "take": "Le secteur technologique propose des réductions substantielles chez les principaux distributeurs (Fnac, Boulanger, Amazon) pendant ces soldes d'été.",
-          "url": "https://www.numerama.com/tech/2283185-soldes-dete-2026-les-premieres-offres-vraiment-interessantes-sont-la-en-direct.html"
-        }
-      ],
-      "id": 28,
-      "priority": 29
-    },
-    {
-      "themes": [
-        "Économie"
-      ],
-      "title": "Renault prévoit 800 départs volontaires d'ingénieurs d'ici 2027",
-      "full": "Le constructeur automobile Renault a annoncé un plan de réorganisation de son pôle ingénierie prévoyant 800 départs volontaires d'ici à fin 2027, principalement en Île-de-France. Cette restructuration s'inscrit dans la réponse du groupe à la concurrence chinoise. Parallèlement, Renault entend recruter 150 à 200 ingénieurs en CDI, notamment dans les domaines du logiciel et de l'électrification.",
-      "angles": [
-        {
-          "outlet": "Le Monde",
-          "take": "Renault remodèle son ingénierie face à la pression concurrentielle asiatique, avec une concentration des départs en région parisienne.",
-          "url": "https://www.lemonde.fr/economie/article/2026/06/24/renault-annonce-800-departs-volontaires-d-ici-2027-parmi-ses-ingenieurs-en-france-pour-faire-face-a-la-concurrence-chinoise_6713229_3234.html"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Le groupe articule le plan autour d'un double mouvement : réduction d'effectifs compensée par des embauches en compétences numériques et électriques.",
-          "url": "https://www.franceinfo.fr/economie/automobile/renault/le-groupe-renault-annonce-un-plan-de-departs-volontaires-concernant-800-ingenieurs-en-france-d-ici-fin-2027_8078207.html#xtor=RSS-3-%5Bgeneral%5D"
-        }
-      ],
-      "id": 29,
-      "priority": 30
-    },
-    {
-      "themes": [
-        "Santé",
-        "Environnement"
-      ],
-      "title": "Les hôpitaux français souffrent de la canicule, opérations reportées",
-      "full": "Lors de la vague de chaleur actuelle, de nombreux établissements hospitaliers français connaissent des dysfonctionnements majeurs. Les chambres dépassent régulièrement les 30 degrés, certaines atteignant 40 degrés, faute de climatisation adaptée. Ces conditions obligent les hôpitaux à déprogrammer des interventions chirurgicales et compliquent la prise en charge des patients. Le problème est structurel : la majorité des bâtiments hospitaliers, anciens, n'ont pas été conçus pour supporter de telles températures.",
-      "angles": [
-        {
-          "outlet": "France Info",
-          "take": "Médecins et patients expriment leur mécontentement face aux défaillances climatiques des hôpitaux et aux conséquences sur les soins.",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/absence-de-clim-operations-deprogrammees-36-degres-dans-les-chambres-la-colere-des-patients-et-du-personnel-hospitalier-face-a-la-canicule_8078219.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "L'obsolescence des infrastructures hospitalières rend les patients particulièrement vulnérables aux fortes chaleurs et expose des failles d'adaptation.",
-          "url": "https://www.lemonde.fr/sante/article/2026/06/24/les-batiments-hospitaliers-encore-largement-inadaptes-nous-avons-des-chambres-a-40-degres-les-conditions-sont-tres-difficiles_6713222_1651302.html"
-        }
-      ],
-      "id": 30,
-      "priority": 31
-    },
-    {
-      "themes": [
-        "France",
-        "Économie"
-      ],
-      "title": "L'Assemblée adopte le texte contre l'ultrafast-fashion",
-      "full": "L'Assemblée nationale a voté la proposition de loi visant à encadrer les plateformes de vente rapide asiatiques comme Shein et Temu. Le texte instaure un malus pouvant atteindre 20 euros par article et interdit leur publicité. Les députés de gauche se sont abstenus, estimant que les mesures manquaient d'ambition. Le Sénat doit se prononcer en définitive lundi prochain.",
-      "angles": [
-        {
-          "outlet": "Le Monde",
-          "take": "La proposition vise explicitement les plateformes asiatiques et institue des pénalités financières, tandis que l'opposition de gauche souligne que le texte n'est qu'une version affaiblie des ambitions initiales.",
-          "url": "https://www.lemonde.fr/politique/article/2026/06/24/l-assemblee-nationale-adopte-la-proposition-de-loi-contre-l-ultrafast-fashion-derniere-etape-au-senat-lundi_6713220_823448.html"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Le vote ouvre la voie à une adoption définitive rapide au Sénat, prévue dès lundi.",
-          "url": "https://www.franceinfo.fr/culture/mode/l-assemblee-adopte-un-texte-ciblant-l-ultra-fast-fashion-les-deputes-de-gauche-s-abstiennent_8078882.html#xtor=RSS-3-[lestitres]"
-        }
-      ],
-      "id": 31,
-      "priority": 32
-    },
-    {
-      "themes": [
-        "Sport"
-      ],
-      "title": "Guy Stéphan et Franck Raviot évoquent l'héritage de Deschamps",
-      "full": "L'entraîneur adjoint Guy Stéphan et l'entraîneur des gardiens Franck Raviot reviennent sur les moments marquants de leur collaboration avec Didier Deschamps à la tête de l'équipe de France. Entre les barrages qualificatifs de 2013, les attentats de 2015 et le titre mondial de 2018, les deux techniciens témoignent de leur parcours aux côtés du sélectionneur français.",
-      "angles": [
-        {
-          "outlet": "20 Minutes",
-          "take": "L'actualité des Bleus avant la Coupe du monde 2026 aux États-Unis, avec les ajustements d'effectifs et les conditions de préparation.",
-          "url": "https://www.20minutes.fr/sport/football/4231068-20260625-coupe-monde-2026-guy-stephan-manettes-changements-norvege-journal-bleus?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Les deux adjoints de Deschamps partagent leurs souvenirs des épreuves et victoires collectives qui ont marqué leur mandat commun.",
-          "url": "https://www.franceinfo.fr/coupe-du-monde/franck-raviot-et-guy-stephan-reviennent-sur-les-moments-forts-du-mandat-de-didier-deschamps_8078126.html#xtor=RSS-3-%5Bgeneral%5D"
-        }
-      ],
-      "id": 32,
-      "priority": 33
-    },
-    {
-      "themes": [
-        "Tech & Sciences"
-      ],
-      "title": "Un astéroïde observable à l'œil armé ce vendredi",
-      "full": "L'astéroïde (152637) 1997 NC1 passera près de la Terre vendredi 27 juin et sera visible depuis l'hémisphère Nord à l'aide de jumelles ou d'un télescope. Découvert il y a environ trente ans, cet événement astronomique ne présente aucun risque de collision. Son approche constitue une occasion rare pour les observateurs du ciel.",
-      "angles": [
-        {
-          "outlet": "Numerama",
-          "take": "Insiste sur le caractère observable de l'événement et son absence de danger, présenté comme un événement astronomique rare.",
-          "url": "https://www.numerama.com/sciences/2285143-sortez-les-jumelles-un-asteroide-va-passer-pres-de-la-terre-ce-weekend-et-on-pourra-le-voir.html"
-        },
-        {
-          "outlet": "Sciences et Avenir",
-          "take": "Précise la période d'observation optimale depuis les régions septentrionales.",
-          "url": "https://www.sciencesetavenir.fr/espace/systeme-solaire/un-gros-asteroide-va-passer-a-proximite-de-la-terre-le-27-juin_193384?xtor=RSS-9"
-        }
-      ],
-      "id": 33,
-      "priority": 34
     }
   ]
 }
