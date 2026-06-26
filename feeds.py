@@ -67,11 +67,19 @@ FEEDS = [
     ("Politis",              "https://www.politis.fr/flux-rss-apps/",                         "Société"),
 
     # --- Insolite ---
-    # 20 Minutes Insolite est un flux dédié qui fonctionne. En complément,
-    # l'IA (summarize.py) classe aussi en « Insolite » les sujets légers et
-    # étonnants repérés dans les flux généralistes — ce qui aide au recoupement
-    # (règle des 2 sources) et garantit du contenu même les jours creux.
+    # 20 Minutes Insolite est un flux dédié qui fonctionne. En complément, on
+    # ajoute d'autres flux au ton léger ou décalé. L'IA (summarize.py) confirme
+    # le classement : un sujet grave repéré dans ces flux (ex. un fait divers
+    # dramatique) est reclassé dans sa thématique sérieuse, jamais en « Insolite ».
+    # Le backend ignore proprement un flux mort : ces sources seront vérifiées
+    # dans la durée (seul le comportement en production fait foi), et élaguées
+    # si elles ne remontent rien.
     ("20 Minutes Insolite",  "https://www.20minutes.fr/feeds/rss-insolite.xml",               "Insolite"),
+    ("20 Minutes Tempo",     "https://www.20minutes.fr/feeds/rss-tempo.xml",                  "Insolite"),
+    ("France Info Faits divers", "https://www.franceinfo.fr/faits-divers.rss",               "Insolite"),
+    ("Slate",                "https://www.slate.fr/rss.xml",                                 "Insolite"),
+    ("Le Parisien Insolite", "https://feeds.leparisien.fr/leparisien/rss/insolite",          "Insolite"),
+    ("Sciences et Avenir Insolite", "https://www.sciencesetavenir.fr/insolite/rss.xml",      "Insolite"),
 ]
 
 # Mapping des thèmes "Général" vers les thématiques Brève se fait à l'étape IA,
