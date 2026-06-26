@@ -213,7 +213,16 @@ def build_breves(dossiers: list[Dossier], limit: int = 50,
     client = _client()
     out = []
     per_theme_count: dict[str, int] = {}
-    eligible = [d for d in dossiers if len(d.outlets) >= min_sources]
+    # Règle des sources : on exige « min_sources » médias pour tous les thèmes,
+    # ce qui garantit pluralité et fiabilité. EXCEPTION pour « Insolite » : ces
+    # sujets légers (record, anecdote, fait curieux) sont rarement repris par
+    # plusieurs médias le même jour ; les écarter ferait disparaître le thème.
+    # On les autorise donc avec une seule source. C'est sans risque de pluralité
+    # politique (sujets non sensibles) et fidèle à l'esprit de Brève.
+    eligible = [
+        d for d in dossiers
+        if len(d.outlets) >= min_sources or d.theme == "Insolite"
+    ]
 
     for d in eligible:
         if len(out) >= limit:
