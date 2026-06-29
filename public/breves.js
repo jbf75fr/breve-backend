@@ -1,32 +1,42 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-06-28T07:43:45.721544+00:00
+// 2026-06-29T04:03:01.608918+00:00
 const ARTICLES = [
   {
     "themes": [
       "Monde"
     ],
-    "title": "États-Unis et Iran échangent de nouvelles frappes, le cessez-le-feu fragilisé",
-    "full": "Pour la deuxième nuit consécutive, les États-Unis et l'Iran ont violé le cessez-le-feu signé le 17 juin. L'aviation américaine a bombardé dix cibles en Iran samedi soir en représailles à une attaque contre un pétrolier dans le détroit d'Ormuz. Les Gardiens de la Révolution iraniens ont répliqué dimanche à l'aube en lançant des missiles et des drones vers le Koweït et Bahreïn. Téhéran a promis une « riposte implacable » en cas de nouvelle agression, tandis que Donald Trump a menacé d'« anéantir » l'Iran, alimentant les craintes d'une escalade.",
+    "title": "États-Unis et Iran conviennent de suspendre leurs attaques mutuelles",
+    "full": "Les États-Unis et l'Iran ont annoncé dimanche une suspension mutuelle de leurs frappes respectives, après deux nuits d'échanges de tirs qui ont violé le cessez-le-feu du 17 juin. L'armée américaine avait bombardé dix cibles iraniennes samedi en représailles à une attaque de drone contre un pétrolier dans le détroit d'Ormuz, avant que Téhéran ne riposte en lançant missiles et drones vers le Koweït et Bahreïn. Le contrôle du détroit d'Ormuz reste au cœur des tensions régionales, l'Iran affirmant dimanche que sa gestion relève de sa seule responsabilité.",
     "angles": [
       {
+        "outlet": "20 Minutes",
+        "take": "Les deux puissances acceptent de cesser les hostilités et de se reparler après un cycle d'attaques réciproques.",
+        "url": "https://www.20minutes.fr/monde/etats-unis/4231651-20260629-guerre-moyen-orient-iran-etats-unis-accepte-reparler-cesser-attaques?at_medium=display&at_campaign=149"
+      },
+      {
         "outlet": "France Info",
-        "take": "Insiste sur la promesse iranienne de riposte immédiate en cas de nouvelle attaque américaine.",
+        "take": "L'Iran avertit que toute ingérence étrangère dans le contrôle du détroit risque d'aggraver les tensions.",
         "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-et-l-iran-echangent-de-nouvelles-frappes-dans-la-nuit-teheran-promet-une-riposte-implacable-en-cas-de-nouvelle-agression_8083397.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Souligne la fureur de Trump face aux tensions dans le détroit d'Ormuz et ses menaces explicites contre Téhéran.",
-        "url": "https://www.20minutes.fr/monde/etats-unis/4231591-20260628-guerre-moyen-orient-furieux-tensions-ormuz-trump-dit-pret-aneantir-iran-teheran-riposte?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Téhéran affirme sa responsabilité exclusive sur la gestion du trafic maritime du détroit d'Ormuz.",
+        "url": "https://www.lemonde.fr/international/article/2026/06/28/detroit-d-ormuz-l-iran-menace-les-navires-tentes-de-contourner-son-itineraire_6716587_3210.html"
+      },
+      {
+        "outlet": "Libération",
+        "take": "L'Iran a lancé de nouveaux missiles et drones contre le Koweït et Bahreïn en réaction aux frappes américaines.",
+        "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-nouvel-echange-de-frappes-entre-les-etats-unis-et-liran-que-trump-menace-daneantir-20260628_IHDZQQXEJJBKJJCVRBBYPAYBSQ/"
       },
       {
         "outlet": "France 24",
-        "take": "Détaille les cibles : dix objectifs iraniens visés par les États-Unis en réaction à l'attaque d'un pétrolier.",
-        "url": "https://www.france24.com/fr/moyen-orient/20260628-moyen-orient-nouvelles-frappes-etats-unis-iran-replique-koweit-bahre%C3%AFn-donald-trump"
+        "take": "Au Liban, le Hezbollah dénonce des violations du cessez-le-feu et se réserve le droit de riposter.",
+        "url": "https://www.france24.com/fr/moyen-orient/20260629-en-direct-parlement-libanais-enterre-accord-cadre-hezbollah-d%C3%A9fendre-patrie-moyen-orient-detroit-ormuz-israel-iran"
       },
       {
-        "outlet": "Courrier International",
-        "take": "Analyse la fragilisation du cessez-le-feu et le renouvellement des propos incendiaires de Trump comme facteur d'escalade.",
-        "url": "https://www.courrierinternational.com/article/moyen-orient-le-cessez-le-feu-fragilise-apres-un-nouvel-echange-de-frappes-entre-les-etats-unis-et-l-iran_245772"
+        "outlet": "L'Humanité",
+        "take": "Les deux nuits d'échanges de tirs constituent des violations du cessez-le-feu signé en juin.",
+        "url": "https://www.humanite.fr/monde/etats-unis/les-etats-unis-bombardent-liran-qui-replique-en-attaquant-bahrein-et-le-koweit-le-detroit-dormuz-au-coeur-des-tensions"
       }
     ],
     "id": 0,
@@ -36,33 +46,23 @@ const ARTICLES = [
     "themes": [
       "Sport"
     ],
-    "title": "Toulouse remporte son quatrième titre consécutif en Top 14",
-    "full": "Le Stade toulousain a remporté samedi soir la finale du championnat de France de rugby en battant Montpellier 28 à 20 au Stade de France. Cette victoire représente un quatrième titre consécutif pour le club occitan, qui consolide sa domination sur le rugby français. La rencontre a été marquée par un orage qui a provoqué une interruption du match et une résistance tardive de Montpellier.",
+    "title": "Coupe du monde 2026 : le Canada se qualifie, l'Afrique en force",
+    "full": "Le Canada s'est qualifié pour les seizièmes de finale de la Coupe du monde 2026 en battant l'Afrique du Sud sur le score de 1 à 0 grâce à un but de Stephen Eustaquio marqué dans le temps additionnel. Il s'agit d'une qualification historique pour la sélection canadienne. Parallèlement, neuf équipes africaines sur dix se sont qualifiées pour les seizièmes, un ratio sans précédent qui souligne la progression remarquable du football africain dans cette compétition.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Met l'accent sur la difficulté de la rencontre, perturbée par les conditions météorologiques et la réaction tardive des Montpelliérains.",
-        "url": "https://www.franceinfo.fr/sports/rugby/top-14/malgre-l-interruption-due-a-l-orage-le-stade-toulousain-remporte-son-quatrieme-titre-de-rang-en-top-14-en-battant-montpellier20_8083067.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "Souligne que Toulouse a dû souffrir pour remporter un quadruplé inédit dans l'histoire du club.",
-        "url": "https://www.20minutes.fr/sport/rugby/top_14/4231547-20260627-direct-stade-toulousain-montpellier-stade-grand-favori-25e-titre-champion-suivez-finale-top-14?at_medium=display&at_campaign=149"
-      },
-      {
         "outlet": "Le Monde",
-        "take": "Qualifie cette domination de « citadelle imprenable » et insiste sur la victoire face aux éléments déchaînés.",
-        "url": "https://www.lemonde.fr/sport/article/2026/06/28/le-stade-toulousain-citadelle-imprenable-du-rugby-francais-s-offre-un-quadruple-historique-en-top-14-sous-l-orage_6716476_3242.html"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Interprète ce quatrième titre comme le symptôme d'une domination écrasante du club à l'échelle nationale.",
-        "url": "https://www.liberation.fr/sports/rugby/finale-du-top-14-toulouse-reste-sur-le-trone-du-rugby-francais-20260628_RJNKLQX52ZF35BACJHJ5WCZBAM/"
+        "take": "Met l'accent sur le caractère historique de la qualification canadienne obtenue au terme d'un match serré face à l'Afrique du Sud.",
+        "url": "https://www.lemonde.fr/sport/article/2026/06/29/coupe-du-monde-2026-le-canada-premier-qualifie-pour-les-huitiemes-de-finale-apres-avoir-elimine-in-extremis-l-afrique-du-sud_6716594_3242.html"
       },
       {
         "outlet": "France 24",
-        "take": "Mentionne spécifiquement Antoine Dupont, figure clé des coéquipiers vainqueurs.",
-        "url": "https://www.france24.com/fr/sports/20260628-le-stade-toulousain-remporte-un-quatri%C3%A8me-titre-de-champion-de-france-cons%C3%A9cutif"
+        "take": "Souligne l'exploit collectif de l'Afrique avec neuf équipes qualifiées sur dix, meilleur ratio parmi toutes les confédérations.",
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260628-mondial-2026-9-sur-10-meilleur-ratio-par-conf%C3%A9d%C3%A9ration-pour-l-afrique"
+      },
+      {
+        "outlet": "Courrier International",
+        "take": "Interprète cette performance africaine comme le signe d'une progression fulgurante du football du continent.",
+        "url": "https://www.courrierinternational.com/article/football-neuf-qualifies-sur-dix-pour-l-afrique-une-coupe-du-monde-deja-historique_245776"
       }
     ],
     "id": 1,
@@ -70,30 +70,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "France"
     ],
-    "title": "Double séisme au Venezuela : près de 7 millions de personnes affectées",
-    "full": "Deux tremblements de terre, de magnitude 7,2 et 7,5, ont frappé mercredi une région proche de Caracas au Venezuela. Le bilan provisoire s'élève à environ 1 500 morts et 50 000 disparus, tandis que l'ONU estime que près de sept millions de personnes sont affectées par cette catastrophe, dont deux millions dans la capitale. Face à l'incapacité de l'État à intervenir, l'aide internationale a commencé à arriver sur place.",
+    "title": "Nouvelle-Calédonie : aucune majorité au Congrès après les provinciales",
+    "full": "Les élections provinciales du 28 juin en Nouvelle-Calédonie ont redessiné les rapports de force politique sans dégager de majorité claire au Congrès territorial. Sonia Backès et les non-indépendantistes remportent une victoire nette en province Sud, tandis que les indépendantistes conservent le Nord et les îles Loyauté malgré leurs divisions internes. Le petit parti modéré L'Eveil océanien devient l'arbitre entre les deux blocs et se retrouve au cœur des négociations pour former une coalition gouvernante.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "L'ONU souligne l'ampleur de la catastrophe humanitaire avec 7 millions de personnes touchées, particulièrement dans l'agglomération de Caracas.",
-        "url": "https://www.franceinfo.fr/monde/venezuela/pres-de-7-millions-de-personnes-sont-affectees-par-les-deux-seismes-qui-ont-frappe-le-venezuela-estiment-les-nations-unies_8082839.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Précise les magnitudes respectives des deux séismes survenus en fin d'après-midi mercredi.",
-        "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/"
-      },
-      {
-        "outlet": "Le Figaro International",
-        "take": "Rapporte l'arrivée de l'aide américaine en réponse à la catastrophe.",
-        "url": "https://www.lefigaro.fr/international/seismes-au-venezuela-au-moins-920-morts-50-000-disparus-l-aide-americaine-arrive-20260627"
+        "outlet": "Le Monde",
+        "take": "Sonia Backès obtient la majorité absolue en province Sud mais n'emporte pas le Congrès, où L'Eveil océanien devient faiseur de rois.",
+        "url": "https://www.lemonde.fr/politique/article/2026/06/28/nouvelle-caledonie-entre-la-poussee-loyaliste-et-la-recomposition-des-independantistes-aucune-majorite-ne-se-degage-au-congres_6716590_823448.html"
       },
       {
         "outlet": "Mediapart",
-        "take": "Met l'accent sur la défaillance de l'État vénézuélien face à la crise et l'afflux consécutif de secours internationaux.",
-        "url": "https://www.mediapart.fr/journal/international/270626/apres-le-double-seisme-meurtrier-la-population-venezuelienne-est-desemparee-face-la-defaillance-de"
+        "take": "Deux ans après les révoltes de mai 2024, les indépendantistes divisés conservent le Nord et les îles Loyauté face à la progression des anti-indépendantistes.",
+        "url": "https://www.mediapart.fr/journal/politique/280626/nouvelle-caledonie-les-elections-provinciales-redessinent-les-rapports-de-force-politiques"
+      },
+      {
+        "outlet": "France 24",
+        "take": "La participation électorale est en recul lors de ce scrutin décisif qui intervient plus de deux ans après les violences meurtrières de mai 2024.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260628-nouvelle-cal%C3%A9donie-les-loyalistes-largement-en-t%C3%AAte-en-province-sud"
+      },
+      {
+        "outlet": "L'Humanité",
+        "take": "L'avenir du pays se décidera au Congrès, où les indépendantistes du FLNKS restent affaiblis par leurs divisions malgré la conservation de deux provinces.",
+        "url": "https://www.humanite.fr/monde/decolonisation/elections-provinciales-en-kanaky-nouvelle-caledonie-une-victoire-en-trompe-loeil-pour-la-droite-anti-independantiste"
       }
     ],
     "id": 2,
@@ -101,26 +101,35 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé",
-      "Environnement"
+      "Société"
     ],
-    "title": "Une canicule exceptionnelle cause environ 1 000 décès supplémentaires en France",
-    "full": "Santé publique France a dénombré environ 1 000 décès de plus que la normale depuis mercredi en raison de la canicule qui frappe le pays. Les personnes de 65 ans et plus représentent 85 % de ces décès, bien que tous les groupes d'âges soient affectés. Alors que la chaleur commence à refluer, avec seulement deux départements alsaciens restant en vigilance rouge dimanche, les autorités sanitaires avertissent que le bilan réel risque de s'alourdir en raison des effets à retardement sur l'organisme. Les hôpitaux restent sous forte tension.",
+    "title": "Crash d'avion près de Nancy : 11 morts lors d'un baptême de parachutisme",
+    "full": "Un avion transportant un groupe de baptême de parachutisme s'est écrasé dimanche 28 juin à Tomblaine, près de Nancy, en Meurthe-et-Moselle. Les onze victimes sont le pilote, cinq moniteurs et cinq élèves parachutistes. Aucune victime n'a été enregistrée parmi les habitants des alentours. Les causes de cet accident, survenu peu après le décollage, restent à déterminer. Le pôle accidents collectifs du parquet de Paris a ouvert une enquête.",
     "angles": [
       {
+        "outlet": "20 Minutes",
+        "take": "Souligne que le crash s'est produit près d'habitations malgré une météo jugée clémente.",
+        "url": "https://www.20minutes.fr/faits_divers/4231623-20260628-sait-crash-avion-fait-onze-morts-pres-nancy?at_medium=display&at_campaign=149"
+      },
+      {
         "outlet": "France Info",
-        "take": "Santé publique France précise que la mortalité supplémentaire touche principalement les personnes âgées de 65 ans et plus, qui représentent 85 % des décès.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-la-vigilance-rouge-ne-concerne-plus-que-le-haut-et-le-bas-rhin-45-departements-toujours-en-orange-apres-une-nuit-d-orages_8083376.html#xtor=RSS-3-[lestitres]"
+        "take": "Précise que parmi les victimes figuraient des infirmiers et que l'enquête devra élucider la soudaineté de la chute.",
+        "url": "https://www.franceinfo.fr/faits-divers/accident/crash-aerien-mortel-pres-de-nancy-11-personnes-decedees-lors-d-un-bapteme-de-parachutisme_8084099.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Confirme l'absence de victimes collatérales et l'intervention du parquet de Paris.",
+        "url": "https://www.lemonde.fr/societe/article/2026/06/28/un-avion-civil-s-ecrase-en-meurthe-et-moselle-onze-morts_6716564_3224.html"
       },
       {
         "outlet": "Libération",
-        "take": "Malgré le reflux progressif de la chaleur, les effets à retardement de la canicule maintiennent les hôpitaux sous forte tension et laissent craindre une surmortalité accrue.",
-        "url": "https://www.liberation.fr/environnement/en-direct-canicule-les-autorites-sanitaires-ont-deja-recense-environ-1-000-deces-de-plus-que-la-normale-depuis-mercredi-20260628_7KW4YGO4HJBGJLBLDZHHDP4GJM/"
+        "take": "Note que la cause de l'accident demeure inconnue au moment du bilan.",
+        "url": "https://www.liberation.fr/societe/le-crash-dun-avion-de-tourisme-en-meurthe-et-moselle-fait-11-morts-20260628_5WEZM33NYVALNOYNLSY3OF7QA4/"
       },
       {
         "outlet": "France 24",
-        "take": "L'agence de santé publique indique que le bilan définitif sera voué à s'alourdir au-delà des 1 000 décès actuellement enregistrés.",
-        "url": "https://www.france24.com/fr/france/20260628-en-direct-d%C3%A9j%C3%A0-environ-1-000-d%C3%A9c%C3%A8s-de-plus-que-la-normale-recens%C3%A9s-depuis-mercredi"
+        "take": "Rappelle que l'accident s'est déroulé sous les yeux des proches des victimes.",
+        "url": "https://www.france24.com/fr/france/20260628-france-onze-personnes-d%C3%A9c%C3%A8dent-lors-d-un-bapt%C3%AAme-de-parachutisme-pr%C3%A8s-de-nancy"
       }
     ],
     "id": 3,
@@ -128,30 +137,31 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Environnement",
+      "Santé"
     ],
-    "title": "Coupe du monde 2026 : fin de phase de groupes, 32 équipes qualifiées",
-    "full": "La phase de groupes de la Coupe du monde 2026 s'est achevée samedi avec la qualification des 32 équipes pour les seizièmes de finale. L'Angleterre a terminé en tête de son groupe en dominant le Panama (2-0), tandis que la Croatie a assuré la deuxième place en battant le Ghana (2-1). Lors de la dernière rencontre, l'Algérie et l'Autriche se sont partagé les points sur un match nul rocambolesque (3-3), permettant aux deux sélections de se qualifier.",
+    "title": "La canicule a provoqué environ 1 000 décès supplémentaires en France",
+    "full": "Santé publique France a publié un premier bilan de la vague de chaleur qui s'est achevée : environ 1 000 décès supplémentaires ont été enregistrés depuis mercredi dernier comparé aux mois précédents. L'agence sanitaire précise que ces données sont « partielles » et « sous-estiment le nombre total de décès », le décompte définitif prenant plusieurs semaines. La surmortalité a notamment touché les personnes âgées et s'est manifestée par une hausse des décès à domicile. Les professionnels de santé mobilisés sur le terrain restent sous forte pression face aux risques de décès additionnels dans les jours à venir.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Modric et la Croatie ont livré une prestation déterminante face au Ghana pour conserver leurs espoirs en huitièmes de finale.",
-        "url": "https://www.20minutes.fr/sport/football/4231531-20260627-direct-coupe-monde-2026-angleterre-doit-rassurer-croatie-danger-suivez-3e-journee-decisive-groupe-22h30?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "Les chiffres de Santé publique France sont actuellement partiels et devraient être révisés à la hausse dans les prochaines semaines.",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/environ-1-000-deces-supplementaires-depuis-mercredi-quatre-questions-sur-la-surmortalite-liee-a-la-canicule-en-france_8083529.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "Le Monde",
-        "take": "Le samedi 27 juin a marqué des résultats variés incluant la RDC et des performances mitigées de l'Angleterre, avant l'entrée en phase éliminatoire.",
-        "url": "https://www.lemonde.fr/sport/article/2026/06/28/coupe-du-monde-2026-l-algerie-trace-sa-route-la-rdc-entre-dans-l-histoire-et-l-angleterre-galere-ce-qu-il-faut-retenir-du-samedi-27-juin_6716538_3242.html"
+        "take": "La surmortalité liée à la canicule s'observe particulièrement à domicile et les personnels soignants redoutent une aggravation.",
+        "url": "https://www.lemonde.fr/sante/article/2026/06/29/canicule-les-premiers-bilans-revelent-une-surmortalite-et-notamment-une-hausse-des-deces-a-domicile_6716697_1651302.html"
       },
       {
-        "outlet": "France 24",
-        "take": "La Croatie domine clairement son adversaire ghanéen tandis que l'Angleterre remplit son contrat face au Panama pour terminer première.",
-        "url": "https://www.france24.com/fr/sports/20260627-mondial-2026-r%C3%A9sum%C3%A9-croatie-ghana-panama-angleterre"
+        "outlet": "Courrier International",
+        "take": "Cet épisode caniculaire constitue la pire vague de chaleur ayant jamais frappé l'Europe de l'Ouest selon les autorités.",
+        "url": "https://www.courrierinternational.com/article/surmortalite-canicule-en-france-au-moins-1-000-deces-de-plus-que-les-mois-precedents-depuis-le-24-juin_245775"
       },
       {
-        "outlet": "France Info",
-        "take": "L'Angleterre et le Ghana étaient déjà assurés de la qualification avant ce dernier match, contrairement à la Croatie qui devait absolument gagner.",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/l-angleterre-acheve-le-panama-la-croatie-bat-le-ghana-pour-arracher-la-2e-place-de-son-groupe-en-phase-de-poules-de-la-coupe-du-monde_8083133.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Libération",
+        "take": "Le bilan provisoire rendu public ce dimanche témoigne d'une mortalité excédentaire déjà significative au moment où les températures commencent à redescendre.",
+        "url": "https://www.liberation.fr/environnement/canicule-environ-1-000-deces-supplementaires-ont-ete-recenses-en-france-depuis-mercredi-20260628_IJ7KPNWD2VGZHE7FAOI3OB7XBQ/"
       }
     ],
     "id": 4,
@@ -159,25 +169,31 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Santé",
+      "Environnement"
     ],
-    "title": "Coupe du monde 2026 : Deschamps de retour avec les Bleus",
-    "full": "Didier Deschamps a repris ses fonctions à la tête de l'équipe de France après la victoire contre la Norvège. Les Bleus ont effectué une séance d'entraînement de récupération samedi à Boston, à l'université de Bentley. L'équipe poursuit sa préparation aux États-Unis avant un déplacement prévu à New York, tandis que le défenseur Saliba demeure incertain pour la suite de la compétition.",
+    "title": "Canicule : plus de 1 000 décès supplémentaires en France",
+    "full": "Une vague de chaleur exceptionnelle a provoqué au moins 1 000 décès supplémentaires en France en trois jours, selon Santé publique France. Les personnes âgées de 65 ans et plus représentent 85 % des victimes. L'Organisation mondiale de la santé évalue le bilan à plus de 1 300 morts en Europe. Les autorités sanitaires avertissent que ce décompte provisoire devrait s'alourdir.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "L'équipe de France reprend son rythme habituel d'entraînement à Boston sous la direction de Deschamps, le jour après sa victoire contre la Norvège.",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/masculine/coupe-du-monde-didier-deschamps-de-retour-l-equipe-de-france-reprend-ses-habitudes-a-boston-sous-les-yeux-d-adil-rami_8083007.html#xtor=RSS-3-[lestitres]"
-      },
-      {
         "outlet": "20 Minutes",
-        "take": "Au-delà des entraînements, la brève dresse un tableau de l'actualité des Bleus aux États-Unis, incluant les détails du quotidien de l'équipe.",
-        "url": "https://www.20minutes.fr/sport/football/4231568-20260628-coupe-monde-2026-deschamps-retour-saliba-incertain-depart-new-york-journal-bleus?at_medium=display&at_campaign=149"
+        "take": "Souligne la surmortalité exceptionnelle enregistrée en quelques jours et le profil très majoritaire des victimes parmi les seniors.",
+        "url": "https://www.20minutes.fr/societe/4231600-20260628-canicule-chaleur-tue-1-000-deces-plus-normale-derniers-jours?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Courrier International",
-        "take": "À l'inverse, Steve Clarke, l'entraîneur de l'Écosse, a annoncé sa démission après l'élimination de son équipe confirmée samedi par la victoire de la Croatie.",
-        "url": "https://www.courrierinternational.com/article/football-coupe-du-monde-l-entraineur-de-l-ecosse-demissionne-apres-l-elimination-de-son-equipe_245774"
+        "outlet": "France 24",
+        "take": "Élargit le contexte européen en citant le bilan de l'OMS et précise que le bilan français reste provisoire.",
+        "url": "https://www.france24.com/fr/france/20260628-en-direct-d%C3%A9j%C3%A0-environ-1-000-d%C3%A9c%C3%A8s-de-plus-que-la-normale-recens%C3%A9s-depuis-mercredi"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Insiste sur le caractère provisoire des chiffres et les craintes d'une aggravation du bilan.",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-les-autorites-recensent-au-mois-1-000-morts-supplementaires-par-rapport-a-la-normale_8084132.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "Mediapart",
+        "take": "Critique la gestion gouvernementale de la crise, la jugeant verticale et répressive plutôt que collective.",
+        "url": "https://www.mediapart.fr/journal/france/280626/canicule-la-gestion-verticale-des-autorites-nouveau-mise-mal"
       }
     ],
     "id": 5,
@@ -185,25 +201,26 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Santé",
+      "Environnement"
     ],
-    "title": "L'Assemblée termine l'examen de la proposition de loi sur l'aide à mourir",
-    "full": "Les députés ont achevé samedi la troisième et avant-dernière lecture de la proposition de loi visant à créer un droit à l'aide à mourir. Un vote solennel est programmé mardi 30 juin à l'Assemblée nationale. Une fois approuvé, le texte devra être examiné par le Sénat avant sa lecture définitive, durant laquelle les députés ne pourront plus le modifier. La mesure constitue une promesse majeure du second quinquennat présidentiel.",
+    "title": "Fin de la vigilance rouge canicule, mais risques sanitaires persistants",
+    "full": "La vigilance rouge canicule a pris fin sur l'ensemble du territoire français lundi 29 juin, mettant un terme à la vague de chaleur décrite par Météo-France comme « la plus intense » jamais mesurée dans le pays. Vingt-deux départements restent toutefois en vigilance orange, avec des températures maximales attendues entre 34 et 37 degrés Celsius en région méditerranéenne et jusqu'à 40 degrés dans le Var. Les pompiers demeurent en état d'alerte maximale face aux risques d'incendies, plusieurs départs de feux ayant déjà été enregistrés en Haute-Loire, Loire et Allier durant le week-end.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Insiste sur les garanties de sécurité intégrées dans la version finalisée du texte après une semaine de débats.",
-        "url": "https://www.lemonde.fr/societe/article/2026/06/28/aide-a-mourir-a-l-assemblee-nationale-la-troisieme-lecture-de-la-proposition-de-loi-aboutit-a-un-texte-securise-selon-ses-partisans_6716520_3224.html"
+        "outlet": "20 Minutes",
+        "take": "Souligne que la fin de la vigilance rouge ne signifie pas la disparition des risques sanitaires liés aux fortes chaleurs.",
+        "url": "https://www.20minutes.fr/planete/canicule/4231752-20260629-direct-canicule-fin-vigilance-rouge-risques-sanitaires-demeurent?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "France Info",
-        "take": "Souligne la progression du dossier vers la concrétisation d'un nouveau droit avec le vote imminent.",
-        "url": "https://www.franceinfo.fr/societe/euthanasie/l-assemblee-fait-un-pas-de-plus-vers-la-creation-d-un-droit-a-l-aide-a-mourir-avant-un-vote-mardi_8082974.html#xtor=RSS-3-[lestitres]"
+        "take": "Insiste sur la mobilisation maximale des pompiers face à de nombreux foyers d'incendie déjà déclarés en région Auvergne-Rhône-Alpes.",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/il-n-y-a-plus-rien-plus-rien-du-tout-la-vigilance-est-maximale-en-france-apres-de-nombreux-departs-de-feux_8084138.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Rappelle que l'accès à l'aide à mourir sera soumis à des conditions et s'inscrit dans les priorités du second mandat d'Emmanuel Macron.",
-        "url": "https://www.20minutes.fr/societe/4231562-20260627-fin-vie-assemblee-fait-plus-vers-creation-droit-aide-mourir?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Précise que des températures extrêmes et des risques d'orages persistent dans plusieurs départements malgré la fin de la vigilance rouge.",
+        "url": "https://www.lemonde.fr/planete/live/2026/06/29/en-direct-canicule-la-vigilance-rouge-a-pris-fin-sur-l-ensemble-du-territoire-mais-la-chaleur-et-les-risques-d-orages-persistent_6710159_3244.html"
       }
     ],
     "id": 6,
@@ -211,25 +228,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie"
+      "Monde"
     ],
-    "title": "Le gouvernement prolonge les soldes d'été en raison de la canicule",
-    "full": "Matignon a annoncé la prolongation des soldes d'été au-delà du 21 juillet, initialement prévue comme date limite. Cette mesure répond aux demandes des commerçants pénalisés par une fréquentation en baisse due à la vague de chaleur exceptionnelle de cette semaine. Le report vise à compenser les pertes de chiffre d'affaires causées par les fortes températures qui ont découragé les clients à se rendre en magasin.",
+    "title": "Poutine affirme maîtriser la situation malgré les frappes ukrainiennes",
+    "full": "Vladimir Poutine a déclaré dimanche que la Russie traverse « une période difficile » mais a assuré pouvoir « relever les défis » et garantir sa sécurité, alors que des drones ukrainiens ont à nouveau visé des infrastructures russes. Le président russe s'est également dit prêt à poursuivre les négociations, affirmant « attendre » la visite de négociateurs américains une fois Washington moins occupé par le dossier iranien. Ces déclarations interviennent après des appels du G7, dont celle de Donald Trump estimant que Moscou devrait conclure un accord avec Kyïv.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Le gouvernement utilise cette prolongation comme un moyen de rassurer les commerçants des centres-villes affectés par la météo.",
-        "url": "https://www.franceinfo.fr/economie/commerce/le-gouvernement-annonce-la-prolongation-de-la-periode-des-soldes-d-ete-debutee-en-pleine-canicule_8082722.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "20 Minutes",
+        "take": "Met l'accent sur la confiance affichée par Poutine face aux attaques de drones contre les infrastructures russes.",
+        "url": "https://www.20minutes.fr/monde/ukraine/4231627-20260628-guerre-ukraine-voyons-problemes-jure-poutine-alors-drones-ukrainiens-touche-russie?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Le Figaro Éco",
-        "take": "Le report répond directement aux demandes des fédérations de commerçants pour compenser le manque à gagner cette semaine.",
-        "url": "https://www.lefigaro.fr/societes/canicule-les-commercants-demandent-une-prolongation-des-soldes-20260627"
+        "outlet": "Le Monde",
+        "take": "Souligne la disponibilité de la Russie aux négociations et le conditionnement de Poutine à une accalmie diplomatique américaine.",
+        "url": "https://www.lemonde.fr/international/live/2026/06/28/en-direct-guerre-en-ukraine-vladimir-poutine-dit-attendre-la-venue-des-negociateurs-americains-une-fois-que-washington-sera-moins-occupe-par-l-iran_6716525_3210.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Cette prolongation constitue un soutien du Premier ministre aux commerçants indépendants confrontés aux effets économiques de la canicule.",
-        "url": "https://www.liberation.fr/politique/canicule-le-gouvernement-prolonge-les-soldes-dete-pour-soutenir-les-commercants-independants-20260627_5DBYP2SIARAHVHFIFJFTXP74RM/"
+        "outlet": "France 24",
+        "take": "Relève l'aveu implicite de difficultés pour la Russie, confrontée à une campagne ukrainienne visant à affaiblir son effort de guerre.",
+        "url": "https://www.france24.com/fr/europe/20260628-poutine-%C3%A9voque-une-p%C3%A9riode-difficile-promet-d-assurer-la-s%C3%A9curit%C3%A9-de-la-russie"
       }
     ],
     "id": 7,
@@ -237,25 +254,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "Monde"
     ],
-    "title": "La canicule s'atténue en France, orages attendus ce week-end",
-    "full": "La vague de chaleur qui frappe la France depuis plusieurs jours commence à s'évacuer vers l'est. La vigilance rouge, qui concernait davantage de départements en début de semaine, doit être levée progressivement, avec seulement 24 départements encore en alerte dimanche, notamment en Île-de-France et dans le centre-est. Des orages violents sont attendus ce week-end pour rafraîchir les températures en début de semaine. Cependant, la tendance pourrait s'inverser à nouveau dans les jours suivants.",
+    "title": "Trump critique la maire sortante de Washington en pleine célébration du 250e anniversaire américain",
+    "full": "Donald Trump a qualifié Janeese Lewis George, probable future maire de Washington, de « communiste », l'accusant de vouloir « vider les prisons » et « s'opposer à l'ICE », l'agence fédérale de l'immigration. Ces critiques interviennent alors que le président a placé sa personne au cœur des festivités marquant le 250e anniversaire de l'indépendance des États-Unis, cette semaine. Selon des observateurs, ses grands projets jugés coûteux paraissent décalés face aux préoccupations immédiates des Américains.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Les orages de ce week-end marqueront un rafraîchissement temporaire avant une possible remontée des températures.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-chaleur-s-evacue-vers-l-est-au-cours-du-week-end-a-quoi-faut-il-s-attendre-avec-l-arrivee-des-orages-et-la-fin-du-pic-de-la-canicule-en-france_8082374.html#xtor=RSS-3-[lestitres]"
-      },
-      {
         "outlet": "20 Minutes",
-        "take": "Le nombre de départements en vigilance rouge diminue progressivement depuis le pic de la canicule.",
-        "url": "https://www.20minutes.fr/planete/canicule/4231594-20260628-direct-canicule-chaleur-intense-calme-plus-deux-departements-vigilance-rouge?at_medium=display&at_campaign=149"
+        "take": "Trump livre une attaque frontale contre la probable future maire démocrate de Washington en la désignant comme « communiste ».",
+        "url": "https://www.20minutes.fr/monde/etats-unis/4231650-20260629-etats-unis-trump-tire-boulets-rouges-probable-future-maire-washington?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Libération",
-        "take": "Plusieurs événements publics, dont Solidays et la marche des fiertés parisienne, ont été annulés en raison des fortes chaleurs.",
-        "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-treize-departements-retrogrades-de-violents-orages-attendus-20260627_7WMDWMCEEJFWPLTKFU63OHT6YY/"
+        "outlet": "France 24",
+        "take": "Le président a transformé les célébrations du 250e anniversaire en tribune personnelle, détourné de ses objectifs initiaux.",
+        "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260628-sonia-dridi-ces-c%C3%A9l%C3%A9brations-sont-v%C3%A9ritablement-%C3%A0-la-gloire-de-donald-trump"
       }
     ],
     "id": 8,
@@ -263,26 +275,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement",
       "Monde"
     ],
-    "title": "Une vague de chaleur exceptionnelle pulvérise les records en Europe",
-    "full": "Une vague de chaleur précoce frappe l'Europe depuis une semaine et culmine samedi 27 juin avec des records de température historiques dans plusieurs pays. Au moins 193 millions d'habitants, dont 75 millions en Allemagne, ont enregistré des températures supérieures à 35 °C. La chaleur extrême se propage du ouest vers le nord-est du continent, touchant l'Allemagne, le Danemark et la République tchèque. Selon les analystes, le nord-est européen reste vulnérable et insuffisamment préparé face à ces phénomènes extrêmes liés au changement climatique.",
+    "title": "Venezuela: le bilan du séisme atteint 1.450 morts, les recherches continuent",
+    "full": "Quatre jours après le double séisme qui a frappé le Venezuela mercredi, le bilan s'élève à 1.450 morts, avec 189 immeubles complètement effondrés sur 774 endommagés. Des dizaines de milliers de personnes restent portées disparues et les opérations de sauvetage se poursuivent, même si les chances de retrouver des survivants diminuent. Des militaires américains supplémentaires ont été déployés pour faciliter l'acheminement de l'aide humanitaire et rouvrir un port stratégique.",
     "angles": [
       {
+        "outlet": "20 Minutes",
+        "take": "Met l'accent sur les sauvetages en cours et la structure des dégâts matériels, illustrant la persistance des opérations malgré le temps qui passe.",
+        "url": "https://www.20minutes.fr/monde/4231634-20260628-venezuela-quatre-jours-apres-double-seisme-pere-fils-sortis-vivants-decombres?at_medium=display&at_campaign=149"
+      },
+      {
         "outlet": "Le Monde",
-        "take": "Documente l'ampleur de la chaleur en chiffres : 193 millions d'Européens exposés à des températures au-delà de 35 °C.",
-        "url": "https://www.lemonde.fr/planete/article/2026/06/27/allemagne-danemark-republique-tcheque-des-records-de-temperature-en-europe_6716404_3244.html"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Souligne la nature exceptionnelle de cette vague de chaleur et la multiplication des records historiques sur le continent.",
-        "url": "https://www.liberation.fr/international/europe/confrontee-a-la-canicule-leurope-pulverise-les-records-de-temperature-20260627_PWSIH5L6BRHPTCSUIGMM52SSFM/"
-      },
-      {
-        "outlet": "Courrier International",
-        "take": "Alerte sur la vulnérabilité persistante du nord-est européen et le manque de préparation face à ces événements climatiques récurrents.",
-        "url": "https://www.courrierinternational.com/article/climat-en-europe-un-nombre-de-morts-liees-a-la-canicule-disproportionnellement-eleve_245768"
+        "take": "Souligne l'ampleur des disparitions et le renforcement de la mobilisation internationale pour l'aide logistique.",
+        "url": "https://www.lemonde.fr/planete/article/2026/06/28/seisme-au-venezuela-le-bilan-s-alourdit-a-1-450-morts_6716592_3244.html"
       }
     ],
     "id": 9,
@@ -290,20 +296,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Monde",
+      "Société"
     ],
-    "title": "Coupe du monde 2026 : l'Algérie et l'Autriche en 16es après un match fou",
-    "full": "L'Algérie s'est qualifiée pour les huitièmes de finale de la Coupe du monde 2026 après un match spectaculaire contre l'Autriche (3-3), dimanche à Kansas City. Menée à deux reprises, la sélection algérienne a obtenu le match nul salvateur grâce à un but de Riyad Mahrez, lui permettant de terminer 3e du groupe J. L'Autriche accède également aux 16es en 2e position. L'Argentine, de son côté, a achevé sa phase de groupes sans défaite en remportant 3-1 contre la Jordanie, avec un nouveau but de Lionel Messi.",
+    "title": "Turquie : environ 50 arrestations lors de la Pride d'Istanbul",
+    "full": "Au moins 50 personnes ont été interpellées dimanche à Istanbul lors d'une manifestation pour la Marche des fiertés, qui était interdite par les autorités locales. Parmi les arrêtés figurait une journaliste. Depuis 2015, la Pride annuelle est quasi systématiquement interdite en Turquie.",
     "angles": [
       {
-        "outlet": "France 24",
-        "take": "Insiste sur le scénario dramatique de la qualification algérienne et le parcours parfait de l'Argentine avec trois victoires consécutives.",
-        "url": "https://www.france24.com/fr/sports/20260628-mondial-2026-l-alg%C3%A9rie-qualifi%C3%A9e-dans-un-sc%C3%A9nario-extraordinaire-contre-l-autriche-l-argentine-fait-la-passe-de-3"
+        "outlet": "20 Minutes",
+        "take": "Met l'accent sur la récurrence des interdictions depuis 2015 et les chiffres des arrestations.",
+        "url": "https://www.20minutes.fr/monde/4231626-20260628-turquie-cinquantaine-arrestations-gay-pride-istanbul?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "France Info",
-        "take": "Souligne l'intensité du match Algérie-Autriche et le partage des places de qualification entre les deux équipes.",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/messi-encore-buteur-le-portugal-decevant-l-algerie-et-l-autriche-qualifiees-ce-qu-il-faut-retenir-des-matchs-de-la-nuit-a-la-coupe-du-monde_8083385.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Souligne l'interdiction formelle de la manifestation et la présence d'une journaliste parmi les interpellés.",
+        "url": "https://www.franceinfo.fr/societe/lgbt/en-turquie-au-moins-50-personnes-ont-ete-arretees-au-cours-de-la-marche-des-fiertes-d-istanbul_8084000.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 10,
@@ -311,20 +318,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "France"
     ],
-    "title": "Léon Marchand impressionne à Saint-Étienne avec le 5e temps historique",
-    "full": "Le nageur français Léon Marchand a marqué son retour en compétition en France lors des Championnats de France de natation, samedi à Saint-Étienne. Sur le 400 m 4 nages, il a signé la 5e meilleure performance de tous les temps. C'est sa première participation aux épreuves nationales depuis les Jeux olympiques de 2024.",
+    "title": "Barrot plaide pour une décentralisation du pouvoir avant 2027",
+    "full": "Jean-Noël Barrot, ministre des Affaires étrangères et vice-président du MoDem, a appelé dimanche le prochain président de la République à « rendre le pouvoir aux Français » pour assurer sa crédibilité. Il propose des réformes majeures incluant un référendum sur la décentralisation et l'instauration d'un service civique obligatoire. Ces mesures visent, selon lui, à revitaliser la démocratie française face aux enjeux posés par les forces politiques opposées.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "La star mondiale a impressionné dès son entrée en lice sans décevoir les attentes.",
-        "url": "https://www.20minutes.fr/sport/natation/4231570-20260628-natation-leon-marchand-regale-grand-retour-france-5e-temps-histoire-400-quatre-nages?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "Barrot énonce une condition de légitimité pour le futur président : l'obligation de redistribuer le pouvoir aux citoyens.",
+        "url": "https://www.franceinfo.fr/politique/le-prochain-president-devra-rendre-le-pouvoir-aux-francais-pour-etre-credible-juge-jean-noel-barrot_8083823.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "France Info",
-        "take": "Le retour de Marchand a mobilisé le public stéphanois, attirant une foule importante à Saint-Étienne pour l'événement.",
-        "url": "https://www.franceinfo.fr/sports/natation/leon-marchand/reportage-il-n-etait-pas-question-de-rater-leon-marchand-a-saint-etienne-le-chaudron-a-change-d-adresse-pour-le-retour-de-l-enfant-prodigue_8082770.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "Le ministre détaille un programme de réformes institutionnelles et sociales destiné à contrecarrer l'influence du Rassemblement national et de La France insoumise.",
+        "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/06/28/presidentielle-2027-jean-noel-barrot-appelle-a-rendre-le-pouvoir-aux-francais-face-au-rn-et-a-lfi_6716572_6205049.html"
       }
     ],
     "id": 11,
@@ -332,21 +339,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France",
       "Société"
     ],
-    "title": "Un adolescent tué lors d'un guet-apens à Narbonne",
-    "full": "Louis, 17 ans, confié à l'aide sociale à l'enfance, a été battu à mort à Narbonne lors d'une agression filmée et diffusée sur les réseaux sociaux. Le jeune homme a été découvert inanimé le 20 juin sur un chantier. Cinq hommes âgés de 16 à 20 ans ont été mis en examen pour assassinat. Le ministre de l'Intérieur a dénoncé une « exploitation de l'extrême droite » de cette affaire.",
+    "title": "Un cycliste décède sur le parcours de l'Ironman de Nice, annulé",
+    "full": "Un homme d'une quarantaine d'années a percuté un motard en vélo sur le parcours de l'Ironman de Nice et en est décédé. L'épreuve avait été annulée par le préfet en raison de la canicule, mais le cycliste a participé malgré l'interdiction, roulant à vive allure dans une descente au moment de l'accident.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Souligne que cinq jeunes hommes sont poursuivis pour assassinat suite à ce guet-apens fatal.",
-        "url": "https://www.franceinfo.fr/faits-divers/le-ministre-de-l-interieur-denonce-une-exploitation-de-l-extreme-droite-apres-la-mort-de-louis-un-ado-tabasse-a-mort-a-narbonne_8083019.html#xtor=RSS-3-[lestitres]"
+        "outlet": "20 Minutes",
+        "take": "Met l'accent sur l'annulation officielle de l'épreuve décidée par la préfecture en raison des fortes chaleurs et la déception des participants.",
+        "url": "https://www.20minutes.fr/faits_divers/4231618-20260628-nice-homme-decede-tentant-ironman-annule-cause-canicule?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Le Monde",
-        "take": "Met l'accent sur le caractère filmé de l'agression et sa diffusion sur les réseaux sociaux.",
-        "url": "https://www.lemonde.fr/societe/article/2026/06/28/adolescent-tabasse-a-mort-a-narbonne-laurent-nunez-denonce-une-exploitation-de-l-extreme-droite_6716480_3224.html"
+        "outlet": "France Info",
+        "take": "Détaille les circonstances de l'accident, signalant que le cycliste roulait à vive allure dans une descente au moment de la collision.",
+        "url": "https://www.franceinfo.fr/sports/sports-extremes/un-homme-participe-a-l-ironman-de-nice-malgre-l-interdiction-en-raison-de-la-canicule-et-meurt-dans-un-accident-a-velo_8083883.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 12,
@@ -356,18 +362,18 @@ const ARTICLES = [
     "themes": [
       "Société"
     ],
-    "title": "Arrêt définitif des recherches après l'effondrement de falaise à Biarritz",
-    "full": "La municipalité de Biarritz a annoncé l'arrêt définitif des opérations de recherche suite à l'effondrement d'une falaise qui a causé la disparition d'un plongeur. Les pompiers avaient déjà interrompu leurs investigations deux jours auparavant, avant que la mairie ne poursuive seule les efforts. Le corps du disparu n'a pas été retrouvé.",
+    "title": "L'Assemblée valide l'aide à mourir, vote prévu mardi",
+    "full": "L'Assemblée nationale a achevé samedi l'examen de la proposition de loi sur l'aide à mourir, avant un vote solennel prévu mardi 30 juin. Le texte a été amputé de son volet pénal, notamment l'infraction d'entrave qui aurait pénalisé l'obstruction à l'accès à cette aide. Cette troisième lecture marque l'aboutissement d'un long processus législatif pour ce droit très débattu.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "La municipalité met fin aux opérations de recherche après avoir pris le relais des pompiers.",
-        "url": "https://www.franceinfo.fr/faits-divers/falaise-effondree-a-biarritz-les-recherches-pour-retrouver-le-plongeur-disparu-definitivement-arretees-annonce-la-municipalite_8083028.html#xtor=RSS-3-[lestitres]"
+        "take": "Insiste sur la proximité du vote en hémicycle et le caractère progressif de l'avancée législative sur ce sujet sensible.",
+        "url": "https://www.franceinfo.fr/societe/euthanasie/l-assemblee-fait-un-pas-de-plus-vers-la-creation-d-un-droit-a-l-aide-a-mourir-avant-un-vote-mardi_8082974.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Les services municipaux cesseront les recherches sans avoir localisé la deuxième victime.",
-        "url": "https://www.20minutes.fr/societe/4231565-20260627-effondrement-falaise-biarritz-deuxieme-corps-retrouve?at_medium=display&at_campaign=149"
+        "outlet": "Libération",
+        "take": "Souligne l'abandon de la disposition pénale comme élément clé du compromis permettant d'aboutir au vote.",
+        "url": "https://www.liberation.fr/societe/sante/aide-a-mourir-en-derniere-ligne-droite-les-deputes-renoncent-au-delit-dentrave-20260628_IKPW5X4H45EBZJNQP6G4YAVKC4/"
       }
     ],
     "id": 13,
@@ -377,18 +383,18 @@ const ARTICLES = [
     "themes": [
       "Sport"
     ],
-    "title": "Tony Parker devient entraîneur de l'Asvel",
-    "full": "Tony Parker, président de l'Asvel depuis 2014, a été nommé entraîneur du club de Ligue A. L'ancien international français débute ainsi sa carrière sur le banc d'un club professionnel. Vincent Collet, sélectionneur de l'équipe de France, rejoindra l'équipe technique en tant qu'assistant.",
+    "title": "Paris accueille une étape majeure de la Ligue de diamant",
+    "full": "Le meeting d'athlétisme de Charléty s'est déroulé dimanche dans le cadre de la Golden League, avec des enjeux sportifs importants pour plusieurs compétiteurs. Le perchiste suédois Armand Duplantis n'a pas amélioré son record du monde, tandis que le Suisse Renato Werro s'est rapproché du record mondial du 800 mètres. Plusieurs athlètes français ont briller, notamment avec des records nationaux établis par Bourgoin et Guillemot, bien que la performance de Gressier ait déçu.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Parker cumule désormais les rôles de président et d'entraîneur, avec Collet comme assistant de luxe.",
-        "url": "https://www.20minutes.fr/sport/basketball/pro_a/4231567-20260627-tony-parker-nomme-nouveau-coach-asvel-toujours-president-vincent-collet-assistant-luxe?at_medium=display&at_campaign=149"
+        "outlet": "Libération",
+        "take": "L'étape parisienne propose une affiche riche avec des enjeux individuels majeurs et des situations personnelles complexes à négocier pour les principaux protagonistes.",
+        "url": "https://www.liberation.fr/sports/marre-du-mondial-voici-de-bonnes-raisons-de-regarder-le-meeting-dathletisme-de-charlety-20260628_QISWAHNYANBZLOIBKECJL6OOFA/"
       },
       {
         "outlet": "France Info",
-        "take": "L'ancien joueur mène son premier défi à la tête d'un banc professionnel après douze ans de présidence.",
-        "url": "https://www.franceinfo.fr/sports/basket/basket-tony-parker-lance-sa-carriere-d-entraineur-a-l-asvel-qu-il-preside-depuis-2014_8082947.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Plusieurs marqueurs de cette étape : Werro très proche du record du monde au 800 mètres, Duplantis sans amélioration record à la perche, et des records de France établis côté français.",
+        "url": "https://www.franceinfo.fr/sports/athletisme/werro-s-approche-du-record-du-monde-du-800-m-gressier-decu-records-de-france-pour-bourgoin-et-guillemot-le-recap-du-meeting-d-athletisme-de-paris_8084081.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 14,
@@ -396,20 +402,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "France",
+      "Économie"
     ],
-    "title": "Le Constellation de Crans-Montana deviendra un lieu pour la jeunesse",
-    "full": "Le bar Constellation, qui a brûlé le soir du Nouvel An en Suisse et a fait 41 morts dont 17 mineurs, ne sera pas reconstruit en établissement. Le président du canton du Valais a annoncé que le site sera reconverti en lieu dédié à la jeunesse. Un monument en hommage aux victimes et aux 115 blessés sera également installé.",
+    "title": "MaPrimeRénov' : réduction des aides aux travaux isolés",
+    "full": "Le gouvernement va restreindre la liste des travaux éligibles à MaPrimeRénov' pour les rénovations « par geste », c'est-à-dire isolées. Poêles à bois, chauffe-eau solaires et systèmes de ventilation seront notamment concernés par cette suppression d'aides, qui s'appliquera dans les prochaines semaines. Le ministère justifie cette mesure en arguant que ces travaux resteront accessibles dans le cadre d'une rénovation globale du logement, présentée comme plus efficace.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Le Constellation ne rouvrira jamais ses portes comme bar et accueillera désormais des activités pour les jeunes.",
-        "url": "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/ce-ne-sera-plus-jamais-un-bar-a-crans-montana-le-constellation-sera-reconverti-en-lieu-dedie-a-la-jeunesse_8082677.html#xtor=RSS-3-[lestitres]"
+        "take": "Les modifications concernent spécifiquement les aides aux travaux isolés, dits « par geste ».",
+        "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/poeles-a-bois-chauffe-eau-solaire-systemes-de-ventilation-le-gouvernement-va-reduire-la-liste-des-travaux-eligibles-a-maprimerenov_8083676.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Libération",
-        "take": "Au-delà de la reconversion du site, les autorités prévoient l'édification d'un monument commémoratif pour les victimes de la tragédie.",
-        "url": "https://www.liberation.fr/international/europe/incendie-de-crans-montana-le-constellation-ne-sera-plus-jamais-un-bar-et-va-devenir-un-lieu-devolu-a-la-jeunesse-20260627_7CICC4VOLZHR3CTWTHGCGEZSRQ/"
+        "take": "Les aides supprimées pour les rénovations individuelles demeurent accessibles si elles s'inscrivent dans une rénovation complète du bâtiment.",
+        "url": "https://www.liberation.fr/economie/maprimerenov-isolation-ventilation-poele-a-bois-le-gouvernement-supprime-une-partie-des-aides-isolees-20260628_RMJB47SRPBFYFI263RRHBGU4DY/"
       }
     ],
     "id": 15,
@@ -417,20 +424,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Société"
     ],
-    "title": "Accord de paix entre Israël et le Liban signé à Washington",
-    "full": "Israël et le Liban ont signé vendredi 26 juin à Washington un accord-cadre visant à établir « une paix durable » entre les deux pays, négocié pendant plusieurs mois avec le soutien des États-Unis. L'accord prévoit le désarmement du Hezbollah et le retrait de l'armée israélienne du territoire libanais, mais Israël affirme que son armée y restera tant que le mouvement pro-iranien sera armé. Le Hezbollah a d'ores et déjà rejeté cet accord et refusé son démantèlement, tandis que certains responsables libanais le qualifient de « capitulation ».",
+    "title": "Narbonne: décès d'un adolescent, tensions autour de l'hommage",
+    "full": "Un jeune de 17 ans confié à l'aide sociale à l'enfance est décédé après avoir été battu à mort lors d'un guet-apens à Narbonne. Cinq jeunes hommes âgés de 16 à 20 ans ont été mis en examen pour assassinat. La marche d'hommage organisée a été largement investie par des mouvements identitaires, bien que le meurtre ne présente pas de caractère racial avéré. Le ministre de l'Intérieur a dénoncé cette appropriation politique de l'affaire.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "L'accord contient des clauses de désarmement du Hezbollah et de retrait israélien, mais le mouvement armé pro-iranien refuse déjà ces termes.",
-        "url": "https://www.franceinfo.fr/monde/proche-orient/liban/paix-durable-desarmement-du-hezbollah-retrait-de-l-armee-israelienne-que-contient-l-accord-signe-entre-le-liban-et-israel-a-washington_8082338.html#xtor=RSS-3-[lestitres]"
+        "outlet": "20 Minutes",
+        "take": "Souligne la domination de la manifestation par des groupes identitaires malgré l'absence de motif racial établi dans le crime.",
+        "url": "https://www.20minutes.fr/faits_divers/faits-divers-montpellier/4231629-20260628-narbonne-hommage-louis-ado-battu-mort-domine-identitaires-malgre-absence-motif-racial?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Bien que signé par trois parties, l'accord maintient une occupation israélienne conditionnée au désarmement du Hezbollah, soulevant des critiques sur son caractère contraignant pour le Liban.",
-        "url": "https://www.humanite.fr/monde/israel/entre-israel-et-le-liban-un-accord-qui-ne-prevoit-pas-la-fin-de-loccupation"
+        "outlet": "France Info",
+        "take": "Met l'accent sur la dénonciation ministérielle de l'exploitation politique de cet événement par l'extrême droite.",
+        "url": "https://www.franceinfo.fr/faits-divers/le-ministre-de-l-interieur-denonce-une-exploitation-de-l-extreme-droite-apres-la-mort-de-louis-un-ado-tabasse-a-mort-a-narbonne_8083019.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 16,
@@ -438,21 +445,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences",
-      "Société"
+      "France"
     ],
-    "title": "L'Australie double les amendes contre les réseaux sociaux pour mineurs",
-    "full": "Le gouvernement australien a annoncé le doublement des amendes infligées aux plateformes qui contourneraient son interdiction des réseaux sociaux pour les moins de 16 ans, portant la sanction à près de 60 millions d'euros. Cette décision intervient alors que le Premier ministre Anthony Albanese estime que les géants de la technologie ne respectent pas suffisamment la loi et que trop d'enfants restent actifs sur ces services.",
+    "title": "Un comité d'alerte sur les finances publiques convoqué pour le 7 juillet",
+    "full": "David Amiel, ministre de l'Action et des Comptes publics, a annoncé dimanche la tenue d'un comité d'alerte des finances publiques le 7 juillet. Cette réunion visera à dresser le bilan des crises des six derniers mois et à prévoir de nouvelles mesures d'économies. Le ministre a déclaré que la situation budgétaire était critique, évoquant une position « assise sur un baril de poudre ».",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Met l'accent sur le montant de la nouvelle amende et la caractère historique de l'interdiction australienne des réseaux sociaux pour les mineurs.",
-        "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/l-australie-va-doubler-les-amendes-infligees-pour-violation-de-l-interdiction-des-reseaux-sociaux-aux-mineurs-de-moins-de-16-ans_8082674.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Le Monde",
+        "take": "David Amiel met l'accent sur l'urgence de la situation et l'annonce formelle d'un comité d'alerte programmé pour juillet afin de définir les nouvelles économies.",
+        "url": "https://www.lemonde.fr/politique/article/2026/06/28/david-amiel-ministre-de-l-action-et-des-comptes-publics-est-l-invite-de-questions-politiques_6716557_823448.html"
       },
       {
-        "outlet": "Le Monde",
-        "take": "Souligne le constat du gouvernement selon lequel les grandes entreprises technologiques ne font pas assez d'efforts pour se conformer à la législation.",
-        "url": "https://www.lemonde.fr/pixels/article/2026/06/27/l-australie-annonce-doubler-les-amendes-pour-violation-de-l-interdiction-des-reseaux-sociaux-aux-mineurs_6716379_4408996.html"
+        "outlet": "Libération",
+        "take": "Bercy prépare un bilan des crises récentes et des mesures d'austérité, avec la nécessité de « choisir ce à quoi on renonce ».",
+        "url": "https://www.liberation.fr/politique/choisir-ce-a-quoi-on-renonce-bercy-prepare-la-facture-des-crises-et-de-nouvelles-economies-20260628_KQFRFRRUTFEURHKF3TQAU4CH2U/"
       }
     ],
     "id": 17,
@@ -460,20 +466,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Sport"
     ],
-    "title": "Décès par noyade dans le canal Saint-Martin à Paris",
-    "full": "Un homme s'est noyé vendredi 26 juin en fin de soirée dans le canal Saint-Martin (Paris 10e). Les pompiers n'ont pas pu le réanimer, selon la préfecture de police. La victime se baignait dans une zone interdite du cours d'eau. Cet incident intervient lors d'une canicule particulièrement meurtrière : 55 décès par noyade ont été enregistrés depuis le début de l'épisode caniculaire, selon les autorités.",
+    "title": "Le tableau de la Coupe du monde 2026 se dessine",
+    "full": "La phase de poules de la Coupe du monde 2026 s'est achevée dans la nuit de samedi à dimanche avec le dénouement des trois derniers groupes. Le tirage au sort de la phase finale révèle des confrontations majeures en huitièmes de finale : la France affrontera la Suède, tandis que le Portugal et la Croatie se croiseront, et l'Argentine face au Cap-Vert. Les matchs à élimination directe peuvent désormais commencer.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Insiste sur l'impossibilité de réanimer la victime par les pompiers et l'absence de précisions supplémentaires.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/un-mort-par-noyade-dans-le-canal-saint-martin_8082728.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "La couverture met l'accent sur la surprise de la qualification du Cap-Vert et la confirmation des favoris au rendez-vous.",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/la-surprise-cap-verdienne-les-favoris-au-rendez-vous-decouvrez-le-tableau-final-de-la-coupe-du-monde_8082434.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "Libération",
-        "take": "Souligne que le baigneur se trouvait dans un endroit interdit et contextualise avec le bilan tragique des noyades pendant la canicule.",
-        "url": "https://www.liberation.fr/societe/canicule-un-homme-meurt-par-noyade-dans-le-canal-saint-martin-20260627_XPUBIBHMNVBM7CJOB5UDBEJT6I/"
+        "take": "Le focus porte sur les adversaires potentiels de l'équipe de France qui se précisent avec le tableau final.",
+        "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-le-tableau-complet-de-la-phase-finale-20260626_2QY5I4V2KNAQ3C55ZYOHF5OBLM/"
       }
     ],
     "id": 18,
@@ -483,18 +489,18 @@ const ARTICLES = [
     "themes": [
       "Société"
     ],
-    "title": "La compagne du suspect dans l'affaire Lyhanna dénonce un viol conjugal",
-    "full": "La femme de Jérôme Barella, principal suspect du meurtre de la collégienne Lyhanna, a porté plainte pour viol et violences conjugales lors de son audition par la gendarmerie les 18 et 19 juin. Ces déclarations ont émergé dans le cadre des investigations visant Barella, déjà mis en cause pour viols sur mineures en 2022 et 2025. Son frère et son père font également l'objet de poursuites pour pédocriminalité ou violences conjugales.",
+    "title": "Nantes : un cinquième homicide par arme à feu en deux mois",
+    "full": "Un homme de 19 ans a été tué par balle dimanche matin dans le nord de Nantes, près du stade de la Beaujoire. Il s'agit du cinquième homicide perpétré avec une arme à feu dans la ville en l'espace de deux mois. Le parquet n'a pas encore communiqué sur les circonstances précises du crime ni sur un éventuel lien avec le narcotrafic.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Souligne que la compagne a été entendue en tant que témoin et que la cellule nationale d'enquête de la gendarmerie a recueilli ses dépositions sur les faits dont elle aurait été victime.",
-        "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-la-femme-de-jerome-barella-a-porte-plainte-pour-viol-et-violences-conjugales_8081864.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Libération",
+        "take": "Souligne l'absence de communiqué du parquet sur un possible lien avec le trafic de drogue.",
+        "url": "https://www.liberation.fr/societe/police-justice/nantes-un-jeune-homme-de-19-ans-tue-par-balle-le-cinquieme-homicide-en-deux-mois-dans-la-ville-20260628_BAZOMO2ZSBH33HWFKBIEFIHZ3E/"
       },
       {
         "outlet": "Le Monde",
-        "take": "Contextualise les plaintes de la femme dans la chronologie des investigations pour viols sur mineures antérieures qui ont mené à son audition.",
-        "url": "https://www.lemonde.fr/societe/article/2026/06/27/mort-de-lyhanna-lors-de-son-audition-la-femme-de-jerome-barella-a-denonce-un-viol-conjugal_6716365_3224.html"
+        "take": "Précise que l'intervention des pompiers a eu lieu dimanche vers 4 h 30 et que les circonstances restent indéterminées.",
+        "url": "https://www.lemonde.fr/societe/article/2026/06/28/a-nantes-un-jeune-homme-tue-par-balle-pendant-la-nuit-de-samedi-a-dimanche-le-cinquieme-en-deux-mois_6716549_3224.html"
       }
     ],
     "id": 19,
@@ -502,20 +508,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Santé"
     ],
-    "title": "Nouvelle-Calédonie : élections provinciales dans un contexte de tensions",
-    "full": "La Nouvelle-Calédonie a organisé dimanche 28 juin ses élections provinciales, un scrutin décisif pour l'archipel appelé à déterminer l'avenir politique de ce territoire français. Quelque 192 600 électeurs ont été conviés aux urnes pour désigner les assemblées des trois provinces (Sud, Nord et Îles). Ce scrutin intervient dans un contexte de profonde fracture sociale, aggravée par les émeutes de 2024 et le durcissement des positions entre les différents camps politiques. Les résultats de ce scrutin conditionneront la mise en œuvre du concept de « destin commun » promis à la Nouvelle-Calédonie.",
+    "title": "Avoir un trou de mémoire sur un mot est normal et bénin",
+    "full": "Contrairement à une idée reçue, oublier temporairement un mot ou le chercher en vain sur le bout de la langue n'est pas un signe alarmant de déclin cognitif. Selon des recherches en neurosciences cognitives, ce phénomène, particulièrement fréquent à partir de la quarantaine, correspond à une évolution naturelle du fonctionnement cérébral et n'est en rien inquiétant pour la santé.",
     "angles": [
       {
-        "outlet": "Le Figaro Politique",
-        "take": "Le scrutin révèle une société clivée où la crise sociale depuis 2024 et la radicalisation des positions menacent le projet politique d'unité et de « destin commun ».",
-        "url": "https://www.lefigaro.fr/politique/on-vit-un-quatrieme-referendum-en-nouvelle-caledonie-une-societe-clivee-a-l-heure-des-elections-20260627"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Le taux de participation et la répartition des voix entre les trois provinces constituent les indicateurs clés pour comprendre les enjeux institutionnels de ce vote majeur.",
-        "url": "https://la1ere.franceinfo.fr/nouvellecaledonie/direct-elections-provinciales-2026-en-nouvelle-caledonie-resultats-taux-de-participation-reactions-suivez-la-soiree-electorale-sur-nc-la-1ere-1714798.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Slate",
+        "take": "La neuroscience cognitive montre que ces oublis momentanés reflètent un processus normal du cerveau, loin d'être un symptôme de vieillissement pathologique.",
+        "url": "https://www.slate.fr/sciences/perdre-mots-bout-langue-pas-grave-completement-normal-cerveau-humain-sens-sons-langage-memoire-vieillissement-age-neurosciences"
       }
     ],
     "id": 20,
@@ -523,15 +524,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Environnement"
     ],
-    "title": "Funko lance des figurines Pop ! aux couleurs de la Coupe du monde",
-    "full": "Le fabricant de figurines Funko a créé une collection spéciale en partenariat avec la Fédération française de football, déclinant ses célèbres Pop ! aux couleurs de la compétition. Cette collaboration montre comment la marque, jadis réservée aux collectionneurs geek, s'impose désormais comme un produit de divertissement grand public.",
+    "title": "Incendies en Loire : 200 hectares de cultures détruits",
+    "full": "Plusieurs feux de végétation ont ravagé 200 hectares dans la Loire samedi 27 juin, provoquant des pertes totales de récoltes selon les agriculteurs locaux. Trois personnes ont été interpellées et placées en garde à vue. Ces incendies s'inscrivent dans un contexte d'augmentation des feux en France : 7 000 hectares ont brûlé depuis le début de l'année, contre 4 200 à la même période l'année précédente, en raison d'une sécheresse marquée liée aux fortes chaleurs.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Les Pop ! de Funko adaptent leur catalogue à l'actualité sportive pour étendre leur audience au-delà des seuls passionnés de culture geek.",
-        "url": "https://www.20minutes.fr/tempo/4231197-20260628-culture-geek-grand-public-comment-pop-funko-restent-elles-toujours-top?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "Met l'accent sur l'ampleur des dégâts agricoles et l'augmentation inquiétante des feux de forêt en France cette année.",
+        "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/c-est-100-de-pertes-sur-les-cultures-200-hectares-brules-dans-la-loire_8083769.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 21,
@@ -539,15 +540,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Insolite"
     ],
-    "title": "René Viénet, cinéaste français qui ridiculisait la propagande maoïste",
-    "full": "Un ouvrage consacré à René Viénet ravive le souvenir de ce sinologue, réalisateur et éditeur français méconnu. Aux années 1970, Viénet s'est illustré par des films de détournement qui tournaient en dérision la propagande maoïste, combinant sa critique du régime avec des expériences cinématographiques audacieuses. Son parcours singulier mêlait engagement politique, réflexion sur la Chine et subversion artistique.",
+    "title": "Les piscines islandaises, bien plus que des lieux de baignade",
+    "full": "En Islande, les piscines publiques ne sont pas avant tout des espaces de natation, mais de véritables lieux de vie sociale. Elles constituent des points de rencontre où les habitants se réunissent pour discuter, retrouver des amis et se détendre dans une atmosphère conviviale. Cette culture des piscines s'inscrit dans un contraste marqué avec les pratiques français, où la baignade reste l'activité centrale.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "La publication d'une biographie remet en lumière une figure méconnue du cinéma français et de la contestation intellectuelle envers le maoïsme.",
-        "url": "https://www.slate.fr/culture/rene-vienet-itineraire-cineaste-trublion-francais-chine-maoiste-mao-zedong-films-detournement-chine-cinema-sinologie-livre-bite-couteau"
+        "outlet": "20 Minutes",
+        "take": "Les piscines islandaises fonctionnent comme des espaces de socialisation où les échanges et la relaxation prédominent sur la pratique sportive.",
+        "url": "https://www.20minutes.fr/tempo/escapade/4230953-20260628-va-discuter-retrouver-amis-pourquoi-piscines-ur-culture-islandaise?at_medium=display&at_campaign=149"
       }
     ],
     "id": 22,
@@ -555,16 +556,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences",
-      "Insolite"
+      "Tech & Sciences"
     ],
-    "title": "Une sonde chinoise détecte une énigmatique explosion cosmique",
-    "full": "La sonde Einstein Probe, lancée par la Chine, a capté un phénomène cosmique sans équivalent connu. Cet événement présente les caractéristiques d'une explosion extrêmement puissante, comparable aux sursauts de rayons gamma parmi les plus intenses de l'univers. Cependant, les données collectées présentent des anomalies qui dérangent les scientifiques : quelques éléments ne correspondent pas aux modèles théoriques établis. Les chercheurs tentent actuellement de déterminer la nature exacte de ce phénomène.",
+    "title": "Pourquoi nos yeux tardent-ils à voir dans le noir",
+    "full": "Bien que chaque œil contienne 100 millions de bâtonnets sensibles à la lumière faible, l'adaptation à l'obscurité demeure un processus lent. Cette limitation apparente révèle les contraintes biologiques de la vision humaine : les photorécepteurs ont besoin de temps pour régénérer les molécules photosensibles consommées lors de l'exposition lumineuse, et le cerveau doit ajuster progressivement sa sensibilité. Ce délai d'adaptation, qui peut atteindre 20 à 30 minutes, résulte donc moins d'une insuffisance numérique de cellules que d'une nécessité chimique et neurologique.",
     "angles": [
       {
         "outlet": "Slate",
-        "take": "La détection soulève une énigme scientifique majeure car le phénomène présente des caractéristiques inédites qui ne cadrent pas avec les explosions cosmiques répertoriées jusqu'à présent.",
-        "url": "https://www.slate.fr/sciences/sonde-chinoise-mysterieuse-explosion-cosmique-einstein-probe-rayon-gamma-anomalie-espace-univers-chine-europe-etoiles-trou-noir"
+        "take": "L'adaptation à l'obscurité dépend davantage de processus chimiques de régénération et d'ajustement neurologique que du nombre de récepteurs disponibles dans l'œil.",
+        "url": "https://www.slate.fr/sciences/pourquoi-yeux-adaptation-obscurite-cones-batonnets-vision-oei"
       }
     ],
     "id": 23,
@@ -572,16 +572,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé",
-      "Environnement"
+      "Insolite"
     ],
-    "title": "Le glyphosate pourrait favoriser l'émergence de bactéries résistantes aux antibiotiques",
-    "full": "Une étude argentine suggère que l'exposition au glyphosate, l'herbicide le plus utilisé au monde, pourrait contribuer à l'émergence de superbactéries. Les chercheurs ont observé que certaines bactéries développant une tolérance au glyphosate acquièrent simultanément des mécanismes de résistance à plusieurs antibiotiques hospitaliers. Ce phénomène pourrait représenter un nouveau facteur aggravant la crise croissante de l'antibiorésistance.",
+    "title": "Funko lance des figurines Pop ! à l'effigie de la Coupe du monde",
+    "full": "Le fabricant de figurines Funko a créé une collection spéciale aux couleurs de la Coupe du monde, en partenariat avec la Fédération française de football. Cette collaboration s'inscrit dans la stratégie de la marque de diversifier ses thèmes au-delà de l'univers geek, conquérant progressivement le grand public.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "L'étude établit un lien entre l'adaptation bactérienne au glyphosate et l'acquisition de résistances antibiotiques multiples en milieu hospitalier.",
-        "url": "https://www.slate.fr/sciences/glyphosate-creation-superbacteries-resistantes-antibiotiques-herbicide-monsanto-hopital-traitements"
+        "outlet": "20 Minutes",
+        "take": "L'article souligne comment Funko élargit son audience en proposant des produits dérivés ancrés dans l'actualité sportive, passant d'une niche geek à une marque grand public.",
+        "url": "https://www.20minutes.fr/tempo/4231197-20260628-culture-geek-grand-public-comment-pop-funko-restent-elles-toujours-top?at_medium=display&at_campaign=149"
       }
     ],
     "id": 24,
@@ -589,15 +588,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Culture"
     ],
-    "title": "Incendies en Loire : 250 pompiers mobilisés pour maîtriser les feux",
-    "full": "La Loire a connu plusieurs foyers d'incendie de végétation nécessitant le déploiement de plus de 250 pompiers. Le sinistre principal s'est déclaré à Saint-Just-la-Pendue, où 155 pompiers et un hélicoptère de reconnaissance ont été engagés pour combattre les flammes.",
+    "title": "René Viénet, cinéaste français qui parodiait la propagande maoïste",
+    "full": "À l'occasion de la sortie d'une biographie, l'œuvre de René Viénet refait surface. Ce sinologue, réalisateur et éditeur français s'était illustré dans les années 1970 en réalisant des films de détournement qui tournaient en dérision la propagande maoïste. Viénet incarnait une figure atypique du cinéma français, critique du régime chinois par le biais de la parodie.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "France Info souligne l'ampleur des moyens mobilisés dans le département avec le recours à un hélicoptère pour surveiller le foyer principal.",
-        "url": "https://www.franceinfo.fr/faits-divers/incendie/plusieurs-feux-de-vegetation-et-plus-de-250-pompiers-mobilises-en-loire_8083355.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Slate",
+        "take": "Viénet est présenté comme un parcours « peu banal » mêlant sinologie, réalisation et édition, avec une approche satirique de l'idéologie maoïste.",
+        "url": "https://www.slate.fr/culture/rene-vienet-itineraire-cineaste-trublion-francais-chine-maoiste-mao-zedong-films-detournement-chine-cinema-sinologie-livre-bite-couteau"
       }
     ],
     "id": 25,
@@ -605,16 +604,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé",
-      "Environnement"
+      "Tech & Sciences",
+      "Insolite"
     ],
-    "title": "Soixante-quatorze noyades en France depuis mi-juin lors de la canicule",
-    "full": "Le ministère de l'Intérieur recense 74 décès par noyade en France depuis le 18 juin, période marquée par une vague de chaleur exceptionnelle. Les deux tiers de ces noyades se sont produites dans des zones de baignade interdites, malgré les campagnes de prévention menées par les autorités. Les gendarmes intensifient leurs patrouilles dans les lieux à risque comme les lacs alpins.",
+    "title": "Une sonde chinoise détecte une explosion cosmique énigmatique",
+    "full": "La sonde Einstein Probe, développée par la Chine, a enregistré un phénomène cosmique sans précédent ressemblant à l'une des plus puissantes explosions de l'univers. Cependant, les caractéristiques de cet événement présentent des anomalies qui intriguent les astronomes : certains éléments ne correspondent pas aux explosions connues. Les chercheurs tentent actuellement de comprendre la nature exacte de ce phénomène détecté dans l'espace.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "La majorité des noyades mortelles surviennent dans des espaces de baignade non autorisés, où le contrôle et la surveillance sont insuffisants.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vague-de-chaleur-historique-entraine-des-noyades-en-serie-malgre-la-prevention_8083016.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Slate",
+        "take": "Le phénomène capturé possède les traits d'une explosion extrêmement puissante, mais des incohérences suggèrent qu'il pourrait s'agir d'un événement jusqu'alors inconnu.",
+        "url": "https://www.slate.fr/sciences/sonde-chinoise-mysterieuse-explosion-cosmique-einstein-probe-rayon-gamma-anomalie-espace-univers-chine-europe-etoiles-trou-noir"
       }
     ],
     "id": 26,
@@ -622,15 +621,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Santé",
+      "Environnement"
     ],
-    "title": "George Sand, oubliée malgré son immense œuvre littéraire",
-    "full": "George Sand, prolifiqu auteure du XIXe siècle avec plus de 90 œuvres et 400 articles publiés, a vu son importance littéraire largement minorée par la critique de son époque. Les préjugés de son temps ont éclipsé sa contribution majeure aux lettres françaises, malgré sa célébrité du vivant. Ce n'est qu'à partir des années 1970-1980, grâce aux études féministes, qu'une réhabilitation intellectuelle de son apport s'est opérée.",
+    "title": "Le glyphosate pourrait favoriser l'émergence de superbactéries",
+    "full": "Une étude argentine suggère que l'exposition au glyphosate, herbicide largement utilisé en agriculture, pourrait contribuer à la création de bactéries résistantes aux antibiotiques. Selon les chercheurs, en développant une tolérance à cet herbicide, certaines bactéries acqueraient simultanément des mécanismes de défense efficaces contre plusieurs antibiotiques utilisés à l'hôpital. Cette découverte soulève des préoccupations concernant l'aggravation de la résistance aux traitements antimicrobiens, un enjeu majeur de santé publique.",
     "angles": [
       {
         "outlet": "Slate",
-        "take": "L'article souligne le contraste entre la renommée contemporaine de George Sand et l'invisibilisation de son génie littéraire par les clichés critiques du siècle, avant sa redécouverte tardive par le courant féministe.",
-        "url": "https://www.slate.fr/culture/comment-genie-george-sand-invisibilise-cliches-idees-recues-critique-xixe-siecle-histoire-litterature-femme-ecrivaine-romans"
+        "take": "L'étude établit un lien entre la tolérance au glyphosate et l'acquisition de résistances à plusieurs classes d'antibiotiques hospitaliers.",
+        "url": "https://www.slate.fr/sciences/glyphosate-creation-superbacteries-resistantes-antibiotiques-herbicide-monsanto-hopital-traitements"
       }
     ],
     "id": 27,
@@ -638,85 +638,18 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé",
-      "Environnement"
+      "France"
     ],
-    "title": "Canicule : 109 décès enregistrés vendredi à Paris",
-    "full": "Le Samu de Paris a enregistré 109 décès vendredi, soit plus de quinze fois le chiffre habituel pour cette période de l'année (environ sept décès). Ces décès ont été constatés lors d'interventions à domicile ou sur la voie publique. Ce bilan ne comprend pas les décès liés aux fortes chaleurs survenus à l'hôpital, selon les services de secours parisiens.",
+    "title": "Plus de 250 pompiers mobilisés pour éteindre des feux en Loire",
+    "full": "Plusieurs incendies de végétation se sont déclarés dans le département de la Loire, nécessitant le déploiement de plus de 250 pompiers. Le foyer principal, localisé à Saint-Just-la-Pendue, a mobilisé 155 pompiers et un hélicoptère de reconnaissance.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Le Samu souligne l'ampleur inédite de la mortalité enregistrée lors des interventions, excluant celle observée dans les établissements hospitaliers.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-le-samu-a-recense-109-morts-vendredi-a-paris-contre-7-habituellement-a-la-meme-periode_8082638.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "La Loire a connu une journée marquée par plusieurs feux de végétation simultanés, requérant une importante mobilisation des services d'intervention.",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/plusieurs-feux-de-vegetation-et-plus-de-250-pompiers-mobilises-en-loire_8083355.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 28,
     "priority": 29
-  },
-  {
-    "themes": [
-      "Culture",
-      "Société"
-    ],
-    "title": "Une BD sur Nanterre trois ans après les émeutes de 2023",
-    "full": "Trois ans après la mort de Nahel qui avait déclenché des émeutes à Nanterre et dans le pays, une bande dessinée intitulée « Nanterre avant l'orage » revient sur les événements. Réalisée par Feurat Alani et Ulysse Gry, l'album explore la vie du quartier en mettant en avant la pauvreté, l'entraide et la colère qui l'animent.",
-    "angles": [
-      {
-        "outlet": "France Info",
-        "take": "La BD propose une plongée dans le quotidien de Nanterre et les tensions sociales qui ont précédé les troubles de 2023.",
-        "url": "https://www.franceinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/nanterre-avant-l-orage-trois-ans-apres-les-emeutes-declenchees-par-la-mort-de-nahel-une-bd-explore-la-vie-du-quartier-et-les-raisons-de-la-colere_8082599.html#xtor=RSS-3-%5Bgeneral%5D"
-      }
-    ],
-    "id": 29,
-    "priority": 30
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Des îles européennes moins connues gagnent en attractivité touristique",
-    "full": "Tandis que Majorque, Ibiza et Mykonos restent des destinations balnéaires populaires, d'autres îles européennes émergent progressivement auprès des voyageurs. Ces alternatives séduisent une clientèle en quête de cadres moins saturés que les hauts lieux du tourisme méditerranéen.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "L'article met en avant l'émergence de nouvelles destinations insulaires européennes qui concurrencent les spots touristiques historiques auprès des voyageurs cherchant de la nouveauté.",
-        "url": "https://www.20minutes.fr/tempo/escapade/4231525-20260627-destinations-paradisiaques-touristes-connaissent-encore?at_medium=display&at_campaign=149"
-      }
-    ],
-    "id": 30,
-    "priority": 31
-  },
-  {
-    "themes": [
-      "Insolite",
-      "Environnement"
-    ],
-    "title": "Une baleine solitaire traverse 7000 km contre ses habitudes",
-    "full": "Une baleine à bosse femelle, baptisée Luban, a entrepris un voyage de 7000 kilomètres depuis la mer d'Arabie, dérogant ainsi à un comportement unique de son espèce. Les baleines à bosse de cette région sont les seules au monde à rester sédentaires, sans migrer. Cette expédition inattendue soulève des questions sur les causes de ce départ : changements environnementaux, recherche de nourriture ou simple décision individuelle.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "Luban brise un schéma migratoire qui caractérisait jusque-là l'ensemble de la population de baleines à bosse de la mer d'Arabie.",
-        "url": "https://www.slate.fr/sciences/baleines-bosse-oman-mer-arabie-sedentaire-migration-luban-nourriture-cetaces-changement-climat"
-      }
-    ],
-    "id": 31,
-    "priority": 32
-  },
-  {
-    "themes": [
-      "Culture"
-    ],
-    "title": "Saint Sébastien, du martyr romain à icône de la culture queer",
-    "full": "Saint Sébastien, centurion exécuté par les Romains au IIIe siècle, a progressivement transcendé son statut de martyr chrétien pour devenir une figure majeure de la culture queer. Son image de jeune homme vulnérable a inspiré pendant des siècles des interprétations artistiques et identitaires qui ont façonné sa réception moderne, bien au-delà du contexte religieux initial.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "La représentation iconographique de Sébastien, vulnérable et exposé, a nourri des appropriations identitaires queer à travers les arts plastiques et visuels depuis l'époque médiévale.",
-        "url": "https://www.slate.fr/culture/comment-saint-sebastien-icones-queer-homosexualite-gay-peinture-arts-romain-martyr-culture"
-      }
-    ],
-    "id": 32,
-    "priority": 33
   }
 ];
