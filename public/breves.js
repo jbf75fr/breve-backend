@@ -1,37 +1,37 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-07-03T06:56:09.627849+00:00
+// 2026-07-04T04:04:26.640890+00:00
 const ARTICLES = [
   {
     "themes": [
-      "Société"
+      "Monde"
     ],
-    "title": "Trois nouvelles plaintes pour violences sexuelles contre Patrick Bruel",
-    "full": "Deux plaintes pour viol et une pour agression sexuelle sur mineure ont été déposées contre le chanteur Patrick Bruel les 25 juin et 1er juillet, selon Mediapart. Les viols dénoncés remonteraient à 2000 et 2014, tandis que l'agression sexuelle sur mineure aurait eu lieu en 1992. L'une des plaintes, concernant des faits de 2014 en marge d'un tournoi international de poker, n'est pas prescrite. Les conseils de Bruel indiquent que le chanteur répondra à ces accusations dans le cadre judiciaire uniquement. Bruel est déjà mis en examen dans plusieurs dossiers de violences sexuelles.",
+    "title": "L'Iran célèbre les funérailles d'Ali Khamenei sur six jours",
+    "full": "L'Iran organise depuis samedi les funérailles nationales d'Ali Khamenei, décédé récemment. Les autorités iraniendes s'attendent à ce que 15 à 20 millions de personnes se rassemblent à Téhéran, tandis que des cérémonies auront aussi lieu à Qom et dans les villes irakiennes de Karbala et Najaf. Le régime présente cet événement d'une semaine comme une démonstration de force, bien que de nombreux Iraniens boycottent les festivités. Les funérailles surviennent après des semaines de tensions géopolitiques et de répression interne.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "Les avocats de Bruel soulignent que le chanteur considère ces accusations comme fausses et entend se défendre devant la justice.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/02/nouvelles-plaintes-pour-viol-et-agression-sexuelle-contre-patrick-bruel_6718235_3224.html"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Une des plaintes pour viol concerne des faits datant de 2014 lors d'un événement international de poker.",
-        "url": "https://www.franceinfo.fr/culture/musique/patrick-bruel/patrick-bruel-vise-par-deux-nouvelles-plaintes-pour-viol-et-une-troisieme-pour-agression-sexuelle-sur-mineure_8090867.html#xtor=RSS-3-[lestitres]"
+        "take": "Les autorités annoncent un rassemblement colossal de 15 à 20 millions de participants rien que dans la capitale iranienne.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/04/funerailles-d-ali-khamenei-des-milliers-de-fideles-affluent-a-teheran-pour-un-dernier-hommage-au-guide-supreme_6720593_3210.html"
       },
       {
         "outlet": "France 24",
-        "take": "Au moins l'une des trois actions judiciaires porte sur des faits qui ne sont pas prescrits.",
-        "url": "https://www.france24.com/fr/france/20260702-patrick-bruel-vis%C3%A9-trois-nouvelles-plaintes-violences-sexuelles-viol-agression-mineure"
+        "take": "Le cercueil a été transféré à la grande mosquée de Téhéran dans une ambiance de deuil marquée par des slogans anti-américains.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260703-iran-les-fun%C3%A9railles-d-ali-khamenei-se-pr%C3%A9parent"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Les dates précises des faits dénoncés s'échelonnent de 1992 à 2014, couvrant plus de deux décennies.",
-        "url": "https://www.humanite.fr/societe/agressions-sexuelles/deux-nouvelles-plaintes-deposees-contre-patrick-bruel-pour-viols-et-une-troisieme-pour-agression-sexuelle-sur-mineure-revele-mediapart"
+        "outlet": "Le Figaro",
+        "take": "Le régime entend faire de ces six jours une vitrine de stabilité politique, malgré une participation partielle de la population.",
+        "url": "https://www.humanite.fr/monde/ali-khamenei/en-iran-une-semaine-dhommage-national-a-ali-khamenei"
       },
       {
-        "outlet": "Mediapart",
-        "take": "Une quatrième femme a également fait appel d'une ordonnance qui avait jugé sa propre plainte pour viol prescrite.",
-        "url": "https://www.mediapart.fr/journal/france/020726/affaire-patrick-bruel-trois-nouvelles-plaintes-deposees-deux-pour-viol-une-pour-agression-sexuelle-sur-min"
+        "outlet": "20 Minutes",
+        "take": "Des délégations étrangères de haut niveau, dont des représentants talibans et pakistanais, se sont déplacées pour rendre hommage.",
+        "url": "https://www.20minutes.fr/monde/israel/4232782-20260703-guerre-iran-talibans-pakistanais-gardiens-revolution-deplace-funerailles-ali-khamenei?at_medium=display&at_campaign=149"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Les funérailles s'accompagnent d'une détente discrète concernant le port du voile islamique dans les rues de Téhéran.",
+        "url": "https://www.franceinfo.fr/monde/iran/reportage-funerailles-d-ali-khamenei-derriere-la-demonstration-de-force-du-regime-un-discret-assouplissement-sur-le-port-du-voile_8091923.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 0,
@@ -39,30 +39,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Sport"
     ],
-    "title": "Kiev frappée par la plus massive attaque russe depuis 2022",
-    "full": "La Russie a lancé dans la nuit du 2 au 3 juillet sa plus violente offensive contre Kiev depuis le début du conflit, tuant au moins 25 à 30 personnes et en blessant près d'une centaine, selon les autorités ukrainiennes. L'attaque a combiné missiles balistiques et drones. Volodymyr Zelensky a promis une riposte et demandé d'urgence à ses alliés des renforts en défense antiaérienne, notamment des missiles Patriot. L'Union européenne a annoncé son intention de proposer de nouvelles sanctions contre Moscou.",
+    "title": "Coupe du monde 2026: l'Argentine élimine le Cap-Vert en seizièmes",
+    "full": "L'Argentine, tenante du titre, s'est qualifiée pour les huitièmes de finale en battant le Cap-Vert 3-2 après prolongation, vendredi à Miami. Les Cap-Verdiens, à leur première Coupe du monde, ont égalisé à deux reprises et ont failli forcer les tirs au but avant de céder dans les ultimes secondes. L'Albiceleste affrontera l'Égypte au tour suivant.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "Kiev réclame immédiatement des missiles Patriot à ses alliés suite à cette attaque record.",
-        "url": "https://www.lemonde.fr/international/live/2026/07/03/en-direct-guerre-en-ukraine-kiev-demande-d-urgence-des-missiles-patriot-a-ses-allies-a-la-suite-de-l-attaque-massive-russe-qui-a-fait-au-moins-27-morts-a-kiev_6716525_3210.html"
-      },
-      {
-        "outlet": "Le Figaro International",
-        "take": "L'attaque a utilisé quinze missiles balistiques et douze drones, visant délibérément les civils selon les habitants.",
-        "url": "https://www.lefigaro.fr/international/ils-veulent-semer-la-terreur-au-sein-de-la-population-apres-l-attaque-la-plus-massive-depuis-2022-les-habitants-de-kiev-comptent-leurs-morts-20260702"
+        "take": "Le Cap-Vert a plusieurs fois revenu au score et s'est approché très près de la victoire avant de finalement s'incliner.",
+        "url": "https://www.lemonde.fr/sport/article/2026/07/04/coupe-du-monde-2026-le-cap-vert-elimine-par-l-argentine-au-terme-d-un-match-d-anthologie_6720560_3242.html"
       },
       {
         "outlet": "Libération",
-        "take": "L'Union européenne prépare de nouvelles sanctions contre les entités soutenant l'industrie militaire russe.",
-        "url": "https://www.liberation.fr/international/europe/neuf-morts-a-kyiv-dans-des-frappes-russes-une-fois-de-plus-lennemi-vise-deliberement-des-civils-20260702_YCRZR46J35H2VF7FVW7TWIV3EU/"
+        "take": "Lionel Scaloni, nommé en intérim à la suite de la défaite 4-3 contre la France en 2018, dirige toujours l'Argentine depuis huit ans.",
+        "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-scaloni-un-interim-qui-dure-a-la-tete-de-la-selection-argentine-20260703_UZYBYSK2EFHLTDRLE3RE4LTXUU/"
       },
       {
         "outlet": "Courrier International",
-        "take": "Zelensky exhorte ses alliés à livrer davantage de moyens de défense antiaérienne face à l'escalade.",
-        "url": "https://www.courrierinternational.com/article/guerre-en-ukraine-zelensky-promet-une-riposte-apres-l-attaque-russe-contre-kiev-la-plus-massive-depuis-le-debut-de-la-guerre_246315"
+        "take": "En tenant tête aux champions du monde en titre jusqu'à la prolongation, le Cap-Vert quitte le tournoi par la grande porte malgré son élimination.",
+        "url": "https://www.courrierinternational.com/article/football-le-cap-vert-sort-de-la-coupe-du-monde-par-la-grande-porte_246581"
       }
     ],
     "id": 1,
@@ -70,25 +65,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Société"
     ],
-    "title": "Monaco : un mandat d'arrêt émis contre une femme soupçonnée d'avoir posé une bombe",
-    "full": "Les autorités monégasques ont identifié et émis un mandat d'arrêt contre la personne soupçonnée d'avoir déposé un colis piégé lundi 29 juin à Monaco. Le suspect serait une femme d'origine ukrainienne, d'environ trente ans, qui se serait dirigée vers l'Italie après l'attaque. L'explosion a blessé trois personnes, dont un oligarque ukrainien. Une notice rouge Interpol a été lancée dans le cadre d'une coopération pénale internationale.",
+    "title": "Dominique Boutonnat, ex-patron du CNC, relaxé en appel",
+    "full": "La cour d'appel de Versailles a relaxé vendredi Dominique Boutonnat, ancien président du Centre national du cinéma, poursuivi pour agression sexuelle sur son filleul. Condamné en première instance à un an de prison ferme, il a bénéficié d'une annulation de sa condamnation, la cour jugeant les faits insuffisamment caractérisés. Le parquet général avait requis trois ans de prison dont un an ferme, soulignant la « posture de déni » maintenue par l'accusé tout au long des procédures.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "L'enquête révèle que l'auteur du colis piégé serait une femme ayant pris la fuite en direction de l'Italie.",
-        "url": "https://www.franceinfo.fr/faits-divers/le-poseur-de-bombe-est-en-realite-une-femme-nos-revelations-sur-l-explosion-du-colis-piege-a-monaco-qui-a-blesse-un-oligarque-ukrainien_8090894.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Un mandat d'arrêt a été émis grâce à la coopération pénale internationale et une notice rouge Interpol a été lancée.",
-        "url": "https://www.france24.com/fr/europe/20260702-suspect-identifie-enquete-tentative-assassinat-explosif-monaco-justice-parquet"
-      },
-      {
         "outlet": "Libération",
-        "take": "La suspecte aurait elle-même déposé le colis piégé dans le hall de l'immeuble de la victime.",
-        "url": "https://www.liberation.fr/international/europe/le-principal-suspect-de-lexplosion-ayant-fait-trois-blesses-a-monaco-est-une-femme-20260702_6EXMDFU3KZFUZHU3HPSXK64VLI/"
+        "take": "L'ex-patron du CNC, initialement condamné, a été relaxé en appel malgré une accusation d'agression sexuelle sur une personne 29 ans plus jeune.",
+        "url": "https://www.liberation.fr/societe/police-justice/accuse-dagression-sexuelle-sur-son-filleul-lex-patron-du-cnc-dominique-boutonnat-fixe-sur-son-sort-en-appel-20260703_ORYYLX6RKJCDDOBADMQN4QMQTM/"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Le parquet général avait maintenu sa demande de trois ans de prison, reprochant à Boutonnat sa attitude de refus persistant face aux accusations.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/03/dominique-boutonnat-ex-patron-du-cnc-juge-en-appel-pour-une-agression-sexuelle-sur-son-filleul-a-ete-relaxe_6719971_3224.html"
+      },
+      {
+        "outlet": "Mediapart",
+        "take": "La cour d'appel a estimé que les faits reprochés, survenus en Grèce en août 2020, n'étaient pas suffisamment établis pour justifier une condamnation.",
+        "url": "https://www.mediapart.fr/journal/france/030726/juge-pour-agression-sexuelle-dominique-boutonnat-ex-patron-du-cnc-relaxe-en-appel"
       }
     ],
     "id": 2,
@@ -98,23 +93,23 @@ const ARTICLES = [
     "themes": [
       "Sport"
     ],
-    "title": "La Suisse élimine l'Algérie et rejoint les huitièmes",
-    "full": "La Suisse s'est qualifiée pour les huitièmes de finale de la Coupe du monde 2026 en dominant l'Algérie 2-0, vendredi à Vancouver. Les Fennecs, en difficulté depuis le début du tournoi, n'ont pas pesé face à la sélection helvète. La Suisse affrontera en huitièmes le vainqueur du match entre la Colombie et le Ghana.",
+    "title": "Coupe du monde 2026 : l'Égypte élimine l'Australie aux tirs au but",
+    "full": "L'Égypte s'est qualifiée pour les huitièmes de finale de la Coupe du monde 2026 en battant l'Australie aux tirs au but (1-1, 4-2) vendredi à Dallas. C'est une première historique pour les Pharaons, qui remportent leur premier match à élimination directe dans une Coupe du monde. L'Australie, elle aussi, n'avait jamais gagné un tel match dans la compétition. Parallèlement, l'engouement autour de l'équipe de France aux États-Unis ne cesse de croître, alimenté par les performances des Bleus et la présence de joueurs français en Major League Soccer (MLS).",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "La Suisse s'est imposée aisément et accède aux huitièmes, où elle rencontrera soit la Colombie, soit le Ghana.",
-        "url": "https://www.lemonde.fr/sport/live/2026/07/03/en-direct-suisse-algerie-suivez-le-seizieme-de-finale-de-la-coupe-du-monde-de-football_6718337_3242.html"
+        "outlet": "France 24",
+        "take": "L'Égypte franchit un cap historique en remportant sa première victoire aux tirs au but en phase éliminatoire d'une Coupe du monde.",
+        "url": "https://www.france24.com/fr/sports/20260703-australie-egypte-direct-live-16e-finale-coupe-du-monde"
       },
       {
-        "outlet": "France 24",
-        "take": "Solide dans sa prestation bien que peu spectaculaire, la Suisse a maîtrisé un match face à l'Algérie d'Ibrahim Maza à Vancouver.",
-        "url": "https://www.france24.com/fr/sports/20260703-suisse-algerie-direct-live-fennecs-nati-16es-finale-coupe-du-monde"
+        "outlet": "France Info",
+        "take": "La popularité de l'équipe de France monte en flèche aux États-Unis, portée par les stars comme Mbappé et la présence de joueurs français en MLS.",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-la-hype-des-bleus-aux-etats-unis_8090606.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "20 Minutes",
-        "take": "L'Algérie n'a pas fait le poids contre la Suisse et quitte le tournoi.",
-        "url": "https://www.20minutes.fr/sport/football/4232584-20260703-coupe-monde-2026-portugal-qualifie-histoire-cheveux-terminus-algerie-recap-nuit?at_medium=display&at_campaign=149"
+        "take": "Le match s'est décidé aux tirs au but après un 1-1 au terme du temps réglementaire et de la prolongation.",
+        "url": "https://www.20minutes.fr/sport/football/4232690-20260703-direct-australie-egypte-duel-ouvert-entre-socceroos-pharaons-route-argentine-suivez-match-19h50?at_medium=display&at_campaign=149"
       }
     ],
     "id": 3,
@@ -125,28 +120,28 @@ const ARTICLES = [
       "Environnement",
       "France"
     ],
-    "title": "Incendies massifs dans le sud de la France, 3 000 personnes évacuées",
-    "full": "Plusieurs incendies ravagent le sud de la France depuis jeudi. Aux Pyrénées-Orientales, un feu déclaré à Sainte-Marie-la-Mer a détruit 256 bungalows répartis dans trois campings et menace la marina du Canet-en-Roussillon, forçant l'évacuation d'environ 3 000 personnes, principalement des touristes. Un autre incendie perdure depuis deux jours dans l'Aude. Les autorités mobilisent des milliers de pompiers tandis que le ministre de l'intérieur se rend sur le terrain. Les conditions météorologiques restent très défavorables avec la sécheresse, des vents violents et une nouvelle canicule annoncée pour le week-end.",
+    "title": "Le Sénat adopte un projet de loi agricole plus favorable aux pesticides",
+    "full": "Le Sénat a validé vendredi le projet de loi d'urgence agricole, dans une version qui renforce les assouplissements environnementaux par rapport au texte adopté par l'Assemblée nationale. Les sénateurs ont notamment réautorisé l'acétamipride et le flupyradifurone, deux insecticides néonicotinoïdes interdits en Europe, et renforcé le poids du secteur agricole dans la gouvernance de l'eau. Le gouvernement et une majorité de députés s'opposent à ces mesures jugées contraires au droit européen. Une commission mixte paritaire est prévue le 16 juillet pour tenter de rapprocher les deux versions du texte.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Souligne la mobilisation gouvernementale de haut niveau, avec interventions du Premier ministre et du ministre de l'intérieur en cellule de crise.",
-        "url": "https://www.lemonde.fr/planete/live/2026/07/03/feux-des-milliers-de-pompiers-toujours-mobilises-dans-le-sud-de-la-france_6718467_3244.html"
-      },
-      {
         "outlet": "France Info",
-        "take": "Détaille les destructions dans les installations touristiques et portuaires du Canet-en-Roussillon.",
-        "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/trois-campings-en-proie-aux-flammes-et-3-000-personnes-evacuees-en-urgence-le-canet-en-roussillion-face-un-violent-incendie_8090804.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Les deux chambres ont adopté des versions très différentes du projet de loi, l'une avec des dispositions contraires au droit européen selon le gouvernement, l'autre comportant de nombreux assouplissements environnementaux.",
+        "url": "https://www.franceinfo.fr/environnement/apres-l-assemblee-nationale-le-senat-adopte-a-son-tour-le-projet-de-loi-d-urgence-agricole-avec-des-mesures-tres-controversees-sur-l-eau-et-les-pesticides_8091542.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "France 24",
-        "take": "Met l'accent sur les facteurs climatiques aggravants (sécheresse, vents, canicule à venir) annonçant une situation critique dans les jours suivants.",
-        "url": "https://www.france24.com/fr/france/20260702-incendies-dans-le-sud-des-centaines-de-pompiers-mobilis%C3%A9s-lecornu-attendu-sur-place"
+        "outlet": "Le Monde",
+        "take": "La réautorisation de l'acétamipride et le renforcement du poids agricole dans la gouvernance de l'eau placent le gouvernement dans l'embarras avant les négociations de la commission mixte paritaire.",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/03/projet-de-loi-d-urgence-agricole-le-durcissement-par-le-senat-des-articles-sur-l-eau-place-le-gouvernement-dans-l-embarras_6720481_3244.html"
       },
       {
         "outlet": "Libération",
-        "take": "Relève que deux pompiers ont été blessés et que des entreprises ont également été affectées par les flammes.",
-        "url": "https://www.liberation.fr/environnement/incendie-a-canet-en-roussillon-1-500-personnes-evacuees-dimportants-degats-20260702_L6QZ2DCGBZBDNLX7X6S27IR5OQ/"
+        "take": "Trois points majeurs du texte suscitent la controverse : la réintroduction de l'acétamipride, les reculs sur la qualité et le stockage de l'eau, ainsi que l'utilisation d'armes contre le loup.",
+        "url": "https://www.liberation.fr/environnement/agriculture/loi-durgence-agricole-les-sujets-qui-fachent-meme-le-gouvernement-20260703_IVTZQH6CTBGDNA42X4QJWRHMUQ/"
+      },
+      {
+        "outlet": "Reporterre",
+        "take": "La ministre de la Transition écologique compare cette version à la loi Duplomb, un précédent législatif favorable aux pesticides, soulignant qu'elle dépasse même la reculade initiale du gouvernement.",
+        "url": "https://reporterre.net/La-loi-d-urgence-agricole-une-nouvelle-loi-Duplomb-selon-la-ministre-de-la-Transition-ecologique"
       }
     ],
     "id": 4,
@@ -154,25 +149,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Société"
     ],
-    "title": "Trump façonne les célébrations des 250 ans américains à son image",
-    "full": "Les États-Unis marquent samedi le 250e anniversaire de leur Déclaration d'indépendance, avec des festivités organisées depuis juin à Washington sous l'empreinte personnelle du président Donald Trump. La Grande Foire de l'État américain, événement phare prévu sur le National Mall, s'apparente selon des observateurs à une mise en scène sommaire plutôt qu'à la célébration grandiose annoncée. Ces festivités coïncident avec une augmentation spectaculaire de la fortune personnelle de Trump, alimentée par des investissements immobiliers, des terrains de golf et la cryptomonnaie, dont la valeur aurait quasiment triplé en deux ans.",
+    "title": "Monaco : une Ukrainienne recherchée pour tentative d'assassinat",
+    "full": "Une femme ukrainienne de 39 ans, Anastasia Berezovska, est activement recherchée par Interpol dans le cadre de l'explosion d'un colis piégé survenue à Monaco le 29 juin. Le paquet avait visé Vadim Ermolaev, un oligarque ukrainien, qui a été blessé ainsi que sa femme et son enfant. Domiciliée en Allemagne, la suspecte s'est enfuie via la France et l'Italie en voiture de location. Le parquet indique que « les faits semblent indiquer » qu'elle n'a pas agi seule.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Les événements commémoratifs des 250 ans de l'indépendance portent une forte marque politique liée à la présidence Trump.",
-        "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/on-celebre-donald-trump-comment-le-president-americain-faconne-les-festivites-des-250-ans-de-l-independance-americaine-a-sa-gloire-et-a-sa-maniere_8080673.html#xtor=RSS-3-[lestitres]"
+        "take": "La femme a été identifiée et son domicile en Allemagne a fait l'objet d'une perquisition, mais elle reste en fuite.",
+        "url": "https://www.franceinfo.fr/faits-divers/domiciliee-en-allemagne-ukrainienne-qui-est-anastasia-berezovska-la-femme-suspectee-d-avoir-pose-le-colis-piege-a-monaco_8093090.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Courrier International",
-        "take": "La Great American State Fair sur le National Mall ressemble à une mise en scène rudimentaire comparée aux ambitions affichées.",
-        "url": "https://www.courrierinternational.com/article/etats-unis-donald-trump-erige-un-village-en-toc-sur-le-national-mall-de-washington_245868"
+        "take": "La suspecte se serait déguisée en homme pour déposer le colis piégé.",
+        "url": "https://www.courrierinternational.com/article/colis-piege-attentat-a-monaco-interpol-recherche-une-ukrainienne-qui-s-est-deguisee-en-homme_246548"
       },
       {
-        "outlet": "Libération",
-        "take": "Trump a généré plus de deux milliards de dollars en 2025 grâce à des opérations financières diversifiées.",
-        "url": "https://www.liberation.fr/international/amerique/aux-etats-unis-qui-a-gagne-des-milliards-cest-donald-trump-20260702_L7N5LJIQAZGPFJT6QV752P3PCQ/"
+        "outlet": "Le Monde",
+        "take": "Les enquêteurs soupçonnent qu'elle n'a pas commis seule cet acte et qu'elle aurait reçu l'aide de complices.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/03/tentative-d-assassinat-a-monaco-une-femme-ukrainienne-recherchee-par-interpol-les-faits-semblent-indiquer-que-la-suspecte-n-a-pas-agi-seule-selon-le-parquet_6719165_3224.html"
       }
     ],
     "id": 5,
@@ -180,26 +175,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France",
-      "Environnement"
+      "Sport"
     ],
-    "title": "Le Sénat adopte une loi d'urgence agricole très contestée",
-    "full": "Le Sénat a approuvé dans la nuit du 2 au 3 juillet un projet de loi d'urgence agricole sensiblement différent de celui adopté par l'Assemblée nationale. Cette version sénatoriale comporte de nombreux assouplissements aux contraintes environnementales et autorise la réintroduction dérogatoire de certains insecticides interdits, comme l'acétamipride. Les deux chambres ayant voté des textes divergents, une commission mixte paritaire doit se réunir le 16 juillet pour en réconcilier les dispositions.",
+    "title": "France et Paraguay se retrouvent en huitième de finale, 28 ans après 1998",
+    "full": "La France affronte le Paraguay samedi 4 juillet en huitième de finale de la Coupe du monde 2026 à Philadelphie. C'est la première fois que les deux équipes se rencontrent à ce stade depuis 1998, quand Laurent Blanc avait éliminé les Paraguayens d'un but en or en prolongation. Ce souvenir reste vivace au Paraguay, où la presse espère une revanche, tandis que les supporters français affichent leur confiance avant la rencontre.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Le Sénat a substantiellement remanié le texte de l'Assemblée en direction d'assouplissements environnementaux et d'une réintroduction d'insecticides interdits.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/03/loi-d-urgence-agricole-le-senat-adopte-une-version-nettement-remaniee-par-la-droite-incertitudes-sur-l-avenir-du-texte_6718336_823448.html"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Les deux chambres ont adopté des versions radicalement différentes, la première contenant des dispositions jugées contraires au droit européen par le gouvernement.",
-        "url": "https://www.franceinfo.fr/environnement/apres-l-assemblee-nationale-le-senat-adopte-a-son-tour-le-projet-de-loi-d-urgence-agricole-avec-des-mesures-tres-controversees-sur-l-eau-et-les-pesticides_8091542.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Libération",
+        "take": "Le match de 1998 a marqué les esprits comme un affrontement entre la France et le gardien paraguayen Chilavert, réputé quasi infranchissable.",
+        "url": "https://www.liberation.fr/sports/football/on-a-reregarde-le-match-france-paraguay-de-1998-cetait-les-bleus-contre-chilavert-20260703_FSBTL4QRPNE5FJM6CUMAK2G5CU/"
       },
       {
         "outlet": "France 24",
-        "take": "Le texte sénatorial comporte des mesures très clivantes et devra être harmonisé avec celui des députés lors d'une réunion en commission paritaire fixée au 16 juillet.",
-        "url": "https://www.france24.com/fr/france/20260703-le-s%C3%A9nat-adopte-le-projet-de-loi-d-urgence-agricole-avec-des-mesures-clivantes"
+        "take": "Les supporters des Bleus formulent des pronostics optimistes (victoires de 3 à 0, 2 à 1 ou 3 à 1) avant le match.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260704-mondial-2026-les-pronostics-des-supporters-des-bleus-avant-le-match-contre-le-paraguay"
+      },
+      {
+        "outlet": "Courrier International",
+        "take": "Au Paraguay, ce huitième de finale est perçu comme l'occasion d'effacer un souvenir traumatisant gravé dans la mémoire collective du pays.",
+        "url": "https://www.courrierinternational.com/article/coupe-du-monde-1998-2026-le-paraguay-a-un-compte-a-regler-avec-les-bleus_246249"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Didier Deschamps, en poste depuis 1998, sera encore sur le banc français lors de cette nouvelle confrontation.",
+        "url": "https://www.20minutes.fr/diaporama/diaporama-4232420-images-coupe-monde-2026-grosse-trouille-lumiere-vient-blanc-france-paraguay-1998?at_medium=display&at_campaign=149"
       }
     ],
     "id": 6,
@@ -207,25 +206,31 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Santé",
+      "Environnement"
     ],
-    "title": "Au Venezuela, un survivant extrait des décombres huit jours après les séismes",
-    "full": "Un homme de 43 ans a été dégagé vivant des ruines d'un immeuble à Catia La Mar, au Venezuela, huit jours après les deux tremblements de terre qui ont ravagé le pays. Des équipes de secours venues de sept pays ont creusé pendant plus de trois jours pour le libérer de la guérite de sécurité où il était enseveli. Le bilan officiel des séismes atteint au moins 2 595 morts, tandis que l'ONU signale environ 50 000 personnes portées disparues. Les opérations de recherche se poursuivent, mais les chances de retrouver d'autres survivants diminuent.",
+    "title": "La canicule de juin a provoqué une surmortalité de 30 % en France",
+    "full": "La vague de chaleur exceptionnelle survenue la dernière semaine de juin a entraîné au moins 2 025 décès supplémentaires en France par rapport à la semaine précédente, soit une hausse de près de 30 %, selon Santé publique France. La surmortalité a été particulièrement marquée en Île-de-France avec une augmentation de 62 %, ainsi que dans les Pays de la Loire. Ce bilan, annoncé par la ministre de la Santé Stéphanie Rist, reste partiellement consolidé et pourrait être révisé à la hausse.",
     "angles": [
       {
+        "outlet": "France 24",
+        "take": "La ministre de la Santé communique un bilan officiel de Santé publique France détaillant une surmortalité nationale de 30 % avec un taux d'au moins 62 % à Paris.",
+        "url": "https://www.france24.com/fr/france/20260703-france-augmentation-d%C3%A9c%C3%A8s-presque-30-pourcent-semaine-canicule"
+      },
+      {
+        "outlet": "Sciences et Avenir",
+        "take": "Les chiffres de surmortalité sont établis pour la semaine du 22 juin, marquée par une canicule jugée exceptionnelle.",
+        "url": "https://www.sciencesetavenir.fr/sante/france-les-deces-ont-augmente-de-presque-30-la-semaine-de-la-canicule_193568?xtor=RSS-16"
+      },
+      {
         "outlet": "Le Monde",
-        "take": "Met l'accent sur l'exploit technique et humain des sauvetages internationaux, alors que l'espoir de trouver des survivants s'amenuise.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/02/au-venezuela-un-survivant-a-ete-extrait-des-decombres-huit-jours-apres-le-double-seisme_6718041_3210.html"
+        "take": "Au-delà de l'Île-de-France, les Pays de la Loire enregistrent une progression similaire des décès durant la même période.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/03/canicule-de-juin-les-deces-ont-augmente-de-presque-30-selon-sante-publique-france_6718477_3224.html"
       },
       {
-        "outlet": "France Info",
-        "take": "Soulève les raisons du bilan particulièrement lourd de cette catastrophe naturelle.",
-        "url": "https://www.franceinfo.fr/monde/venezuela/pourquoi-le-bilan-des-deux-seismes-qui-ont-frappe-le-venezuela-est-il-si-lourd_8090588.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "Courrier International",
-        "take": "Détaille le sauvetage spécifique de cet homme et son état de santé, qualifié de miracle.",
-        "url": "https://www.courrierinternational.com/article/miracle-apres-huit-jours-sous-les-decombres-hernan-gil-a-ete-extrait-vivant-au-venezuela_246232"
+        "outlet": "Reporterre",
+        "take": "Le nombre précis de décès supplémentaires (2 025) est confirmé et le bilan est encore partiel au moment de l'annonce.",
+        "url": "https://reporterre.net/Canicule-de-juin-les-deces-en-hausse-de-presque-30"
       }
     ],
     "id": 7,
@@ -233,30 +238,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Monde"
     ],
-    "title": "La condamnation de Dany Leprince annulée après 32 ans",
-    "full": "La Cour de révision a annulé jeudi la condamnation à perpétuité de Dany Leprince pour un quadruple meurtre commis en 1994 dans la Sarthe, ordonnant un nouveau procès. Cet homme, qui clame son innocence depuis trois décennies et a passé 18 ans en prison, bénéficie d'une décision rarissime en France : seuls quelques cas de révision de condamnations pénales criminelles sont annulés chaque année. Deux éléments ignorés des juges lors du procès original ont justifié cette annulation.",
+    "title": "Les États-Unis fêtent 250 ans d'indépendance dans la division",
+    "full": "Le 4 juillet 2026, les États-Unis marquent le 250e anniversaire de leur déclaration d'indépendance, mais l'événement se déroule dans un contexte de crise politique et de fractures nationales. Donald Trump a fait du bicentenaire une plateforme personnelle, utilisant notamment le Mont Rushmore pour un discours inaugural des festivités, ce qui accentue les divisions plutôt que de chercher l'unité. Au-delà de cette appropriation politique, les historiens soulignent que l'idéal d'égalité énoncé par les textes fondateurs reste lointain, que le système d'équilibre des pouvoirs s'est fissuré, et que la confiance commune dans l'histoire nationale s'érode sensiblement.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Dany Leprince a exprimé son incrédulité face à cette annulation après des décennies de bataille pour prouver son innocence.",
-        "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/j-ai-tellement-bataille-que-quand-ca-arrive-on-a-du-mal-a-y-croire-la-condamnation-a-perpetuite-de-dany-leprince-annulee_8090825.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Cette décision constitue un rebondissement spectaculaire dans une affaire vieille de plus de trente ans.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260702-la-condamnation-de-dany-leprince-annul%C3%A9e-dans-un-rebondissement-rarissime"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "Deux éléments probatoires inconnus des magistrats au moment du procès ont conduit à l'annulation.",
-        "url": "https://www.20minutes.fr/justice/4232450-20260702-affaire-dany-leprince-plus-boucher-sarthe-condamnation-annulee-trente-ans-apres-massacre?at_medium=display&at_campaign=149"
+        "outlet": "Libération",
+        "take": "Le président Trump transforme l'anniversaire national en tribune personnelle au lieu de promouvoir l'unité du pays.",
+        "url": "https://www.liberation.fr/international/amerique/comment-donald-trump-sest-approprie-les-celebrations-des-250-ans-de-lindependance-americaine-20260703_4D2ODPNO3NGQXEQFD2FFDNC7U4/"
       },
       {
         "outlet": "Le Monde",
-        "take": "Les révisions de condamnations criminelles restent extrêmement exceptionnelles dans le système judiciaire français.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/02/affaire-dany-leprince-pourquoi-la-justice-a-annule-sa-condamnation-et-ordonne-un-nouveau-proces_6718221_3224.html"
+        "take": "Les deux mandats Trump ont endommagé la cohésion nationale et alimenté le doute sur les fondements mêmes du régime démocratique.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/04/250-ans-d-independance-americaine-un-anniversaire-desenchante_6720597_3210.html"
+      },
+      {
+        "outlet": "Le Figaro International",
+        "take": "L'anniversaire est l'occasion de revenir sur George Washington, première figure légendaire dont le mythe cache une réalité plus complexe.",
+        "url": "https://www.lefigaro.fr/international/il-etait-l-homme-de-la-situation-la-vie-revolutionnaire-de-george-washington-pere-de-l-independance-americaine-devenu-legende-nationale-20260703"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Le Mont Rushmore, site controversé choisi pour le discours de Trump, accueille chaque année plus de deux millions de visiteurs.",
+        "url": "https://www.20minutes.fr/monde/etats-unis/4232678-20260703-controverses-salle-secrete-cinq-choses-savoir-mont-rushmore-avant-discours-donald-trump?at_medium=display&at_campaign=149"
       }
     ],
     "id": 8,
@@ -264,26 +269,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé",
-      "Environnement"
+      "Monde"
     ],
-    "title": "La canicule de juin a causé au moins 2 025 décès supplémentaires",
-    "full": "Au moins 2 025 décès supplémentaires ont été enregistrés en France pendant la canicule du mois de juin, selon les chiffres annoncés par la ministre de la Santé et émanant de Santé publique France. Ces données, qui ne couvrent qu'un peu plus de la moitié des certificats de décès, restent incomplètes et seront consolidées après l'été pour un bilan définitif.",
+    "title": "Venezuela : le bilan du séisme atteint au moins 2 645 morts",
+    "full": "Neuf jours après le double séisme qui a frappé le Venezuela le 24 juin, les autorités ont annoncé un bilan d'au moins 2 645 morts et 12 666 blessés. Les Nations unies estiment cependant que la catastrophe pourrait avoir causé la disparition d'environ 50 000 personnes, révélant un écart significatif avec le bilan officiel. Les recherches de survivants se poursuivent dans le pays.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Les chiffres proviennent de Santé publique France et demeurent à consolider avant publication du bilan définitif après l'été.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/au-moins-2-025-deces-supplementaires-ont-ete-recenses-pendant-la-canicule-du-mois-de-juin-annonce-la-ministre-de-la-sante_8091710.html#xtor=RSS-3-[lestitres]"
+        "take": "Met l'accent sur le fossé entre le bilan officiel et les estimations de l'ONU concernant les disparus.",
+        "url": "https://www.franceinfo.fr/monde/venezuela/neuf-jours-apres-le-double-seisme-au-venezuela-un-nouveau-bilan-evoque-au-moins-2-645-morts_8093099.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Le bilan communiqué par la ministre de la Santé est encore incomplet à ce stade.",
-        "url": "https://www.20minutes.fr/societe/4232588-20260703-canicule-moins-2-000-deces-supplementaires-lies-chaleur-juin-france?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Souligne la prudence des autorités sur le nombre de disparus et l'ampleur dramatique révélée par les chiffres de l'ONU.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/03/seisme-au-venezuela-un-dernier-bilan-fait-etat-de-2-645-morts-et-12-666-blesses_6720488_3210.html"
       },
       {
         "outlet": "Libération",
-        "take": "Les données ne concernent qu'un peu plus de la moitié des certificats de décès et seront amenées à évoluer.",
-        "url": "https://www.liberation.fr/societe/sante/canicule-surmortalite-dau-moins-2-025-deces-la-semaine-du-22-juin-annonce-la-ministre-de-la-sante-20260703_7ZBY4ENKZBD6FN6PFNAIKWG4HM/"
+        "take": "Rapporte que le bilan officiel a été annoncé vendredi par la présidente par intérim et que les opérations de recherche se poursuivent.",
+        "url": "https://www.liberation.fr/international/amerique/venezuela-apres-le-seisme-un-nouveau-bilan-seleve-a-2-595-morts-tandis-que-continuent-les-recherches-de-survivants-20260703_FDUX2ETWRVFE3CEDSQIZI5WJIA/"
       }
     ],
     "id": 9,
@@ -291,25 +295,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Société"
     ],
-    "title": "Poutine reconnaît les difficultés internes face à la prolongation du conflit",
-    "full": "Vladimir Poutine a admis pour la première fois que les attaques ukrainiennes causaient des « problèmes » en Russie, marquant un changement de ton du président russe. La Russie fait face à une pénurie d'essence, des frappes sur Moscou et un mécontentement croissant de la population. Malgré ces défis internes et une économie affaiblie, Poutine maintient ses exigences maximales envers l'Ukraine et refuse toute négociation pour mettre fin au conflit.",
+    "title": "Décès en garde à vue à Paris : l'autopsie exclut les violences",
+    "full": "Un homme de 78 ans est mort mercredi matin au commissariat du XXe arrondissement de Paris, où il était gardé à vue depuis la veille pour soupçons de violences conjugales. L'autopsie ne révèle aucune lésion de prise, de maintien ou de défense. Le parquet précise que l'état de santé du septuagénaire avait été jugé compatible avec cette mesure lors d'une visite médicale mardi. L'Inspection générale de la police nationale a été saisie d'une enquête pour établir les causes du décès.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Poutine reconnaît pour la première fois que les attaques ukrainiennes posent des problèmes au pays.",
-        "url": "https://www.franceinfo.fr/monde/russie/vladimir-poutine/penurie-d-essence-frappes-ukrainiennes-sur-moscou-mecontentement-de-la-population-vladimir-poutine-est-il-en-difficulte-en-russie_8090213.html#xtor=RSS-3-[lestitres]"
+        "take": "Souligne que l'autopsie ne relève aucune trace de violences physiques liées à une intervention policière.",
+        "url": "https://www.franceinfo.fr/faits-divers/l-autopsie-de-l-homme-de-78-ans-mort-dans-un-commissariat-a-paris-ne-releve-aucune-lesion-de-prise-de-maintien-ni-de-defense-selon-le-parquet_8092982.html#xtor=RSS-3-[lestitres]"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Insiste sur le contexte des accusations de violences conjugales et la saisine de l'IGPN.",
+        "url": "https://www.liberation.fr/societe/police-justice/a-paris-un-homme-de-78-ans-meurt-en-garde-a-vue-au-commissariat-du-xxe-arrondissement-20260702_G54HGHHJNVAZ5IAM4NT225UJGY/"
       },
       {
         "outlet": "Le Monde",
-        "take": "Le président russe poursuit une stratégie d'exigences intransigeantes malgré l'affaiblissement économique et la fatigue populaire.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/03/vladimir-poutine-la-tentation-de-la-fuite-en-avant_6718449_3210.html"
-      },
-      {
-        "outlet": "Courrier International",
-        "take": "Selon un analyste russe, Poutine reste piégé dans une impasse dont il ne sait comment s'échapper et alimente le ressentiment pour assurer sa survie politique.",
-        "url": "https://www.courrierinternational.com/article/analyse-vladimir-poutine-ou-la-strategie-de-l-impasse-sans-fin_245362"
+        "take": "Met l'accent sur l'évaluation médicale favorable effectuée avant la mort, le jour précédent.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/03/mort-d-un-homme-de-78-ans-dans-un-commissariat-a-paris-l-autopsie-ne-releve-aucune-lesion-de-prise-de-maintien-ni-de-defense-annonce-le-parquet_6720482_3224.html"
       }
     ],
     "id": 10,
@@ -317,25 +321,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé"
+      "Société"
     ],
-    "title": "L'Assurance-maladie propose d'interdire la vente de cigarettes aux nouveaux nés",
-    "full": "La Caisse nationale d'Assurance-maladie recommande d'interdire la commercialisation de cigarettes aux personnes nées à partir de 2009, dans un rapport annuel publié mercredi. Cette mesure s'inscrit dans un ensemble de propositions préventives visant à réaliser 3,9 milliards d'euros d'économies par an d'ici 2027 et assurer la soutenabilité des dépenses de santé. Le rapport inclut également d'autres mesures, dont l'affichage obligatoire du Nutri-Score sur les produits alimentaires.",
+    "title": "Justice suspend l'exclusion de deux agents municipaux à Hénin-Beaumont",
+    "full": "Le tribunal administratif de Lille a suspendu vendredi l'exclusion de deux agents municipaux d'Hénin-Beaumont, décidée par la mairie. La justice a jugé cette sanction disproportionnée et ordonne la réintégration des deux fonctionnaires dans un délai d'une semaine, sous astreinte de 150 euros par jour de retard. Un jugement sur le fond est attendu ultérieurement.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "La présidente de la Cnam souligne que la prévention constitue « la bataille de la décennie » et représente « un bon investissement » pour changer le cap des politiques de santé.",
-        "url": "https://www.franceinfo.fr/sante/l-assurance-maladie-preconise-l-interdiction-de-la-vente-de-cigarettes-aux-personnes-nees-apres-2009_8090384.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "La décision de justice impose la réintégration provisoire des agents dans un délai d'une semaine avec une pénalité financière en cas de non-respect.",
+        "url": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/henin-beaumont/a-la-mairie-d-henin-beaumont-la-justice-suspend-l-exclusion-de-deux-agents-municipaux-syndiques_8093006.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Le Figaro Éco",
-        "take": "Ces propositions s'accompagnent d'autres mesures sur les arrêts de travail et la lutte contre la fraude pour atteindre l'objectif global d'économies de 3,9 milliards d'euros.",
-        "url": "https://www.lefigaro.fr/conjoncture/arrets-de-travail-fraude-tabac-les-propositions-de-l-assurance-maladie-pour-faire-economiser-3-9-milliards-d-euros-en-2027-20260703"
+        "outlet": "Libération",
+        "take": "Le tribunal a estimé que la sanction du maire d'extrême droite Steeve Briois, qui reprochait divers manquements aux agents, dépassait la mesure.",
+        "url": "https://www.liberation.fr/politique/henin-beaumont-la-justice-suspend-lexclusion-par-la-mairie-rn-de-deux-agents-municipaux-syndiques-20260703_NSDJLGWGNRFQHG2WGKSMCOG74M/"
       },
       {
-        "outlet": "Le Monde",
-        "take": "Le rapport préconise également l'étiquetage obligatoire du Nutri-Score et une meilleure information sur les produits ultra-transformés dans sa stratégie de réduction des dépenses.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/02/l-assurance-maladie-plaide-pour-l-interdiction-definitive-de-la-vente-de-cigarettes-aux-personnes-nees-apres-2009-et-propose-l-etiquetage-obligatoire-de-nutri-score-ainsi-que-des-produits-ultratransformes_6718191_3224.html"
+        "outlet": "Mediapart",
+        "take": "Les deux agents syndiqués à SUD ont obtenu gain de cause face à la commune, qui devait les réintégrer dans les sept jours.",
+        "url": "https://www.mediapart.fr/journal/economie-et-social/030726/le-maire-rn-d-henin-beaumont-oblige-par-la-justice-de-reintegrer-deux-syndicalistes"
       }
     ],
     "id": 11,
@@ -343,25 +347,26 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé"
+      "Société",
+      "Culture"
     ],
-    "title": "L'OMS déclare la fin de l'épidémie d'hantavirus sur un bateau de croisière",
-    "full": "Le directeur général de l'Organisation mondiale de la santé a annoncé jeudi que l'épisode d'hantavirus déclaré à bord du navire de croisière MV Hondius était officiellement terminé. La dernière personne exposée au virus a achevé sa quarantaine et a été testée négative. L'OMS poursuivra une étude impliquant 21 pays pour mieux comprendre l'évolution de la maladie et développer de nouveaux diagnostics, traitements et vaccins.",
+    "title": "Jimmy Mohamed retiré de France Télévisions après accusations de violences",
+    "full": "Jimmy Mohamed, animateur du « Mag de la santé » sur France Télévisions, a été mis en retrait temporairement de ses fonctions. Son épouse a publié lundi sur Instagram des photos montrant des hématomes sur ses bras, déclarant subir insultes et menaces depuis qu'elle a demandé le divorce. Des images datant de décembre selon ses dires. Le médecin a nié ces accusations vendredi sur le même réseau social, affirmant n'avoir « jamais exercé de violences ».",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Souligne que la fin de l'épisode a été confirmée par le test négatif de la dernière personne exposée après sa période de quarantaine.",
-        "url": "https://www.liberation.fr/societe/sante/lepisode-dhantavirus-declare-sur-un-bateau-de-croisiere-officiellement-termine-selon-loms-20260702_4PRSXQVYDBBCHKNRY63JISPKGY/"
+        "outlet": "France Info",
+        "take": "Met en avant le témoignage de la femme de Jimmy Mohamed décrivant les insultes et menaces qu'elle subirait depuis sa demande de divorce.",
+        "url": "https://www.franceinfo.fr/culture/tv/jimmy-mohamed-animateur-du-mag-de-la-sante-mis-en-retrait-temporairement-de-france-televisions-apres-des-accusations-de-violences-conjugales_8092751.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Le Monde",
-        "take": "Met l'accent sur le programme international de recherche lancé par l'OMS pour prévenir de futures flambées épidémiques.",
-        "url": "https://www.lemonde.fr/planete/article/2026/07/02/hantavirus-le-directeur-general-de-l-oms-declare-la-fin-de-l-episode-de-hantavirus-lie-au-navire-de-croisiere-mv-hondius_6718179_3244.html"
+        "take": "Souligne le démenti public du médecin et la datation des hématomes, remontant à décembre.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/03/jimmy-mohamed-animateur-du-mag-de-la-sante-mis-en-retrait-temporairement-de-france-televisions_6720434_3224.html"
       },
       {
-        "outlet": "France Info",
-        "take": "Insiste sur la poursuite de la collaboration entre l'OMS, les gouvernements et les partenaires pour analyser cet événement sanitaire.",
-        "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/le-chef-de-l-oms-declare-la-fin-de-la-flambee-d-hantavirus-liee-au-navire-de-croisiere-mv-hondius_8090396.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "20 Minutes",
+        "take": "Rapporte la décision officielle de France Télévisions de procéder au retrait provisoire de son présentateur.",
+        "url": "https://www.20minutes.fr/arts-stars/television/4232706-20260703-france-televisions-retrait-provisoire-presentateur-jimmy-mohamed-accuse-violences-conjugales?at_medium=display&at_campaign=149"
       }
     ],
     "id": 12,
@@ -369,25 +374,26 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Santé",
+      "Environnement"
     ],
-    "title": "Les écologistes déposent une motion de censure contre le gouvernement",
-    "full": "Le groupe des députés écologistes a déposé jeudi 2 juillet une motion de censure contre le gouvernement Lecornu, l'accusant d'inaction face à la crise climatique et de mauvaise gestion de la canicule. Selon les écologistes, le gouvernement a « aggravé les vulnérabilités du pays » face au changement climatique et aux épisodes caniculaires, malgré les alertes du Giec sur l'augmentation de la fréquence des vagues de chaleur. Le texte doit être débattu à l'Assemblée nationale le 6 juillet.",
+    "title": "Plus de 2 000 décès liés à la canicule en France en juin",
+    "full": "La canicule qui a frappé la France fin juin a provoqué au moins 2 025 décès supplémentaires entre le 22 et le 28 juin, selon Santé publique France. Les personnes âgées de plus de 45 ans ont été particulièrement touchées, l'Île-de-France figurant parmi les régions les plus exposées. Ce bilan reste cependant partiel et les spécialistes s'attendent à des évaluations définitives plus importantes.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Marine Tondelier, candidate écologiste à la présidentielle, estime que l'adoption de la motion pourrait permettre au pays de faire mieux face à la crise climatique.",
-        "url": "https://www.franceinfo.fr/politique/crise-climatique-cette-motion-de-censure-si-elle-passe-nous-permettrait-peut-etre-de-faire-mieux-estime-marine-tondelier_8089844.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "France 24",
+        "take": "Souligne la vulnérabilité accrue des personnes âgées et l'impact croissant des épisodes de chaleur extrême sur la santé publique.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260703-canicule-plus-de-2000-d%C3%A9c%C3%A8s-li%C3%A9s-%C3%A0-la-chaleur-en-france"
       },
       {
-        "outlet": "Libération",
-        "take": "Le Premier ministre Lecornu assure que la situation s'améliore, aucun département n'étant classé en alerte rouge ce week-end.",
-        "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-lecornu-attendu-ce-jeudi-a-marseille-incendies-en-cours-dans-le-sud-du-pays-20260702_WOD76NAV7JGCPKEKT5V3IJXVFY/"
+        "outlet": "20 Minutes",
+        "take": "Précise que le décompte fourni par la ministre de la Santé reste incomplet.",
+        "url": "https://www.20minutes.fr/societe/4232588-20260703-canicule-moins-2-000-deces-supplementaires-lies-chaleur-juin-france?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Reporterre",
-        "take": "Les écologistes dénoncent l'« impréparation » du gouvernement face à des phénomènes que la science climatique prévoyait depuis longtemps.",
-        "url": "https://reporterre.net/Canicule-Les-Ecologistes-deposent-leur-motion-de-censure-contre-le-gouvernement"
+        "outlet": "Le Monde",
+        "take": "Insiste sur le caractère très parcellaire des statistiques actuelles et l'attente de chiffres définitifs sensiblement plus élevés.",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/03/au-moins-2-000-victimes-pourquoi-la-photographie-des-morts-de-la-canicule-de-juin-est-tres-incomplete_6719161_3244.html"
       }
     ],
     "id": 13,
@@ -395,26 +401,26 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement",
-      "Société"
+      "Santé",
+      "Économie"
     ],
-    "title": "Un incendie dévaste 900 hectares entre Hérault et Aude",
-    "full": "Un incendie majeur qui a débuté le 1er juillet dans l'Hérault s'est propagé à l'Aude, ravageant environ 900 hectares. Attisé par les vents, le feu a entraîné l'évacuation d'urgence de plusieurs habitants et mobilisé plus de 750 pompiers jeudi 2 juillet. Le Minervois, région agricole gravement touchée, avait déjà subi des dégâts importants lors de la tempête Nils en février.",
+    "title": "L'Assurance-maladie propose 40 mesures pour économiser 3,9 milliards en 2027",
+    "full": "La Caisse nationale d'Assurance-maladie a formulé quarante propositions au gouvernement pour réduire le déficit de la Sécurité sociale. Parmi elles figurent l'interdiction de vente de cigarettes aux personnes nées après 2009, le renforcement du Nutri-Score, la promotion de la vaccination et l'obligation du port du casque à vélo. L'Assurance-maladie privilégie la prévention pour freiner la croissance des dépenses de santé et entend également lutter contre la fraude et les arrêts de travail abusifs.",
     "angles": [
       {
-        "outlet": "France 24",
-        "take": "Insiste sur l'ampleur des moyens de lutte (750 pompiers) et l'étendue des surfaces brûlées (800 hectares).",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260702-france-800-hectares-d%C3%A9j%C3%A0-incendi%C3%A9s-entre-l-h%C3%A9rault-et-l-aude"
+        "outlet": "Le Figaro Éco",
+        "take": "L'Assurance-maladie mise avant tout sur la prévention comme levier durable de réduction du déficit.",
+        "url": "https://www.lefigaro.fr/conjoncture/arrets-de-travail-fraude-tabac-les-propositions-de-l-assurance-maladie-pour-faire-economiser-3-9-milliards-d-euros-en-2027-20260703"
       },
       {
-        "outlet": "Libération",
-        "take": "Met l'accent sur le témoignage des habitants face aux conditions difficiles et la localisation précise des dégâts (Pouzols-Minervois).",
-        "url": "https://www.liberation.fr/environnement/dans-laude-apres-une-journee-face-aux-incendies-la-fumee-cest-atroce-ca-donne-la-nausee-20260702_WNJBRCGM5BFVNMDPJTR5ZBPP3Q/"
+        "outlet": "20 Minutes",
+        "take": "L'interdiction de vente de cigarettes aux générations futures constitue l'une des propositions les plus radicales de la Cnam.",
+        "url": "https://www.20minutes.fr/societe/4232589-20260703-cigarettes-nutri-score-vaccins-propositions-choc-assurance-maladie-reduire-depenses?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "France Info",
-        "take": "Souligne le caractère urgent des évacuations et le bilan actualisé (900 hectares) lors de la journée du 2 juillet.",
-        "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/des-habitants-evacues-en-urgence-dans-l-aude-et-dans-l-herault-a-cause-des-incendies_8090816.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "L'ensemble des quarante mesures ciblerait principalement des changements de comportement (nutrition, mobilité, santé).",
+        "url": "https://www.franceinfo.fr/sante/generation-sans-tabac-nutri-score-casque-obligatoire-a-velo-les-pistes-de-l-assurance-maladie-pour-resorber-son-deficit_8090681.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 14,
@@ -424,18 +430,18 @@ const ARTICLES = [
     "themes": [
       "Environnement"
     ],
-    "title": "L'ONU alerte sur un épisode El Niño de forte intensité",
-    "full": "L'Organisation météorologique mondiale prévient que le phénomène climatique El Niño, actuellement présent dans le Pacifique tropical, devrait s'intensifier rapidement et atteindre une forte intensité dans les prochains mois. Ce renforcement augmentera significativement les risques de sécheresses, de fortes précipitations, de vagues de chaleur terrestres et marines dans de nombreuses régions du monde.",
+    "title": "Des incendies de forêt font neuf blessés au Portugal",
+    "full": "Des feux de forêt qui se sont déclarés dans la nuit de mercredi à jeudi mobilisaient plus d'un millier de sapeurs vendredi soir au Portugal. Neuf personnes ont été blessées, dont deux civils en état grave présentant des brûlures et une fracture. Le gouvernement portugais a activé le mécanisme européen de protection civile et fait appel à ses partenaires, notamment l'Espagne et le Maroc, pour renforcer les moyens de lutte contre ces incendies.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "L'OMM détaille les impacts attendus : augmentation des probabilités de sécheresse, de précipitations extrêmes et de vagues de chaleur.",
-        "url": "https://www.franceinfo.fr/environnement/crise-climatique/le-phenomene-climatique-el-nino-est-deja-present-et-devrait-s-intensifier-rapidement-pour-atteindre-une-forte-intensite-alerte-l-onu_8091719.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Le Monde",
+        "take": "Insiste sur la mobilisation des sapeurs et l'activation des mécanismes de coopération européenne et bilatérale.",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/04/portugal-des-feux-de-foret-font-neuf-blesses-le-gouvernement-demande-des-renforts_6720494_3244.html"
       },
       {
-        "outlet": "Le Monde",
-        "take": "L'ONU souligne le renforcement rapide des conditions El Niño et l'aggravation des phénomènes météorologiques extrêmes à l'échelle mondiale.",
-        "url": "https://www.lemonde.fr/climat/article/2026/07/03/el-nino-l-onu-alerte-sur-un-episode-de-forte-intensite-augmentant-les-risques-de-phenomenes-meteorologiques-extremes-dans-le-monde_6718469_1652612.html"
+        "outlet": "France Info",
+        "take": "Détaille la nature des blessures, distinguant deux civils en état grave parmi les neuf victimes.",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/d-importants-feux-de-foret-font-neuf-blesses-au-portugal-lisbonne-demande-de-l-aide-aux-autres-pays_8093117.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 15,
@@ -443,21 +449,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie",
-      "Environnement"
+      "Monde"
     ],
-    "title": "Google et Amazon voient leurs émissions carbone exploser avec l'IA",
-    "full": "Les bilans environnementaux publiés cette semaine par Google et Amazon révèlent une augmentation significative de leurs émissions de gaz à effet de serre, portée par leurs investissements massifs dans l'intelligence artificielle. Les centres de données nécessaires pour alimenter ces technologies consomment une énergie considérable, ce qui fait croître la pollution des deux géants plus vite que leurs revenus. Cette tendance souligne le coût énergétique croissant de la course aux infrastructures informatiques dans le secteur du numérique.",
+    "title": "Une journaliste mexicaine enlevée en juin retrouvée morte",
+    "full": "Roxana Guzman, journaliste mexicaine disparue à la mi-juin, a été retrouvée décédée. L'enquête a mené à l'arrestation de huit suspects, dont quatre policiers municipaux. Le Mexique figure parmi les pays les plus meurtriers pour les professionnels de la presse, avec plus de 150 assassinats enregistrés depuis 1994 selon Reporters sans frontières.",
     "angles": [
       {
-        "outlet": "Le Figaro Éco",
-        "take": "La croissance des émissions carbone dépasse celle des ventes, mettant en avant le déséquilibre entre expansion commerciale et impact environnemental.",
-        "url": "https://www.lefigaro.fr/secteur/high-tech/avec-l-intelligence-artificielle-les-emissions-de-gaz-a-effet-de-serre-de-google-et-amazon-explosent-20260703"
+        "outlet": "France Info",
+        "take": "Souligne le contexte général de danger pour les journalistes au Mexique et le bilan des morts depuis trois décennies.",
+        "url": "https://www.franceinfo.fr/monde/ameriques/au-mexique-une-journaliste-enlevee-mi-juin-a-ete-retrouvee-morte_8092925.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "Libération",
-        "take": "Les deux entreprises accélèrent leurs investissements en infrastructures énergivores pour répondre aux besoins de stockage de données imposés par le développement de l'IA.",
-        "url": "https://www.liberation.fr/economie/economie-numerique/les-bilans-carbone-de-google-et-amazon-plombes-par-leurs-investissements-dans-lia-20260703_RNABPLQLNNBUBBQMQ3A2WH5RP4/"
+        "outlet": "Le Monde",
+        "take": "Met l'accent sur les développements judiciaires avec l'identification et l'interpellation des suspects impliqués.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/04/au-mexique-la-journaliste-roxana-guzman-enlevee-en-juin-a-ete-retrouvee-morte_6720527_3210.html"
       }
     ],
     "id": 16,
@@ -467,18 +472,18 @@ const ARTICLES = [
     "themes": [
       "Sport"
     ],
-    "title": "Les Bleus enchantent la France à la Coupe du monde 2026",
-    "full": "L'équipe de France génère de l'enthousiasme aux États-Unis lors de la Coupe du monde 2026. Après une démonstration convaincante contre la Suède, les performances des Bleus suscitent une vague de fierté en France. Au-delà du terrain, l'ambiance du groupe est décrite comme joviale, loin de la pression habituelle qui entoure la sélection tricolore.",
+    "title": "Paul Seixas, 19 ans, fait ses débuts au Tour de France",
+    "full": "Le jeune coureur lyonnais Paul Seixas disputera pour la première fois le Tour de France, qui s'élance samedi 4 juillet de Barcelone. À 19 ans à peine, il est présenté comme le grand espoir du cyclisme français, dans l'attente de produire un successeur à Bernard Hinault, dernier Français vainqueur de la Grande Boucle en 1986. Seixas figurera parmi les enjeux de cette 113e édition, aux côtés des favoris reconnus Tadej Pogačar et Jonas Vingegaard.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Le quotidien insiste sur l'atmosphère décontractée et positive du groupe français, documentant le quotidien des joueurs outre-Atlantique.",
-        "url": "https://www.20minutes.fr/sport/football/4232563-20260703-coupe-monde-2026-plaisir-pagaille-chez-francais-kounde-soutien-girondins-journal-bleus?at_medium=display&at_campaign=149"
+        "outlet": "Courrier International",
+        "take": "La presse espagnole souligne que le coureur lyonnais est déjà un phénomène médiatique et que l'France espère en faire l'héritier de Hinault.",
+        "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-tour-de-france-a-19-ans-paul-seixas-est-deja-un-phenomene-mediatique_246453"
       },
       {
-        "outlet": "Libération",
-        "take": "Le journal souligne l'impact psychologique positif des résultats sur le moral des Français, parlant d'un « effet antidépresseur » généré par les succès de l'équipe.",
-        "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-merci-les-bleus-pour-leffet-antidepresseur-20260703_VR7TRAVQDVDBJOIUHQUF6DTSW4/"
+        "outlet": "France Info",
+        "take": "Paul Seixas est présenté comme l'enfant prodige capable d'animer cette édition du Tour aux côtés des deux grands favoris.",
+        "url": "https://www.franceinfo.fr/tour-de-france/paul-seixas-un-jeune-prodige-qui-s-impose-deja-comme-la-star-du-tour-de-france-2026-a-seulement-19-ans_8093102.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 17,
@@ -486,20 +491,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "France",
+      "Monde"
     ],
-    "title": "Coupe du monde 2026 : Portugal et Suisse en huitièmes, l'Argentine affronte le Cap-Vert",
-    "full": "Le Portugal et la Suisse se sont qualifiés pour les huitièmes de finale de la Coupe du monde 2026. La phase des seizièmes se termine avec deux matchs : l'Australie affronte l'Égypte mercredi à 20 heures, tandis que l'Argentine se mesure au Cap-Vert vendredi à minuit. Le Cap-Vert, nation de 525 000 habitants, tente un exploit face aux champions du monde sortants.",
+    "title": "Le porte-avions Charles-de-Gaulle rentre à Toulon",
+    "full": "Emmanuel Macron a annoncé le retour du porte-avions français Charles-de-Gaulle à son port d'attache de Toulon. Cette décision répond à « l'évolution favorable » que représente l'accord entre l'Iran et les États-Unis visant à cesser les hostilités, ainsi qu'à « l'évolution des besoins » opérationnels. Le navire, actuellement en mer Méditerranée, regagnera donc la France.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Rapporte les qualifications du Portugal et de la Suisse ainsi que le calendrier des deux derniers matchs des seizièmes de finale.",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-le-portugal-et-la-suisse-qualifies-pour-les-huitiemes-de-finale-l-argentine-de-lionel-messi-se-frotte-au-cap-vert_8090393.html#xtor=RSS-3-[lestitres]"
+        "take": "Le président justifie le retour par l'accord de cessation des hostilités entre Téhéran et Washington et par l'adaptation des besoins de défense.",
+        "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-porte-avions-francais-charles-de-gaulle-rentre-a-son-port-d-attache-de-toulon-apres-l-accord-entre-l-iran-et-les-etats-unis-annonce-emmanuel-macron_8093054.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "Libération",
-        "take": "Souligne la composition atypique de l'équipe du Cap-Vert, fondée sur sa diaspora, son entraîneur et son gardien.",
-        "url": "https://www.liberation.fr/international/afrique/coupe-du-monde-sa-diaspora-son-coach-son-goal-la-triplette-magique-du-cap-vert-20260703_INNSTMYJHZF6HFC7PUQCHFTJOM/"
+        "outlet": "Le Monde",
+        "take": "L'Élysée souligne que le Charles-de-Gaulle, présent en Méditerranée, revient à la suite de l'amélioration de la situation régionale.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/03/accord-iran-usa-le-porte-avions-francais-rentre-a-son-port-d-attache-de-toulon-annonce-emmanuel-macron_6720486_3210.html"
       }
     ],
     "id": 18,
@@ -507,20 +513,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Environnement"
     ],
-    "title": "France-Paraguay en huitième de finale, 28 ans après 1998",
-    "full": "La France affrontera le Paraguay en huitième de finale de la Coupe du monde 2026, samedi à Philadelphie, pour une place en quarts. Les deux sélections se retrouvent ainsi pour la deuxième fois en phase éliminatoire d'un Mondial, 28 ans après leur première rencontre en 1998. Le Paraguay, qui a surpris l'Allemagne au tour précédent, s'appuie sur une défense réputée solide et un jeu physique marqué.",
+    "title": "Incendies dans le sud : une saison « extrêmement longue » redoutée",
+    "full": "La saison des feux de forêt a débuté un mois en avance, le 4 juin, selon le ministre de l'Intérieur Laurent Nuñez. Samedi, six départements du sud (Pyrénées-Orientales, Aude, Hérault, Gard, Vaucluse et Bouches-du-Rhône) restaient en vigilance très élevée face aux risques de nouveaux foyers. Les sapeurs-pompiers craignent que cette tendance précoce n'annonce une saison des incendies anormalement longue et intense.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Souligne le parallèle historique entre cette affiche et celle de 1998, qui avait marqué le début de la belle épopée des Bleus.",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/pourquoi-ce-huitieme-de-finale-entre-la-france-et-le-paraguay-en-2026-rappelle-tant-celui-de-la-coupe-du-monde-1998_8088359.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Libération",
+        "take": "Le ministre de l'Intérieur souligne un démarrage de saison avec un mois d'avance lors de son déplacement en marge des incendies en cours dans l'Aude.",
+        "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-six-departements-du-sud-en-vigilance-rouge-une-trentaine-dincendies-en-cours-sur-le-territoire-20260703_OPWNAQKJ4RCS7PXTD5BTXVFMLY/"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Insiste sur le profil offensif du Paraguay, équipe peu connue mais redoutable défensivement, après son exploit contre l'Allemagne.",
-        "url": "https://www.humanite.fr/sports/bleus/coupe-du-monde-2026-la-france-retrouve-le-paraguay-pour-une-place-en-quart-de-finale-28-ans-apres"
+        "outlet": "Le Monde",
+        "take": "Six départements du sud maintiennent un niveau de danger de feu très élevé pour le samedi, avec une persistance du risque envisagée le dimanche.",
+        "url": "https://www.lemonde.fr/planete/live/2026/07/03/en-direct-incendies-dans-le-sud-de-la-france-le-risque-tres-eleve-de-departs-de-feux-persistera-samedi-dans-six-departements-et-certainement-dimanche_6718467_3244.html"
       }
     ],
     "id": 19,
@@ -528,20 +534,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Sport"
     ],
-    "title": "Un animateur périscolaire mis en examen pour agressions sexuelles",
-    "full": "Un animateur périscolaire de 28 ans, en poste dans une maternelle de Saint-Cyr-l'Ecole (Yvelines), a été placé en garde à vue mardi 30 juin après plusieurs plaintes de parents d'élèves. Il a été mis en examen pour viols et agressions sexuelles sur mineurs. Suspendu depuis décembre, le mis en cause a nié l'ensemble des faits devant les enquêteurs.",
+    "title": "France-Paraguay en huitième de finale sous une chaleur extrême",
+    "full": "L'équipe de France affrontera le Paraguay samedi 4 juillet à Philadelphie en huitième de finale de la Coupe du monde 2026. Le match se déroulera dans des conditions météorologiques difficiles, avec une température attendue autour de 38 °C et des orages prévus. Didier Deschamps et ses joueurs ont toutefois assuré être préparés physiquement à ces conditions de chaleur record.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Souligne que l'homme a nié les accusations lors de son audition par les enquêteurs.",
-        "url": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/dans-les-yvelines-un-animateur-periscolaire-en-garde-a-vue-apres-des-accusations-d-agressions-sexuelles-sur-des-enfants_8090420.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Libération",
+        "take": "Met l'accent sur les menaces climatiques (chaleur extrême et perturbations orageuses) qui pèsent sur la rencontre.",
+        "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-la-chaleur-et-les-orages-menacent-le-match-de-la-france-contre-le-paraguay-20260703_4IFYH6LMOJH7BGAAKLBJASZGFQ/"
       },
       {
-        "outlet": "Libération",
-        "take": "Précise que le suspect a été visé par plusieurs plaintes émanant de parents d'élèves de la même structure.",
-        "url": "https://www.liberation.fr/societe/police-justice/violences-dans-le-periscolaire-dans-les-yvelines-un-animateur-mis-en-examen-pour-viols-et-agressions-sexuelles-sur-mineurs-20260702_KMOJAP7T6VFAHPCFXIOWEVXVCM/"
+        "outlet": "France Info",
+        "take": "Souligne la sérénité de la délégation française, qui affirme maîtriser les enjeux physiques du match malgré les conditions.",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/france-paraguay-malgre-une-chaleur-record-et-un-nouveau-risque-d-orages-les-bleus-assurent-etre-prets-physiquement-avant-leur-huitieme-de-finale-de-coupe-du-monde_8093021.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 20,
@@ -549,21 +555,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie",
-      "Environnement"
+      "Insolite"
     ],
-    "title": "Une troisième édition du leasing social lancée le 16 juillet",
-    "full": "Le gouvernement reconduira le dispositif de leasing social à partir du 16 juillet, a annoncé Roland Lescure, ministre de l'Économie. Ce programme permet aux ménages modestes d'accéder à des véhicules électriques pour un coût mensuel compris entre 100 et 200 euros. Cette troisième édition s'inscrit dans la continuité d'une politique jugée concluante pour démocratiser la transition vers la mobilité électrique.",
+    "title": "Le mariage de Taylor Swift et Travis Kelce déchaîne les médias américains",
+    "full": "Le mariage de la chanteuse Taylor Swift et du joueur de football américain Travis Kelce, célébré à Manhattan, a captivé la presse américaine au point de devenir un événement d'intérêt national. La cérémonie a suscité une couverture médiatique massive, avec des rédactions entières mobilisées et même la participation du maire de New York. Cet engouement illustre l'ampleur de la célébrité des deux personnalités aux États-Unis.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Souligne la reconduction du leasing social et les tarifs mensuels accessibles proposés aux particuliers.",
-        "url": "https://www.franceinfo.fr/economie/une-nouvelle-edition-du-leasing-social-debute-le-16-juillet-annonce-roland-lescure_8090912.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Courrier International",
+        "take": "Souligne que le mariage s'est transformé en véritable feuilleton suivi en direct par les autorités et les médias américains.",
+        "url": "https://www.courrierinternational.com/article/medias-le-mariage-du-siecle-les-noces-de-taylor-swift-dechainent-la-presse-americaine_246491"
       },
       {
-        "outlet": "Le Figaro Éco",
-        "take": "Met l'accent sur le bénéfice pour les ménages modestes et l'efficacité démontrée de cette politique incitative d'électrification.",
-        "url": "https://www.lefigaro.fr/conjoncture/voiture-electrique-une-troisieme-edition-du-leasing-social-sera-lancee-le-16-juillet-annonce-roland-lescure-20260702"
+        "outlet": "Libération",
+        "take": "Adopte un ton ironique en compilant des chiffres sur la cérémonie pour tenter de quantifier cet événement jugé démesurément médiatisé.",
+        "url": "https://www.liberation.fr/international/amerique/le-mariage-de-taylor-swift-et-travis-kelce-en-cinq-chiffres-pas-tres-utiles-20260703_WSSPXDEKGVAQ3OABHOLHXYOLGI/"
       }
     ],
     "id": 21,
@@ -571,21 +576,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie",
       "France"
     ],
-    "title": "Lagarde n'exclut pas de quitter la BCE pour le débat présidentiel",
-    "full": "Christine Lagarde, présidente de la Banque centrale européenne, a déclaré qu'elle n'excluait pas de quitter son poste pour participer au débat présidentiel français de 2027. Dans un entretien aux Échos, elle a affirmé vouloir « porter une voix européenne » dans cette campagne, tout en assurant souhaiter « rester à bord » de la BCE en cette période économique instable. L'ancienne ministre de l'Économie de Nicolas Sarkozy laisse ainsi ouverte la possibilité d'une implication politique directe aux côtés de ses responsabilités bancaires.",
+    "title": "Roussel réélu à la tête du PCF, malgré des tensions internes",
+    "full": "Fabien Roussel devrait être réélu secrétaire national du Parti communiste français lors de son congrès à Lille ce week-end. Dans son discours d'ouverture, le leader sortant a appelé les militants à soutenir sa candidature à l'élection présidentielle de 2027. Des opposants internes tentent néanmoins de lui imposer une clause de révision à l'automne pour discuter d'un éventuel retrait de sa candidature, face à la popularité de Jean-Luc Mélenchon.",
     "angles": [
       {
-        "outlet": "Le Figaro Éco",
-        "take": "Lagarde souligne l'importance d'une expression européenne dans le débat français tout en affirmant vouloir maintenir sa fonction à la BCE.",
-        "url": "https://www.lefigaro.fr/conjoncture/c-est-possible-christine-lagarde-n-exclut-pas-de-quitter-la-bce-pour-peser-dans-le-debat-presidentiel-20260702"
+        "outlet": "L'Humanité",
+        "take": "Fabien Roussel mobilise le parti derrière son projet présidentiel pour 2027.",
+        "url": "https://www.humanite.fr/politique/40e-congres-du-pcf-2026/congres-du-pcf-fabien-roussel-ouvre-le-congres-des-communistes-avec-la-presidentielle-en-ligne-de-mire"
       },
       {
-        "outlet": "Libération",
-        "take": "L'ancienne ministre Lagarde envisage de défendre une perspective européenne dans la course électorale de 2027.",
-        "url": "https://www.liberation.fr/politique/la-patronne-de-la-bce-christine-lagarde-nexclut-pas-de-quitter-son-poste-pour-peser-dans-la-presidentielle-20260702_JEI2USOBANFF5NEIFJSVHVPEII/"
+        "outlet": "Mediapart",
+        "take": "Des critiques internes demandent des garanties sur le maintien de sa candidature face à la force électorale de Mélenchon.",
+        "url": "https://www.mediapart.fr/journal/politique/030726/au-pcf-fabien-roussel-face-un-congres-sans-concurrents-mais-pas-sans-questionnements"
       }
     ],
     "id": 22,
@@ -593,20 +597,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie"
+      "Environnement"
     ],
-    "title": "Attal propose 100 000 départs de fonctionnaires",
-    "full": "Gabriel Attal, candidat Renaissance à la présidentielle de 2027, annonce vouloir réduire la dette publique par 100 000 départs volontaires de fonctionnaires et une « impunité budgétaire zéro ». Dans un entretien au « Parisien », le candidat précise qu'il s'agit d'être « rigoureux et sérieux » plutôt que d'appliquer une austérité. Ces propositions visent à le démarquer d'Édouard Philippe, autre candidat du bloc macroniste.",
+    "title": "Deux départements du sud passent en alerte canicule samedi",
+    "full": "Les Pyrénées-Orientales et l'Hérault basculent en vigilance orange pour canicule à partir de samedi midi. Vendredi, les températures atteignaient déjà 32 à 35°C en Provence et Languedoc, et 31 à 33°C sur les Pyrénées-Orientales. Météo-France reste prudente sur l'intensité de cet épisode de chaleur et estime qu'il est prématuré de parler d'une future vague plus importante.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Attal esquisse des propositions budgétaires pour réduire la dette lors de sa candidature.",
-        "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/07/02/gabriel-attal-veut-100-000-departs-volontaires-de-fonctionnaires-et-l-impunite-budgetaire-zero_6718227_6205049.html"
+        "outlet": "France Info",
+        "take": "Détaille les niveaux thermiques observés vendredi dans les régions concernées avant le passage en vigilance orange.",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/les-pyrenees-orientales-et-l-herault-places-en-vigilance-orange-canicule-samedi-a-partir-de-midi_8092541.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "Le Figaro Éco",
-        "take": "Attal défend son approche comme une gestion rigoureuse distinguée de celle de son concurrent Édouard Philippe.",
-        "url": "https://www.lefigaro.fr/conjoncture/gabriel-attal-promet-100-000-departs-volontaires-de-fonctionnaires-et-l-impunite-budgetaire-zero-en-cas-de-victoire-en-2027-20260702"
+        "outlet": "Le Monde",
+        "take": "Souligne que Météo-France anticipe un début juillet moins intense que le mois de juin écoulé.",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/03/canicule-l-herault-et-les-pyrenees-orientales-places-en-vigilance-orange-samedi-meteo-france-s-attend-a-un-debut-de-juillet-moins-intense-qu-en-juin_6720451_3244.html"
       }
     ],
     "id": 23,
@@ -614,20 +618,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "France"
     ],
-    "title": "Un stagiaire de 16 ans blessé au bras par un malaxeur à béton",
-    "full": "Un élève en stage dans une entreprise de travaux publics à Montlebon, dans le Doubs, a eu l'avant-bras happé par un malaxeur à béton jeudi. Le jeune homme chargeait des sacs de ciment lorsque l'accident s'est produit. Hospitalisé à Besançon avec plusieurs entailles à l'avant-bras, son pronostic vital n'est pas engagé. Une enquête a été ouverte.",
+    "title": "Écologistes et Mélenchon esquissent un rapprochement pour 2027",
+    "full": "À l'approche de la présidentielle de 2027, le parti écologiste et Jean-Luc Mélenchon explorent une possible alliance. Le candidat insoumis a présenté son concept d'« écorégions », une mesure environnementale destinée à séduire les Verts, et appelle à leur collaboration programmatique. Les Écologistes, affaiblis électoralement, sont tiraillés entre cette ouverture à la gauche radicale et d'autres perspectives politiques.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Les gendarmes ont documenter les circonstances précises de l'accident et l'état des blessures du stagiaire.",
-        "url": "https://www.franceinfo.fr/faits-divers/un-eleve-de-16-ans-blesse-lors-d-un-stage-en-entreprise-le-bras-happe-par-un-malaxeur-a-beton_8090975.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Figaro Politique",
+        "take": "Les Écologistes font face à un dilemme stratégique entre deux visions de gauche difficilement conciliables.",
+        "url": "https://www.lefigaro.fr/politique/les-ecologistes-tentes-de-rallier-jean-luc-melenchon-pour-la-presidentielle-20260703"
       },
       {
-        "outlet": "Libération",
-        "take": "L'incident s'est déroulé dans une entreprise de travaux publics et a déclenché une enquête.",
-        "url": "https://www.liberation.fr/economie/social/un-ado-de-16-ans-blesse-lors-dun-stage-le-bras-happe-par-un-malaxeur-a-beton-20260702_7TOE7DGCSVBTXD3DTCYRG3I7SY/"
+        "outlet": "Le Monde",
+        "take": "Mélenchon détaille une politique environnementale phare et sollicite explicitement le soutien des Verts pour la concrétiser.",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/03/presidentielle-2027-jean-luc-melenchon-defend-ses-ecoregions-pour-mieux-attirer-les-ecologistes_6720440_823448.html"
       }
     ],
     "id": 24,
@@ -635,20 +639,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Économie"
     ],
-    "title": "Céline Dion sort un nouveau titre inspiré d'une prière hawaïenne",
-    "full": "Céline Dion a dévoilé vendredi « Bonjour, pardon, merci », deuxième extrait de son prochain album. Le titre a été écrit par Ycare, qui s'est inspiré de l'Ho'oponopono, une pratique spirituelle hawaïenne traditionnelle. Il succède à « Dansons », présenté il y a trois mois et composé par Jean-Jacques Goldman.",
+    "title": "L'UE peine à résoudre les embouteillages aux frontières aériennes",
+    "full": "Le nouveau système de contrôle des voyageurs non européens lancé par l'UE à l'automne provoque des files d'attente considérables dans les aéroports, pouvant atteindre jusqu'à cinq heures aux heures de pointe selon les compagnies aériennes. Cet enregistrement automatisé des arrivées étrangères visait à renforcer la sécurité des frontières, mais l'institution reconnaît qu'il reste « beaucoup à faire » pour éliminer ces goulots d'étranglement qui affectent les opérations aéroportuaires.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Met l'accent sur l'origine créative du morceau et l'influence de la prière hawaïenne Ho'oponopono dans son écriture.",
-        "url": "https://www.20minutes.fr/arts-stars/culture/musique/4231962-20260703-bonjour-pardon-merci-priere-hawaienne-inspire-nouvelle-chanson-celine-dion?at_medium=display&at_campaign=149"
+        "outlet": "Le Figaro Éco",
+        "take": "Insiste sur l'ampleur du dysfonctionnement avec des délais d'attente atteignant 5 heures aux heures de pointe, selon les compagnies.",
+        "url": "https://www.lefigaro.fr/conjoncture/nouveaux-controles-aux-frontieres-l-ue-reconnait-qu-il-y-a-beaucoup-a-faire-pour-mettre-fin-aux-queues-dans-les-aeroports-20260703"
       },
       {
-        "outlet": "France Info",
-        "take": "Situe ce nouveau titre dans la progression de l'album en rappelant la sortie antérieure de « Dansons ».",
-        "url": "https://www.franceinfo.fr/culture/bonjour-pardon-merci-celine-dion-devoile-un-extrait-d-un-nouveau-titre-inedit_8090750.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Libération",
+        "take": "Souligne la dénonciation conjointe des aéroports et des transporteurs aériens contre les perturbations du système automatisé.",
+        "url": "https://www.liberation.fr/international/europe/nouveau-controle-aux-frontieres-lue-reconnait-quil-y-a-beaucoup-a-faire-pour-mettre-fin-aux-queues-dans-les-aeroports-20260703_AQTJO5ZZIJABHAZTVWOSJT7HOM/"
       }
     ],
     "id": 25,
@@ -656,20 +660,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé"
+      "Insolite"
     ],
-    "title": "Épidémie d'Ebola en RDC : l'OMS lance un essai clinique",
-    "full": "L'épidémie d'Ebola qui sévit en République démocratique du Congo a fait plus de 400 morts, avec 1 406 cas confirmés au total, selon l'Institut national de santé publique. Un foyer a été identifié à Kisangani, élargissant la zone touchée. L'Organisation mondiale de la santé a annoncé jeudi le lancement d'un essai clinique portant sur deux traitements potentiels, coordonné par l'Institut national de recherche biomédicale congolais avec le soutien d'une coalition de partenaires internationaux.",
+    "title": "Taylor Swift et Travis Kelce annoncent leur mariage à New York",
+    "full": "La porte-parole de Taylor Swift a confirmé le mariage de la chanteuse avec le joueur de football américain Travis Kelce. La cérémonie se déroule au Madison Square Garden à New York depuis jeudi soir, en présence de nombreuses célébrités. Les invités sont soumis à des accords de confidentialité stricts et n'ont pas accès à leurs téléphones portables.",
     "angles": [
       {
-        "outlet": "France 24",
-        "take": "Met l'accent sur le bilan humain de l'épidémie et l'annonce de l'essai comme réponse à la progression du virus.",
-        "url": "https://www.france24.com/fr/afrique/20260703-ebola-400-morts-rd-congo-oms-annonce-lancement-essai-clinique-epidemie-virus-sante-traitement"
+        "outlet": "Le Monde",
+        "take": "L'événement au Madison Square Garden mêle ampleur et secret, avec des mesures de confidentialité très strictes imposées aux convives.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/03/le-mariage-de-taylor-swift-et-travis-kelce-melange-de-demesure-et-de-secret-bien-garde-debute-au-madison-square-garden-a-new-york_6720485_3210.html"
       },
       {
-        "outlet": "France Info",
-        "take": "Souligne le rôle de coordination des institutions congolaises et le cadre partenarial international de l'essai clinique.",
-        "url": "https://www.franceinfo.fr/sante/maladie/ebola/un-essai-clinique-portant-sur-deux-traitements-contre-ebola-a-commence-jeudi-en-rdc-annonce-l-oms_8090657.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "20 Minutes",
+        "take": "Le mariage devrait se conclure ce week-end à New York selon plusieurs médias américains.",
+        "url": "https://www.20minutes.fr/arts-stars/people/4232611-20260703-madison-square-garden-accords-confidentialite-sait-mariage-taylor-swift-travis-kelce?at_medium=display&at_campaign=149"
       }
     ],
     "id": 26,
@@ -677,20 +681,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Économie"
     ],
-    "title": "Mélenchon propose les écorégions pour restructurer le territoire",
-    "full": "Jean-Luc Mélenchon a présenté son projet de réforme territoriale pour la présidentielle 2027 : remplacer les régions actuelles par des « écorégions » basées sur les enjeux environnementaux et hydrologiques. Cette proposition, esquissée lors de son meeting de campagne en mai, vise selon le candidat à « introduire l'eau dans le débat » politique. Le projet s'inscrit dans la stratégie plus large de sa quatrième candidature à l'élection présidentielle.",
+    "title": "Matthieu Pigasse propose de reprendre le papetier Fibre Excellence",
+    "full": "Le banquier Matthieu Pigasse a déposé une offre de reprise de Fibre Excellence, dernier fabricant français de pâte à papier marchande, actuellement en difficultés. Son projet, estimé à plus de 100 millions d'euros, sera examiné lundi par le tribunal de commerce de Toulouse. L'offre bénéficie du soutien des syndicats, d'une participation au capital des régions Occitanie et Provence-Alpes-Côte d'Azur, ainsi que d'aides de l'État. Pigasse attend notamment un engagement gouvernemental sur les tarifs de rachat de l'électricité produite par le groupe.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Mélenchon met en avant l'objectif d'intégrer les ressources en eau au cœur de la redéfinition des frontières administratives.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/02/presidentielle-2027-jean-luc-melenchon-presente-son-projet-d-ecoregions-pour-remplacer-les-regions-actuelles-et-introduire-l-eau-dans-le-debat_6718229_823448.html"
+        "outlet": "Le Figaro Éco",
+        "take": "La viabilité du projet dépend de l'engagement de l'État sur le prix d'achat de l'électricité générée par l'usine.",
+        "url": "https://www.lefigaro.fr/societes/le-banquier-matthieu-pigasse-a-depose-une-offre-de-reprise-du-groupe-papetier-en-difficulte-fibre-excellence-20260703"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Le candidat insoumis commence à détailler les propositions structurantes de sa campagne présidentielle avec cette refonte de la carte administrative.",
-        "url": "https://www.humanite.fr/politique/jean-luc-melenchon/presidentielle-2027-avec-les-ecoregions-jean-luc-melenchon-esquisse-son-projet-de-reforme-territoriale"
+        "outlet": "Libération",
+        "take": "L'offre s'appuie sur une coalition réunissant l'entrepreneur, les collectivités régionales et les aides publiques, avec le soutien des organisations syndicales.",
+        "url": "https://www.liberation.fr/economie/reprise-du-papetier-fibre-excellence-comment-matthieu-pigasse-a-boucle-son-offre-estimee-a-plus-de-100-millions-deuros-20260703_LS6QXMBG5FG6RAWQKD4UE354H4/"
       }
     ],
     "id": 27,
@@ -698,20 +702,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie"
+      "Économie",
+      "Société"
     ],
-    "title": "Guillaume Erner sanctionné mais conserve son poste à France Culture",
-    "full": "Le producteur des « Matins » de France Culture a reçu un avertissement suite à la diffusion d'un montage trompeur attribuant à tort des propos antisémites à Jean-Luc Mélenchon. Il conserve son rôle à l'antenne mais sera relevé de la rédaction de son billet quotidien d'humeur. Guillaume Erner a reconnu « la gravité de sa faute ».",
+    "title": "Le gouvernement demande aux plateformes de livraison de protéger leurs salariés en canicule",
+    "full": "Le ministre du Travail Jean-Pierre Farandou a enjoint aux responsables et syndicats des plateformes de livraison de mettre en place des aménagements pendant les pics de chaleur, menaçant d'imposer des mesures en cas d'inaction. L'exécutif vise des accords d'entreprise avant les canicules de 2027. La CGT dénonce cette temporalité et réclame un changement urgent de la législation, jugeant qu'attendre l'automne pour agir n'est pas acceptable.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "La controverse du montage édité de « Leon le média » marque l'apogée d'une saison de polémiques pour le producteur, dont le maintien à l'antenne est confirmé malgré la sanction.",
-        "url": "https://www.lemonde.fr/economie/article/2026/07/02/france-culture-guillaume-erner-sanctionne-d-un-avertissement-a-l-issue-d-une-saison-ponctuee-de-polemiques_6718216_3234.html"
+        "outlet": "Le Figaro Éco",
+        "take": "Le gouvernement pose un ultimatum aux plateformes pour qu'elles trouvent des solutions volontaires ou face à des mesures réglementaires.",
+        "url": "https://www.lefigaro.fr/social/pas-la-peine-de-faire-15-km-sur-un-bitume-chaud-le-gouvernement-veut-des-mesures-pour-proteger-les-livreurs-de-la-canicule-20260703"
       },
       {
-        "outlet": "Libération",
-        "take": "La décision disciplinaire a été acceptée par Erner lui-même, qui reconnaît avoir commis une faute en diffusant un extrait tronqué d'une interview.",
-        "url": "https://www.liberation.fr/economie/medias/guillaume-erner-maintenu-a-la-matinale-de-france-culture-mais-sans-son-billet-dhumeur-20260702_3WBR2A4P7FAVFDAHREAYZXZRGU/"
+        "outlet": "Le Monde",
+        "take": "Un désaccord se dessine entre l'exécutif, qui privilégie des accords sectoriels progressifs, et la CGT, qui demande une action législative immédiate.",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/03/canicule-au-travail-la-cgt-veut-un-changement-d-urgence-de-la-loi-le-gouvernement-des-accords-par-metier_6719168_823448.html"
       }
     ],
     "id": 28,
@@ -719,21 +724,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé",
       "France"
     ],
-    "title": "Le gouvernement lance un plan de 400 millions pour lutter contre le trafic de cocaïne",
-    "full": "Le ministre David Amiel a présenté jeudi le « plan Douanes 2030 », doté de 400 millions d'euros, pour renforcer la lutte contre l'importation massive de cocaïne en France. Ce dispositif vise à augmenter les moyens humains et techniques des douaniers face aux réseaux de narcotrafiquants utilisant des technologies sophistiquées. L'initiative répond à une augmentation significative des saisies et des entrées de drogues sur le territoire français.",
+    "title": "Une militante d'extrême droite condamnée pour diffamation à Besançon",
+    "full": "Le tribunal correctionnel de Besançon a condamné vendredi une militante du collectif Némésis pour diffamation envers l'ancienne maire écologiste de la ville. L'intéressée avait distribué des tracts, partagés sur les réseaux sociaux, affichant une photo de l'élue accompagnée de l'inscription « Soutien aux violeurs étrangers ». Elle écope d'une amende de 2 000 euros avec sursis et devra verser 500 euros de dommages et intérêts. La condamnée a annoncé son intention de faire appel.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Le gouvernement met l'accent sur la nécessité d'une réaction d'ampleur équivalente face à l'afflux croissant de cocaïne et à la complexité des réseaux criminels.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/02/plan-douanes-2030-la-france-investit-400-millions-d-euros-pour-renforcer-la-lutte-contre-la-cocaine-et-le-narcotrafic_6718226_3224.html"
+        "outlet": "France Info",
+        "take": "Met l'accent sur la culpabilité reconnue par le tribunal et l'intention de la défenderesse de contester la décision.",
+        "url": "https://www.franceinfo.fr/societe/racisme/soutien-aux-violeurs-etrangers-une-militante-du-collectif-d-extreme-droite-nemesis-condamnee-pour-diffamation-contre-l-ancienne-maire-ecologiste-de-besancon_8092037.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Libération",
-        "take": "Le plan est présenté comme une volonté du président Macron de répondre directement aux flux massifs de drogues entrant en France.",
-        "url": "https://www.liberation.fr/societe/police-justice/face-a-la-deferlante-de-cocaine-le-gouvernement-met-les-douanes-dans-lengrenage-20260702_LM5PCKB5EVBDPGGJH7FXJCMTZI/"
+        "outlet": "L'Humanité",
+        "take": "Détaille le montant précis de la condamnation financière et la composition de la peine.",
+        "url": "https://www.humanite.fr/politique/besancon/soutien-aux-violeurs-etrangers-une-militante-de-nemesis-condamnee-pour-diffamation-contre-lancienne-maire-de-besancon"
       }
     ],
     "id": 29,
@@ -741,21 +745,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France",
-      "Environnement"
+      "Économie",
+      "Société"
     ],
-    "title": "Incendies précoces : Lecornu alerte sur une saison en avance",
-    "full": "Le premier ministre Sébastien Lecornu s'est rendu jeudi à Marseille pour évaluer la situation face aux feux de forêt qui ravagent le sud du pays. Il a souligné que la saison des incendies a au moins quinze jours d'avance sur son calendrier habituel, dans un contexte de végétation particulièrement sèche. Lecornu a exprimé des inquiétudes quant à la capacité des moyens de lutte à tenir l'endurance nécessaire, sans annoncer de mesures spécifiques pour renforcer ces dispositifs.",
+    "title": "Canicule: la CGT réclame des sanctions pour les entreprises défaillantes",
+    "full": "La secrétaire générale de la CGT, Sophie Binet, a appelé à renforcer les obligations des employeurs face aux fortes chaleurs, en demandant que les entreprises sans plan de prévention de la canicule puissent être sanctionnées. Cette position intervient alors que le ministre du Travail, Jean-Pierre Farandou, affirme que plus de 3 600 contrôles ont été menés pour vérifier le respect des obligations légales des entreprises en la matière, un niveau qu'il présente comme inédit.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Le premier ministre met en avant le caractère violent et prématuré des feux, ainsi que les doutes sur la capacité des ressources à supporter une saison rallongée.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/02/a-marseille-sebastien-lecornu-alerte-sur-des-feux-de-forets-assez-violents-et-prematures_6718232_823448.html"
+        "outlet": "Le Figaro Éco",
+        "take": "La CGT demande un durcissement des mesures contre les entreprises qui n'auraient pas mis en place de dispositifs de prévention face à la chaleur extrême.",
+        "url": "https://www.lefigaro.fr/social/la-cgt-veut-que-les-entreprises-qui-n-ont-pas-de-plan-de-prevention-de-la-canicule-puissent-etre-sanctionnees-20260703"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Le gouvernement active une cellule interministérielle de crise face à l'ampleur des incendies dans le sud.",
-        "url": "https://www.humanite.fr/environnement/incendies/la-situation-est-assez-tendue-sebastien-lecornu-a-marseille-pour-faire-le-point-sur-les-premiers-incendies"
+        "outlet": "France Info",
+        "take": "Le gouvernement met en avant une intensification du contrôle du respect des obligations légales avec plus de 3 600 vérifications menées auprès des employeurs.",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/plus-de-3-600-controles-ont-ete-menes-pour-s-assurer-que-les-entreprises-respectent-leurs-obligations-face-a-la-canicule-assure-jean-pierre-farandou_8091830.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 30,
@@ -763,20 +767,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Économie"
     ],
-    "title": "Un enseignant du Vaucluse mis en examen pour agressions sexuelles",
-    "full": "Un professeur exerçant à Orange (Vaucluse) a été placé sous contrôle judiciaire après sa mise en examen pour viols et agressions sexuelles. Le parquet a ouvert une information judiciaire pour recueillir d'éventuels nouveaux témoignages. Les faits dénoncés par au moins sept victimes, dont cinq mineurs, auraient été commis entre 2003 et 2026.",
+    "title": "La Fonderie de Bretagne en redressement judiciaire, 245 emplois en péril",
+    "full": "L'entreprise bretonne spécialisée dans les pièces en fonte a été placée en redressement judiciaire pour cessation de paiement. Elle dispose de trois semaines pour trouver trois millions d'euros, faute de quoi elle sera liquidée. Reprise par le groupe Europlasma il y a un peu plus d'un an, la fonderie emploie 245 salariés.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "L'établissement du calendrier des faits sur plus de deux décennies et l'ouverture d'une information judiciaire pour identifier d'autres victimes.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/03/un-enseignant-du-vaucluse-mis-en-examen-pour-viols-et-agressions-sexuelles-sur-mineurs_6718236_3224.html"
+        "outlet": "Le Figaro Éco",
+        "take": "Insiste sur l'ultimatum de trois millions d'euros avant le 17 juillet, au-delà duquel la liquidation s'avère inévitable selon le syndicat CGT.",
+        "url": "https://www.lefigaro.fr/societes/la-fonderie-de-bretagne-placee-en-redressement-judiciaire-245-emplois-menaces-20260703"
       },
       {
         "outlet": "France Info",
-        "take": "La précision sur le nombre de victimes identifiées et l'âge de certaines d'entre elles au moment des événements.",
-        "url": "https://www.franceinfo.fr/faits-divers/dans-le-vaucluse-un-enseignant-interpelle-et-mis-en-examen-pour-viols-et-agressions-sexuelles-sur-au-moins-sept-personnes-dont-cinq-mineurs_8090678.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Souligne que la demande de redressement judiciaire a été formulée par la CGT après un peu plus d'un an sous la direction d'Europlasma.",
+        "url": "https://www.franceinfo.fr/economie/la-fonderie-de-bretagne-placee-en-redressement-judiciaire-pour-cessation-de-paiement-deux-semaines-avant-une-possible-liquidation_8091917.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 31,
@@ -786,18 +790,18 @@ const ARTICLES = [
     "themes": [
       "Tech & Sciences"
     ],
-    "title": "Sony arrêtera la production de jeux PlayStation physiques en 2028",
-    "full": "À partir de janvier 2028, Sony cessera de fabriquer des jeux vidéo physiques pour ses consoles PlayStation. Les nouvelles sorties seront commercialisées exclusivement en version numérique via le PlayStation Store ou par codes de téléchargement. Cette transition suscite des inquiétudes auprès des revendeurs spécialisés, qui pourraient voir leur activité affectée par cette concentration de la distribution numérique.",
+    "title": "Sony abandonne les jeux vidéo physiques sur PlayStation",
+    "full": "Sony a annoncé l'arrêt de la commercialisation de jeux vidéo en version physique pour ses consoles PlayStation à partir de janvier 2028. La firme japonaise basculera vers une distribution entièrement dématérialisée. Cette décision a suscité des critiques, notamment celle d'une personnalité politique française qui y voit une concentration accrue du contrôle commercial. La plateforme GitHub a réagi par l'humour en proposant temporairement de télécharger les dépôts de code sur CD-ROM, une pique ironique aux craintes exprimées concernant la disparition des supports physiques.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Sony officialise l'arrêt complet de la production de jeux physiques pour les consoles PlayStation à partir de 2028.",
-        "url": "https://www.franceinfo.fr/culture/jeux-video/playstation-annonce-la-fin-des-jeux-physiques-en-2028_8090552.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Figaro Éco",
+        "take": "Le choix de Sony est critiqué comme un exemple de concentration du marché et de dépendance accrue des consommateurs aux services dématérialisés.",
+        "url": "https://www.lefigaro.fr/secteur/high-tech/fin-des-jeux-video-physiques-sur-playstation-melenchon-denonce-un-triomphe-de-la-marchandisation-totale-20260703"
       },
       {
         "outlet": "Numerama",
-        "take": "La décision de Sony soulève des préoccupations sur les impacts pour les petits revendeurs spécialisés, qui pourraient être marginalisés par le monopole du numérique.",
-        "url": "https://www.numerama.com/pop-culture/2289999-cest-un-pur-monopole-que-va-faire-sony-la-fin-des-jeux-playstation-physiques-met-elle-en-peril-les-boutiques.html"
+        "take": "GitHub répond avec ironie à cette tendance en offrant exceptionnellement la possibilité de recevoir des données sur CD-ROM, moquant indirectement la décision de Sony.",
+        "url": "https://www.numerama.com/tech/2290151-nous-vous-avons-entendus-github-repond-a-la-fin-des-jeux-physiques-sur-playstation.html"
       }
     ],
     "id": 32,
@@ -805,20 +809,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Tech & Sciences"
     ],
-    "title": "Decathlon-CMA CGM prépare le contre-la-montre du Tour de France à Barcelone",
-    "full": "L'équipe Decathlon-CMA CGM s'est entraînée sur le circuit de Formule 1 de Catalogne pour se préparer au contre-la-montre par équipes de 19,6 km qui ouvrira le Tour de France 2026 à Barcelone. Cet exercice, disputé sur une piste habituellement réservée aux monoplaces, permet à la formation française de répéter sa coordination tactique avant la première étape. Paul Seixas, âgé de 19 ans, participera pour la première fois à la Grande Boucle avec l'ambition de réaliser un bon classement général.",
+    "title": "Le pass Navigo annuel accessible sur smartphone Android",
+    "full": "L'abonnement annuel aux transports franciliens peut désormais être dématérialisé et utilisé directement depuis un téléphone Android via l'application Île-de-France Mobilités. Cette fonctionnalité, attendue depuis sept ans de tests, élimine le besoin de conserver une carte physique pour valider ses trajets. Les utilisateurs d'iPhone pourront accéder à cette même option à partir de septembre.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "L'équipe française a choisi le circuit prestigieux de Barcelone pour un entraînement spécifique au format du contre-la-montre par équipes en conditions réelles.",
-        "url": "https://www.franceinfo.fr/tour-de-france/l-equipe-decathlon-cma-cgm-de-paul-seixas-repete-le-contre-la-montre-par-equipes-sur-le-circuit-de-f1-de-catalogne_8090528.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Figaro Éco",
+        "take": "Souligne que seuls les téléphones Android sont actuellement compatibles, les iPhone suivant en septembre.",
+        "url": "https://www.lefigaro.fr/conjoncture/le-passe-navigo-annuel-peut-desormais-etre-transfere-sur-smartphone-20260703"
       },
       {
-        "outlet": "Libération",
-        "take": "Paul Seixas, jeune prodige de 19 ans, fait ses débuts sur le Tour avec des ambitions de podium et l'objectif de captiver le public français.",
-        "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-paul-seixas-messie-cetait-lui-20260703_K73OVPCCDBFPPHCPWX27ZDMLXY/"
+        "outlet": "Numerama",
+        "take": "Insiste sur la longue attente de sept ans avant la mise en œuvre effective de cette dématérialisation du forfait annuel.",
+        "url": "https://www.numerama.com/vroom/2290137-vous-pouvez-enfin-importer-votre-navigo-annuel-sur-votre-telephone-android-et-liphone-arrive-bientot.html"
       }
     ],
     "id": 33,
@@ -826,21 +830,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement",
-      "Société"
+      "France"
     ],
-    "title": "QuotaClimat saisit le Conseil d'État contre les propos climatosceptiques de CNews",
-    "full": "L'association QuotaClimat a déposé un recours auprès du Conseil d'État pour contester l'inaction de l'Arcom face aux déclarations climatosceptiques diffusées sur CNews. Le philosophe Michel Onfray a remis en cause l'origine anthropique du changement climatique en évoquant des théories scientifiques non reconnues, violant selon l'association les obligations légales de maîtrise de l'antenne et d'honnêteté de l'information. Cette action vise à obtenir une condamnation de la chaîne pour sa diffusion de contenus contredisant le consensus scientifique établi sur la crise climatique.",
+    "title": "Canicule, incendies et débats politiques marquent le vendredi",
+    "full": "La France fait face vendredi 3 juillet à une conjonction de crises : une canicule provoquant une surmortalité, des incendies actifs dans le sud du pays, et des enjeux politiques majeurs en amont de la présidentielle. Ces événements dominent l'actualité du jour et alimentent les débats publics sur la gestion des catastrophes naturelles et l'orientation politique du pays.",
     "angles": [
       {
-        "outlet": "L'Humanité",
-        "take": "L'association conteste le manquement de l'Arcom face aux violations des obligations légales d'honnêteté et de contrôle éditorial.",
-        "url": "https://www.humanite.fr/politique/arcom/desinformation-climatique-sur-cnews-quotaclimat-saisit-le-conseil-detat-face-a-linaction-de-larcom"
+        "outlet": "France Info",
+        "take": "La matinale met en avant les trois défis simultanés du jour : phénomènes climatiques extrêmes et positionnement du Rassemblement national dans la course présidentielle.",
+        "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/incendies-canicule-le-rn-a-la-presidentielle-les-informes-du-matin-du-vendredi-03-juillet-2026_8061728.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Reporterre",
-        "take": "Les propos relayés s'appuient sur des théories pseudoscientifiques en contradiction avec le consensus climatologique établi.",
-        "url": "https://reporterre.net/CNews-QuotaClimat-en-appelle-au-Conseil-d-Etat-pour-faire-condamner-le-climatoscepticisme"
+        "outlet": "Libération",
+        "take": "Le récapitulatif met l'accent sur les conséquences sanitaires de la canicule, la situation des incendies régionaux et des débats sociétaux autour de la filiation par GPA.",
+        "url": "https://www.liberation.fr/international/europe/surmortalite-avec-la-canicule-incendies-dans-le-sud-filiation-par-gpa-lactu-de-ce-vendredi-3-juillet-20260703_TJFZBEVD25DKRBRO5YXRPCHBK4/"
       }
     ],
     "id": 34,
@@ -848,20 +851,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Environnement"
     ],
-    "title": "Isabelle Huppert devient présidente de la Cinémathèque française",
-    "full": "Isabelle Huppert a été élue présidente de la Cinémathèque française, devenant la première femme à occuper ce poste. L'actrice, 73 ans, succède au cinéaste Costa-Gavras qui dirigeait l'institution depuis 2007. Elle aura pour mission de préserver le patrimoine cinématographique et de défendre le cinéma d'auteur et grand public au sein de cette référence mondiale de la cinéphilie.",
+    "title": "El Niño devrait atteindre une forte intensité cet été",
+    "full": "L'Organisation météorologique mondiale a annoncé vendredi que le phénomène El Niño en cours dans le Pacifique tropical devrait se renforcer rapidement et atteindre une forte intensité (niveau 3 sur 4) entre juillet et septembre. Cette intensification accroît le risque de phénomènes météorologiques extrêmes à l'échelle mondiale au cours des prochains mois.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Souligne le symbolique de cette première présidence féminine et le passage de témoin générationnel entre deux figures majeures du cinéma.",
-        "url": "https://www.lemonde.fr/culture/article/2026/07/02/isabelle-huppert-devient-la-premiere-femme-a-presider-la-cinematheque-francaise_6718032_3246.html"
+        "outlet": "Sciences et Avenir",
+        "take": "L'ONU met l'accent sur l'accélération du renforcement du phénomène et ses conséquences en termes d'événements climatiques extrêmes.",
+        "url": "https://www.sciencesetavenir.fr/nature-environnement/le-phenomene-climatique-el-nino-en-cours-devrait-etre-de-forte-intensite-selon-l-onu_193554?xtor=RSS-15"
       },
       {
-        "outlet": "France Info",
-        "take": "Relève que cette nomination intervient après plusieurs polémiques ayant affecté l'institution ces dernières années.",
-        "url": "https://www.franceinfo.fr/culture/cinema/isabelle-huppert-premiere-femme-elue-presidente-de-la-cinematheque-francaise_8090285.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "L'Organisation météorologique mondiale détaille l'apparition des conditions El Niño dans le Pacifique tropical et leur amplification attendue.",
+        "url": "https://www.lemonde.fr/climat/article/2026/07/03/el-nino-l-onu-alerte-sur-un-episode-de-forte-intensite-augmentant-les-risques-de-phenomenes-meteorologiques-extremes-dans-le-monde_6718469_1652612.html"
       }
     ],
     "id": 35,
@@ -869,20 +872,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Monde"
     ],
-    "title": "Wauquiez soutient Philippe pour affaiblir Retailleau à droite",
-    "full": "Laurent Wauquiez, patron des députés Droite républicaine, a apporté son soutien à Édouard Philippe pour l'élection présidentielle de 2027. Après avoir abandonné sa propre ambition élyséenne, Wauquiez entend peser sur le programme du candidat et le choix du futur chef de file de la droite. Ce soutien à Philippe constitue une manière d'affaiblir son rival Bruno Retailleau, président du parti Les Républicains.",
+    "title": "Attaque russe massive sur Kiev: au moins 25 morts",
+    "full": "Une attaque russe d'une ampleur inédite a frappé Kiev dans la nuit du 2 au 3 juillet, tuant au moins 25 personnes et en blessant 90 autres. Plus de 570 missiles et drones ont visé plusieurs immeubles d'habitation de la capitale ukrainienne. Face à la violence de cette offensive, plus de 52 000 Kiéviens ont cherché refuge dans les abris souterrains de la ville.",
     "angles": [
       {
-        "outlet": "Le Figaro Politique",
-        "take": "Wauquiez se positionne comme arbitre interne, posant des conditions au soutien d'Attal et exprimant des réserves sur Retailleau dans sa stratégie de rassemblement.",
-        "url": "https://www.lefigaro.fr/politique/sa-main-tendue-a-philippe-ses-conditions-a-attal-ses-craintes-sur-retailleau-les-confidences-de-laurent-wauquiez-guerrier-du-rassemblement-pour-2027-20260701"
+        "outlet": "France Info",
+        "take": "Insiste sur le chiffre record des personnes qui se sont réfugiées dans les abris souterrains et le volume extraordinaire de projectiles lancés.",
+        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/plus-de-52-000-personnes-ont-trouve-refuge-dans-des-abris-souterrains-lors-de-l-attaque-massive-du-2-juillet-contre-kiev_8092439.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Le soutien à Philippe répond principalement à un calcul de rivalité interne visant à diminuer l'influence de Retailleau au sein du parti.",
-        "url": "https://www.20minutes.fr/politique/assemblee_nationale/4232431-20260703-presidentielle-2027-seule-boussole-emmerder-retailleau-pourquoi-wauquiez-soutient-philippe?at_medium=display&at_campaign=149"
+        "outlet": "Le Figaro International",
+        "take": "Met l'accent sur le caractère terroriste de l'attaque et en détaille la composition (missiles balistiques et drones).",
+        "url": "https://www.lefigaro.fr/international/ils-veulent-semer-la-terreur-au-sein-de-la-population-apres-l-attaque-la-plus-massive-depuis-2022-les-habitants-de-kiev-comptent-leurs-morts-20260702"
       }
     ],
     "id": 36,
@@ -890,20 +893,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Insolite",
+      "Environnement"
     ],
-    "title": "La « casita » de Bad Bunny suscite des critiques sur ses critères de sélection",
-    "full": "Lors de son premier concert en France, Bad Bunny a fait figurer sur scène sa « casita », une installation récurrente dans sa tournée accueillant des invités VIP et des spectateurs sélectionnés du public. Cette pratique provoque des réactions négatives : les femmes choisies par son équipe présenteraient un profil physique et un âge similaires, ce qui contraste avec les valeurs d'inclusion affichées par l'artiste portoricain. Les critiques portent notamment sur l'homogénéité des participants et le manque de diversité dans la sélection.",
+    "title": "La mer Noire vire au turquoise, visible depuis l'espace",
+    "full": "Une coloration turquoise envahit actuellement la mer Noire, suffisamment intense pour être observée par satellite. Ce phénomène résulte d'une prolifération saisonnière de minuscules algues calcaires, un événement naturel qui se produit régulièrement en été, favorisé par les conditions climatiques de cette période.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Interroge les raisons de l'insatisfaction du public face à la présence d'invités VIP privilégiés dans la casita.",
-        "url": "https://www.franceinfo.fr/culture/musique/c-est-quoi-le-probleme-avec-la-casita-de-bad-bunny_8090264.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Dénonce l'écart entre le profil physique homogène des femmes sélectionnées et le discours inclusif porté par Bad Bunny.",
-        "url": "https://www.liberation.fr/idees-et-debats/tribunes/dans-la-casita-de-bad-bunny-on-veut-des-grosses-20260702_KNDXGSOE4VESNNWF3AVI5DLMEI/"
+        "outlet": "Slate",
+        "take": "Cette transformation spectaculaire de la teinte de la mer est déclenchée par une multiplication d'organismes microscopiques couverts de calcaire, un processus naturel amplifié par les conditions estivales.",
+        "url": "https://www.slate.fr/sciences/visible-espace-coloration-eau-turquoise-mer-noire-algues-calcaire-co2-organismes-nutriments-poissons"
       }
     ],
     "id": 37,
@@ -911,15 +910,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Insolite"
     ],
-    "title": "Madonna et Shakira, figures d'une pop sans limite d'âge",
-    "full": "Madonna sort vendredi son album « Confessions II » à 68 ans, confirmant que les stars de la pop n'abandonnent pas la scène au fil des décennies. Aux côtés de Shakira et d'autres artistes quinquagénaires, elle incarne une évolution : celle d'une industrie musicale où la créativité et les performances ne sont plus réservées aux jeunes générations. Ces artistes redéfinissent les attentes liées à l'âge dans le divertissement.",
+    "title": "France Télévisions replonge dans l'affaire Xavier Dupont de Ligonnès",
+    "full": "Le magazine « 13h15 le dimanche » consacre une nouvelle émission à l'énigme de Xavier Dupont de Ligonnès, ce mari et père de famille soupçonné d'avoir tué cinq membres de sa famille en avril 2011 à Nantes. L'affaire, qui reste non résolue et largement médiatisée, fait l'objet d'une deuxième partie de reportage explorant les zones d'ombre de cette disparition.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Madonna et ses pairs quinquagénaires inversent le narrative dominant du déclin lié à l'âge en restant des figures majeures de l'industrie musicale.",
-        "url": "https://www.20minutes.fr/tempo/bien-etre/4231995-20260703-elles-inversent-recit-dominant-declin-shakira-madonna-stars-badass-ouvrent-voie-quinquas?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "France Télévisions propose un nouvel éclairage sur cette affaire criminelle non élucidée à travers un format documentaire.",
+        "url": "https://www.franceinfo.fr/replay-magazine/france-2/13h15/13h15-le-dimanche-le-disparu-partie-2_8065112.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 38,
@@ -927,133 +926,18 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences"
+      "Insolite"
     ],
-    "title": "L'IA déchiffre des manuscrits grecs ensevelis par le Vésuve",
-    "full": "Des chercheurs ont réussi à lire le contenu de rouleaux de papyrus carbonisés lors de l'éruption du Vésuve en 79 après Jésus-Christ, grâce à une combinaison de radiographies et d'intelligence artificielle. Ces textes grecs, découverts à Herculanum près de Pompéi, étaient restés inaccessibles pendant près de deux millénaires en raison de leur état fragmenté. La technologie a permis de révéler des passages entiers sans endommager ces documents extrêmement fragiles.",
+    "title": "Trente ans après, l'énigme d'une épave d'or enfin résolue",
+    "full": "Des chercheurs ont identifié le navire marchand néerlandais à l'origine de plus de 400 pièces d'or découvertes au large des côtes anglaises. Cette identification met fin à un mystère qui durait depuis la découverte initiale du trésor, il y a trois décennies. L'épave représente une importante trouvaille archéologique sur le commerce maritime historique.",
     "angles": [
       {
         "outlet": "Slate",
-        "take": "Une équipe internationale utilise les rayons X et l'IA pour déchiffrer des textes antiques jusque-là illisibles, ouvrant l'accès à des connaissances perdues depuis deux mille ans.",
-        "url": "https://www.slate.fr/sciences/manuscrits-ensevelis-2000-ans-vesuve-dechiffres-intelligence-artificielle-pompei-grec-romain-italie-volcan-herculanum-papyrus-philosophie-stoicisme"
+        "take": "Des experts ont déterminé l'identité du navire hollando-néerlandais responsable du dépôt de pièces d'or retrouvées en mer du Nord après trois décennies d'énigme.",
+        "url": "https://www.slate.fr/culture/decouverte-mer-mystere-epave-piece-or-tresor-hollande-pays-bas-commerce-afrique-marchandise-angleterre-enigme"
       }
     ],
     "id": 39,
     "priority": 40
-  },
-  {
-    "themes": [
-      "Environnement",
-      "Insolite"
-    ],
-    "title": "Les arbres plantés par la Chine croissent 66% plus vite que les forêts naturelles",
-    "full": "Selon une étude récente, les milliards d'arbres plantés dans le cadre du projet chinois de la « Grande Muraille verte » présentent une croissance sensiblement plus rapide que celle des forêts naturelles : ils grandissent 66% plus vite. Ce programme massive de reboisement, lancé pour lutter contre la désertification et la dégradation des sols, bénéficie d'une croissance végétale exceptionnelle liée aux conditions et essences choisies pour le projet.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "L'étude met en avant que les arbres du programme de reboisement affichent une dynamique de croissance bien supérieure aux écosystèmes forestiers non aménagés.",
-        "url": "https://www.slate.fr/monde/milliards-arbres-plante-chine-croissance-forets-naturelle-essences-muraille-verte-piege-carbone-bois-ecologie-climat"
-      }
-    ],
-    "id": 40,
-    "priority": 41
-  },
-  {
-    "themes": [
-      "Tech & Sciences",
-      "Insolite"
-    ],
-    "title": "Des chercheurs percent les secrets du langage des oiseaux",
-    "full": "Une étude primée révèle que les diamants mandarins échangent des informations précises et comprennent la signification de leurs propres appels. Ces travaux ouvrent des perspectives inédites sur la possibilité de communiquer avec les animaux. Les résultats suggèrent que ces oiseaux disposent d'une véritable capacité linguistique, au-delà de simples réflexes instinctifs.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "Les diamants mandarins maîtrisent un langage doté de sens, ce qui constitue une avancée majeure vers une communication interespèces et remet en question notre compréhension de l'intelligence animale.",
-        "url": "https://www.slate.fr/sciences/decoder-langage-oiseaux-chants-comprehension-sens-communication-animaux-appels-especes"
-      }
-    ],
-    "id": 41,
-    "priority": 42
-  },
-  {
-    "themes": [
-      "Insolite",
-      "Environnement"
-    ],
-    "title": "Un bookmaker propose des paris sur les feux de forêt",
-    "full": "La plateforme de paris en ligne Wyldfyre permet désormais à ses utilisateurs de parier sur l'intensité et la localisation des feux de forêt dans différentes régions du monde. Cette offre suscite des critiques quant à la monétisation des catastrophes climatiques et aux risques d'incitation à des comportements nuisibles. Le service reflète une tendance plus large de financiarisation des enjeux environnementaux.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "La plateforme crée un marché de paris autour d'une catastrophe climatique, soulevant des préoccupations éthiques sur le capitalisme spéculatif appliqué aux désastres naturels.",
-        "url": "https://www.slate.fr/monde/feux-foret-wyldfyre-pari-ligne-bookmaker-catastrophe-climatique-capitalisme"
-      }
-    ],
-    "id": 42,
-    "priority": 43
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Quarante pièces d'or antiques volées près de Toulouse",
-    "full": "Une quarantaine de pièces d'or datant du premier siècle après Jésus-Christ ont été dérobées dans un centre archéologique situé près de Toulouse. Le trésor, estimé à 120 000 euros, reste introuvable.",
-    "angles": [
-      {
-        "outlet": "France Info",
-        "take": "Le vol cible un ensemble de pièces anciennes de grande valeur conservées dans un établissement archéologique de la région Occitanie.",
-        "url": "https://www.franceinfo.fr/faits-divers/vol-de-pieces-d-or-un-tresor-inestimable-derobe_8090168.html#xtor=RSS-3-%5Bgeneral%5D"
-      }
-    ],
-    "id": 43,
-    "priority": 44
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Attacher les cheveux mouillés n'est pas une bonne idée",
-    "full": "Bien que cela semble pratique pour se rafraîchir par temps chaud, attacher ses cheveux alors qu'ils sont encore humides endommage la fibre capillaire. Les cheveux mouillés sont plus fragiles et susceptibles de casser ou de se déchirer lorsqu'ils sont serrés. Les dermatologues et coiffeurs recommandent de laisser les cheveux sécher naturellement ou partiellement avant de les attacher pour préserver leur santé.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "Malgré son apparence pratique, ce geste quotidien nuit à la structure des cheveux et n'est donc pas recommandé.",
-        "url": "https://www.20minutes.fr/tempo/style/4232192-20260702-erreur-cheveux-mouilles-pourquoi-attacher-encore-humides-avoir-moins-chaud-mauvaise-idee?at_medium=display&at_campaign=149"
-      }
-    ],
-    "id": 44,
-    "priority": 45
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Pourquoi les Romains enterraient des trésors sans les récupérer",
-    "full": "Une étude portant sur plus de 18 000 trésors enfouis révèle que les Romains dissimulaient leurs fortunes en raison des guerres, invasions et catastrophes qui ravageaient l'Empire. Ces dépôts oubliés constituent des témoignages silencieux des périodes d'insécurité qui ont empêché leurs propriétaires de revenir les chercher. Les archéologues interprètent ces trésors comme des marqueurs involontaires des bouleversements historiques ayant affecté l'Europe romaine.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "L'analyse de milliers de trésors enfouis permet aux chercheurs de retracer indirectement les zones et périodes de violence majeure au sein de l'Empire romain.",
-        "url": "https://www.slate.fr/sciences/romains-enterrer-tresors-europe-raison-guerre-violence-combat-securite-fortune-soldats-insecurite"
-      }
-    ],
-    "id": 45,
-    "priority": 46
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Une nonagénaire influenceuse menacée d'expulsion pour ses fêtes",
-    "full": "Lillian Droniak, une Américaine de 96 ans et influenceuse sur les réseaux sociaux, a reçu un avertissement de sa maison de retraite pour avoir organisé des fêtes dans sa chambre, au cours desquelles de l'alcool avait été servi. L'établissement menace de l'expulser si le comportement persiste.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "La résidence met en avant le non-respect du règlement intérieur et la consommation d'alcool non autorisée dans les locaux collectifs.",
-        "url": "https://www.20minutes.fr/arts-stars/insolite/4232375-20260702-etats-unis-nonagenaire-menacee-expulsion-maison-retraite-avoir-organise-fetes-chambre?at_medium=display&at_campaign=149"
-      }
-    ],
-    "id": 46,
-    "priority": 47
   }
 ];
