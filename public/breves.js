@@ -1,27 +1,47 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-07-05T04:03:24.622398+00:00
+// 2026-07-05T06:59:54.874745+00:00
 const ARTICLES = [
   {
     "themes": [
       "Sport"
     ],
-    "title": "La France se qualifie aux quarts en battant le Paraguay",
-    "full": "L'équipe de France s'est qualifiée pour les quarts de finale de la Coupe du monde 2026 en disposant du Paraguay sur le score de 1-0, samedi 4 juillet. Un penalty transformé par Kylian Mbappé à la 70e minute a permis aux Bleus de sortir d'un match difficile, marqué par une défense paraguayenne agressive et des conditions climatiques éprouvantes. La France affrontera le Maroc en quarts, après la victoire des Lions de l'Atlas face au Canada (3-0).",
+    "title": "Coupe du monde 2026 : la France bat le Paraguay et file en quarts",
+    "full": "L'équipe de France s'est qualifiée pour les quarts de finale de la Coupe du monde en battant le Paraguay (1-0) aux huitièmes de finale, dimanche 4 juillet à Philadelphie. Kylian Mbappé a transformé un penalty à la 70e minute pour débloquer une rencontre âpre dans des conditions climatiques éprouvantes. Les Bleus affronteront le Maroc jeudi en quarts de finale à Boston.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "Met l'accent sur le caractère piégeux du match, disputé dans une chaleur suffocante, où le Paraguay a livré une bataille acharnée aux Bleus.",
+        "take": "Souligne la difficulté de la rencontre, disputée dans une chaleur suffocante face à une opposition acharnée du Paraguay.",
         "url": "https://www.lemonde.fr/sport/article/2026/07/05/coupe-du-monde-2026-a-l-issue-d-un-france-paraguay-dans-le-cambouis-les-bleus-arrachent-leur-qualification-pour-les-quarts-de-finale_6720814_3242.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Décrit une rencontre en mode attaque-défense où la sélection paraguayenne, repliée et malicieuse, a imposé un véritable siège à la France.",
-        "url": "https://www.liberation.fr/sports/football/face-au-paraguay-les-bleus-se-sortent-dun-match-siege-20260705_RU353HWCMVBBVH42SZK6DZAAS4/"
+        "outlet": "France Info",
+        "take": "Met en avant le rôle décisif de Mbappé et le penalty transformateur qui a libéré les Bleus.",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-kylian-mbappe-envoie-les-bleus-en-quarts_8094359.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "France 24",
-        "take": "Souligne que le Maroc, malgré une première période décevante, a dominé le Canada grâce à l'ouverture du score d'Azzedine Ounahi.",
-        "url": "https://www.france24.com/fr/sports/20260704-mondial-2026-maroc-vs-canada"
+        "take": "Relève que les Bleus, largement favoris, ont peiné face à la défense solide et compacte des Paraguayens.",
+        "url": "https://www.france24.com/fr/sports/20260704-mondial-2026-paraguay-france-direct-live-bleus-mbappe-olise-orages"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Pointe l'intensité imposée par le Paraguay et la nature éprouvante du match pour l'équipe française.",
+        "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-face-au-paraguay-le-gout-acre-de-lexotisme-pour-des-bleus-pas-venus-en-smoking-20260705_5A3M5KFYEFBITOSOXT3AT7QPDI/"
+      },
+      {
+        "outlet": "Courrier International",
+        "take": "Décrit le piège tendu par des Sud-Américains agressifs et évoque des critiques envers l'arbitrage.",
+        "url": "https://www.courrierinternational.com/article/coupe-du-monde-la-france-en-1-4-malgre-le-mur-du-paraguay-et-un-arbitre-qui-n-a-pas-sa-place-en-coupe-du-monde_246711"
+      },
+      {
+        "outlet": "L'Humanité",
+        "take": "Souligne les obstacles rencontrés : défense agressive, conditions climatiques difficiles, et l'attente jusqu'à la 70e minute.",
+        "url": "https://www.humanite.fr/sports/bleus/mbappe-fait-sauter-le-coffre-fort-paraguayen-et-envoie-les-bleus-en-quarts-de-finale"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Analyse comment la France a su conserver son calme face aux provocations incessantes du Paraguay.",
+        "url": "https://www.20minutes.fr/sport/football/4232863-20260705-paraguay-france-sait-faire-guerre-comment-bleus-reussi-peter-plombs-face-albirroja?at_medium=display&at_campaign=149"
       }
     ],
     "id": 0,
@@ -31,27 +51,37 @@ const ARTICLES = [
     "themes": [
       "Monde"
     ],
-    "title": "Les États-Unis célèbrent 250 ans d'indépendance dans un contexte politique divisé",
-    "full": "Les États-Unis marquent le 4 juillet 2026 le 250e anniversaire de leur déclaration d'indépendance. Le président Donald Trump a prononcé un discours de célébration au cours duquel il a affirmé que « l'Amérique était de retour » et dénoncé ses opposants en les qualifiant de « communistes », tout en mettant l'accent sur le second amendement garantissant le droit de porter des armes. Le vice-président JD Vance a également critiqué les détracteurs des États-Unis pour ne pas comprendre « l'essence de l'Amérique ». Ces festivités suscitent des commentaires critiques : l'historien Edward G. Lengel estime que les Pères fondateurs seraient « horrifiés » par cette appropriation de la fête nationale par l'administration Trump.",
+    "title": "Trump célèbre les 250 ans des États-Unis avec des attaques partisanes",
+    "full": "Donald Trump a prononcé samedi un discours à l'occasion du 250e anniversaire de l'indépendance américaine, affirmant que « l'Amérique était de retour ». Le président américain a mis l'accent sur la Constitution, notamment le droit de porter des armes, tout en qualifiant ses opposants de « communistes ». Selon le Kremlin, Trump s'est également entretenu au téléphone avec Vladimir Poutine samedi, tandis que le président ukrainien Volodymyr Zelensky affirme aussi s'être parlé avec son homologue américain.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "JD Vance s'en prend aux critiques adressées aux États-Unis lors de cet anniversaire majeur.",
-        "url": "https://www.franceinfo.fr/monde/usa/jd-vance-fustige-les-detracteurs-des-etats-unis-a-l-occasion-de-leur-250e-anniversaire_8094173.html#xtor=RSS-3-[lestitres]"
-      },
-      {
         "outlet": "Le Monde",
-        "take": "Trump utilise la célébration de l'indépendance pour faire la promotion du second amendement et critiquer ses opposants politiques.",
-        "url": "https://www.lemonde.fr/international/live/2026/07/05/en-direct-4-juillet-et-250-ans-des-etats-unis-le-national-mall-a-washington-evacue-en-raison-d-un-risque-d-orages-le-discours-de-donald-trump-reporte-sine-die_6720679_3210.html"
+        "take": "Trump a profité des célébrations du 4-Juillet pour multiplier les saillies partisanes et renouveler son rejet des « communistes ».",
+        "url": "https://www.lemonde.fr/international/live/2026/07/05/en-direct-4-juillet-et-250-ans-des-etats-unis-donald-trump-fustige-les-communistes-lors-d-un-discours-marque-par-les-saillies-partisanes-a-l-occasion-des-celebrations-de-l-independance-des-etats-unis_6720679_3210.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Un historien spécialiste de la fondation américaine déplore que Trump accapare les célébrations et s'inquiète des conséquences pour les institutions du pays.",
-        "url": "https://www.liberation.fr/idees-et-debats/250-ans-des-etats-unis-pour-lhistorien-edward-g-lengel-les-peres-fondateurs-seraient-horrifies-par-cette-fete-nationale-version-trump-20260704_RIKDZM33JBDADJ35AB47ZCJZR4/"
+        "outlet": "France Info",
+        "take": "Le Kremlin a annoncé un échange téléphonique entre Poutine et Trump lors des festivités du bicentenaire américain.",
+        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-vladimir-poutine-a-echange-avec-donald-trump-au-telephone-annonce-le-kremlin_8094590.html#xtor=RSS-3-[lestitres]"
+      },
+      {
+        "outlet": "France 24",
+        "take": "Trump a qualifié l'anniversaire d'« événement joyeux et glorieux » malgré un discours retardé par l'orage.",
+        "url": "https://www.france24.com/fr/am%C3%A9riques/20260705-trump-c%C3%A9l%C3%A8bre-le-250e-anniversaire-des-%C3%A9tats-unis-plus-fiers-que-jamaisald"
+      },
+      {
+        "outlet": "Le Figaro International",
+        "take": "Le président a prononcé un discours triomphant célébrant une Amérique « que personne ne peut égaler » sous une chaleur écrasante.",
+        "url": "https://www.lefigaro.fr/international/250-ans-de-l-independance-des-etats-unis-sous-une-chaleur-ecrasante-donald-trump-celebre-une-amerique-que-personne-ne-peut-egaler-20260705"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Les appels de Trump à Poutine et Zelensky interviennent avant un sommet de l'Otan prévu en Turquie.",
+        "url": "https://www.20minutes.fr/monde/ukraine/4232880-20260705-guerre-ukraine-trump-entretient-poutine-zelensky?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Mediapart",
-        "take": "Trump prononce son discours d'anniversaire au Mont Rushmore, territoire historiquement extorqué aux Autochtones Lakotas.",
+        "take": "Trump s'est rendu au mont Rushmore pour célébrer les héros américains tout en avertissant contre le retour du communisme.",
         "url": "https://www.mediapart.fr/journal/international/040726/la-veille-des-250-ans-des-etats-unis-trump-celebre-les-heros-de-la-nation-et-agite-la-peur-du-commu"
       }
     ],
@@ -62,23 +92,23 @@ const ARTICLES = [
     "themes": [
       "Sport"
     ],
-    "title": "Tour de France 2026 : Vingegaard prend le maillot jaune dès la première étape",
-    "full": "Jonas Vingegaard a remporté samedi le contre-la-montre par équipes inaugurant la 113ème édition du Tour de France à Barcelone, permettant à son équipe Visma-Lease a Bike de s'imposer. Le Danois hérite du maillot jaune avec 12 secondes d'avance sur son rival slovène Tadej Pogacar. Le jeune talent français Paul Seixas, 19 ans, a terminé à la dixième place de cette première étape de 19,6 km, accusant un retard de 39 secondes.",
+    "title": "Vingegaard revêt le premier maillot jaune du Tour 2026",
+    "full": "Jonas Vingegaard s'est emparé du maillot jaune à l'issue du contre-la-montre par équipes de la première étape du Tour de France 2026, disputée samedi dans les rues de Barcelone sur 19,6 kilomètres. Le Danois de la Visma-Lease a bike devance Filippo Ganna et Tadej Pogacar au classement général. Le Français Paul Seixas, à ses débuts sur la Grande Boucle, pointe à la dixième place.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Présente Paul Seixas comme le grand espoir tricolore attendu pour animer cette édition face aux deux favoris Pogacar et Vingegaard.",
-        "url": "https://www.franceinfo.fr/sports/cyclisme/paul-seixas-un-prodige-qui-vaut-deja-de-l-or_8094002.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Rapporte les résultats précis du contre-la-montre et la performance modérée de Seixas en début de Tour.",
-        "url": "https://www.lemonde.fr/sport/article/2026/07/04/tour-de-france-jonas-vingegaard-premier-maillot-jaune-apres-son-succes-sur-le-contre-la-montre-par-equipes_6720698_3242.html"
+        "take": "Vingegaard prend la tête grâce au travail collectif de son équipe, devancant Ganna et Pogacar.",
+        "url": "https://www.franceinfo.fr/tour-de-france/videos/jonas-vingegaard-s-empare-du-premier-maillot-jaune-du-tour-de-france-2026_8094170.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Libération",
-        "take": "Souligne le changement de dénomination de l'équipe Israel-Premier Tech, désormais NSN Cycling sous l'égide d'Andrés Iniesta, qui passe inaperçue contrairement aux polémiques de l'année précédente.",
-        "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-transformee-en-nsn-cycling-lex-equipe-israel-premier-tech-retrouve-lindifference-a-barcelone-20260704_73AGKCZTDRD65CJZWRJEYF5VKU/"
+        "take": "Le Danois surprend Pogacar (quadruple vainqueur du Tour) lors du contre-la-montre par équipe en Catalogne.",
+        "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-a-barcelone-jonas-vingegaard-croque-tadej-pogacar-en-haut-du-montjuic-20260704_NCLCGPRJJZCWDIN5ZDFYLHZQWE/"
+      },
+      {
+        "outlet": "L'Humanité",
+        "take": "Vingegaard compte 12 secondes d'avance sur Pogacar tandis que le débutant français Seixas abandonne 39 secondes.",
+        "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-1re-etape-vingegaard-prend-le-jaune-seixas-limite-la-casse"
       }
     ],
     "id": 2,
@@ -88,27 +118,27 @@ const ARTICLES = [
     "themes": [
       "Société"
     ],
-    "title": "Mobilisation massive contre les violences sexuelles en France",
-    "full": "Des dizaines de milliers de manifestants se sont rassemblés samedi dans environ 110 villes de France pour réclamer l'adoption d'une loi globale contre les violences sexuelles et faites aux enfants. À Paris, les organisateurs revendiquent 100 000 participants à la manifestation, organisée un mois après le meurtre de Lyhanna. Les associations féministes et enfantistes demandent au gouvernement l'examen dès l'automne d'une loi intégrale destinée à combattre ces violences.",
+    "title": "Mobilisation massive en France contre les violences sexuelles",
+    "full": "Un mois après le meurtre de Lyhanna, plusieurs milliers de personnes ont manifesté samedi à Paris et dans une centaine de villes de France pour dénoncer les violences faites aux femmes et aux enfants. Les organisateurs réclament l'adoption d'une loi intégrale, globale et rapide pour combattre ces violences. La mobilisation vise à mettre la pression sur le gouvernement avant l'examen d'un tel texte à la rentrée.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Souligne la continuité de la mobilisation depuis le crime de Lyhanna et la demande de mesures concrètes rapides du gouvernement.",
-        "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/on-ne-peut-plus-encaisser-tous-les-drames-qui-se-passent-a-paris-plusieurs-milliers-de-manifestants-reclament-une-loi-globale-contre-les-violences-sexuelles_8094071.html#xtor=RSS-3-[lestitres]"
-      },
-      {
         "outlet": "Le Monde",
-        "take": "Met l'accent sur l'appel des manifestants à un changement systémique et à une prise de conscience collective.",
+        "take": "Les manifestants expriment l'urgence d'un changement systémique face aux violences sexuelles et demandent une loi complète et ambitieuse.",
         "url": "https://www.lemonde.fr/societe/article/2026/07/04/il-faut-qu-il-y-ait-un-sursaut-dans-le-cortege-parisien-de-lutte-contre-les-violences-sexuelles-l-urgence-d-un-changement_6720710_3224.html"
       },
       {
+        "outlet": "France Info",
+        "take": "La manifestation traduit une saturation face aux drames répétés et réclame des mesures concrètes immédiates du gouvernement.",
+        "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/on-ne-peut-plus-encaisser-tous-les-drames-qui-se-passent-a-paris-plusieurs-milliers-de-manifestants-reclament-une-loi-globale-contre-les-violences-sexuelles_8094071.html#xtor=RSS-3-[lestitres]"
+      },
+      {
         "outlet": "20 Minutes",
-        "take": "Rapporte les chiffres de participation et la demande spécifique d'une loi-cadre intégrale.",
+        "take": "Les organisateurs revendiquent une participation de 100 000 personnes à Paris et qualifient le texte demandé de « loi-cadre intégrale ».",
         "url": "https://www.20minutes.fr/societe/4232854-20260704-apres-affaire-lyhanna-forte-mobilisation-rues-contre-violences-sexuelles?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Mediapart",
-        "take": "Insiste sur la volonté des manifestants de peser sur le gouvernement pour éviter un texte jugé insuffisant à la rentrée.",
+        "take": "La coalition féministe cherche à éviter un texte « au rabais » en exerçant une démonstration de force citoyenne avant la rentrée.",
         "url": "https://www.mediapart.fr/journal/france/040726/indignation-gigantesque-paris-une-demonstration-de-force-citoyenne-contre-les-violences-sexuelles"
       }
     ],
@@ -117,25 +147,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie"
+      "Monde"
     ],
-    "title": "Bernard Arnault condamné à un redressement fiscal de 22,5 millions",
-    "full": "La Cour administrative de Paris a condamné Bernard Arnault et son épouse à un redressement fiscal de 22,5 millions d'euros. Le litige porte sur la structure de l'actionnariat de LVMH: la famille Arnault ne détient pas directement le groupe de luxe, mais par l'intermédiaire d'une cascade de holdings. Bernard Arnault a saisi le Conseil d'Etat pour contester cette décision et a notamment invoqué la Convention européenne des droits de l'homme dans sa défense.",
+    "title": "Double séisme au Venezuela: près de 3 000 morts",
+    "full": "Un double tremblement de terre de magnitude 7,5 a frappé le nord du Venezuela le 24 juin, le plus puissant dans le pays depuis 1900. Le bilan officiel s'élève à au moins 2 954 morts et 16 592 blessés, selon le gouvernement intérimaire. Les tremblements ont également laissé plus de 16 000 personnes sans logement et détruit 856 bâtiments. Les équipes de secours internationales interrompent progressivement la recherche de survivants dans les décombres.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "Souligne que le contentieux concerne la structure complexe du contrôle actionnarial de LVMH via plusieurs niveaux de holdings.",
-        "url": "https://www.lemonde.fr/economie/article/2026/07/04/bernard-arnault-soumis-a-un-redressement-fiscal-de-22-5-millions-d-euros_6720699_3234.html"
+        "take": "Met l'accent sur l'ampleur historique du séisme, le plus important enregistré au Venezuela depuis plus d'un siècle.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/05/seisme-au-venezuela-le-bilan-s-alourdit-a-pres-de-3-000-morts_6720715_3210.html"
+      },
+      {
+        "outlet": "France 24",
+        "take": "Souligne que les opérations de recherche de survivants touchent à leur fin, marquant une phase nouvelle de la catastrophe.",
+        "url": "https://www.france24.com/fr/am%C3%A9riques/20260705-double-s%C3%A9isme-au-venezuela-le-bilan-avoisine-d%C3%A9sormais-3000-morts"
       },
       {
         "outlet": "Libération",
-        "take": "Précise que le jugement a été rendu par la Cour administrative de Paris et que le patron a mobilisé des arguments fondés sur le droit européen.",
-        "url": "https://www.liberation.fr/economie/bernard-arnault-soumis-a-un-redressement-fiscal-de-225-millions-deuros-20260704_WPVZTT3XZVGCDMUXTINQGQLIBM/"
+        "take": "Attribue explicitement les chiffres au gouvernement intérimaire du pays.",
+        "url": "https://www.liberation.fr/international/amerique/au-venezuela-le-bilan-du-double-seisme-monte-a-pres-de-3-000-morts-20260705_X7LWUOQT3ZBFXA2MHCBRQXUOUM/"
       },
       {
-        "outlet": "Mediapart",
-        "take": "Confirme que la décision émane de la cour administrative d'appel de Paris et a été consultée par l'AFP.",
-        "url": "https://www.mediapart.fr/journal/france/040726/bernard-arnault-soumis-un-redressement-fiscal-de-225-millions-d-euros"
+        "outlet": "20 Minutes",
+        "take": "Détaille les conséquences sociales immédiates en précisant le nombre de sans-logis et de bâtiments sinistrés.",
+        "url": "https://www.20minutes.fr/monde/4232860-20260704-venezuela-bilan-double-seisme-monte-2-954-morts?at_medium=display&at_campaign=149"
       }
     ],
     "id": 4,
@@ -143,25 +178,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé"
+      "Économie"
     ],
-    "title": "Premier cas d'Ebola en France déclaré guéri et sorti de l'hôpital",
-    "full": "Un médecin humanitaire, seul cas d'Ebola identifié en France depuis le début de l'épidémie, a quitté l'hôpital après sa guérison, a annoncé samedi la ministre de la Santé. Ce praticien, revenu de République démocratique du Congo le 23 juin, avait été isolé dès son arrivée à Paris et deux tests PCR négatifs ont confirmé sa guérison.",
+    "title": "Bernard Arnault condamné à un redressement fiscal de 22,5 millions",
+    "full": "La Cour administrative de Paris a ordonné à Bernard Arnault et à son épouse de s'acquitter d'un redressement fiscal de 22,5 millions d'euros. Le contentieux porte sur la structure actionnariale de LVMH : la famille Arnault ne détient pas directement le groupe de luxe, mais via une cascade de holdings, sur laquelle l'administration fiscale conteste le montage. Arnault a déposé un recours devant le Conseil d'État et a invoqué la Convention européenne des droits de l'homme dans sa défense.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Insiste sur le statut de ce cas comme unique en France depuis le début de l'épidémie.",
-        "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-premier-cas-d-ebola-en-france-est-gueri-et-sorti-de-l-hopital-annonce-la-ministre-de-la-sante_8093969.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "Précise les critères médicaux de la sortie : deux tests PCR négatifs consécutifs.",
-        "url": "https://www.20minutes.fr/sante/4232849-20260704-ebola-premier-cas-france-gueri-sorti-hopital-annonce-ministre-sante?at_medium=display&at_campaign=149"
-      },
-      {
         "outlet": "Le Monde",
-        "take": "Revient sur le contexte du voyage : le patient avait embarqué sans symptômes majeurs mais avec des maux de tête, avant une légère dégradation en vol.",
-        "url": "https://www.lemonde.fr/sante/article/2026/07/04/ebola-le-premier-cas-en-france-est-gueri-et-sorti-de-l-hopital-annonce-la-ministre-de-la-sante_6720687_1651302.html"
+        "take": "La décision judiciaire révèle un système d'actionnariat complexe où la famille Arnault détient LVMH indirectement par plusieurs niveaux de structures intermédiaires.",
+        "url": "https://www.lemonde.fr/economie/article/2026/07/04/bernard-arnault-soumis-a-un-redressement-fiscal-de-22-5-millions-d-euros_6720699_3234.html"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Le patron de LVMH conteste la décision et a engagé une procédure de recours auprès du Conseil d'État.",
+        "url": "https://www.franceinfo.fr/economie/entreprises/bernard-arnault-soumis-a-un-redressement-fiscal-de-22-5-millions-d-euros_8094110.html#xtor=RSS-3-[lestitres]"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Arnault a mobilisé plusieurs arguments juridiques, dont l'invocation de protections européennes, pour contester le redressement devant la justice administrative.",
+        "url": "https://www.liberation.fr/economie/bernard-arnault-soumis-a-un-redressement-fiscal-de-225-millions-deuros-20260704_WPVZTT3XZVGCDMUXTINQGQLIBM/"
+      },
+      {
+        "outlet": "Mediapart",
+        "take": "La décision émane de la cour administrative d'appel de Paris et a été confirmée par des sources officielles comme l'AFP.",
+        "url": "https://www.mediapart.fr/journal/france/040726/bernard-arnault-soumis-un-redressement-fiscal-de-225-millions-d-euros"
       }
     ],
     "id": 5,
@@ -169,30 +209,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "Santé"
     ],
-    "title": "Sept départements du sud en vigilance orange canicule dimanche",
-    "full": "Sept départements du sud de la France passent en vigilance orange canicule à partir de dimanche. Cinq nouveaux départements (Ardèche, Aude, Drôme, Gard, Vaucluse) s'ajoutent aux Pyrénées-Orientales et l'Hérault, déjà en alerte depuis samedi. Des températures entre 31 et 35 °C sont attendues sur le pourtour méditerranéen, avec des pics locaux atteignant 39 à 40 °C. Météo-France estime que le début juillet devrait être moins intense que le mois de juin.",
+    "title": "Premier cas d'Ebola en France déclaré guéri et sorti de l'hôpital",
+    "full": "Un médecin humanitaire, unique cas d'Ebola diagnostiqué en France, a quitté l'hôpital après sa guérison, a annoncé samedi la ministre de la Santé. Ce praticien, revenu de République démocratique du Congo le 23 juin, avait été isolé à son arrivée à Paris après avoir présenté des symptômes légers durant le vol. Deux tests PCR négatifs ont confirmé sa guérison.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Insiste sur l'extension progressive de l'alerte canicule dans le sud, avec cinq nouveaux départements basculant en vigilance orange dimanche après les deux premiers depuis samedi.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-cinq-nouveaux-departements-passent-en-vigilance-orange-a-partir-de-dimanche-la-chaleur-s-accentue-sur-le-pourtour-mediterraneen_8093903.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Souligne la prudence de Météo-France, pour qui il est trop tôt pour parler de vague de chaleur à part entière ou pour prévoir l'intensité maximale de cet épisode.",
-        "url": "https://www.lemonde.fr/planete/article/2026/07/04/canicule-sept-departements-en-vigilance-orange-dimanche-meteo-france-s-attend-a-un-debut-de-juillet-moins-intense-qu-en-juin_6720451_3245.html"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Détaille les températures attendues sur tout le pays, avec des seuils de 30 à 35 °C généralisés en France métropolitaine et des pics plus élevés au sud.",
-        "url": "https://www.liberation.fr/environnement/climat/en-direct-retour-des-fortes-chaleurs-la-france-sur-le-qui-vive-20260704_PBWDLRXMIZCZLFN776GAHVGHEY/"
+        "take": "Le médecin est le seul cas d'Ebola enregistré en France depuis le début de l'épidémie.",
+        "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-premier-cas-d-ebola-en-france-est-gueri-et-sorti-de-l-hopital-annonce-la-ministre-de-la-sante_8093969.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "20 Minutes",
-        "take": "Mentionne des pointes jusqu'à 40 °C dimanche dans les sept départements en vigilance orange.",
-        "url": "https://www.20minutes.fr/planete/4232844-20260704-canicule-sept-departements-passent-vigilance-orange-sud-france?at_medium=display&at_campaign=149"
+        "take": "La sortie de l'hôpital intervient après deux tests PCR négatifs confirmant l'absence de virus.",
+        "url": "https://www.20minutes.fr/sante/4232849-20260704-ebola-premier-cas-france-gueri-sorti-hopital-annonce-ministre-sante?at_medium=display&at_campaign=149"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Le patient s'était embarqué sans symptômes apparents mais son état s'est légèrement dégradé pendant le trajet aérien.",
+        "url": "https://www.lemonde.fr/sante/article/2026/07/04/ebola-le-premier-cas-en-france-est-gueri-et-sorti-de-l-hopital-annonce-la-ministre-de-la-sante_6720687_1651302.html"
       }
     ],
     "id": 6,
@@ -200,25 +235,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Environnement"
     ],
-    "title": "Funérailles massives du Guide suprême iranien Ali Khamenei",
-    "full": "Les funérailles du Guide suprême iranien Ali Khamenei, tué fin février lors de frappes américaines et israéliennes, se déroulent à Téhéran depuis samedi 4 juillet. Des foules importantes se sont rassemblées sur la Grande Mosalla et dans le centre-ville, les médias officiels évoquant plusieurs millions de participants lors du premier jour de cérémonies. Les manifestants expriment notamment des appels à la vengeance. L'événement revêt une dimension politique sensible : la présence de Mojtaba Khamenei, le fils d'Ali devenu nouveau Guide suprême en mars mais qui n'a jamais été vu en public depuis, sera scrutée comme un signal de stabilité du régime.",
+    "title": "Canicule : sept départements du sud passent en vigilance orange",
+    "full": "Sept départements du sud de la France sont placés en vigilance orange canicule à partir de dimanche. L'Hérault et les Pyrénées-Orientales sont déjà concernés depuis samedi, tandis que l'Ardèche, l'Aude, la Drôme, le Gard et le Vaucluse basculent dimanche midi. Des températures entre 31 et 35 °C sont attendues sur le pourtour méditerranéen, avec des pics locaux jusqu'à 39 à 40 °C. Le reste du la France connaîtra aussi des chaleurs significatives, approchant ou dépassant 30 °C.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Les autorités mettent en avant l'unité nationale à travers la participation massive aux funérailles et les slogans vengeurs envers les frappes étrangères.",
-        "url": "https://www.franceinfo.fr/monde/iran/nous-nous-vengerons-une-foule-d-iraniens-afflue-dans-le-centre-de-teheran-pour-un-dernier-adieu-a-ali-khamenei-tue-par-des-frappes-americaines-et-israeliennes_8094185.html#xtor=RSS-3-[lestitres]"
+        "take": "Cinq nouveaux départements rejoignent dimanche les deux déjà en alerte depuis samedi.",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-cinq-nouveaux-departements-passent-en-vigilance-orange-a-partir-de-dimanche-la-chaleur-s-accentue-sur-le-pourtour-mediterraneen_8093903.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "Libération",
-        "take": "La possible absence du successeur, Mojtaba Khamenei, pourrait fragiliser le pouvoir et marquer une discontinuité visible du régime.",
-        "url": "https://www.liberation.fr/international/moyen-orient/funerailles-du-guide-ali-khamenei-le-pouvoir-serait-fragilise-si-son-fils-et-successeur-netait-pas-present-20260704_XGMZWJV4WBC4LJITUL5KK766IQ/"
+        "take": "Les pics de température atteindront 39 °C localement sur le pourtour méditerranéen.",
+        "url": "https://www.liberation.fr/environnement/climat/en-direct-retour-des-fortes-chaleurs-la-france-sur-le-qui-vive-20260704_PBWDLRXMIZCZLFN776GAHVGHEY/"
       },
       {
-        "outlet": "Courrier International",
-        "take": "Ces funérailles incarnent symboliquement la fin d'une ère dans la République islamique avec le décès de celui qui guidait le pays depuis 1989.",
-        "url": "https://www.courrierinternational.com/article/iran-a-teheran-les-funerailles-d-ali-khamenei-marquent-la-fin-d-une-epoque_246612"
+        "outlet": "Le Monde",
+        "take": "Météo-France juge prématuré de qualifier cet épisode de vague de chaleur pour l'instant.",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/04/canicule-sept-departements-en-vigilance-orange-dimanche-meteo-france-s-attend-a-un-debut-de-juillet-moins-intense-qu-en-juin_6720451_3245.html"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Les pointes attendues dimanche pourraient atteindre 40 °C dans les sept départements.",
+        "url": "https://www.20minutes.fr/planete/4232844-20260704-canicule-sept-departements-passent-vigilance-orange-sud-france?at_medium=display&at_campaign=149"
       }
     ],
     "id": 7,
@@ -226,25 +266,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Environnement"
     ],
-    "title": "Le Pen et Bardella affichent leur unité avant un jugement clé",
-    "full": "Marine Le Pen et Jordan Bardella ont affiché samedi leur solidarité lors d'un rassemblement à Liévin, à trois jours d'une décision judiciaire déterminante pour la présidentielle. La cheffe de file du Rassemblement national connaîtra mardi le verdict de la cour d'appel de Paris dans l'affaire des assistants d'eurodéputés. Une inéligibilité supérieure à deux ans lui interdirait de se présenter à l'élection présidentielle. En première instance, elle avait reçu cinq ans d'inéligibilité. Le Pen a déclaré être prête à soutenir Bardella si elle était contrainte de renoncer à concourir.",
+    "title": "Incendie majeur dans les Pyrénées-Orientales, 930 hectares détruits",
+    "full": "Un incendie s'est déclaré samedi 4 juillet en fin de soirée dans les Pyrénées-Orientales, à environ 35 kilomètres à l'ouest de Perpignan, sur le territoire de Trévillach. Le feu a parcouru plus de 930 hectares dans un massif difficile d'accès. Quelque 580 pompiers sont mobilisés pour combattre les flammes, appuyés par des renforts aériens et des moyens extra-départementaux.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Bardella réaffirme son soutien total à Marine Le Pen et exprime l'espoir de la voir élue à la présidentielle.",
-        "url": "https://www.franceinfo.fr/politique/front-national/jordan-bardella-redit-son-total-soutien-a-marine-le-pen-et-espere-la-voir-elue_8094206.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
         "outlet": "Le Monde",
-        "take": "Le jugement en appel de mardi aura des conséquences politiques majeures puisqu'une inéligibilité pourrait empêcher Le Pen de concourir.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/04/marine-le-pen-et-jordan-bardella-affichent-leur-unite-a-lievin-avant-la-decision-dans-l-affaire-des-assistants-d-eurodeputes-du-fn_6720708_823448.html"
+        "take": "Souligne l'ampleur de la mobilisation avec 580 pompiers et des appuis aériens importants face à un terrain complexe.",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/05/incendie-dans-les-pyrenees-orientales-930-hectares-brules-580-pompiers-et-des-renforts-extra-departementaux-mobilises_6720713_3245.html"
       },
       {
-        "outlet": "France 24",
-        "take": "Le Pen a promis de défendre Bardella avec conviction et confiance si elle ne pouvait pas elle-même participer à la présidentielle.",
-        "url": "https://www.france24.com/fr/france/20260704-marine-le-pen-jordan-bardella-r%C3%A9unis-pour-montrer-leur-unit%C3%A9-%C3%A0-trois-jours-jugement-d%C3%A9cisif-rassemblement-national"
+        "outlet": "France Info",
+        "take": "Précise que l'incendie s'est déclaré samedi en soirée et que la surface brûlée dépasse déjà les 930 hectares.",
+        "url": "https://france3-regions.franceinfo.fr/occitanie/pyrenees-orientales/perpignan/incendie-dans-un-massif-forestier-pres-de-1000-hectares-parcourus-par-les-flammes-580-pompiers-mobilises-3381502.html#xtor=RSS-3-[lestitres]"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Qualifie le massif sinistré de « difficile d'accès », facteur contraignant pour les opérations de lutte.",
+        "url": "https://www.liberation.fr/environnement/pyrenees-orientales-un-nouvel-incendie-parcourt-930-hectares-dans-la-nuit-20260705_WTFWGT4PVZHTZJYN5YYZSUEGEU/"
       }
     ],
     "id": 8,
@@ -252,26 +292,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement",
       "France"
     ],
-    "title": "Mobilisation contre la LGV Bordeaux-Toulouse avant les travaux",
-    "full": "Environ mille personnes ont formé une chaîne humaine samedi près de Bordeaux pour s'opposer au projet de ligne à grande vitesse Bordeaux-Toulouse, présenté par les organisateurs comme un dernier appel « pacifiste » avant le début des travaux en octobre. Les opposants dénoncent l'impact du projet sur la biodiversité et son coût estimé à 14 milliards d'euros, susceptible d'augmenter de 20 % avec l'inflation. Ils plaident pour la rénovation des lignes ferroviaires existantes plutôt que la construction d'une nouvelle infrastructure.",
+    "title": "Le Pen et Bardella affichent leur unité avant le verdict judiciaire",
+    "full": "Marine Le Pen et Jordan Bardella se sont présentés en tandem samedi à Liévin, trois jours avant que la cour d'appel de Paris rende son verdict dans l'affaire des assistants d'eurodéputés du RN. La présidente du groupe Rassemblement national a assuré être prête à soutenir Bardella en cas d'inéligibilité. Une condamnation à plus de deux ans d'inéligibilité l'empêcherait de concourir à l'élection présidentielle.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "L'événement est présenté comme une dernière occasion de protestation pacifiste avant le démarrage des travaux en octobre.",
-        "url": "https://www.lemonde.fr/planete/article/2026/07/04/lgv-bordeaux-toulouse-une-chaine-humaine-pour-dire-non-au-projet_6720665_3244.html"
+        "take": "Le jugement en appel déterminera si Le Pen pourra participer à la présidentielle, après une première condamnation à cinq ans d'inéligibilité immédiate en première instance.",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/04/marine-le-pen-et-jordan-bardella-affichent-leur-unite-a-lievin-avant-la-decision-dans-l-affaire-des-assistants-d-eurodeputes-du-fn_6720708_823448.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Les manifestants mobilisent sur le coût faramineux du projet et ses conséquences écologiques, en proposant une alternative : la rénovation des lignes existantes.",
-        "url": "https://www.liberation.fr/environnement/pres-de-bordeaux-une-chaine-humaine-pour-dire-non-a-la-lgv-sud-ouest-20260704_NBX53IYSPFDDXMEZRB3LFEGAFE/"
+        "outlet": "France Info",
+        "take": "Le parti affirme se préparer à tous les scénarios et a mis l'accent sur la solidarité entre ses deux figures de proue.",
+        "url": "https://www.franceinfo.fr/politique/front-national/jordan-bardella-et-marine-le-pen-s-affichent-unis-a-lievin_8094614.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Le rassemblement confirme la participation d'environ mille personnes d'après les organisateurs.",
-        "url": "https://www.20minutes.fr/societe/4232833-20260704-sud-bordeaux-chaine-humaine-dire-non-lgv-sud-ouest?at_medium=display&at_campaign=149"
+        "outlet": "France 24",
+        "take": "Le Pen a promis de soutenir Bardella avec conviction si elle était déclarée inéligible.",
+        "url": "https://www.france24.com/fr/france/20260704-marine-le-pen-jordan-bardella-r%C3%A9unis-pour-montrer-leur-unit%C3%A9-%C3%A0-trois-jours-jugement-d%C3%A9cisif-rassemblement-national"
       }
     ],
     "id": 9,
@@ -279,25 +318,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Sport"
     ],
-    "title": "Le pape Léon XIV à Lampedusa plaide pour la protection des migrants",
-    "full": "Le pape Léon XIV s'est rendu samedi à Lampedusa, petite île italienne symbole des drames des traversées en Méditerranée. Il a exhorté l'Europe à mieux protéger et intégrer les migrants, appelant l'Union européenne à devenir « capable d'accueillir, de protéger et d'intégrer » cette population. Ce voyage intervient alors que l'UE durcit ses politiques migratoires pour réduire les arrivées sur son territoire.",
+    "title": "Coupe du monde 2026 : France et Maroc se qualifient pour les quarts",
+    "full": "La France et le Maroc ont remporté leurs huitièmes de finale samedi et s'affronteront en quarts le 9 juillet. Le Maroc a dominé le Canada 3-0 à Houston, avec un but décisif d'Azzedine Ounahi en seconde période après une première période décevante. La France a battu le Paraguay 1-0 à Philadelphie dans une rencontre marquée par une arbitrage contesté.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "La visite coïncide symboliquement avec la célébration des 250 ans d'indépendance des États-Unis, pays dont le pape est originaire.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/04/leon-xiv-a-lampedusa-une-visite-riche-en-symboles-et-un-appel-a-proteger-les-migrants_6720684_3210.html"
+        "outlet": "France 24",
+        "take": "Malgré une première période maîtrisée par le Canada, le Maroc a inversé la tendance en seconde période pour s'imposer nettement.",
+        "url": "https://www.france24.com/fr/sports/20260704-mondial-2026-maroc-vs-canada"
       },
       {
-        "outlet": "Libération",
-        "take": "Le pontife adresse son appel quelques semaines après l'adoption de nouvelles mesures migratoires restrictives par l'Union européenne.",
-        "url": "https://www.liberation.fr/international/europe/a-lampedusa-le-pape-leon-xiv-exhorte-leurope-a-agir-davantage-pour-proteger-les-migrants-20260704_QU5MH2HS55DWPHAKN3WYKIIC5U/"
-      },
-      {
-        "outlet": "Courrier International",
-        "take": "Cet appel intervient dans un contexte de tension entre les positions humanitaires du Vatican et les politiques de fermeture migratoire menées par l'UE.",
-        "url": "https://www.courrierinternational.com/article/religion-a-lampedusa-leon-xiv-appelle-l-ue-a-proteger-et-a-integrer-les-migrants_246645"
+        "outlet": "France Info",
+        "take": "La victoire française s'est construite difficilement face à une équipe du Paraguay combattive et dans un contexte arbitral litigieux.",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-france-paraguay-les-bleus-ne-veulent-pas-se-faire-pieger-avant-les-quarts-suivez-avec-nous-a-23-heures-le-huitieme-de-finale-de-la-coupe-du-monde_8092079.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 10,
@@ -305,25 +339,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Monde"
     ],
-    "title": "Décès du chef Bertrand Grébaut, figure de la gastronomie française",
-    "full": "Bertrand Grébaut, chef du restaurant parisien Septime, est décédé jeudi à l'âge de 44 ans des suites d'un cancer. Figure majeure de la bistronomie française, il était reconnu pour avoir réinventé la gastronomie hexagonale en proposant une cuisine intuitive et décomplexée, loin des codes de la cuisine classique. Son restaurant, établi dans le 11e arrondissement, avait obtenu une étoile Michelin et s'était imposé comme un lieu de référence de cette nouvelle approche culinaire.",
+    "title": "Le pape Léon XIV plaide pour la protection des migrants à Lampedusa",
+    "full": "Le pape Léon XIV s'est rendu samedi 4 juillet à Lampedusa, l'île italienne devenue symbole des drames des traversées mortelles en Méditerranée. Il y a appelé l'Union européenne à renforcer sa politique de protection et d'intégration des migrants. Cette visite, treize ans après celle de son prédécesseur, intervient alors que l'UE durcit ses mesures migratoires pour réduire les arrivées sur son territoire.",
     "angles": [
       {
+        "outlet": "Le Monde",
+        "take": "Le choix de la date, jour de la fête de l'indépendance américaine, constitue un message symbolique du pontife américain.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/04/leon-xiv-a-lampedusa-une-visite-riche-en-symboles-et-un-appel-a-proteger-les-migrants_6720684_3210.html"
+      },
+      {
         "outlet": "Libération",
-        "take": "Souligne que Grébaut figurait parmi ceux qui ont «réinventé la gastronomie française» selon le Gault & Millau.",
-        "url": "https://www.liberation.fr/lifestyle/gastronomie/mort-a-44-ans-de-bertrand-grebaut-chef-du-restaurant-etoile-septime-20260704_MGAAYU4DVFCODCSMUYVYMQVFTM/"
+        "take": "Le pape exhorte l'Europe à devenir capable d'accueillir, protéger et intégrer les migrants, quelques semaines après l'adoption de nouvelles mesures restrictives.",
+        "url": "https://www.liberation.fr/international/europe/a-lampedusa-le-pape-leon-xiv-exhorte-leurope-a-agir-davantage-pour-proteger-les-migrants-20260704_QU5MH2HS55DWPHAKN3WYKIIC5U/"
       },
       {
-        "outlet": "France Info",
-        "take": "Insiste sur son rôle de créateur de la bistronomie et sur l'hommage de la profession à sa vision décomplexée de la cuisine.",
-        "url": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/le-chef-du-septime-bertrand-grebaut-figure-d-une-gastronomie-decontractee-est-mort-a-l-age-de-44-ans_8094074.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "Qualifie Grébaut de figure d'une gastronomie décontractée et mentionne le contexte de sa disparition.",
-        "url": "https://www.20minutes.fr/tempo/food/4232832-20260704-deces-chef-septime-bertrand-grebaut-figure-gastronomie-decontractee?at_medium=display&at_campaign=149"
+        "outlet": "Courrier International",
+        "take": "Cet appel intervient dans un contexte où l'Union européenne poursuit plusieurs politiques visant à réduire drastiquement les arrivées de migrants.",
+        "url": "https://www.courrierinternational.com/article/religion-a-lampedusa-leon-xiv-appelle-l-ue-a-proteger-et-a-integrer-les-migrants_246645"
       }
     ],
     "id": 11,
@@ -331,25 +365,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Culture"
     ],
-    "title": "Mali : attaques coordonnées contre l'armée dans plusieurs villes",
-    "full": "Des groupes jihadistes et des rebelles touaregs ont lancé simultanément des offensives contre des positions militaires au Mali, visant notamment Gao, Anéfis, Sévaré et la prison de Kéniéroba. Ces attaques interviennent deux mois après la perte de Kidal par l'armée malienne et visent à présent les derniers bastions qu'elle contrôle dans la région.",
+    "title": "Décès du chef Bertrand Grébaut, figure de la bistronomie",
+    "full": "Bertrand Grébaut, chef du restaurant parisien Septime, est décédé jeudi à l'âge de 44 ans des suites d'un cancer. Reconnu comme l'un des pionniers de la bistronomie française, il avait transformé la gastronomie hexagonale en privilégiant une cuisine intuitive et décontractée, loin des codes classiques. Son établissement, devenu emblématique, incarnait cette nouvelle approche culinaire saluée par les professionnels du secteur.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Les hostilités ciblent Anéfis et Aguelhok, dernières localités tenues par l'armée dans la région de Kidal après des offensives précédentes.",
-        "url": "https://www.franceinfo.fr/monde/afrique/mali/guerre-au-mali/les-rebelles-lancent-de-nouvelles-attaques-contre-l-armee-au-mali-deux-mois-apres-une-precedente-offensive-des-groupes-jihadistes-et-independantistes_8093642.html#xtor=RSS-3-[lestitres]"
-      },
-      {
         "outlet": "Libération",
-        "take": "Les attaques coordonnées de ce matin visent quatre sites stratégiques : trois villes et une prison, menées conjointement par jihadistes et indépendantistes touaregs.",
-        "url": "https://www.liberation.fr/international/afrique/mali-des-attaques-coordonnees-en-cours-dans-plusieurs-localites-20260704_P7PKGXOF7NGOFMILFIFDOL7XVI/"
+        "take": "Le Gault & Millau le désignait comme l'un de ceux qui ont « réinventé la gastronomie française ».",
+        "url": "https://www.liberation.fr/lifestyle/gastronomie/mort-a-44-ans-de-bertrand-grebaut-chef-du-restaurant-etoile-septime-20260704_MGAAYU4DVFCODCSMUYVYMQVFTM/"
       },
       {
-        "outlet": "France 24",
-        "take": "La coordination de ces assauts simultanés contre plusieurs objectifs militaires majeurs montre une stratégie commune entre les groupes armés.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260704-attaques-coordonn%C3%A9es-au-mali-gao-an%C3%A9fis-s%C3%A9var%C3%A9-et-k%C3%A9ni%C3%A9roba-vis%C3%A9s"
+        "outlet": "France Info",
+        "take": "La profession retient de lui le rôle de créateur d'une gastronomie plus accessible et décomplexée.",
+        "url": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/le-chef-du-septime-bertrand-grebaut-figure-d-une-gastronomie-decontractee-est-mort-a-l-age-de-44-ans_8094074.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Son établissement Septime demeure une référence de la gastronomie décontractée parisienne.",
+        "url": "https://www.20minutes.fr/tempo/food/4232832-20260704-deces-chef-septime-bertrand-grebaut-figure-gastronomie-decontractee?at_medium=display&at_campaign=149"
       }
     ],
     "id": 12,
@@ -357,25 +391,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "Monde"
     ],
-    "title": "Incendie en Aude : 150 pompiers mobilisés, saison précoce",
-    "full": "Un incendie déclaré jeudi dans l'Aude, près de Pouzols-Minervois, a consumé 950 hectares et mobilise toujours 150 pompiers samedi pour son extinction. Le foyer est désormais fixé mais les opérations se poursuivent. Cette mobilisation intervient dans un contexte alarmant : la saison des feux a débuté avec un mois d'avance en France, six départements étant en vigilance rouge de danger très élevé selon Météo-France, tandis que plusieurs autres incendies actifs sévissent dans la Drôme et le Gard.",
+    "title": "Les funérailles d'Ali Khamenei mobilisent les Iraniens à Téhéran",
+    "full": "Des foules importantes se sont rassemblées à Téhéran samedi 4 juillet pour les funérailles de l'ayatollah Ali Khamenei, guide suprême de l'Iran décédé fin février après des frappes américaines et israéliennes. Les autorités iraniennes ont présenté ce rassemblement comme une démonstration d'unité du pays, tandis que plusieurs participants appelaient à venger sa mort. Les observateurs s'interrogent sur l'absence manifeste du fils de Khamenei, Mojtaba, désigné successeur en mars mais qui n'a jamais comparu en public depuis sa nomination, une absence qui pourrait signaler une fragilité du pouvoir selon des spécialistes.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Le ministre de l'Intérieur s'inquiète d'une saison des incendies commençant exceptionnellement tôt, un mois avant le calendrier normal.",
-        "url": "https://www.lemonde.fr/planete/article/2026/07/04/dans-l-aude-150-pompiers-encore-mobilises-pour-eteindre-un-incendie-desormais-fixe_6720627_3244.html"
+        "outlet": "France Info",
+        "take": "Les autorités iraniennes mettent en avant l'ampleur du rassemblement comme preuve d'unité nationale.",
+        "url": "https://www.franceinfo.fr/monde/iran/nous-nous-vengerons-une-foule-d-iraniens-afflue-dans-le-centre-de-teheran-pour-un-dernier-adieu-a-ali-khamenei-tue-par-des-frappes-americaines-et-israeliennes_8094185.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "France 24",
-        "take": "L'incendie de l'Aude, désormais stabilisé, a rasé une vaste superficie et nécessite toujours un effort majeur pour être complètement maîtrisé.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260704-incendie-dans-l-aude-950-hectares-touch%C3%A9s-par-les-feux-150-pompiers-sur-place"
+        "outlet": "Libération",
+        "take": "L'absence du nouveau Guide suprême lors des funérailles pourrait révéler une fragilisation du régime.",
+        "url": "https://www.liberation.fr/international/moyen-orient/funerailles-du-guide-ali-khamenei-le-pouvoir-serait-fragilise-si-son-fils-et-successeur-netait-pas-present-20260704_XGMZWJV4WBC4LJITUL5KK766IQ/"
       },
       {
-        "outlet": "Mediapart",
-        "take": "Le week-end s'annonce à haut risque avec plusieurs incendies actifs simultanés dans trois départements du sud-est et une vague de chaleur naissante.",
-        "url": "https://www.mediapart.fr/journal/france/040726/les-pompiers-mobilises-face-un-week-end-haut-risque"
+        "outlet": "Courrier International",
+        "take": "Les participants expriment des appels à la vengeance, marquant symboliquement la fin d'une période.",
+        "url": "https://www.courrierinternational.com/article/iran-a-teheran-les-funerailles-d-ali-khamenei-marquent-la-fin-d-une-epoque_246612"
       }
     ],
     "id": 13,
@@ -383,25 +417,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Sport"
     ],
-    "title": "Les États-Unis célèbrent 250 ans d'indépendance",
-    "full": "Les États-Unis commémorent le 4 juillet 1776, date de la Déclaration d'indépendance marquant la rupture avec la Couronne britannique. Boston, où ont débuté les mouvements révolutionnaires, est au cœur des célébrations de cet anniversaire. L'événement ravive des débats historiographiques sur l'interprétation de ce texte fondateur : certains y voient un mythe utilisé par l'extrême droite américaine pour justifier une résistance à l'État fédéral, tandis que des historiens soulignent le rôle longtemps occulté des peuples autochtones dans la Révolution.",
+    "title": "La France élimine le Paraguay aux tirs au but en huitièmes",
+    "full": "L'équipe de France s'est qualifiée pour les quarts de finale en battant le Paraguay 1-0, samedi 4 juillet à Philadelphie, grâce à un penalty transformé par Kylian Mbappé. Le match a été physiquement intense et tactiquement fermé, avec les Bleus dominateurs mais confrontés à une défense paraguayenne très disciplinée. Mbappé, auteur de six buts dans la compétition, a confirmé son influence décisive à la fois sur le terrain et dans le leadership de l'équipe.",
     "angles": [
       {
+        "outlet": "France Info",
+        "take": "Mbappé a exprimé crûment la difficulté physique et psychologique du défi imposé par l'intensité défensive du Paraguay.",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/s-il-faut-mettre-les-mains-dans-la-merde-on-les-mettra-la-sortie-fleurie-de-kylian-mbappe-apres-la-bataille-remportee-par-la-france-contre-le-paraguay_8094350.html#xtor=RSS-3-[lestitres]"
+      },
+      {
         "outlet": "France 24",
-        "take": "Boston est présentée comme le foyer originel de la révolution américaine et le point de départ du mouvement indépendantiste.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260704-250-ans-des-etats-unis-boston-berceau-de-la-r%C3%A9volution-am%C3%A9ricaine"
+        "take": "Les supporters français présents à Philadelphie ont exprimé un soulagement après une victoire obtenue sans domination nette.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260705-les-supporters-fran%C3%A7ais-soulag%C3%A9s-apr%C3%A8s-la-victoire-face-au-paraguay"
       },
       {
-        "outlet": "Le Monde",
-        "take": "La Déclaration d'indépendance a fourni à l'extrême droite américaine une mythologie et une justification morale pour remettre en question l'autorité fédérale.",
-        "url": "https://www.lemonde.fr/idees/article/2026/07/04/250-anniversaire-de-la-declaration-d-independance-des-etats-unis-ce-texte-a-fourni-a-l-extreme-droite-americaine-une-mythologie-et-une-justification-morale_6720648_3232.html"
-      },
-      {
-        "outlet": "Courrier International",
-        "take": "Les peuples autochtones ont joué un rôle central dans la Révolution américaine, un apport historique généralement minimisé dans les récits dominants.",
-        "url": "https://www.courrierinternational.com/long-format/histoire-250-ans-des-etats-unis-les-amerindiens-ont-ete-des-acteurs-a-part-entiere-de-la-revolution-americaine_245399"
+        "outlet": "20 Minutes",
+        "take": "Mbappé rayonne en tant que capitaine, son influence s'exerçant au-delà de ses performances balistiques.",
+        "url": "https://www.20minutes.fr/sport/football/4232738-20260704-paraguay-france-mondiale-comment-kylian-mbappe-devenu-capitaine-peuple?at_medium=display&at_campaign=149"
       }
     ],
     "id": 14,
@@ -409,19 +443,19 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Insolite"
     ],
     "title": "Un homme escalade la tour Eiffel avec un drapeau américain",
-    "full": "Un homme a escaladé la tour Eiffel samedi après-midi pour y accrocher un drapeau américain. Cette action a provoqué l'évacuation du parvis et de deux étages du monument. Le grimpeur a été placé en garde à vue au commissariat du 7e arrondissement pour « mise en danger de la vie d'autrui ». Il n'a fourni aucune explication sur ses motivations.",
+    "full": "Un homme a escaladé la tour Eiffel samedi après-midi pour y accrocher un drapeau américain. Son geste a provoqué l'évacuation du parvis et de deux étages du monument. Placé en garde à vue pour mise en danger de la vie d'autrui, il n'a fourni aucune explication sur ses motivations.",
     "angles": [
       {
         "outlet": "20 Minutes",
-        "take": "Rapporte les conséquences opérationnelles immédiates : évacuation du parvis et de deux étages de la tour Eiffel.",
+        "take": "Relève les mesures de sécurité immédiates prises avec l'évacuation des zones du monument.",
         "url": "https://www.20minutes.fr/faits_divers/faits-divers-paris/4232864-20260704-paris-homme-escalade-tour-eiffel-accroche-drapeau-americain?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Le Monde",
-        "take": "Précise la qualification pénale retenue et souligne l'absence d'explications du protagoniste sur son geste.",
+        "take": "Souligne l'absence de justification de la part du grimpeur et les poursuites judiciaires engagées.",
         "url": "https://www.lemonde.fr/societe/article/2026/07/04/un-homme-escalade-la-tour-eiffel-et-accroche-un-drapeau-americain_6720709_3224.html"
       }
     ],
@@ -432,18 +466,18 @@ const ARTICLES = [
     "themes": [
       "Société"
     ],
-    "title": "Paris : un corps découvert dans le canal Saint-Martin",
-    "full": "Le corps d'un homme d'une trentaine d'années a été retrouvé samedi matin dans le canal Saint-Martin à Paris, quai de Valmy. Selon les indices relevés, la dépouille était restée plusieurs jours immergée. Cette découverte intervient une semaine après le décès par noyade d'un autre homme au même endroit, qui s'était baigné en dehors de la zone autorisée.",
+    "title": "Marches blanches en hommage à Louis, adolescent tué à Carcassonne",
+    "full": "Plusieurs centaines de personnes ont participé samedi 4 juillet à Carcassonne à une marche blanche en hommage à Louis, 17 ans, décédé fin juin des suites d'un passage à tabac. Le rassemblement a été organisé à l'appel du père de l'adolescent, qui était en fugue et confié à l'Aide sociale à l'enfance au moment des faits. Une deuxième marche a été organisée le lendemain à Narbonne par sa mère et sa tante.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Mets l'accent sur les circonstances de la découverte et l'état du corps, indiquant une immersion prolongée.",
-        "url": "https://www.20minutes.fr/faits_divers/faits-divers-paris/4232852-20260704-paris-corps-homme-decouvert-canal-saint-martin?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "Souligne la mobilisation collective autour de cet événement et le rôle de la famille dans l'organisation de ce rassemblement.",
+        "url": "https://france3-regions.franceinfo.fr/occitanie/aude/narbonne/louis-on-t-aime-une-marche-blanche-en-hommage-a-l-adolescent-de-17-ans-tue-dans-un-guet-apens-reunit-plusieurs-centaines-de-personnes-3381466.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "Le Monde",
-        "take": "Établit un lien avec un précédent décès similaire survenu une semaine plus tôt au même lieu et soulève la question du respect des zones de baignade.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/04/a-paris-le-corps-d-un-homme-remonte-du-canal-saint-martin_6720690_3224.html"
+        "outlet": "Libération",
+        "take": "Met l'accent sur la date et les circonstances précises du décès, ainsi que sur le soutien politique apporté à la deuxième marche.",
+        "url": "https://www.liberation.fr/societe/ni-oubli-ni-pardon-a-carcassonne-une-marche-pour-louis-un-adolescent-solaire-tue-dans-un-guet-apens-20260705_F6WSHUTUL5AOXFBGUVUMLJ3BKA/"
       }
     ],
     "id": 16,
@@ -453,18 +487,18 @@ const ARTICLES = [
     "themes": [
       "Société"
     ],
-    "title": "Paris rouvre trois sites de baignade dans la Seine pour l'été",
-    "full": "Trois zones de baignade gratuite ont rouvert samedi dans la Seine à Paris pour la saison estivale, jusqu'à la fin août. Ces sites, créés à l'occasion des Jeux olympiques de 2024, attirent nageurs et touristes en quête d'une alternative aux piscines traditionnelles. Le canal Saint-Martin proposait déjà cette possibilité l'année précédente.",
+    "title": "Un corps découvert dans le canal Saint-Martin à Paris",
+    "full": "Le corps d'un homme d'une trentaine d'années a été retrouvé samedi matin dans le canal Saint-Martin à Paris, quai de Valmy. Les indices suggèrent qu'il était resté plusieurs jours dans l'eau. Cette découverte intervient moins d'une semaine après le décès par noyade d'un autre homme au même endroit, le 26 juin, qui s'était baigné en dehors de la zone autorisée.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Les trois zones demeurent accessibles jusqu'à fin août grâce au dispositif mis en place pour les Jeux olympiques.",
-        "url": "https://www.franceinfo.fr/france/ile-de-france/c-est-mieux-que-la-piscine-a-paris-la-baignade-dans-la-seine-fait-son-retour-pour-l-ete_8094029.html#xtor=RSS-3-[lestitres]"
+        "outlet": "20 Minutes",
+        "take": "Met l'accent sur les circonstances matérielles de la découverte et l'état du corps.",
+        "url": "https://www.20minutes.fr/faits_divers/faits-divers-paris/4232852-20260704-paris-corps-homme-decouvert-canal-saint-martin?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "L'ouverture de ces sites gratuits renouvelle l'expérience estivale de l'année passée et mobilise un public varié.",
-        "url": "https://www.20minutes.fr/paris/4232851-20260704-paris-baignade-seine-fait-retour?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Établit un lien avec un décès antérieur au même lieu et précise que la victime du 26 juin s'était baignée hors de la zone réglementée.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/04/a-paris-le-corps-d-un-homme-remonte-du-canal-saint-martin_6720690_3224.html"
       }
     ],
     "id": 17,
@@ -472,20 +506,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Monde"
     ],
-    "title": "Départs en vacances : embouteillages et vols sur les autoroutes",
-    "full": "Samedi 4 juillet, le grand départ en vacances des Français a entraîné d'importants ralentissements sur les autoroutes, avec jusqu'à 660 kilomètres de bouchons recensés, particulièrement sur l'axe Paris-Lyon-Marseille. La gendarmerie a rappelé la vigilance aux automobilistes, qui baissent souvent leur garde aux aires de repos en laissant vitres ouvertes et objets accessibles. Les vols sans effraction y sont très fréquents.",
+    "title": "L'Ukraine frappe Saint-Pétersbourg avec des dizaines de drones",
+    "full": "L'Ukraine a lancé une attaque à la roquette et aux drones contre Saint-Pétersbourg, selon le gouverneur de la ville russe. Un terminal pétrolier aurait été endommagé lors de cette opération. Dans le même temps, Kyiv a démenti les affirmations russes concernant la capture de la ville de Kostyantynivka.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Insiste sur les risques de criminalité aux aires d'autoroutes, où les conducteurs sont particulièrement vulnérables aux vols opportunistes.",
-        "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/departs-en-vacances-entre-vols-et-degradations-les-aires-d-autoroutes-sous-haute-surveillance_8094215.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Libération",
+        "take": "Souligne l'attaque ukrainienne sur le terminal pétrolier de Saint-Pétersbourg et rapporte le démenti de Kyiv sur les revendications russes d'avancée territoriale.",
+        "url": "https://www.liberation.fr/international/europe/lukraine-cible-saint-petersbourg-avec-des-dizaines-de-drones-20260704_536R6AC3T5DOLHH3IYRJQ7NYVU/"
       },
       {
         "outlet": "20 Minutes",
-        "take": "Décrit le contexte de circulation saturée avec des embouteillages épars sur les principaux axes routiers.",
-        "url": "https://www.20minutes.fr/societe/4232831-20260704-departs-vacances-trafic-charge-noir-autoroutes-jusqu-660-km-bouchons-recenses?at_medium=display&at_campaign=149"
+        "take": "Situe l'attaque par drones dans le contexte plus large du suivi quotidien du conflit ukrainien.",
+        "url": "https://www.20minutes.fr/monde/ukraine/4232847-20260704-guerre-ukraine-drones-saint-petersbourg-toujours-russes-athletisme?at_medium=display&at_campaign=149"
       }
     ],
     "id": 18,
@@ -493,20 +527,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Économie",
+      "Environnement"
     ],
-    "title": "Le Festival d'Avignon lance sa 80e édition",
-    "full": "La 80e édition du Festival d'Avignon a ouvert ses portes samedi avec un spectacle d'ouverture de cinq heures. Le rendez-vous international de théâtre accueille cette année quelque 1 400 compagnies, soit environ 50 de plus qu'en 2024, proposant 1 250 spectacles quotidiens. Cette édition affiche un équilibre paritaire renforcé et met particulièrement en avant la création coréenne, tout en faisant face à des inquiétudes concernant son financement.",
+    "title": "Manifestation contre la LGV Bordeaux-Toulouse avant le lancement",
+    "full": "Environ un millier de personnes ont formé une chaîne humaine samedi près de Bordeaux pour s'opposer au projet de ligne à grande vitesse reliant Bordeaux à Toulouse. Les manifestants dénoncent le coût du projet, estimé à 14 milliards d'euros et susceptible d'augmenter de 20 % avec l'inflation, ainsi que son impact sur la biodiversité. Les opposants appellent à moderniser les lignes ferroviaires existantes plutôt que de construire une nouvelle infrastructure. Les travaux doivent débuter en octobre.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "La 80e édition conjugue une effervescence créative notable avec des préoccupations sur la viabilité budgétaire du festival.",
-        "url": "https://www.20minutes.fr/arts-stars/culture/4232848-20260704-festival-avignon-coup-envoi-80e-edition-entre-creation-foisonnante-inquietudes-budgetaires?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Les organisateurs présentent cette mobilisation comme le dernier appel pacifiste avant le début des travaux.",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/04/lgv-bordeaux-toulouse-une-chaine-humaine-pour-dire-non-au-projet_6720665_3244.html"
       },
       {
-        "outlet": "France Info",
-        "take": "Le festival met l'accent cette année sur la parité et accorde un focus particulier à la création coréenne.",
-        "url": "https://www.franceinfo.fr/culture/festival-avignon/le-festival-d-avignon-fete-de-la-creation-ouvre-sa-80e-edition-entre-parite-et-focus-coreen_8093747.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Libération",
+        "take": "Les opposants mettent l'accent sur les enjeux environnementaux et financiers du projet, estimé à plus de 16 milliards d'euros avec la réévaluation.",
+        "url": "https://www.liberation.fr/environnement/pres-de-bordeaux-une-chaine-humaine-pour-dire-non-a-la-lgv-sud-ouest-20260704_NBX53IYSPFDDXMEZRB3LFEGAFE/"
       }
     ],
     "id": 19,
@@ -514,20 +549,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "France"
     ],
-    "title": "Coupe du monde féminin: l'Argentine et la Colombie progressent",
-    "full": "Samedi 4 juillet, l'Argentine s'est qualifiée de justesse face au Cap-Vert lors de la Coupe du monde féminin de football organisée en Amérique du Nord. Dans le même temps, la Colombie a éliminé le Ghana de la compétition. Le tournoi se déroule au Canada, aux États-Unis et au Mexique.",
+    "title": "Édouard Philippe lance sa campagne présidentielle 2027",
+    "full": "L'ancien premier ministre Édouard Philippe organise dimanche 5 juillet son premier grand meeting de campagne à l'Adidas Arena à Paris, en vue de l'élection présidentielle de 2027. Il compte accueillir plus de 5 000 personnes et cherche à consolider ses soutiens avant l'automne pour se positionner face à Gabriel Attal et Bruno Retailleau, ses principaux rivaux au sein du bloc central. Cette mobilisation intervient alors que les dynamiques de sondage et les ralliements politiques s'entrelacent dans la perspective de cette présidentielle.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Met l'accent sur les résultats serrés de la journée avec la qualification in extremis de l'Argentine et l'élimination du Ghana par la Colombie.",
-        "url": "https://www.liberation.fr/sports/football/largentine-in-extremis-contre-le-cap-vert-la-colombie-sort-le-ghana-lactu-de-la-coupe-du-monde-ce-samedi-4-juillet-20260704_SSQSJ5RT2FCE7DXCKCQYAQEWCY/"
+        "outlet": "Le Monde",
+        "take": "Philippe envisage de construire autour de sa candidature un rassemblement inspiré de l'ancienne UMP, face à ses concurrents du centre-droit.",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/05/presidentielle-2027-edouard-philippe-et-la-tentation-de-former-une-ump-2-0-autour-de-lui_6720829_823448.html"
       },
       {
         "outlet": "France Info",
-        "take": "Signale que le Tour de France 2026 démarre en Catalogne avec un contre-la-montre par équipes comme Grand Départ.",
-        "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-tour/les-informes-du-tour-du-samedi-4-juillet-2026_8094026.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Le meeting marque une intensification de la course aux soutiens politiques au sein du bloc central avant la présidentielle.",
+        "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/les-sondages-nourrissent-les-ralliements-et-les-ralliements-nourrissent-les-sondages-edouard-philippe-engrange-les-soutiens-dans-la-perspective-de-la-presidentielle-de-2027_8061515.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 20,
@@ -535,16 +570,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement",
-      "Société"
+      "Insolite",
+      "Monde"
     ],
-    "title": "Les campings investissent massivement contre les risques d'incendie",
-    "full": "Face à la sécheresse et à la menace croissante des feux de forêt, les gérants de campings français déploient des moyens de prévention coûteux. Bornes à eau de 15 000 euros et systèmes d'alerte mobiles sont installés pour protéger à la fois les vacanciers et les infrastructures touristiques. Ces investissements massifs reflètent l'adaptation du secteur aux risques climatiques intensifiés.",
+    "title": "Un parieur anonyme mise 400 000 dollars sur la chute de Poutine",
+    "full": "Sur la plateforme de paris Polymarket, un utilisateur anonyme a engagé plusieurs centaines de milliers de dollars sur deux événements: la fin de la présidence de Vladimir Poutine avant fin 2026 et une reprise de la Crimée par l'Ukraine. Ces paris défient largement les probabilités affichées sur le marché de prédiction.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Les campings face à des dépenses importantes de sécurité pour répondre au risque d'incendie lié à la sécheresse.",
-        "url": "https://www.franceinfo.fr/faits-divers/incendie/risque-d-incendie-l-inquietude-des-campings_8094251.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Slate",
+        "take": "Le parieur anonyme combine deux mises majeures sur un scénario de bouleversement politique en Russie et renverse territorial en Crimée, en utilisant des termes insultants pour qualifier le président russe.",
+        "url": "https://www.slate.fr/monde/mysterieux-parieur-mise-400000-dollars-chute-vladimir-poutine-2026-polymarket-anonyme-president-russe-crimee-ukraine-guerre"
       }
     ],
     "id": 21,
@@ -552,15 +587,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "Insolite",
+      "Santé"
     ],
-    "title": "Un incendie dans le Gard maîtrisé près des habitations",
-    "full": "Un incendie s'est déclaré samedi 4 juillet dans le Gard, près de Rochefort, en bordure de l'autoroute A9, qui a dû être fermée. Des Canadair et hélicoptères bombardiers d'eau ont été mobilisés pour contenir les flammes, parvenant à les arrêter avant qu'elles n'atteignent les maisons avoisinantes. Cette situation intervient alors que 28 départements français sont placés en alerte incendie dans les heures suivantes.",
+    "title": "Une épidémie de diarrhée explosive perturbe l'été américain",
+    "full": "Au moins 150 cas de diarrhée aiguë ont été signalés aux États-Unis entre mi-mai et mi-juin, sans compter les cas non déclarés. L'origine exacte de cette épidémie reste pour l'instant indéterminée. Les autorités sanitaires américaines enquêtent pour identifier la source de ce phénomène et enrayer sa propagation.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Les flammes ont été stoppées juste avant les premières habitations grâce à l'intervention aérienne et à la fermeture de l'autoroute A9.",
-        "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/incendie-dans-le-gard-les-flammes-stoppees-au-pied-des-habitations_8094230.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Slate",
+        "take": "L'épidémie a perturbé une partie de l'été américain avec des chiffres significatifs en deux mois, son origine restant mystérieuse.",
+        "url": "https://www.slate.fr/sante/etats-unis-epidemie-diarrhee-explosive-perturbe-ete-excrements-sante-maladie"
       }
     ],
     "id": 22,
@@ -568,15 +604,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Environnement",
+      "Société"
     ],
-    "title": "Deux hommes blessés par balles lors d'une intrusion en Drôme",
-    "full": "Un père et son fils ont été grièvement blessés par des tirs d'armes à feu lors d'une intrusion à leur domicile à Montélimar, dans la nuit de vendredi à samedi. Le quinquagénaire a reçu une balle dans le dos, tandis que son fils de 22 ans, alerté par le bruit, a été touché à la jambe. Une enquête a été ouverte pour élucider les circonstances de cette attaque.",
+    "title": "Les campings investissent massivement contre les incendies",
+    "full": "Face à l'augmentation du risque d'incendie liée à la sécheresse, les gérants de campings français déploient des mesures de sécurité coûteuses pour protéger leurs vacanciers et installations. Ils installent notamment des bornes à eau (15 000 euros l'unité) et des systèmes d'alerte mobiles capables de détecter les feux de forêt en amont. Ces investissements massifs reflètent l'inquiétude croissante face aux conditions climatiques et à la menace que représentent les incendies pour le secteur du tourisme.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Deux occupants d'un même logement ont été atteints lors d'une tentative d'intrusion nocturne à Montélimar.",
-        "url": "https://www.franceinfo.fr/faits-divers/deux-hommes-grievement-blesses-dans-la-drome-par-des-tirs-d-armes-a-feu-lors-d-une-intrusion-a-leur-domicile-une-enquete-ouverte_8094203.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Les campings engagent des dépenses importantes en équipements de prévention et d'alerte pour faire face aux risques d'incendie amplifiés par la sécheresse.",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/risque-d-incendie-l-inquietude-des-campings_8094251.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 23,
@@ -584,15 +621,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé"
+      "Environnement",
+      "France"
     ],
-    "title": "Pratiquer le sport en été : conseils pour éviter le coup de chaleur",
-    "full": "Faire du sport par temps chaud demande de respecter certains principes pour prévenir les risques de coup de chaleur. L'acclimatation progressive, l'adaptation de l'intensité de l'effort et l'écoute de son corps sont essentiels. Slate rappelle que débuter une activité physique intense en pleine canicule revient à vouloir gravir l'Everest sans préparation.",
+    "title": "Un incendie maîtrisé dans le Gard, 28 départements en alerte",
+    "full": "Un incendie s'est déclaré samedi 4 juillet près de Rochefort, dans le Gard, à proximité de l'autoroute A9. Les flammes ont été stoppées aux abords des habitations grâce à l'intervention de plusieurs Canadair et hélicoptères bombardiers d'eau. L'A9 a dû être temporairement coupée. Sur la même période, 28 départements français sont placés en alerte incendie en raison des conditions météorologiques.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "L'approche progressive et l'adaptation sont les clés pour pratiquer une activité physique en chaleur, sans risque pour la santé.",
-        "url": "https://www.slate.fr/sante/possible-pratique-sport-ete-chaleur-mais-pas-n-importe-comment-programme-entrainement-activite-physique-corps-adaptation-canicule-conseils"
+        "outlet": "France Info",
+        "take": "Les opérations aériennes ont permis d'arrêter les flammes avant qu'elles ne gagnent les zones habitées.",
+        "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/incendie-dans-le-gard-les-flammes-stoppees-au-pied-des-habitations_8094230.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 24,
@@ -600,16 +638,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences",
-      "Société"
+      "France"
     ],
-    "title": "Les vols de composants informatiques explosent avec la boom de l'IA",
-    "full": "La demande croissante en puces pour l'intelligence artificielle fait monter en flèche la valeur des composants informatiques, attirant l'attention du crime organisé. Les livraisons destinées aux centres de données sont devenues des cibles privilégiées de cambriolages, transformant ces envois en véritable butin de valeur.",
+    "title": "Deux hommes blessés par balles lors d'une intrusion à Montélimar",
+    "full": "Dans la nuit de vendredi à samedi, deux hommes ont été grièvement blessés par des tirs d'armes à feu lors d'une intrusion à leur domicile à Montélimar, en Drôme. Un quinquagénaire a reçu une balle dans le dos, tandis que son fils de 22 ans, alerté par les coups de feu, a été touché à la jambe. Une enquête a été ouverte pour élucider les circonstances de cette attaque.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "La ruée mondiale vers les data centers et l'IA crée une opportunité lucrative pour les réseaux de vol de fret, qui ciblent spécifiquement les livraisons de composants destinés à ces infrastructures.",
-        "url": "https://www.slate.fr/tech-internet/course-aux-data-centers-fait-bonheur-cambrioleurs-vols-fret-intelligence-artificielle-crime-organise"
+        "outlet": "France Info",
+        "take": "Deux victimes d'une même famille ont été touchées lors d'une intrusion armée au domicile.",
+        "url": "https://www.franceinfo.fr/faits-divers/deux-hommes-grievement-blesses-dans-la-drome-par-des-tirs-d-armes-a-feu-lors-d-une-intrusion-a-leur-domicile-une-enquete-ouverte_8094203.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 25,
@@ -617,15 +654,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Santé"
     ],
-    "title": "Les fours à pizza s'invitent dans les jardins des Français",
-    "full": "Les fours à pizza gagnent en popularité auprès des particuliers français, séduisant par leur côté pratique et convivial. Ces installations, longtemps réservées aux restaurants, s'implantent progressivement dans les espaces intérieurs et extérieurs des foyers. Leur succès coïncide avec la tendance à créer des zones de détente et de partage à domicile.",
+    "title": "Pratiquer le sport en période de chaleur: les précautions essentielles",
+    "full": "Faire du sport par temps chaud expose à des risques de coup de chaleur, mais cela reste possible en respectant certaines règles. L'acclimatation progressive, l'adaptation de l'intensité de l'effort et l'écoute attentive de son corps sont les clés pour éviter les problèmes. Les spécialistes recommandent une progression graduelle plutôt qu'une augmentation brutale de l'activité physique.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Les fours à pizza s'imposent comme équipements de loisir tendance pour les jardins et terrasses français.",
-        "url": "https://www.20minutes.fr/tempo/food/4232608-20260704-coupe-monde-cinq-fours-pizza-faire-croustiller-quatre-fromages-devant-matchs?at_medium=display&at_campaign=149"
+        "outlet": "Slate",
+        "take": "La pratique du sport en été demande une approche progressive et raisonnée, comparable à l'acclimatation avant une ascension difficile.",
+        "url": "https://www.slate.fr/sante/possible-pratique-sport-ete-chaleur-mais-pas-n-importe-comment-programme-entrainement-activite-physique-corps-adaptation-canicule-conseils"
       }
     ],
     "id": 26,
@@ -633,15 +670,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Environnement",
+      "Société"
     ],
-    "title": "Les cosmétiques tout-en-un séduisent mais questionnent sur leur efficacité",
-    "full": "Les produits de beauté multifonctions, comme les sérums teintés ou les crèmes de jour avec écran solaire, gagnent en popularité auprès des consommateurs en quête de simplification de leur routine. Séduits par la praticité et l'économie d'espace, notamment avant les vacances, les utilisateurs se demandent si ces formules polyvalentes offrent une efficacité réelle ou si elles constituent avant tout un compromis au détriment de la performance.",
+    "title": "Incendie à Canet-en-Roussillon : des milliers de vacanciers perturbés",
+    "full": "Des incendies ont ravagé plusieurs centaines de bungalows à Canet-en-Roussillon, en Pyrénées-Orientales, perturbant les vacances estivales de milliers de touristes et de campeurs. Certains ont dû être évacués d'urgence, tandis que d'autres arrivaient samedi 4 juillet pour découvrir une station balnéaire dévastée et en état de choc.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Les cosmétiques multiusages attirent par leur commodité et leur encombrement réduit, mais leur véritable efficacité reste à interroger.",
-        "url": "https://www.20minutes.fr/tempo/bien-etre/4232195-20260704-routine-simplifiee-serums-teintes-baumes-universels-cosmetiques-tout-vraiment-efficaces?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "Les incendies ont provoqué l'évacuation de touristes et contraint de nouveaux arrivants à affronter la destruction des infrastructures touristiques.",
+        "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/canet-en-roussillon-des-touristes-et-des-campeurs-deboussoles-apres-l-incendie_8093792.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 27,
@@ -649,16 +687,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite",
-      "Économie"
+      "Société"
     ],
-    "title": "Des parieurs gagnent des millions en devinant les performances de Messi, Haaland et Mbappé",
-    "full": "Des milliers de parieurs ont remporté des gains exceptionnels en anticipant une série de performances jugée très improbable impliquant Lionel Messi, Erling Haaland et Kylian Mbappé. Ces paris combinés, habituellement très lucratifs pour les bookmakers, se sont retournés contre les opérateurs, qui ont enregistré des pertes importantes. L'événement illustre comment les scénarios jugés peu probables peuvent néanmoins se concrétiser et infliger des revers financiers aux entreprises de paris sportifs.",
+    "title": "Canicule : des astuces pour refroidir son logement sans surcharger l'électricité",
+    "full": "Face aux vagues de chaleur, des solutions simples permettent de rafraîchir son intérieur sans recourir à la climatisation, coûteuse en énergie. Des gestes quotidiens, comme l'utilisation stratégique des volets, la ventilation nocturne ou l'isolation thermique des ouvertures, aident à maintenir une température supportable tout en maîtrisant sa facture d'électricité.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "L'article souligne que les paris combinés gagnants sur les trois vedettes ont généré des gains exceptionnels pour les parieurs, malgré des cotes initialement très défavorables.",
-        "url": "https://www.slate.fr/economie/messi-haaland-mbappe-perdre-millions-euros-bookmakers-paris-sportifs-football-coupe-monde-etats-unis-mexique-canada-addiction-jeu"
+        "outlet": "20 Minutes",
+        "take": "Des gestes simples et accessibles constituent une alternative efficace à la climatisation pour lutter contre les fortes chaleurs estivales.",
+        "url": "https://www.20minutes.fr/tempo/style/4232810-20260704-canicule-astuces-rafraichir-logement-faire-grimper-facture-electricite?at_medium=display&at_campaign=149"
       }
     ],
     "id": 28,
@@ -667,15 +704,15 @@ const ARTICLES = [
   {
     "themes": [
       "Tech & Sciences",
-      "Insolite"
+      "Société"
     ],
-    "title": "Des chercheurs envisagent un «airbag» géant contre les tempêtes solaires",
-    "full": "Des scientifiques américains proposent de déployer une structure gonflable de grande taille dans l'espace pour protéger la Terre des tempêtes solaires. Ces phénomènes peuvent endommager les satellites et perturber les systèmes de communication et de positionnement. Le projet vise à créer une sorte de bouclier artificiel capable d'amortir les effets du plasma solaire sur notre environnement spatial.",
+    "title": "Les vols de composants informatiques ciblent les livraisons de data centers",
+    "full": "La demande croissante en puissance informatique pour l'intelligence artificielle fait monter en flèche la valeur des composants destinés aux centres de données, attirant l'attention du crime organisé. Les cambrioleurs ciblent désormais systématiquement les expéditions de matériel informatique vers ces installations, transformant un secteur jusqu'alors discret en enjeu de sécurité majeur.",
     "angles": [
       {
         "outlet": "Slate",
-        "take": "Des chercheurs envisagent un système d'amortissement inspiré des airbags automobiles pour réduire les dégâts causés par les tempêtes magnétiques aux infrastructures spatiales.",
-        "url": "https://www.slate.fr/sciences/chercheurs-deployer-airbag-geant-espace-proteger-tempete-solaire-magnetique-satellites-gps-internet-gaz-plasma"
+        "take": "La ruée vers l'IA crée une nouvelle opportunité criminelle lucrative, avec des vols de fret organisés visant spécifiquement les livraisons de data centers.",
+        "url": "https://www.slate.fr/tech-internet/course-aux-data-centers-fait-bonheur-cambrioleurs-vols-fret-intelligence-artificielle-crime-organise"
       }
     ],
     "id": 29,
@@ -683,19 +720,51 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences",
-      "Santé"
+      "Insolite"
     ],
-    "title": "Une transplantation de microbiote intestinal rajeunit le cerveau chez la souris",
-    "full": "Des chercheurs ont démontré sur des souris qu'une transplantation du microbiote intestinal de jeunes individus vers des souris âgées restaure la capacité du cerveau vieillissant à former de nouvelles connexions neuronales. Cette découverte ouvre une nouvelle piste pour comprendre les liens entre la santé intestinale et le vieillissement cérébral. Les résultats suggèrent que les bactéries intestinales jouent un rôle clé dans la neuroplasticité, bien que des travaux supplémentaires seraient nécessaires avant toute application chez l'humain.",
+    "title": "Les fours à pizza s'invitent dans les jardins des Français",
+    "full": "Les fours à pizza gagnent en popularité auprès des particuliers français, qui en équipent leurs terrasses et jardins. Ces appareils, présentés comme pratiques et conviviaux, permettent de préparer des pizzas maison lors de rassemblements ou événements sportifs. Leur adoption progressive reflète une tendance plus large vers les aménagements extérieurs favorisant la convivialité.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "L'étude souligne le potentiel de la transplantation fécale pour combattre le déclin cognitif lié à l'âge en restaurant la capacité du cerveau à créer de nouvelles connexions.",
-        "url": "https://www.slate.fr/sciences/rajeunir-cerveau-grace-transplantation-selles-intestins-recherche-scientifique-souris-matiere-fecale-neuroplasticite"
+        "outlet": "20 Minutes",
+        "take": "Les fours à pizza deviennent des éléments courants du mobilier d'extérieur français, notamment pour animer les moments partagés autour d'événements comme la Coupe du Monde.",
+        "url": "https://www.20minutes.fr/tempo/food/4232608-20260704-coupe-monde-cinq-fours-pizza-faire-croustiller-quatre-fromages-devant-matchs?at_medium=display&at_campaign=149"
       }
     ],
     "id": 30,
     "priority": 31
+  },
+  {
+    "themes": [
+      "Société"
+    ],
+    "title": "Les cosmétiques multifonctions tiennent-ils leurs promesses ?",
+    "full": "Les produits de beauté combinant plusieurs fonctions, comme les sérums teintés ou les crèmes de jour protectrices, gagnent en popularité auprès des consommateurs en quête de praticité et de gain de place dans leur trousse de toilette. Ces formules tout-en-un séduisent notamment à l'approche des vacances, mais leur efficacité réelle reste à vérifier face aux produits spécialisés traditionnels.",
+    "angles": [
+      {
+        "outlet": "20 Minutes",
+        "take": "Met en avant l'attrait des cosmétiques multifonctions pour leur commodité et leur encombrement réduit, tout en questionnant leur performance effective.",
+        "url": "https://www.20minutes.fr/tempo/bien-etre/4232195-20260704-routine-simplifiee-serums-teintes-baumes-universels-cosmetiques-tout-vraiment-efficaces?at_medium=display&at_campaign=149"
+      }
+    ],
+    "id": 31,
+    "priority": 32
+  },
+  {
+    "themes": [
+      "Insolite",
+      "Économie"
+    ],
+    "title": "Des parieurs gagnent des millions en prédisant les exploits de Messi, Haaland et Mbappé",
+    "full": "Plusieurs milliers de parieurs ont réalisé des gains exceptionnels en anticipant une série de performances jugée hautement improbable de trois grandes stars du football. Ces paris combinés, normalement très rentables pour les bookmakers, se sont cette fois retournés contre les opérateurs, qui ont enregistré des pertes importantes. Le scénario rappelle que même les paris à très faibles probabilités peuvent occasionnellement se concrétiser et générer des dégâts financiers significatifs pour le secteur.",
+    "angles": [
+      {
+        "outlet": "Slate",
+        "take": "Des milliers de parieurs ont empochéprofits spectaculaires en pariant sur une convergence improbable de performances sportives de trois stars du football mondial.",
+        "url": "https://www.slate.fr/economie/messi-haaland-mbappe-perdre-millions-euros-bookmakers-paris-sportifs-football-coupe-monde-etats-unis-mexique-canada-addiction-jeu"
+      }
+    ],
+    "id": 32,
+    "priority": 33
   }
 ];
