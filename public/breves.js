@@ -1,32 +1,32 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-07-09T07:29:01.279243+00:00
+// 2026-07-10T04:04:07.991003+00:00
 const ARTICLES = [
   {
     "themes": [
       "France"
     ],
-    "title": "La Cour de cassation jugera Marine Le Pen début avril 2027",
-    "full": "La Cour de cassation a indiqué mercredi qu'elle statuerait « au plus tard début avril 2027 » sur le pourvoi de Marine Le Pen contre sa condamnation en appel pour détournement de fonds publics dans l'affaire des assistants d'eurodéputés du Front national. Ce délai dépendra toutefois de « facteurs procéduraux ». Les deux tours de l'élection présidentielle sont prévus le 18 avril et le 2 mai 2027. Marine Le Pen a annoncé sa candidature malgré sa condamnation et son recours en justice en attente.",
+    "title": "Marine Le Pen annonce sa candidature à la présidentielle 2027",
+    "full": "Marine Le Pen s'est déclarée candidate à l'élection présidentielle de 2027, malgré sa condamnation en appel prononcée mardi 7 juillet pour détournement de fonds publics. La cour d'appel a confirmé sa culpabilité mais levé l'interdiction électorale qui pesait sur elle. Elle a simultanément annoncé un pourvoi en cassation, ce qui suspend l'exécution de sa peine. La Cour de cassation devrait rendre sa décision d'ici début avril 2027, soit avant l'élection présidentielle, laissant subsister une incertitude judiciaire pendant la campagne.",
     "angles": [
       {
-        "outlet": "France 24",
-        "take": "La Cour de cassation communique un délai maximal de prononcé, assorti de réserves sur les facteurs procéduraux pouvant l'affecter.",
-        "url": "https://www.france24.com/fr/france/20260708-condamnation-de-marine-le-pen-la-cour-de-cassation-se-prononcera-au-plus-tard-d%C3%A9but-avril-2027"
-      },
-      {
         "outlet": "France Info",
-        "take": "Le calendrier judiciaire pourrait chevaucher la campagne présidentielle, soulevant des questions sur le statut légal de la candidate.",
-        "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/apres-son-pourvoi-en-cassation-marine-le-pen-est-elle-assuree-d-echapper-au-bracelet-electronique-pendant-sa-campagne-presidentielle_8099273.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "L'avocate de Marine Le Pen estime que le délai normal de 12 à 18 mois pour la cassation éloignerait l'exécution de la peine avant le scrutin présidentiel.",
+        "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/pourvoi-en-cassation-de-marine-le-pen-son-avocate-souhaite-que-le-delai-normal-s-applique-a-savoir-12-a-18-mois-pour-rendre-la-decision_8100701.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Le Monde",
-        "take": "Marine Le Pen lance sa campagne présidentielle dans une situation judiciaire inédite combinant condamnation et pourvoi en attente.",
-        "url": "https://www.lemonde.fr/podcasts/article/2026/07/08/marine-le-pen-condamnee-et-candidate-un-lancement-de-campagne-inattendu_6721894_5463015.html"
+        "take": "Un juriste analyse la décision de la cour d'appel comme une solution « calibrée » reflétant la difficulté pour les magistrats de juger pénalement les politiques.",
+        "url": "https://www.lemonde.fr/idees/article/2026/07/09/le-nouvel-episode-de-la-saga-judiciaire-de-marine-le-pen-illustre-l-inextricable-difficulte-pour-les-magistrats-a-juger-penalement-les-politiques_6722032_3232.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Bien que reconnue coupable en appel, Marine Le Pen conserve le statut de présumée innocente jusqu'à la décision de cassation.",
-        "url": "https://www.liberation.fr/checknews/pourvoi-en-cassation-marine-le-pen-est-elle-toujours-presumee-innocente-20260708_6XLIWJZAGNGODBLTUMN2WWYYFQ/"
+        "outlet": "Le Figaro",
+        "take": "Après des discussions internes sur l'opportunité du pourvoi, Marine Le Pen a choisi de lancer sa campagne avec Jordan Bardella comme binôme plutôt que comme plan B.",
+        "url": "https://www.lefigaro.fr/politique/elle-est-sortie-de-la-cour-d-appel-en-etant-instinctivement-candidate-dans-les-coulisses-de-la-decision-surprise-de-marine-le-pen-20260708"
+      },
+      {
+        "outlet": "France 24",
+        "take": "Marine Le Pen prend le risque que la Cour de cassation confirme sa condamnation avant le premier tour du scrutin.",
+        "url": "https://www.france24.com/fr/%C3%A9missions/politique/20260709-marine-le-pen-candidate-en-2027-envers-et-contre-tout"
       }
     ],
     "id": 0,
@@ -34,55 +34,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Sport"
     ],
-    "title": "Marine Le Pen lance sa campagne présidentielle malgré sa condamnation",
-    "full": "Marine Le Pen a annoncé mercredi 7 juillet sa candidature à l'élection présidentielle de 2027, au lendemain de sa condamnation en appel à trois ans de prison dont un an ferme sous bracelet électronique pour détournements de fonds publics. La cour d'appel de Paris a confirmé les faits dans l'affaire des assistants parlementaires du Rassemblement national, mais n'a pas prononcé l'inéligibilité, permettant à la cheffe de file du RN de rester présidentiable. Cette quatrième candidature écarte Jordan Bardella du rôle de joker qu'il occupait jusqu'alors.",
+    "title": "La France élimine le Maroc et file en demi-finale du Mondial 2026",
+    "full": "L'équipe de France s'est imposée 2-0 face au Maroc jeudi en quart de finale de la Coupe du monde 2026, à Boston. Mbappé et Dembélé ont marqué les buts français. Après un penalty arrêté par le portier marocain Bounou en première période, les Bleus ont progressivement dominé pour se qualifier pour les demi-finales pour la troisième édition consécutive. La France renforce sa position de favorite pour l'issue du tournoi.",
     "angles": [
       {
         "outlet": "France 24",
-        "take": "Le choix de Marine Le Pen prive Bardella de son positionnement de candidat alternatif et soulève des questions sur la cohérence économique du programme RN.",
-        "url": "https://www.france24.com/fr/france/20260708-marine-le-pen-candidate-en-2027-un-choix-dynastique-du-rn-qui-%C3%A9clipse-jordan-bardella"
+        "take": "Malgré un penalty manqué, Mbappé et Dembélé ont percé la défense marocaine pour offrir aux Bleus une victoire nette.",
+        "url": "https://www.france24.com/fr/sports/20260709-france-maroc-direct-live-choc-quarts-de-finale-mondial"
       },
       {
-        "outlet": "France Info",
-        "take": "La campagne débute immédiatement après le jugement, tandis que des militants d'opposition tentent de faire entendre leur voix.",
-        "url": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-condamnee-mais-deja-en-campagne_8100089.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Le Figaro Politique",
-        "take": "L'annonce provoque une couverture internationale soutenue, commentée de New York à Berlin comme un tournant politique majeur.",
-        "url": "https://www.lefigaro.fr/politique/elle-ne-se-sent-pas-de-ceder-sa-place-la-presse-internationale-divisee-apres-l-annonce-de-la-candidature-de-marine-le-pen-20260708"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Un magistrat y voit une avancée démocratique par l'application du principe d'égalité devant la loi, que Marine Le Pen conteste.",
-        "url": "https://www.lemonde.fr/idees/article/2026/07/08/marine-le-pen-conteste-directement-la-legitimite-de-la-justice-a-sanctionner-une-elue-de-la-republique_6721835_3232.html"
-      },
-      {
-        "outlet": "Le Figaro Éco",
-        "take": "Des divergences demeurent sur les retraites entre Le Pen et Bardella, le programme RN n'étant pas finalisé.",
-        "url": "https://www.lefigaro.fr/conjoncture/entre-marine-le-pen-et-jordan-bardella-les-divergences-et-le-flou-pas-dissipes-sur-les-retraites-20260708"
+        "outlet": "Courrier International",
+        "take": "Cette nouvelle démonstration d'autorité et de finesse de jeu fait de la France la grande favorite de la compétition selon la presse internationale.",
+        "url": "https://www.courrierinternational.com/article/football-coupe-du-monde-alliant-autorite-et-finesse-de-jeu-les-bleus-dominent-le-maroc-et-filent-en-demi-finale_248031"
       },
       {
         "outlet": "Libération",
-        "take": "Une juriste spécialiste du procès qualifie cette décision de « troublante », avec une peine jugée « inhabituellement basse ».",
-        "url": "https://www.liberation.fr/idees-et-debats/marine-le-pen-condamnee-en-appel-mais-eligible-une-decision-troublante-et-une-peine-inhabituellement-basse-20260709_SUQEPDLAN5CSZOB4S2JMKNFC34/"
-      },
-      {
-        "outlet": "Mediapart",
-        "take": "La condamnation offre à la gauche une opportunité de placer l'éthique et la probité au cœur du débat, mobilisation qui reste encore limitée.",
-        "url": "https://www.mediapart.fr/journal/politique/080726/condamnation-de-marine-le-pen-gauche-des-protestations-sans-traduction-politique"
-      },
-      {
-        "outlet": "Reporterre",
-        "take": "Le programme écologique de Le Pen privilégie les énergies fossiles et s'oppose à l'énergie éolienne, la plaçant sur une ligne anti-écologiste.",
-        "url": "https://reporterre.net/Clim-fossiles-et-agro-industrie-l-ecologie-selon-Marine-Le-Pen"
-      },
-      {
-        "outlet": "Politis",
-        "take": "Le Pen construit un récit de résurrection face à un « système », tout en éclipsant la ligne libérale incarnée par Bardella.",
-        "url": "https://www.politis.fr/api/proxy/?articleID=489248"
+        "take": "La sélection française n'a pas tremblé face à une équipe marocaine qui a souffert d'un manque de réactivité dans sa première période.",
+        "url": "https://www.liberation.fr/sports/football/quart-de-finale-france-maroc-face-aux-lions-de-latlas-des-bleus-premiers-de-la-classe-20260710_JWLM2YBTBFD2ZJXF4A2HUZFHBI/"
       }
     ],
     "id": 1,
@@ -90,40 +60,26 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "Économie",
+      "Monde"
     ],
-    "title": "Le Haut Conseil pour le climat juge la France mal préparée",
-    "full": "Le Haut Conseil pour le climat a publié son rapport annuel le 9 juillet, dénonçant l'insuffisance des politiques climatiques françaises face à l'accélération du réchauffement. L'instance alerte sur le ralentissement de la décarbonation, les reculs de certaines mesures environnementales et l'inadéquation de la préparation du pays aux impacts croissants du changement climatique. Le rapport appelle à « changer d'échelle » dans la mise en œuvre des politiques d'atténuation et d'adaptation, tant pour réduire les émissions que pour protéger la population face aux phénomènes extrêmes, dont une troisième canicule vient de frapper la France en moins de deux mois.",
+    "title": "Tensions Iran-États-Unis: les cours du pétrole restent maîtrisés",
+    "full": "La reprise des hostilités entre l'Iran et les États-Unis au Moyen-Orient n'a pas provoqué de flambée des prix du pétrole, contrairement aux craintes souvent exprimées lors de crises géopolitiques. Les cours restent stables grâce à une offre pétrolière abondante attendue dans les années à venir. À la pompe en France, les prix des carburants n'ont augmenté que modérément. Cependant, les professionnels du secteur pétrolier avertissent qu'une aggravation du conflit pourrait changer cette donne.",
     "angles": [
       {
+        "outlet": "Le Figaro Éco",
+        "take": "L'absence de flambée des prix malgré les tensions s'explique par les perspectives d'une offre pétrolière abondante à moyen terme.",
+        "url": "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-pourquoi-les-cours-du-petrole-ne-flambent-pas-malgre-le-regain-de-tensions-20260709"
+      },
+      {
         "outlet": "France Info",
-        "take": "L'instance salue certaines avancées mais souligne des reculs et des fragilités dans la réponse française au dérèglement climatique.",
-        "url": "https://www.franceinfo.fr/environnement/crise-climatique/la-france-est-dimensionnee-pour-un-climat-qui-n-existe-plus-le-haut-conseil-pour-le-climat-alerte-sur-les-politiques-insuffisantes-du-gouvernement_8097722.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Les hausses de carburants à la pompe sont restées modérées, mais les professionnels craignent un durcissement de la situation.",
+        "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/carburants-hausses-moderees-des-prix-a-la-pompe-apres-la-reprise-des-hostilites-entre-les-etats-unis-et-l-iran-estime-l-union-francaise-des-industries-petrolieres_8101094.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Le Monde",
-        "take": "Le rapport dénonce le ralentissement de la décarbonation et juge le pays non préparé aux impacts croissants du réchauffement, dans un contexte de canicules récurrentes.",
-        "url": "https://www.lemonde.fr/planete/article/2026/07/09/le-haut-conseil-pour-le-climat-alerte-sur-l-urgence-de-changer-d-echelle-dans-les-politiques-climatiques_6722027_3244.html"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Le Haut Conseil encourage l'accélération de la mise en œuvre des politiques climatiques d'atténuation et d'adaptation pour protéger la population.",
-        "url": "https://www.liberation.fr/environnement/climat/le-haut-conseil-pour-le-climat-exhorte-le-gouvernement-francais-a-changer-dechelle-dans-la-lutte-contre-le-changement-climatique-20260709_CTW6ICPKSJCPNDFFNWIPWDBJ2Q/"
-      },
-      {
-        "outlet": "Sciences et Avenir",
-        "take": "L'instance qualifie d'urgent le changement d'échelle face aux impacts dangereux du réchauffement, insuffisamment traités par les politiques actuelles.",
-        "url": "https://www.sciencesetavenir.fr/nature-environnement/climat-la-france-n-est-pas-prete-il-faut-changer-d-echelle-juge-le-haut-conseil-pour-le-climat_193643?xtor=RSS-15"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "Le rapport dénonce la lenteur et le détricotage des politiques publiques de transition, appelant le gouvernement à cesser de freiner la baisse des émissions.",
-        "url": "https://www.humanite.fr/environnement/gaz-a-effet-de-serre/4c-en-2100-le-haut-conseil-pour-le-climat-alerte-sur-la-lenteur-et-le-detricotage-des-politiques-publiques"
-      },
-      {
-        "outlet": "Reporterre",
-        "take": "Selon le rapport, la France échoue à réduire significativement ses émissions et sa trajectoire mène vers l'adaptation inadéquate et le chaos climatique.",
-        "url": "https://reporterre.net/La-politique-climatique-de-la-France-est-tres-insuffisante-alerte-le-Haut-conseil-pour-le"
+        "take": "Les autorités américaines et israéliennes coordonnent leurs opérations militaires, l'armée israélienne annonçant que sa campagne n'est pas terminée.",
+        "url": "https://www.lemonde.fr/international/live/2026/07/10/en-direct-guerre-au-moyen-orient-nouvel-entretien-entre-donald-trump-et-benyamin-netanyahou-l-armee-israelienne-a-declare-que-la-campagne-contre-l-iran-n-etait-pas-terminee_6721826_3210.html"
       }
     ],
     "id": 2,
@@ -131,35 +87,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Environnement"
     ],
-    "title": "Trump autorise l'Ukraine à fabriquer des missiles Patriot",
-    "full": "Lors du sommet de l'OTAN à Ankara, Donald Trump a annoncé que les États-Unis autoriseraient l'Ukraine à fabriquer des missiles Patriot de conception américaine, renforçant ainsi ses capacités de défense antiaérienne. Cette décision intervient après des critiques de Trump envers les alliés européens, qu'il a ensuite rassurés sur l'engagement américain envers l'Alliance atlantique. De son côté, la Russie a annoncé l'interdiction de ses exportations de gazole à partir du mercredi, le Kremlin justifiant cette mesure par le besoin d'augmenter ses approvisionnements intérieurs.",
+    "title": "Canicule: neuf départements de l'Ouest en alerte rouge",
+    "full": "Neuf départements de l'Ouest de la France basculent en vigilance rouge à partir de vendredi midi, une première dans cette vague de chaleur, selon Météo-France. Le Morbihan, l'Ille-et-Vilaine, la Mayenne, la Sarthe, la Loire-Atlantique, la Vendée, le Maine-et-Loire, la Vienne et les Deux-Sèvres sont concernés. Parallèlement, 76 autres départements passent en vigilance orange, tandis que des pics de 41,2°C ont été relevés à Narbonne et 40,9°C à Perpignan. Les fortes chaleurs devraient persister jusqu'au 14 juillet au moins.",
     "angles": [
       {
+        "outlet": "Libération",
+        "take": "Énumère précisément les neuf départements placés en alerte maximale pour vendredi.",
+        "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-72-departements-en-vigilance-orange-a-partir-de-ce-midi-20260709_2T6MGAOTTVCWJK5BEU3ONDZ43Y/"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Souligne que le passage en vigilance rouge de neuf départements constitue une première pour cette nouvelle vague.",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-72-departements-places-en-vigilance-orange-l-episode-de-chaleur-progresse-en-france_8100425.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Précise que 76 autres départements sont en vigilance orange aux côtés des neuf en rouge.",
+        "url": "https://www.20minutes.fr/planete/canicule/4233893-20260710-canicule-chaleur-intensifie-ouest-9-departements-passent-alerte-rouge-76-autres-orange?at_medium=display&at_campaign=149"
+      },
+      {
         "outlet": "Le Monde",
-        "take": "Trump accorde une avancée majeure à Kiev sur la production de missiles tout en annonçant une nouvelle restriction énergétique russe.",
-        "url": "https://www.lemonde.fr/international/live/2026/07/08/en-direct-guerre-en-ukraine-les-pays-de-l-otan-reaffirment-leur-soutien-indefectible-a-kiev-a-l-issue-du-sommet-de-l-alliance-en-turquie_6720832_3210.html"
-      },
-      {
-        "outlet": "France 24",
-        "take": "La licence de fabrication de Patriot vise directement à renforcer les défenses antiaériennes ukrainiennes contre les attaques russes.",
-        "url": "https://www.france24.com/fr/europe/20260708-%C3%A9tats-unis-vont-autoriser-ukraine-fabriquer-des-missiles-patriot"
-      },
-      {
-        "outlet": "Le Figaro International",
-        "take": "Zelensky renouvelle sa demande d'adhésion à l'OTAN au sommet, tandis que Trump propose cette licence comme mesure intermédiaire.",
-        "url": "https://www.lefigaro.fr/international/au-sommet-d-ankara-volodymyr-zelensky-frappe-a-nouveau-a-la-porte-de-l-otan-20260708"
-      },
-      {
-        "outlet": "Courrier International",
-        "take": "Trump bascule d'une posture critique envers les Européens à l'affirmation d'un attachement fort à l'Alliance atlantique.",
-        "url": "https://www.courrierinternational.com/article/geopolitique-sommet-de-l-otan-apres-le-vitriol-trump-change-brusquement-de-ton-et-decouvre-l-amour-entre-allies_247767"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "Le sommet marque un rapprochement entre Trump et le président turc Erdogan dans un contexte de tensions croissantes avec l'Iran.",
-        "url": "https://www.humanite.fr/monde/etats-unis/sommet-de-lotan-a-ankara-trump-adoube-erdogan-alors-que-les-affrontements-reprennent-en-iran"
+        "take": "Indique que la quasi-totalité de la métropole sera en vigilance orange avant le week-end.",
+        "url": "https://www.lemonde.fr/planete/live/2026/07/10/en-direct-canicule-les-fortes-chaleurs-se-poursuivent-vendredi-avec-9-departements-en-vigilance-rouge-et-devrait-persister-jusqu-au-14-juillet-au-moins_6720911_3244.html"
       }
     ],
     "id": 3,
@@ -169,33 +120,28 @@ const ARTICLES = [
     "themes": [
       "Monde"
     ],
-    "title": "Nouvelles frappes entre les États-Unis et l'Iran au Moyen-Orient",
-    "full": "Les États-Unis ont mené des bombardements en Iran mercredi et jeudi, tuant 14 personnes selon Téhéran, qui dénombre également 78 blessés dont 47 hospitalisés. Le commandement américain affirme avoir atteint 90 cibles militaires. Ces frappes interviennent après des ripostes iraniennes contre des bases américaines dans le Golfe, dans un contexte d'escalade militaire croissante. Un accord de cessez-le-feu entré en vigueur le mois précédent a ainsi été rompu, sans perspective diplomatique immédiate selon les analystes.",
+    "title": "Syrie : arrestation des suspects des attentats de Damas",
+    "full": "Les autorités syriennes ont annoncé jeudi l'arrestation des responsables des deux attentats à la bombe survenus mardi à Damas lors de la visite d'Emmanuel Macron. Selon le ministre de l'Intérieur Anas Khattab, les premières investigations attribuent ces explosions à une cellule affiliée à l'organisation État islamique. Les attaques ont fait au moins un mort.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Le commandement américain précise avoir frappé 90 cibles militaires en Iran lors de ces deux jours de bombardements.",
-        "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-nouvelle-nuit-de-frappes-militaires-entre-les-etats-unis-et-l-iran_8100461.html#xtor=RSS-3-[lestitres]"
+        "take": "Les autorités syriennes ont arrêté les suspects sans avoir encore révélé leur identité.",
+        "url": "https://www.franceinfo.fr/monde/syrie/les-autorites-syriennes-affirment-avoir-arrete-les-responsables-des-deux-attentats-survenus-durant-la-visite-d-emmanuel-macron-a-damas_8101814.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "Le Monde",
-        "take": "Donald Trump a menacé l'Iran de représailles encore plus graves en cas de nouvelles attaques contre des navires dans le détroit d'Ormuz.",
-        "url": "https://www.lemonde.fr/international/live/2026/07/09/en-direct-guerre-au-moyen-orient-des-bases-americaines-au-koweit-et-a-bahrein-frappees-apres-des-bombardements-en-iran-affirment-les-gardiens-de-la-revolution_6721826_3210.html"
+        "take": "Le ministre syrien affirme que « la cellule responsable des attaques terroristes » est désormais en détention.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/09/attentats-a-damas-lors-de-la-visite-d-emmanuel-macron-les-autorites-syriennes-affirment-avoir-arrete-les-responsables_6722143_3210.html"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Les premières investigations relient les attentats du 7 juillet à l'État islamique.",
+        "url": "https://www.20minutes.fr/monde/syrie/4233895-20260710-syrie-autorites-annoncent-arrestation-suspects-lies-daesh-apres-attentats-damas?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "France 24",
-        "take": "Les frappes sur l'Iran ont été jugées limitées comparé aux menaces initiales de Trump, tandis que l'Iran reste déterminé à contrôler le détroit d'Ormuz.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260709-des-%C3%A9changes-de-frappes-au-moyen-orient-une-escalade-entre-l-iran-et-les-%C3%A9tats-unis"
-      },
-      {
-        "outlet": "Le Figaro International",
-        "take": "Un expert de l'Ifri estime qu'il n'existe pas de solution diplomatique à court terme et que les États-Unis pourraient recourir à nouveau à la force militaire.",
-        "url": "https://www.lefigaro.fr/international/nouvelle-escalade-au-moyen-orient-il-n-y-a-pas-a-ce-stade-de-solution-diplomatique-a-court-terme-en-iran-20260708"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Les hostilités reprennent malgré un accord de cessez-le-feu mis en place le mois dernier, Trump affirmant que les affrontements s'arrêteront rapidement.",
-        "url": "https://www.liberation.fr/international/moyen-orient/en-direct-les-hostilites-reprennent-entre-les-etats-unis-et-liran-trump-affirme-que-le-cessez-le-feu-est-termine-20260708_4Z7JFPA7WFDM3AT2XQ2MCAML5A/"
+        "take": "Le chef de la sécurité intérieure de Damas a précisé à la télévision d'État que la cellule était affiliée à l'organisation EI.",
+        "url": "https://www.france24.com/fr/moyen-orient/20260709-syrie-affirme-cellule-responsable-explosions-damas-affiliee-organisation-etat-islamique-emmanuel-macron-arrestations"
       }
     ],
     "id": 4,
@@ -203,25 +149,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "Sport"
     ],
-    "title": "Canicule sévère : 72 départements en vigilance orange",
-    "full": "Soixante-douze départements français sont placés en vigilance orange canicule à partir de jeudi midi, selon Météo-France. Cet épisode de chaleur intense, débuté le 4 juillet, devrait se prolonger jusqu'au week-end suivant inclus, avec des températures atteignant 43 °C. Le risque d'incendie élevé pousse les préfets à interdire massivement les feux d'artifice prévus à l'occasion du 14 juillet.",
+    "title": "Pogacar remporte la 6e étape du Tour de France 2026",
+    "full": "Tadej Pogacar a remporté la 6e étape du Tour de France 2026 entre Pau et Gavarnie-Gèdre en attaquant dès le Tourmalet. Le cycliste slovène reprend le maillot jaune avec une avance de 2 minutes et 40 secondes sur Jonas Vingegaard. Paul Seixas complète le podium de l'étape à trois minutes, confirmant sa capacité à rivaliser avec les meilleurs grimpeurs.",
     "angles": [
       {
-        "outlet": "France 24",
-        "take": "Souligne le caractère sévère et durable de l'épisode caniculaire avec une extension progressive des zones en alerte.",
-        "url": "https://www.france24.com/fr/france/20260708-nouvel-%C3%A9pisode-caniculaire-s%C3%A9v%C3%A8re-durable-france-journ%C3%A9e-risque-incendie-climat-m%C3%A9t%C3%A9o"
+        "outlet": "L'Humanité",
+        "take": "Pogacar s'impose en solitaire sur le Tourmalet et remporte le général.",
+        "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-2026-6e-etape-le-coup-de-force-de-tadej-pogacar"
       },
       {
         "outlet": "20 Minutes",
-        "take": "Met l'accent sur les conséquences pratiques : les annulations massives de feux d'artifice du 14 juillet en raison du risque incendie.",
-        "url": "https://www.20minutes.fr/societe/4233614-20260708-canicule-risque-incendie-provoque-annulation-massive-feux-artifice-14-juillet?at_medium=display&at_campaign=149"
+        "take": "Seixas se montre compétitif en montagne, terminer troisième du Tourmalet aux côtés des favoris.",
+        "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4233833-20260709-tour-france-seixas-acabit-pogacar-troisieme-haut-tourmalet-demander-plus?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Libération",
-        "take": "Relève les températures extrêmes déjà enregistrées (43 °C) et l'intensification attendue de la chaleur.",
-        "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-72-departements-en-vigilance-orange-a-partir-de-ce-midi-20260709_2T6MGAOTTVCWJK5BEU3ONDZ43Y/"
+        "take": "Emmanuel Macron assiste à l'étape dans les Hautes-Pyrénées, région où il passait ses vacances enfant.",
+        "url": "https://www.liberation.fr/sports/cyclisme/les-gens-comme-nous-ne-linteressent-pas-dans-les-hautes-pyrenees-emmanuel-macron-soffre-un-dernier-tour-a-domicile-20260709_L526V7QKLFCF3GOOPYFZDTNFCU/"
       }
     ],
     "id": 5,
@@ -229,30 +175,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Société"
     ],
-    "title": "France-Maroc en quarts de finale, avec revanche en toile de fond",
-    "full": "La France affronte le Maroc jeudi en quarts de finale de la Coupe du monde 2026. Les Lions de l'Atlas visent une revanche après leur élimination en demi-finale du Qatar en 2022, face aux doubles champions du monde. Brahim Diaz, passeur du Real Madrid, sera l'une des menaces marocaines avec déjà quatre passes décisives au tournoi. Le Maroc n'a vaincu la France qu'une seule fois en match officiel, en 1998.",
+    "title": "Le sénateur Szpiner mis en examen pour corruption",
+    "full": "Francis Szpiner, avocat et sénateur Les Républicains de Paris, a été mis en examen pour corruption passive. L'ex-maire du 16e arrondissement (2020-2023) est soupçonné d'avoir attribué en 2023 un logement social à une jeune femme en contrepartie de relations sexuelles. L'intéressé conteste ces accusations. Le parquet a également demandé la levée de son immunité parlementaire.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Brahim Diaz figure parmi les joueurs clés du Maroc et se distingue par son efficacité à la création.",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/france-maroc-pourquoi-les-bleus-doivent-se-mefier-de-brahim-diaz-serial-passeur-des-lions-de-l-atlas-en-quarts-de-finale-de-la-coupe-du-monde_8098493.html#xtor=RSS-3-[lestitres]"
+        "take": "Szpiner conteste les soupçons de corruption passive qui visent des faits remontant à son mandat de maire.",
+        "url": "https://www.franceinfo.fr/politique/l-avocat-francis-szpiner-senateur-lr-de-paris-mis-en-examen-pour-corruption-passive_8101469.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "Le Monde",
-        "take": "Le Maroc nourrit l'espoir de renverser une tendance historiquement défavorable, fort d'une génération jugée plus compétitive.",
-        "url": "https://www.lemonde.fr/afrique/article/2026/07/08/france-maroc-la-soif-de-revanche-des-lions-de-l-atlas-quatre-ans-apres-la-demi-finale-perdue-au-qatar_6721880_3212.html"
+        "take": "Les magistrats examinent l'attribution rapide du logement social intervenue quelques mois après la demande de la femme.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/09/l-avocat-et-ex-maire-du-16e-arrondissement-de-paris-francis-szpiner-mis-en-examen-pour-corruption-passive_6722127_3224.html"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Le parquet soupçonne précisément un échange du logement contre des relations sexuelles.",
+        "url": "https://www.20minutes.fr/justice/4233858-20260709-senateur-lr-celebre-avocat-francis-szpiner-mis-examen-corruption?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Libération",
-        "take": "Les supporters marocains attendent ce match comme une opportunité de dépasser l'amertume de 2022 et de conquérir le titre mondial.",
-        "url": "https://www.liberation.fr/international/afrique/coupe-du-monde-a-casablanca-avant-le-match-france-maroc-comme-un-parfum-de-revanche-20260708_UHR7OERPYFERRBECRSFSLZQNO4/"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "Cette rencontre dépasse le seul enjeu sportif en incarnant les histoires croisées des migrations et diasporas des deux nations.",
-        "url": "https://www.humanite.fr/sports/coupe-du-monde/coupe-du-monde-2026-france-maroc-un-match-au-croisement-de-limmigration-et-des-diasporas"
+        "take": "Szpiner n'a pas été placé sous contrôle judiciaire par le parquet de Paris.",
+        "url": "https://www.liberation.fr/societe/police-justice/le-senateur-lr-de-paris-francis-szpiner-mis-en-examen-pour-corruption-passive-20260709_RUIS6P2W6NH7RCBBYRLK4GD4TY/"
       }
     ],
     "id": 6,
@@ -260,25 +206,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Société"
     ],
-    "title": "Les États-Unis frappent l'Iran, qui riposte dans le Golfe",
-    "full": "L'armée américaine a annoncé avoir mené des frappes contre 90 cibles militaires en Iran au cours de la nuit du 8 au 9 juillet, après que Donald Trump a déclaré la fin du cessez-le-feu. En riposte, les Gardiens de la révolution iraniens ont visé des installations au Koweït, au Qatar et à Bahreïn. Téhéran a menacé d'étendre ses attaques à d'autres pays de la région, ravivant les tensions au Moyen-Orient.",
+    "title": "Le taux de pauvreté atteint un record de 15,4 % en 2024",
+    "full": "Le taux de pauvreté en France métropolitaine s'est stabilisé à 15,4 % en 2024, son plus haut niveau jamais mesuré, selon l'Insee. Cela représente 9,8 millions de personnes disposant de revenus mensuels inférieurs à 60 % du revenu médian, soit moins de 1 337 euros pour une personne seule. Cette stabilisation intervient dans un contexte où le niveau de vie moyen a progressé, mais sans parvenir à réduire la pauvreté ni les inégalités, qui continuent de se creuser.",
     "angles": [
       {
-        "outlet": "France 24",
-        "take": "L'armée iranienne revendique des frappes sur plusieurs États du Golfe en réaction aux bombardements américains.",
-        "url": "https://www.france24.com/fr/moyen-orient/20260709-en-direct-cessez-le-feu-fini-koweit-bahrein-vises-frappes-iran-etats-unis-pays-golfe-detroit-ormuz-israel-liban-gardiens-revolution"
+        "outlet": "France Info",
+        "take": "Met l'accent sur le record historique du taux de pauvreté mesuré par l'Institut national de la statistique.",
+        "url": "https://www.franceinfo.fr/societe/pauvrete/le-taux-de-pauvrete-se-stabilise-a-15-4-en-2024-en-france-son-plus-haut-niveau-selon-l-insee_8101586.html#xtor=RSS-3-[lestitres]"
+      },
+      {
+        "outlet": "Le Figaro Éco",
+        "take": "Confirme la stabilisation du taux à 15,4 % en France métropolitaine selon les données officielles de l'Insee.",
+        "url": "https://www.lefigaro.fr/conjoncture/le-taux-de-pauvrete-a-son-plus-haut-niveau-jamais-mesure-en-2024-en-france-selon-l-insee-20260709"
       },
       {
         "outlet": "20 Minutes",
-        "take": "La trêve entre Washington et Téhéran a été rompue, marquant la reprise des hostilités directes.",
-        "url": "https://www.20minutes.fr/monde/etats-unis/4233676-20260709-direct-guerre-moyen-orient-etats-unis-frappent-90-cibles-militaires-teheran-riposte-koweit-bahrein?at_medium=display&at_campaign=149"
+        "take": "Souligne le paradoxe entre l'augmentation du niveau de vie général et le maintien d'un taux de pauvreté élevé accompagné d'un creusement des inégalités.",
+        "url": "https://www.20minutes.fr/societe/4233879-20260709-niveau-vie-augmente-france-taux-pauvrete-maintient-niveau-eleve?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Libération",
-        "take": "Trump a officiellement déclaré l'arrêt du cessez-le-feu avant que les États-Unis ne lancent leur nouvelle campagne de frappes.",
-        "url": "https://www.liberation.fr/international/moyen-orient/les-etats-unis-frappent-a-nouveau-liran-qui-riposte-dans-le-golfe-20260709_XB3MWSPX3FEFFLSDF546W4C4HI/"
+        "outlet": "Le Monde",
+        "take": "Détaille le seuil de pauvreté en euros mensuels pour ancrer concrètement la situation des personnes concernées.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/09/le-taux-de-pauvrete-en-france-metropolitaine-reste-stable-a-15-4-en-2024-son-plus-haut-niveau-jamais-mesure_6722113_3224.html"
       }
     ],
     "id": 7,
@@ -288,23 +239,28 @@ const ARTICLES = [
     "themes": [
       "Monde"
     ],
-    "title": "Les États-Unis retirent la Syrie de leur liste des pays soutenant le terrorisme",
-    "full": "Le secrétaire d'État américain Marco Rubio a officiellement notifié le Congrès du retrait de la Syrie de la liste des États accusés de soutenir le terrorisme. Cette mesure, décrite comme historique, prendra effet dans 45 jours, sauf si les parlementaires américains la bloquent. La Syrie figurait sur cette liste depuis sa création en 1979. Après ce retrait, seuls l'Iran, la Corée du Nord et Cuba resteront sur cette liste.",
+    "title": "Iran et États-Unis échangent des frappes massives pendant les funérailles de Khamenei",
+    "full": "Les États-Unis ont lancé près de cent frappes contre des cibles militaires iraniennes dans la nuit du 8 au 9 juillet, auxquelles l'Iran a riposté en attaquant des alliés américains dans le Golfe. Cet échange intervient lors des funérailles de l'ayatollah Ali Khamenei, décédé il y a six jours, dont l'inhumation s'est déroulée dans sa ville natale de Machhad devant des milliers de personnes. Téhéran accuse Washington de vouloir perturber les cérémonies. Ces hostilités renouvelées remettent en question la viabilité d'un accord signé entre les deux pays il y a trois semaines et font craindre une intensification du conflit régional.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Le secrétaire d'État a communiqué officiellement cette décision au Congrès américain.",
-        "url": "https://www.franceinfo.fr/monde/revolte-en-syrie/les-etats-unis-vont-retirer-la-syrie-de-leur-liste-des-etats-soutenant-le-terrorisme_8100542.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "La Syrie était inscrite depuis la création de la liste en 1979, réduisant désormais le nombre de pays listés à trois.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/08/les-etats-unis-vont-retirer-la-syrie-de-leur-liste-des-etats-soutenant-le-terrorisme_6721904_3210.html"
+        "take": "L'escalade des frappes risque de déboucher sur un retour à un conflit d'ampleur dans la région.",
+        "url": "https://www.franceinfo.fr/monde/proche-orient/guerre/nouvel-echange-de-frappes-massives-entre-l-iran-et-les-etats-unis-avant-l-inhumation-du-guide-supreme-ali-khamenei_8101859.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "France 24",
-        "take": "Le gouvernement Trump qualifie cette décision de « pas historique » et les parlementaires disposent de 45 jours pour éventuellement s'y opposer.",
-        "url": "https://www.france24.com/fr/am%C3%A9riques/20260708-etats-unis-donald-trump-ahmed-al-charaa-retirer-syrie-liste-noire-etats-soutenant-terrorisme-marco-rubio-congres"
+        "take": "Les funérailles attirent des appels à la vengeance contre les États-Unis tandis que l'accord récent entre les deux puissances vacille.",
+        "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260709-iran-des-frappes-et-des-fun%C3%A9railles"
+      },
+      {
+        "outlet": "Mediapart",
+        "take": "L'Iran dénonce un timing délibéré américain visant à troubler les cérémonies funéraires nationales.",
+        "url": "https://www.mediapart.fr/journal/international/090726/les-etats-unis-frappent-l-iran-qui-riposte"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Washington affirme son intention de maintenir sa présence stratégique et d'empêcher l'Iran de contrôler le détroit d'Ormuz.",
+        "url": "https://www.liberation.fr/international/moyen-orient/guerre-entre-liran-et-les-etats-unis-un-cessez-le-feu-vacillant-sous-les-attaques-iraniennes-et-americaines-20260709_ZSWQWFYLFJDRTD63NPXN5CODXA/"
       }
     ],
     "id": 8,
@@ -312,25 +268,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Environnement"
     ],
-    "title": "Paris : appel du parquet contre la relaxe d'un animateur périscolaire",
-    "full": "Le parquet de Paris a fait appel de la relaxe d'un ancien animateur de 36 ans, poursuivi pour agressions sexuelles sur neuf enfants âgés de 3 à 5 ans à l'école maternelle Alphonse-Baudin. Le tribunal l'a relaxé des accusations contre les mineurs, mais l'a condamné à huit mois de prison avec sursis pour harcèlement sexuel envers deux collègues. Suspendu depuis avril 2024, cet animateur fait l'objet du premier procès public en matière de violences sexuelles dans le périscolaire parisien.",
+    "title": "Le Haut Conseil pour le climat juge la France « insuffisamment préparée »",
+    "full": "Le Haut Conseil pour le climat a publié jeudi un rapport alarmant dix ans après l'Accord de Paris, estimant que les politiques climatiques françaises restent « insuffisantes » face aux impacts du réchauffement. L'organisme indépendant dénonce le ralentissement de la décarbonation et les reculs de certaines mesures environnementales, tandis que la France subit sa troisième canicule en deux mois. Il appelle à « changer d'échelle » dans les actions de réduction des émissions et d'adaptation, en insistant sur l'urgence d'éviter une aggravation des inégalités sociales face aux risques climatiques croissants.",
     "angles": [
       {
+        "outlet": "France 24",
+        "take": "Souligne que l'organisme demande une accélération de la baisse des émissions et un meilleur financement de l'adaptation aux dérèglements climatiques.",
+        "url": "https://www.france24.com/fr/france/20260709-france-pas-pr%C3%AAte-constat-alarmant-haut-conseil-climat-canicule-juillet-r%C3%A9chauffement-clim"
+      },
+      {
         "outlet": "Le Monde",
-        "take": "Détaille le profil de l'accusé et les chefs retenus, distinguant la relaxe pour agression sur mineurs de la condamnation pour harcèlement envers collègues.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/08/agressions-sexuelles-dans-le-periscolaire-a-paris-le-parquet-fait-appel-de-la-relaxe-d-un-ex-animateur-de-l-ecole-maternelle-alphonse-baudin_6721901_3224.html"
+        "take": "Relie l'alerte du Haut Conseil aux canicules successives actuellement subies par la France et à l'impréparation du pays aux impacts croissants du réchauffement.",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/09/le-haut-conseil-pour-le-climat-alerte-sur-l-urgence-de-changer-d-echelle-dans-les-politiques-climatiques_6722027_3244.html"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Met l'accent sur l'action du parquet qui conteste la relaxe en faisant appel.",
-        "url": "https://www.20minutes.fr/justice/4233652-20260708-scandale-periscolaire-paris-parquet-fait-appel-relaxe-mardi-animateur?at_medium=display&at_campaign=149"
+        "outlet": "Sciences et Avenir",
+        "take": "Insiste sur le caractère « urgent » d'amplifier les politiques, tant pour la décarbonation que pour l'adaptation face aux effets « dangereux » du changement climatique.",
+        "url": "https://www.sciencesetavenir.fr/nature-environnement/climat-la-france-n-est-pas-prete-il-faut-changer-d-echelle-juge-le-haut-conseil-pour-le-climat_193643?xtor=RSS-15"
       },
       {
-        "outlet": "Libération",
-        "take": "Qualifie ce procès de premier public en la matière dans le secteur périscolaire parisien et souligne la chronologie de la suspension.",
-        "url": "https://www.liberation.fr/societe/police-justice/premier-proces-public-de-violences-sexuelles-dans-le-periscolaire-parisien-lanimateur-dune-ecole-maternelle-relaxe-au-benefice-du-doute-20260707_2YABA43BSRF6FHJCLRTF73PBYA/"
+        "outlet": "Reporterre",
+        "take": "Souligne l'absence de baisse significative des émissions françaises et pointe le risque de « maladaptation et chaos climatique » si la trajectoire actuelle persiste.",
+        "url": "https://reporterre.net/La-politique-climatique-de-la-France-est-tres-insuffisante-alerte-le-Haut-conseil-pour-le"
       }
     ],
     "id": 9,
@@ -338,25 +299,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Culture"
     ],
-    "title": "Olav Kooij remporte la cinquième étape du Tour de France",
-    "full": "Le sprinteur néerlandais Olav Kooij (Decathlon-CMA CGM) a remporté, mercredi 8 juillet, la cinquième étape du Tour de France entre Lannemezan et Pau, parcourant 158,3 kilomètres. Le sprint final s'est déroulé dans un climat chaotique, avec plusieurs chutes marquant l'arrivée. Le peloton aborde jeudi la haute montagne pyrénéenne.",
+    "title": "La tapisserie de Bayeux en route vers le British Museum",
+    "full": "La tapisserie de Bayeux a quitté la France pour être exposée au British Museum de Londres du 10 septembre au 11 juillet. Ce prêt historique de l'œuvre du XIe siècle, qui raconte la conquête de l'Angleterre par Guillaume le Conquérant en 1066, suscite des inquiétudes quant à la fragilité de ce patrimoine unique. La ville de Bayeux a obtenu 1 066 tickets gratuits pour l'exposition, un nombre choisi en référence à la date de la bataille d'Hastings inscrite dans la tapisserie.",
     "angles": [
       {
-        "outlet": "France 24",
-        "take": "Insiste sur le caractère tumultueux du sprint, marqué par plusieurs chutes en fin d'étape.",
-        "url": "https://www.france24.com/fr/sports/20260708-tour-de-france-cinqui%C3%A8me-%C3%A9tape-le-n%C3%A9erlandais-olav-kooij-remporte-le-sprint-%C3%A0-pau"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "Souligne que Kooij est l'équipier du coureur français Paul Seixas dans son équipe.",
-        "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-5e-etape-olav-kooij-lemporte-au-sprint-a-pau"
-      },
-      {
         "outlet": "France Info",
-        "take": "Met l'accent sur la performance et la rapidité spectaculaire du sprinteur Kooij.",
-        "url": "https://www.franceinfo.fr/tour-de-france/le-sprint-supersonique-d-olav-kooij-pour-remporter-la-5e-etape-du-tour-de-france_8099951.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Met l'accent sur le nombre symbolique de billets gratuits accordés à la ville de Bayeux, lié à la date historique de 1066.",
+        "url": "https://www.franceinfo.fr/culture/patrimoine/la-ville-de-bayeux-obtient-1-066-tickets-gratuits-pour-l-exposition-de-la-tapisserie-de-bayeux-au-british-museum-a-londres_8101457.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Souligne les craintes relatives à la fragilité de l'œuvre lors de ce transfert jugé délicat et contesté.",
+        "url": "https://www.20minutes.fr/arts-stars/culture/4233872-20260709-delicat-decrie-transfert-tapisserie-bayeux-vers-londres-debute?at_medium=display&at_campaign=149"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Détaille le calendrier de l'exposition et précise la nature inédite de ce prêt au British Museum.",
+        "url": "https://www.liberation.fr/culture/arts/le-transfert-inedit-de-la-tapisserie-de-bayeux-vers-londres-a-debute-20260709_22Z6BDB5ENCP7PD2P34AAHZPVU/"
       }
     ],
     "id": 10,
@@ -366,23 +327,23 @@ const ARTICLES = [
     "themes": [
       "France"
     ],
-    "title": "Le gouvernement refuse toute augmentation de salaire pour les fonctionnaires",
-    "full": "Le gouvernement a rejeté toute revalorisation généralisée du point d'indice des fonctionnaires, invoquant un coût de 2,4 milliards d'euros pour l'État. Cette décision, confirmée pour la troisième année consécutive, provoque l'ire des syndicats, qui ont quitté les négociations. Les organisations syndicales appellent à une mobilisation et une grève le 29 septembre.",
+    "title": "Le PS vote sur les modalités de sa primaire présidentielle",
+    "full": "Les militants du Parti socialiste se prononcent jeudi soir sur le mode de désignation de leur candidat à la présidentielle. Ils doivent choisir entre une consultation ouverte à tous, proposée par le premier secrétaire Olivier Faure, ou un vote réservé aux adhérents du parti. Cette décision marque l'abandon d'une primaire de la gauche unie, initialement envisagée.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "L'exécutif justifie son refus par l'impact budgétaire d'une revalorisation uniforme de 1 pour cent.",
-        "url": "https://www.franceinfo.fr/economie/emploi/recherche-d-emploi/fonction-publique/le-gouvernement-rejette-toute-augmentation-de-salaire-generalisee-pour-les-fonctionnaires-les-syndicats-claquent-la-porte_8099939.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Le scrutin se tient en physique jeudi, de 17 à 22 heures, pour permettre aux militants de déterminer le périmètre de la primaire.",
+        "url": "https://www.franceinfo.fr/politique/ps/les-socialistes-votent-jeudi-pour-definir-les-modalites-de-leur-primaire-avant-la-presidentielle_8101097.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Les syndicats ont rompu les négociations et envisagent une action de protestation fin septembre.",
-        "url": "https://www.20minutes.fr/economie/4233579-20260708-fonctionnaires-bercy-refuse-toute-augmentation-salaire-generalisee-syndicats-braquent?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Olivier Faure voit sa proposition d'une consultation ouverte rejetée par les militants, qui privilégient un vote des seuls adhérents.",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/10/olivier-faure-perd-son-referendum-interne-sur-la-designation-du-candidat-social-democrate-a-la-presidentielle_6722211_823448.html"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Les organisations syndicales lancent un appel unitaire à la grève le 29 septembre contre le refus gouvernemental.",
-        "url": "https://www.humanite.fr/social-et-economie/declassement/le-gouvernement-confirme-la-non-revalorisation-du-point-dindice-des-fonctionnaires-un-appel-a-la-greve-le-29-septembre"
+        "outlet": "Le Figaro Politique",
+        "take": "Le choix entre ces deux options revêt des enjeux stratégiques importants pour la désignation du candidat socialiste.",
+        "url": "https://www.lefigaro.fr/politique/presidentielle-primaire-ouverte-ou-fermee-on-vous-explique-les-enjeux-du-vote-interne-au-ps-20260709"
       }
     ],
     "id": 11,
@@ -390,20 +351,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Sport"
     ],
-    "title": "La Cour de cassation vise un jugement avant la présidentielle",
-    "full": "Le procureur général de la Cour de cassation, Rémy Heitz, a confirmé jeudi que l'instance s'efforcera de rendre sa décision sur la condamnation de Marine Le Pen avant l'élection présidentielle. Il a toutefois précisé que le calendrier dépend aussi des parties au procès et de la complexité du dossier. Cette affaire porte sur des accusations de financement illégal de campagne.",
+    "title": "France-Maroc en quarts de finale de la Coupe du monde 2026",
+    "full": "La France affronte le Maroc ce jeudi 9 juillet à Boston, en quarts de finale de la Coupe du monde 2026. Les deux équipes se sont déjà opposées en demi-finales en 2022. L'équipe de France, impressionnante depuis le début de la compétition, bénéficie d'une vague de confiance mondiale. Le Maroc, transformé et craint par les observateurs, entend rivaliser avec les Bleus dans un match qui promet d'équilibrer un rapport longtemps asymétrique.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Rémy Heitz insiste sur le fait que la Cour de cassation ne maîtrise pas seule le calendrier, les parties ayant aussi leur rôle à jouer dans la procédure.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/09/la-cour-de-cassation-fera-tout-pour-rendre-sa-decision-avant-le-scrutin-presidentiel-confirme-son-procureur-general-remy-heitz_6722031_823448.html"
+        "outlet": "Numerama",
+        "take": "Signale l'horaire décalé du coup d'envoi à 22 heures pour les téléspectateurs français.",
+        "url": "https://www.numerama.com/pop-culture/2292977-coupe-du-monde-2026-attention-a-lhoraire-du-match-france-maroc.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Le procureur général souligne que le respect du délai avant la présidentielle dépendra de la complexité du dossier soumis à la Cour.",
-        "url": "https://www.liberation.fr/societe/police-justice/condamnation-de-marine-le-pen-la-cour-de-cassation-fera-tout-pour-rendre-sa-decision-avant-la-presidentielle-20260709_IOV64XABTFEBXJWMHB3CGUIMUA/"
+        "outlet": "Courrier International",
+        "take": "Souligne la progression du Maroc, désormais capable d'inquiéter la France et d'égaler son niveau de jeu.",
+        "url": "https://www.courrierinternational.com/article/entretien-coupe-du-monde-2026-france-maroc-un-rapport-qui-ne-s-inverse-pas-mais-qui-s-equilibre_247834"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Met en avant l'enthousiasme du public français et l'engouement planétaire autour de la performance impressionnante des Bleus.",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/tout-le-monde-nous-felicite-comme-si-on-avait-deja-gagne-la-folie-tricolore-s-empare-de-boston-avant-france-maroc-ce-jeudi_8101049.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 12,
@@ -413,18 +379,23 @@ const ARTICLES = [
     "themes": [
       "Société"
     ],
-    "title": "La contrôleuse dénonce des violences systémiques en prison",
-    "full": "La Contrôleuse générale des lieux de privation de liberté a publié jeudi un rapport dénonçant des « violences systémiques » à la prison de Condé-sur-Sarthe, en Normandie. L'autorité indépendante signale une « logique d'intimidation et d'abus de pouvoir » des surveillants dans le quartier de lutte contre la criminalité organisée, ainsi que des propos racistes. Le rapport critique notamment les conditions de détention dans ce secteur de haute sécurité mis en place par le ministère de la Justice.",
+    "title": "Nomination du Défenseur des droits contestée par des associations",
+    "full": "Emmanuel Macron a proposé François-Noël Buffet, sénateur Les Républicains, pour occuper le poste de Défenseur des droits. Une soixantaine d'associations s'opposent à cette nomination, estimant que le parcours du candidat est « marqué par plusieurs prises de position contraires aux droits fondamentaux ». Elles reprochent au sénateur ses positions sur les droits LGBT, l'avortement, l'immigration et l'environnement. Le Défenseur des droits est une autorité administrative indépendante chargée de veiller au respect des droits et libertés.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Insiste sur les abus de pouvoir des surveillants et les discriminations racistes documentés dans le quartier spécialisé.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/09/la-controleuse-generale-des-lieux-de-privation-de-liberte-denonce-les-violences-systemiques-pratiquees-contre-les-detenus-a-la-prison-de-conde-sur-sarthe_6722020_3224.html"
+        "outlet": "France Info",
+        "take": "Met en avant la controverse suscitée par cette désignation.",
+        "url": "https://www.franceinfo.fr/politique/polemique-autour-de-la-nomination-du-nouveau-defenseur-des-droits_8101694.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Libération",
-        "take": "Souligne que le rapport critique le quartier de lutte contre la criminalité organisée tel que conçu par le ministère de la Justice.",
-        "url": "https://www.liberation.fr/societe/police-justice/violences-humiliations-abus-de-pouvoir-a-la-prison-de-haute-securite-de-conde-sur-sarthe-des-violences-systemiques-20260709_GL4BF4Y33RASRGON72RHACY7XA/"
+        "outlet": "Le Monde",
+        "take": "Rapporte le communiqué des organisations critiquant une incompatibilité entre le profil du candidat et les valeurs attendues du poste.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/09/defenseur-des-droits-le-choix-de-francois-noel-buffet-incompatible-avec-les-valeurs-du-poste-denoncent-une-soixantaine-d-associations_6722072_3224.html"
+      },
+      {
+        "outlet": "Reporterre",
+        "take": "Détaille les prises de position du sénateur sur les enjeux LGBT, environnementaux et de droits reproductifs.",
+        "url": "https://reporterre.net/Anti-ecolo-anti-LGBT-Qui-est-le-futur-Defenseur-des-droits-propose-par-Macron"
       }
     ],
     "id": 13,
@@ -432,20 +403,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Monde"
     ],
-    "title": "France-Maroc en quart de finale : Mbappé et Hakimi face à leur amitié",
-    "full": "Le capitaine français Kylian Mbappé et son homologue marocain Achraf Hakimi s'affrontent en quart de finale de la Coupe du monde. Les deux joueurs, devenus très proches au PSG, devront mettre leur amitié de côté le temps du match, comme ils l'ont déjà fait en 2022. Une situation particulière qui sera au cœur de cette rencontre.",
+    "title": "Trump autorise l'Ukraine à fabriquer des missiles Patriot",
+    "full": "Le président américain Donald Trump a annoncé son autorisation pour que l'Ukraine produise elle-même les missiles destinés aux systèmes de défense Patriot, indispensables à l'interception des missiles balistiques russes. Cette décision, annoncée en marge du sommet de l'OTAN, reste soumise à des accords techniques entre les deux pays. Le président ukrainien Volodymyr Zelensky a rappelé que plusieurs obstacles subsistaient avant une mise en œuvre concrète, avec un délai de production envisagé de plusieurs années au mieux.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Met l'accent sur le lien personnel entre Mbappé et Hakimi, développé au PSG, et sur la manière dont leur amitié s'efface lors des confrontations en sélection.",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/ce-n-est-pas-mon-pote-sur-le-terrain-avant-france-maroc-on-vous-raconte-l-histoire-d-amitie-entre-achraf-hakimi-et-kylian-mbappe_8099141.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Le Monde",
+        "take": "Trump a autorisé la fabrication des missiles Patriot lors d'une rencontre avec Zelensky au sommet de l'OTAN, mais des accords sur les aspects techniques restent nécessaires.",
+        "url": "https://www.lemonde.fr/international/live/2026/07/09/en-direct-guerre-en-ukraine-des-accords-sur-les-aspects-techniques-sont-encore-necessaires-pour-la-production-des-missiles-patriot-dit-volodymyr-zelensky_6720832_3210.html"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Rapporte des insultes racistes proférées au Paraguay contre Mbappé par une sénatrice, accueillies favorablement par une partie du Sénat local.",
-        "url": "https://www.20minutes.fr/sport/football/4233677-20260709-coupe-monde-2026-celeste-amarilla-traite-kylian-mbappe-fils-p-recoit-soutien-partie-senat?at_medium=display&at_campaign=149"
+        "outlet": "Le Figaro International",
+        "take": "Zelensky a renouvelé sa demande d'adhésion pleine à l'OTAN au sommet d'Ankara, tandis que Trump consent à lui accorder une licence de production des missiles.",
+        "url": "https://www.lefigaro.fr/international/au-sommet-d-ankara-volodymyr-zelensky-frappe-a-nouveau-a-la-porte-de-l-otan-20260708"
+      },
+      {
+        "outlet": "Libération",
+        "take": "La complexité du projet ne permettra pas une production avant plusieurs années, malgré cette autorisation américaine.",
+        "url": "https://www.liberation.fr/international/amerique/trump-autorise-lukraine-a-produire-ses-missiles-a-domicile-20260709_EYUHPK4O35BLNCUOBXKLDCIJ6I/"
       }
     ],
     "id": 14,
@@ -453,20 +429,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "France"
     ],
-    "title": "L'Europe occidentale connaît son juin le plus chaud jamais enregistré",
-    "full": "Le mois de juin 2026 a été le plus chaud jamais observé en Europe occidentale, selon le programme Copernicus. Il s'agit également du deuxième mois de juin le plus chaud au niveau mondial. Cette vague de chaleur, survenue entre le 15 et le 30 juin, a exposé plus des deux tiers des Européens (410 millions de personnes) à des températures dépassant 35 °C et a entraîné des milliers de décès, principalement en France, en Espagne et en Belgique.",
+    "title": "Marine Le Pen : la Cour de cassation vise un jugement avant la présidentielle",
+    "full": "Le procureur général de la Cour de cassation, Rémy Heitz, a confirmé que la juridiction s'efforcerait de rendre sa décision sur le pourvoi de Marine Le Pen avant le scrutin présidentiel, sans garantir de délai. Cette procédure intervient suite à la condamnation en première instance de la présidente du Rassemblement national à une peine d'inéligibilité. Selon le constitutionnaliste Benjamin Morel, le Conseil constitutionnel aura ultimement le pouvoir de trancher sur son éligibilité à la présidentielle, en tenant compte ou non des précédents jurisprudentiels.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Copernicus classe ce mois de juin au deuxième rang mondial des plus chauds.",
-        "url": "https://www.franceinfo.fr/environnement/crise-climatique/l-europe-occidentale-a-enregistre-son-mois-de-juin-le-plus-chaud-jamais-observe_8100335.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Le Monde",
+        "take": "Le procureur général de la Cour de cassation confirme que la juridiction fera tout pour rendre son jugement avant l'élection présidentielle, tout en rappelant que le calendrier dépend aussi des parties.",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/09/la-cour-de-cassation-fera-tout-pour-rendre-sa-decision-avant-le-scrutin-presidentiel-confirme-son-procureur-general-remy-heitz_6722031_823448.html"
       },
       {
-        "outlet": "Le Monde",
-        "take": "La vague de chaleur a provoqué des milliers de décès et affecté la majorité de la population européenne.",
-        "url": "https://www.lemonde.fr/planete/article/2026/07/09/le-mois-de-juin-le-plus-chaud-de-l-histoire-en-europe-occidentale-selon-l-institut-copernicus_6722013_3244.html"
+        "outlet": "France Info",
+        "take": "Un politologue constitutionnaliste souligne que malgré des « vrais doutes » juridiques, c'est finalement le Conseil constitutionnel qui décidera de l'éligibilité de Marine Le Pen.",
+        "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-rendue-ineligible-par-son-pourvoi-en-cassation-je-ne-vois-pas-le-conseil-constitutionnel-lui-interdire-d-etre-candidate-explique-le-politologue-benjamin-morel_8100827.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "Le Figaro Politique",
+        "take": "Plusieurs scénarios judiciaires restent ouverts, et le délai avant scrutin n'est pas certain d'être respecté.",
+        "url": "https://www.lefigaro.fr/politique/plusieurs-scenarios-restent-possibles-apres-le-pourvoi-de-marine-le-pen-selon-le-procureur-general-pres-la-cour-de-cassation-quels-sont-ils-20260709"
       }
     ],
     "id": 15,
@@ -474,20 +455,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Sport"
     ],
-    "title": "L'Ukraine intensifie ses frappes contre les installations russes",
-    "full": "Depuis fin juin, l'Ukraine a lancé une campagne de bombardements massifs contre les infrastructures énergétiques et militaires russes, y compris en Crimée, péninsule annexée en 2014. Cette offensive vise raffineries, centrales électriques et équipements de défense, dans le but de forcer Moscou à négocier. La péninsule, longtemps préservée des combats et devenue destination touristique pour les Russes, connaît désormais le chaos : pénuries de ressources et évacuations de civils s'ajoutent aux impacts directs des attaques.",
+    "title": "La France élimine le Maroc et rejoint les demi-finales",
+    "full": "L'équipe de France s'est qualifiée pour les demi-finales de la Coupe du monde 2026 en battant le Maroc 2-0 en quarts de finale, jeudi à Boston. Kylian Mbappé et Ousmane Dembélé ont inscrit les deux buts de la rencontre après que les Bleus eurent longtemps buté sur une défense marocaine solide, notamment sur le gardien Yassine Bounou.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "La Crimée, considérée comme un joyau stratégique par Poutine, bascule du statut de zone relativement sûre à territoire en proie aux destructions et au désarroi de sa population.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/09/comment-les-ukrainiens-transforment-la-crimee-riviera-des-russes-en-champ-de-bataille_6722007_3210.html"
+        "outlet": "France Info",
+        "take": "Revient sur les buteurs décisifs de la qualification française en quarts de finale.",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/l-equipe-de-france-bat-le-maroc-et-se-qualifie-pour-les-demi-finales-de-la-coupe-du-monde_8101946.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Libération",
-        "take": "L'Ukraine a systématisé ses frappes sur les capacités énergétiques et militaires russes dans une opération coordonnée depuis le 25 juin, dont l'ampleur a été documentée et cartographiée.",
-        "url": "https://www.liberation.fr/checknews/operation-de-40-jours-comment-lukraine-cible-les-infrastructures-energetiques-et-militaires-russes-20260709_73HUTKBPSVG3JDLINCKRG4SA2Q/"
+        "outlet": "France 24",
+        "take": "Souligne la performance défensive du Maroc et la percée tardive de la France pour atteindre le dernier carré.",
+        "url": "https://www.france24.com/fr/sports/20260709-mondial-2026-mbappe-dembele-maroc-france-demi-finale"
       }
     ],
     "id": 16,
@@ -495,21 +476,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France",
-      "Société"
+      "Monde"
     ],
-    "title": "La sénatrice Annick Petrus victime d'un vol à main armée",
-    "full": "La sénatrice LR de Saint-Martin Annick Petrus a été séquestrée à son domicile dans la nuit du mardi 8 au mercredi 9 juillet par des individus armés. Ligotée et bâillonnée, elle a subi un vol à main armée chez elle. Le parquet de Basse-Terre, en Guadeloupe, a ouvert une enquête.",
+    "title": "Le Sénégal invalide sa réforme de l'équilibre des pouvoirs",
+    "full": "Le Conseil constitutionnel sénégalais a rejeté jeudi une réforme institutionnelle adoptée la semaine précédente par l'Assemblée nationale. Ce texte, porté par le parti Pastef majoritaire, visait à modifier l'équilibre des pouvoirs entre la présidence et le Parlement. Cette invalidation intervient dans un contexte de tensions croissantes entre le président Bassirou Diomaye Faye et le chef de l'Assemblée nationale Ousmane Sonko.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Insiste sur les circonstances de la séquestration, en détaillant les conditions physiques imposées à l'élue.",
-        "url": "https://www.20minutes.fr/faits_divers/4233673-20260709-antilles-senatrice-annick-petrus-ligotee-baillonnee-sequestree-domicile?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "La réforme rejetée s'inscrivait dans un conflit institutionnel direct opposant le camp présidentiel au chef du Parlement depuis plusieurs semaines.",
+        "url": "https://www.lemonde.fr/afrique/article/2026/07/10/au-senegal-le-conseil-constitutionnel-invalide-la-reforme-revisant-l-equilibre-des-pouvoirs-entre-president-et-assemblee_6722178_3212.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Qualifie l'incident comme un vol à main armée et précise que le parquet de Basse-Terre a confirmé les faits.",
-        "url": "https://www.liberation.fr/politique/sequestree-ligotee-et-baillonnee-la-senatrice-de-lile-saint-martin-annick-petrus-victime-dun-vol-a-main-armee-chez-elle-20260709_VCHVLCPBOZDNTNXC4XNZ3YBKZY/"
+        "outlet": "France 24",
+        "take": "Cette décision du Conseil constitutionnel représente le dernier épisode d'un affrontement politique entre le président et l'Assemblée nationale sur le partage des pouvoirs.",
+        "url": "https://www.france24.com/fr/afrique/20260709-le-conseil-constitutionnel-s%C3%A9n%C3%A9galais-invalide-la-r%C3%A9forme-r%C3%A9visant-l-%C3%A9quilibre-des-pouvoirs"
       }
     ],
     "id": 17,
@@ -517,21 +497,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société",
-      "Santé"
+      "Sport"
     ],
-    "title": "Canicule : aucune obligation légale de climatisation pour les bailleurs",
-    "full": "Contrairement au chauffage, la loi n'impose pas aux propriétaires bailleurs d'installer une climatisation ou de protéger leurs locataires de la chaleur extrême. Cette absence de cadre légal soulève des questions après le décès d'une femme de 94 ans à Sceaux (Hauts-de-Seine), survenu après un an sans volets dans son appartement, malgré ses alertes auprès du bailleur et de la mairie. La situation met en lumière un vide juridique face aux risques que représentent les vagues de chaleur pour les personnes vulnérables.",
+    "title": "La France se qualifie pour les demi-finales de la Coupe du monde",
+    "full": "L'équipe de France a remporté son quart de finale contre le Maroc sur le score de 2 à 0, jeudi à Boston. Les buts ont été marqués par Kylian Mbappé et Ousmane Dembélé. Les Bleus affronteront mardi le vainqueur de la rencontre entre l'Espagne et la Belgique pour une place en finale du tournoi.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Alors que le chauffage est obligatoire pour les bailleurs, aucune disposition légale ne les contraint à fournir une protection contre la chaleur excessive.",
-        "url": "https://www.20minutes.fr/societe/4233290-20260709-canicule-peut-obliger-proprietaire-installer-climatisation-appartement-fait-trop-chaud?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Souligne l'enthousiasme des supporteurs français face à la victoire et à la qualification pour le dernier carré.",
+        "url": "https://www.lemonde.fr/sport/live/2026/07/09/en-direct-france-maroc-le-quart-de-finale-de-la-coupe-du-monde-entre-les-bleus-et-les-lions-de-l-atlas-va-commencer_6722128_3242.html"
       },
       {
         "outlet": "France Info",
-        "take": "Un décès lié à la canicule met en évidence l'inefficacité des signalements face à l'inaction des propriétaires et des autorités locales.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-une-femme-de-94-ans-est-morte-dans-un-appartement-sans-volets_8100077.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Met en avant le rôle décisif du duo offensif Mbappé-Dembélé dans cette victoire.",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-equipe-de-france-affronte-le-maroc-a-22-heures-pour-une-place-en-demi-finale-suivez-le-match-avec-nous_8099543.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 18,
@@ -539,21 +518,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement",
-      "Société"
+      "Économie"
     ],
-    "title": "Un incendie menace une usine d'armement classée Seveso près de Bourges",
-    "full": "Un feu de forêt s'est déclaré mercredi dans le Cher et a parcouru 500 hectares près de Bourges, menaçant un site de production d'armement classé Seveso seuil haut. Environ cent habitants ont été évacués par précaution en raison des risques d'explosion et d'incendie. Selon la préfecture, le danger d'explosion a été écarté.",
+    "title": "La Banque de France relève sa prévision de croissance au deuxième trimestre",
+    "full": "La Banque de France a revu à la hausse sa prévision de croissance du produit intérieur brut pour le deuxième trimestre 2026, la portant à 0,2 %. Cette amélioration est soutenue par le dynamisme du secteur industriel et des services, malgré les conditions météorologiques difficiles de juin. Cette révision rapproche la trajectoire de croissance annuelle de la prévision gouvernementale de 0,7 % pour l'année 2026.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Souligne que les autorités ont écarté le risque d'explosion malgré la proximité immédiate du sinistre avec l'installation classée.",
-        "url": "https://www.liberation.fr/environnement/un-incendie-dans-le-cher-se-declare-vers-un-site-de-production-darmement-classe-seveso-le-risque-dexplosion-ecarte-20260708_XV2WPNVH6VDUJMP7DXFFFNI734/"
+        "outlet": "France Info",
+        "take": "La révision à la hausse de la croissance trimestrielle pourrait permettre d'atteindre l'objectif annuel de croissance du gouvernement.",
+        "url": "https://www.franceinfo.fr/economie/croissance/la-banque-de-france-releve-sa-prevision-de-croissance-a-0-2-au-deuxieme-trimestre_8101745.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "France Info",
-        "take": "Met l'accent sur l'ampleur du feu (500 hectares) et l'évacuation de cent habitants comme mesure de sécurité.",
-        "url": "https://www.franceinfo.fr/france/centre-val-de-loire/cher/un-incendie-dans-le-cher-menace-un-site-de-production-d-armement-classe-seveso-seuil-haut_8100125.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "20 Minutes",
+        "take": "L'industrie et les services sont les moteurs de cette amélioration, qui survient malgré les défis climatiques de l'été.",
+        "url": "https://www.20minutes.fr/economie/4233891-20260709-bonne-nouvelle-banque-france-peu-plus-optimiste-croissance-deuxieme-trimestre?at_medium=display&at_campaign=149"
       }
     ],
     "id": 19,
@@ -561,20 +539,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Environnement"
     ],
-    "title": "Mondial 2026 : Facundo Tello arbitrera France-Maroc en quarts",
-    "full": "La FIFA a désigné l'arbitre argentin Facundo Tello pour diriger le quart de finale France-Maroc du Mondial 2026, prévu jeudi 9 juillet. Cette nomination suscite des débats, notamment en raison de la nationalité de l'arbitre. Interrogé en conférence de presse, Didier Deschamps, entraîneur de l'équipe de France, a refusé d'alimenter la polémique et a appelé à faire confiance au corps arbitral de la compétition.",
+    "title": "La Cour des comptes critique l'inaction de l'État contre les algues vertes",
+    "full": "La Cour des comptes dénonce dans un nouveau rapport les efforts insuffisants de l'État pour lutter contre les algues vertes en Bretagne, cinq ans après une première critique sévère. Si certaines baies ont bénéficié d'actions, les vasières, qui concentrent plus de la moitié des échouages, ont été largement négligées. Plusieurs centaines de tonnes d'algues vertes se sont accumulées depuis juin sur le littoral breton, notamment dans les baies de Saint-Brieuc et de Douarnenez.",
     "angles": [
       {
-        "outlet": "France 24",
-        "take": "La désignation de Tello est très commentée et Deschamps préfère ne pas entrer dans le débat, invitant plutôt à la confiance envers les arbitres.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260708-mondial-2026-l-arbitrage-france-maroc-fait-d%C3%A9j%C3%A0-d%C3%A9bat-la-r%C3%A9action-de-deschamps"
+        "outlet": "Libération",
+        "take": "La juridiction financière pointe les mesures partielles mises en œuvre : des progrès dans certaines baies, mais un manque de stratégie globale concernant les vasières.",
+        "url": "https://www.liberation.fr/environnement/agriculture/algues-vertes-la-cour-des-comptes-critique-de-nouveau-les-demi-mesures-de-letat-20260709_X4OXSTUDIFBVLMUMKMGGR6MI7Q/"
       },
       {
-        "outlet": "France Info",
-        "take": "L'entraîneur des Bleus commente la nomination de cet arbitre argentin pour le match de mercredi.",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/mondial-2026-didier-deschamps-reagit-a-la-nomination-d-un-arbitre-argentin-pour-le-match-de-quart-de-finale_8100170.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Reporterre",
+        "take": "Le rapport souligne l'absence de stratégie cohérente face à un phénomène qui s'intensifie, avec des échouages massifs sur le littoral depuis plusieurs semaines.",
+        "url": "https://reporterre.net/Algues-vertes-la-Cour-des-Comptes-critique-encore-et-toujours-les-carences-de-l-Etat"
       }
     ],
     "id": 20,
@@ -584,18 +562,18 @@ const ARTICLES = [
     "themes": [
       "Société"
     ],
-    "title": "Un tribunal ordonne à Vaulx-en-Velin de retirer le drapeau palestinien",
-    "full": "Le tribunal administratif a ordonné à la mairie de Vaulx-en-Velin (Rhône) de retirer le drapeau palestinien qu'elle avait hissé sur son fronton. Le drapeau avait été installé samedi lors d'un festival consacré à la situation en Palestine. Le maire, Abdelkader Lahmar, a indiqué que la commune contesterait cette décision en attendant le jugement au fond.",
+    "title": "Recrutement enseignants 2026 : hausse des admis, persistance des fragilités",
+    "full": "La session 2026 des concours de recrutement d'enseignants enregistre un bond de près de 50 % du nombre d'admis, avec 24 351 candidats reçus contre 16 311 l'année précédente. Ce rebond est attribué à la réforme de la formation qui élargit l'accès aux concours aux titulaires d'un bac + 3. Cependant, le taux de postes pourvus reste inégal selon les disciplines, et les fragilités du recrutement persistent. Cette transition marque aussi une période particulière où ancien et nouveau systèmes cohabitent encore jusqu'en 2027.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "Le maire conteste l'ordonnance et affirme maintenir le drapeau en place jusqu'au jugement définitif.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/08/la-justice-ordonne-a-la-mairie-lfi-de-vaulx-en-velin-de-retirer-le-drapeau-palestinien-de-son-fronton_6721897_823448.html"
+        "take": "Malgré une nette diminution des postes vacants, le taux de pourvoi ne règle pas l'ensemble des problèmes structurels du recrutement enseignant.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/09/concours-enseignants-2026-avec-la-reforme-une-nette-diminution-des-postes-vacants-mais-des-fragilites-de-recrutement-persistantes_6722125_3224.html"
       },
       {
         "outlet": "Libération",
-        "take": "Le préfet avait saisi le tribunal administratif peu après le hissage du drapeau lors du festival.",
-        "url": "https://www.liberation.fr/politique/la-justice-ordonne-a-la-mairie-insoumise-de-vaulx-en-velin-proche-de-lyon-de-retirer-le-drapeau-palestinien-20260708_YSEUJOJYCZBYJIUVAXLGKDPOOA/"
+        "take": "Le ministère de l'Éducation attribue cette augmentation des admis à sa réforme, mais souligne le caractère transitoire de cette session avec la coexistence de deux systèmes.",
+        "url": "https://www.liberation.fr/societe/education/recrutements-des-enseignants-pourquoi-le-nombre-dadmis-aux-concours-a-bondi-de-pres-de-50-20260709_IBBFPP6Y5ZHCPBD5ONGO7R7ZJY/"
       }
     ],
     "id": 21,
@@ -603,20 +581,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Monde"
     ],
-    "title": "Arthur Féry en demi-finale de Wimbledon 2026",
-    "full": "Le franco-britannique Arthur Féry, 23 ans, s'est qualifié pour la demi-finale du tournoi de Wimbledon en écartant Flavio Cobolli. Il affrontera Alexander Zverev pour une place en finale. Né dans les Hauts-de-Seine et diplômé de Stanford, Féry atteint pour la première fois un dernier carré d'un Grand Chelem.",
+    "title": "Un incendie dans une usine de chaussures fait au moins 28 morts en Chine",
+    "full": "Un incendie s'est déclaré dans une usine de chaussures en Chine, faisant au moins 28 morts. Plusieurs personnes sont restées piégées à l'intérieur pendant plusieurs heures après le début du sinistre. Près de 200 pompiers et secouristes ont été mobilisés pour les opérations de sauvetage. Le président Xi Jinping a exprimé sa crainte face aux pertes humaines causées par le drame.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Souligne que le jeune joueur a opté pour la nationalité britannique plutôt que française.",
-        "url": "https://www.20minutes.fr/sport/tennis/4233648-20260708-wimbledon-2026-arthur-fery-demi-finale-dommage-choisi-france?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Met l'accent sur le bilan des victimes et la mobilisation massive des secours pour extraire les personnes piégées.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/09/en-chine-un-incendie-fait-au-moins-28-morts-dans-une-usine-de-chaussures_6722114_3210.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Relève que malgré ses origines françaises, Féry représente la Grande-Bretagne à Wimbledon, ce qui en fait techniquement une présence française en retrait.",
-        "url": "https://www.liberation.fr/sports/ne-dans-les-hauts-de-seine-encourage-par-kate-middleton-diplome-de-stanford-arthur-fery-la-surprise-a-moitie-frenchie-de-wimbledon-20260707_JGSW7SOKCZCH5P2F35JVBD2TPM/"
+        "outlet": "France Info",
+        "take": "Souligne la réaction du président Xi Jinping face à cet événement tragique.",
+        "url": "https://www.franceinfo.fr/monde/chine/chine-un-incendie-mortel-dans-une-usine-de-chaussures-fait-des-dizaines-de-morts_8101811.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 22,
@@ -624,20 +602,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "France",
+      "Société"
     ],
-    "title": "The Pitt et Hacks dominent les nominations aux Emmy Awards",
-    "full": "Les séries The Pitt et Hacks arrivent en tête des nominations pour la 78e cérémonie des Emmy Awards, qui se déroulera le 14 septembre à Los Angeles. L'actrice Mariska Hargitay, connue pour son rôle dans New York Unité spéciale, présentera la cérémonie, retransmise en direct sur NBC.",
+    "title": "Une pétition contre l'immunité des policiers dépasse 500 000 signatures",
+    "full": "Une pétition contre la présomption d'usage légitime des armes par les forces de l'ordre a franchi la barre des 500 000 signatures sur le site de l'Assemblée nationale. Le texte, approuvé par les députés mardi, doit être examiné au Sénat. Les opposants au projet de loi craignent qu'il ne limite les enquêtes sur la conformité des tirs et estiment qu'il assimile à un « permis de tuer ». Associations, juristes et élus de la Nupes dénoncent cette mesure.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Mariska Hargitay animera la cérémonie retransmise sur NBC.",
-        "url": "https://www.franceinfo.fr/culture/series/emmy-awards/the-pitt-et-hacks-en-tete-des-nominations-aux-emmy-awards-2026_8099852.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "La présidente du groupe LFI à l'Assemblée a demandé l'ouverture d'un débat parlementaire sur cette disposition.",
+        "url": "https://www.franceinfo.fr/faits-divers/police/une-petition-contre-la-presomption-d-usage-legitime-des-armes-par-les-forces-de-l-ordre-depasse-les-500-000-signatures_8101475.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Le Monde",
-        "take": "La cérémonie aura lieu à Los Angeles et mettra à l'honneur une actrice emblématique de la télévision américaine.",
-        "url": "https://www.lemonde.fr/culture/article/2026/07/08/emmy-awards-les-series-the-pitt-et-hacks-en-tete-des-nominations_6721881_3246.html"
+        "take": "Les critiques pointent le risque que cette présomption d'usage légitime ne paralyse les enquêtes judiciaires vérifiant la conformité des interventions policières.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/09/presomption-d-usage-legitime-des-armes-pour-les-forces-de-l-ordre-une-petition-sur-le-site-de-l-assemblee-nationale-depasse-les-500-000-signatures_6722097_3224.html"
       }
     ],
     "id": 23,
@@ -645,20 +624,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "Société"
     ],
-    "title": "Incendie majeur dans les Pyrénées-Orientales, 5 000 hectares ravagés",
-    "full": "Un incendie de grande ampleur ravage les Pyrénées-Orientales depuis plusieurs jours, ayant déjà consumé près de 5 000 hectares. Plusieurs villages ont été évacués mercredi 8 juillet. Les pompiers font face à de nombreuses reprises de feu et peinent à maîtriser la situation. Selon un chercheur de l'Inrae, cette taille de sinistre constitue déjà un feu extrême pour le sud de la France.",
+    "title": "La cour d'appel ordonne des investigations sur les sources de Disclose",
+    "full": "Une cour d'appel a ordonné mercredi la reprise des investigations portant sur les sources du média d'investigation Disclose. L'enquête concerne des articles publiés sur des ventes d'armes françaises à l'étranger. Ariane Lavrilleux, journaliste du média, et l'ingénieur militaire présenté comme lanceur d'alerte contestent toute infraction. Disclose et Reporters sans frontières dénoncent une « traque des sources » destinée à intimider les lanceurs d'alerte.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "L'incendie atteint une ampleur exceptionnelle pour le sud du pays, qualifiée de « feu extrême » par les experts.",
-        "url": "https://www.20minutes.fr/societe/4233578-20260708-incendie-pyrenees-orientales-taille-deja-feu-extreme-sud-france?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Ariane Lavrilleux n'a jamais été mise en examen dans ce dossier et conteste les infractions reprochées.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/09/disclose-la-cour-d-appel-ordonne-la-reprise-des-investigations-sur-les-sources-du-media-qui-appelle-a-se-mobiliser-contre-une-traque_6722090_3224.html"
       },
       {
-        "outlet": "France Info",
-        "take": "Les pompiers font face à des reprises constantes de feu et à une progression très rapide qui menace les habitations.",
-        "url": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/pyrenees-orientales-les-incendies-sevissent-toujours_8100059.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Libération",
+        "take": "Le média et l'organisation RSF qualifient cette décision de tentative pour « faire peur » aux lanceurs d'alerte.",
+        "url": "https://www.liberation.fr/societe/police-justice/operation-sirli-en-egypte-disclose-et-rsf-appellent-a-se-mobiliser-contre-la-traque-des-sources-20260709_RCKZLMJE7VHANNZLTEBQJLYWK4/"
       }
     ],
     "id": 24,
@@ -669,18 +648,18 @@ const ARTICLES = [
       "Économie",
       "Environnement"
     ],
-    "title": "Canicule : la SNCF annule des trains pendant les départs en vacances",
-    "full": "La SNCF supprime des trains en raison des fortes chaleurs de la troisième vague de canicule. Un quart des départs Intercités sont annulés les 8 et 9 juillet, ainsi que quelques TGV. Des annulations de TER ont également été décidées dans les régions les plus affectées. Ces perturbations interviennent en pleine période de départs en vacances.",
+    "title": "France modernise sa flotte de bombardiers d'eau face aux incendies",
+    "full": "La France accélère le renouvellement de ses moyens aériens de lutte contre les incendies, sa flotte actuelle (Canadair, Dash, avions bombardiers) vieillissant. L'Union européenne prévoit l'acquisition de 22 nouveaux bombardiers d'eau dont la France bénéficiera, tandis que Paris envisage 4 nouveaux Canadair opérationnels d'ici 2033. Airbus et une start-up développent aussi de nouvelles solutions pour moderniser ces capacités.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "La SNCF ne communique pas précisément sur le nombre de TGV supprimés ni sur les lignes impactées.",
-        "url": "https://www.lemonde.fr/economie/article/2026/07/08/departs-en-vacances-en-raison-de-la-canicule-la-sncf-annule-des-trains-y-compris-quelques-tgv_6721857_3234.html"
+        "outlet": "Le Figaro Éco",
+        "take": "L'UE lance un programme collectif de 22 bombardiers d'eau et Airbus s'engage dans des projets de renouvellement technologique.",
+        "url": "https://www.lefigaro.fr/conjoncture/flotte-vieillissante-nouveaux-canadair-en-attente-face-aux-incendies-la-course-contre-la-montre-de-la-france-pour-augmenter-ses-moyens-aeriens-20260709"
       },
       {
-        "outlet": "France Info",
-        "take": "La vague de canicule crée des dysfonctionnements importants du trafic ferroviaire au moment des vacances d'été.",
-        "url": "https://www.franceinfo.fr/economie/transports/sncf/sncf-coup-de-chaud-sur-les-departs-en-vacances-de-nombreux-trains-supprimes_8100050.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "France 24",
+        "take": "La France vise 4 nouveaux Canadair en service à l'horizon 2033 pour remplacer sa flotte vieillissante.",
+        "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260709-de-quels-moyens-mat%C3%A9riels-dispose-la-france-pour-lutter-contre-les-incendies"
       }
     ],
     "id": 25,
@@ -688,21 +667,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie",
-      "Santé"
+      "Culture"
     ],
-    "title": "Crèmes solaires non conformes vendues sur les plateformes chinoises",
-    "full": "Une association de consommateurs alerte sur la vente de crèmes solaires défectueuses sur Temu, Shein et AliExpress. Sur dix produits testés, neuf ne respectent pas les normes européennes ou n'offrent pas une protection UV adéquate, malgré des prix très bas, parfois inférieurs à 3 euros. L'association qualifie ces résultats des pires jamais enregistrés lors de ses tests.",
+    "title": "Décès de la chanteuse Bonnie Tyler à 75 ans",
+    "full": "Bonnie Tyler, chanteuse britannique connue pour ses tubes « It's a Heartache » et « Total Eclipse of the Heart », est décédée le 9 juillet à l'âge de 75 ans. Elle avait été placée dans un coma artificiel au Portugal après une opération d'urgence, selon l'annonce de sa famille et son équipe jeudi sur Facebook. Interprète reconnaissable à sa voix éraillée caractéristique, elle avait représenté le Royaume-Uni au concours de l'Eurovision en 2013.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Les crèmes solaires en question ne seraient pas conformes aux règles européennes et ne protégeraient pas correctement contre le soleil.",
-        "url": "https://www.franceinfo.fr/sante/une-association-de-consommateurs-alerte-quant-aux-cremes-solaires-vendues-sur-les-plateformes-chinoises_8099537.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Met l'accent sur les circonstances médicales de sa mort, intervenue après une intervention d'urgence au Portugal.",
+        "url": "https://www.franceinfo.fr/culture/la-chanteuse-britannique-bonnie-tyler-est-morte-a-l-age-de-75-ans_8100914.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Reporterre",
-        "take": "Sur dix crèmes testées achetées à bas prix sur ces plateformes, neuf présentent des défaillances représentant les pires résultats jamais observés par l'association depuis des années.",
-        "url": "https://reporterre.net/Des-cremes-solaires-dangereuses-vendues-sur-Shein-Temu-et-AliExpress"
+        "outlet": "Le Monde",
+        "take": "Souligne sa carrière musicale et ses succès internationaux, ainsi que sa participation à l'Eurovision à un âge avancé.",
+        "url": "https://www.lemonde.fr/disparitions/article/2026/07/09/bonnie-tyler-chanteuse-galloise-a-l-inimitable-voix-eraillee-est-morte_6722058_3382.html"
       }
     ],
     "id": 26,
@@ -710,15 +688,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "France",
+      "Société"
     ],
-    "title": "Le Firkin, parodie ludique du sac Birkin d'Hermès, cartonne en ligne",
-    "full": "Un sac baptisé Firkin, version humoristique et bon marché du célèbre Birkin d'Hermès, rencontre un succès croissant sur les réseaux sociaux en 2026. Contrairement au modèle de luxe, réputé pour ses prix astronomiques et ses listes d'attente interminables, cette alternative joue délibérément sur la dérision et l'accessibilité, séduisant une audience en quête de style sans rupture de budget.",
+    "title": "Nouveau projet de loi contre le racisme et l'antisémitisme",
+    "full": "La ministre Aurore Bergé a présenté jeudi un projet de loi de lutte contre le racisme et l'antisémitisme en conseil des ministres, que le gouvernement souhaite faire adopter avant la fin de l'année. Ce texte intervient après l'échec de la proposition de loi Yadan, retirée en avril après des critiques pour avoir créé des délits d'opinion.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Le Firkin propose une version amusante et beaucoup moins onéreuse que le Birkin d'Hermès, devenant viral auprès des internautes.",
-        "url": "https://www.20minutes.fr/tempo/style/4233122-20260709-revez-avoir-sac-birkin-trop-cher-firkin-trouve-alternative-cool-stylee?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Le gouvernement privilégie l'apaisement avec ce nouveau projet, après l'impasse législative du printemps.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/09/projet-de-loi-de-lutte-contre-le-racisme-et-l-antisemitisme-apres-l-echec-de-la-loi-yadan-le-gouvernement-cherche-l-apaisement_6722106_3224.html"
+      },
+      {
+        "outlet": "Le Figaro Politique",
+        "take": "Le texte cible spécifiquement les violences antisémites, en réaction aux signalements croissants contre les communautés juives.",
+        "url": "https://www.lefigaro.fr/politique/des-juifs-sont-pris-pour-cible-ce-que-contient-le-nouveau-projet-de-loi-de-lutte-contre-le-racisme-et-l-antisemitisme-20260709"
       }
     ],
     "id": 27,
@@ -726,16 +710,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite",
-      "Tech & Sciences"
+      "Culture"
     ],
-    "title": "Une tombe chinoise révèle un rituel funéraire oublié depuis deux mille ans",
-    "full": "Des archéologues ont découvert dans une sépulture chinoise du VIIe siècle avant notre ère des objets en bronze dispersés de manière singulière, révélant l'existence de pratiques rituelles funéraires jusqu'alors inconnues. La configuration de ces artefacts suggère des rites complexes liés à l'au-delà, perdus depuis l'Antiquité et que les fouilles permettent désormais de reconstituer partiellement.",
+    "title": "Les Rencontres de la photographie d'Arles célèbrent le regard sur les animaux",
+    "full": "Le festival arlésien propose cette année un panorama éclectique avec 47 expositions officielles et 150 lieux du Off. L'exposition « Modèle animal » revient sur deux siècles de photographie animalière, montrant comment cet art a transformé la relation entre l'homme et les animaux. Organisée en sept chapitres, elle explore différentes postures : observer, classer, domestiquer, aimer, exploiter ou défendre les bêtes, en évitant à la fois les clichés sentimentaux et l'héroïsation du genre.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "La dispersion stratégique d'objets en bronze dans la tombe indique des rituels funéraires sophistiqués pratiqués en Chine ancienne, oubliés pendant plus de deux millénaires.",
-        "url": "https://www.slate.fr/sciences/ouverture-tombe-chinoise-archeologues-etrange-rituel-oublie-millenaires-cloches-chine-guerre-paix-au-dela"
+        "outlet": "France Info",
+        "take": "Met l'accent sur l'ampleur du Off avec ses 150 lieux d'exposition qui enrichissent l'offre officielle de 47 expositions.",
+        "url": "https://www.franceinfo.fr/culture/arts-expos/photographie/rencontres-de-la-photographie-d-arles-cinq-echappees-dans-le-festival-off_8097953.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Détaille le contenu de l'exposition principale « Modèle animal » et sa démarche historique et critique envers la photographie animalière.",
+        "url": "https://www.lemonde.fr/culture/article/2026/07/09/aux-rencontres-de-la-photographie-d-arles-modele-animal-ou-deux-siecles-de-regards-sur-les-betes_6722129_3246.html"
       }
     ],
     "id": 28,
@@ -743,15 +731,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Santé",
+      "Société"
     ],
-    "title": "Un doudou galette-saucisse pour promouvoir la culture gallèse",
-    "full": "La marque de vêtements Bertons a lancé un doudou à l'effigie de la galette-saucisse, spécialité culinaire bretonne emblématique de la région gallèse. Cette peluche, qui cartonne auprès des consommateurs, vise à valoriser la culture locale moins médiatisée que d'autres traditions bretonnes. Un pari commercial original pour promouvoir un symbole gastronomique régional.",
+    "title": "Trois Français sur dix ne savent pas nager, les noyades s'aggravent",
+    "full": "Alors que la France connaît une canicule, les noyades se multiplient : plus de 90 décès ont été enregistrés en un mois, dépassant déjà le bilan de l'année précédente à la même période. Selon France Info, trois Français sur dix déclarent ne pas savoir nager. Secouristes et maîtres-nageurs s'alarment d'une dégradation des compétences natatoires chez les Français, notamment en cette saison estivale où les accès à l'eau se multiplient.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "L'initiative met l'accent sur la volonté de faire connaître la culture gallèse à travers un objet ludique incarnant une spécialité culinaire locale très populaire.",
-        "url": "https://www.20minutes.fr/tempo/4233421-20260709-bretagne-delicieuse-galette-saucisse-desormais-doudou-ca-cartonne?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "Relie l'augmentation des noyades à la canicule et souligne que les compétences natatoires des Français se dégradent, selon les professionnels du secours et de la natation.",
+        "url": "https://www.franceinfo.fr/faits-divers/noyades/noyades-trois-francais-sur-dix-declarent-ne-pas-savoir-nager-comment-l-expliquer_8101796.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 29,
@@ -759,16 +748,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France",
-      "Société"
+      "Insolite"
     ],
-    "title": "Nouvelle loi sur l'usage des armes par les policiers adoptée malgré les critiques",
-    "full": "L'Assemblée nationale a adopté mardi un texte modifiant le régime juridique de l'usage des armes à feu par les forces de l'ordre. Le projet de loi prévoit que les policiers et gendarmes soient systématiquement « présumés avoir agi » dans le cadre légal lorsqu'ils font usage de leur arme. Cette disposition suscite des oppositions au-delà des seules formations de gauche, soulevant des inquiétudes sur les garanties offertes aux citoyens en cas d'incident.",
+    "title": "Val-d'Oise : un braquage spectaculaire au tractopelle",
+    "full": "Une dizaine d'hommes cagoulés ont dérobé un coffre-fort rempli de métaux précieux lors d'un raid nocturne dans une entreprise du Val-d'Oise. Les malfaiteurs ont forcé l'accès aux lieux avec un tractopelle avant de prendre la fuite. Le butin est estimé à plusieurs centaines de milliers d'euros.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Le projet crée une présomption légale en faveur des forces de l'ordre lors de l'usage des armes à feu, cristallisant les critiques bien au-delà des oppositions habituelles.",
-        "url": "https://www.franceinfo.fr/faits-divers/police/un-permis-de-tuer-pour-les-policiers-pourquoi-le-projet-de-loi-sur-l-usage-des-armes-a-feu-par-les-forces-de-l-ordre-suscite-un-tolle-bien-au-dela-de-la-gauche_8099483.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Met l'accent sur le caractère spectaculaire du modus operandi utilisant un engin de chantier pour forcer l'accès.",
+        "url": "https://www.franceinfo.fr/faits-divers/braquage/metaux-precieux-braquage-au-bulldozer_8101772.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 30,
@@ -777,15 +765,15 @@ const ARTICLES = [
   {
     "themes": [
       "Insolite",
-      "Environnement"
+      "Tech & Sciences"
     ],
-    "title": "Un crabe géant découvert prisonnier d'une minuscule bouteille plastique",
-    "full": "Des chercheurs ont élucidé le mystère d'un crabe nageur trouvé au large du Japon, emprisonné dans une petite bouteille plastique. L'animal s'y était introduit alors qu'il était juvénile et avait grandi à l'intérieur, incapable de s'échapper. Cette découverte révèle un effet méconnu de la pollution plastique océanique sur la faune marine, montrant comment les débris peuvent piéger les créatures en croissance.",
+    "title": "D'un stage aux toilettes spatiales à la direction de l'exploration martienne",
+    "full": "Claire Parfitt, actuellement responsable de la planification de l'exploration martienne à l'Agence spatiale européenne, a commencé sa carrière en tant que stagiaire chargée du nettoyage des toilettes spatiales. Ce premier emploi d'observation, loin d'être un obstacle, a ouvert les portes de l'agence spatiale à celle qui pilote désormais les grands projets d'exploration de la planète rouge.",
     "angles": [
       {
         "outlet": "Slate",
-        "take": "Des chercheurs ont déterminé comment ce crabe avait pu se retrouver coincé dans sa prison de plastique et rester bloqué malgré sa croissance.",
-        "url": "https://www.slate.fr/sciences/chercheurs-resolu-enigme-gros-crabe-piege-bouteille-plastique-pollution-oceans-japon"
+        "take": "Slate souligne le parcours atypique de cette responsable, passée du nettoyage des installations sanitaires spatiales à la direction stratégique de missions martiennes.",
+        "url": "https://www.slate.fr/sciences/toilettes-spatiales-stage-exploration-mars-espace-planete-europe-agence-spatiale-claire-parfitt"
       }
     ],
     "id": 31,
@@ -793,16 +781,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences",
       "Insolite"
     ],
-    "title": "Le futur télescope SKA pourrait détecter des civilisations extraterrestres",
-    "full": "Le réseau de radiotélescopes SKA (Square Kilometre Array), actuellement en construction, devrait permettre de détecter des civilisations extraterrestres sans que celles-ci ne cherchent délibérément à communiquer. Grâce à une sensibilité jamais atteinte jusqu'à présent, cet instrument pourra capter les faibles émissions radio produites par les technologies d'éventuelles sociétés spatiales, au-delà des simples messages intentionnels.",
+    "title": "Les footballeurs du Mondial 2026 adoptent les chaussettes découpées",
+    "full": "Une pratique insolite gagne du terrain chez les joueurs de football : découper partiellement leurs chaussettes. Cette astuce, censée améliorer le confort et la sensation de contact avec le ballon, se propage notamment en vue du Mondial 2026. Les bénéfices revendiqués restent cependant difficiles à valider scientifiquement, et son adoption relève davantage d'une tendance entre joueurs que d'une innovation prouvée.",
     "angles": [
       {
         "outlet": "Slate",
-        "take": "Le SKA ouvre une nouvelle voie à la recherche de vie intelligente en détectant les « bruits » technologiques involontaires des civilisations extraterrestres.",
-        "url": "https://www.slate.fr/sciences/telescope-detecter-civilisations-extraterrestres-contacter-silence-signal-espace-vie-radio-intelligence-artificielle-ska-antennes"
+        "take": "L'astuce cherche à accroître le confort et les performances des footballeurs, mais sans fondement scientifique établi.",
+        "url": "https://www.slate.fr/sports/chaussettes-coupees-mondial-football-science-benefice-performances"
       }
     ],
     "id": 32,
@@ -810,18 +797,68 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Santé",
+      "Environnement"
     ],
-    "title": "Un supermarché du New Jersey partiellement effondré",
-    "full": "Le toit d'un supermarché s'est partiellement écroulé lundi dans le New Jersey après des pluies diluviennes. Vingt-sept personnes se trouvaient à l'intérieur au moment de l'effondrement, mais aucune n'a été blessée. Le bruit de la chute a été décrit comme un fracas violent.",
+    "title": "Un service public de la fraîcheur face aux canicules ?",
+    "full": "Slate propose que l'État français crée un service public dédié à la protection contre la chaleur extrême pour l'ensemble de la population. Actuellement, seuls les salariés et les personnes âgées inscrites sur un registre bénéficient d'une protection légale encadrée contre les canicules. Cette lacune représente un enjeu majeur à mesure que les vagues de chaleur s'intensifient en France.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "L'effondrement partiel du toit s'est produit sans faire de victimes malgré la présence de nombreux clients et employés.",
-        "url": "https://www.20minutes.fr/arts-stars/insolite/4233573-20260708-bruit-tonnerre-fracassant-toit-supermarche-effondre-faire-victimes?at_medium=display&at_campaign=149"
+        "outlet": "Slate",
+        "take": "L'absence d'un cadre de protection universelle face à la chaleur constitue une faille du droit français et demande une intervention publique organisée.",
+        "url": "https://www.slate.fr/societe/canicule-etat-francais-devrait-creer-service-public-fraicheur-meteo-chaleur-rechauffement-climatique-droit-international-constitution-protection-population"
       }
     ],
     "id": 33,
     "priority": 34
+  },
+  {
+    "themes": [
+      "Insolite"
+    ],
+    "title": "Douze destinations encore préservées du tourisme de masse",
+    "full": "20 Minutes propose un classement de lieux touristiques restés à l'écart de l'afflux massif de visiteurs, où subsistent calme et authenticité. Ces destinations maintiennent un rapport au voyage plus mesuré, contrastant avec les sites saturés où la préservation des sites devient un enjeu.",
+    "angles": [
+      {
+        "outlet": "20 Minutes",
+        "take": "Met en avant des lieux touristiques restant préservés du surfrequentation, valorisant une forme de voyage plus authentique et mesurée.",
+        "url": "https://www.20minutes.fr/tempo/escapade/4233481-20260709-top-12-destinations-paradisiaques-encore-preservees-tourisme-masse?at_medium=display&at_campaign=149"
+      }
+    ],
+    "id": 34,
+    "priority": 35
+  },
+  {
+    "themes": [
+      "Santé",
+      "Société"
+    ],
+    "title": "Décès d'une femme de 94 ans lors de la canicule",
+    "full": "Une femme âgée de 94 ans est décédée de la chaleur dans son appartement parisien durant la vague de canicule. Son logement était dépourvu de volets depuis un an, après leur dépose lors de travaux de rénovation. Ses proches avaient alerté à plusieurs reprises sur les risques de cette situation avant son décès.",
+    "angles": [
+      {
+        "outlet": "France Info",
+        "take": "Souligne que le manque de protection solaire (absence de volets) a exposé la victime à des températures extrêmes, alors que des avertissements avaient déjà été lancés par l'entourage.",
+        "url": "https://www.franceinfo.fr/faits-divers/canicule-elle-meurt-dans-son-appartement-sans-volets_8100812.html#xtor=RSS-3-%5Bgeneral%5D"
+      }
+    ],
+    "id": 35,
+    "priority": 36
+  },
+  {
+    "themes": [
+      "Insolite"
+    ],
+    "title": "Le Firkin, version humoristique et accessible du Birkin d'Hermès",
+    "full": "Le Firkin fait le buzz sur les réseaux sociaux en 2026 comme alternative décalée au célèbre sac Birkin d'Hermès. Contrairement au modèle de luxe, aux tarifs prohibitifs et à sa légendaire liste d'attente, ce sac propose un design similaire avec un ton ludique et un prix bien plus abordable. Cette version parodique séduit les internautes en parodiant le prestige inaccessible du modèle original.",
+    "angles": [
+      {
+        "outlet": "20 Minutes",
+        "take": "Le Firkin est présenté comme une alternative amusante et stylée au Birkin, sédisant les consommateurs sur les réseaux sociaux grâce à son coût réduit et son approche décalée.",
+        "url": "https://www.20minutes.fr/tempo/style/4233122-20260709-revez-avoir-sac-birkin-trop-cher-firkin-trouve-alternative-cool-stylee?at_medium=display&at_campaign=149"
+      }
+    ],
+    "id": 36,
+    "priority": 37
   }
 ];
