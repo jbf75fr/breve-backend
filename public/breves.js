@@ -1,27 +1,37 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-07-12T04:03:19.712877+00:00
+// 2026-07-12T06:25:36.314569+00:00
 const ARTICLES = [
   {
     "themes": [
       "Monde"
     ],
-    "title": "Nouvelles frappes russes massives en Ukraine font huit morts",
-    "full": "Des bombardements russes ont frappé Kiev, Soumy et Odessa samedi matin, tuant au moins huit personnes et blessant une trentaine d'autres, dont 12 à Kiev. Selon le président Zelensky, la Russie a tiré plus de 120 drones et 12 missiles lors de cette attaque. Kiev subit depuis juin des bombardements nocturnes répétés, auxquels l'Ukraine peine à répondre faute de suffisamment de systèmes de défense aérienne.",
+    "title": "États-Unis et Iran échangent des frappes, détroit d'Ormuz fermé",
+    "full": "L'Iran a fermé le détroit d'Ormuz « jusqu'à nouvel ordre » après avoir tiré sur un navire marchand dans ses eaux dimanche. En réponse, les États-Unis ont mené environ 140 frappes contre des cibles militaires iraniennes, la troisième vague depuis mardi. Téhéran a ensuite lancé des missiles et des drones contre plusieurs pays du Golfe. Cette escalade intervient dans un contexte de tensions persistantes entre Washington et Téhéran au Moyen-Orient.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Insiste sur l'intensification des frappes contre la capitale avec un nombre croissant de missiles depuis juin.",
-        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-de-missiles-russes-fait-six-blesses-a-kiev_8103680.html#xtor=RSS-3-[lestitres]"
+        "take": "Les frappes américaines sapent davantage un cessez-le-feu théoriquement en vigueur entre les deux ennemis.",
+        "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-ont-frappe-140-fois-l-iran-pendant-la-nuit-apres-l-attaque-par-teheran-d-un-navire-dans-le-detroit-d-ormuz-plusieurs-pays-du-golfe-aussi-cibles_8104715.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "Le Monde",
-        "take": "Précise que c'est la troisième attaque de Kiev en une semaine et mentionne les pertes ukrainiennes revendiquées contre la flotte russe en mer d'Azov.",
-        "url": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-les-dernieres-informations_6722853_3210.html"
+        "outlet": "Libération",
+        "take": "L'Iran avait préalablement visé deux navires marchands avant la riposte aérienne américaine.",
+        "url": "https://www.liberation.fr/international/moyen-orient/les-etats-unis-frappent-liran-teheran-riposte-en-visant-les-pays-du-golfe-et-en-refermant-le-detroit-dormuz-20260712_JAC2F6HIFZHE5PYQGIALLGZMSY/"
       },
       {
         "outlet": "France 24",
-        "take": "Met l'accent sur le déséquilibre capacitaire en soulignant le manque de missiles intercepteurs ukrainiens face à l'ampleur des attaques russes.",
-        "url": "https://www.france24.com/fr/europe/20260711-de-nouvelles-frappes-russes-sur-l-ukraine-font-six-morts-et-des-dizaines-de-bless%C3%A9s"
+        "take": "Le navire marchand attaqué par l'Iran a été abandonné en flammes par son équipage dans le détroit.",
+        "url": "https://www.france24.com/fr/moyen-orient/20260712-en-direct-americains-et-iraniens-reprennent-les-hostilites-des-navires-attaques-dans-detroit-ormuz"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Les Gardiens de la révolution ont justifié la fermeture du détroit après des coups de semonce tirés contre un porte-conteneurs.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/12/l-iran-annonce-la-fermeture-du-detroit-d-ormuz-jusqu-a-nouvel-ordre_6722775_3210.html"
+      },
+      {
+        "outlet": "Courrier International",
+        "take": "L'Iran prétexte que le bateau empruntait une « route non autorisée » pour justifier son tir.",
+        "url": "https://www.courrierinternational.com/article/moyen-orient-teheran-tire-sur-un-navire-et-ferme-le-detroit-d-ormuz-washington-riposte-par-des-frappes_248592"
       }
     ],
     "id": 0,
@@ -29,31 +39,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France",
-      "Environnement"
+      "Sport"
     ],
-    "title": "Canicule : l'alerte rouge s'étend à 37 départements dimanche",
-    "full": "La France connaît sa troisième vague de chaleur en deux mois. Samedi, 24 départements, dont l'Île-de-France, sont placés en vigilance rouge canicule, avec des températures atteignant 35 à 39 °C selon Météo-France. Treize départements supplémentaires rejoindront cette alerte dimanche midi, portant le total à 37 départements et concernant environ 26 millions de Français. Cette vague de chaleur intensifie les risques d'incendies dans le sud du pays et contraint les lieux touristiques à adapter leurs horaires : la tour Eiffel, le Louvre et le musée d'Orsay fermeront plus tôt, tandis que le Tour de France raccourcira son étape de dimanche.",
+    "title": "Coupe du monde 2026 : l'Argentine et l'Angleterre en demi-finales",
+    "full": "L'Argentine s'est qualifiée pour les demi-finales de la Coupe du monde en battant la Suisse 3 à 1 après prolongation, samedi soir à Kansas City. L'Angleterre a également accédé au dernier carré en éliminant la Norvège 2 à 1, également en prolongation. Les deux équipes se rencontreront mercredi, tandis que la France affrontera l'Espagne lors de l'autre demi-finale. Le vainqueur de chaque match disputera la finale le 19 juillet.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Treize nouveaux départements du centre et du sud-ouest basculen en vigilance rouge à partir de dimanche midi.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-la-france-suffoque-paris-et-une-vingtaine-de-departements-places-en-vigilance-rouge_8103668.html#xtor=RSS-3-[lestitres]"
+        "take": "Le sélectionneur argentin Lionel Scaloni a rejeté les accusations de favoritisme envers son équipe, défendant la neutralité du VAR.",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-le-selectionneur-de-l-argentine-rejette-les-accusations-de-favoritisme-envers-lionel-messi-et-ses-coequipiers_8104103.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Le Monde",
-        "take": "Samedi, les températures maximales atteindront jusqu'à 39 °C, sauf sur les côtes de la Manche et en Hauts-de-France.",
-        "url": "https://www.lemonde.fr/planete/live/2026/07/11/en-direct-canicule-24-departements-places-en-vigilance-rouge-samedi-jusqu-a-39-c-attendus-dans-la-journee_6720911_3244.html"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Il s'agit de la troisième canicule en deux mois, qui alimenterait les incendies et soulève des questions sur l'adaptation au changement climatique.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260711-troisi%C3%A8me-vague-de-chaleur-en-deux-mois-en-france-24-d%C3%A9partements-en-vigilance-rouge-canicule"
+        "outlet": "20 Minutes",
+        "take": "L'Argentine, bien que dominée pour partie du match, a assuré sa qualification contre la Suisse.",
+        "url": "https://www.20minutes.fr/sport/football/4234027-20260712-direct-argentine-suisse-but-argentin-puis-tout-ennui-total-kansas-city-suivez-match?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Libération",
-        "take": "Les attractions majeures anticipent la chaleur en avançant leurs fermetures, et le Tour de France adapte son parcours.",
-        "url": "https://www.liberation.fr/environnement/climat/en-direct-la-canicule-monte-encore-dun-cran-22-millions-de-francais-concernes-par-la-vigilance-rouge-20260711_YAYC24FV5BGM3CGHMKXYERMXZA/"
+        "take": "Les championnats du monde ont difficilement maîtrisé leur quart de finale, malgré un stade favorable.",
+        "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-face-a-la-suisse-largentine-sen-sort-encore-dans-la-douleur-et-affrontera-langleterre-en-demi-finale-20260712_GWA2W4ROXNHN5JGULZAEXALGHQ/"
+      },
+      {
+        "outlet": "Courrier International",
+        "take": "L'Angleterre a surmonté des difficultés face à la Norvège grâce notamment à la performance de Jude Bellingham.",
+        "url": "https://www.courrierinternational.com/article/football-coupe-du-monde-a-la-peine-face-a-la-norvege-l-angleterre-se-hisse-en-demi-finales-sauvee-par-bellingham_248625"
       }
     ],
     "id": 1,
@@ -64,28 +73,28 @@ const ARTICLES = [
       "Sport",
       "Environnement"
     ],
-    "title": "Le Tour de France raccourcit une étape face à la canicule",
-    "full": "Pour la première fois de son histoire, le Tour de France réduit une étape en raison des conditions météorologiques extrêmes. La 9e étape, prévue dimanche 12 juillet en Corrèze entre Malemort et Ussel, sera raccourcie de 30 kilomètres. Cette décision intervient après le placement du département en vigilance rouge canicule par Météo-France, avec des températures attendues au-delà de 40 degrés en milieu de journée. L'organisation et les autorités locales ont concerté cette mesure inédite pour préserver la sécurité des coureurs. Le Belge Tim Merlier remporte entre-temps sa deuxième victoire consécutive à l'issue de la 8e étape à Bergerac.",
+    "title": "La 9e étape du Tour de France raccourcie en raison de la canicule",
+    "full": "Pour la première fois de son histoire, le Tour de France voit l'une de ses étapes réduite en raison de conditions météorologiques extrêmes. La 9e étape prévue dimanche 12 juillet entre Malemort et Ussel en Corrèze a été écourtée de 30 kilomètres face à l'alerte canicule. Le département, placé en vigilance rouge par Météo-France, doit connaître des températures dépassant 40 degrés en milieu de journée. Cette décision inédite a été prise en concertation entre la préfecture et l'organisation de la course.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Souligne le caractère sans précédent de cette décision prise en concertation entre la préfecture et l'organisation du Tour.",
+        "take": "Souligne le caractère historique et inédit de cette mesure d'adaptation à la canicule",
         "url": "https://www.franceinfo.fr/tour-de-france/la-9e-etape-du-tour-de-france-raccourcie-pour-cause-de-canicule-une-decision-prise-en-concertation-avec-l-organisation-selon-la-prefecture_8104427.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "20 Minutes",
-        "take": "Met l'accent sur le contexte administratif avec la vigilance rouge canicule qui oblige à la réduction du kilométrage.",
+        "take": "Précise que la réduction porte sur 30 kilomètres et insiste sur l'alerte rouge en Corrèze",
         "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4234105-20260711-tour-france-2026-9e-etape-reduite-30-kilometres-cause-vigilance-rouge-canicule-correze?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "France 24",
-        "take": "Associe le raccourcissement de l'étape à la victoire au sprint de Tim Merlier sur la journée précédente.",
-        "url": "https://www.france24.com/fr/sports/20260711-tour-de-france-belge-tim-merlier-double-mise-remportant-8e-%C3%A9tape-sprint-bergerac"
+        "outlet": "Libération",
+        "take": "Contextualise en mentionnant que 37 départements sont en vigilance rouge et que d'autres sites touristiques ont aussi adapté leurs horaires",
+        "url": "https://www.liberation.fr/environnement/climat/en-direct-la-canicule-monte-encore-dun-cran-22-millions-de-francais-concernes-par-la-vigilance-rouge-20260711_YAYC24FV5BGM3CGHMKXYERMXZA/"
       },
       {
-        "outlet": "Libération",
-        "take": "Privilégie la performance du coureur belge et son statut de meilleur sprinter avant de mentionner l'adaptation de l'étape.",
-        "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-a-bergerac-tim-merlier-le-plein-tube-de-lete-20260711_VRHICVSTHVF6LLRR62PB4AIVOU/"
+        "outlet": "France 24",
+        "take": "Associe le raccourcissement de l'étape à la victoire de Tim Merlier à l'étape précédente",
+        "url": "https://www.france24.com/fr/sports/20260711-tour-de-france-belge-tim-merlier-double-mise-remportant-8e-%C3%A9tape-sprint-bergerac"
       }
     ],
     "id": 2,
@@ -95,28 +104,28 @@ const ARTICLES = [
     "themes": [
       "Sport"
     ],
-    "title": "Argentine et Angleterre en demi-finales du Mondial 2026",
-    "full": "L'Argentine s'est qualifiée pour les demi-finales de la Coupe du monde en battant la Suisse aux prolongations (3-1) samedi soir à Kansas City. L'Angleterre a également assuré son passage au dernier carré en dominant la Norvège (2-1) après prolongation. Les deux équipes disputeront ainsi les derniers matchs avant la finale de ce Mondial.",
+    "title": "L'Angleterre élimine la Norvège et file en demi-finales",
+    "full": "L'Angleterre s'est qualifiée pour les demi-finales de la Coupe du monde 2026 en battant la Norvège en prolongation (2-1) samedi à Miami. Jude Bellingham, milieu de terrain anglais, a inscrit un doublé décisif. La Norvège, qui rêvait d'une première apparition en demi-finale de son histoire, a opposé une belle résistance avant de céder. Les Three Lions poursuivent leur quête d'un deuxième titre mondial depuis 1966.",
     "angles": [
       {
+        "outlet": "France Info",
+        "take": "L'Angleterre partait en tant que favorite face à la Norvège, qui tentait d'atteindre pour la première fois les demi-finales du tournoi.",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-lionel-messi-erling-haaland-harry-kane-les-stars-attendues-au-tournant-des-quarts-de-finale_8102834.html#xtor=RSS-3-[lestitres]"
+      },
+      {
         "outlet": "20 Minutes",
-        "take": "L'Argentine a remporté un match difficile contre la Suisse malgré une performance peu convaincante en temps réglementaire.",
-        "url": "https://www.20minutes.fr/sport/football/4234027-20260712-direct-argentine-suisse-but-argentin-puis-tout-ennui-total-kansas-city-suivez-match?at_medium=display&at_campaign=149"
+        "take": "Jude Bellingham est devenu le héros de la rencontre avec son doublé en prolongation, qualifiant l'Angleterre pour la suite.",
+        "url": "https://www.20minutes.fr/sport/football/4234100-20260711-direct-norvege-angleterre-apres-bresil-erling-haaland-veut-faire-chuter-copains-anglais-suivez-match?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "France 24",
-        "take": "La Suisse disputait ce quart de finale historique, sa première apparition à ce stade depuis 1954.",
-        "url": "https://www.france24.com/fr/sports/20260711-mondial-2026-mental-acier-argentine-quarts-finale-suisse"
+        "take": "Menée au score par une Norvège solide, l'Angleterre a dû faire preuve de combativité pour renverser la situation et accéder au dernier carré.",
+        "url": "https://www.france24.com/fr/sports/20260711-mondial-2026-norvege-angleterre-direct-live-choc-quarts-finale-coupe-du-monde"
       },
       {
-        "outlet": "Libération",
-        "take": "Kansas City, la plus petite ville hôte du tournoi, a vibré pour le soccer devant les équipes et rencontres accueillies.",
-        "url": "https://www.liberation.fr/sports/football/le-soccer-a-pris-toute-la-place-kansas-city-vibre-pour-la-coupe-du-monde-avant-le-quart-argentine-suisse-20260711_PEVGJPBUXREYNEGDSBMKN7FFLA/"
-      },
-      {
-        "outlet": "France Info",
-        "take": "L'Angleterre réalise un exploit en se hissant pour la quatrième fois de son histoire en demi-finale d'une Coupe du monde.",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/l-angleterre-de-jude-bellingham-vient-a-bout-de-la-norvege-apres-la-prolongation-et-rallie-les-demi-finales-de-la-coupe-du-monde_8104511.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Courrier International",
+        "take": "Bellingham, disputé avant la Coupe du monde après une saison difficile à Madrid, s'est révélé indispensable à la sélection anglaise.",
+        "url": "https://www.courrierinternational.com/article/football-jude-bellingham-l-effronte-dont-avait-besoin-l-equipe-d-angleterre_247290"
       }
     ],
     "id": 3,
@@ -124,25 +133,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Monde"
     ],
-    "title": "Baccalauréat 2026 : taux de réussite de 91,4% après les rattrapages",
-    "full": "Le taux de réussite au baccalauréat 2026 s'établit à 91,4% après les épreuves de rattrapage, en baisse de 0,4 point comparé à 2025. Plus de 680 000 candidats ont obtenu le diplôme. Par filière, le bac général affiche 95,9% de réussite (en recul de 0,5 point), la voie technologique 90,3% (en baisse de 0,8 point) et le bac professionnel 84,3% (en hausse de 0,2 point). Parmi l'ensemble des lauréats, 58,8% ont reçu une mention.",
+    "title": "Nouvelles frappes russes massives sur l'Ukraine font plusieurs morts",
+    "full": "La Russie a lancé samedi matin une vague d'attaques aériennes contre plusieurs villes ukrainiennes, tuant au moins huit personnes et en blessant des dizaines. Selon le président Zelensky, plus de 120 drones et 12 missiles ont été tirés. Kiev a été frappée pour la troisième fois de la semaine, avec 12 blessés, tandis que cinq personnes ont péri à Soumy et deux dans la région d'Odessa. L'Ukraine dénonce un manque de systèmes de défense aérienne pour contrer ces bombardements.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Le ministère de l'Éducation nationale communique sur la légère baisse du taux de réussite et précise aussi les résultats du brevet des collèges à 81,6% d'admis.",
-        "url": "https://www.franceinfo.fr/bac/le-taux-de-reussite-au-bac-2026-atteint-91-4-apres-les-rattrapages-81-6-d-admis-au-brevet-des-colleges_8104355.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "La source insiste sur le nombre de candidats ayant décroché le baccalauréat et qualifie la baisse de taux comme légère.",
-        "url": "https://www.20minutes.fr/societe/4234108-20260711-baccalaureat-2026-taux-reussite-definitif-91-4-baisse-0-4-point-an?at_medium=display&at_campaign=149"
+        "outlet": "France 24",
+        "take": "Souligne l'ampleur des tirs russes et le déficit de capacités d'interception ukrainiennes face à ces vagues de missiles et drones.",
+        "url": "https://www.france24.com/fr/europe/20260711-de-nouvelles-frappes-russes-sur-l-ukraine-font-six-morts-et-des-dizaines-de-bless%C3%A9s"
       },
       {
         "outlet": "Le Monde",
-        "take": "Le journal détaille les disparités de réussite selon les filières et met l'accent sur la part des candidats ayant obtenu une mention.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/11/resultats-du-baccalaureat-2026-le-taux-de-reussite-definitif-est-de-91-4_6722734_3224.html"
+        "take": "Rapporte que Kiev subit ses bombardements répétés cette semaine et détaille les pertes civiles par région.",
+        "url": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-les-dernieres-informations_6722853_3210.html"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Évoque aussi une tension mémorielle émergente entre la Pologne et l'Ukraine en parallèle du conflit militaire.",
+        "url": "https://www.20minutes.fr/monde/ukraine/4234103-20260711-guerre-ukraine-nouvelles-frappes-meurtrieres-moscou-tension-memorielle-pologne?at_medium=display&at_campaign=149"
       }
     ],
     "id": 4,
@@ -150,26 +159,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde",
-      "Environnement"
+      "Sport"
     ],
-    "title": "Incendie meurtrier en Andalousie : au moins 12 morts",
-    "full": "Un violent incendie ravage depuis jeudi la province d'Almería en Andalousie, en Espagne, faisant au moins 12 morts de nationalités différentes. Plus de 6 000 hectares ont brûlé dans une région confrontée à un relief escarpé et une végétation très sèche. Plusieurs centaines de pompiers et de militaires, appuyés par des moyens aériens, poursuivent les opérations de lutte contre le sinistre, qui a évolué favorablement ces derniers jours. Le Premier ministre espagnol Pedro Sanchez se rendra sur place lundi, tandis que les autorités attendent les autopsies pour affiner le bilan.",
+    "title": "Tim Merlier remporte deux étapes d'affilée au Tour 2026",
+    "full": "Le coureur belge Tim Merlier a remporté samedi la 8e étape du Tour de France entre Périgueux et Bergerac, signant ainsi sa deuxième victoire consécutive après son succès à Bordeaux vendredi. Avec ce doublé au sprint, Merlier confirme sa domination parmi les sprinteurs du peloton et porte son total de victoires sur cette édition à cinq. Libération note que dimanche, l'étape en Corrèze sera raccourcie en raison de la canicule.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Met l'accent sur la visite de Pedro Sanchez et la mobilisation des moyens de secours en cours.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-premier-ministre-espagnol-pedro-sanchez-se-rendra-lundi-sur-les-lieux-de-l-incendie-qui-a-fait-au-moins-12-morts-en-andalousie_8104337.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Souligne l'évolution favorable de l'incendie et la diversité des nationalités des victimes.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/11/espagne-le-violent-incendie-qui-ravage-l-andalousie-a-evolue-favorablement-les-pompiers-commencent-a-entrevoir-la-possibilite-de-contenir-le-feu_6722687_3211.html"
+        "outlet": "20 Minutes",
+        "take": "Souligne le spectacle du sprint remporté par Merlier, qualifié de « récital ».",
+        "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4234018-20260711-direct-tour-france-2026-tim-merlier-double-jasper-philipsen-revanchard-suivez-8e-etape?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Libération",
-        "take": "Analyse les facteurs favorisant la catastrophe (géographie, conditions météorologiques, barrière linguistique).",
-        "url": "https://www.liberation.fr/international/europe/relief-escarpe-vegetation-seche-residents-non-hispanophones-en-espagne-autour-de-los-gallardos-une-region-dans-le-piege-de-lincendie-20260711_FZ3LCRJHP5HEPMJ6XQTYUCOHZU/"
+        "take": "Établit Merlier comme le meilleur sprinter du peloton avec ces deux victoires consécutives.",
+        "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-a-bergerac-tim-merlier-le-plein-tube-de-lete-20260711_VRHICVSTHVF6LLRR62PB4AIVOU/"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Détaille que Merlier accumule cinq victoires au total sur ce Tour de France.",
+        "url": "https://www.franceinfo.fr/tour-de-france/videos/un-nouveau-recital-au-sprint-et-le-double-pour-tim-merlier-sur-le-tour-de-france_8104271.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "L'Humanité",
+        "take": "Décrit le sprint final massif et la répétition de la victoire face à la concurrence.",
+        "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-2026-8e-etape-merlier-un-bon-coup-de-bergerac"
       }
     ],
     "id": 5,
@@ -177,25 +190,26 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Monde",
+      "Environnement"
     ],
-    "title": "L'Angleterre élimine la Norvège et rejoint les demi-finales du Mondial 2026",
-    "full": "L'Angleterre s'est qualifiée pour les demi-finales de la Coupe du monde 2026 en battant la Norvège 2-1 après prolongation, samedi 11 juillet à Miami. Jude Bellingham, le milieu de terrain anglais, a inscrit un doublé décisif. Les Three Lions affronteront désormais le vainqueur du quart de finale Brésil-Erling Haaland en demi-finales.",
+    "title": "Le typhon Bavi frappe la Chine après avoir traversé Taïwan",
+    "full": "Le typhon Bavi a atteint la côte sud-est chinoise samedi soir avec des vents allant jusqu'à 145 km/h et des pluies torrentielles. Les autorités chinoises avaient évacué près de 2 millions de personnes par précaution, notamment dans les provinces du Zhejiang et du Fujian. Le cyclone, qui a auparavant touché Taïwan et plusieurs îles japonaises, s'affaiblit progressivement en se déplaçant vers le nord-ouest des terres, avant d'être rétrogradé en tempête tropicale. Aucune victime n'a été signalée pour l'instant.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Jude Bellingham devient le héros de la qualification anglaise avec son doublé en prolongation.",
-        "url": "https://www.20minutes.fr/sport/football/4234100-20260711-direct-norvege-angleterre-apres-bresil-erling-haaland-veut-faire-chuter-copains-anglais-suivez-match?at_medium=display&at_campaign=149"
-      },
-      {
         "outlet": "France 24",
-        "take": "L'Angleterre a dû déployer une combativité remarquable face à une Norvège menée par l'imprévisible buteur Haaland.",
-        "url": "https://www.france24.com/fr/sports/20260711-mondial-2026-norvege-angleterre-direct-live-choc-quarts-finale-coupe-du-monde"
+        "take": "Le typhon a frappé samedi soir la Chine avec des vents violents et devrait s'affaiblir en progressant à l'intérieur des terres.",
+        "url": "https://www.france24.com/fr/asie-pacifique/20260712-le-typhon-bavi-frappe-la-chine-avant-d-%C3%AAtre-r%C3%A9trograd%C3%A9-en-temp%C3%AAte-tropicale"
       },
       {
-        "outlet": "Courrier International",
-        "take": "Bellingham, absent de la sélection depuis octobre et incertain avant le tournoi, s'avère finalement indispensable pour les Three Lions.",
-        "url": "https://www.courrierinternational.com/article/football-jude-bellingham-l-effronte-dont-avait-besoin-l-equipe-d-angleterre_247290"
+        "outlet": "France Info",
+        "take": "Les provinces du Zhejiang et du Fujian font face à des pluies exceptionnellement abondantes selon les autorités d'État.",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/pres-de-deux-millions-de-personnes-evacuees-en-chine-a-l-approche-du-typhon-bavi-qui-a-frappe-taiwan-et-plusieurs-iles-japonaises_8104136.html#xtor=RSS-3-[lestitres]"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "La tempête a d'abord atteint la ville de Yuhuan et aucune victime n'est à déplorer jusqu'à présent.",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/11/le-typhon-bavi-a-atteint-la-chine-ou-pres-de-2-millions-de-personnes-ont-ete-evacuees_6722699_3245.html"
       }
     ],
     "id": 6,
@@ -203,25 +217,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Environnement"
     ],
-    "title": "Le footballeur sud-africain Jayden Adams décédé à 25 ans",
-    "full": "Jayden Adams, international sud-africain et milieu de terrain des Bafana Bafana, est décédé samedi à l'âge de 25 ans, quelques jours après avoir participé à la Coupe du monde 2026 aux États-Unis. Le joueur avait disputé trois matchs de la compétition, permettant à son équipe d'atteindre les seizièmes de finale. La cause exacte de son décès n'a pas encore été confirmée selon le ministère sud-africain des Sports.",
+    "title": "France et États-Unis face à des vagues de chaleur record",
+    "full": "La France connaît sa troisième vague de canicule en deux mois. Météo-France a placé 37 départements en vigilance rouge à partir de dimanche midi et 46 en vigilance orange, en raison d'une masse d'air très chaud stagnant sur le territoire. Les incendies s'intensifient dans la moitié sud du pays. Parallèlement, aux États-Unis, 44 millions d'Américains sont placés sous alerte canicule, avec des températures anormalement élevées dans plusieurs régions qui menacent les efforts de lutte contre les feux.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Adams avait contribué à la qualification de l'Afrique du Sud en seizièmes de finale du Mondial 2026.",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/football-jayden-adams-international-sud-africain-est-mort-quelques-jours-apres-avoir-dispute-la-coupe-du-monde-2026_8104157.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "Le décès du footballeur intervient quelques jours seulement après la fin de sa participation à la Coupe du monde.",
-        "url": "https://www.20minutes.fr/sport/football/4234097-20260711-jayden-adams-international-sud-africain-dispute-coupe-monde-2026-mort-25-ans?at_medium=display&at_campaign=149"
-      },
-      {
         "outlet": "France 24",
-        "take": "Le ministère sud-africain des Sports précise que les circonstances et causes du décès restent à clarifier.",
-        "url": "https://www.france24.com/fr/afrique/20260711-mondial-2026-milieu-sud-africain-jayden-adams-retrouv%C3%A9-mort-25-ans-bafana-bafana"
+        "take": "Insiste sur la répétition des épisodes caniculaires (trois en deux mois) et recueille l'avis d'un climatologue du CNRS alertant sur les risques d'adaptation du climat.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260711-troisi%C3%A8me-vague-de-chaleur-en-deux-mois-en-france-24-d%C3%A9partements-en-vigilance-rouge-canicule"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Précise l'ampleur de l'extension des alertes avec 37 départements en vigilance rouge et 46 en orange, détaillant le phénomène météorologique de stagnation d'air chaud.",
+        "url": "https://www.franceinfo.fr/environnement/meteo/bulletins-meteo/meteo-france-place-37-departements-en-vigilance-rouge-canicule-a-partir-de-dimanche-midi-46-en-vigilance-orange_8104178.html#xtor=RSS-3-[lestitres]"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Élargit le regard au contexte international en couvrant la vague de chaleur américaine et ses conséquences sur la gestion des incendies.",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/11/une-nouvelle-vague-de-chaleur-extreme-aux-etats-unis-place-44-millions-d-americains-sous-alerte-canicule_6722740_3244.html"
       }
     ],
     "id": 7,
@@ -229,20 +243,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Société"
     ],
-    "title": "Rave-party en Morbihan malgré l'interdiction et la canicule",
-    "full": "Environ 1 500 personnes se sont rassemblées aux Forges de Lanouée en Morbihan pour une rave-party, en dépit d'une interdiction préfectorale et d'une alerte maximale canicule. Le département, placé en vigilance rouge depuis vendredi, fait face à un risque élevé d'incendie. Le préfet a dénoncé l'« irresponsabilité des organisateurs ».",
+    "title": "Le taux de réussite au bac 2026 s'établit à 91,4 % après les rattrapages",
+    "full": "Le ministère de l'Éducation nationale a annoncé que 91,4 % des candidats au baccalauréat ont réussi leurs examens en 2026, après les épreuves de rattrapage. Ce taux baisse de 0,4 point par rapport à 2025. Plus de 680 000 candidats ont obtenu le diplôme. Les résultats varient selon les filières : le bac général affiche 95,9 % de réussite, le bac technologique 90,3 % et le bac professionnel 84,3 %. Par ailleurs, 81,6 % des candidats au brevet des collèges ont été admis.",
     "angles": [
       {
+        "outlet": "France Info",
+        "take": "Le baccalauréat 2026 enregistre une légère baisse de réussite après les épreuves de rattrapage.",
+        "url": "https://www.franceinfo.fr/bac/le-taux-de-reussite-au-bac-2026-atteint-91-4-apres-les-rattrapages-81-6-d-admis-au-brevet-des-colleges_8104355.html#xtor=RSS-3-[lestitres]"
+      },
+      {
         "outlet": "20 Minutes",
-        "take": "Souligne le contexte de risque climatique et sécuritaire caractérisé par la canicule et les feux de forêt lors de ce rassemblement.",
-        "url": "https://www.20minutes.fr/faits_divers/4234106-20260711-morbihan-rave-party-rassemble-1-500-personnes-malgre-canicule-risque-incendie?at_medium=display&at_campaign=149"
+        "take": "Plus de 680 000 candidats sont admis malgré cette baisse d'un demi-point.",
+        "url": "https://www.20minutes.fr/societe/4234108-20260711-baccalaureat-2026-taux-reussite-definitif-91-4-baisse-0-4-point-an?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Le Monde",
-        "take": "Met l'accent sur le non-respect de l'interdiction administrative et le jugement du préfet sur la responsabilité des organisateurs.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/11/rave-party-dans-le-morbihan-1-500-personnes-rassemblees-malgre-une-interdiction-prefectorale-et-un-risque-eleve-d-incendie_6722727_3224.html"
+        "take": "Les résultats varient sensiblement selon les filières, avec le bac général en meilleure position et le bac technologique en recul plus marqué.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/11/resultats-du-baccalaureat-2026-le-taux-de-reussite-definitif-est-de-91-4_6722734_3224.html"
       }
     ],
     "id": 8,
@@ -250,25 +269,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Sport"
     ],
-    "title": "Clémentine Autain renonce à la présidentielle 2027",
-    "full": "La députée écologiste Clémentine Autain a annoncé samedi son retrait de la course à l'élysée. Cette décision intervient après l'échec du projet de primaire unitaire de la gauche, les militants socialistes ayant opté pour une primaire interne fermée réservée au PS et à ses proches alliés comme Place publique. Autain, qui envisageait de concourir à cette consultation, considère cette fermeture comme l'« échec » du rassemblement de la gauche non mélenchoniste. Elle a néanmoins indiqué rester disponible pour construire un rapprochement avec la France insoumise.",
+    "title": "Le footballeur sud-africain Jayden Adams décédé à 25 ans",
+    "full": "Jayden Adams, milieu de terrain international sud-africain, est décédé samedi à l'âge de 25 ans, quelques jours après avoir participé à la Coupe du monde 2026 aux États-Unis. Le joueur des Bafana Bafana avait disputé trois matchs du tournoi, permettant à l'Afrique du Sud d'atteindre les seizièmes de finale. Les causes du décès n'ont pas encore été confirmées, selon le ministère sud-africain des Sports.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "La fermeture de la primaire aux seuls militants socialistes et à leurs alliés directs marque l'effondrement du projet d'une consultation unitaire de la gauche.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/11/presidentielle-2027-clementine-autain-prend-acte-de-l-echec-de-la-primaire-unitaire-de-la-gauche-et-renonce-a-etre-candidate_6722715_823448.html"
+        "outlet": "France Info",
+        "take": "Met l'accent sur la trajectoire du joueur au Mondial, ayant contribué à la qualification de l'Afrique du Sud en seizièmes de finale.",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/football-jayden-adams-international-sud-africain-est-mort-quelques-jours-apres-avoir-dispute-la-coupe-du-monde-2026_8104157.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "Libération",
-        "take": "Le vote fermé décidé par le PS a « mis le clou au cercueil » de l'ambition d'une primaire ouverte à l'ensemble de la gauche non mélenchoniste.",
-        "url": "https://www.liberation.fr/politique/elections/presidentielle-clementine-autain-renonce-a-sa-candidature-apres-le-plantage-de-la-primaire-a-gauche-20260711_6DAY75TQZBGJXEGEXHOG2CVQVU/"
+        "outlet": "20 Minutes",
+        "take": "Souligne le délai court entre la participation au tournoi et le décès, intervenu samedi.",
+        "url": "https://www.20minutes.fr/sport/football/4234097-20260711-jayden-adams-international-sud-africain-dispute-coupe-monde-2026-mort-25-ans?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Malgré son retrait, Autain se dit disponible pour explorer un rassemblement avec la France insoumise en vue de la présidentielle.",
-        "url": "https://www.humanite.fr/politique/clementine-autain/faute-de-primaire-unitaire-a-gauche-clementine-autain-retire-sa-candidature-a-la-presidentielle"
+        "outlet": "France 24",
+        "take": "Précise le poste occupé par Adams et note que l'absence de confirmation officielle sur les causes du décès.",
+        "url": "https://www.france24.com/fr/afrique/20260711-mondial-2026-milieu-sud-africain-jayden-adams-retrouv%C3%A9-mort-25-ans-bafana-bafana"
       }
     ],
     "id": 9,
@@ -276,25 +295,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Insolite"
     ],
-    "title": "Tim Merlier remporte deux étapes d'affilée au Tour de France",
-    "full": "Le coureur belge Tim Merlier a remporté samedi la 8e étape du Tour de France entre Périgueux et Bergerac, signant ainsi son deuxième succès en deux jours après sa victoire de vendredi à Bordeaux. Grâce à ces deux victoires au sprint, Merlier porte son total de victoires sur le Tour à cinq étapes.",
+    "title": "Rave-party de 1 500 personnes malgré interdiction et alerte incendie",
+    "full": "Une rave-party a rassemblé environ 1 500 personnes aux Forges de Lanouée en Morbihan, malgré une interdiction préfectorale et un contexte de risque élevé d'incendie. Le département était placé en vigilance rouge canicule depuis vendredi. Le préfet a dénoncé l'« irresponsabilité des organisateurs » dans un communiqué.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Merlier consolide un bilan personnel impressionnant avec cinq étapes remportées au total sur le Tour.",
-        "url": "https://www.franceinfo.fr/tour-de-france/videos/un-nouveau-recital-au-sprint-et-le-double-pour-tim-merlier-sur-le-tour-de-france_8104271.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
         "outlet": "20 Minutes",
-        "take": "La victoire de Merlier intervient après un sprint massif et constitue une performance consécutive remarquable.",
-        "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4234018-20260711-direct-tour-france-2026-tim-merlier-double-jasper-philipsen-revanchard-suivez-8e-etape?at_medium=display&at_campaign=149"
+        "take": "Met l'accent sur le contexte météorologique et climatique du rassemblement, soulevant le paradoxe entre l'événement festif et les conditions de chaleur extrême.",
+        "url": "https://www.20minutes.fr/faits_divers/4234106-20260711-morbihan-rave-party-rassemble-1-500-personnes-malgre-canicule-risque-incendie?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Le Belge de l'équipe Soudal domine sur le terrain des sprinters à cette édition du Tour.",
-        "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-2026-8e-etape-merlier-un-bon-coup-de-bergerac"
+        "outlet": "Le Monde",
+        "take": "Souligne le manquement à l'autorité administrative en insistant sur l'interdiction préfectorale et la condamnation officielle de l'irresponsabilité des organisateurs.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/11/rave-party-dans-le-morbihan-1-500-personnes-rassemblees-malgre-une-interdiction-prefectorale-et-un-risque-eleve-d-incendie_6722727_3224.html"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Traite d'un sujet distinct : l'isolement de 6 500 personnes en Savoie suite à la fermeture d'une route causée par un incendie et des chutes de pierres.",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/savoie-a-pralognan-la-vanoise-6-500-personnes-coupees-du-monde-suite-a-un-incendie_8104043.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 10,
@@ -302,25 +321,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "France"
     ],
-    "title": "Le nouveau Guide suprême iranien jure de venger son père",
-    "full": "Mojtaba Khamenei, qui a succédé à son père Ali Khamenei à la tête de la République islamique, a promis samedi de venger la mort de ce dernier, tué le 28 février dans des frappes israélo-américaines. Dans un message écrit, le nouveau Guide suprême affirme que cette vengeance « s'accomplira, inévitablement ». Son absence remarquée aux funérailles de son père cette semaine alimentait les interrogations sur sa légitimité et sa capacité à arbitrer les tensions entre partisans du dialogue avec Washington et ultraconservateurs opposés à toute négociation.",
+    "title": "Clémentine Autain renonce à la présidentielle 2027",
+    "full": "La députée écologiste Clémentine Autain a annoncé samedi qu'elle ne serait pas candidate à l'élection présidentielle de 2027. Cette décision survient après l'effondrement du projet de primaire unitaire de la gauche, consécutif au choix du Parti socialiste d'organiser un scrutin interne et fermé, réservé à ses militants et à ceux de ses alliés proches comme Place publique. Autain, qui envisageait de participer à cette consultation pour incarner une alternative à la France insoumise, a conclu que cette configuration rendait impossible son engagement.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "Mojtaba Khamenei adresse une menace directe aux États-Unis dans son message de vengeance.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/11/en-iran-le-guide-supreme-mojtaba-khamenei-menace-les-etats-unis-dans-un-message-ecrit-en-promettant-de-venger-la-mort-de-son-pere_6722705_3210.html"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Le nouveau Guide suprême affirme que la vengeance est inévitable et doit s'accomplir.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260711-iran-mojtaba-khamenei-a-jur%C3%A9-de-venger-la-mort-de-son-p%C3%A8re"
+        "take": "Le scrutin socialiste interne exclut la gauche non-mélenchoniste et enterre le rêve d'une primaire rassembleuse de la gauche.",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/11/presidentielle-2027-clementine-autain-prend-acte-de-l-echec-de-la-primaire-unitaire-de-la-gauche-et-renonce-a-etre-candidate_6722715_823448.html"
       },
       {
         "outlet": "Libération",
-        "take": "Mojtaba Khamenei rompt son silence par écrit après une absence remarquée aux funérailles, révélant les tensions internes du pouvoir iranien.",
-        "url": "https://www.liberation.fr/international/moyen-orient/en-iran-labsence-du-nouveau-guide-supreme-aiguise-les-rivalites-au-sein-du-pouvoir-20260710_PIR3PG75ONBYTCW3DAAP3W2OW4/"
+        "take": "Le vote fermé du PS représente l'aboutissement de l'échec du projet de primaire unitaire auquel Autain souhaitait participer.",
+        "url": "https://www.liberation.fr/politique/elections/presidentielle-clementine-autain-renonce-a-sa-candidature-apres-le-plantage-de-la-primaire-a-gauche-20260711_6DAY75TQZBGJXEGEXHOG2CVQVU/"
+      },
+      {
+        "outlet": "L'Humanité",
+        "take": "Malgré son retrait, Autain reste ouverte à la construction d'un rassemblement avec la France insoumise.",
+        "url": "https://www.humanite.fr/politique/clementine-autain/faute-de-primaire-unitaire-a-gauche-clementine-autain-retire-sa-candidature-a-la-presidentielle"
       }
     ],
     "id": 11,
@@ -330,23 +349,23 @@ const ARTICLES = [
     "themes": [
       "Monde"
     ],
-    "title": "Le typhon Bavi atteint la Chine après avoir frappé Taïwan et le Japon",
-    "full": "Le typhon Bavi a touché la Chine samedi 11 juillet, atteignant la ville côtière de Yuhuan dans l'est du pays. Les autorités chinoises ont procédé à des évacuations massives dans le sud-est, mobilisant entre 900 000 et 2 millions de personnes selon les sources. Le phénomène, qui a d'abord frappé Taïwan et plusieurs îles japonaises, devrait poursuivre sa progression vers le nord-ouest en s'affaiblissant, en provoquant des pluies exceptionnellement abondantes dans les provinces du Zhejiang et du Fujian. Aucune victime n'est à ce stade signalée.",
+    "title": "Le Guide suprême iranien jure de venger son père",
+    "full": "Mojtaba Khamenei, le nouveau Guide suprême de l'Iran, a promis samedi que la vengeance de la mort de son père « s'accomplira inévitablement ». Ali Khamenei, ancien dirigeant de la République islamique, a été tué le 28 février lors de frappes américano-israéliennes. Ce message écrit intervient après les funérailles de l'ancien Guide, célébrées cette semaine.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Met l'accent sur l'ampleur des évacuations et l'alerte aux pluies exceptionnelles attendues dans l'est du pays.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/pres-de-deux-millions-de-personnes-evacuees-en-chine-a-l-approche-du-typhon-bavi-qui-a-frappe-taiwan-et-plusieurs-iles-japonaises_8104136.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Libération",
+        "take": "Affirme que Mojtaba Khamenei insiste sur le caractère inévitable de la vengeance dans son déclaration.",
+        "url": "https://www.liberation.fr/international/moyen-orient/le-guide-supreme-iranien-mojtaba-khamenei-affirme-que-la-vengeance-de-la-mort-de-son-pere-doit-saccomplir-inevitablement-20260711_257OTNYDURB6VBWOSSLS3JZX6I/"
+      },
+      {
+        "outlet": "France 24",
+        "take": "Souligne que le nouveau Guide suprême a « juré » formellement cette vengeance dans un message diffusé publiquement.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260711-iran-mojtaba-khamenei-a-jur%C3%A9-de-venger-la-mort-de-son-p%C3%A8re"
       },
       {
         "outlet": "Le Monde",
-        "take": "Précise le point d'arrivée du typhon en Chine et son évolution géographique vers le nord-ouest du territoire.",
-        "url": "https://www.lemonde.fr/planete/article/2026/07/11/le-typhon-bavi-a-atteint-la-chine-ou-pres-de-2-millions-de-personnes-ont-ete-evacuees_6722699_3245.html"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Souligne la trajectoire antérieure du cyclone à Taïwan et au Japon, et la diminution progressive de son intensité.",
-        "url": "https://www.liberation.fr/international/asie-pacifique/chine-pres-de-900-000-personnes-evacuees-a-lapproche-du-typhon-bavi-20260711_3LUYW2QQNJHEXAWDQDW2FKVS3M/"
+        "take": "Met l'accent sur le ton menaçant du message adressé aux États-Unis et le contexte des funérailles retardées.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/11/en-iran-le-guide-supreme-mojtaba-khamenei-menace-les-etats-unis-dans-un-message-ecrit-en-promettant-de-venger-la-mort-de-son-pere_6722705_3210.html"
       }
     ],
     "id": 12,
@@ -356,23 +375,23 @@ const ARTICLES = [
     "themes": [
       "Société"
     ],
-    "title": "Parcoursup : plus de 126 000 candidats sans proposition",
-    "full": "À l'issue de la phase principale d'admission, qui s'est achevée le 11 juillet, environ 126 000 candidats sur près de 900 000 inscrits n'ont pas reçu de proposition de formation pour l'enseignement supérieur. Cet effectif, qui représente près de 15 % des candidats, est en hausse par rapport à l'année précédente. La phase complémentaire se poursuit jusqu'au 10 septembre pour permettre à ces candidats de formuler de nouveaux vœux.",
+    "title": "Parcoursup : 126 000 candidats sans proposition après la phase principale",
+    "full": "À l'issue de la phase principale d'admission de Parcoursup, conclue le 11 juillet, environ 126 000 candidats sur 900 000 n'ont toujours pas reçu de proposition de formation. Ce taux de 15 % représente une hausse par rapport à l'année précédente. Les non-proposées se répartissent entre 57 000 bacheliers, 46 000 étudiants et 23 000 candidats scolarisés à l'étranger. La phase complémentaire, qui leur permet de formuler de nouveaux vœux, se poursuit jusqu'au 10 septembre.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Souligne que la phase complémentaire reste ouverte jusqu'à la mi-septembre pour accompagner les candidats restants.",
-        "url": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/plus-de-126-000-candidats-sont-encore-en-attente-d-une-proposition-sur-parcoursup_8103926.html#xtor=RSS-3-[lestitres]"
-      },
-      {
         "outlet": "20 Minutes",
-        "take": "Met l'accent sur la progression du taux de candidats sans affectation par rapport à l'année antérieure.",
+        "take": "Souligne la progression du nombre de candidats sans affectation d'une année sur l'autre.",
         "url": "https://www.20minutes.fr/societe/4234086-20260711-parcoursup-pres-15-candidats-encore-attente-proposition?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Libération",
-        "take": "Détaille la composition des candidats en attente : bacheliers, étudiants et candidats scolarisés à l'étranger.",
+        "take": "Détaille la composition des candidats en attente par statut (bacheliers, étudiants, candidats étrangers).",
         "url": "https://www.liberation.fr/societe/education/parcoursup-plus-de-126-000-candidats-encore-en-attente-dune-proposition-20260711_2GADQSLSIJHGFGKXV7I7BCLEUM/"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Informe sur le calendrier de la phase complémentaire jusqu'en septembre.",
+        "url": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/plus-de-126-000-candidats-sont-encore-en-attente-d-une-proposition-sur-parcoursup_8103926.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 13,
@@ -380,25 +399,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Monde"
     ],
-    "title": "Présomption de légitime défense pour les forces de l'ordre adoptée",
-    "full": "L'Assemblée nationale a voté le 7 juillet une proposition de loi instaurant une présomption de légitime défense pour les policiers et gendarmes en cas d'usage de leur arme de service. Le texte, approuvé par 313 députés, inverse la charge de la preuve : ce sont désormais les victimes ou leurs proches qui doivent démontrer que le recours à la force n'était pas justifié. Cette législation suscite une vive opposition de la part d'organisations de défense des droits de l'Homme, qui y voient un risque d'impunité policière. Une pétition contre cette loi a déjà recueilli près de 600.000 signatures.",
+    "title": "Incendie en Andalousie : 12 morts, 6 600 hectares ravagés",
+    "full": "Un incendie majeur ravage le sud de l'Espagne depuis jeudi, ayant détruit 6 600 hectares et causé la mort de 12 personnes de nationalités différentes. Environ 1 500 habitants, dont des touristes français, ont été évacués. Plusieurs centaines de pompiers et de militaires, soutenus par des moyens aériens, combattent le sinistre. Les autorités signalent samedi une légère amélioration météorologique et entrevoyent la possibilité de contenir le feu. Une Française figure parmi les personnes disparues.",
     "angles": [
       {
-        "outlet": "France 24",
-        "take": "La Ligue des droits de l'Homme qualifie le texte de « permis de tuer » et appelle à le rejeter.",
-        "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20260711-pr%C3%A9somption-de-l%C3%A9gitime-d%C3%A9fense-pour-les-forces-de-l-ordre-la-ldh-d%C3%A9nonce-un-permis-de-tuer"
+        "outlet": "France Info",
+        "take": "Insiste sur la présence de touristes français évacués face à cet incendie incontrôlable.",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/incendie-en-espagne-des-francais-face-aux-flammes_8104220.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Souligne les moyens militaires et aériens mobilisés par les autorités pour lutter contre le sinistre.",
+        "url": "https://www.liberation.fr/international/europe/incendie-en-espagne-evolution-favorable-selon-les-autorites-20260711_36MMYFJI4RDOLEOODW7KC5PCRA/"
       },
       {
         "outlet": "Le Monde",
-        "take": "L'inversion de la charge de la preuve risque de renforcer la suspicion d'impunité policière.",
-        "url": "https://www.lemonde.fr/idees/article/2026/07/11/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-un-dangereux-precedent_6722694_3232.html"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "À Nanterre, trois ans après la mort de Nahel, cette loi est perçue comme un nouveau coup porté aux victimes de violences policières.",
-        "url": "https://www.humanite.fr/politique/legitime-defense/mort-de-nahel-trois-ans-apres-linquietude-de-nanterre-sur-la-presomption-de-legitime-defense-pour-les-policiers"
+        "take": "Rapporte la confirmation du Quai d'Orsay concernant une Française portée disparue et la perspective d'autopsies pour préciser le bilan.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/11/espagne-le-violent-incendie-qui-ravage-l-andalousie-a-evolue-favorablement-les-pompiers-commencent-a-entrevoir-la-possibilite-de-contenir-le-feu_6722687_3211.html"
       }
     ],
     "id": 14,
@@ -406,20 +425,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Économie",
+      "Environnement"
     ],
-    "title": "L'Iran ferme le détroit d'Ormuz, les États-Unis ripostent",
-    "full": "Les Gardiens de la révolution iraniens ont annoncé dimanche la fermeture du détroit d'Ormuz « jusqu'à nouvel ordre » après avoir tiré des coups de semonce contre un porte-conteneurs. Cette décision intervient après que le navire aurait emprunté une route non autorisée. Les États-Unis ont répliqué par une nouvelle vague de frappes, suivie de représailles iraniennes. Le détroit, passage maritime stratégique pour le commerce mondial, se trouve ainsi au cœur d'une escalade militaire entre Washington et Téhéran.",
+    "title": "Paris : musées et monuments ferment plus tôt face à la canicule",
+    "full": "Le Louvre, la Tour Eiffel et le musée d'Orsay ont réduit leurs horaires d'ouverture en raison des températures exceptionnelles. La Tour Eiffel et le Louvre fermeront désormais à 16 heures, tandis que le musée d'Orsay fermera à 17 heures. Ces mesures visent à préserver le confort des visiteurs et du personnel face aux montées en température qui deviennent incompatibles avec les conditions d'accueil habituelles.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "L'annonce iranienne d'une fermeture du détroit a provoqué une réponse militaire immédiate des États-Unis, elle-même suivie de contrefrappes iraniennes.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/12/l-iran-annonce-la-fermeture-du-detroit-d-ormuz-jusqu-a-nouvel-ordre_6722775_3210.html"
+        "outlet": "France Info",
+        "take": "Les fermetures prématurées affectent les programmes de visite des touristes internationaux venus à Paris.",
+        "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tour-eiffel-louvre-musee-d-orsay-la-capitale-au-ralenti-face-a-la-canicule_8104412.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Courrier International",
-        "take": "Selon la presse américaine, la réouverture du détroit paraît désormais plus incertaine que jamais face à cette escalade.",
-        "url": "https://www.courrierinternational.com/article/moyen-orient-teheran-tire-sur-un-navire-et-ferme-le-detroit-d-ormuz-washington-riposte-par-des-frappes_248592"
+        "outlet": "Libération",
+        "take": "Les établissements justifient ces réductions d'horaires par l'impossibilité de garantir le bien-être des visiteurs et des salariés.",
+        "url": "https://www.liberation.fr/environnement/climat/le-louvre-la-tour-eiffel-et-le-musee-dorsay-reduisent-leurs-horaires-douverture-les-montees-en-temperatures-ne-garantissent-plus-le-confort-des-visiteurs-ni-des-agents-20260711_NNKKBNHRVZB7HBURCISXZVAR5E/"
       }
     ],
     "id": 15,
@@ -427,21 +447,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie",
-      "Environnement"
+      "Société"
     ],
-    "title": "Canicule : musées et Tour Eiffel réduisent leurs horaires à Paris",
-    "full": "Face aux températures exceptionnelles, les principaux sites touristiques parisiens ont annoncé des fermetures anticipées. La Tour Eiffel et le Louvre fermeront à 16 heures, tandis que le musée d'Orsay cessera ses visites à 17 heures. Ces établissements justifient cette mesure par l'impossibilité de garantir le confort et la sécurité des visiteurs et du personnel dans ces conditions de chaleur extrême.",
+    "title": "Un jeune homme tué au couteau dans le 18e arrondissement de Paris",
+    "full": "Un homme âgé de 21 ans a été tué au couteau dans le 18e arrondissement de Paris. Une enquête pour meurtre a été ouverte et confiée au 2e district de police judiciaire.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Les fermetures prématurées affectent directement l'expérience des touristes internationaux et désorganisent leurs programmes de visite.",
-        "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tour-eiffel-louvre-musee-d-orsay-la-capitale-au-ralenti-face-a-la-canicule_8104412.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "20 Minutes",
+        "take": "Rapporte l'homicide et l'ouverture d'une enquête pour meurtre.",
+        "url": "https://www.20minutes.fr/faits_divers/faits-divers-paris/4234093-20260711-paris-jeune-homme-tue-couteau-18e-arrondissement?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Libération",
-        "take": "Les établissements mettent en avant les risques sanitaires pour les visiteurs et les agents, justifiant ainsi leur décision d'ajuster les horaires.",
-        "url": "https://www.liberation.fr/environnement/climat/le-louvre-la-tour-eiffel-et-le-musee-dorsay-reduisent-leurs-horaires-douverture-les-montees-en-temperatures-ne-garantissent-plus-le-confort-des-visiteurs-ni-des-agents-20260711_NNKKBNHRVZB7HBURCISXZVAR5E/"
+        "outlet": "France Info",
+        "take": "Précise l'âge de la victime et indique que l'enquête a été confiée au 2e district de police judiciaire.",
+        "url": "https://www.franceinfo.fr/faits-divers/un-homme-de-21-ans-tue-au-couteau-dans-le-nord-de-paris-une-enquete-ouverte_8104049.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 16,
@@ -449,20 +468,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Environnement"
     ],
-    "title": "Un homme de 21 ans tué au couteau à Paris",
-    "full": "Un jeune homme de 21 ans a été tué au couteau dans le 18e arrondissement de Paris. Une enquête pour meurtre a été ouverte et confiée au 2e district de police judiciaire.",
+    "title": "Manifestation contre le canal Seine-Nord Europe dans le Pas-de-Calais",
+    "full": "Entre 3 000 et 4 000 personnes se sont rassemblées samedi à Oisy-le-Verger pour protester contre le chantier du canal Seine-Nord Europe. Ce projet, financé par l'État, doit créer d'ici à 2032 une liaison fluviale reliant la région parisienne à la mer du Nord pour faciliter le transport de marchandises. Les opposants dénoncent l'envolée des coûts du projet et ses impacts environnementaux.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Signale l'ouverture d'une enquête pour meurtre suite au décès.",
-        "url": "https://www.20minutes.fr/faits_divers/faits-divers-paris/4234093-20260711-paris-jeune-homme-tue-couteau-18e-arrondissement?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "L'article souligne la mobilisation significative dans le Pas-de-Calais et les critiques portant sur l'augmentation des coûts et les conséquences écologiques du chantier.",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/11/canal-seine-nord-europe-plusieurs-centaines-de-personnes-mobilisees-dans-le-pas-de-calais-pour-protester-contre-le-chantier_6722716_3244.html"
       },
       {
-        "outlet": "France Info",
-        "take": "Précise l'âge de la victime et la responsabilité du 2e district de police judiciaire dans l'investigation.",
-        "url": "https://www.franceinfo.fr/faits-divers/un-homme-de-21-ans-tue-au-couteau-dans-le-nord-de-paris-une-enquete-ouverte_8104049.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Reporterre",
+        "take": "Le reportage met en avant l'ampleur croissante de la mobilisation et note qu'une action visant une voie d'accès au chantier s'est déroulée sans intervention des forces de l'ordre.",
+        "url": "https://reporterre.net/Ce-projet-n-a-aucun-sens-contre-le-canal-Seine-Nord-Europe-la-mobilisation-s-amplifie"
       }
     ],
     "id": 17,
@@ -472,18 +491,18 @@ const ARTICLES = [
     "themes": [
       "Environnement"
     ],
-    "title": "Manifestation contre le canal Seine-Nord Europe dans le Pas-de-Calais",
-    "full": "Plusieurs milliers de personnes se sont rassemblées samedi à Oisy-le-Verger, dans le Pas-de-Calais, pour protester contre le projet de canal Seine-Nord Europe. Ce mégaprojet fluvial doit créer d'ici à 2032 une liaison à grand gabarit entre la région parisienne et la mer du Nord pour faciliter le transport de marchandises. Les opposants dénoncent l'envolée des coûts et les conséquences environnementales du chantier.",
+    "title": "Un violent incendie fait au moins 12 morts en Andalousie",
+    "full": "Un incendie majeur ravage l'Andalousie en Espagne depuis plusieurs jours, causant au moins 12 décès. Plusieurs centaines de pompiers et de militaires, soutenus par des moyens aériens, poursuivent les opérations de lutte contre le sinistre. Les autorités rapportaient samedi une évolution favorable de la situation. Le Premier ministre espagnol Pedro Sanchez doit se rendre lundi sur le lieu du drame.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Les manifestants pointent l'ampleur des dépenses du projet et son impact écologique.",
-        "url": "https://www.lemonde.fr/planete/article/2026/07/11/canal-seine-nord-europe-plusieurs-centaines-de-personnes-mobilisees-dans-le-pas-de-calais-pour-protester-contre-le-chantier_6722716_3244.html"
+        "outlet": "France Info",
+        "take": "Insiste sur la visite du chef du gouvernement espagnol et sur les importants effectifs mobilisés sur place.",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-premier-ministre-espagnol-pedro-sanchez-se-rendra-lundi-sur-les-lieux-de-l-incendie-qui-a-fait-au-moins-12-morts-en-andalousie_8104337.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Reporterre",
-        "take": "La mobilisation a réuni entre 3 000 et 4 000 personnes et une action a visé une voie d'accès au chantier sans intervention policière.",
-        "url": "https://reporterre.net/Ce-projet-n-a-aucun-sens-contre-le-canal-Seine-Nord-Europe-la-mobilisation-s-amplifie"
+        "outlet": "Le Monde",
+        "take": "Rapporte une amélioration de la situation samedi malgré l'ampleur du bilan humain.",
+        "url": "https://www.lemonde.fr/videos/video/2026/07/11/video-au-moins-12-morts-dans-un-violent-incendie-qui-ravage-l-andalousie_6722703_1669088.html"
       }
     ],
     "id": 18,
@@ -491,20 +510,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Société",
+      "Environnement"
     ],
-    "title": "Embouteillages massifs aux départs en vacances sous la canicule",
-    "full": "La circulation routière a atteint près de 940 kilomètres de bouchons à midi samedi, lors du week-end de départs en vacances. La journée a été classée noire dans l'Ouest, le Nord et le Centre-Est en direction des vacances, et rouge dans le reste du pays. Bison Futé a appelé les automobilistes à redoubler de prudence en raison de la canicule qui accompagne ces mouvements de trafic.",
+    "title": "Départs en vacances : plus de 900 km de bouchons par temps de canicule",
+    "full": "La circulation a atteint plus de 940 kilomètres de bouchons à midi le samedi 11 juillet, lors du grand départ en vacances. L'Ouest, le Nord et le Centre-Est enregistrent une circulation noire dans le sens des départs, tandis que le reste du pays est en alerte rouge. Bison Futé recommande aux automobilistes de redoubler de prudence, la journée étant marquée par une canicule.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Bison Futé met l'accent sur les conditions de sécurité dégradées dues à la conjonction entre les embouteillages massifs et la canicule.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/11/departs-en-vacances-plus-de-900-kilometres-de-bouchons-recenses-a-midi-la-journee-de-samedi-classee-noire-sur-fond-de-canicule_6722692_3225.html"
+        "outlet": "20 Minutes",
+        "take": "Insiste sur l'ampleur des embouteillages et souligne le contexte météorologique exceptionnel des vacances.",
+        "url": "https://www.20minutes.fr/societe/4234080-20260711-departs-vacances-deja-pres-800-km-bouchons-fond-canicule?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Le média relève l'ampleur du phénomène en détaillant la répartition géographique des niveaux d'alerte sur le territoire.",
-        "url": "https://www.20minutes.fr/societe/4234080-20260711-departs-vacances-deja-pres-800-km-bouchons-fond-canicule?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Rapporte les chiffres précis des bouchons et met l'accent sur l'appel à la prudence des autorités routières face aux conditions climatiques.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/11/departs-en-vacances-plus-de-900-kilometres-de-bouchons-recenses-a-midi-la-journee-de-samedi-classee-noire-sur-fond-de-canicule_6722692_3225.html"
       }
     ],
     "id": 19,
@@ -514,13 +534,18 @@ const ARTICLES = [
     "themes": [
       "Société"
     ],
-    "title": "Un pompier volontaire décède en combattant un feu de forêt en Savoie",
-    "full": "Un sapeur-pompier volontaire de 22 ans a trouvé la mort mercredi 8 juillet alors qu'il intervenait sur un incendie de forêt au Planay, en Savoie. Une cérémonie d'hommage lui sera rendue mercredi à Albertville.",
+    "title": "Présomption de légitime défense pour les forces de l'ordre adoptée",
+    "full": "L'Assemblée nationale a adopté une proposition de loi instaurant une présomption de légitime défense pour les policiers et gendarmes qui usent de leurs armes à feu. Ce texte inverse la charge de la preuve : les victimes ou leurs proches devront désormais démontrer que l'usage de la force n'était pas justifié. Cette mesure suscite une vive opposition, notamment de la Ligue des droits de l'Homme qui dénonce un risque d'impunité policière. Une pétition contre ce projet a recueilli près de 600.000 signatures.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Met l'accent sur le décès du jeune pompier volontaire en intervention et annonce la cérémonie d'hommage prévue.",
-        "url": "https://www.franceinfo.fr/faits-divers/incendie/mort-d-un-pompier-en-intervention-en-savoie-une-ceremonie-d-hommage-aura-lieu-mercredi-a-albertville_8104358.html#xtor=RSS-3-[lestitres]"
+        "outlet": "France 24",
+        "take": "La LDH qualifie la loi de « permis de tuer » et mobilise l'opinion publique à travers une pétition largement signée.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260711-france-le-projet-de-loi-sur-l-usage-des-armes-%C3%A0-feu-par-les-forces-de-l-ordre-divise"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "L'inversion de la charge de la preuve constitue un précédent dangereux qui pourrait renforcer la perception d'impunité des forces de l'ordre.",
+        "url": "https://www.lemonde.fr/idees/article/2026/07/11/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-un-dangereux-precedent_6722694_3232.html"
       }
     ],
     "id": 20,
@@ -528,15 +553,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Tech & Sciences",
+      "Santé"
     ],
-    "title": "Pitbull établit un record avec 22 000 faux crânes chauves",
-    "full": "Le rappeur américano-cubain Pitbull a réuni 22 141 fans portant de faux crânes chauves lors d'un concert à Londres, établissant ainsi un nouveau record du monde. Cet rassemblement, organisé lors de son spectacle, dépasse tous les précédents records documentés pour cette catégorie insolite.",
+    "title": "Les scientifiques développent une méthode pour identifier les virus pandémiques",
+    "full": "Des chercheurs ont analysé l'histoire des virus pour dégager les caractéristiques communes aux pathogènes susceptibles de déclencher des pandémies. Cette approche permet une meilleure anticipation des menaces virologiques futures. L'objectif est de repérer plus tôt les virus à risque de propagation mondiale avant qu'ils ne causent une crise sanitaire majeure.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "L'artiste de 45 ans a mobilisé plus de 22 000 spectateurs arborant des crânes chauves artificiels pour battre le record précédent lors de sa prestation londonienne.",
-        "url": "https://www.20minutes.fr/arts-stars/insolite/4234094-20260711-rappeur-pitbull-etablit-record-monde-plus-grand-rassemblement-faux-cranes-chauves?at_medium=display&at_campaign=149"
+        "outlet": "Slate",
+        "take": "Des équipes de recherche ont identifié des profils communs chez les virus pandémiques en étudiant leur évolution historique, ouvrant la voie à une détection précoce des prochaines menaces.",
+        "url": "https://www.slate.fr/sciences/prochain-covid-virus-recherche-pandemie-epidemie-menace-sars-animaux-ebola-oropouche-chauve-souris"
       }
     ],
     "id": 21,
@@ -544,15 +570,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Environnement",
+      "Économie"
     ],
-    "title": "Le feu d'artifice du 14-Juillet avancé d'un jour à Paris",
-    "full": "Pour la première fois, le feu d'artifice parisien du 14-Juillet sera tiré le 13 juillet au lieu de la date habituelle. Cette modification du calendrier répond à une volonté de rendre hommage aux victimes de l'attentat du 14 juillet 2016 à Nice, où un camion avait foncé dans la foule lors des festivités.",
+    "title": "Les feux d'artifice du 14-Juillet annulés dans plusieurs départements",
+    "full": "En raison de la canicule et de la sécheresse historiques, de nombreux départements ont annulé leurs feux d'artifice du 14-Juillet pour prévenir les risques de départ de feu. Cette mesure pénalise fortement les professionnels du secteur, pour qui le 14-Juillet représente traditionnellement leur plus importante période de chiffre d'affaires de l'année.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Le décalage du spectacle pyrotechnique vise à commémorer les victimes de l'attaque terroriste niçoise de 2016.",
-        "url": "https://www.20minutes.fr/tempo/sortir/4233976-20260711-14-juillet-paris-attention-feu-artifice-tire-13-juillet-annee?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "Les annulations des feux d'artifice impactent gravement les pyrotechniciens et professionnels de l'événementiel qui perdent leur principale source de revenus annuels.",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-14-juillet-on-fait-notre-plus-gros-chiffre-d-affaires-l-annulation-des-feux-d-artifice-plonge-les-professionnels-du-secteur-dans-une-situation-delicate_8104169.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 22,
@@ -562,13 +589,13 @@ const ARTICLES = [
     "themes": [
       "Insolite"
     ],
-    "title": "Dix recettes de glaces maison sans sorbetière pour l'été",
-    "full": "20 Minutes propose une sélection de dix recettes de glaces à préparer soi-même sans équipement spécialisé. Ces préparations privilégient la simplicité et misent sur des associations de saveurs fraîches pour profiter de desserts glacés durant la période estivale.",
+    "title": "Pitbull bat le record du plus grand rassemblement de crânes chauves",
+    "full": "Le rappeur Pitbull a établi un record du monde en réunissant 22 141 fans portant de faux crânes chauves lors d'un concert à Londres. Cet événement, organisé lors d'une de ses prestations, dépasse tous les précédents rassemblements de ce type jamais enregistrés.",
     "angles": [
       {
         "outlet": "20 Minutes",
-        "take": "Met l'accent sur l'accessibilité de ces recettes, qui ne nécessitent ni sorbetière ni matériel complexe.",
-        "url": "https://www.20minutes.fr/tempo/food/4233492-20260711-10-recettes-glaces-maison-faciles-survivre-chaleur?at_medium=display&at_campaign=149"
+        "take": "L'artiste américano-cubain de 45 ans a mobilisé plus de 22 000 spectateurs coiffés de faux crânes pour créer ce record insolite.",
+        "url": "https://www.20minutes.fr/arts-stars/insolite/4234094-20260711-rappeur-pitbull-etablit-record-monde-plus-grand-rassemblement-faux-cranes-chauves?at_medium=display&at_campaign=149"
       }
     ],
     "id": 23,
@@ -578,16 +605,48 @@ const ARTICLES = [
     "themes": [
       "Insolite"
     ],
-    "title": "Un candidat extraterrestre défie Nigel Farage en élection locale",
-    "full": "En Angleterre, le leader de Reform UK Nigel Farage pourrait affronter principalement Count Binface, un candidat satirique connu pour se présenter comme un extraterrestre à tête de poubelle, lors d'une élection partielle. Les principaux partis britanniques ont annoncé leur retrait de cette course, laissant le champ quasi libre à ces deux figures atypiques.",
+    "title": "Le feu d'artifice parisien du 14-Juillet avancé au 13 juillet",
+    "full": "Le spectacle pyrotechnique de Paris, traditionnellement tiré le soir du 14 juillet, sera exceptionnellement organisé le 13 juillet cette année. Cette modification du calendrier vise à rendre hommage aux victimes de l'attentat du 14 juillet 2016 à Nice, qui avait fait 86 morts.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "Slate souligne le caractère inédit de cette confrontation électorale réduite au leader populiste de droite et à un activiste satire.",
-        "url": "https://www.slate.fr/monde/nigel-farage-adversaire-extraterrestre-tete-poubelle-election-partielle-clacton-angleterre-count-binface-reform-uk-satirique"
+        "outlet": "20 Minutes",
+        "take": "Le décalage d'une journée du feu d'artifice parisien répond à une volonté de commémoration de l'attaque terroriste niçoise.",
+        "url": "https://www.20minutes.fr/tempo/sortir/4233976-20260711-14-juillet-paris-attention-feu-artifice-tire-13-juillet-annee?at_medium=display&at_campaign=149"
       }
     ],
     "id": 24,
     "priority": 25
+  },
+  {
+    "themes": [
+      "Insolite"
+    ],
+    "title": "Dix recettes de glaces maison sans sorbetière",
+    "full": "20 Minutes propose dix recettes de glaces faciles à préparer à domicile sans équipement spécialisé. Ces préparations privilégient la simplicité et mettent l'accent sur des combinaisons de saveurs rafraîchissantes, adaptées aux périodes de chaleur estivale.",
+    "angles": [
+      {
+        "outlet": "20 Minutes",
+        "take": "Recettes glacées accessibles à tous, basées sur des ingrédients simples et sans nécessité d'investir dans une sorbetière.",
+        "url": "https://www.20minutes.fr/tempo/food/4233492-20260711-10-recettes-glaces-maison-faciles-survivre-chaleur?at_medium=display&at_campaign=149"
+      }
+    ],
+    "id": 25,
+    "priority": 26
+  },
+  {
+    "themes": [
+      "Insolite"
+    ],
+    "title": "Nigel Farage pourrait affronter un candidat à tête de poubelle",
+    "full": "En Angleterre, le leader de Reform UK pourrait être confronté à Count Binface, un personnage satirique devenu candidat régulier aux élections britanniques, lors d'un scrutin local à Clacton. Les principaux partis britanniques se sont retirés de cette élection partielle, laissant le terrain à Farage face à ce candidat fantaisiste connu pour ses campagnes décalées.",
+    "angles": [
+      {
+        "outlet": "Slate",
+        "take": "La couverture souligne l'absence quasi-totale de concurrence sérieuse pour Farage, seul un adversaire satirique restant dans la course après les retraits des grands partis.",
+        "url": "https://www.slate.fr/monde/nigel-farage-adversaire-extraterrestre-tete-poubelle-election-partielle-clacton-angleterre-count-binface-reform-uk-satirique"
+      }
+    ],
+    "id": 26,
+    "priority": 27
   }
 ];
