@@ -1,43 +1,32 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-07-13T04:03:30.833192+00:00
+// 2026-07-13T06:44:37.770886+00:00
 const ARTICLES = [
   {
     "themes": [
-      "France",
-      "Société"
+      "Monde"
     ],
-    "title": "Macron commémore Dreyfus et appelle à combattre l'antisémitisme",
-    "full": "Emmanuel Macron a présidé dimanche 12 juillet la première journée nationale de commémoration de la reconnaissance de l'innocence d'Alfred Dreyfus, 120 ans après l'acquittement du capitaine injustement condamné. Le président a appelé à « la vigilance de tous les instants » face au « retour de l'odieux antisémitisme », alors que les actes antisémites sont en hausse en France. Une statue de Dreyfus a été installée devant la Cour de cassation, la juridiction qui l'avait réhabilité. Macron a également demandé que les noms des Justes qui ont caché des juifs durant la Seconde Guerre mondiale soient apposés sur les lieux où ils ont agi.",
+    "title": "États-Unis et Iran échangent des frappes massives au Moyen-Orient",
+    "full": "Les États-Unis ont mené une nouvelle série de bombardements contre des dizaines de cibles en Iran dans la nuit de dimanche à lundi, visant à empêcher Téhéran d'attaquer les navires commerciaux dans le détroit d'Ormuz. L'Iran a riposté en frappant des bases américaines en Jordanie, à Bahreïn et au Koweït, selon les Gardiens de la Révolution. Cette escalade survient deux jours après le début des frappes américaines et met en péril l'accord de cessez-le-feu intérimaire conclu le 17 juin. L'Iran dénonce l'annulation de tous les efforts de pacification régionale, tandis que l'ONU appelle à une reprise des négociations.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "La commémoration s'inscrit dans deux mandats de Macron marqués par une réflexion sur les grands moments de l'histoire républicaine et les menaces actuelles.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/13/emmanuel-macron-et-les-armees-dix-ans-de-relations-entre-defiance-espoirs-et-non-dits_6723032_823448.html"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Cette cérémonie constitue une étape de « réparation nationale » visée par l'exécutif envers les victimes de l'injustice historique.",
-        "url": "https://www.liberation.fr/politique/statue-dalfred-dreyfus-et-hommage-emmanuel-macron-poursuit-la-reparation-nationale-20260710_5XY3AH7KXVFKDE6RBIUQWR54I4/"
-      },
-      {
-        "outlet": "France 24",
-        "take": "L'hommage à Dreyfus symbolise la justice triomphant sur l'antisémitisme, dans un contexte de résurgence actuelle de cette menace.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260712-hommage-%C3%A0-alfred-dreyfus-emmanuel-macron-appelle-%C3%A0-la-vigilance-face-%C3%A0-l-antis%C3%A9mitisme-1"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "L'affaire Dreyfus est rappelée comme un moment fondateur pour la République, le mouvement ouvrier et la lutte contre l'antisémitisme.",
-        "url": "https://www.humanite.fr/histoire/affaire-dreyfus/12-juillet-1906-lacquittement-dalfred-dreyfus-un-acte-fondateur-pour-la-republique-et-le-mouvement-ouvrier"
+        "take": "Les États-Unis justifient leurs bombardements par la nécessité de protéger le trafic maritime, tandis que l'Iran les qualifie de violation de l'accord de cessez-le-feu.",
+        "url": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-au-moyen-orient-les-etats-unis-menent-de-nouvelles-frappes-en-iran-qui-riposte-en-ciblant-des-bases-du-golfe-utilisees-par-washington_6722873_3210.html"
       },
       {
         "outlet": "20 Minutes",
-        "take": "Les actes antisémites n'ont jamais été aussi nombreux en France, justifiant cette commémoration et cet appel à la vigilance présidentielle.",
-        "url": "https://www.20minutes.fr/societe/4234155-20260712-face-retour-odieux-antisemitisme-emmanuel-macron-appelle-vigilance-tous-instants?at_medium=display&at_campaign=149"
+        "take": "L'Iran, frappé pour le deuxième jour consécutif, a répliqué en visant plusieurs bases américaines dans le Golfe, ravivant le risque d'une guerre plus large.",
+        "url": "https://www.20minutes.fr/monde/etats-unis/4234316-20260713-guerre-moyen-orient-iran-annonce-avoir-frappe-bases-americaines-jordanie-bahrein-koweit?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Courrier International",
-        "take": "L'installation de la statue devant la Cour de cassation, 120 ans après et 91 ans après la mort de Dreyfus, répare une dernière injustice symbolique.",
-        "url": "https://www.courrierinternational.com/article/memoire-la-statue-d-alfred-dreyfus-installee-devant-la-cour-de-cassation-cela-repare-une-derniere-injustice_248691"
+        "take": "La presse internationale considère cette reprise des violences comme une menace majeure pour la stabilité de l'accord de cessez-le-feu provisoire.",
+        "url": "https://www.courrierinternational.com/article/moyen-orient-washington-intensifie-ses-frappes-contre-l-iran-teheran-riposte-dans-le-golfe_248790"
+      },
+      {
+        "outlet": "Mediapart",
+        "take": "Un désaccord persiste sur le contrôle du détroit d'Ormuz, Téhéran le déclarant fermé tandis que Washington affirme qu'il reste ouvert au trafic international.",
+        "url": "https://www.mediapart.fr/journal/international/120726/teheran-annonce-la-fermeture-du-detroit-d-ormuz-washington-maintient-qu-il-est-ouvert"
       }
     ],
     "id": 0,
@@ -45,30 +34,36 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "France",
+      "Société"
     ],
-    "title": "Rajoy critiqué pour ses propos xénophobes sur les Bleus",
-    "full": "L'ancien Premier ministre espagnol Mariano Rajoy a provoqué un tollé en affirmant dans une tribune que l'équipe de France ne compte « aucun Français » dans ses rangs, à deux jours de la demi-finale de Coupe du monde opposant les deux pays. Le chef du gouvernement espagnol Pedro Sanchez a dénoncé des « déclarations xénophobes », rejoins par plusieurs responsables politiques français. Ces propos visaient également à critiquer la gauche espagnole après la qualification de l'Espagne.",
+    "title": "Macron inaugure une commémoration nationale en hommage à Alfred Dreyfus",
+    "full": "Emmanuel Macron a présidé dimanche 12 juillet la première journée nationale de commémoration de la reconnaissance de l'innocence d'Alfred Dreyfus, à l'occasion du 120e anniversaire de cette réhabilitation par la Cour de cassation. Une statue de l'officier juif a été installée devant la Cour de cassation, censée « réparer une dernière injustice » selon le chef de l'État. Macron a appelé à la vigilance « de tous les instants » face au « retour de l'odieux antisémitisme » en France, où les actes antisémites n'ont jamais été aussi nombreux. Il a également demandé que les noms des Justes soient apposés sur les lieux où ils ont protégé des juifs pendant la Seconde Guerre mondiale.",
     "angles": [
       {
+        "outlet": "Le Monde",
+        "take": "Macron doit prononcer son dernier discours aux armées lundi après dix ans marqués par une hausse spectaculaire du budget de la défense.",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/13/emmanuel-macron-et-les-armees-dix-ans-de-relations-entre-defiance-espoirs-et-non-dits_6723032_823448.html"
+      },
+      {
         "outlet": "France 24",
-        "take": "Pedro Sanchez a condamné dimanche les déclarations de Rajoy comme « xénophobes », tout comme plusieurs politiques français.",
-        "url": "https://www.france24.com/fr/europe/20260712-racisme-crasseux-pedro-sanchez-politiques-francais-fustigent-propos-mariano-rajoy-bleus-football-mondial-equipe-france"
+        "take": "Cet hommage symbolise la justice triomphant sur l'antisémitisme et l'injustice, selon les organisations de lutte contre le racisme.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260712-hommage-%C3%A0-alfred-dreyfus-emmanuel-macron-appelle-%C3%A0-la-vigilance-face-%C3%A0-l-antis%C3%A9mitisme-1"
       },
       {
         "outlet": "Libération",
-        "take": "Rajoy profite de sa tribune sur la victoire espagnole pour tacler également la gauche française et espagnole.",
-        "url": "https://www.liberation.fr/sports/football/aucun-francais-dans-lequipe-de-france-le-derapage-raciste-de-lancien-premier-ministre-espagnol-mariano-rajoy-20260712_P7CQHR7NKFEOPJQHNNBUHSNOMY/"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "L'ancien dirigeant du Parti populaire espagnol s'en prend à la gauche de son pays dans le même texte.",
-        "url": "https://www.lemonde.fr/football/article/2026/07/12/pas-de-francais-dans-les-rangs-de-l-equipe-de-france-de-football-les-propos-racistes-de-l-ex-premier-ministre-espagnol-mariano-rajoy_6722886_1616938.html"
+        "take": "Le chef de l'État préside une cérémonie de commémoration nationale dans le contexte plus large de réparation historique.",
+        "url": "https://www.liberation.fr/politique/statue-dalfred-dreyfus-et-hommage-emmanuel-macron-poursuit-la-reparation-nationale-20260710_5XY3AH7KXVFKDE6RBIUQWR54I4/"
       },
       {
         "outlet": "Courrier International",
-        "take": "Ses propos ont déclenché l'ire d'une partie de la presse espagnole, qui y voit du racisme et de l'ignorance.",
-        "url": "https://www.courrierinternational.com/article/vu-d-espagne-une-equipe-de-france-sans-joueur-francais-rajoy-rejoint-les-rangs-des-racistes-et-des-xenophobes_248724"
+        "take": "La presse internationale voit dans l'installation de la statue un symbole puissant de justice tardive, 91 ans après la mort de Dreyfus.",
+        "url": "https://www.courrierinternational.com/article/memoire-la-statue-d-alfred-dreyfus-installee-devant-la-cour-de-cassation-cela-repare-une-derniere-injustice_248691"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Macron demande que les noms des Justes soient apposés sur les lieux où ils ont protégé des juifs de la barbarie nazie.",
+        "url": "https://www.franceinfo.fr/societe/antisemitisme/emmanuel-macron-appelle-a-la-vigilance-de-tous-les-instants-face-au-retour-de-l-odieux-antisemitisme_8105090.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 1,
@@ -76,35 +71,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "France"
     ],
-    "title": "Escalade entre Washington et Téhéran au Moyen-Orient",
-    "full": "Les États-Unis et l'Iran se sont échangé des frappes depuis mardi, marquant l'effondrement de l'accord de cessez-le-feu signé le 17 juin. Les hostilités ont débuté par des tirs iraniens visant un navire dans le détroit d'Ormuz, suivis de frappes aériennes américaines et d'une riposte iranienne contre des objectifs régionaux. Les deux pays s'accusent mutuellement de violer l'accord, notamment sur l'interprétation des conditions de libre circulation maritime. L'ONU appelle à la reprise des négociations tandis que les médiateurs régionaux multiplient les initiatives pour désamorcer la crise.",
+    "title": "Enquête antiterroriste après découverte d'armes près d'une synagogue à Sarcelles",
+    "full": "Le parquet national antiterroriste a ouvert une enquête dimanche après la découverte samedi d'armes et de chargeurs dans un véhicule à Sarcelles, en région parisienne. Le véhicule était stationné à environ 500 mètres d'une synagogue, dans une zone où vit une importante communauté juive. Trois cents personnes ont été évacuées lors de l'intervention des forces de l'ordre, alertées par les services de renseignement. Aucun suspect n'a pour l'instant été identifié.",
     "angles": [
       {
+        "outlet": "France 24",
+        "take": "Le parquet souligne la localisation du véhicule à proximité immédiate d'une synagogue et d'un cinéma.",
+        "url": "https://www.france24.com/fr/france/20260712-enqu%C3%AAte-terroriste-ouverte-apr%C3%A8s-d%C3%A9couverte-armes-proximit%C3%A9-synagogue-sarcelles-pnat-dgsi-services-renseignement"
+      },
+      {
         "outlet": "Libération",
-        "take": "Met l'accent sur la séquence d'escalade : incident naval suivi de représailles croisées entre les deux puissances.",
-        "url": "https://www.liberation.fr/international/moyen-orient/en-direct-moyen-orient-bombardements-americains-sur-liran-detroit-dormuz-ferme-la-tension-a-son-comble-depuis-le-cessez-le-feu-20260712_63NNLB6IWVBKRCTCFSTGH53ULQ/"
+        "take": "Les démineurs ont été appelés après le signalement du véhicule suspect contenant un fusil d'assaut et une arme de poing.",
+        "url": "https://www.liberation.fr/societe/police-justice/sarcelles-le-parquet-antiterroriste-ouvre-une-enquete-apres-la-decouverte-dune-arme-dans-une-voiture-pres-de-la-synagogue-20260712_YV2JOVLVCRETRLWVGHM4JOB3MQ/"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Le renseignement intérieur craignait que le véhicule puisse être utilisé contre la communauté juive.",
+        "url": "https://www.20minutes.fr/faits_divers/4234152-20260712-sarcelles-300-personnes-evacuees-apres-signalement-vehicule-suspect?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Le Monde",
-        "take": "Souligne le maintien américain de la liberté de circulation, le commandement central affirmant que le détroit reste ouvert.",
-        "url": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-au-moyen-orient-plus-de-140-navires-ont-traverse-le-detroit-d-ormuz-au-cours-des-sept-derniers-jours-assure-le-commandement-central-des-etats-unis_6722873_3210.html"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Analyse l'effondrement de l'accord comme résultant de divergences mutuelles entre Washington et Téhéran sur son respect.",
-        "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-americaine-est-prete-a-detruire-completement-toutes-les-regions-d-iran-comment-la-treve-entre-washington-et-teheran-a-vole-en-eclats-cette-semaine_8103818.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "Le Figaro International",
-        "take": "Évoque une divergence d'interprétation de l'accord de cessez-le-feu comme source de la crise actuelle.",
-        "url": "https://www.lefigaro.fr/international/reprise-des-hostilites-au-moyen-orient-ces-24-dernieres-heures-un-seuil-a-ete-franchi-entre-les-etats-unis-et-l-iran-20260712"
-      },
-      {
-        "outlet": "Mediapart",
-        "take": "Pointe le désaccord frontal sur le statut du détroit : fermeture selon Téhéran, ouverture selon Washington.",
-        "url": "https://www.mediapart.fr/journal/international/120726/teheran-annonce-la-fermeture-du-detroit-d-ormuz-washington-maintient-qu-il-est-ouvert"
+        "take": "C'est la DGSI qui a signalé le véhicule, menant à l'évacuation de 300 personnes.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/12/sarcelles-le-parquet-antiterroriste-ouvre-une-enquete-apres-qu-une-arme-de-guerre-a-ete-retrouvee-dans-une-voiture-a-proximite-d-une-synagogue_6722905_3225.html"
       }
     ],
     "id": 2,
@@ -112,25 +102,36 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Société",
+      "Sport"
     ],
-    "title": "Zelensky annonce un remaniement du gouvernement ukrainien",
-    "full": "Le président ukrainien Volodymyr Zelensky a annoncé dimanche un remaniement de son gouvernement. La Première ministre Ioulia Svyrydenko, en poste depuis un an, quitte son poste mais devrait se voir confier une nouvelle responsabilité impliquant des relations avec un partenaire stratégique, selon Zelensky. Le remaniement s'inscrit dans une modification de la stratégie politique ukrainienne et s'étendra aussi à la direction des forces de l'ordre.",
+    "title": "Rajoy accusé de racisme pour ses propos sur l'équipe de France",
+    "full": "Mariano Rajoy, ancien Premier ministre espagnol, a publié une tribune affirmant que l'équipe de France ne compte « aucun Français » dans ses rangs, à la veille de la demi-finale de Coupe du monde entre les deux pays. Ces propos, interprétés comme une allusion aux origines des joueurs français, ont déclenché de vives réactions en France et en Espagne, plusieurs politiques français les qualifiant de racistes. L'ancien leader du Parti populaire a également utilisé cette intervention pour critiquer la gauche espagnole, profitant de la qualification de l'Espagne contre la Belgique.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Met l'accent sur les changements à la tête du gouvernement et de la direction des forces de l'ordre.",
-        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-annonce-le-depart-de-sa-premiere-ministre-et-un-remaniement-du-gouvernement-ukrainien_8105111.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Libération",
+        "take": "Rajoy profite de sa tribune pour critiquer à la fois l'équipe de France et la gauche espagnole.",
+        "url": "https://www.liberation.fr/sports/football/aucun-francais-dans-lequipe-de-france-le-derapage-raciste-de-lancien-premier-ministre-espagnol-mariano-rajoy-20260712_P7CQHR7NKFEOPJQHNNBUHSNOMY/"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Des figures politiques françaises qualifient explicitement les propos de Rajoy de racisme.",
+        "url": "https://www.20minutes.fr/sport/football/4234154-20260712-coupe-monde-2026-racisme-crasseux-politiques-francais-repondent-espagnol-rajoy-bleus?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Le Monde",
-        "take": "Situe le remaniement dans un contexte de réorientation stratégique de la politique ukrainienne.",
-        "url": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-annonce-un-remaniement-du-gouvernement-depart-de-la-premiere-ministre-ioulia-svyrydenko_6722853_3210.html"
+        "take": "Rajoy entrelace ses critiques de l'équipe française avec des attaques contre le camp politique adverse en Espagne.",
+        "url": "https://www.lemonde.fr/football/article/2026/07/12/pas-de-francais-dans-les-rangs-de-l-equipe-de-france-de-football-les-propos-racistes-de-l-ex-premier-ministre-espagnol-mariano-rajoy_6722886_1616938.html"
       },
       {
-        "outlet": "France 24",
-        "take": "Souligne la réaffectation de Svyrydenko vers un nouveau rôle impliquant un partenaire clé sans préciser lequel.",
-        "url": "https://www.france24.com/fr/europe/20260712-ukraine-zelensky-annonce-remaniement-gouvernement-depart-premi%C3%A8re-ministre-svyrydenko"
+        "outlet": "Courrier International",
+        "take": "Une partie de la presse espagnole elle-même dénonce le racisme et l'ignorance des propos de Rajoy.",
+        "url": "https://www.courrierinternational.com/article/vu-d-espagne-une-equipe-de-france-sans-joueur-francais-rajoy-rejoint-les-rangs-des-racistes-et-des-xenophobes_248724"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Ces déclarations surviennent dans un contexte tendu à deux jours d'une rencontre décisive entre les deux nations.",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/une-equipe-de-france-sans-francais-la-sortie-raciste-de-l-ex-premier-ministre-espagnol-m-rajoy_8105372.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 3,
@@ -138,35 +139,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Environnement"
     ],
-    "title": "Armes découvertes près d'une synagogue à Sarcelles, enquête antiterroriste",
-    "full": "Le parquet national antiterroriste a ouvert une enquête dimanche après la découverte d'un fusil d'assaut, d'une arme de poing et de chargeurs dans un véhicule à Sarcelles (Val-d'Oise), situé à 500 mètres d'une synagogue. Le véhicule avait été signalé samedi par la DGSI. Trois cents personnes ont été évacuées dans la soirée lors de l'intervention des forces de l'ordre. Aucun suspect n'a pour l'heure été identifié.",
+    "title": "Canicule : 37 départements en vigilance rouge, incendie majeur en forêt de Fontainebleau",
+    "full": "La France subit une vague de chaleur intense avec 37 départements placés en vigilance rouge par Météo-France et presque tout le reste du pays en vigilance orange. La sécheresse provoque des feux de forêt qui se multiplient, dont un incendie d'ampleur exceptionnelle en forêt de Fontainebleau, en Île-de-France, qui a parcouru 800 hectares. Deux Canadair ont été mobilisés pour combattre les flammes, une première dans la région, tandis que le ministre de l'Intérieur se rend sur les lieux. Les températures doivent commencer à diminuer à partir de lundi sur l'ouest du pays.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Les démineurs ont été mobilisés après le signalement du véhicule suspect.",
-        "url": "https://www.liberation.fr/societe/police-justice/sarcelles-le-parquet-antiterroriste-ouvre-une-enquete-apres-la-decouverte-dune-arme-dans-une-voiture-pres-de-la-synagogue-20260712_YV2JOVLVCRETRLWVGHM4JOB3MQ/"
+        "outlet": "France 24",
+        "take": "Souligne l'intensification prolongée de la canicule et ses effets collatéraux sur le tourisme et les événements festifs.",
+        "url": "https://www.france24.com/fr/france/20260712-canicule-plus-d-un-tiers-des-fran%C3%A7ais-sous-vigilance-rouge-prolong%C3%A9e-lundi"
       },
       {
-        "outlet": "France 24",
-        "take": "L'arme a été découverte à proximité immédiate d'un cinéma en plus de la synagogue.",
-        "url": "https://www.france24.com/fr/france/20260712-enqu%C3%AAte-terroriste-ouverte-apr%C3%A8s-d%C3%A9couverte-armes-proximit%C3%A9-synagogue-sarcelles-pnat-dgsi-services-renseignement"
+        "outlet": "Libération",
+        "take": "Insiste sur les effets dramatiques de la sécheresse et la localisation de l'incendie géant aux portes de Paris.",
+        "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-37-departements-en-vigilance-rouge-la-foret-de-fontainebleau-touchee-par-les-flammes-20260713_Q3KHQJEFPRH7XKRRAQTLBXD6PE/"
       },
       {
         "outlet": "France Info",
-        "take": "L'arme retrouvée est qualifiée d'arme de guerre.",
-        "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/une-arme-de-guerre-retrouvee-pres-d-une-synagogue-le-parquet-national-antiterroriste-ouvre-une-enquete_8105444.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "Le renseignement intérieur craignait que le véhicule soit destiné à une action contre la communauté juive.",
-        "url": "https://www.20minutes.fr/faits_divers/4234152-20260712-sarcelles-300-personnes-evacuees-apres-signalement-vehicule-suspect?at_medium=display&at_campaign=149"
+        "take": "Relève le caractère inédit du recours aux Canadair en Île-de-France, confirmé par les pompiers.",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/incendie-en-seine-et-marne-des-bombardiers-d-eau-en-foret-de-fontainebleau-c-est-la-premiere-fois-que-cela-arrive_8105828.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "Le Monde",
-        "take": "Le signalement provenait de la DGSI, le service de renseignement intérieur français.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/12/sarcelles-le-parquet-antiterroriste-ouvre-une-enquete-apres-qu-une-arme-de-guerre-a-ete-retrouvee-dans-une-voiture-a-proximite-d-une-synagogue_6722905_3225.html"
+        "take": "Précise l'ampleur de l'incendie (800 hectares) et la visite du ministre de l'Intérieur sur place.",
+        "url": "https://www.lemonde.fr/planete/live/2026/07/13/en-direct-canicule-l-incendie-en-foret-de-fontainebleau-est-d-une-ampleur-exceptionnelle-le-ministre-de-l-interieur-attendu-sur-place-lundi_6720911_3244.html"
       }
     ],
     "id": 4,
@@ -174,30 +170,31 @@ const ARTICLES = [
   },
   {
     "themes": [
+      "Environnement",
       "Société"
     ],
-    "title": "Nice commémore le dixième anniversaire de l'attentat du 14 juillet",
-    "full": "Plusieurs milliers de personnes ont participé dimanche 12 juillet à une marche silencieuse sur la promenade des Anglais à Nice, en hommage aux victimes de l'attentat au camion-bélier du 14 juillet 2016. Le cortège, composé de victimes, familles et résidents, a emprunté le parcours de l'attaque qui a fait 86 morts et plus de 400 blessés. Les participants, vêtus de blanc et portant des roses, ont rendu hommage à la mémoire des défunts et aux sauveteurs qui ont réagi au drame.",
+    "title": "Fontainebleau ravagée par son plus grand incendie moderne",
+    "full": "La forêt de Fontainebleau connaît depuis dimanche son incendie le plus important de son histoire moderne, avec entre 800 et 1 000 hectares parcourus par les flammes. Pour combattre ce feu d'ampleur exceptionnelle, les autorités ont mobilisé près de 400 pompiers et déployé deux avions bombardiers, une première en Île-de-France. L'incendie a également perturbé les transports : l'autoroute A6 a été coupée et au moins 150 trains ont enregistré du retard.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "La marche a mis l'accent sur le témoignage des victimes, notamment sur la difficulté d'intégrer la résilience dans leur quotidien dix ans après.",
-        "url": "https://www.liberation.fr/societe/marche-hommage-aux-victimes-de-lattentat-de-nice-integrer-le-mot-resilience-a-sa-vie-est-difficile-20260712_2GVHEPZN4RHPVMYG2SQUAMKB3E/"
+        "outlet": "France 24",
+        "take": "Souligne l'ampleur exceptionnelle du sinistre et le déploiement inédit d'avions bombardiers en région parisienne pour le contenir.",
+        "url": "https://www.france24.com/fr/france/20260712-ile-de-france-incendie-ampleur-exceptionnelle-frappe-foret-fontainebleau-seine-et-marne-pompiers-bombardiers"
       },
       {
-        "outlet": "France 24",
-        "take": "Une victime directe de l'attentat a exprimé que la promenade des Anglais demeure pour elle un lieu chargé de mémoire personnelle.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260712-attentat-nice-10-ans-apr%C3%A8s-des-milliers-de-personnes-d%C3%A9filent-en-hommage-aux-victimes"
+        "outlet": "Libération",
+        "take": "Rapporte que cet incendie n'a pas eu d'équivalent depuis plus d'un siècle et met l'accent sur les perturbations du réseau ferroviaire.",
+        "url": "https://www.liberation.fr/environnement/incendies-jusqua-1-000-hectares-touches-par-les-flammes-dans-la-foret-de-fontainebleau-qui-vit-le-plus-grand-incendie-de-son-histoire-moderne-20260713_HUYERBS7YZAI7II3QRSQBJTZUU/"
       },
       {
         "outlet": "20 Minutes",
-        "take": "Environ mille personnes ont participé à la marche blanche silencieuse lancée dimanche matin.",
-        "url": "https://www.20minutes.fr/societe/4234153-20260712-dix-ans-attentat-nice-marche-blanche-lance-commemorations-dimanche?at_medium=display&at_campaign=149"
+        "take": "Relie le caractère virulent de l'incendie aux conditions de canicule actuelles.",
+        "url": "https://www.20minutes.fr/planete/canicule/4234173-20260712-canicule-contre-incendie-tres-virulent-bombardiers-premiere-fois-ile-france?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "France Info",
-        "take": "Les organisateurs ont souligné le courage des sauveteurs face à ce terrible événement, avec près de 3 000 participants selon ce décompte.",
-        "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/attentat-du-14-juillet-a-nice-10-ans-apres-vive-emotion-lors-de-la-marche-blanche_8105132.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Anticipe un combat qui pourrait durer plusieurs jours et souligne les impacts sur les réseaux routiers et ferroviaires.",
+        "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/seine-et-marne/incendie-d-une-ampleur-exceptionnelle-dans-la-foret-de-fontainebleau-400-pompiers-mobilises-800-hectares-ravages-3385732.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 5,
@@ -205,30 +202,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Sport"
     ],
-    "title": "Décès du sénateur américain Lindsey Graham à 71 ans",
-    "full": "Le sénateur républicain de Caroline du Sud Lindsey Graham est décédé samedi 11 juillet à 71 ans des suites d'une maladie brève et soudaine. Figure influente du Parti républicain, proche de Donald Trump et connu pour ses positions interventionnistes, Graham était candidat à un nouveau mandat pour les élections de novembre. Son décès a suscité des hommages de la part de dirigeants américains et internationaux, dont le Premier ministre israélien Benjamin Netanyahu.",
+    "title": "Sinner conserve Wimbledon, Mladenovic sacrée en double",
+    "full": "Jannik Sinner a remporté pour la deuxième année consécutive le titre de Wimbledon en battant l'Allemand Alexander Zverev en cinq sets (6-7, 7-6, 6-3, 6-4). L'Italien ajoute un cinquième titre en Grand Chelem à son palmarès et consolide sa place de numéro un mondial. En parallèle, Kristina Mladenovic, la Française de 33 ans, a remporté le titre en double féminin aux côtés de la Chinoise Guo Hanyu, son septième titre en Grand Chelem.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Souligne que Trump lui a rendu hommage suite à son décès.",
-        "url": "https://www.liberation.fr/international/amerique/deces-du-senateur-americain-lindsey-graham-un-allie-de-trump-20260712_F7IDY4POLNGMXCGDCIMZJKRJTI/"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Met l'accent sur son engagement idéologique en faveur de l'interventionnisme militaire américain.",
-        "url": "https://www.lemonde.fr/disparitions/article/2026/07/12/lindsey-graham-senateur-americain-proche-de-donald-trump-est-mort-a-l-age-de-71-ans-selon-son-entourage_6722880_3382.html"
-      },
-      {
         "outlet": "France 24",
-        "take": "Rapporte que Netanyahu a qualifié Graham d'« l'un des plus grands amis » d'Israël.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260712-mort-de-lindsey-graham-isra%C3%ABl-a-perdu-l-un-de-ses-plus-grands-amis-dit-netanyahu"
+        "take": "Sinner remporte son deuxième Wimbledon consécutif et renforce sa domination au classement mondial.",
+        "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260713-jannik-sinner-conserve-son-titre-%C3%A0-wimbledon-apr%C3%A8s-sa-victoire-alexander-zverev"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Mladenovic, revenue au premier plan après des difficultés l'an dernier, s'impose en double féminin.",
+        "url": "https://www.liberation.fr/sports/tennis/wimbledon-kristina-mladenovic-le-sacre-rare-dune-revenante-20260712_DFQ3UFTNCRCBBBOWBYS4GLQNW4/"
       },
       {
         "outlet": "20 Minutes",
-        "take": "Confirme les circonstances du décès lié à une maladie soudaine.",
-        "url": "https://www.20minutes.fr/monde/etats-unis/4234141-20260712-etats-unis-senateur-republicain-lindsey-graham-allie-donald-trump-mort-71-ans?at_medium=display&at_campaign=149"
+        "take": "Zverev, malgré sa victoire à Roland-Garros, ne peut pas conserver son élan face à Sinner en finale.",
+        "url": "https://www.20minutes.fr/sport/tennis/4234175-20260712-wimbledon-2026-jannik-aime-plus-zverev-fait-encore-chou-blanc-contre-sinner-conserve-titre?at_medium=display&at_campaign=149"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Le duo Mladenovic-Guo Hanyu bat la paire Dabrowski-Stefani pour décrocher le titre en double.",
+        "url": "https://www.franceinfo.fr/sports/tennis/wimbledon/kristina-mladenovic-sacree-en-double-a-wimbledon-avec-guo-hanyu-son-septieme-titre-en-grand-chelem_8105156.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 6,
@@ -238,28 +235,23 @@ const ARTICLES = [
     "themes": [
       "Sport"
     ],
-    "title": "L'Angleterre élimine la Norvège et se qualifie pour les demi-finales",
-    "full": "L'Angleterre s'est qualifiée pour les demi-finales de la Coupe du monde 2026 en battant la Norvège en quart de finale samedi soir, après prolongation (2-1). Les Three Lions affronteront l'Argentine la semaine prochaine. La victoire britannique est toutefois entachée de controverse : la Norvège conteste l'égalisation anglaise, le premier but de Jude Bellingham, affirmant que le ballon a dévié après avoir heurté un câble de caméra aérienne lors du dégagement du gardien. La Fédération internationale de football a défendu l'arbitre français Clément Turpin et n'a pas remis en question la décision.",
+    "title": "Van der Poel remporte la 9e étape du Tour de France en Corrèze",
+    "full": "Mathieu van der Poel a remporté dimanche 12 juillet la 9e étape du Tour de France entre Malemort et Ussel, en s'imposant au terme d'une échappée en petit groupe dans une région en vigilance canicule. Le champion néerlandais, petit-fils de Raymond Poulidor, a ainsi gagné dans la région historique de son grand-père. En raison des chaleurs extrêmes, les organisateurs ont raccourci le parcours de 30 kilomètres, une première dans l'histoire de la course. Tadej Pogacar conservait le maillot jaune.",
     "angles": [
       {
         "outlet": "Libération",
-        "take": "Met l'accent sur la qualification anglaise et le prochain adversaire argentin.",
-        "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-langleterre-punit-la-norvege-et-file-en-demi-finale-20260712_6EUI7WFBCNG3XDBN5356IT6I2I/"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Rapporte les accusations norvégiennes concernant le câble et la défense de la Fédération envers l'arbitre.",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-de-foot-l-egalisation-de-l-angleterre-contre-la-norvege-facilitee-par-un-cable-de-television-la-fifa-defend-l-arbitre-francais_8104997.html#xtor=RSS-3-[lestitres]"
+        "take": "Van der Poel remporte l'étape dans la région de son grand-père Raymond Poulidor, le jour d'une journée caniculaire.",
+        "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-en-correze-van-der-poel-gagne-dans-la-region-de-son-grand-pere-raymond-poulidor-20260712_5ZTSSYUK3NEOJD2MMA5VLHQLJM/"
       },
       {
         "outlet": "20 Minutes",
-        "take": "Détaille la conviction norvégienne quant à l'influence du câble sur la trajectoire du ballon dès le début de l'action.",
-        "url": "https://www.20minutes.fr/sport/football/4234140-20260712-coupe-monde-2026-aucun-doute-angleterre-egalise-grace-cable-camera-aerienne?at_medium=display&at_campaign=149"
+        "take": "Van der Poel s'impose en dominant un petit groupe de quatre échappés tandis que Pogacar garde le maillot jaune.",
+        "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4234149-20260712-direct-tour-france-van-der-poel-pidcock-emmene-echappee-costauds-etape-folle-suivez-9e-etape?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Courrier International",
-        "take": "Souligne la fierté du pays scandinave envers son équipe malgré l'élimination et les regrets sur certains arbitrages.",
-        "url": "https://www.courrierinternational.com/article/vu-d-oslo-la-norvege-eliminee-par-l-angleterre-mais-fiere-de-ses-heros-inoubliables_248658"
+        "outlet": "France Info",
+        "take": "L'étape a été raccourcie de 30 kilomètres en raison de la canicule, une première dans l'histoire du Tour de France.",
+        "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/tour-de-france-etape-raccourcie-face-aux-chaleurs-extremes_8105177.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 7,
@@ -267,31 +259,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport",
-      "Environnement"
+      "Culture"
     ],
-    "title": "Tour de France : première étape raccourcie à cause de la canicule",
-    "full": "Pour la première fois de son histoire, le Tour de France a réduit une étape en raison de conditions météorologiques extrêmes. La neuvième étape, dimanche 12 juillet entre Malemort et Ussel en Corrèze, a été raccourcie de trente kilomètres après le placement du département en vigilance rouge. Le Néerlandais Mathieu Van der Poel (Alpecin) a remporté cette étape de 155,5 kilomètres sur un parcours vallonné.",
+    "title": "L'acteur néo-zélandais Sam Neill est décédé à 78 ans",
+    "full": "Sam Neill, acteur néo-zélandais mondialement connu pour ses rôles dans « Jurassic Park » et « La Leçon de piano », est mort à l'âge de 78 ans, a annoncé sa famille lundi. Sa carrière, qui s'étend depuis les années 1970, lui a permis d'incarner des personnages mémorables au cinéma comme à la télévision, notamment dans la série « Peaky Blinders ».",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Décrit un tracé exigeant et vallonné malgré la réduction de distance imposée par les conditions météorologiques.",
-        "url": "https://www.lemonde.fr/sport/article/2026/07/12/tour-de-france-2026-le-parcours-de-la-neuvieme-etape-raccourcie-en-raison-de-la-canicule-malemort-ussel_6722876_3242.html"
+        "outlet": "France 24",
+        "take": "Met l'accent sur les deux films majeurs de sa filmographie qui ont marqué les esprits.",
+        "url": "https://www.france24.com/fr/culture/20260713-sam-neill-star-de-jurassic-parc-et-la-le%C3%A7on-de-piano-est-mort-%C3%A0-78-ans"
       },
       {
         "outlet": "France Info",
-        "take": "Souligne le caractère historique de cette première réduction d'étape dans les annales du Tour de France.",
-        "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/tour-de-france-etape-raccourcie-face-aux-chaleurs-extremes_8105177.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Souligne la longévité de sa carrière, du début des années 1970 jusqu'à ses rôles récents à la télévision.",
+        "url": "https://www.franceinfo.fr/culture/l-acteur-neo-zelandais-sam-neill-heros-du-film-jurassic-park-est-mort-a-l-age-de-78-ans_8105813.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "France 24",
-        "take": "Rapporte la victoire de Van der Poel dans un contexte de course raccourcie liée à la canicule.",
-        "url": "https://www.france24.com/fr/sports/20260712-tour-de-france-le-n%C3%A9erlandais-mathieu-van-der-poel-remporte-la-9e-%C3%A9tape-sous-la-canicule"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "Donne la distance finale de l'étape et confirme le raccourcissement nécessaire face à la chaleur extrême.",
-        "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-2026-9e-etape-van-der-poel-fait-monter-la-temperature"
+        "outlet": "Le Monde",
+        "take": "Juxtapose ses deux rôles iconiques en cinéma de prestige et de spectacle pour dresser le portrait d'une carrière diversifiée.",
+        "url": "https://www.lemonde.fr/disparitions/article/2026/07/13/sam-neill-celebre-pour-son-role-dans-jurassic-park-est-mort_6723059_3382.html"
       }
     ],
     "id": 8,
@@ -299,30 +285,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Monde"
     ],
-    "title": "Bardella réaffirme son ambition gouvernementale après le renoncement",
-    "full": "Jordan Bardella, président du Rassemblement national, a accordé un premier entretien à la presse depuis la candidature présidentielle de Marine Le Pen. Il affirme sa volonté de « bâtir le programme », « former un gouvernement » et « conquérir une majorité » aux législatives, tout en cherchant à élargir l'électorat du parti au-delà de sa base. Le leader du RN, qui avait renoncé à ses propres ambitions présidentielles au profit de sa mentore, se positionne pour un rôle de premier plan dans la campagne et envisage un gouvernement d'« union nationale ».",
+    "title": "Incendie meurtrier dans un bar de la banlieue de Bangkok",
+    "full": "Au moins 27 personnes ont péri et 63 autres ont été hospitalisées lors d'un incendie déclaré dans la nuit de dimanche à lundi dans un établissement de la banlieue de Bangkok, en Thaïlande. Le sinistre, depuis maîtrisé, constitue la pire tragédie de ce type en Thaïlande depuis des décennies. Le gouverneur de Bangkok a estimé que la fumée aurait probablement été la cause principale des décès. Une enquête a été ouverte pour déterminer les circonstances exactes du drame.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "Bardella tend la main à l'électorat historique de la droite pour élargir la base électorale du RN au-delà des classes populaires.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/12/jordan-bardella-tend-la-main-a-l-electorat-historique-de-la-droite-dans-un-premier-entretien-a-la-presse-depuis-la-condamnation-de-marine-le-pen_6722920_823448.html"
+        "take": "Le gouverneur de Bangkok pointe la fumée comme probable cause principale des décès.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/13/en-thailande-au-moins-27-morts-dans-l-incendie-d-un-bar-de-la-banlieue-de-bangkok_6722962_3210.html"
       },
       {
-        "outlet": "Le Figaro Politique",
-        "take": "Le président du RN annonce la publication d'un troisième livre à l'automne et entend jouer un rôle de premier plan dans la campagne présidentielle.",
-        "url": "https://www.lefigaro.fr/politique/jordan-bardella-au-figaro-ma-responsabilite-est-de-batir-le-programme-former-un-gouvernement-et-conquerir-une-majorite-20260712"
+        "outlet": "France 24",
+        "take": "L'incendie a provoqué 27 morts et 63 hospitalisations dans la nuit de dimanche à lundi.",
+        "url": "https://www.france24.com/fr/asie-pacifique/20260712-au-moins-27-morts-dans-l-incendie-d-un-bar-de-la-banlieue-de-la-capitale-tha%C3%AFlandaise"
       },
       {
-        "outlet": "Libération",
-        "take": "Bardella se projette à la tête d'un gouvernement d'union nationale au-delà des frontières du seul RN.",
-        "url": "https://www.liberation.fr/politique/elections/bardella-se-reve-a-la-tete-dun-gouvernement-dunion-nationale-au-dela-du-rn-20260712_HQWSUJXKGRFPLJ5C5S7JJBEHEM/"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Ce revirement représente une rétrogradation de facto pour Bardella, qui s'était préparé à être candidat à l'Élysée.",
-        "url": "https://www.franceinfo.fr/politique/jordan-bardella/il-pensait-avoir-gagne-a-euromillions-et-c-est-foutu-comment-jordan-bardella-a-ete-relegue-au-role-de-numero-2-derriere-marine-le-pen_8101364.html#xtor=RSS-3-[lestitres]"
+        "outlet": "20 Minutes",
+        "take": "Cet incendie représente la pire tragédie de ce type en Thaïlande depuis plusieurs décennies.",
+        "url": "https://www.20minutes.fr/monde/4234318-20260713-thailande-moins-27-morts-incendie-bar-bangkok?at_medium=display&at_campaign=149"
       }
     ],
     "id": 9,
@@ -330,25 +311,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Société"
     ],
-    "title": "Sinner conserve son titre à Wimbledon face à Zverev",
-    "full": "Jannik Sinner a remporté dimanche la finale de Wimbledon en s'imposant face à Alexander Zverev en quatre manches (6-7, 7-6, 6-3, 6-4). Le numéro un mondial italien devient ainsi le premier joueur à conserver son titre sur le gazon londonien depuis plusieurs années. Il porte son palmarès en Grand Chelem à cinq titres.",
+    "title": "Nice commémore les 86 victimes de l'attentat du 14 juillet 2016",
+    "full": "Dix ans après l'attaque au camion-bélier qui a frappé la Promenade des Anglais le 14 juillet 2016, plusieurs milliers de personnes se sont rassemblées dimanche pour rendre hommage aux victimes et aux blessés. Une marche solennelle s'est déroulée le long du parcours du véhicule, réunissant survivants, familles des victimes et habitants de Nice, beaucoup vêtus de blanc et portant des roses. Dix ans après, les rescapés témoignent de la reconstruction progressive face à un traumatisme toujours présent.",
     "angles": [
       {
+        "outlet": "France 24",
+        "take": "Des milliers de personnes ont marché sur la Promenade des Anglais, où une survivante compare ce lieu à une tombe où elle rend visite à sa mère.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260712-attentat-nice-10-ans-apr%C3%A8s-des-milliers-de-personnes-d%C3%A9filent-en-hommage-aux-victimes"
+      },
+      {
         "outlet": "Libération",
-        "take": "Sinner s'impose en quatre manches et ajoute un cinquième Grand Chelem à son palmarès.",
-        "url": "https://www.liberation.fr/sports/tennis/sinner-remporte-son-deuxieme-titre-daffilee-a-wimbledon-en-dominant-zverev-en-finale-20260712_B2W25ZCYC5DSTETEBR74SZMISY/"
+        "take": "Le cortège réunissait victimes, familles et Niçois dans une commémoration solennelle revenant sur les pas de l'attaque.",
+        "url": "https://www.liberation.fr/societe/marche-hommage-aux-victimes-de-lattentat-de-nice-integrer-le-mot-resilience-a-sa-vie-est-difficile-20260712_2GVHEPZN4RHPVMYG2SQUAMKB3E/"
       },
       {
         "outlet": "France Info",
-        "take": "L'Italien, vainqueur sortant, défend avec succès son titre à Wimbledon dimanche.",
-        "url": "https://www.franceinfo.fr/sports/tennis/wimbledon/jannik-sinner-conserve-son-titre-a-wimbledon-apres-sa-victoire-en-finale-face-a-alexander-zverev-et-s-offre-un-cinquieme-sacre-en-grand-chelem_8105357.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "Zverev, bien que vainqueur du premier set, n'a pas pu résister à Sinner malgré son récent succès à Roland-Garros.",
-        "url": "https://www.20minutes.fr/sport/tennis/4234175-20260712-wimbledon-2026-jannik-aime-plus-zverev-fait-encore-chou-blanc-contre-sinner-conserve-titre?at_medium=display&at_campaign=149"
+        "take": "Des enfants rescapés témoignent de leur longue reconstruction et de la façon dont ils ont appris à vivre avec le traumatisme à travers résilience, voyages et musique.",
+        "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-ai-reussi-a-vaincre-mes-peurs-dix-ans-apres-l-attentat-de-nice-comment-les-enfants-rescapes-ont-ils-appris-a-revivre_8073671.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 10,
@@ -356,25 +337,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Monde"
     ],
-    "title": "Mladenovic remporte le double féminin à Wimbledon",
-    "full": "Kristina Mladenovic, 33 ans, a remporté dimanche le titre en double féminin de Wimbledon aux côtés de la Chinoise Guo Hanyu. Elles ont battu en finale la paire constituée de la Canadienne Gabriela Dabrowski et de la Brésilienne Luisa Stefani. Il s'agit du septième titre en Grand Chelem pour la Française, qui devient la quatrième Française de l'histoire à remporter ce tournoi en double. Ce succès marque un impressionnant retour pour Mladenovic, quasi-absente de la compétition l'année précédente.",
+    "title": "Zelensky annonce un remaniement majeur du gouvernement ukrainien",
+    "full": "Le président ukrainien Volodymyr Zelensky a annoncé dimanche le départ de sa Première ministre et un remaniement de son gouvernement. Des changements affecteront également la direction des forces de l'ordre, sans précisions supplémentaires sur les responsables concernés ou les motifs de ces restructurations.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "La victoire est présentée comme le sacre remarquable d'une joueuse annoncée comme perdue pour le tennis professionnel.",
-        "url": "https://www.liberation.fr/sports/tennis/wimbledon-kristina-mladenovic-le-sacre-rare-dune-revenante-20260712_DFQ3UFTNCRCBBBOWBYS4GLQNW4/"
+        "outlet": "20 Minutes",
+        "take": "Zelensky a également rendu hommage au sénateur américain Lindsey Graham dans le contexte de ces annonces gouvernementales.",
+        "url": "https://www.20minutes.fr/monde/ukraine/4234165-20260712-guerre-ukraine-vers-remaniement-gouvernement-zelensky-hommage-lindsey-graham?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "France Info",
-        "take": "L'accent est mis sur l'importance du titre : le septième en Grand Chelem pour Mladenovic.",
-        "url": "https://www.franceinfo.fr/sports/tennis/wimbledon/kristina-mladenovic-sacree-en-double-a-wimbledon-avec-guo-hanyu-son-septieme-titre-en-grand-chelem_8105156.html#xtor=RSS-3-[lestitres]"
+        "take": "Le président détaille que les changements toucheront plusieurs niveaux de l'administration, y compris la hiérarchie des forces de l'ordre.",
+        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-annonce-le-depart-de-sa-premiere-ministre-et-un-remaniement-du-gouvernement-ukrainien_8105111.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "France 24",
-        "take": "Le contexte plus large du tournoi est souligné, avec la victoire parallèle de Sinner en simple, et la place historique de Mladenovic parmi les Françaises.",
-        "url": "https://www.france24.com/fr/sports/20260712-sinner-remporte-son-deuxi%C3%A8me-wimbledon-la-fran%C3%A7aise-mladenovic-sacr%C3%A9e-double-grand-chelem-tennis-num%C3%A9ro-un-mondial"
+        "outlet": "Courrier International",
+        "take": "Le remaniement ukrainien figure parmi les principaux événements internationaux rapportés dans la nuit.",
+        "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-incendie-a-bangkok-remaniement-en-ukraine-mousson-au-bangladesh-mort-de-lindsey-graham-wimbledon-les-informations-de-la-nuit_248757"
       }
     ],
     "id": 11,
@@ -382,25 +363,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "France"
     ],
-    "title": "Iran et États-Unis intensifient leurs frappes au-dessus du détroit d'Ormuz",
-    "full": "Les hostilités entre Washington et Téhéran se sont considérablement aggravées dans la nuit du 12 au 13 juillet, atteignant un niveau inédit depuis un mémorandum signé en juin entre les deux puissances. Après que les Gardiens de la révolution ont tiré des coups de semonce contre un porte-conteneurs et interdit le transit dans le détroit d'Ormuz, l'armée américaine a lancé des frappes massives contre environ 140 cibles iraniennes. En représailles, l'Iran a ciblé des bases militaires américaines au Koweït, en Jordanie et à Bahreïn. Téhéran dénonce une escalade qui « réduit à néant » les efforts diplomatiques.",
+    "title": "Bardella se positionne pour Matignon en cas de victoire du RN",
+    "full": "Le président du Rassemblement national Jordan Bardella a déclaré au Figaro qu'il entendait jouer un rôle de premier plan en cas de victoire électorale de Marine Le Pen à la présidentielle. Il s'assigne trois missions : bâtir le programme, former un gouvernement et conquérir une majorité aux législatives futures. Bardella plaide pour un gouvernement « d'union nationale » dépassant les seules rangs de son parti. Il a par ailleurs démenti ressentir une déception de ne pas être le candidat du RN à l'élection présidentielle.",
     "angles": [
       {
         "outlet": "Libération",
-        "take": "Les tensions du détroit d'Ormuz atteignent une intensité sans précédent depuis l'accord diplomatique de juin.",
-        "url": "https://www.liberation.fr/international/moyen-orient/iran-et-etats-unis-lances-dans-une-nouvelle-bataille-dormuz-20260712_FHBT575FCBAPPPVIBUUXTFT4BI/"
+        "take": "Souligne que Bardella était pressenti comme un plan B de Marine Le Pen et qu'il se redéfinit désormais comme porteur d'une ambition gouvernementale plus large.",
+        "url": "https://www.liberation.fr/politique/elections/bardella-se-reve-a-la-tete-dun-gouvernement-dunion-nationale-au-dela-du-rn-20260712_HQWSUJXKGRFPLJ5C5S7JJBEHEM/"
       },
       {
-        "outlet": "Le Monde",
-        "take": "L'attaque iranienne contre un navire commercial a déclenché une riposte américaine massive, suivie de contre-attaques iraniennes.",
-        "url": "https://www.lemonde.fr/videos/video/2026/07/12/video-les-etats-unis-frappent-140-cibles-en-iran-apres-l-attaque-par-teheran-d-un-navire-dans-le-detroit-d-ormuz_6722895_1669088.html"
+        "outlet": "Le Figaro Politique",
+        "take": "Rapporte que Bardella rompt le silence depuis la candidature de Le Pen et ambitionne une visibilité accrue, notamment par la publication d'un nouvel ouvrage à l'automne.",
+        "url": "https://www.lefigaro.fr/politique/jordan-bardella-au-figaro-ma-responsabilite-est-de-batir-le-programme-former-un-gouvernement-et-conquerir-une-majorite-20260712"
       },
       {
-        "outlet": "France 24",
-        "take": "Les États-Unis justifient leurs frappes par la protection de la liberté de navigation tandis que l'Iran les présente comme une violation de ses engagements diplomatiques.",
-        "url": "https://www.france24.com/fr/moyen-orient/20260712-en-direct-etats-unis-lancent-nouvelle-salve-de-frappes-sur-iran-pays-golfe-detroit-ormuz-liban-donald-trump-israel-cessez-feu"
+        "outlet": "France Info",
+        "take": "Met l'accent sur le déni de Bardella concernant une éventuelle déception face à l'absence de sa candidature personnelle.",
+        "url": "https://www.franceinfo.fr/politique/front-national/jordan-bardella-plaide-pour-un-gouvernement-d-union-nationale-depassant-le-rn-en-cas-de-victoire-de-son-parti-a-la-presidentielle_8105096.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 12,
@@ -408,25 +389,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "Sport"
     ],
-    "title": "Canicule : 37 départements maintenus en vigilance rouge lundi",
-    "full": "Trente-sept départements de France métropolitaine restent placés en vigilance rouge lundi en raison de la persistance d'un épisode caniculaire sévère et durable. Quarante-sept autres départements sont en vigilance orange. Météo-France annonce une baisse progressive par la façade atlantique à partir de lundi 22 heures, avec onze départements descendant au niveau orange à cette heure. Les feux de forêt se multiplient et perturbent les transports, notamment ferroviaires.",
+    "title": "France-Espagne en demi-finale : Dallas préfère son rodéo",
+    "full": "La demi-finale de la Coupe du monde 2026 entre la France et l'Espagne se dispute mardi 14 juillet à Dallas. Cependant, dans cette ville texane, l'événement sportif passe au second plan : les habitants restent davantage mobilisés par le rodéo local, qui demeure l'attraction traditionnelle majeure de la région. Cette discipline et l'atmosphère western constituent depuis longtemps un élément central de l'identité culturelle et économique du Texas.",
     "angles": [
       {
-        "outlet": "France 24",
-        "take": "Met l'accent sur l'impact de la canicule sur le secteur touristique et les événements festifs du pays.",
-        "url": "https://www.france24.com/fr/france/20260712-canicule-plus-d-un-tiers-des-fran%C3%A7ais-sous-vigilance-rouge-prolong%C3%A9e-lundi"
+        "outlet": "Libération",
+        "take": "Le rodéo texan conserve sa primauté culturelle et commerciale malgré l'accueil d'un match phare du Mondial.",
+        "url": "https://www.liberation.fr/international/amerique/pour-nous-cest-traditionnel-malgre-la-coupe-du-monde-et-la-demie-de-la-france-a-dallas-le-rodeo-reste-lattraction-phare-du-texas-20260713_HIZL7CP77RAKXFYCPF34SKW3XU/"
       },
       {
-        "outlet": "France Info",
-        "take": "Souligne le caractère persistant et durable de cet épisode caniculaire malgré les premiers signes d'amélioration.",
-        "url": "https://www.franceinfo.fr/environnement/meteo/bulletins-meteo/37-departements-maintenus-en-vigilance-rouge-canicule-pour-la-journee-de-lundi-47-places-en-vigilance-orange_8105201.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Détaille les changements progressifs de vigilance attendus lundi et rapporte les perturbations du trafic ferroviaire liées aux incendies.",
-        "url": "https://www.lemonde.fr/planete/live/2026/07/12/en-direct-canicule-un-incendie-tres-virulent-en-cours-pres-de-l-a6-perturbe-la-circulation-des-trains-37-departements-restent-en-vigilance-rouge-lundi_6720911_3244.html"
+        "outlet": "20 Minutes",
+        "take": "L'équipe de France est arrivée à Dallas en préparation de sa demi-finale contre l'Espagne.",
+        "url": "https://www.20minutes.fr/sport/football/4234315-20260713-direct-coupe-monde-2026-bleus-arrives-dallas-forlan-nomme-selectionneur-uruguay-suivez-actus-journee?at_medium=display&at_campaign=149"
       }
     ],
     "id": 13,
@@ -436,18 +412,18 @@ const ARTICLES = [
     "themes": [
       "Monde"
     ],
-    "title": "Incendie meurtrier dans un bar de la banlieue de Bangkok",
-    "full": "Au moins 27 personnes ont péri dans un incendie qui s'est déclaré dans un bar de la banlieue de Bangkok dans la nuit de dimanche à lundi. Soixante-trois autres ont été hospitalisées. Le gouverneur de Bangkok attribue les décès principalement à l'inhalation de fumée. Les autorités thaïlandaises ont ouvert une enquête pour déterminer les circonstances précises du sinistre, désormais maîtrisé.",
+    "title": "Macron réunit 37 pays pour renforcer le soutien à l'Ukraine",
+    "full": "Emmanuel Macron organise lundi à Paris un sommet de la coalition des volontaires pour l'Ukraine, réunissant 37 pays en présence du président ukrainien Volodymyr Zelensky. Cet événement vise à accroître le soutien à Kiev et à intensifier la pression sur la Russie. Ce format de coalition représente un nouveau signal de mobilisation stratégique européenne face aux enjeux de sécurité régionaux.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Met l'accent sur l'avis du gouverneur de Bangkok selon lequel la fumée serait la cause principale des décès.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/13/en-thailande-au-moins-27-morts-dans-l-incendie-d-un-bar-de-la-banlieue-de-bangkok_6722962_3210.html"
+        "outlet": "France 24",
+        "take": "La présidence française défend le sommet comme un moyen d'augmenter simultanément le soutien à l'Ukraine et la pression exercée sur la Russie.",
+        "url": "https://www.france24.com/fr/france/20260712-coalition-volontaires-ukraine-reunie-en-sommet-paris-emmanuel-macron-russie-soutien-pression-volodymyr-zelensky"
       },
       {
-        "outlet": "France 24",
-        "take": "Détaille le bilan complet des victimes et des blessés, ainsi que l'état actuel de l'incendie.",
-        "url": "https://www.france24.com/fr/asie-pacifique/20260712-au-moins-27-morts-dans-l-incendie-d-un-bar-de-la-banlieue-de-la-capitale-tha%C3%AFlandaise"
+        "outlet": "France Info",
+        "take": "Cette coalition contourne partiellement les structures classiques de l'Otan et illustre la volonté de « réveil stratégique » de l'Europe face à la Russie et aux États-Unis.",
+        "url": "https://www.franceinfo.fr/economie/emploi/metiers/armee-et-securite/pourquoi-la-coalition-des-volontaires-pour-l-ukraine-reunie-a-paris-bouscule-les-codes-de-l-otan_8105777.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 14,
@@ -455,20 +431,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Monde"
     ],
-    "title": "Mise en examen du chauffeur après la mort d'une adolescente",
-    "full": "Le chauffeur d'un camion, âgé de 45 ans, a été mis en examen suite au décès d'Auphélie, 17 ans, survenu lors des célébrations de la victoire de la France face au Maroc en marge de la Coupe du monde 2026. La jeune fille a chuté du véhicule lors des festivités. L'homme encourt dix ans d'emprisonnement et 150 000 euros d'amende, mais reste présumé innocent selon le procureur.",
+    "title": "Incendie en Andalousie : le bilan monte à treize morts",
+    "full": "Un incendie qui s'est déclaré en Andalousie (sud de l'Espagne) a fait treize victimes, après le décès dimanche d'une Britannique de 93 ans à l'hôpital. La femme, hospitalisée vendredi avec des brûlures couvrant 20 % de son corps, n'a pu survivre à ses blessures. Le sinistre est désormais maîtrisé, ce qui a permis le retour progressif de centaines d'habitants évacués dès samedi. Une Française reste actuellement portée disparue.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Le chauffeur a été mis en examen et risque une peine substantielle, tandis que le procureur rappelle le principe de présomption d'innocence.",
-        "url": "https://www.franceinfo.fr/faits-divers/mort-d-une-adolescente-apres-le-match-france-maroc-le-chauffeur-du-camion-mis-en-examen_8105348.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Le Monde",
+        "take": "La stabilisation du feu a permis le retour des habitants évacués, bien que le bilan des décès puisse encore évoluer.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/13/incendie-en-andalousie-la-mort-d-une-britannique-a-l-hopital-porte-a-13-le-nombre-de-victimes-le-feu-est-desormais-stabilise_6723031_3210.html"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "La source revient sur l'identité et l'âge de la victime, et mentionne l'ouverture d'une cagnotte de soutien à la famille.",
-        "url": "https://www.20minutes.fr/faits_divers/4234166-20260712-coupe-monde-2026-auphelie-adolescente-morte-marge-celebrations-france-maroc?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "Le décès de la victime britannique intervient après une hospitalisation de plusieurs jours pour traiter des brûlures étendues.",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/le-bilan-de-l-incendie-en-andalousie-passe-a-13-morts-apres-le-deces-d-une-britannique-de-93-ans-a-l-hopital_8105516.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 15,
@@ -476,20 +452,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Société"
     ],
-    "title": "Au Festival d'Avignon, des artistes demandent au gouvernement d'arrêter les coupes",
-    "full": "Neuf artistes du théâtre, de la danse, du cirque et de la performance ont adressé dimanche un appel au président Emmanuel Macron devant 2 000 spectateurs réunis dans la cour d'honneur du Palais des papes, durant la 80e édition du Festival d'Avignon. Soutenues par une quarantaine de créateurs, ces personnalités dénoncent les réductions budgétaires qui menacent le secteur culturel et les obligent à « crier » face à l'urgence de la situation.",
+    "title": "Une adolescente décède après une chute lors des célébrations France-Maroc",
+    "full": "Une jeune fille de 17 ans, Auphélie, est morte après être tombée d'un camion lors des festivités suivant le match France-Maroc de la Coupe du monde 2026. Le chauffeur du véhicule, âgé de 45 ans, a été mis en examen et encourt jusqu'à dix ans de prison et 150 000 euros d'amende, tout en restant présumé innocent selon le procureur. Une cagnotte a été ouverte en hommage à la victime.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Le collectif d'artistes interpelle directement le chef de l'État en le pressant de revoir sa politique de réduction des financements publics de la culture.",
-        "url": "https://www.lemonde.fr/culture/article/2026/07/13/au-festival-d-avignon-des-artistes-en-appellent-a-emmanuel-macron-les-coupes-budgetaires-nous-obligent-a-crier-tant-il-y-a-urgence_6722929_3246.html"
+        "outlet": "20 Minutes",
+        "take": "Rapporte le décès de l'adolescente survenu lors d'une chute durant les célébrations populaires consécutives à la victoire française.",
+        "url": "https://www.20minutes.fr/faits_divers/4234166-20260712-coupe-monde-2026-auphelie-adolescente-morte-marge-celebrations-france-maroc?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "France Info",
-        "take": "Le festival met en avant « Maldoror », spectacle phare de cette édition mis en scène par Julien Gosselin.",
-        "url": "https://www.franceinfo.fr/replay-radio/info-culture/au-festival-d-avignon-le-choc-maldoror_8064122.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Met l'accent sur la mise en examen du chauffeur et les poursuites judiciaires engagées à son encontre.",
+        "url": "https://www.franceinfo.fr/faits-divers/mort-d-une-adolescente-apres-le-match-france-maroc-le-chauffeur-du-camion-mis-en-examen_8105348.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 16,
@@ -497,20 +473,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Culture"
     ],
-    "title": "Un homme mis en examen pour viol à Aix-en-Provence",
-    "full": "Un homme, libéré peu de temps auparavant, a été mis en examen après avoir séquestré et violé une étudiante de 19 ans à Aix-en-Provence dans la nuit de vendredi à samedi. Le suspect a reconnu les faits lors de sa première audition. La jeune femme avait quitté sa cité universitaire vers 1 heure du matin pour fuir la chaleur.",
+    "title": "Le collectif tg Stan célèbre Molière en marathon au Festival d'Avignon",
+    "full": "La compagnie belge tg Stan présente « 1, 2, 3 Poquelin » à partir de lundi à la carrière de Boulbon, dans le cadre du Festival d'Avignon. Cette création compile sept pièces du dramaturge en un spectacle de cinq heures, mêlant révérence savante et approche décalée de l'œuvre de Molière. La pièce célèbre l'humour corrosif et la modernité qui caractérisent l'auteur classique.",
     "angles": [
       {
         "outlet": "Libération",
-        "take": "Souligne qu'il s'agit d'une récidive, l'auteur présumé étant sorti de prison peu avant les faits.",
-        "url": "https://www.liberation.fr/societe/police-justice/a-peine-sorti-de-prison-un-homme-recidive-et-viole-une-etudiante-a-aix-en-provence-20260712_HWCNQZGIFZBD7OFV4YHBYZW7HI/"
+        "take": "Le collectif tg Stan conjugue érudition et irrévérence pour offrir une relecture foutraque du répertoire molièresque.",
+        "url": "https://www.liberation.fr/culture/scenes/festival-davignon-avec-1-2-3-poquelin-le-collectif-tg-stan-joue-les-fans-savants-20260713_NWBYXYCSHJGWNLPL7VP3QZ34O4/"
       },
       {
-        "outlet": "France Info",
-        "take": "Précise les circonstances : l'étudiante avait quitté son logement de nuit en raison de la chaleur au moment des faits.",
-        "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-homme-soupconne-d-avoir-sequestre-et-viole-une-etudiante-de-19-ans-a-aix-en-provence-a-ete-mis-en-examen_8105495.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "Le marathon théâtral réunit plusieurs pièces pour mettre en lumière l'humour corrosif et la portée moderne de Molière.",
+        "url": "https://www.lemonde.fr/culture/article/2026/07/12/festival-d-avignon-le-collectif-tg-stan-prepare-un-festin-de-moliere_6722919_3246.html"
       }
     ],
     "id": 17,
@@ -518,20 +494,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Culture"
     ],
-    "title": "La statue de Dreyfus installée devant la Cour de cassation",
-    "full": "Une statue en bronze du capitaine Dreyfus, créée par l'artiste Tim en 1985, a été inaugurée le 12 juillet devant la Cour de cassation à Paris, en présence d'Emmanuel Macron. Son installation intervient cent vingt ans après l'arrêt de la Cour de cassation qui a reconnu l'innocence de Dreyfus. À cette même occasion, le 12 juillet est devenu officiellement une journée d'hommage national en mémoire de cette réhabilitation.",
+    "title": "Au Festival d'Avignon, artistes et créateurs interpellent Macron sur les budgets",
+    "full": "Neuf artistes du théâtre, de la danse, du cirque et de la performance, soutenus par une quarantaine de créateurs, ont adressé dimanche un texte au président de la République devant 2 000 spectateurs dans la cour d'honneur du Palais des papes. Cet appel s'inscrit dans le contexte de réductions budgétaires qui fragilisent selon eux les conditions de création et de production artistique. Le Festival d'Avignon, qui célèbre sa 80e édition, accueille notamment « Maldoror », mise en scène par Julien Gosselin, parmi ses spectacles majeurs.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "L'inauguration de la statue marque symboliquement l'aboutissement long et difficile de la reconnaissance de l'innocence de Dreyfus, installée au cœur du pouvoir judiciaire français.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/12/devant-la-cour-de-cassation-la-statue-du-capitaine-dreyfus-a-enfin-trouve-sa-place_6722911_823448.html"
+        "take": "Les artistes pointent l'urgence des coupes budgétaires comme raison de leur mobilisation publique auprès du chef de l'État.",
+        "url": "https://www.lemonde.fr/culture/article/2026/07/13/au-festival-d-avignon-des-artistes-en-appellent-a-emmanuel-macron-les-coupes-budgetaires-nous-obligent-a-crier-tant-il-y-a-urgence_6722929_3246.html"
       },
       {
-        "outlet": "Mediapart",
-        "take": "La création d'une journée nationale d'hommage est présentée comme une avancée mémorielle majeure mettant en avant la défense de la justice et l'innocence.",
-        "url": "https://www.mediapart.fr/journal/culture-et-idees/120726/defendre-l-innocence-du-capitaine-dreyfus-c-est-defendre-la-justice"
+        "outlet": "France Info",
+        "take": "Le festival met en avant l'édition anniversaire et ses créations marquantes, dont « Maldoror » en cour d'honneur.",
+        "url": "https://www.franceinfo.fr/replay-radio/info-culture/au-festival-d-avignon-le-choc-maldoror_8064122.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 18,
@@ -539,20 +515,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Tech & Sciences"
     ],
-    "title": "Festival d'Avignon 2026 : Katerina Andreou explore les marathons de danse",
-    "full": "La chorégraphe grecque Katerina Andreou présente « How Romantic » au Festival d'Avignon 2026, une création mêlant une intense physicalité à des questionnements sur l'isolement et le lien social. La pièce s'inspire des marathons de danse populaires lors de la Grande Dépression américaine, des compétitions d'endurance où les participants rivalisaient de fatigue. À travers ce spectacle énergique, Andreou explore comment ces épreuves physiques collectives éclairent nos rapports à la solitude et à la communauté.",
+    "title": "Meta retire sa nouvelle IA d'Instagram après trois jours",
+    "full": "Meta a suspendu « Muse Image », une fonctionnalité de génération d'images par intelligence artificielle lancée le 7 juillet sur Instagram, dès le 10 juillet. L'outil permettait à l'IA d'apprendre à partir de contenus issus de comptes publics, un paramètre activé par défaut qui a suscité des critiques immédiates auprès des utilisateurs. Le groupe a décidé de retirer la fonctionnalité face au mécontentement.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Met l'accent sur l'approche caractéristique d'Andreou conjuguant l'exigence physique à une réflexion existentielle.",
-        "url": "https://www.liberation.fr/culture/scenes/festival-davignon-2026-les-savants-contraires-de-katerina-andreou-20260712_D3OYFF5QGFFQJNRJ2I4RUOQQTA/"
+        "outlet": "Le Figaro Éco",
+        "take": "La controverse s'est cristallisée autour du fait que l'IA pouvait exploiter directement les images d'utilisateurs Instagram sans consentement explicite.",
+        "url": "https://www.lefigaro.fr/secteur/high-tech/meta-suspend-une-nouvelle-fonctionnalite-ia-d-instagram-trois-jours-apres-son-lancement-20260712"
       },
       {
-        "outlet": "Le Monde",
-        "take": "Souligne l'inspiration historique des marathons de danse de l'Amérique déprimée comme matériau de création choreographique.",
-        "url": "https://www.lemonde.fr/culture/article/2026/07/12/festival-d-avignon-katerina-andreou-dans-l-epreuve-des-marathons-de-danse_6722916_3246.html"
+        "outlet": "France Info",
+        "take": "Meta a considéré que le caractère par défaut du paramètre rendant le contenu utilisable pour l'IA constituait un point problématique majeur justifiant le retrait.",
+        "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/meta-retire-la-nouvelle-ia-d-instagram-trois-jours-apres-son-lancement-face-au-mecontentement-des-utilisateurs_8102363.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 19,
@@ -560,20 +536,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Sport",
+      "Environnement"
     ],
-    "title": "La justice annule l'élection des adjoints du maire de Saint-Denis-Pierrefitte",
-    "full": "Le tribunal administratif de Montreuil a annulé samedi l'élection des adjoints au maire de Saint-Denis-Pierrefitte, Bally Bagayoko, élu en mars sous l'étiquette de la France Insoumise. Cette annulation fait suite à un recours de la préfecture. La mairie a annoncé son intention de former un pourvoi devant le Conseil d'État, ce qui suspend l'exécution de la décision du tribunal.",
+    "title": "Canicule : le Tour de France en débat sur son calendrier",
+    "full": "Face aux températures extrêmes qui affectent le Tour de France 2026, le syndicat des coureurs demande l'adaptation des horaires de départ des étapes estivales pour protéger la santé des athlètes. Dimanche 12 juillet, la neuvième étape a été raccourcie de 30 kilomètres en raison de la chaleur. Le maillot jaune Pogacar a remis en question le maintien de l'épreuve en été et envisagerait un changement du calendrier si cela ne tenait qu'à lui.",
     "angles": [
       {
-        "outlet": "Le Figaro Politique",
-        "take": "Bally Bagayoko, maire issu des rangs locaux de la France Insoumise, représente un profil distinct des autres cadres mélenchoniens.",
-        "url": "https://www.lefigaro.fr/politique/bally-bagayoko-nouvelle-star-de-la-nouvelle-france-20260710"
+        "outlet": "Libération",
+        "take": "Pogacar questionne la pertinence de dérouler le Tour durant l'été face aux températures en hausse.",
+        "url": "https://www.liberation.fr/sports/cyclisme/si-ca-ne-tenait-qua-moi-je-ne-courrais-pas-dans-les-endroits-chauds-face-a-la-canicule-pogacar-remet-lorganisation-du-tour-en-question-20260712_COVPVU6JHBDH3CEWNI3LQWVCOI/"
       },
       {
-        "outlet": "Libération",
-        "take": "La annulation judiciaire intervient suite à un déféré préfectoral et sera contestée par la mairie devant la plus haute instance administrative.",
-        "url": "https://www.liberation.fr/politique/a-saint-denis-pierrefitte-la-justice-annule-lelection-des-adjoints-au-maire-bally-bagayoko-la-ville-fait-appel-20260712_TO2HNU46E5APTOZFH55QGBVFHA/"
+        "outlet": "Le Monde",
+        "take": "Le syndicat des coureurs demande un décalage des heures de départ des courses estivales comme mesure d'adaptation.",
+        "url": "https://www.lemonde.fr/sport/article/2026/07/12/tour-de-france-2026-la-canicule-pousse-le-syndicat-des-coureurs-a-reclamer-l-adaptation-des-horaires-des-etapes_6722903_3242.html"
       }
     ],
     "id": 20,
@@ -581,20 +558,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Société"
     ],
-    "title": "L'actrice Claudette Walker, « la mamie de YouTube », est décédée",
-    "full": "Claudette Walker, actrice connue pour ses seconds rôles au cinéma et à la télévision, est morte vendredi à l'âge de 86 ans. Elle s'était fait connaître auprès d'un public plus jeune grâce à ses apparitions dans des vidéos du youtubeur Cyprien, ce qui lui avait valu le surnom de « mamie de YouTube ».",
+    "title": "Aix-en-Provence : mise en examen pour viol peu après une libération",
+    "full": "Un homme a été mis en examen pour avoir séquestré et violé une étudiante de 19 ans à Aix-en-Provence dans la nuit de vendredi à samedi. L'auteur présumé, qui venait de sortir de prison, a reconnu les faits lors de son audition initiale. La jeune femme avait quitté sa cité universitaire vers 1 heure du matin pour échapper à la chaleur de son logement.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Rappelle sa carrière au cinéma et à la télévision avant ses apparitions sur YouTube.",
-        "url": "https://www.20minutes.fr/arts-stars/culture/4234145-20260712-actrice-claudette-walker-mamie-youtube-morte?at_medium=display&at_campaign=149"
+        "outlet": "Libération",
+        "take": "Souligne le caractère de récidive, l'homme ayant commis cette infraction très peu de temps après sa libération.",
+        "url": "https://www.liberation.fr/societe/police-justice/a-peine-sorti-de-prison-un-homme-recidive-et-viole-une-etudiante-a-aix-en-provence-20260712_HWCNQZGIFZBD7OFV4YHBYZW7HI/"
       },
       {
         "outlet": "France Info",
-        "take": "Souligne son lien particulier avec le créateur YouTube Cyprien qui lui a donné une nouvelle visibilité.",
-        "url": "https://www.franceinfo.fr/culture/tv/l-actrice-claudette-walker-surnommee-la-mamie-de-youtube-est-morte-a-86-ans_8104883.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Détaille les circonstances de l'agression en précisant que la victime s'était absentée de son domicile pour fuir la chaleur nocturne.",
+        "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-homme-soupconne-d-avoir-sequestre-et-viole-une-etudiante-de-19-ans-a-aix-en-provence-a-ete-mis-en-examen_8105495.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 21,
@@ -602,21 +579,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement",
-      "France"
+      "Société"
     ],
-    "title": "Canicule : un incendie virulent en Seine-et-Marne",
-    "full": "Un incendie « virulent » est en cours près de l'autoroute A6 en Seine-et-Marne, au moment où la France connaît son troisième épisode de chaleur extrême de l'année. Plus d'un tiers des habitants du pays sont placés sous vigilance rouge ce dimanche 12 juillet, les températures ayant dépassé les 40 degrés samedi. Ce pic de canicule ravive les risques de propagation des incendies sur l'ensemble du territoire.",
+    "title": "La statue du capitaine Dreyfus installée devant la Cour de cassation",
+    "full": "Une sculpture du capitaine Alfred Dreyfus, réalisée par l'artiste Tim en 1985, a été inaugurée sur l'île de la Cité devant la Cour de cassation en présence du président Emmanuel Macron. Cette installation intervient cent vingt ans après l'arrêt de la Cour de cassation qui, en 1906, a reconnu l'innocence de Dreyfus, victime d'une erreur judiciaire devenue emblématique. À cette occasion, le 12 juillet est devenu officiellement une journée d'hommage national.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Met l'accent sur la conjonction entre le pic de canicule touchant plus d'un tiers des Français en vigilance rouge et la menace d'incendies accentuée par ces conditions.",
-        "url": "https://www.liberation.fr/societe/en-direct-canicule-plus-dun-tiers-des-francais-sous-vigilance-rouge-20260712_75BDZTBQ6RCL5N35KUKPVVH72I/"
+        "outlet": "Le Monde",
+        "take": "Le bronze trouve enfin sa place symbolique sur l'île de la Cité, lieu du pouvoir judiciaire français.",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/12/devant-la-cour-de-cassation-la-statue-du-capitaine-dreyfus-a-enfin-trouve-sa-place_6722911_823448.html"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Souligne l'ampleur géographique de la crise avec trente-sept départements en vigilance rouge et la virulence du foyer en cours.",
-        "url": "https://www.20minutes.fr/planete/canicule/4234137-20260712-direct-canicule-incendies-trente-sept-departements-vigilance-rouge-40-degres-depasses-samedi?at_medium=display&at_campaign=149"
+        "outlet": "Mediapart",
+        "take": "L'historien Vincent Duclert y voit une « avancée mémorielle historique » et un acte de défense de la justice.",
+        "url": "https://www.mediapart.fr/journal/culture-et-idees/120726/defendre-l-innocence-du-capitaine-dreyfus-c-est-defendre-la-justice"
       }
     ],
     "id": 22,
@@ -624,15 +600,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "France",
+      "Environnement"
     ],
-    "title": "Incendie de 300 hectares près de l'A6 en Seine-et-Marne",
-    "full": "Un incendie a ravagé environ 300 hectares près de l'autoroute A6 en Seine-et-Marne dimanche. Le feu, parti du bas-côté de la route, s'est propagé à la forêt environnante. Une quinzaine d'habitations ont été évacuées et la circulation a été interrompue sur une dizaine de kilomètres en raison de la fumée qui réduit fortement la visibilité.",
+    "title": "Manifestation contre le canal Seine-Nord Europe dans le Pas-de-Calais",
+    "full": "Plusieurs milliers de manifestants se sont rassemblés samedi à Oisy-le-Verger, dans le Pas-de-Calais, pour s'opposer au démarrage des travaux du canal Seine-Nord Europe. Porté par des collectifs environnementaux et agricoles, le mouvement conteste un projet d'infrastructure fluviale devant traverser 64 communes dans les Hauts-de-France. Les opposants dénoncent notamment la destruction de zones humides et la consommation massive des ressources hydriques régionales.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Les pompiers pointent l'origine du sinistre au bord de la chaussée et soulignent l'impact direct sur le trafic routier de l'autoroute A6.",
-        "url": "https://www.franceinfo.fr/faits-divers/incendie/seine-et-marne-un-incendie-ce-dimanche-au-bord-de-l-autoroute-a6-la-circulation-coupee-sur-une-dizaine-de-kilometres_8105414.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "L'Humanité",
+        "take": "Les opposants au projet, parmi lesquels les Soulèvements de la terre et Extinction Rébellion, affirment que ce méga-canal n'est pas inéluctable.",
+        "url": "https://www.humanite.fr/social-et-economie/canal-seine-nord/canal-seine-nord-europe-pour-les-opposants-ce-nest-pas-un-projet-ineluctable"
+      },
+      {
+        "outlet": "Mediapart",
+        "take": "Le canal est présenté par les critiques comme un projet destructeur pour l'environnement, risquant d'épuiser les ressources en eau de la région.",
+        "url": "https://www.mediapart.fr/journal/ecologie/120726/le-canal-seine-nord-un-projet-ecocidaire-destructeur-de-zones-humides"
       }
     ],
     "id": 23,
@@ -641,15 +623,20 @@ const ARTICLES = [
   {
     "themes": [
       "Environnement",
-      "Société"
+      "France"
     ],
-    "title": "Plusieurs réserves d'eau vandalisées pendant la canicule",
-    "full": "Lors de la vague de chaleur actuelle, des réserves d'eau ont été la cible d'actes de vandalisme. Dans le Gard notamment, une citerne a été endommagée, privant les pompiers de 30 000 litres d'eau potentiellement utiles pour les interventions d'urgence. Ces dégradations surviennent alors que les risques liés à la sécheresse et à la pénurie d'eau s'intensifient.",
+    "title": "Un incendie virulent ravage la Seine-et-Marne durant la canicule",
+    "full": "Un incendie qualifié de très virulent s'est déclaré dimanche près de l'autoroute A6 en Seine-et-Marne, alors que la France connaît le troisième épisode de canicule de l'année. Plus d'un tiers des habitants français sont placés sous vigilance rouge face à ces chaleurs extrêmes qui favorisent la propagation des feux. Trente-sept départements sont concernés par cette alerte météorologique.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Des actes de malveillance visent les infrastructures hydrauliques dans plusieurs régions, notamment le Gard où les réserves des services de secours sont compromises.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-plusieurs-reserves-d-eau-vandalisees_8105438.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Libération",
+        "take": "Souligne le pic de canicule ce dimanche et l'inquiétude croissante concernant la propagation des incendies sur le territoire.",
+        "url": "https://www.liberation.fr/societe/en-direct-canicule-plus-dun-tiers-des-francais-sous-vigilance-rouge-20260712_75BDZTBQ6RCL5N35KUKPVVH72I/"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Documente l'ampleur de la vigilance rouge avec le nombre de départements affectés et l'intensité des températures dépassant les 40 degrés.",
+        "url": "https://www.20minutes.fr/planete/canicule/4234137-20260712-direct-canicule-incendies-trente-sept-departements-vigilance-rouge-40-degres-depasses-samedi?at_medium=display&at_campaign=149"
       }
     ],
     "id": 24,
@@ -657,16 +644,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France",
-      "Environnement"
+      "Insolite"
     ],
-    "title": "Un incendie ravage 283 hectares en Maine-et-Loire",
-    "full": "Un incendie de forêt se propage depuis plusieurs jours dans le Maine-et-Loire, détruisant plus de 283 hectares. Deux cents sapeurs-pompiers, organisés en huit groupes spécialisés, combattent les flammes. L'incendie a entraîné l'évacuation d'un festival et endommagé une ligne électrique haute tension ainsi que deux habitations.",
+    "title": "Food Jutsu : la tendance culinaire inspirée de Naruto fait le buzz",
+    "full": "Le hashtag #FoodJutsu cartonne sur les réseaux sociaux avec des milliers de vidéos montrant des transitions culinaires spectaculaires inspirées de l'univers de Naruto. Ces contenus, où les internautes créent des effets « magiques » lors de la préparation de plats, ont attiré l'attention de nombreuses personnalités publiques qui relaient le phénomène. La tendance mêle ainsi pop culture et gastronomie pour créer des vidéos visuellement frappantes.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "200 sapeurs-pompiers mobilisés sur le terrain, répartis en huit groupes d'intervention feux de forêts.",
-        "url": "https://www.franceinfo.fr/faits-divers/incendie/un-incendie-en-cours-a-detruit-283-hectares-dans-le-maine-et-loire-une-ligne-a-haute-tension-et-deux-habitations-un-festival-evacue_8105483.html#xtor=RSS-3-[lestitres]"
+        "outlet": "20 Minutes",
+        "take": "Le phénomène s'appuie sur le hashtag #FoodJutsu et génère des milliers de vidéos d'amateurs pratiquant ces transitions culinaires inspirées du manga Naruto.",
+        "url": "https://www.20minutes.fr/tempo/food/4233785-20260713-food-jutsu-quoi-trend-mondiale-inspiree-naruto-reprise-stars?at_medium=display&at_campaign=149"
       }
     ],
     "id": 25,
@@ -674,15 +660,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Tech & Sciences",
+      "Monde"
     ],
-    "title": "Hollywood a réinventé l'Allemagne en allié pendant la Guerre froide",
-    "full": "Après 1945, le cinéma américain a opéré un revirement symbolique majeur en transformant l'ancien ennemi allemand en partenaire face à la menace soviétique. Cette évolution reflète le basculement géopolitique qui a fait de l'Allemagne un acteur clé de la stratégie américaine en Europe, dont les films de l'époque se font le reflet.",
+    "title": "Un chercheur cherche à détecter des armes nucléaires cachées en orbite",
+    "full": "Un scientifique s'inquiète de la possible présence d'armes nucléaires dissimulées dans des satellites en orbite terrestre. Bien que le droit international interdise depuis soixante ans les armes nucléaires dans l'espace, aucun mécanisme de vérification n'existe actuellement pour contrôler le contenu des satellites. Le chercheur propose de développer des outils de détection capables d'identifier de telles menaces.",
     "angles": [
       {
         "outlet": "Slate",
-        "take": "Le cinéma hollywoodien documente et accélère la transition de l'Allemagne du statut d'ennemi vaincu à celui d'allié indispensable dans la nouvelle configuration de la Guerre froide.",
-        "url": "https://www.slate.fr/culture/quand-hollywood-change-ennemi-comment-films-guerre-froide-transforme-allemands-allies-etats-unis-histoire-guerre-nazis-berlin-sovietiques-cinema-americain"
+        "take": "L'absence totale de système de contrôle international permettrait à une puissance de dissimuler une arme nucléaire en orbite sans crainte de détection.",
+        "url": "https://www.slate.fr/sciences/arme-nucleaire-satellite-espace-orbite-neutrons-detection-capteurs"
       }
     ],
     "id": 26,
@@ -690,15 +677,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences"
+      "Insolite"
     ],
-    "title": "Une nouvelle formule de Pi exploite la mécanique quantique",
-    "full": "Des chercheurs ont développé une représentation inédite du nombre Pi en s'appuyant sur les principes de la mécanique quantique. Cette formule permettrait d'optimiser les calculs complexes bien au-delà des méthodes actuelles. L'approche ouvre des perspectives pour résoudre des problèmes mathématiques jusque-là inaccessibles.",
+    "title": "Éventail contre mini-ventilo : le duel estival des Français",
+    "full": "Face aux vagues de chaleur, les mini-ventilateurs électriques connaissent un boom commercial, mais l'éventail traditionnel conserve des avantages que le gadget ne supplante pas. Selon 20 Minutes, malgré les records de ventes de ces appareils portatifs, l'éventail reste plus efficace dans de nombreuses situations et moins gourmand en énergie.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "Cette nouvelle formulation combine les propriétés quantiques pour améliorer significativement la performance des calculs impliquant le nombre Pi.",
-        "url": "https://www.slate.fr/sciences/scientifiques-nouvelle-formule-pi-physique-mathematiques-calculs-theorie"
+        "outlet": "20 Minutes",
+        "take": "Les mini-ventilos dominent les rayons lors des pics de chaleur, mais l'éventail classique s'avère plus pratique et performant pour de nombreux usages.",
+        "url": "https://www.20minutes.fr/tempo/style/4233849-20260713-eventail-vs-mini-ventilo-match-canicule?at_medium=display&at_campaign=149"
       }
     ],
     "id": 27,
@@ -706,15 +693,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Insolite",
+      "Tech & Sciences"
     ],
-    "title": "En canicule, comment garder son parfum sans suffoquer",
-    "full": "Lors des fortes chaleurs, les parfums deviennent problématiques : les fragrances s'altèrent, le sillage devient étouffant et les senteurs tournent. Deux expertes proposent des solutions pour continuer à se parfumer sans incommoder son entourage ni gâcher ses flacon, comme adapter la quantité appliquée ou choisir des formules plus légères.",
+    "title": "Des chercheurs identifient une agression vieille de 100 000 ans",
+    "full": "Des paléontologues affirment avoir découvert la plus ancienne preuve connue d'une attaque volontaire entre humains. La victime, un Homo sapiens, portait des traces de blessures et a survécu un certain temps après l'agression avant d'être inhumée dans une grotte d'Israël. Cette découverte repousse considérablement les origines documentées de la violence interpersonnelle chez nos ancêtres.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "La canicule transforme les parfums en pièges olfactifs et les expertes recommandent d'ajuster ses habitudes de parfumage pour éviter un sillage écrasant.",
-        "url": "https://www.20minutes.fr/tempo/4233993-20260712-canicule-ca-sent-bon-sent-bon-comment-parfumer-quand-thermometre-emballe?at_medium=display&at_campaign=149"
+        "outlet": "Slate",
+        "take": "La victime porte les stigmates d'une attaque intentionnelle et aurait été enterrée consciemment après sa mort, soulevant des questions sur la conscience et les rites funéraires à cette époque reculée.",
+        "url": "https://www.slate.fr/sciences/crime-humanite-cold-case-100000-ans-grotte-homo-sapiens-arme-israel-afrique-violence-age-pierre-paleolithique-prehistoire"
       }
     ],
     "id": 28,
@@ -724,13 +712,13 @@ const ARTICLES = [
     "themes": [
       "Insolite"
     ],
-    "title": "Lego ajoute progressivement des armes à son catalogue",
-    "full": "La marque danoise de briques en plastique propose de plus en plus de sets incluant des armes, dépassant largement l'esprit pacifiste de ses débuts dans les années 1930. Cette évolution soulève des questions sur la normalisation de la violence auprès des enfants, bien que le débat demeure ouvert sur ses conséquences réelles.",
+    "title": "La chaleur estivale affecte-t-elle vraiment la taille du pénis ?",
+    "full": "Le phénomène du « pénis d'été » circule sur les réseaux sociaux, suggérant que les organes génitaux masculins seraient plus volumineux pendant les mois chauds. Bien que cette condition ne soit pas officiellement reconnue par la communauté médicale, les scientifiques admettent que la chaleur peut influencer cette perception. La dilatation des vaisseaux sanguins sous l'effet des températures élevées pourrait expliquer cette impression.",
     "angles": [
       {
         "outlet": "Slate",
-        "take": "L'analyse pointe une tension entre l'héritage pacifiste fondateur de Lego et sa stratégie commerciale actuelle, riche en accessoires guerriers et en armes diverses.",
-        "url": "https://www.slate.fr/culture/societe-plus-violente-selon-evolution-lego-oui-jouets-armes-briques-enfants-adultes-histoire-pacifisme-guerre"
+        "take": "Slate expose le phénomène viral du « summer penis » en expliquant que la chaleur joue effectivement un rôle, sans que cette observation soit formellement validée comme condition médicale.",
+        "url": "https://www.slate.fr/societe/lexplication/summer-penis-vraiment-plus-gros-ete-taille-chaleur-canicule-changement-saison-hiver-hommes-verge-erection-corps-humain"
       }
     ],
     "id": 29,
@@ -738,15 +726,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "France",
+      "Société"
     ],
-    "title": "Aux États-Unis, la justice examine la vente de sièges hublot sans fenêtre",
-    "full": "Des passagers américains poursuivent plusieurs compagnies aériennes pour avoir vendu des places « hublot » à prix premium, alors qu'elles ne donnent vue que sur la paroi de l'appareil. Les tribunaux américains vont examiner si cette pratique constitue une arnaque ou relève de simples conditions commerciales mal comprises.",
+    "title": "Un incendie ravage 283 hectares en Maine-et-Loire",
+    "full": "Un incendie majeur a détruit 283 hectares dans le Maine-et-Loire, endommageant une ligne à haute tension et deux habitations. Deux cents sapeurs-pompiers, organisés en huit groupes spécialisés, sont mobilisés pour maîtriser le sinistre toujours en cours. Un festival situé à proximité a été évacué par mesure de précaution.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "Le dossier soulève la question du cadre légal encadrant la commercialisation des caractéristiques promises des sièges d'avion.",
-        "url": "https://www.slate.fr/economie/compagnie-aerienne-ventre-siege-hublot-paroi-justice-etats-unis-plaintes-arnaque-prix-aviation"
+        "outlet": "France Info",
+        "take": "L'incendie détruit une vaste surface boisée et provoque l'évacuation d'un festival, avec une mobilisation importante de moyens de lutte contre le feu.",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/un-incendie-en-cours-a-detruit-283-hectares-dans-le-maine-et-loire-une-ligne-a-haute-tension-et-deux-habitations-un-festival-evacue_8105483.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 30,
@@ -754,19 +743,50 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences",
-      "Santé"
+      "Culture"
     ],
-    "title": "Les scientifiques identifient les caractéristiques des virus pandémiques",
-    "full": "Des chercheurs ont analysé l'histoire des virus pour déterminer quels traits communs caractérisent ceux susceptibles de déclencher une pandémie. Cette recherche permettrait d'anticiper et de repérer plus efficacement les menaces virales émergentes avant qu'elles ne se propagent à grande échelle.",
+    "title": "Hollywood a réinventé l'Allemagne en allié pendant la Guerre froide",
+    "full": "Le cinéma américain de l'après-1945 reflète un tournant géopolitique majeur : l'ancien ennemi nazi devient partenaire stratégique face à l'URSS. À travers ses films, Hollywood documente cette métamorphose symbolique, transformant l'image de l'Allemagne de nation ennemie à nation alliée dans le contexte de la Guerre froide naissante.",
     "angles": [
       {
         "outlet": "Slate",
-        "take": "L'étude démontre qu'il est désormais possible de prédire les risques pandémiques en identifiant les virus partageant des caractéristiques communes avec les pathogènes responsables de crises sanitaires passées.",
-        "url": "https://www.slate.fr/sciences/prochain-covid-virus-recherche-pandemie-epidemie-menace-sars-animaux-ebola-oropouche-chauve-souris"
+        "take": "Le cinéma hollywoodien documente le passage de l'Allemagne du statut d'ennemi principal à celui de partenaire indispensable des États-Unis contre la menace soviétique.",
+        "url": "https://www.slate.fr/culture/quand-hollywood-change-ennemi-comment-films-guerre-froide-transforme-allemands-allies-etats-unis-histoire-guerre-nazis-berlin-sovietiques-cinema-americain"
       }
     ],
     "id": 31,
     "priority": 32
+  },
+  {
+    "themes": [
+      "Tech & Sciences"
+    ],
+    "title": "Une nouvelle formule de Pi inspirée par la mécanique quantique",
+    "full": "Des chercheurs ont développé une représentation inédite du nombre Pi en s'appuyant sur les principes de la mécanique quantique. Cette formulation permettrait d'optimiser les calculs complexes bien au-delà des méthodes actuelles. Les applications potentielles concernent plusieurs domaines de la physique théorique et du calcul scientifique.",
+    "angles": [
+      {
+        "outlet": "Slate",
+        "take": "Cette approche quantique offre une nouvelle voie pour représenter Pi et améliore significativement l'efficacité des calculs dans les problèmes complexes.",
+        "url": "https://www.slate.fr/sciences/scientifiques-nouvelle-formule-pi-physique-mathematiques-calculs-theorie"
+      }
+    ],
+    "id": 32,
+    "priority": 33
+  },
+  {
+    "themes": [
+      "Insolite"
+    ],
+    "title": "Canicule : comment garder son parfum frais quand la chaleur s'intensifie",
+    "full": "En période de fortes chaleurs, les parfums deviennent imprévisibles : ils s'altèrent, leur sillage devient étouffant ou désagréable. Deux expertes du secteur proposent des solutions pratiques pour adapter sa fragrance à la canicule et éviter que le sent-bon ne se transforme en problème olfactif.",
+    "angles": [
+      {
+        "outlet": "20 Minutes",
+        "take": "La chaleur extrême modifie les performances des fragrances et crée un sillage inconfortable, ce qui nécessite d'adapter ses habitudes de parfumage.",
+        "url": "https://www.20minutes.fr/tempo/4233993-20260712-canicule-ca-sent-bon-sent-bon-comment-parfumer-quand-thermometre-emballe?at_medium=display&at_campaign=149"
+      }
+    ],
+    "id": 33,
+    "priority": 34
   }
 ];
