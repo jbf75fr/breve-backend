@@ -21,7 +21,7 @@ import urllib.error
 API_URL = "https://api.onesignal.com/notifications"
 
 # Adresse de l'app : le clic sur la notification ouvre directement la revue.
-APP_URL = "https://breve-app-chi.vercel.app"
+APP_URL = "https://app.breve-app.fr"
 
 
 def main() -> int:
