@@ -1,13 +1,11 @@
 """
-summarize.py — Génère les brèves via l'API Anthropic (Claude).
+summarize.py : génère les brèves via l'API Anthropic (Claude).
 
 Pour chaque dossier (un sujet + ses sources), on demande à Claude de produire,
 dans le style éditorial de Brève :
+  - themes  : 1 à 3 thématiques Brève (parmi la liste fermée)
   - title   : un titre clair et factuel
-  - brief   : une phrase d'accroche (aperçu de la carte)
-  - summary : le résumé (chapô du détail)
   - full    : le corps de la brève
-  - theme   : la thématique Brève (parmi la liste fermée)
   - angles  : pour CHAQUE source, une phrase neutre décrivant son traitement
 
 Principe de sobriété et de respect du droit d'auteur :
@@ -32,6 +30,13 @@ from feeds import THEMES_BREVE
 # rédaction plus fine (au prix d'un coût plus élevé).
 MODEL = "claude-haiku-4-5"
 MAX_TOKENS = 1200
+
+# Filet de sécurité anti-doublon : deux brèves dont les titres se recouvrent
+# à ce point (part des mots significatifs du plus court) sont considérées comme
+# le même sujet, et la seconde est écartée. Seuil volontairement élevé : le
+# regroupement de collect.py fait déjà le gros du travail, celui-ci ne rattrape
+# que les cas flagrants sans écarter un développement légitime.
+DOUBLON_TITRE_SEUIL = 0.75
 
 SYSTEM_PROMPT = f"""Tu es le rédacteur de « Brève », une revue de presse quotidienne française.
 Ton rôle : à partir d'un sujet d'actualité et des articles de plusieurs médias,
@@ -192,6 +197,36 @@ def summarize_one(client, d: Dossier) -> dict | None:
     }
 
 
+def _titre_tokens(titre: str) -> set[str]:
+    """Mots significatifs d'un titre de brève, pour comparer deux brèves."""
+    from collect import tokenize
+    return tokenize(titre)
+
+
+def _trop_proche(data: dict, deja: list[dict]) -> str | None:
+    """
+    Filet de sécurité APRÈS génération : renvoie le titre de la brève déjà
+    retenue dont celle-ci est un doublon, ou None.
+
+    Le regroupement de collect.py rattrape l'immense majorité des redondances,
+    mais aucun regroupement n'est parfait. Cette vérification finale évite
+    qu'une brève quasi identique à une autre n'arrive dans la revue. On compare
+    les titres, qui disent le sujet, et on exige un recouvrement franc pour ne
+    pas écarter un développement légitime.
+    """
+    t1 = _titre_tokens(data.get("title", ""))
+    if not t1:
+        return None
+    for autre in deja:
+        t2 = _titre_tokens(autre.get("title", ""))
+        if not t2:
+            continue
+        recouvrement = len(t1 & t2) / (min(len(t1), len(t2)) or 1)
+        if recouvrement >= DOUBLON_TITRE_SEUIL:
+            return autre.get("title", "")
+    return None
+
+
 def build_breves(dossiers: list[Dossier], limit: int = 50,
                  min_sources: int = 2, per_theme: int = 5) -> list[dict]:
     """
@@ -201,14 +236,14 @@ def build_breves(dossiers: list[Dossier], limit: int = 50,
       - min_sources : règle « au moins N sources » de Brève (def. 2) ;
       - per_theme   : nombre maximum de brèves par thème (def. 5). On vise
                       « jusqu'à » ce nombre : si l'actualité d'un thème est
-                      pauvre un jour donné, on en aura moins, et c'est normal —
+                      pauvre un jour donné, on en aura moins, et c'est normal :
                       on ne fabrique pas d'actualité qui n'existe pas ;
       - limit       : plafond TOTAL de brèves, tous thèmes confondus (def. 50),
                       pour borner le coût et la durée du batch.
 
     Les dossiers sont déjà triés par importance par collect(). On les parcourt
     dans l'ordre et on s'arrête de générer pour un thème dès qu'il a atteint son
-    quota — ce qui répartit naturellement les brèves entre thématiques.
+    quota, ce qui répartit naturellement les brèves entre thématiques.
     """
     client = _client()
     out = []
@@ -244,6 +279,12 @@ def build_breves(dossiers: list[Dossier], limit: int = 50,
         # Quota appliqué sur le thème PRINCIPAL (1er tag) attribué par l'IA.
         theme = data["themes"][0]
         if per_theme_count.get(theme, 0) >= per_theme:
+            continue
+        # Filet de sécurité : écarte une brève quasi identique à une précédente.
+        doublon = _trop_proche(data, out)
+        if doublon:
+            print(f"  ~ doublon écarté : « {data['title'][:40]} » "
+                  f"(proche de « {doublon[:40]} »)", file=sys.stderr)
             continue
         per_theme_count[theme] = per_theme_count.get(theme, 0) + 1
         data["id"] = len(out)
