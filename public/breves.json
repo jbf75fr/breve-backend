@@ -1,35 +1,24 @@
 {
-  "generated_at": "2026-07-15T06:07:02.970857+00:00",
+  "generated_at": "2026-07-15T13:42:11.206084+00:00",
   "date_label": "Mercredi 15 juillet",
-  "count": 37,
+  "count": 23,
   "breves": [
     {
       "themes": [
-        "Monde",
-        "Économie"
+        "France"
       ],
-      "title": "Escalade au Moyen-Orient, le détroit d'Ormuz fermé",
-      "full": "Les États-Unis et l'Iran intensifient leurs affrontements depuis le 13 juillet. Washington a rétabli le blocus naval des ports iraniens et lancé plusieurs vagues de frappes aériennes, tandis que Téhéran a riposté en ciblant des sites américains au Koweït, à Bahreïn et en Jordanie. L'Iran a fermé le détroit d'Ormuz, passage stratégique par lequel transiterait 40 à 50 % du pétrole iranien exporté depuis juin. Cette fermeture fait flamber les cours : le baril approche les 90 dollars, en hausse de plus de 5 %. Donald Trump envisage également d'instaurer une taxe de 20 % sur les cargaisons transitant par le détroit.",
+      "title": "Incendie de Fontainebleau : le feu maîtrisé, cinq suspects interpellés",
+      "full": "Les pompiers ont fixé l'incendie qui ravageait la forêt de Fontainebleau depuis dimanche 12 juillet, après avoir parcouru plus de 2 000 hectares en deux jours. Cinq personnes ont été interpellées, dont un pompier volontaire qui a reconnu les faits, selon le parquet. Près de 1 000 personnes avaient été évacuées et d'importants moyens, dont quatre Canadair, avaient été mobilisés. Les autorités restent vigilantes face au risque de « feux zombies », des incendies souterrains qui pourraient couver plusieurs mois sous la surface.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Met l'accent sur les conséquences immédiates à la pompe suite à la hausse du prix du baril.",
-          "url": "https://www.franceinfo.fr/economie/automobile/essence/avec-la-reprise-du-conflit-au-moyen-orient-le-petrole-repart-a-la-hausse-quelles-consequences-a-la-pompe_8107973.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Rapporte les déclarations iraniennes sur le verrouillage du détroit et les menaces sur d'autres voies d'exportation stratégiques.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-le-detroit-d-ormuz-restera-ferme-jusqu-a-la-fin-des-actes-d-agression-des-etats-unis-dit-l-iran_6722873_3210.html"
-        },
-        {
-          "outlet": "Le Figaro Éco",
-          "take": "Souligne que la part du pétrole iranien transitant par le détroit a quadruplé depuis le début du conflit.",
-          "url": "https://www.lefigaro.fr/flash-eco/le-petrole-remonte-a-85-dollars-apres-de-nouvelles-frappes-americaines-en-iran-20260714"
-        },
-        {
           "outlet": "L'Humanité",
-          "take": "Détaille les nouvelles mesures américaines incluant le blocus et la taxe de 20 % annoncée par Trump.",
-          "url": "https://www.humanite.fr/monde/detroit-dormuz/guerre-en-iran-donald-trump-retablit-le-blocus-du-detroit-dormuz-les-bombardements-se-poursuivent"
+          "take": "Souligne l'ampleur exceptionnelle de l'incendie et les interpellations de suspects, dont un pompier volontaire ayant reconnu les faits.",
+          "url": "https://www.humanite.fr/societe/canicule/foret-de-fontainebleau-un-feu-dune-ampleur-deja-exceptionnelle"
+        },
+        {
+          "outlet": "Le Figaro Sciences",
+          "take": "Met l'accent sur le phénomène des « feux zombies » qui pourraient compliquer la situation pendant plusieurs semaines.",
+          "url": "https://www.lefigaro.fr/sciences/l-incendie-pourrait-couver-plusieurs-mois-que-sont-les-feux-zombies-qui-compliquent-la-situation-a-fontainebleau-20260715"
         }
       ],
       "id": 0,
@@ -37,30 +26,26 @@
     },
     {
       "themes": [
-        "Sport"
+        "Culture",
+        "France"
       ],
-      "title": "Coupe du monde 2026 : l'Espagne élimine la France en demi-finale",
-      "full": "L'Espagne s'est imposée 2-0 face à la France en demi-finale de la Coupe du monde 2026, mardi 14 juillet à Dallas, et se qualifie pour la finale. Les Bleus, jugés « méconnaissables » par la presse internationale, n'ont pas réussi à répondre à la domination de la Roja. Cette défaite signe la fin de l'ère de Didier Deschamps à la tête de la sélection française après 14 ans, durant laquelle il a remporté deux Mondiaux et atteint trois finales consécutives. La France disputera samedi le match pour la troisième place.",
+      "title": "Rachida Brakni refuse la Légion d'honneur",
+      "full": "L'actrice, réalisatrice et chanteuse Rachida Brakni a annoncé refuser la Légion d'honneur qui lui a été proposée dans la promotion du 14-juillet. Sur Instagram, elle a justifié son refus en expliquant que la question de l'honneur se situe ailleurs qu'une médaille.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "La France n'a jamais véritablement entré dans la rencontre et a livré une prestation sans en comparaison à sa domination du tournoi jusque-là.",
-          "url": "https://www.liberation.fr/sports/football/face-a-lespagne-les-bleus-font-le-coup-de-la-panne-et-laissent-echapper-la-finale-20260714_CYV5ME3QMNAQNM4HFWXVHIGF3I/"
+          "outlet": "France Info",
+          "take": "Rachida Brakni figure parmi les distinctions culturelles de la promotion du 14-juillet, aux côtés de Michelle Perrot et Natalie Portman.",
+          "url": "https://www.franceinfo.fr/culture/legion-d-honneur-dans-le-domaine-culturel-michelle-perrot-natalie-portman-et-wajdi-mouawad-distingues-dans-la-promotion-du-14-juillet_8108501.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France 24",
-          "take": "Didier Deschamps quitte ses fonctions sur une déception malgré un héritage sportif majeur avec trois finales mondiales en quatre ans.",
-          "url": "https://www.france24.com/fr/sports/20260715-equipe-france-mondial-bleus-didier-deschamps-fin-gloire-regrets-promesses"
+          "outlet": "L'Humanité",
+          "take": "L'artiste oppose la notion personnelle d'honneur à la reconnaissance officielle de la médaille.",
+          "url": "https://www.humanite.fr/culture-et-savoir/rachida-brakni/rachida-brakni-refuse-la-legion-dhonneur"
         },
         {
           "outlet": "20 Minutes",
-          "take": "L'Espagne a démontré au fil de la compétition une confiance impressionnante, traitant tous ses adversaires sans appréhension particulière.",
-          "url": "https://www.20minutes.fr/sport/football/4234482-20260714-coupe-monde-2026-tres-surs-espagne-trop-confiante-avant-affronter-bleus?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "La presse étrangère souligne la supériorité technique et tactique globale de l'Espagne, décrite comme une équipe « prodigieuse ».",
-          "url": "https://www.courrierinternational.com/article/football-coupe-du-monde-une-espagne-prodigieuse-prive-de-finale-des-bleus-meconnaissables_249846"
+          "take": "Brakni a rendu publique sa décision de refus via les réseaux sociaux.",
+          "url": "https://www.20minutes.fr/arts-stars/culture/4234589-20260715-honneur-situe-ailleurs-rachida-brakni-refuse-legion-honneur?at_medium=display&at_campaign=149"
         }
       ],
       "id": 1,
@@ -68,25 +53,25 @@
     },
     {
       "themes": [
-        "Société"
+        "Monde"
       ],
-      "title": "Nice commémore les dix ans de l'attentat du 14 juillet 2016",
-      "full": "La France rend hommage ce mardi 14 juillet aux 86 victimes et plus de 400 blessés de l'attentat à la promenade des Anglais, survenu dix ans plus tôt. Un camion bélier avait fauché les spectateurs rassemblés pour le feu d'artifices de la fête nationale, dans une attaque revendiquée par l'État islamique. Emmanuel Macron préside une cérémonie officielle à Nice en présence des survivants et des familles endeuillées, dont beaucoup témoignent des séquelles durables de cette nuit du 14 juillet 2016.",
+      "title": "Trump ordonne la suspension des contrôles routiers de l'ICE",
+      "full": "L'administration Trump a ordonné la suspension temporaire des contrôles routiers menés par l'ICE, l'agence fédérale d'immigration et des douanes américaine. Cette décision fait suite à la mort de deux automobilistes en une semaine : un Mexicain au Texas et un Colombien de 25 ans dans le Maine, tous deux tués par des agents de l'ICE lors de contrôles routiers.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Des victimes et témoins racontent leur long travail de reconstruction depuis l'attentat.",
-          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/des-fois-j-aurais-prefere-rester-sous-les-roues-victime-et-temoins-de-l-attentat-de-nice-ils-racontent-la-nuit-qui-les-hantent-encore_8107670.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "La décision intervient après la mort par balles d'un Colombien dans une petite ville du Maine, qui se trouvait au volant de sa voiture.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/15/l-administration-trump-ordonne-la-suspension-des-controles-routiers-de-l-ice_6723489_3210.html"
+        },
+        {
+          "outlet": "Courrier International",
+          "take": "Les agents fédéral ont reçu l'ordre de cesser temporairement les contrôles routiers, suite à deux décès survenus en une semaine au Texas et dans le Maine.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-les-controles-routiers-de-l-ice-suspendus-apres-la-mort-de-deux-hommes-en-une-semaine_249898"
         },
         {
           "outlet": "France 24",
-          "take": "Les survivants expliquent que dix ans après, on se reconstruit mais jamais à l'identique.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260714-derri%C3%A8re-l-image-10-ans-de-l-attentat-de-nice-on-se-reconstruit-mais-jamais-%C3%A0-l-identique"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Le témoignage d'une sœur jumelle qui tente de se reconstruire depuis la mort de sa jumelle dans l'attaque.",
-          "url": "https://www.lemonde.fr/societe/video/2026/07/14/dix-ans-apres-le-14-juillet-2016-la-lente-reconstruction-d-audrey-borla-a-la-suite-de-la-perte-de-sa-s-ur-jumelle-dans-l-attentat-de-nice-on-m-a-privee-de-mon-adolescence_6723289_3224.html"
+          "take": "La suspension concerne la plupart des contrôles routiers de l'ICE, ordonnée après deux hommes abattus par des agents en moins d'une semaine.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260715-%C3%A9tats-unis-suspension-des-contr%C3%B4les-routiers-de-l-ice-apr%C3%A8s-deux-d%C3%A9c%C3%A8s"
         }
       ],
       "id": 2,
@@ -94,35 +79,20 @@
     },
     {
       "themes": [
-        "France"
+        "Monde"
       ],
-      "title": "Macron déploie un défilé militaire record aux Champs-Élysées",
-      "full": "Le défilé du 14-Juillet de lundi a réuni 6 700 soldats, 98 avions, 31 hélicoptères et 315 véhicules, marquant un record de participation militaire sur les Champs-Élysées. Emmanuel Macron a voulu une édition exceptionnelle pour son dernier 14-Juillet en tant que président, affichant selon l'Élysée « le réarmement de la France, l'autonomie stratégique et le réveil stratégique européen ». Le chef de l'État a également remis la Légion d'honneur au Premier ministre britannique Keir Starmer, présent à Paris pour un sommet de soutien à l'Ukraine.",
+      "title": "Trump condamné au civil verse 5,6 millions à E. Jean Carroll",
+      "full": "Donald Trump a versé 5,6 millions de dollars à l'autrice Elizabeth Jean Carroll, conformément à une condamnation au civil prononcée fin juin. Un jury l'a reconnu responsable d'agression sexuelle et de diffamation envers l'ancienne journaliste, qui l'accuse de l'avoir agressée dans une cabine d'essayage à New York en 1996. Le versement a été confirmé par un document judiciaire publié mardi 14 juillet.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Le défilé revêt une ampleur sans précédent, adressant un message de puissance aux Français et au reste du monde.",
-          "url": "https://www.franceinfo.fr/france/14-juillet/6-700-soldats-avions-drones-chefs-d-etat-emmanuel-macron-s-offre-un-defile-xxl-pour-son-dernier-14-juillet_8107586.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Cette cérémonie s'inscrit dans le contexte d'une coalition internationale de soutien à l'Ukraine, avec la présence de dirigeants étrangers.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/14/emmanuel-macron-remet-la-legion-d-honneur-a-keir-starmer_6723343_3210.html"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Les chiffres mobilisés illustrent concrètement la modernisation et l'autonomie stratégique française.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260714-14-juillet-%C3%AAtre-ici-c-est-assez-fantastique-pour-ce-capitaine-de-l-artillerie-de-marine"
-        },
-        {
-          "outlet": "Le Figaro International",
-          "take": "Ce déploiement matériel symbolise la détermination de la France à défendre ses valeurs.",
-          "url": "https://www.lefigaro.fr/international/drones-6-700-soldats-a-pied-mirage-2000-b-au-defile-du-14-juillet-une-demonstration-de-modernisation-et-de-determination-20260714"
-        },
-        {
           "outlet": "L'Humanité",
-          "take": "La cérémonie conjugue affichage militaire de grande ampleur et discours de paix, soulignant une apparente contradiction.",
-          "url": "https://www.humanite.fr/monde/14-juillet/proner-la-paix-en-montrant-les-armes-pour-son-dernier-14-juillet-emmanuel-macron-se-surpasse-dans-le-en-meme-temps"
+          "take": "Souligne que Trump a été reconnu coupable d'agression sexuelle et de diffamation après la décision d'un jury.",
+          "url": "https://www.humanite.fr/monde/donald-trump/agression-sexuelle-reconnu-coupable-donald-trump-a-verse-56-millions-de-dollars-a-lautrice-elizabeth-jean-carroll"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Précise le contexte de l'accusation : l'incident aurait eu lieu en 1996 dans un magasin new-yorkais, l'accusatrice ayant aujourd'hui 82 ans.",
+          "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-reconnu-responsable-au-civil-d-agression-sexuelle-a-verse-5-millions-de-dollars-a-l-autrice-e-jean-carroll_8107901.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 3,
@@ -130,26 +100,26 @@
     },
     {
       "themes": [
-        "Sport",
-        "Monde"
+        "Culture",
+        "Économie"
       ],
-      "title": "L'Espagne élimine la France en demi-finale de Coupe du monde",
-      "full": "L'équipe de France s'est inclinée 0-2 face à l'Espagne en demi-finale de la Coupe du monde, mardi 14 juillet à Dallas. Les Bleus ne disputeront pas de troisième finale consécutive, la Roja s'imposant d'emblée via un but sur pénalty avant de sceller sa victoire en seconde période. En parallèle, l'Argentine affrontera l'Angleterre mercredi pour l'autre place en finale, dans un match chargé d'histoire entre deux sélections rivales depuis le quart de finale mémorable de 1986.",
+      "title": "Warner et Paramount : la fusion de 110 milliards attaquée en justice",
+      "full": "Le projet de fusion entre Warner Bros Discovery et Paramount, évalué à environ 110 milliards de dollars, fait face à une bataille judiciaire. Douze États américains ont engagé des poursuites contre cette opération, tandis que le syndicat des scénaristes (WGA) a également saisi la justice, estimant que cette concentration menace la santé économique et créative de l'industrie du divertissement. Le syndicat redoute notamment des baisses de salaires, des suppressions d'emplois et une réduction du nombre de programmes produits.",
       "angles": [
         {
+          "outlet": "Le Monde",
+          "take": "Met l'accent sur le caractère de « mégafusion » et les risques systémiques qu'elle représente pour toute l'industrie.",
+          "url": "https://www.lemonde.fr/cinema/article/2026/07/15/rachat-de-warner-par-paramount-le-syndicat-des-scenaristes-americains-s-y-oppose-au-meme-titre-que-douze-etats-americains_6723488_3476.html"
+        },
+        {
           "outlet": "France Info",
-          "take": "Souligne l'effondrement français et l'avantage décisif obtenu par l'Espagne dès l'ouverture du score sur pénalty.",
-          "url": "https://www.franceinfo.fr/coupe-du-monde/desillusion-pour-les-bleus-prives-de-finale-par-l-espagne-0-2_8108084.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Détaille les préoccupations concrètes du syndicat des scénaristes : salaires, emplois et volume de production.",
+          "url": "https://www.franceinfo.fr/culture/rachat-de-warner-bros-discovery-par-paramount-le-syndicat-des-scenaristes-monte-au-creneau_8108474.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France 24",
-          "take": "Met l'accent sur la demi-finale Argentine-Angleterre et la dimension historique de cette rivalité marquée par le souvenir de Maradona en 1986.",
-          "url": "https://www.france24.com/fr/sports/20260715-mondial-2026-entre-l-angleterre-et-l-argentine-une-rivalit%C3%A9-explosive"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "Interroge la pertinence des références aux Malouines dans la narration médiatique de la rencontre entre l'Angleterre et l'Argentine.",
-          "url": "https://www.courrierinternational.com/article/coupe-du-monde-2026-argentine-angleterre-faut-il-vraiment-invoquer-le-souvenir-des-malouines_249319"
+          "outlet": "Le Figaro International",
+          "take": "Élargit le contexte en évoquant les enjeux de concentration des médias et les dimensions politiques de la question.",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/rachat-de-warner-par-paramount-concentration-des-medias-influence-de-trump-pourquoi-la-megafusion-inquiete-20260713"
         }
       ],
       "id": 4,
@@ -159,23 +129,23 @@
       "themes": [
         "Culture"
       ],
-      "title": "Christopher Nolan adapte L'Odyssée d'Homère au cinéma",
-      "full": "Le réalisateur Christopher Nolan porte à l'écran L'Odyssée, le poème épique d'Homère, dans ce qu'il présente comme son projet le plus ambitieux à ce jour. Le film, sorti le 15 juillet, s'inscrit dans une longue tradition de réécritures de ce monument de la littérature occidentale. Nolan y applique sa méthode habituelle avec un casting sélectionné et un tournage en pellicule.",
+      "title": "The Last Viking : comédie noire scandinave avec Mads Mikkelsen",
+      "full": "Le film « The Last Viking » du réalisateur Anders Thomas Jensen sort en salles. Il met en scène Mads Mikkelsen et Nicolaj Lie Kaas dans les rôles de deux frères embarqués dans une chasse au trésor. Les critiques saluent la performance de Mikkelsen et le ton comique du film, bien que certaines soulignent une certaine faiblesse du scénario.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Il s'agit du treizième film du réalisateur anglo-américain, réalisé selon son approche caractéristique du casting et de la production.",
-          "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/l-odyssee-christopher-nolan-a-l-assaut-de-son-epopee-la-plus-ambitieuse-a-ce-jour_8102894.html#xtor=RSS-3-[lestitres]"
+          "take": "Le film offre une comédie noire brillante et mordante, avec le réalisateur qui scrute l'identité de ses personnages.",
+          "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/the-last-viking-une-brillante-comedie-noire-sur-l-identite-portee-par-un-excellent-mads-mikkelsen_8106683.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Malgré des comédiens de qualité, le scénario prometteur du buddy movie reste inaboutu.",
+          "url": "https://www.lemonde.fr/culture/article/2026/07/15/the-last-viking-une-drolatique-chasse-au-tresor-avec-mads-mikkelsen-et-nicolaj-lie-kaas_6723517_3246.html"
         },
         {
           "outlet": "Libération",
-          "take": "L'adaptation dialogue avec les tensions géopolitiques contemporaines, bien que le parti pris de mise en scène suscite des réserves quant au rendu de l'univers homérique.",
-          "url": "https://www.liberation.fr/culture/cinema/lodyssee-de-christopher-nolan-heros-qui-comme-ulysse-20260715_57A5YJ3DXZA2PNKZKLW4MPHYUA/"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "La presse anglo-saxonne souligne que la complexité du personnage d'Ulysse, réinterprété au fil des siècles, continue de fasciner les créateurs.",
-          "url": "https://www.courrierinternational.com/article/cinema-pour-l-odyssee-quelle-facette-d-ulysse-choisira-christopher-nolan_248955"
+          "take": "Le film peine avec des blagues tièdes et un second degré peu convaincant.",
+          "url": "https://www.liberation.fr/culture/cinema/the-last-viking-sonne-le-gla-gla-20260714_PJWF5RPWOZDEZMMHIAQ7XIA5OQ/"
         }
       ],
       "id": 5,
@@ -183,30 +153,25 @@
     },
     {
       "themes": [
-        "Sport"
+        "Culture"
       ],
-      "title": "Pogacar remporte la 10e étape du Tour de France en solitaire",
-      "full": "Tadej Pogacar s'est imposé mardi sur la 10e étape du Tour de France 2026, disputée entre Aurillac et le Lioran dans le Cantal. Le coureur slovène a attaqué dans le col de Pertus et distancé tous ses concurrents pour franchir en solitaire la ligne d'arrivée. Remco Evenepoel a pris la deuxième place, devancé par le Français Paul Seixas qui complète le podium. Cette victoire permet à Pogacar de reprendre du temps sur ses principaux rivaux.",
+      "title": "« L'Aventure rêvée » de Valeska Grisebach primé à Cannes",
+      "full": "Le film « L'Aventure rêvée » de la cinéaste allemande Valeska Grisebach, récompensé du prix du jury au festival de Cannes, sort en salles. Aux allures de western mélancolique, il suit une archéologue bulgare près de la frontière turque, confrontée à la mafia locale. Grisebach détourne les codes du film de mafia en plaçant au cœur de son récit une héroïne justicière, incarnée par l'actrice non professionnelle Yana Radeva.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Pogacar s'impose en solitaire au terme d'une étape haletante, Seixas assurant une troisième place française.",
-          "url": "https://www.franceinfo.fr/tour-de-france/video-tour-de-france-2026-le-resume-de-la-victoire-en-solitaire-de-tadej-pogacar-sur-la-10e-etape_8107829.html#xtor=RSS-3-[lestitres]"
+          "take": "Le film raconte l'histoire de trois amis d'enfance se retrouvant dans des conditions inédites, exploration contemporaine de la résistance et du combat.",
+          "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/l-aventure-revee-de-valeska-grisebach-un-western-melancolique-dans-la-bulgarie-post-communiste_8088056.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Pogacar distancie ses concurrents dès le col de Pertus et remporte l'étape devant Evenepoel et Seixas.",
-          "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4234491-20260714-tour-france-2026-pogacar-assomme-concurrence-seixas-3e-del-toro-perd-terrain-revivez-10e-etape?at_medium=display&at_campaign=149"
+          "outlet": "Mediapart",
+          "take": "Grisebach sonde les mémoires de l'Europe depuis ses confins orientaux en revisitant les codes du genre du film de mafia.",
+          "url": "https://www.mediapart.fr/journal/culture-et-idees/150726/l-allemande-valeska-grisebach-sonde-les-memoires-de-l-europe-depuis-ses-confins-orientaux"
         },
         {
-          "outlet": "Libération",
-          "take": "La victoire au Lioran était anticipée pour Pogacar, tandis que Seixas confirme ses performances.",
-          "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-au-lioran-pogacar-plombe-ses-adversaires-seixas-troisieme-20260714_LHGVZRE3RFFD7AAOVYS62N4BAU/"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "Pogacar reprend entre 30 et 40 secondes aux autres favoris, dont Vingegaard et Seixas.",
-          "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-2026-10e-etape-pogacar-met-le-feu-sans-artifice"
+          "outlet": "Le Monde",
+          "take": "L'œuvre s'appuie sur une distribution d'acteurs non professionnels pour mettre en scène une femme aux prises avec des forces criminelles.",
+          "url": "https://www.lemonde.fr/culture/article/2026/07/15/l-aventure-revee-en-bulgarie-une-archeologue-sur-les-traces-de-son-passe_6723515_3246.html"
         }
       ],
       "id": 6,
@@ -214,31 +179,21 @@
     },
     {
       "themes": [
-        "Environnement",
+        "Tech & Sciences",
         "Société"
       ],
-      "title": "Incendies à Fontainebleau : 2 000 hectares ravagés, feux fixés",
-      "full": "Les deux foyers d'incendie qui ravagent la forêt de Fontainebleau depuis dimanche ont parcouru un peu plus de 2 000 hectares et sont désormais fixés, a annoncé mardi le préfet de Seine-et-Marne, bien qu'ils ne soient pas encore éteints. Environ 10 pour cent de la forêt a brûlé. Quelque 800 pompiers, renforcés par des bulldozers de l'armée, des Canadair et un Dash, combattent les flammes. Les personnes évacuées pourront regagner leur domicile à partir de mercredi. Quatre personnes sont en garde à vue pour les départs de feu, dont deux qui ont reconnu leur implication, l'une d'elles étant pompier volontaire.",
+      "title": "Meta accusé d'utiliser l'IA pour cibler ses salariés à licencier",
+      "full": "Une plainte collective de 26 employés de Meta dénonce l'utilisation d'outils d'intelligence artificielle pour sélectionner les candidats au licenciement. Selon les plaignants, l'algorithme aurait pénalisé les salariés ayant bénéficié d'un congé parental ou médical, ou ayant demandé un aménagement pour handicap. Le groupe Meta classe ses employés selon leurs performances et leur productivité, mais cette notation serait dévalorisée pour ceux ayant accédé à des dispositifs de protection sociale.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Les moyens aériens et terrestres massifs mobilisés pour maîtriser le brasier.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/les-incendies-de-fontainebleau-fixes-mais-pas-eteints-comment-les-pompiers-et-la-securite-civile-ont-lutte-avec-acharnement-pour-apaiser-le-brasier_8107964.html#xtor=RSS-3-[lestitres]"
+          "outlet": "Le Figaro Éco",
+          "take": "La plainte souligne que l'IA aurait discriminé les salariés en utilisant leurs congés ou aménagements comme critères de déclassement dans le processus de licenciement.",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/meta-accuse-d-avoir-utilise-l-ia-pour-dresser-la-liste-de-ses-salaries-a-licencier-20260715"
         },
         {
-          "outlet": "Le Monde",
-          "take": "L'annonce officielle du préfet établissant que les feux sont fixés et les conditions de retour des habitants.",
-          "url": "https://www.lemonde.fr/planete/live/2026/07/15/en-direct-incendies-les-deux-feux-de-la-foret-de-fontainebleau-sont-fixes-mais-pas-eteints_6723261_3244.html"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Les enquêtes en cours sur les quatre suspects du départ des incendies.",
-          "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-incendies-apres-une-nuit-intense-plus-de-1-900-hectares-parcourus-par-les-flammes-dans-la-foret-de-fontainebleau-20260714_JTCXJBVKNNHU3LC2RD7DAVXKT4/"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "L'inscription de ces feux dans le contexte de la troisième vague de chaleur en deux mois affectant 26 départements en vigilance rouge.",
-          "url": "https://www.humanite.fr/environnement/canicule/canicule-26-departements-en-rouge-les-feux-ravagent-la-foret-de-fontainebleau-et-la-drome"
+          "outlet": "Numerama",
+          "take": "L'action collective porte sur l'utilisation d'outils d'IA qui auraient ciblé spécifiquement les employés malades, handicapés ou en congé lors des récentes vagues de licenciements.",
+          "url": "https://www.numerama.com/tech/2295363-meta-accuse-davoir-utilise-une-ia-qui-ciblait-les-employes-malades-ou-en-situation-de-handicap-lors-des-licenciements.html"
         }
       ],
       "id": 7,
@@ -246,30 +201,20 @@
     },
     {
       "themes": [
-        "Monde"
+        "Société"
       ],
-      "title": "Allemagne : un homme accusé de viols en série par soumission chimique",
-      "full": "La justice allemande a mis en accusation mardi un Berlinois de 68 ans soupçonné d'avoir drogué, violé et filmé des dizaines de femmes rencontrées sur des applications de rencontres. Le parquet de Berlin retient contre lui 22 viols et des lésions corporelles graves, et a identifié un total de 58 victimes présumées. Les faits auraient eu lieu entre 2016 et 2022 dans la capitale allemande, l'homme ayant utilisé de l'alcool et des somnifères pour commettre ces agressions.",
+      "title": "Un automobiliste tué par un policier municipal près d'Avignon",
+      "full": "Un policier municipal a tiré sur un conducteur de 29 ans qui refusait de s'arrêter lors d'un contrôle routier près d'Avignon, le tuant sur place. L'homme était connu de la justice pour des infractions similaires et bénéficiait d'une libération conditionnelle récente. Deux enquêtes ont été ouvertes suite à cet événement.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Souligne le caractère systématique des crimes : drogue, viol et enregistrement des faits.",
-          "url": "https://www.20minutes.fr/monde/allemagne/4234493-20260714-allemagne-homme-accuse-viols-serie-filmes-soumission-chimique?at_medium=display&at_campaign=149"
-        },
-        {
           "outlet": "Libération",
-          "take": "Précise le nombre d'accusations formelles (22 viols) et l'ampleur du dossier (58 victimes potentielles).",
-          "url": "https://www.liberation.fr/international/europe/allemagne-un-homme-accuse-de-viols-en-serie-filmes-et-par-soumission-chimique-20260714_ETPC5WYWZZFT5AL2SZEBA73P5Q/"
+          "take": "Insiste sur le refus d'obtempérer comme déclencheur du recours à l'arme à feu par le policier municipal.",
+          "url": "https://www.liberation.fr/societe/police-justice/refus-dobtemperer-un-homme-tue-par-la-police-a-avignon-20260715_ETQOPDFL3BCPPLJQRXEX7CRROE/"
         },
         {
           "outlet": "France Info",
-          "take": "Identifie la période et les moyens utilisés pour commettre les viols (alcool et somnifères).",
-          "url": "https://www.franceinfo.fr/monde/europe/allemagne/quelque-58-victimes-presumees-droguees-et-filmees-a-leur-insu-a-berlin-un-homme-accuse-de-viols-en-serie-par-soumission-chimique_8107577.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Rappelle que les victimes ont été rencontrées via des applications numériques de rencontres.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/14/en-allemagne-un-homme-accuse-d-avoir-drogue-viole-et-filme-des-dizaines-de-femmes-rencontrees-sur-des-applications_6723293_3210.html"
+          "take": "Relève l'antécédent judiciaire de la victime et son statut de personne en liberté conditionnelle au moment des faits.",
+          "url": "https://www.franceinfo.fr/faits-divers/un-automobiliste-tue-par-un-policier-municipal-dans-le-vaucluse-apres-un-refus-d-obtemperer-pres-d-avignon_8108660.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 8,
@@ -277,25 +222,20 @@
     },
     {
       "themes": [
-        "Environnement"
+        "France"
       ],
-      "title": "Fin de l'alerte canicule rouge en France métropolitaine",
-      "full": "Météo-France a levé mercredi à 6 heures la vigilance rouge canicule pour les 26 derniers départements concernés, marquant ainsi la fin de l'alerte maximale sur l'ensemble du territoire. Ces départements sont rétrogradés en alerte orange, tandis que 69 départements restent placés à ce niveau. L'amélioration météorologique est due à l'arrivée d'orages par l'ouest et à une baisse des températures maximales prévues entre 31 et 34 degrés.",
+      "title": "Le Sénat épingle l'opacité du financement privé des politiques publiques",
+      "full": "Une commission d'enquête du Sénat a présenté mercredi un rapport dénonçant les structures privées opaques intervenant dans le financement des politiques publiques, visant notamment les activités du milliardaire Pierre-Édouard Stérin. Les sénatrices Sonia de la Provôté (centriste) et Colombe Brossel (socialiste) ont proposé 32 préconisations pour mieux réguler les interactions entre financement privé et action publique, dont la création d'une « culture de l'alerte ».",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Souligne le recul progressif des températures maximales qui justifie la sortie du niveau rouge.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/fin-de-l-alerte-canicule-la-vigilance-rouge-entierement-levee-a-6-heures-mercredi-pour-les-26-derniers-departements-concernes_8108045.html#xtor=RSS-3-[lestitres]"
+          "outlet": "Le Monde",
+          "take": "La commission s'alarme de l'opacité de certaines structures privées et pointe spécifiquement les activités du milliardaire conservateur Stérin.",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/15/financement-prive-des-politiques-publiques-la-galaxie-sterin-dans-le-viseur-d-une-commission-du-senat_6723530_823448.html"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Insiste sur le rôle des orages arrivant par l'ouest comme facteur déclencheur de l'amélioration.",
-          "url": "https://www.20minutes.fr/societe/4234564-20260715-canicule-chaleur-estompe-tous-departements-sortent-zone-rouge?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Note que malgré la fin de l'alerte rouge, les incendies, notamment en forêt de Fontainebleau, continuent de dévaster des milliers d'hectares.",
-          "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-incendies-fin-de-lalerte-rouge-69-departements-en-vigilance-orange-20260715_35JNCH4XSZAWDJUFUFJXUT4NPY/"
+          "outlet": "L'Humanité",
+          "take": "L'enquête met en lumière les millions injectés par Stérin et l'octroi du statut d'intérêt général à sa structure Némésis, avant de proposer 32 mesures de régulation.",
+          "url": "https://www.humanite.fr/politique/nemesis/millions-injectes-par-sterin-nemesis-declare-dinteret-general-le-senat-devoile-32-preconisations-pour-reguler-les-interactions-entre-financement"
         }
       ],
       "id": 9,
@@ -303,25 +243,16 @@
     },
     {
       "themes": [
-        "Monde"
+        "Environnement",
+        "Santé"
       ],
-      "title": "Israël se dit prêt à avancer sur son retrait du sud-Liban",
-      "full": "Les délégations israéliennes et libanaises ont entamé mardi à Rome de nouvelles négociations suite à l'accord-cadre signé le 26 juin. Israël s'est déclaré disposé à progresser sur le retrait de ses troupes de deux zones pilotes du sud-Liban. Washington, qui supervise les discussions, qualifie le premier jour de pourparlers de « fructueux ». Les négociations doivent reprendre mercredi.",
+      "title": "Île-de-France : pollution en hausse après l'incendie de Fontainebleau",
+      "full": "La qualité de l'air se dégrade en Île-de-France suite à l'incendie de forêt de Fontainebleau, avec une concentration de particules fines particulièrement élevée dans les régions touchées. Cette dégradation s'ajoute aux niveaux d'ozone déjà amplifiés par la canicule en cours, créant une accumulation de polluants selon Airparif, l'organisme chargé de la surveillance de l'air en région parisienne.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Israël affirme sa volonté d'avancer sur le retrait des deux zones pilotes, dans le prolongement de l'accord-cadre conclu en juin après des négociations à Washington.",
-          "url": "https://www.franceinfo.fr/monde/proche-orient/liban/au-premier-jour-de-discussions-a-rome-israel-se-dit-pret-a-avancer-sur-le-retrait-de-deux-zones-pilotes-au-liban_8108015.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Les discussions à Rome ont permis mardi des avancées concrètes sur le retrait israélien du sud-Liban avant la reprise des pourparlers.",
-          "url": "https://www.20minutes.fr/monde/israel/4234535-20260715-guerre-moyen-orient-rome-israel-dit-pret-avancer-retrait-sud-liban?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Un responsable américain confirme que les discussions sont « fructueuses » et que les deux parties manifestent leur volonté de progresser.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260715-lors-des-pourparlers-%C3%A0-rome-isra%C3%ABl-se-dit-pr%C3%AAt-%C3%A0-avancer-sur-deux-zones-pilotes-au-liban"
+          "take": "Les incendies aggravent une situation déjà critique liée à la chaleur estivale, créant un cumul de facteurs de pollution atmosphérique.",
+          "url": "https://www.franceinfo.fr/environnement/c-est-la-double-peine-deja-accentuee-par-la-canicule-la-pollution-en-ile-de-france-grimpe-encore-apres-le-feu-de-foret-de-fontenainebleau_8108855.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 10,
@@ -329,26 +260,16 @@
     },
     {
       "themes": [
-        "Société",
-        "Environnement"
+        "France",
+        "Société"
       ],
-      "title": "Incendies de Fontainebleau : deux suspects avouent les avoir provoqués",
-      "full": "Six personnes ont été placées en garde à vue dans l'enquête sur les incendies qui ravagent depuis le 12 juillet la forêt de Fontainebleau. Parmi elles, deux ont reconnu avoir déclenché des départs de feu, dont un pompier volontaire. Les enquêteurs privilégient la piste criminelle et ont interrogé les suspects sur leur présence sur les lieux du sinistre, rapportée notamment par un agriculteur de la région.",
+      "title": "Savoie : réouverture d'une route après sept jours d'isolement",
+      "full": "La route départementale reliant Pralognan-la-Vanoise et Planay, en Savoie, a rouvert mercredi 15 juillet après sept jours de fermeture. Un éboulement provoqué par un incendie avait coupé l'accès à ces deux communes, bloquant plus de 1 000 véhicules et isolant résidents et vacanciers. Cependant, de nouveaux orages sont attendus dans la région et pourraient à nouveau interrompre la circulation.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Un agriculteur affirme avoir observé l'un des suspects sur le site des incendies, soulignant que sa présence semblait anormale.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/il-n-avait-rien-a-faire-la-un-agriculteur-raconte-avoir-repere-l-un-des-suspects-de-l-incendie-de-fontainebleau_8107952.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Deux des six personnes en garde à vue ont avoué avoir provoqué les feux, dont un membre du corps des pompiers volontaires.",
-          "url": "https://www.20minutes.fr/faits_divers/faits-divers-paris/4234519-20260714-six-suspects-interpelles-departs-feux-foret-fontainebleau?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "Mediapart",
-          "take": "Au-delà des responsabilités humaines directes, le dérèglement climatique aggrave la propagation de ces incendies.",
-          "url": "https://www.mediapart.fr/journal/france/140726/feux-de-fontainebleau-comprendre-les-origines-humaines-du-sinistre"
+          "take": "La réouverture de la route permet enfin aux habitants et touristes piégés depuis une semaine de quitter les lieux, mais les conditions météorologiques restent préoccupantes.",
+          "url": "https://www.franceinfo.fr/faits-divers/incendie/incendie-en-savoie-plus-de-1-000-vehicules-peuvent-enfin-reprendre-la-route-apres-une-semaine-d-isolement_8108849.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 11,
@@ -356,25 +277,15 @@
     },
     {
       "themes": [
-        "France"
+        "Insolite"
       ],
-      "title": "Fin de vie : l'Assemblée vote mercredi, recours constitutionnel annoncé",
-      "full": "L'Assemblée nationale doit adopter définitivement mercredi la loi sur le droit à mourir, promesse phare du deuxième quinquennat d'Emmanuel Macron. Sébastien Lecornu, ministre de l'Intérieur, a annoncé qu'il saisirait le Conseil constitutionnel sur trois dispositions du texte après le vote, tandis que Gérard Larcher, président du Sénat, s'est aussi engagé à le faire. Le Sénat avait rejeté le projet par trois fois, mais le gouvernement a choisi de trancher par l'Assemblée.",
+      "title": "Un pantalon Zara accusé de provoquer des chutes sur TikTok",
+      "full": "Un modèle de pantalon ample de la marque Zara fait l'objet de vidéos virales sur TikTok, où des utilisateurs le désignent comme « le plus dangereux des pantalons Zara ». Le tissu fluide du vêtement serait responsable de chutes répétées chez celles qui le portent. Le hashtag « deadliest Zara pants » s'est propagé sur le réseau social ces derniers jours.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "L'Assemblée nationale vote définitivement le texte mercredi, qui est une promesse clé du quinquennat présidentiel.",
-          "url": "https://www.franceinfo.fr/societe/euthanasie/info-franceinfo-loi-sur-la-fin-de-vie-sebastien-lecornu-va-saisir-le-conseil-constitutionnel-sur-une-partie-des-dispositions-apres-le-vote_8107604.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Le Sénat a rejeté le texte trois fois, mais le gouvernement a opté pour le vote de l'Assemblée, tandis que le président du Sénat envisage aussi un recours constitutionnel.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/14/aide-a-mourir-sebastien-lecornu-saisira-le-conseil-constitutionnel-apres-le-vote-de-mercredi_6723330_823448.html"
-        },
-        {
-          "outlet": "Le Figaro",
-          "take": "Sébastien Lecornu va contester trois aspects controversés du texte devant le Conseil constitutionnel, signalant des doutes croissants malgré la volonté du président de faire passer le projet.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/14/aide-a-mourir-sebastien-lecornu-saisira-le-conseil-constitutionnel-apres-le-vote-de-mercredi_6723330_823448.html"
+          "outlet": "20 Minutes",
+          "take": "Des vidéos TikTok mettent en avant les risques de chute liés à l'amplitude et la fluidité du tissu de ce pantalon Zara.",
+          "url": "https://www.20minutes.fr/tempo/style/4234637-20260715-futal-fatal-zara-comment-pantalon-accuse-faire-chuter-celles-portent?at_medium=display&at_campaign=149"
         }
       ],
       "id": 12,
@@ -382,25 +293,15 @@
     },
     {
       "themes": [
-        "Sport"
+        "Société"
       ],
-      "title": "La France éliminée en demi-finale de la Coupe du monde par l'Espagne",
-      "full": "L'équipe de France s'est inclinée 0-2 face à l'Espagne en demi-finale de la Coupe du monde, mardi à Dallas. Cette défaite met fin aux ambitions des Bleus de disputer une troisième finale consécutive. Les joueurs français ont exprimé leur frustration après le match, estimant avoir été dominés sur le terrain.",
+      "title": "Un pompier volontaire avoue avoir allumé un incendie à Fontainebleau",
+      "full": "Un pompier volontaire figure parmi les six personnes interpellées mardi 14 juillet en lien avec les incendies qui ravagent la forêt de Fontainebleau en Île-de-France. Le militaire du feu a reconnu avoir volontairement allumé un feu. Deux autres personnes arrêtées ont également avoué leur implication dans le déclenchement de ces foyers.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Avant la rencontre, les coureurs du Tour de France se sont prêtés au jeu des pronostics pour cette demi-finale.",
-          "url": "https://www.franceinfo.fr/tour-de-france/videos/le-peloton-du-tour-de-france-joue-le-jeu-des-pronostics-avant-la-demi-finale-de-la-coupe-du-monde-france-espagne_8107817.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "L'équipe de France a été largement dépassée et terrassée par l'Espagne, sans parvenir à créer le danger.",
-          "url": "https://www.20minutes.fr/sport/football/4234454-20260714-direct-france-espagne-mbappe-bleus-defient-roja-yamal-sure-force-suivez-demi-finale-mondial-19-heures?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Les joueurs français ont exprimé leur désappointement, certains estimant s'être battus contre eux-mêmes plutôt que contre un adversaire.",
-          "url": "https://www.france24.com/fr/sports/20260714-reactions-bleus-france-elimination"
+          "take": "Parmi les six suspects interpellés, un pompier volontaire et au moins une autre personne ont reconnu être à l'origine des incendies.",
+          "url": "https://www.franceinfo.fr/faits-divers/incendie/un-pompier-volontaire-reconnait-allume-un-feu-a-fontainebleau_8108648.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 13,
@@ -408,25 +309,16 @@
     },
     {
       "themes": [
-        "France"
+        "France",
+        "Société"
       ],
-      "title": "Incendie en forêt de Fontainebleau : 2 000 hectares ravagés",
-      "full": "Deux foyers d'incendie ravagent la forêt de Fontainebleau, en région parisienne, et ont détruit plus de 2 000 hectares mardi. Quelque 800 pompiers sont mobilisés sur place, appuyés par des Canadair qui puisent l'eau de la Seine pour combattre les flammes. Bien que le feu ne soit pas encore maîtrisé, la situation s'améliore selon les équipes de secours. Des habitants, commerçants et agriculteurs des communes voisines se sont mobilisés spontanément pour soutenir les pompiers, notamment en mettant à disposition des citernes d'eau.",
+      "title": "88 000 dossiers de violences sur mineurs réexaminés en France",
+      "full": "Suite au meurtre de Lyhanna dans le Gers, les parquets ont lancé une vaste reprise d'examen de dossiers de violences sexuelles sur mineurs longtemps en attente. Cette relance des procédures a déjà conduit à l'ordonnance d'interpellations dans certains cas. L'initiative vise à accélérer le traitement de milliers de dossiers restés en suspens.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "Les pompiers visent à maîtriser les foyers d'ici la fin de la journée, et la situation tend à s'améliorer malgré l'ampleur de la catastrophe.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260714-for%C3%AAt-de-fontainebleau-le-feu-n-est-pas-encore-fix%C3%A9-mais-la-situation-s-am%C3%A9liore"
-        },
-        {
-          "outlet": "Libération",
-          "take": "L'incendie s'inscrit dans un contexte d'une France toujours soumise à des conditions météorologiques extrêmes.",
-          "url": "https://www.liberation.fr/international/europe/2000-hectares-brules-dans-la-foret-de-fontainebleau-la-france-suffoque-toujours-sous-la-chaleur-les-bleus-en-demi-finale-lactu-de-ce-14-juillet-20260714_IP2YMWA2HZCIDN6NZ7RISFLPNA/"
-        },
-        {
           "outlet": "France Info",
-          "take": "La population locale s'engage activement pour épauler les secours, les agriculteurs contribuant notamment en fournissant leurs réserves d'eau.",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/agriculteurs-habitants-ils-se-mobilisent-pour-venir-en-aide-aux-pompiers-dans-la-lutte-contre-les-incendies_8107967.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Le réexamen systématique de 88 000 dossiers, déclenché par l'affaire Lyhanna, a d'ores et déjà permis des arrestations dans plusieurs enquêtes.",
+          "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/apres-l-affaire-lyana-88-000-dossiers-de-violences-sexuelles-sur-mineurs-reexamines-dans-toute-la-france_8108804.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 14,
@@ -434,25 +326,16 @@
     },
     {
       "themes": [
-        "Santé"
+        "France",
+        "Société"
       ],
-      "title": "L'épidémie d'Ebola en RDC serait bien plus grave que prévu",
-      "full": "L'Organisation mondiale de la santé estime que l'épidémie d'Ebola en République démocratique du Congo pourrait être sous-évaluée de deux à quatre fois par rapport aux chiffres officiels. Bien que 700 morts et près de 2 000 cas aient été déclarés depuis deux mois, l'OMS considère cette épidémie comme la troisième plus importante jamais enregistrée et note qu'elle progresse plus vite que toutes les épidémies d'Ebola antérieures.",
+      "title": "Un pompier volontaire parmi les suspects d'incendies en forêt",
+      "full": "L'incendie qui consume depuis dimanche la forêt de Fontainebleau serait d'origine criminelle. Cinq personnes ont été placées en garde à vue, dont un pompier volontaire de 18 ans qui a avoué avoir allumé le feu. Depuis le début de l'été, 59 individus ont été interpellés en France, soupçonnés d'être responsables d'incendies volontaires.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "L'OMS classe cette épidémie au troisième rang historique et pointe l'écart entre les estimations officielles et la réalité du terrain.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/07/14/ebola-l-ampleur-de-l-epidemie-pourrait-depasser-de-deux-a-quatre-fois-les-estimations-officielles-selon-l-oms_6723326_3212.html"
-        },
-        {
           "outlet": "France Info",
-          "take": "L'organisation souligne que la progression actuelle du virus dépasse en rapidité tous les foyers d'Ebola gérés précédemment.",
-          "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-ampleur-de-l-epidemie-d-ebola-pourrait-depasser-de-deux-a-quatre-fois-les-estimations-officielles-selon-l-oms_8107568.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Libération",
-          "take": "L'annonce de l'OMS, formulée le 14 juillet, repose sur une réévaluation significative du nombre réel de cas en RDC.",
-          "url": "https://www.liberation.fr/societe/sante/ebola-lampleur-de-lepidemie-pourrait-depasser-de-deux-a-quatre-fois-les-estimations-officielles-20260714_6BUPHQO7J5ASVNS76NAAY5YBB4/"
+          "take": "Le profil des incendiaires interpellés s'avère déroutant et hétérogène, incluant notamment des membres des services d'urgence.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/ca-s-appelle-des-pyromanes-le-profil-deroutant-des-incendiaires-impliques-dans-les-feux-de-foret_8108771.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 15,
@@ -460,21 +343,15 @@
     },
     {
       "themes": [
-        "France",
-        "Monde"
+        "Insolite"
       ],
-      "title": "La Grande Mosquée de Paris fête ses cent ans",
-      "full": "La Grande Mosquée de Paris célèbre son centenaire en 2026. Inaugurée en 1926 dans le Quartier latin en hommage aux soldats musulmans morts pour la France pendant la Première Guerre mondiale, elle s'est progressivement affirmée comme un lieu emblématique de l'islam français. L'édifice joue aussi un rôle géostratégique, établissant un pont entre la France et l'Algérie, ainsi qu'entre les communautés juives et musulmanes. Ces festivités interviennent alors que l'Algérie renforce son influence sur ce symbole historique.",
+      "title": "Un serpent découvert dans une machine à laver en Espagne",
+      "full": "La police espagnole est intervenue lundi en Galice pour extraire un serpent logé dans le tambour de la machine à laver d'une habitante. L'animal, qui sifflait probablement pour se défendre face à la menace, a pu être récupéré sans incident lors de cette opération insolite.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "L'historien Benjamin Stora souligne le rôle de la mosquée comme pont entre la France et l'Algérie, et entre juifs et musulmans, inscrivant son évolution dans l'Histoire.",
-          "url": "https://www.france24.com/fr/france/20260715-destin-m%C3%A9connu-grande-mosquee-paris-100-cent-ans-au-c%C5%93ur-histoire-juifs-musulmans-algerie"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Malgré son importance pour l'islam en France et sa fréquentation importante par les fidèles, la mosquée reste peu visible médiatiquement, tandis que l'Algérie accroît son contrôle du lieu.",
-          "url": "https://www.liberation.fr/societe/religions/la-grande-mosquee-de-paris-celebre-ses-cent-ans-dans-la-discretion-20260715_3BC4M7P4EVEDTAN4R25SM72XD4/"
+          "outlet": "20 Minutes",
+          "take": "Met l'accent sur le comportement défensif du serpent et l'intervention des autorités locales pour le retrait de l'animal.",
+          "url": "https://www.20minutes.fr/arts-stars/insolite/4234610-20260715-sifflait-car-sentait-menace-femme-retrouve-gros-serpent-tambour-machine-laver?at_medium=display&at_campaign=149"
         }
       ],
       "id": 16,
@@ -484,18 +361,13 @@
       "themes": [
         "Société"
       ],
-      "title": "L'Assemblée nationale vote la loi sur l'aide à mourir",
-      "full": "L'Assemblée nationale se prononce mercredi sur le texte final de la loi sur la fin de vie, une réforme que le président Emmanuel Macron a engagée depuis 2022. Après des années d'hésitations et de débats, le gouvernement a finalement décidé de légiférer sur l'aide à mourir, malgré les craintes initiales de mécontenter les représentants religieux ou de diviser la société. Le vote devrait aboutir à l'adoption du texte.",
+      "title": "Six mannequins portent plainte contre l'ex-patron d'Elite Europe",
+      "full": "Six anciennes mannequins, pour la plupart américaines, ont déposé plainte contre l'ancien patron de l'agence Elite Europe pour viol et traite d'êtres humains. Les faits dénoncés auraient été commis à Paris entre les années 1980 et 1990. Cette action judiciaire intervient dans un contexte de mobilisation accrue contre les abus dans le secteur de la mode.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Le projet de loi aboutit au terme d'un processus politique chaotique, marqué par plusieurs reports et une dissolution de l'Assemblée.",
-          "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-le-long-chemin-d-emmanuel-macron-vers-le-vote-final-sur-l-aide-a-mourir_8063741.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Macron a dû surmonter ses propres doutes et craintes d'une fracture sociale avant de trancher en faveur d'une nouvelle législation sur l'aide à mourir.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/15/fin-de-vie-l-aide-a-mourir-un-long-cheminement-pour-emmanuel-macron_6723495_823448.html"
+          "take": "Six plaignantes, principalement originaires des États-Unis, dénoncent des crimes sexuels et des pratiques d'exploitation commis sur plusieurs décennies dans l'agence parisienne.",
+          "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/six-anciennes-mannequins-portent-plainte-contre-l-ex-patron-d-elite-europe-pour-viol-et-traite-d-etres-humains_8108645.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 17,
@@ -503,21 +375,15 @@
     },
     {
       "themes": [
-        "Monde",
-        "Sport"
+        "Société"
       ],
-      "title": "L'Espagne en demi-finale du Mondial 2026 après sa victoire sur la France",
-      "full": "L'Espagne s'est qualifiée pour la finale de la Coupe du monde 2026 en battant la France 2 à 0 en demi-finale, disputée à Arlington au Texas. Les supporters espagnols, rassemblés notamment à Saint-Sébastien, célèbrent une victoire qu'ils jugent amplement méritée. En parallèle, des supporters des nations éliminées plus tôt dans la compétition suivaient la demi-finale depuis la fan zone officielle de Dallas, tandis que leurs équipes d'origine n'étaient plus en lice.",
+      "title": "Au Cross Med, les sauvetages s'enchaînent pendant l'été",
+      "full": "Le Cross Med, centre de surveillance et de sauvetage en Méditerranée, intensifie ses opérations durant la haute saison estivale. Cet organisme reçoit les appels de détresse et coordonne les interventions en mer. Selon un reportage, les équipes décrivent cette période comme « une course contre la montre » face à l'accumulation des interventions.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Insiste sur la victoire convaincante de l'Espagne (2 à 0) et l'euphorie des supporters espagnols qui considèrent le succès légitime.",
-          "url": "https://www.franceinfo.fr/coupe-du-monde/reportage-c-est-sur-qu-on-va-la-gagner-cette-coupe-du-monde-en-espagne-la-joie-immense-des-supporters-de-la-roja-apres-la-victoire-contre-la-france_8108357.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Met l'accent sur les supporters venus soutenir d'autres pays, devenus spectateurs et obligés de choisir un nouvel favori après l'élimination de leur sélection.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260715-mondial-2026-quelle-%C3%A9quipe-supporters-nations-%C3%A9limin%C3%A9es-suivent-ils-coupe-du-monde-football"
+          "take": "France Info met l'accent sur le fonctionnement opérationnel du Cross Med et le rythme intense des sauvetages pendant l'été touristique.",
+          "url": "https://www.franceinfo.fr/var/reportage-c-est-toujours-une-course-contre-la-montre-au-cross-med-le-centre-de-surveillance-et-de-sauvetage-de-la-mediterranee-les-operations-de-sauvetage-s-enchainent-en-haute-saison_8107979.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 18,
@@ -525,20 +391,15 @@
     },
     {
       "themes": [
-        "Tech & Sciences"
+        "Sport"
       ],
-      "title": "Google poursuivi par des éditeurs pour utilisation d'œuvres sans autorisation",
-      "full": "Plusieurs maisons d'édition (Hachette Book Group, Cengage Learning, Elsevier) et l'écrivain Scott Turow ont déposé plainte à New York contre Google, l'accusant d'avoir copié des millions d'œuvres de sa bibliothèque numérique pour entraîner son modèle d'intelligence artificielle Gemini. Cette action s'inscrit dans une vague plus large de contentieux opposant des auteurs et éditeurs à des entreprises d'IA soupçonnées d'avoir utilisé des contenus protégés sans consentement.",
+      "title": "Les règles du football deviennent trop complexes à expliquer",
+      "full": "Après l'élimination de la Belgique en Coupe du monde, une action impliquant un défenseur espagnol ayant touché le ballon de la main en surface a divisé les observateurs. Nombreux étaient ceux affirmant qu'une règle automatique exonérait le joueur, alors que la réglementation est en réalité bien plus nuancée. Cet épisode illustre une confusion croissante autour de l'interprétation des lois du jeu.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "Les plaignants dénoncent une copie « secrète » de millions d'œuvres confiées à la bibliothèque numérique de Google pour alimenter Gemini.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260715-intelligence-artificielle-google-poursuivi-justice-plusieurs-maisons-edition-hachette-gemini-pour-violation-droits-auteur-plainte-entraier"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Cette plainte s'inscrit dans une série croissante de procédures judiciaires visant les entreprises d'intelligence artificielle accusées d'exploitation non autorisée d'œuvres protégées.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/07/15/hachette-et-d-autres-editeurs-poursuivent-google-l-accusant-de-violer-les-droits-d-auteur-avec-son-ia-gemini_6723382_4408996.html"
+          "outlet": "Slate",
+          "take": "Les lois du jeu football contiennent des subtilités que même les passionnés du sport peinent à maîtriser correctement.",
+          "url": "https://www.slate.fr/sports/main-penalty-football-regle-coupe-du-monde-belgique-espagne-loi"
         }
       ],
       "id": 19,
@@ -546,21 +407,15 @@
     },
     {
       "themes": [
-        "Monde",
-        "Société"
+        "Insolite"
       ],
-      "title": "Royaume-Uni : couvre-feu nocturne pour les réseaux sociaux des adolescents",
-      "full": "Le gouvernement britannique complète son interdiction des réseaux sociaux aux moins de 16 ans, annoncée en juin, en mettant en place un couvre-feu nocturne de minuit à 6 heures pour les adolescents de 16 et 17 ans. Les plateformes seront également obligées d'activer par défaut des paramètres bloquant les fonctionnalités considérées comme addictives. Londres entend ainsi réduire l'exposition des jeunes aux réseaux sociaux, notamment pendant les heures critiques du sommeil.",
+      "title": "Sur TikTok, le sandwich aux pommes séduit les internautes",
+      "full": "Un nouveau trend culinaire circule sur TikTok : le « apple sandwich », un casse-croûte composé de tranches de pommes à la place du pain. Cette recette, dépourvue de glucides, rencontre un succès grandissant auprès des utilisateurs du réseau social, particulièrement en été. Le phénomène s'inscrit dans la tendance plus large des recettes allégées qui gagnent en popularité sur la plateforme.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Présente cette mesure comme un complément réglementaire à l'interdiction précédente des réseaux pour les moins de 16 ans.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/07/15/reseaux-sociaux-le-gouvernement-britannique-annonce-la-mise-en-place-d-un-couvre-feu-pour-les-adolescents_6723381_4408996.html"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Insiste sur les deux volets concrets : le couvre-feu nocturne et l'obligation imposée aux plateformes de désactiver par défaut les fonctionnalités addictives.",
-          "url": "https://www.france24.com/fr/europe/20260715-londres-met-en-place-nouvelles-mesures-limiter-usage-reseaux-sociaux-adolescents-couvre-feu-nocturne-royaume-uni"
+          "outlet": "20 Minutes",
+          "take": "Le succès de cette recette sans pain repose sur la quête estivale de mets moins caloriques et plus légers.",
+          "url": "https://www.20minutes.fr/tempo/food/4233878-20260715-apple-sandwich-pourquoi-tiktok-craque-casse-croute-insolite-base-tranches-pommes?at_medium=display&at_campaign=149"
         }
       ],
       "id": 20,
@@ -568,20 +423,15 @@
     },
     {
       "themes": [
-        "Culture"
+        "Insolite"
       ],
-      "title": "The Last Viking, comédie noire scandinave avec Mads Mikkelsen",
-      "full": "Le film danois The Last Viking, réalisé par Anders Thomas Jensen, sort en salles. Mads Mikkelsen y incarne un clown autiste dans une comédie noire qui explore l'identité et le regard d'autrui. Le long-métrage mêle humour et second degré, avec des critiques saluant la performance de l'acteur et le ton mordant du réalisateur.",
+      "title": "Une salière de Cellini volée retrouvée après trois ans enterrée",
+      "full": "En 2003, un technicien en systèmes d'alarme dérobe la célèbre salière de Benvenuto Cellini au musée de Vienne, en Autriche. Estimée à près de 100 millions de dollars, cette œuvre d'art s'avère impossible à revendre. Le voleur la cache alors sous terre dans les bois pendant trois ans avant que le trésor ne soit finalement découvert.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "La réalisation d'Anders Thomas Jensen scrute finement la psychologie de ses personnages et déploie une comédie à la fois drôle et acérée.",
-          "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/the-last-viking-une-brillante-comedie-noire-sur-l-identite-portee-par-un-excellent-mads-mikkelsen_8106683.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Le film mêle un buddy movie scandinave à des blagues d'efficacité inégale et à un humour pince-sans-rire caractéristique du cinéma nordique.",
-          "url": "https://www.liberation.fr/culture/cinema/the-last-viking-sonne-le-gla-gla-20260714_PJWF5RPWOZDEZMMHIAQ7XIA5OQ/"
+          "outlet": "Slate",
+          "take": "Le vol d'une pièce majeure conçue au seizième siècle par le célèbre orfèvre Cellini, qui reste introuvable pendant trois années avant d'être retrouvée.",
+          "url": "https://www.slate.fr/societe/tresor-millions-dollars-vol-musee-vienne-autriche-bois-casse-cellini-or"
         }
       ],
       "id": 21,
@@ -589,301 +439,19 @@
     },
     {
       "themes": [
-        "Environnement",
-        "Société"
+        "Monde"
       ],
-      "title": "Incendie majeur à Fontainebleau, plus de 2 000 hectares détruits",
-      "full": "Le pire incendie de forêt qu'ait connu la région parisienne depuis 1921 a ravagé plus de 2 000 hectares de la forêt de Fontainebleau, soit plus de 8 % de sa surface. Le sinistre a été fixé en fin de journée mardi. Face à ce désastre, les habitants des communes voisines se sont organisés pour soutenir les pompiers en leur fournissant nourriture, produits de soin et fournitures.",
+      "title": "Pulaski, Tennessee, aux prises avec son héritage du Ku Klux Klan",
+      "full": "La ville de Pulaski, au Tennessee, demeure marquée par son rôle de berceau du Ku Klux Klan, fondé sur son territoire en 1865. Alors que les États-Unis commémorent les 250 ans de leur indépendance, cette communauté navigue entre déni local, accès à des archives sensibles et efforts de réconciliation. Le malaise mémoriel persiste au cœur de cette localité américaine confrontée à un passé de violence raciste.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "Témoignages d'habitants attachés au lieu qui cherchent à rester mobilisés face au choc émotionnel de la catastrophe.",
-          "url": "https://www.france24.com/fr/france/20260714-incendie-for%C3%AAt-fontainebleau-on-reste-actifs-pour-ne-pas-pleurer-t%C3%A9moignages-habitants-escalade"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Mise en avant de la mobilisation solidaire locale pour épauler les pompiers et de l'ampleur du sinistre en nombre d'hectares.",
-          "url": "https://www.liberation.fr/environnement/a-fontainebleau-la-solidarite-et-la-sideration-face-a-lincendie-cest-tellement-triste-que-ca-donne-envie-de-pleurer-20260714_5UJJVF3TLNDB7GW3X3YYSJZAGM/"
+          "outlet": "Slate",
+          "take": "La ville vit avec un héritage troublant et doit affronter la question de comment gérer ses archives historiques explosives tout en tentant une forme de réconciliation.",
+          "url": "https://www.slate.fr/monde/bienvenue-pulaski-berceau-ku-klux-klan-memoires-troubles-amerique-kkk-racisme-etats-unis-guerre-secession-tennessee"
         }
       ],
       "id": 22,
       "priority": 23
-    },
-    {
-      "themes": [
-        "France"
-      ],
-      "title": "Mélenchon en Bretagne défend son projet d'écorégions",
-      "full": "Jean-Luc Mélenchon, candidat de La France insoumise à la présidentielle, s'est exprimé mercredi à Paimpont en Bretagne lors d'une fête populaire organisée par la députée LFI Mathilde Hignet. Le leader insoumis a présenté son projet de réorganisation territoriale basée sur les bassins versants, qu'il nomme « écorégions », tout en réaffirmant son opposition au rattachement de la Loire-Atlantique. L'ambiance parmi les militants présents était marquée par l'optimisme quant aux chances de qualification de leur candidat au second tour.",
-      "angles": [
-        {
-          "outlet": "France Info",
-          "take": "Les militants insoumis présents expriment leur confiance dans la capacité de Mélenchon à atteindre le second tour de l'élection présidentielle.",
-          "url": "https://www.franceinfo.fr/politique/melenchon/on-va-gagner-au-meeting-de-jean-luc-melenchon-en-bretagne-l-ambiance-est-a-l-optimisme-chez-les-militants-insoumis_8107643.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Mélenchon a privilégié la défense de son concept d'écorégions et de ses positions sur le redécoupage territorial aux enjeux ruraux et agricoles habituellement centraux en Bretagne.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/15/en-bretagne-jean-luc-melenchon-s-adresse-aux-enfants-des-jacobins-pour-defendre-ses-ecoregions_6723503_823448.html"
-        }
-      ],
-      "id": 23,
-      "priority": 24
-    },
-    {
-      "themes": [
-        "Culture"
-      ],
-      "title": "« L'Aventure rêvée » de Valeska Grisebach à l'écran",
-      "full": "Le film « L'Aventure rêvée » de la cinéaste allemande Valeska Grisebach sort en salles. Primé du jury à Cannes, ce drame se déroule en Bulgarie post-communiste et met en scène trois amis d'enfance qui se retrouvent dans des conditions inédites, entre contrebande et zone frontière. Tourné avec des acteurs amateurs, le long métrage explore notamment la naissance du désir et la résilience face aux épreuves.",
-      "angles": [
-        {
-          "outlet": "France Info",
-          "take": "Le film revisite le genre du western en le transposant à une Bulgarie contemporaine marquée par le deuil et les combats intimes.",
-          "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/l-aventure-revee-de-valeska-grisebach-un-western-melancolique-dans-la-bulgarie-post-communiste_8088056.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Libération",
-          "take": "L'œuvre examine par la perspective de son héroïne les traces de l'amour dans un contexte de marginalité économique et géographique.",
-          "url": "https://www.liberation.fr/culture/cinema/laventure-revee-vestiges-de-lamour-20260714_6HLI2NUKR5BHXPDCJVBALCUDLM/"
-        }
-      ],
-      "id": 24,
-      "priority": 25
-    },
-    {
-      "themes": [
-        "Société"
-      ],
-      "title": "Le Parlement européen régularise la situation budgétaire du RN",
-      "full": "Le Parlement européen a approuvé mardi 14 juillet une régularisation de la situation budgétaire du groupe des Patriotes pour l'Europe, auquel appartient le Rassemblement national, malgré de nouvelles révélations sur des irrégularités financières. Cette décision résulte d'un accord entre le Parti populaire européen et les formations d'extrême droite au sein de la commission de contrôle budgétaire.",
-      "angles": [
-        {
-          "outlet": "Le Monde",
-          "take": "La droite européenne et l'extrême droite se sont alliées pour adopter une réponse minimale aux infractions du RN concernant l'usage des fonds européens.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/14/usage-des-fonds-europeens-malgre-de-nouvelles-revelations-sur-des-infractions-du-rn-la-droite-et-l-extreme-droite-s-allient-pour-une-reponse-minimale_6723314_823448.html"
-        },
-        {
-          "outlet": "Mediapart",
-          "take": "La commission budgétaire a choisi d'enterrer l'affaire, illustrant selon la source une institution qui couvre ses membres et un rapprochement croissant entre droite et extrêmes droites.",
-          "url": "https://www.mediapart.fr/journal/international/140726/soupcons-de-detournement-de-fonds-europeens-la-droite-au-secours-du-rn"
-        }
-      ],
-      "id": 25,
-      "priority": 26
-    },
-    {
-      "themes": [
-        "Économie"
-      ],
-      "title": "L'inflation américaine ralentit à 3,5% en juin",
-      "full": "L'inflation aux États-Unis a décéléré à 3,5% en juin sur un an, contre 4,2% le mois précédent, portée par la baisse des cours du pétrole et des prix à la pompe. Ce repli offre un répit bienvenu face à une hausse des prix qui demeure néanmoins élevée. Des tensions récentes autour du détroit d'Ormuz menacent cependant de raviver la volatilité des prix du brut.",
-      "angles": [
-        {
-          "outlet": "Le Monde",
-          "take": "Met l'accent sur le rebond potentiel des tensions géopolitiques au Moyen-Orient risquant de relancer l'inflation énergétique.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/14/aux-etats-unis-l-inflation-s-assagit-en-juin-un-repit-bienvenu-pour-donald-trump_6723320_3234.html"
-        },
-        {
-          "outlet": "Le Figaro Éco",
-          "take": "Souligne le contraste avec le pic d'inflation de trois ans atteint en mai, en mettant l'accent sur le rôle décisif de l'énergie.",
-          "url": "https://www.lefigaro.fr/conjoncture/aux-etats-unis-l-inflation-ralentit-a-3-5-en-juin-sur-un-an-grace-a-la-baisse-des-prix-a-la-pompe-20260714"
-        }
-      ],
-      "id": 26,
-      "priority": 27
-    },
-    {
-      "themes": [
-        "Culture"
-      ],
-      "title": "Avignon: Jatahy et Moura adaptent Ibsen en interrogeant l'actualité",
-      "full": "Le Festival d'Avignon accueille « Un procès », une création de la metteuse en scène Christiane Jatahy mettant en scène l'acteur brésilien Wagner Moura. Le spectacle prolonge la pièce classique d'Henrik Ibsen « Un ennemi du peuple » en explorant le personnage de Thomas Stockmann, médecin lanceur d'alerte confronté à des enjeux de santé publique. Cette relecture contemporaine interroge les fragilités des démocraties face aux menaces actuelles, invitant les spectateurs à réfléchir aux tensions entre intérêt collectif et pressions diverses.",
-      "angles": [
-        {
-          "outlet": "Le Monde",
-          "take": "La pièce met du temps à gagner en intensité, mais s'appuie sur une performance remarquable de Wagner Moura dans le rôle du lanceur d'alerte.",
-          "url": "https://www.lemonde.fr/culture/article/2026/07/14/festival-d-avignon-dans-un-proces-christiane-jatahy-et-wagner-moura-mettent-la-sante-des-citoyens-en-jeu_6723295_3246.html"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "L'adaptation soulève explicitement la question de la fragilité démocratique face au fascisme et aux menaces autoritaires.",
-          "url": "https://www.humanite.fr/culture-et-savoir/festival-davignon/festival-davignon-un-proces-apres-lennemi-du-peuple-la-fragilite-de-nos-democraties-face-au-fascisme"
-        }
-      ],
-      "id": 27,
-      "priority": 28
-    },
-    {
-      "themes": [
-        "Culture"
-      ],
-      "title": "Olivier Rousteing devient directeur artistique de Paco Rabanne",
-      "full": "Olivier Rousteing a été nommé directeur artistique de la maison de luxe espagnole Paco Rabanne. Le créateur français quitte ainsi Balmain, qu'il dirigeait depuis quinze ans. Il succède à Julien Dossena, parti en juin après treize années à la tête des collections de la marque.",
-      "angles": [
-        {
-          "outlet": "20 Minutes",
-          "take": "Souligne le changement de maison pour Rousteing après un long parcours chez Balmain.",
-          "url": "https://www.20minutes.fr/tempo/style/4234492-20260714-apres-depart-balmain-olivier-rousteing-rejoint-maison-luxe-espagnole-paco-rabanne?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Met l'accent sur la succession de Dossena et les durées respectives d'ancienneté des deux directeurs.",
-          "url": "https://www.franceinfo.fr/culture/mode/olivier-rousteing-nomme-directeur-artistique-de-paco-rabanne_8107274.html#xtor=RSS-3-%5Bgeneral%5D"
-        }
-      ],
-      "id": 28,
-      "priority": 29
-    },
-    {
-      "themes": [
-        "Économie"
-      ],
-      "title": "Les exportations chinoises accélèrent fortement en juin",
-      "full": "Les exportations de la Chine ont progressé de 27 % en juin comparé à juin 2025, dépassant les attentes. Cette dynamique, portée par les secteurs de l'intelligence artificielle et des véhicules électriques, a permis au pays d'accumuler un excédent commercial de 576 milliards de dollars sur les six premiers mois de l'année, malgré une augmentation concomitante des importations.",
-      "angles": [
-        {
-          "outlet": "Le Monde",
-          "take": "Souligne que la croissance des exportations reste soutenue par deux secteurs clés : l'IA et les voitures électriques, symboles de la montée en gamme industrielle chinoise.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/14/le-commerce-exterieur-de-la-chine-toujours-plus-fort-dope-par-l-ia-et-les-voitures-electriques_6723302_3234.html"
-        },
-        {
-          "outlet": "Le Figaro Éco",
-          "take": "Met l'accent sur le caractère surprenant de cette performance, dépassant les prévisions des analystes économiques.",
-          "url": "https://www.lefigaro.fr/flash-eco/chine-le-commerce-exterieur-bondit-plus-qu-attendu-en-juin-aide-par-l-essor-de-l-ia-20260714"
-        }
-      ],
-      "id": 29,
-      "priority": 30
-    },
-    {
-      "themes": [
-        "Santé"
-      ],
-      "title": "La Ligue contre le cancer réclame un principe de précaution sanitaire constitutionnel",
-      "full": "La Ligue contre le cancer demande l'inscription dans la Constitution française d'un principe de précaution sanitaire, calqué sur celui existant pour l'environnement. Cet ajustement obligerait les pouvoirs publics à agir dès qu'un risque plausible de dommage pour la santé est identifié. Philippe Bergerot, président de l'association, plaide dans un entretien au Monde pour une politique de prévention combinant réduction de la pollution et modification des comportements individuels. Selon lui, les décideurs politiques repouseraient souvent l'action sous la pression des lobbys et de la désinformation.",
-      "angles": [
-        {
-          "outlet": "Le Monde",
-          "take": "L'oncologue dénonce le rôle des lobbys et de la désinformation dans le retard des mesures de prévention du cancer.",
-          "url": "https://www.lemonde.fr/planete/article/2026/07/15/philippe-bergerot-president-de-la-ligue-contre-le-cancer-les-politiques-tres-souvent-retardent-l-action-sous-la-pression-des-lobbys-et-de-la-desinformation_6723493_3244.html"
-        },
-        {
-          "outlet": "France Info",
-          "take": "L'association souhaite transposer à la santé le mécanisme constitutionnel déjà appliqué aux questions environnementales.",
-          "url": "https://www.franceinfo.fr/sante/la-ligue-contre-le-cancer-veut-introduire-le-principe-de-precaution-sanitaire-dans-la-constitution-francaise-qui-empecherait-de-voter-des-lois-pouvant-nuire-a-la-sante_8107217.html#xtor=RSS-3-%5Bgeneral%5D"
-        }
-      ],
-      "id": 30,
-      "priority": 31
-    },
-    {
-      "themes": [
-        "Économie"
-      ],
-      "title": "Le Slip Français entre en bourse pour financer sa croissance",
-      "full": "La marque de sous-vêtements Le Slip Français a fait son entrée à la Bourse de Paris le 14 juillet, via le segment Euronext Growth réservé aux PME. Cette cotation lui permet de lever 3,7 millions d'euros destinés à financer ses investissements industriels. Fondée il y a 15 ans, la marque française a choisi la date nationale pour symboliser son positionnement sur le « Fabriqué en France ».",
-      "angles": [
-        {
-          "outlet": "France Info",
-          "take": "L'entrée en bourse coïncide volontairement avec le 14 juillet pour affirmer l'identité patrimoniale de la marque.",
-          "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/le-slip-francais-entre-en-bourse-pour-accelerer-sa-croissance_8075366.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Le financement de 3,7 millions d'euros vise à soutenir la stratégie d'investissement industriel de l'entreprise.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/14/le-slip-francais-s-aventure-en-bourse_6723297_3234.html"
-        }
-      ],
-      "id": 31,
-      "priority": 32
-    },
-    {
-      "themes": [
-        "Santé",
-        "France"
-      ],
-      "title": "L'Assemblée nationale vote la loi sur l'aide à mourir",
-      "full": "L'Assemblée nationale se prononce définitivement mercredi 15 juillet sur la proposition de loi relative à la fin de vie. Le texte instaure un droit au suicide assisté ou à l'euthanasie, encadré légalement, pour les patients atteints d'une affection grave et incurable présentant une souffrance constante. Cette loi, qui franchit son dernier obstacle parlementaire, marque un tournant dans la législation française sur ce sujet.",
-      "angles": [
-        {
-          "outlet": "Le Monde",
-          "take": "Met l'accent sur le caractère strictement encadré du dispositif, qui définit précisément les conditions d'accès au suicide assisté ou à l'euthanasie.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/14/fin-de-vie-ce-que-contient-le-texte-sur-l-aide-a-mourir-soumis-au-dernier-vote-des-deputes_6723270_3224.html"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Souligne le caractère volontaire du droit, en insistant sur le souhait personnel des malades incurables en grande souffrance.",
-          "url": "https://www.liberation.fr/societe/sante/loi-sur-laide-a-mourir-le-premier-jour-du-reste-de-la-fin-de-vie-20260715_HZ4BR35CSNBZTHIAAKIBSJIISQ/"
-        }
-      ],
-      "id": 32,
-      "priority": 33
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Une salière de maître enterrée trois ans après un vol spectaculaire",
-      "full": "En 2003, un spécialiste des alarmes dérobe la célèbre salière de Benvenuto Cellini au musée de Vienne. Estimée à environ 100 millions de dollars, cette pièce d'orfèvrerie Renaissance s'avère impossible à revendre sur le marché noir. Le voleur la cache alors enterrée dans les bois durant trois ans, incapable de monétiser son larcin.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "Slate souligne le contraste entre la valeur exceptionnelle de l'œuvre et l'impasse criminelle du voleur, qui n'a pu exploiter son butin précieux.",
-          "url": "https://www.slate.fr/societe/tresor-millions-dollars-vol-musee-vienne-autriche-bois-casse-cellini-or"
-        }
-      ],
-      "id": 33,
-      "priority": 34
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Une invasion de moustiques force l'évacuation de deux avions Ryanair",
-      "full": "Deux vols Ryanair en partance de Milan ont dû être évacués d'urgence en raison d'une invasion de moustiques à bord. Les insectes piqueurs étaient si nombreux que certains passagers ont dû changer d'avion pour poursuivre leur voyage. Ce type d'incident reste exceptionnel dans le transport aérien.",
-      "angles": [
-        {
-          "outlet": "France Info",
-          "take": "L'incident s'est déroulé à Milan, où une invasion massive de moustiques a rendu les cabines inutilisables et forcé le changement d'appareil pour une partie des voyageurs.",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/l-avion-etait-envahi-il-y-en-avait-partout-des-moustiques-bloquent-deux-vols-ryanair-en-italie_8107976.html#xtor=RSS-3-%5Bgeneral%5D"
-        }
-      ],
-      "id": 34,
-      "priority": 35
-    },
-    {
-      "themes": [
-        "Insolite",
-        "Société"
-      ],
-      "title": "Les « Dot cakes » divisent entre tendance virale et débat culturel",
-      "full": "Un gâteau à la vanille orné de points colorés, baptisé « Dot cakes », fait le buzz sur les réseaux sociaux depuis New York, mais suscite des critiques d'appropriation culturelle. Le dessert, devenu viral mondialement, pose des questions sur l'origine des inspirations culinaires et leur attribution. Ce phénomène illustre les tensions récurrentes autour de l'emprunt créatif dans la gastronomie trendy.",
-      "angles": [
-        {
-          "outlet": "20 Minutes",
-          "take": "Le gâteau rencontre un succès planétaire tout en alimentant un débat sur ses origines culturelles et son utilisation commerciale.",
-          "url": "https://www.20minutes.fr/tempo/food/4233931-20260714-dot-cakes-pourquoi-gateau-devenu-viral-accuse-etre-appropriation-culturelle?at_medium=display&at_campaign=149"
-        }
-      ],
-      "id": 35,
-      "priority": 36
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "La tendance « Fricy » mélange sucré et épicé cet été",
-      "full": "Une nouvelle tendance culinaire, baptisée « Fricy », gagne en popularité auprès des consommateurs. Elle associe des fruits avec des épices, créant un mélange sucré-salé-épicé destiné à offrir à la fois gourmandise et rafraîchissement. Cette combinaison séduit particulièrement pendant la saison estivale.",
-      "angles": [
-        {
-          "outlet": "20 Minutes",
-          "take": "La tendance « Fricy » connaît un succès notable cet été en proposant un équilibre entre saveurs sucrées, épicées et rafraîchissantes.",
-          "url": "https://www.20minutes.fr/tempo/food/4233365-20260714-quoi-tendance-fricy-mixe-sucre-epice-cartonne?at_medium=display&at_campaign=149"
-        }
-      ],
-      "id": 36,
-      "priority": 37
     }
   ]
 }
