@@ -21,6 +21,7 @@ from __future__ import annotations
 import os
 import json
 import sys
+import time
 
 from collect import Dossier
 from feeds import THEMES_BREVE
@@ -37,6 +38,20 @@ MAX_TOKENS = 1200
 # regroupement de collect.py fait déjà le gros du travail, celui-ci ne rattrape
 # que les cas flagrants sans écarter un développement légitime.
 DOUBLON_TITRE_SEUIL = 0.75
+
+# Reprise sur erreur TEMPORAIRE de l'API (surcharge, coupure réseau, limite de
+# débit). Le 16 juillet 2026, l'API a renvoyé « overloaded_error » (code 529)
+# sur 22 des 30 appels : la revue n'a compté que 8 brèves alors que la collecte
+# avait trouvé 252 dossiers. Sans reprise, un incident passager chez le
+# fournisseur ampute la revue du jour. On réessaie donc, en espaçant les
+# tentatives (2 s, 4 s, 8 s) pour laisser le service se rétablir.
+RETRY_MAX = 4                 # nombre total de tentatives par dossier
+RETRY_BASE_DELAY = 2.0        # secondes avant la 2e tentative, doublé ensuite
+
+# Codes et messages considérés comme temporaires : cela vaut la peine de
+# réessayer. Une erreur de clé API ou de requête mal formée, elle, se
+# reproduirait à l'identique : inutile d'insister.
+RETRY_ON_STATUS = {408, 429, 500, 502, 503, 504, 529}
 
 SYSTEM_PROMPT = f"""Tu es le rédacteur de « Brève », une revue de presse quotidienne française.
 Ton rôle : à partir d'un sujet d'actualité et des articles de plusieurs médias,
@@ -197,6 +212,51 @@ def summarize_one(client, d: Dossier) -> dict | None:
     }
 
 
+def _est_temporaire(ex: Exception) -> bool:
+    """
+    Vrai si l'erreur a des chances de disparaître en réessayant.
+
+    On regarde d'abord un éventuel code de statut porté par l'exception (le
+    client Anthropic expose « status_code »), puis, à défaut, on cherche des
+    marqueurs dans le texte de l'erreur. Prudent : en cas de doute, on ne
+    réessaie pas, pour ne pas s'acharner sur une erreur de configuration.
+    """
+    code = getattr(ex, "status_code", None)
+    if isinstance(code, int):
+        return code in RETRY_ON_STATUS
+    texte = str(ex).lower()
+    marqueurs = ("overloaded", "rate limit", "rate_limit", "timeout",
+                 "timed out", "connection", "temporarily", "try again",
+                 " 429", " 500", " 502", " 503", " 504", " 529")
+    return any(m in texte for m in marqueurs)
+
+
+def _summarize_avec_reprise(client, d: Dossier) -> dict | None:
+    """
+    Appelle l'IA pour un dossier, en réessayant si l'erreur est temporaire.
+
+    Renvoie la brève, ou None si toutes les tentatives ont échoué. L'attente
+    double à chaque essai (2 s, 4 s, 8 s) : c'est la pratique habituelle face à
+    un service saturé, elle évite d'aggraver l'encombrement en insistant trop
+    vite.
+    """
+    for tentative in range(1, RETRY_MAX + 1):
+        try:
+            return summarize_one(client, d)
+        except Exception as ex:
+            derniere = (tentative == RETRY_MAX)
+            if derniere or not _est_temporaire(ex):
+                print(f"  ! échec sur « {d.lead.title[:40]} » : {ex}",
+                      file=sys.stderr)
+                return None
+            delai = RETRY_BASE_DELAY * (2 ** (tentative - 1))
+            print(f"  … surcharge, nouvelle tentative dans {delai:.0f} s "
+                  f"({tentative}/{RETRY_MAX - 1}) pour "
+                  f"« {d.lead.title[:34]} »", file=sys.stderr)
+            time.sleep(delai)
+    return None
+
+
 def _titre_tokens(titre: str) -> set[str]:
     """Mots significatifs d'un titre de brève, pour comparer deux brèves."""
     from collect import tokenize
@@ -268,17 +328,23 @@ def build_breves(dossiers: list[Dossier], limit: int = 50,
         tentative = d.theme if d.theme in THEMES_BREVE else None
         if tentative and per_theme_count.get(tentative, 0) >= per_theme:
             continue
-        try:
-            data = summarize_one(client, d)
-        except Exception as ex:
-            print(f"  ! échec sur « {d.lead.title[:40]} » : {ex}", file=sys.stderr)
-            continue
+        data = _summarize_avec_reprise(client, d)
         if not data:
-            print(f"  ! réponse non-JSON pour « {d.lead.title[:40]} »", file=sys.stderr)
             continue
         # Quota appliqué sur le thème PRINCIPAL (1er tag) attribué par l'IA.
         theme = data["themes"][0]
         if per_theme_count.get(theme, 0) >= per_theme:
+            continue
+        # Règle des sources appliquée sur les angles RÉELLEMENT produits.
+        # Le filtre « eligible » plus haut porte sur les dossiers en entrée :
+        # un dossier à 2 médias dont l'IA ne rend qu'un seul angle donnait une
+        # brève à 1 source, en violation de la règle (constaté le 16 juillet
+        # 2026 : 4 brèves sur 8 étaient dans ce cas). On revérifie donc ici, sur
+        # le résultat. L'exception « Insolite » reste valable, mais uniquement
+        # si l'IA a confirmé ce thème en principal.
+        if len(data["angles"]) < min_sources and theme != "Insolite":
+            print(f"  ~ écartée, {len(data['angles'])} source(s) pour "
+                  f"« {data['title'][:40]} »", file=sys.stderr)
             continue
         # Filet de sécurité : écarte une brève quasi identique à une précédente.
         doublon = _trop_proche(data, out)
