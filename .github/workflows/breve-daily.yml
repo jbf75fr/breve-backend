@@ -86,6 +86,6 @@ jobs:
       #    rien et ne casse pas le workflow.
       - name: Notifier les abonnés
         env:
-          ONESIGNAL_API_KEY: ${{ secrets.ONESIGNAL_API_KEY }}
+          ONESIGNAL_API_KEY: ""
           ONESIGNAL_APP_ID: c26253c9-7282-4fca-9dbf-53183c86796d
         run: python notify_onesignal.py
