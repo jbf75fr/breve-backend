@@ -1,29 +1,25 @@
 {
-  "generated_at": "2026-07-16T08:49:35.204501+00:00",
+  "generated_at": "2026-07-16T08:57:16.013704+00:00",
   "date_label": "Jeudi 16 juillet",
-  "count": 20,
+  "count": 28,
   "breves": [
     {
       "themes": [
-        "France"
+        "France",
+        "Société"
       ],
-      "title": "La loi sur la fin de vie adoptée à l'Assemblée nationale",
-      "full": "L'Assemblée nationale a adopté mercredi 15 juillet la proposition de loi légalisant l'aide à mourir, faisant de la France l'un des pays rejoignant la Suisse, la Belgique et les Pays-Bas sur cette question. Le texte clôt deux ans de débats parlementaires intenses. Avant le scrutin final, le Premier ministre a annoncé le renvoi aux sages de la rue de Montpensier de trois aspects controversés du texte. Des personnes atteintes de maladies incurables ont salué l'adoption comme « un cadeau », tandis que certaines familles expriment leurs regrets face aux délais d'adoption.",
+      "title": "Violences sur mineurs : 85 000 procédures identifiées après audit",
+      "full": "Un réexamen massif des plaintes pour violences sexuelles sur mineurs, lancé suite à l'affaire Lyhanna, a révélé 15 000 dossiers supplémentaires jusque-là ignorés, portant le total à 85 000 procédures en cours. Le ministre de la Justice Gérald Darmanin souligne que 675 personnes ont été incarcérées depuis début juin. Cet audit inédit met en lumière des failles systémiques dans le traitement de ces dossiers, bien que les résultats soient présentés comme une avancée majeure.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Des malades en phase terminale saluent cette adoption historique comme un soulagement, tout en confiant leurs angoisses quant aux modalités d'application.",
-          "url": "https://www.liberation.fr/societe/loi-sur-la-fin-de-vie-adoptee-cest-un-cadeau-pour-nous-malades-et-nos-proches-20260715_FF45KSAZA5DYDGQPEVISTOPDKU/"
-        },
-        {
           "outlet": "France Info",
-          "take": "Une femme dont le mari est décédé avant l'adoption de la loi exprime son amertume face au retard du texte.",
-          "url": "https://www.franceinfo.fr/societe/euthanasie/fin-de-vie-ils-sont-a-cote-de-la-plaque-deplore-karine-dont-le-mari-n-aura-pas-pu-beneficier-de-la-loi-qui-pourrait-etre-votee-ce-mercredi_8108930.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Insiste sur l'ampleur du chantier : 70 000 plaintes réexaminées et 15 000 découvertes, avec 675 incarcérations depuis juin.",
+          "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/violences-sexuelles-sur-mineurs-pres-de-70-000-plaintes-reexaminees-et-15-000-en-plus-decouvertes-par-les-enqueteurs-depuis-l-affaire-lyhanna_8109335.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Le Figaro Politique",
-          "take": "Avant le dernier vote, le Premier ministre a annoncé surprenant l'examen par le Conseil constitutionnel de trois dispositions controversées du texte.",
-          "url": "https://www.lefigaro.fr/politique/fin-de-vie-sebastien-lecornu-doute-emmanuel-macron-veut-passer-en-force-20260714"
+          "outlet": "Mediapart",
+          "take": "Souligne le caractère systémique des défaillances et met en avant les risques d'effets de bord inquiétants de cet audit d'urgence.",
+          "url": "https://www.mediapart.fr/journal/france/160726/violences-sexuelles-faites-aux-enfants-85-000-procedures-en-cours-et-toujours-plus-d-enfumage"
         }
       ],
       "id": 0,
@@ -31,21 +27,26 @@
     },
     {
       "themes": [
-        "Tech & Sciences",
-        "Monde"
+        "Monde",
+        "Sport"
       ],
-      "title": "Nouvelles preuves de l'utilisation de Pegasus par le Maroc",
-      "full": "Des enquêtes coordonnées du Monde et de France Info apportent de nouveaux éléments confirmant que le Maroc a utilisé le logiciel espion Pegasus, produit par la société NSO Group. Le royaume nie depuis 2021 cette utilisation, malgré les premières révélations établissant que des journalistes et responsables français ont été visés par ce logiciel. Ces témoignages et preuves supplémentaires sont révélés alors qu'une enquête judiciaire française sur ces faits se poursuit.",
+      "title": "Coupe du monde 2026 : l'Argentine et l'Espagne en finale",
+      "full": "L'Argentine affrontera l'Espagne en finale de la Coupe du monde 2026, dimanche. L'Albiceleste s'est imposée face à l'Angleterre (2-1) mercredi à Atlanta, inscrivant ses deux buts en fin de match. L'Espagne a éliminé la France (2-0) mardi à Dallas, match suivi par 20,2 millions de téléspectateurs en France sur M6.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Les nouveaux éléments et témoignages s'ajoutent aux révélations initiales de 2021 et contredisent les dénégations répétées du Maroc.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/07/16/de-nouvelles-preuves-demontrent-que-le-maroc-a-utilise-le-logiciel-espion-pegasus_6723736_4408996.html"
+          "outlet": "Courrier International",
+          "take": "L'Argentine a remporté une victoire dramatique en inscrivant deux buts décisifs en toute fin de rencontre contre l'Angleterre.",
+          "url": "https://www.courrierinternational.com/article/football-coupe-du-monde-l-argentine-crucifie-l-angleterre-et-rejoint-l-espagne-en-finale_250110"
         },
         {
-          "outlet": "France Info",
-          "take": "L'enquête a été coordonnée par Forbidden Stories et intervient au moment où le Premier ministre et une partie du gouvernement français se trouvent au Maroc.",
-          "url": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-scandale-du-logiciel-espion-pegasus-de-nouvelles-preuves-contre-le-maroc_8109245.html#xtor=RSS-3-[lestitres]"
+          "outlet": "L'Humanité",
+          "take": "L'Espagne a dominé collectivement la France dans tous les compartiments du jeu pour valider son accès à la finale.",
+          "url": "https://www.humanite.fr/sports/bleus/coupe-du-monde-2026-ce-qui-explique-lechec-des-bleus"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "La demi-finale France-Espagne a mobilisé plus de 20 millions de téléspectateurs français, soit la meilleure audience depuis la cérémonie d'ouverture des Jeux olympiques de Paris.",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2026/07/15/coupe-du-monde-2026-20-2-millions-de-telespectateurs-ont-regarde-sur-m6-l-elimination-de-la-france-par-l-espagne_6723547_3236.html"
         }
       ],
       "id": 1,
@@ -53,20 +54,30 @@
     },
     {
       "themes": [
-        "France"
+        "Économie"
       ],
-      "title": "Le tribunal administratif annule l'interdiction d'un colloque sur la Palestine",
-      "full": "Le tribunal administratif de Paris a infirmé, mercredi 15 juillet, la décision du Collège de France d'annuler un colloque intitulé « La Palestine et l'Europe : poids du passé et dynamiques contemporaines » prévu en novembre 2025. L'institution avait justifié cette annulation par un risque de « débordements », mais les juges ont jugé cette mesure « disproportionnée ». Les organisateurs, qui dénonçaient une entrave à la liberté d'expression, ont ainsi obtenu gain de cause.",
+      "title": "Le leasing social pour véhicules électriques ouvre ses inscriptions",
+      "full": "Le dispositif gouvernemental de location subventionnée de voitures électriques lance sa troisième édition, avec des inscriptions ouvertes à partir de cette semaine. Le Gouvernement vise 50 000 bénéficiaires parmi les ménages modestes, avec des tarifs débutant à 94 euros par mois. Une vingtaine de modèles de douze marques (Renault, Citroën, Jeep, entre autres) sont éligibles, et les critères d'accès ont été assouplis. L'aide de l'État est renforcée pour les véhicules fabriqués en Europe.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Le rapporteur public a critiqué la décision d'annulation comme disproportionnée face au risque invoqué de débordements.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/15/le-tribunal-administratif-donne-tort-au-college-de-france-pour-l-annulation-d-un-colloque-sur-la-palestine-en-novembre-2025_6723591_3224.html"
+          "outlet": "France Info",
+          "take": "Le dispositif est reconduit avec des conditions d'éligibilité élargies et une offre diversifiée allant des citadines aux SUV.",
+          "url": "https://www.franceinfo.fr/economie/transports/leasing-social-2026-les-demandes-ouvertes-pour-la-location-de-vehicules-electriques_8109887.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "L'Humanité",
-          "take": "Le tribunal infirme la décision du Collège de France en retenant le caractère excessif de l'interdiction du colloque.",
-          "url": "https://www.humanite.fr/societe/college-de-france/le-tribunal-administratif-de-paris-infirme-la-decision-du-college-de-france-dannuler-un-colloque-sur-la-palestine"
+          "outlet": "Libération",
+          "take": "La troisième vague privilégie désormais les véhicules de fabrication européenne grâce à une aide gouvernementale renforcée.",
+          "url": "https://www.liberation.fr/economie/transports/leasing-social-la-troisieme-vague-de-locations-longue-duree-de-voitures-electriques-demarre-ce-jeudi-20260716_KNZYD3BEZZGGNBNKWS6FMCGQKM/"
+        },
+        {
+          "outlet": "Le Figaro Éco",
+          "take": "Plus de vingt modèles ont été sélectionnés cette année pour ce programme de location à bas coût.",
+          "url": "https://www.lefigaro.fr/conjoncture/citroen-renault-peugeot-voici-les-modeles-electriques-eligibles-au-leasing-social-20260707"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Le leasing social cible spécifiquement les ménages aux ressources limitées pour accéder à la mobilité électrique.",
+          "url": "https://www.20minutes.fr/societe/4234733-20260716-voitures-electriques-leasing-social-retour-troisieme-fois-peut-beneficier?at_medium=display&at_campaign=149"
         }
       ],
       "id": 2,
@@ -74,20 +85,20 @@
     },
     {
       "themes": [
-        "Sport"
+        "Économie"
       ],
-      "title": "Les Girondins de Bordeaux relégués en sixième division",
-      "full": "La DNCG a confirmé mercredi 15 juillet l'exclusion des Girondins de Bordeaux des compétitions nationales, rejetant le recours du club. Les six fois champions de Ligue 1 sont rétrogradés en Régional 1, soit la sixième division française. Le club n'a pas réuni les fonds nécessaires pour éviter cette sanction et s'achemine vers une liquidation judiciaire.",
+      "title": "Uber acquiert Delivery Hero pour 12,7 milliards d'euros",
+      "full": "Le conseil d'administration de Delivery Hero a accepté l'offre de rachat d'Uber valorisant le groupe allemand de livraison de repas à 12,7 milliards d'euros. Uber, qui détenait déjà 36 % du capital, s'engage à préserver l'indépendance de gestion de la société et à protéger ses salariés pendant trois ans. Cette acquisition permet à Uber de renforcer sa position dans le secteur de la livraison locale de repas.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "La DNCG a confirmé en appel la rétrogradation des Girondins après le rejet de leur recours.",
-          "url": "https://www.liberation.fr/sports/football/girondins-de-bordeaux-lexclusion-du-club-de-foot-des-competitions-nationales-confirmee-en-appel-20260715_FTNULYDJLVD75FWNZUYUKG43NA/"
+          "outlet": "Le Monde",
+          "take": "Uber s'engage à maintenir l'indépendance de direction de Delivery Hero et à garantir la protection de ses employés pour une durée de trois ans.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/16/delivery-hero-l-offre-de-rachat-d-uber-pour-12-7-milliards-d-euros-acceptee_6723760_3234.html"
         },
         {
-          "outlet": "France Info",
-          "take": "Le club historique, incapable de trouver les fonds pour contester l'exclusion, se dirige vers une liquidation judiciaire.",
-          "url": "https://www.franceinfo.fr/sports/foot/la-relegation-des-girondins-de-bordeaux-en-regional-1-confirmee-par-la-dncg-le-club-de-foot-vers-la-liquidation-judiciaire_8108675.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Figaro Éco",
+          "take": "Cette reprise est présentée comme l'opportunité de valoriser les compétences de Delivery Hero dans la livraison locale de repas.",
+          "url": "https://www.lefigaro.fr/societes/delivery-hero-accepte-une-offre-de-reprise-d-uber-pour-12-7-milliards-d-euros-20260716"
         }
       ],
       "id": 3,
@@ -95,20 +106,21 @@
     },
     {
       "themes": [
-        "Culture"
+        "Tech & Sciences",
+        "Monde"
       ],
-      "title": "Christopher Nolan adapte L'Odyssée d'Homère au cinéma",
-      "full": "Christopher Nolan sort mercredi 15 juillet son dernier film, « L'Odyssée », adaptation du texte mythique d'Homère relatant le retour d'Ulysse vers Ithaque. Le réalisateur britannique-américain propose une fresque hollywoodienne au casting ambitieux. Comme d'autres avant lui au théâtre, au cinéma ou en littérature, Nolan réinterprète l'œuvre antique selon son propre style et l'époque contemporaine, une approche considérée comme légitime par les spécialistes.",
+      "title": "Pegasus : nouvelles preuves de l'utilisation du logiciel par le Maroc",
+      "full": "Le Monde et ses partenaires médiatiques publient de nouveaux éléments confirmant que le Maroc a utilisé le logiciel espion Pegasus de l'entreprise NSO Group, contredisant les dénégations répétées du royaume. Ces preuves s'ajoutent aux révélations de 2021 et à l'enquête en cours depuis sur l'espionnage ayant ciblé des journalistes et des responsables français.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Le film de Nolan transpose le texte homérique en production cinématographique de grande envergure avec une distribution importante.",
-          "url": "https://www.franceinfo.fr/culture/cinema/avec-l-odyssee-christopher-nolan-adapte-le-texte-d-homere-en-fresque-hollywoodienne_8109074.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "Met en avant que le Maroc persiste à nier l'utilisation de Pegasus malgré l'accumulation de nouveaux témoignages et éléments démontrant le contraire.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/07/16/de-nouvelles-preuves-demontrent-que-le-maroc-a-utilise-le-logiciel-espion-pegasus_6723736_4408996.html"
         },
         {
-          "outlet": "Libération",
-          "take": "L'adaptation du réalisateur s'inscrit dans une tradition où chaque artiste réinterprète L'Odyssée à travers sa propre vision plutôt que de chercher une fidélité absolue au texte originel.",
-          "url": "https://www.liberation.fr/idees-et-debats/tribunes/peu-importe-la-fidelite-a-homere-de-lodyssee-de-christopher-nolan-20260716_XOX4HGBLAJCGXKOGHO7GUAHYSU/"
+          "outlet": "France Info",
+          "take": "Souligne que cette enquête coordonnée par Forbidden Stories intervient alors que le Premier ministre français se trouve au Maroc, renforçant les tensions diplomatiques autour de ce dossier.",
+          "url": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-scandale-du-logiciel-espion-pegasus-de-nouvelles-preuves-contre-le-maroc_8109245.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 4,
@@ -116,21 +128,21 @@
     },
     {
       "themes": [
-        "Tech & Sciences",
-        "Économie"
+        "Économie",
+        "Santé"
       ],
-      "title": "Deux moratoires sur les centres de données face aux enjeux énergétiques",
-      "full": "Une commission d'enquête française a présenté mercredi des propositions pour renforcer la souveraineté technologique, dont une participation de l'État dans Mistral AI et un moratoire sur les centres de données étrangers. De son côté, la gouverneure de New York a décidé de geler pendant un an la construction de nouveaux mégacentres de données, face aux tensions sur le réseau électrique et à la hausse des factures d'électricité. Ces initiatives reflètent une préoccupation croissante : l'infrastructure numérique, notamment celle des intelligences artificielles, exige des ressources énergétiques massives que les réseaux actuels peinent à supporter.",
+      "title": "Le coût d'une alimentation saine a bondi de 25% en cinq ans",
+      "full": "Selon un rapport de la FAO, le prix d'une alimentation saine a augmenté de 25% sur la période 2019-2024 à l'échelle mondiale. Les produits d'origine animale et les fruits et légumes constituent les postes les plus coûteux, représentant respectivement 30% et 16% du budget alimentaire sain, contre 13% pour les aliments de base comme les céréales et légumineuses. La FAO préconise le développement de la production locale, qui pourrait réduire ce coût de 34% au niveau mondial.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "La France entend réduire sa dépendance technologique à travers un renforcement du contrôle public et une limitation des acteurs étrangers.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/15/participation-de-l-etat-dans-mistral-ai-moratoire-sur-les-data-centers-etrangers-les-propositions-chocs-de-la-commission-sur-les-dependances-numeriques_6723575_3234.html"
+          "outlet": "Le Figaro Éco",
+          "take": "Détaille la répartition du coût d'une alimentation saine selon les catégories d'aliments, montrant le poids prépondérant des produits animaux et des fruits et légumes.",
+          "url": "https://www.lefigaro.fr/conjoncture/le-cout-d-une-alimentation-saine-a-augmente-de-25-en-cinq-ans-dans-le-monde-selon-la-fao-20260715"
         },
         {
-          "outlet": "Courrier International",
-          "take": "New York privilégie une approche restrictive temporaire pour protéger son infrastructure électrique face aux besoins croissants de l'intelligence artificielle.",
-          "url": "https://www.courrierinternational.com/article/ia-l-etat-de-new-york-decrete-un-moratoire-sur-les-centres-de-donnees_249913"
+          "outlet": "France Info",
+          "take": "Met l'accent sur la solution proposée par la FAO : la production locale comme levier pour réduire significativement le coût d'une alimentation saine.",
+          "url": "https://www.franceinfo.fr/sante/alimentation/le-cout-d-une-alimentation-saine-a-augmente-de-25-en-cinq-ans-selon-l-onu_8109410.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 5,
@@ -138,21 +150,21 @@
     },
     {
       "themes": [
-        "France",
-        "Société"
+        "Économie",
+        "Tech & Sciences"
       ],
-      "title": "Gérald Marie, ancien patron d'Elite, visé par six plaintes pour viols",
-      "full": "Six femmes ont déposé plainte contre Gérald Marie, ancien directeur Europe de l'agence de mannequinat Elite de 1986 à 2011. Les plaignantes, majoritairement de nationalité américaine et âgées de 45 à 60 ans, l'accusent de viols et de traite d'êtres humains. L'une d'elles était mineure au moment des faits présumés. L'ex-dirigeant, désormais septuagénaire, fait l'objet de demandes de poursuites.",
+      "title": "L'UE accepte les mesures correctives de X après une amende de 120 millions",
+      "full": "La Commission européenne a validé les mesures de conformité présentées par X en réaction à l'amende de 120 millions d'euros infligée en décembre 2025 pour violations du règlement européen sur les services numériques (DSA). Bruxelles a salué cette initiative comme « un pas important dans la bonne direction ». Le litige reste cependant ouvert : X a interjeté appel de la sanction en février, ce qui prolonge la procédure.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "Insiste sur le profil des plaignantes (nationalité, âge actuel) et le statut juridique du plaignant comme ancien responsable de la filiale européenne.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/15/gerald-marie-ancien-dirigeant-de-l-agence-de-top-models-elite-vise-par-six-plaintes-pour-viols-et-traite-d-etres-humains_6723562_3224.html"
+          "take": "La Commission européenne considère les mesures correctives comme un progrès, malgré la poursuite du contentieux du fait de l'appel introduit par la plateforme.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/07/15/l-union-europeenne-accepte-les-mesures-correctives-de-x-apres-l-amende-de-120-millions-d-euros-prononcee-a-la-fin-de-2025_6723612_4408996.html"
         },
         {
-          "outlet": "L'Humanité",
-          "take": "Souligne la période précise du mandat de Gérald Marie à la direction et mentionne le dépôt de plainte survenu mercredi.",
-          "url": "https://www.humanite.fr/societe/agressions-sexuelles/gerald-marie-lex-patron-de-lagence-elite-vise-par-six-nouvelles-plaintes-pour-viols-et-traite-detres-humains"
+          "outlet": "Le Figaro Éco",
+          "take": "L'amende de décembre sanctionnait trois infractions spécifiques aux règles numériques européennes applicables aux grandes plateformes.",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/un-pas-important-dans-la-bonne-direction-l-ue-accepte-des-mesures-correctives-de-x-apres-l-amende-prononcee-fin-2025-20260715"
         }
       ],
       "id": 6,
@@ -160,21 +172,20 @@
     },
     {
       "themes": [
-        "Environnement",
-        "Société"
+        "France"
       ],
-      "title": "La France face à une sécheresse exceptionnelle et précoce",
-      "full": "La France traverse une situation de sécheresse qualifiée d'exceptionnelle par le gouvernement, combinant des vagues de chaleur intenses et un déficit pluviométrique depuis avril. Tous les départements sont désormais soumis à des restrictions d'usage de l'eau, tandis que les cultures souffrent et certains cours d'eau s'assèchent. La ministre de la Transition écologique a averti mercredi que la situation pourrait encore s'aggraver, justifiant une mobilisation gouvernementale d'urgence.",
+      "title": "Le tribunal administratif annule l'annulation du colloque sur la Palestine",
+      "full": "Le tribunal administratif de Paris a jugé disproportionnée l'annulation, décidée par le Collège de France en novembre 2025, d'un colloque intitulé « La Palestine et l'Europe : poids du passé et dynamiques contemporaines ». L'administrateur de l'institution avait justifié cette suppression par un risque de « débordements ». Le tribunal a considéré que cette mesure violait la liberté d'expression.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "La sécheresse résulte de la convergence de fortes chaleurs répétées et d'un manque de précipitations prolongé depuis avril, ce qui rend la situation très préoccupante.",
-          "url": "https://www.france24.com/fr/france/20260715-la-france-dans-une-situation-de-s%C3%A9cheresse-exceptionnelle-pr%C3%A9coce-et-intense"
+          "outlet": "L'Humanité",
+          "take": "Le tribunal infirme la décision du Collège de France en la jugeant disproportionnée.",
+          "url": "https://www.humanite.fr/societe/college-de-france/le-tribunal-administratif-de-paris-infirme-la-decision-du-college-de-france-dannuler-un-colloque-sur-la-palestine"
         },
         {
-          "outlet": "Le Figaro Sciences",
-          "take": "L'ampleur de la crise est mesurée par l'application de restrictions d'eau dans la totalité des départements français, placée sous surveillance gouvernementale étroite.",
-          "url": "https://www.lefigaro.fr/sciences/reunion-de-crise-a-cause-de-la-secheresse-exceptionnelle-dans-l-hexagone-20260715"
+          "outlet": "Le Monde",
+          "take": "Le rapporteur public a relevé que le motif invoqué (risque de débordements) ne justifiait pas l'annulation du colloque.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/15/le-tribunal-administratif-donne-tort-au-college-de-france-pour-l-annulation-d-un-colloque-sur-la-palestine-en-novembre-2025_6723591_3224.html"
         }
       ],
       "id": 7,
@@ -182,20 +193,20 @@
     },
     {
       "themes": [
-        "Culture"
+        "Sport"
       ],
-      "title": "Rachida Brakni refuse la Légion d'honneur",
-      "full": "L'actrice Rachida Brakni a décliné la Légion d'honneur qui lui a été proposée à l'occasion de la promotion du 14 juillet. Elle a justifié son refus en affirmant que son honneur « est ailleurs », via un message publié sur Instagram. Cette année, plusieurs figures du domaine culturel ont reçu cette distinction, dont l'historienne Michelle Perrot et l'actrice Natalie Portman.",
+      "title": "Bordeaux définitivement exclu des compétitions nationales",
+      "full": "La DNCG a confirmé mercredi 15 juillet l'exclusion des Girondins de Bordeaux des championnats nationaux, rejetant l'appel du club en sixième division (Régional 1). Les dirigeants bordelais n'ont pas réussi à réunir les fonds nécessaires pour éviter cette sanction du gendarme financier du football français. Le club historique, six fois champion de Ligue 1, s'achemine désormais vers une liquidation judiciaire.",
       "angles": [
         {
           "outlet": "Libération",
-          "take": "Le refus de Brakni est présenté comme un acte de principes soulevant des questions sur la légitimité du gouvernement à définir qui mérite d'être honoré.",
-          "url": "https://www.liberation.fr/culture/la-decision-de-rachida-brakni-de-refuser-la-legion-dhonneur-est-un-acte-honorable-20260715_FUJQXXF2N5CZZEIMMEBEVCV45M/"
+          "take": "Le recours des Girondins n'a pas abouti, confirmant leur relégation administrative au mieux en Régional 1.",
+          "url": "https://www.liberation.fr/sports/football/girondins-de-bordeaux-lexclusion-du-club-de-foot-des-competitions-nationales-confirmee-en-appel-20260715_FTNULYDJLVD75FWNZUYUKG43NA/"
         },
         {
           "outlet": "France Info",
-          "take": "L'agence rapporte factuellement que Brakni figure parmi les récipiendaires du domaine culturel et a annoncé son refus via les réseaux sociaux.",
-          "url": "https://www.franceinfo.fr/culture/legion-d-honneur-dans-le-domaine-culturel-michelle-perrot-natalie-portman-et-wajdi-mouawad-distingues-dans-la-promotion-du-14-juillet_8108501.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "L'absence de solution financière après l'audition initiale a conduit à la confirmation de l'exclusion et laisse entrevoir une liquidation judiciaire du club.",
+          "url": "https://www.franceinfo.fr/sports/foot/la-relegation-des-girondins-de-bordeaux-en-regional-1-confirmee-par-la-dncg-le-club-de-foot-vers-la-liquidation-judiciaire_8108675.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 8,
@@ -203,20 +214,20 @@
     },
     {
       "themes": [
-        "Société"
+        "Culture"
       ],
-      "title": "La préfecture de police conteste les exigences du tribunal sur son infirmerie psychiatrique",
-      "full": "La préfecture de police de Paris fait appel devant le Conseil d'État après avoir été sommée de prendre des mesures dans son infirmerie psychiatrique (I3P). Cette structure reçoit les personnes arrêtées ou amenées par la police pour évaluer une éventuelle hospitalisation en psychiatrie. La préfecture estime que les mesures imposées par le tribunal administratif « font courir un risque pour la sécurité des personnes ».",
+      "title": "Christopher Nolan adapte L'Odyssée d'Homère au cinéma",
+      "full": "Christopher Nolan sort mercredi 15 juillet « L'Odyssée », adaptation cinématographique du texte mythique d'Homère qui raconte le retour d'Ulysse vers Ithaque. Le réalisateur britannico-américain propose une fresque hollywoodienne dotée d'un casting imposant. Comme ses prédécesseurs au théâtre, au roman ou au cinéma, Nolan a adapté l'œuvre antique à son style personnel et à l'époque contemporaine, démarche considérée comme une qualité plutôt qu'un défaut par les spécialistes.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "L'I3P accueille principalement des personnes en garde à vue ou celles présentant un trouble à l'ordre public, dans une logique d'évaluation psychiatrique.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/15/sommee-de-prendre-des-mesures-dans-son-infirmerie-psychiatrique-la-prefecture-de-police-de-paris-fait-appel_6723539_3224.html"
+          "outlet": "France Info",
+          "take": "Souligne l'ambition du projet et l'envergure du casting réuni par Nolan pour cette adaptation cinématographique.",
+          "url": "https://www.franceinfo.fr/culture/cinema/avec-l-odyssee-christopher-nolan-adapte-le-texte-d-homere-en-fresque-hollywoodienne_8109074.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Mediapart",
-          "take": "La préfecture conteste les prescriptions du tribunal en arguant que leur mise en œuvre présenterait des risques de sécurité.",
-          "url": "https://www.mediapart.fr/journal/france/150726/sommee-de-prendre-des-mesures-dans-son-infirmerie-psychiatrique-la-prefecture-de-police-fait-appel"
+          "outlet": "Libération",
+          "take": "Rappelle que l'adaptation libre d'une œuvre classique à la vision d'un créateur est une pratique légitime et féconde dans la transmission des mythes.",
+          "url": "https://www.liberation.fr/idees-et-debats/tribunes/peu-importe-la-fidelite-a-homere-de-lodyssee-de-christopher-nolan-20260716_XOX4HGBLAJCGXKOGHO7GUAHYSU/"
         }
       ],
       "id": 9,
@@ -224,20 +235,21 @@
     },
     {
       "themes": [
-        "France"
+        "Économie",
+        "Tech & Sciences"
       ],
-      "title": "Le Sénat dénonce l'opacité du financement privé des politiques publiques",
-      "full": "Une commission d'enquête du Sénat a présenté mercredi un rapport critiquant le manque de transparence de certaines structures privées impliquées dans le financement de politiques publiques, pointant notamment du doigt les activités du milliardaire conservateur Pierre-Edouard Stérin. Les sénatrices à l'origine de cette commission plaident pour une meilleure application de la législation existante, qui prévoit des sanctions fiscales et pénales contre les organismes d'intérêt général ne respectant pas leurs missions.",
+      "title": "France et New York envisagent de freiner l'expansion des centres de données",
+      "full": "Une commission d'enquête française a proposé mercredi un moratoire sur les centres de données étrangers et une participation de l'État dans l'entreprise française Mistral AI, afin de renforcer la souveraineté technologique française et européenne. De son côté, l'État de New York a annoncé un gel d'un an sur la construction de nouveaux grands centres de données, face aux tensions sur le réseau électrique et à la hausse des factures d'électricité pour les habitants.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "Le rapport met en avant l'opacité de certaines structures privées, avec un focus sur les activités de Pierre-Edouard Stérin.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/15/financement-prive-des-politiques-publiques-la-galaxie-sterin-dans-le-viseur-d-une-commission-du-senat_6723530_823448.html"
+          "take": "La commission met l'accent sur la dépendance numérique de la France et propose des mesures structurelles pour renforcer son autonomie technologique.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/15/participation-de-l-etat-dans-mistral-ai-moratoire-sur-les-data-centers-etrangers-les-propositions-chocs-de-la-commission-sur-les-dependances-numeriques_6723575_3234.html"
         },
         {
-          "outlet": "Libération",
-          "take": "Les sénatrices estiment que la figure de Stérin symbolise un problème plus large et appellent à renforcer l'application du droit existant plutôt qu'à créer une nouvelle législation.",
-          "url": "https://www.liberation.fr/politique/un-rapport-du-senat-reclame-un-meilleur-encadrement-des-fonds-prives-pierre-edouard-sterin-cest-larbre-qui-cache-la-foret-20260715_QBVHFRAOZVCOXNDZQ4FEAQI7MI/"
+          "outlet": "Courrier International",
+          "take": "La gouverneure de New York justifie sa mesure par des préoccupations d'ordre énergétique et électrique, une inquiétude partagée par d'autres États américains.",
+          "url": "https://www.courrierinternational.com/article/ia-l-etat-de-new-york-decrete-un-moratoire-sur-les-centres-de-donnees_249913"
         }
       ],
       "id": 10,
@@ -245,15 +257,20 @@
     },
     {
       "themes": [
-        "Insolite"
+        "Société"
       ],
-      "title": "Une mystérieuse sphère de pierre découverte en Azerbaïdjan",
-      "full": "Des archéologues ont mis au jour en Azerbaïdjan une étrange sphère de pierre dont l'origine et l'usage demeurent énigmatiques. L'objet, dont le mode de fabrication reste inexpliqué, pourrait apporter des éclairages précieux sur la préhistoire et la période néolithique de la région.",
+      "title": "Six plaintes contre l'ex-patron d'Elite pour viols et traite",
+      "full": "Gérald Marie, ancien directeur Europe de l'agence de mannequins Elite (1986 à 2011), est visé par six plaintes pour viols et traite d'êtres humains. Les plaignantes, âgées de 45 à 60 ans pour la plupart, réclament des poursuites contre le septuagénaire. L'une d'elles était mineure au moment des faits présumés.",
       "angles": [
         {
-          "outlet": "Slate",
-          "take": "La découverte soulève des questions sur les techniques de fabrication et la fonction de cet artefact préhistorique encore mal comprise.",
-          "url": "https://www.slate.fr/monde/archeologues-pierre-spherique-prehistoire-neolithique-azerbaidjan-fouilles"
+          "outlet": "Le Monde",
+          "take": "Souligne l'âge actuel de l'accusé et la nationalité majoritairement américaine des plaignantes qui demandent l'ouverture de poursuites judiciaires.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/15/gerald-marie-ancien-dirigeant-de-l-agence-de-top-models-elite-vise-par-six-plaintes-pour-viols-et-traite-d-etres-humains_6723562_3224.html"
+        },
+        {
+          "outlet": "L'Humanité",
+          "take": "Précise la période de direction de Marie à la tête de l'agence Elite et insiste sur le dépôt de plainte intervenu mercredi.",
+          "url": "https://www.humanite.fr/societe/agressions-sexuelles/gerald-marie-lex-patron-de-lagence-elite-vise-par-six-nouvelles-plaintes-pour-viols-et-traite-detres-humains"
         }
       ],
       "id": 11,
@@ -261,15 +278,20 @@
     },
     {
       "themes": [
-        "Insolite"
+        "Monde"
       ],
-      "title": "Le mystérieux bourdonnement entendu par quelques humains intrigue la science",
-      "full": "Un phénomène acoustique énigmatique, appelé « hum », est perçu par une minorité de personnes à travers le monde. Ce bourdonnement sourd et persistant reste largement inexpliqué, malgré les efforts des chercheurs pour en déterminer l'origine. Les scientifiques explorent plusieurs pistes, dont une possible cause physiologique ou environnementale, sans consensus à ce jour.",
+      "title": "La fortune de Trump s'accroît depuis son retour au pouvoir",
+      "full": "Depuis son arrivée à la Maison-Blanche en 2025, la richesse de Donald Trump et de sa famille a considérablement augmenté, notamment grâce aux cryptomonnaies et à des investissements immobiliers. Bien qu'aucune illégalité n'ait été formellement établie, plusieurs enquêtes de presse soulèvent des questions sur les possibles liens entre ses intérêts privés et les décisions de son administration.",
       "angles": [
         {
-          "outlet": "Slate",
-          "take": "L'étude souligne que seule une petite fraction de la population entend ce bruit, ce qui complique son investigation scientifique.",
-          "url": "https://www.slate.fr/sciences/hum-bourdonnement-bruit-son-audition-acouphene-vibration"
+          "outlet": "Le Figaro International",
+          "take": "Met en avant le caractère décomplexé et visible de ce système où le pouvoir servirait directement les intérêts financiers familiaux.",
+          "url": "https://www.lefigaro.fr/international/cryptomonnaies-immobilier-gisements-miniers-l-ahurissante-corruption-de-la-famille-trump-20260715"
+        },
+        {
+          "outlet": "France 24",
+          "take": "Souligne que si aucune infraction n'est prouvée, les enquêtes journalistiques alimentent les interrogations sur ces connexions entre patrimoine privé et politique gouvernementale.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260716-donald-trump-et-les-soup%C3%A7ons-de-corruption"
         }
       ],
       "id": 12,
@@ -277,16 +299,21 @@
     },
     {
       "themes": [
-        "France",
-        "Société"
+        "Environnement",
+        "France"
       ],
-      "title": "Un sapeur-pompier décédé nommé chevalier de la Légion d'honneur",
-      "full": "Baptiste Gerfaud-Valentin, sapeur-pompier volontaire de 22 ans en Savoie, a été nommé chevalier de la Légion d'honneur à titre posthume. Le jeune homme a trouvé la mort mercredi dernier, heurté par un bloc rocheux lors d'une intervention sur un incendie. Cette distinction honore son engagement et son sacrifice au sein des services d'urgence.",
+      "title": "La France confrontée à une sécheresse exceptionnelle et précoce",
+      "full": "La France traverse une sécheresse d'ampleur inhabituelle, caractérisée par des épisodes de fortes chaleurs cumulés à un déficit de précipitations depuis avril. Cultures en difficulté, rivières à sec et restrictions d'accès à l'eau affectent l'ensemble du territoire : tous les départements sont désormais soumis à des mesures restrictives. La ministre de la Transition écologique a averti mercredi que la situation pourrait encore s'aggraver, justifiant une réunion de crise au niveau gouvernemental.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "La nomination à titre posthume souligne le dévouement du jeune pompier volontaire décédé en intervention.",
-          "url": "https://www.franceinfo.fr/faits-divers/incendie/le-pompier-volontaire-mort-en-savoie-fait-chevalier-de-la-legion-d-honneur-a-titre-posthume_8109725.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "France 24",
+          "take": "Insiste sur le caractère exceptionnel et très préoccupant de la situation, aggravée par la conjugaison de chaleurs intenses et d'un manque de pluies prolongé.",
+          "url": "https://www.france24.com/fr/france/20260715-la-france-dans-une-situation-de-s%C3%A9cheresse-exceptionnelle-pr%C3%A9coce-et-intense"
+        },
+        {
+          "outlet": "Le Figaro Sciences",
+          "take": "Souligne que les restrictions d'eau concernent d'ores et déjà tous les départements et que le gouvernement suit de près cette crise.",
+          "url": "https://www.lefigaro.fr/sciences/reunion-de-crise-a-cause-de-la-secheresse-exceptionnelle-dans-l-hexagone-20260715"
         }
       ],
       "id": 13,
@@ -294,15 +321,20 @@
     },
     {
       "themes": [
-        "Société"
+        "Culture"
       ],
-      "title": "Le Planning familial confronté à des réductions de subventions",
-      "full": "L'association, qui œuvre depuis 1956 dans le domaine de la santé sexuelle, subit des coupes budgétaires sur l'ensemble du territoire. Slate enquête sur les origines de ces réductions, oscillant entre rigueur budgétaire affichée et pressions politiques de mouvances conservatrices, dans un contexte de tensions récurrentes autour de ses positions sur les droits des femmes.",
+      "title": "Rachida Brakni refuse la Légion d'honneur",
+      "full": "L'actrice Rachida Brakni a décliné la Légion d'honneur qui lui a été décernée mardi 14 juillet. Elle justifie son refus en estimant que son honneur se situe ailleurs. Cette promotion du 14-juillet distinguait également Michelle Perrot, Natalie Portman et Wajdi Mouawad pour leurs contributions au domaine culturel.",
       "angles": [
         {
-          "outlet": "Slate",
-          "take": "L'article met en lumière une offensive contre le Planning familial masquée derrière la rigueur budgétaire, impliquant des acteurs politiques de droite conservatrice et soulevant la question d'une volonté d'asphyxier financièrement l'association.",
-          "url": "https://www.slate.fr/societe/planning-familial-trop-politique-subventions-baisses-coupes-guerre-culturelle-rigueur-budgetaire-extreme-droite-droits-femmes-sexualite"
+          "outlet": "Libération",
+          "take": "Le refus de Brakni pose la question de la légitimité du gouvernement à attribuer l'honneur, notamment face aux critiques concernant certains récipiendaires.",
+          "url": "https://www.liberation.fr/culture/la-decision-de-rachida-brakni-de-refuser-la-legion-dhonneur-est-un-acte-honorable-20260715_FUJQXXF2N5CZZEIMMEBEVCV45M/"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Brakni figure parmi les personnalités du secteur culturel décorées lors de la promotion du 14-juillet.",
+          "url": "https://www.franceinfo.fr/culture/legion-d-honneur-dans-le-domaine-culturel-michelle-perrot-natalie-portman-et-wajdi-mouawad-distingues-dans-la-promotion-du-14-juillet_8108501.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 14,
@@ -310,16 +342,20 @@
     },
     {
       "themes": [
-        "Insolite",
-        "Environnement"
+        "Société"
       ],
-      "title": "Le navire de Shackleton photographié après 60 ans sous les glaces",
-      "full": "Le Quest, dernier navire de l'explorateur polaire Ernest Shackleton, a été photographié en haute résolution pour la première fois depuis son naufrage en 1962 au large du Canada. L'épave, découverte dans les eaux glaciales, s'est transformée en refuge pour la vie marine, devenant un écosystème à part entière.",
+      "title": "La préfecture de police conteste l'ordre de réformer son infirmerie psychiatrique",
+      "full": "La préfecture de police de Paris fait appel auprès du Conseil d'État après une ordonnance du tribunal administratif lui enjoignant de prendre des mesures dans son infirmerie psychiatrique (I3P). Cette structure reçoit les personnes amenées par la police, notamment en garde à vue ou en cas de trouble à l'ordre public, pour évaluer une possible hospitalisation. La préfecture invoque un risque pour la sécurité des agents et des patients si elle mettait en œuvre les réformes prescrites.",
       "angles": [
         {
-          "outlet": "Slate",
-          "take": "L'épave du Quest, coulée il y a six décennies, révèle une richesse biologique inattendue et offre aux chercheurs une opportunité d'étudier l'adaptation de la faune marine aux environnements extrêmes.",
-          "url": "https://www.slate.fr/culture/epave-quest-navire-exploration-sir-ernest-shackleton-exploration-antarctique"
+          "outlet": "Le Monde",
+          "take": "Présente le rôle et le fonctionnement de l'I3P dans l'évaluation psychiatrique des personnes interpellées.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/15/sommee-de-prendre-des-mesures-dans-son-infirmerie-psychiatrique-la-prefecture-de-police-de-paris-fait-appel_6723539_3224.html"
+        },
+        {
+          "outlet": "Mediapart",
+          "take": "Souligne que la préfecture conteste les mesures en les jugeant incompatibles avec ses enjeux de sécurité.",
+          "url": "https://www.mediapart.fr/journal/france/150726/sommee-de-prendre-des-mesures-dans-son-infirmerie-psychiatrique-la-prefecture-de-police-fait-appel"
         }
       ],
       "id": 15,
@@ -327,16 +363,20 @@
     },
     {
       "themes": [
-        "Insolite",
-        "Santé"
+        "France"
       ],
-      "title": "Une « Coupe du monde des laits » pour comparer leurs vertus santé",
-      "full": "Un comparatif original a été organisé pour évaluer les bénéfices pour la santé de différents types de lait : entier, écrémé et alternatives végétales. Longtemps diabolisé, le lait entier fait l'objet d'une réévaluation scientifique qui nuance les craintes antérieures sur ses effets cardiovasculaires. Les recommandations nutritionnelles évoluent à mesure que progressent les connaissances sur le sujet.",
+      "title": "Le Sénat dénonce l'opacité du financement privé des politiques publiques",
+      "full": "Une commission d'enquête du Sénat a présenté mercredi un rapport critiquant le manque de transparence de certaines structures privées impliquées dans le financement de politiques publiques. Les activités du milliardaire Pierre-Edouard Stérin y sont spécifiquement pointées du doigt. Les sénatrices à l'origine de cette commission appellent à mieux appliquer le cadre juridique existant, notamment en renforçant les sanctions fiscales et pénales contre les organismes d'intérêt général qui dépasseraient leurs attributions.",
       "angles": [
         {
-          "outlet": "Slate",
-          "take": "Le lait entier bénéficie d'un regard plus favorable de la science, contrairement au discours antérieur qui le présentait comme nocif pour le cœur.",
-          "url": "https://www.slate.fr/boire-manger/lait-entier-ecreme-vegetal-meilleur-sante-proteine-cardiovasculaire-bien-etre-animal"
+          "outlet": "Le Monde",
+          "take": "La commission met en lumière l'opacité de structures privées, avec la galaxie Stérin comme exemple emblématique.",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/15/financement-prive-des-politiques-publiques-la-galaxie-sterin-dans-le-viseur-d-une-commission-du-senat_6723530_823448.html"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Le rapport recommande d'appliquer davantage le droit en vigueur et de renforcer les sanctions contre les dérives, considérant Stérin comme symptomatique d'un problème plus large.",
+          "url": "https://www.liberation.fr/politique/un-rapport-du-senat-reclame-un-meilleur-encadrement-des-fonds-prives-pierre-edouard-sterin-cest-larbre-qui-cache-la-foret-20260715_QBVHFRAOZVCOXNDZQ4FEAQI7MI/"
         }
       ],
       "id": 16,
@@ -344,15 +384,15 @@
     },
     {
       "themes": [
-        "Société"
+        "Insolite"
       ],
-      "title": "Gendarmes renforcent les contrôles contre les infractions en mer",
-      "full": "Face à la multiplication des comportements à risque en littoral durant l'été, les forces de l'ordre intensifient les opérations de contrôle en mer. Les gendarmes ciblent notamment l'utilisation de jet-skis dans des zones interdites, ainsi que la consommation d'alcool et de drogues parmi les vacanciers. Ces mesures s'inscrivent dans une lutte plus large contre la délinquance estivale dans les zones côtières.",
+      "title": "Une mystérieuse sphère de pierre découverte en Azerbaïdjan",
+      "full": "Des archéologues ont mis au jour en Azerbaïdjan une étrange sphère de pierre dont l'origine et l'utilité restent énigmatiques. L'objet, dont le mode de fabrication demeure inconnu, pourrait offrir des indices précieux sur la compréhension de la préhistoire.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Les gendarmes augmentent les contrôles pour faire face aux infractions (pilotage dangereux, alcool, drogues) qui se multiplient parmi les usagers de la mer en période estivale.",
-          "url": "https://www.franceinfo.fr/faits-divers/ces-gendarmes-luttent-contre-la-delinquance-en-mer_8109011.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Slate",
+          "take": "La découverte soulève des questions sur les capacités techniques et les pratiques des sociétés préhistoriques de la région.",
+          "url": "https://www.slate.fr/monde/archeologues-pierre-spherique-prehistoire-neolithique-azerbaidjan-fouilles"
         }
       ],
       "id": 17,
@@ -360,15 +400,16 @@
     },
     {
       "themes": [
-        "Culture"
+        "Insolite",
+        "Santé"
       ],
-      "title": "Deux films à découvrir au cinéma cette semaine",
-      "full": "Slate recommande deux sorties cinéma aux univers distincts. D'un côté, L'Aventure rêvée de Valeska Grisebach propose une épopée européenne et féministe. De l'autre, Comète d'Élie Wajeman offre une comédie parisienne et chorale. Les deux productions promettent de captiver les spectateurs sur grand écran.",
+      "title": "Des chercheurs enquêtent sur le mystérieux bourdonnement entendu par certains",
+      "full": "Un phénomène sonore appelé « hum » intrigue la communauté scientifique. Ce bourdonnement persistant, perçu dans différentes régions du monde, n'est audible que pour une minorité de la population. Les chercheurs peinent encore à identifier son origine précise, qu'elle soit physiologique, environnementale ou autre.",
       "angles": [
         {
           "outlet": "Slate",
-          "take": "Les deux films incarnent des registres opposés tout en partageant une qualité cinématographique remarquable.",
-          "url": "https://www.slate.fr/culture/sorties-cinema-aventure-revee-valeska-grisebach-yana-radeva-comete-elie-wajeman-films"
+          "take": "Une étude se concentre sur ce bruit mystérieux dont seule une faible part de la population entend les manifestations.",
+          "url": "https://www.slate.fr/sciences/hum-bourdonnement-bruit-son-audition-acouphene-vibration"
         }
       ],
       "id": 18,
@@ -376,19 +417,149 @@
     },
     {
       "themes": [
-        "Insolite"
+        "France"
       ],
-      "title": "Un train encerclé par les flammes en Ontario",
-      "full": "Au Canada, un train s'est retrouvé entouré par un incendie de forêt dans l'est du pays, en Ontario. L'équipage a dû abandonner le convoi et s'enfuir face aux flammes qui gagnaient sur le convoi. Les images de la scène, spectaculaires, montrent la proximité extrême du sinistre.",
+      "title": "Un pompier volontaire décédé nommé à la Légion d'honneur",
+      "full": "Baptiste Gerfaud-Valentin, sapeur-pompier volontaire de 22 ans en Savoie, a été nommé chevalier de la Légion d'honneur à titre posthume. Le jeune homme a trouvé la mort mercredi dernier en intervenant sur un incendie, heurté par un bloc rocheux.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "France Info insiste sur le caractère irréel et impressionnant de la scène, avec un incendie de forêt enveloppant entièrement le convoi.",
-          "url": "https://www.franceinfo.fr/faits-divers/incendie/au-canada-les-images-impressionnantes-d-un-train-cerne-par-les-flammes-en-plein-incendie-de-foret_8108915.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "La reconnaissance officielle souligne le sacrifice d'un jeune sapeur-pompier décédé en service.",
+          "url": "https://www.franceinfo.fr/faits-divers/incendie/le-pompier-volontaire-mort-en-savoie-fait-chevalier-de-la-legion-d-honneur-a-titre-posthume_8109725.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 19,
       "priority": 20
+    },
+    {
+      "themes": [
+        "Société"
+      ],
+      "title": "Le Planning familial fait face à des réductions budgétaires",
+      "full": "Depuis plusieurs mois, les antennes locales du Planning familial signalent des coupes dans leurs financements publics. L'association, qui intervient depuis 1956 dans l'éducation sexuelle et la santé reproductive en France, dénonce à la fois des pressions politiques de la droite conservatrice et des exigences administratives de neutralité. Ces réductions questionnent les intentions réelles derrière cette rigueur budgétaire.",
+      "angles": [
+        {
+          "outlet": "Slate",
+          "take": "L'enquête pointe une offensive politique voilée contre l'association, mêlant rigueur budgétaire affichée et bataille idéologique autour des droits des femmes et de la sexualité.",
+          "url": "https://www.slate.fr/societe/planning-familial-trop-politique-subventions-baisses-coupes-guerre-culturelle-rigueur-budgetaire-extreme-droite-droits-femmes-sexualite"
+        }
+      ],
+      "id": 20,
+      "priority": 21
+    },
+    {
+      "themes": [
+        "Insolite"
+      ],
+      "title": "L'épave du dernier navire de Shackleton enfin photographiée",
+      "full": "Le Quest, dernier bateau de l'explorateur polaire Ernest Shackleton, a été photographié en haute résolution au large du Canada, 60 ans après son naufrage en 1962. Ces premières images révèlent que l'épave, immergée sous les glaces, s'est transformée en refuge pour la vie marine.",
+      "angles": [
+        {
+          "outlet": "Slate",
+          "take": "L'épave submergée du navire historique est devenue un écosystème marin remarquable.",
+          "url": "https://www.slate.fr/culture/epave-quest-navire-exploration-sir-ernest-shackleton-exploration-antarctique"
+        }
+      ],
+      "id": 21,
+      "priority": 22
+    },
+    {
+      "themes": [
+        "Santé",
+        "Insolite"
+      ],
+      "title": "Une « Coupe du monde des laits » pour trancher le débat nutritionnel",
+      "full": "Slate a organisé une comparaison systématique des différents laits (entier, écrémé, végétaux) pour évaluer leurs bénéfices sanitaires respectifs. Le lait entier, longtemps décrié pour son impact cardiaque, bénéficie désormais d'une appréciation plus nuancée de la communauté scientifique. L'enquête montre que les recommandations nutritionnelles évoluent à mesure que la recherche affine sa compréhension de ces produits et de leurs alternatives.",
+      "angles": [
+        {
+          "outlet": "Slate",
+          "take": "La révision scientifique récente des risques attribués au lait entier remet en question des décennies de conseils diététiques.",
+          "url": "https://www.slate.fr/boire-manger/lait-entier-ecreme-vegetal-meilleur-sante-proteine-cardiovasculaire-bien-etre-animal"
+        }
+      ],
+      "id": 22,
+      "priority": 23
+    },
+    {
+      "themes": [
+        "Société"
+      ],
+      "title": "Les gendarmes intensifient les contrôles contre la délinquance estivale en mer",
+      "full": "Chaque été, les zones côtières français connaissent une hausse des comportements à risque : jet-skis circulant dans des secteurs interdits, consommation d'alcool et de drogues. Face à cette augmentation des infractions maritimes, les forces de l'ordre renforcent leur présence et leurs opérations de contrôle durant la période estivale.",
+      "angles": [
+        {
+          "outlet": "France Info",
+          "take": "L'article souligne le renforcement des contrôles gendarmes pour lutter contre les infractions maritimes (jet-skis, alcool, drogues) qui se multiplient en période estivale.",
+          "url": "https://www.franceinfo.fr/faits-divers/ces-gendarmes-luttent-contre-la-delinquance-en-mer_8109011.html#xtor=RSS-3-%5Bgeneral%5D"
+        }
+      ],
+      "id": 23,
+      "priority": 24
+    },
+    {
+      "themes": [
+        "Culture"
+      ],
+      "title": "Deux films français conquièrent les salles de cinéma",
+      "full": "« L'Aventure rêvée » de Valeska Grisebach et « Comète » d'Élie Wajeman arrivent au cinéma. Le premier, épopée européenne à tonalité féministe, et le second, comédie parisienne d'ensemble, séduisent la critique pour leurs approches cinématographiques contrastées.",
+      "angles": [
+        {
+          "outlet": "Slate",
+          "take": "Slate souligne la complémentarité des deux films, remarquant que malgré des registres très différents, ils enchantent chacun à leur manière le grand écran.",
+          "url": "https://www.slate.fr/culture/sorties-cinema-aventure-revee-valeska-grisebach-yana-radeva-comete-elie-wajeman-films"
+        }
+      ],
+      "id": 24,
+      "priority": 25
+    },
+    {
+      "themes": [
+        "Environnement",
+        "Insolite"
+      ],
+      "title": "Un train de fret piégé par les incendies au Canada",
+      "full": "Un convoi de fret s'est retrouvé bloqué au cœur des flammes lors des incendies qui ravagent actuellement le Canada. Le pays connaît depuis plusieurs jours une vague de feux incontrôlés ayant déjà consumé plus de 53 000 hectares de forêts. Le train figure parmi les infrastructures affectées par ces sinistres de grande ampleur.",
+      "angles": [
+        {
+          "outlet": "France Info",
+          "take": "Met l'accent sur l'image frappante d'une infrastructure ferroviaire prise au piège au milieu des brasiers, dans un contexte de crise incendiaire généralisée au Canada.",
+          "url": "https://www.franceinfo.fr/faits-divers/incendie/incendies-au-canada-un-train-pris-au-piege-dans-un-brasier_8109230.html#xtor=RSS-3-%5Bgeneral%5D"
+        }
+      ],
+      "id": 25,
+      "priority": 26
+    },
+    {
+      "themes": [
+        "Insolite"
+      ],
+      "title": "Au Canada, un train encerclé par un incendie de forêt",
+      "full": "En Ontario, au Canada, un train s'est retrouvé cerné par les flammes d'un incendie de forêt. L'équipage a dû abandonner le convoi et prendre la fuite face aux flammes impressionnantes qui l'entouraient. Les images de cette scène spectaculaire ont été largement diffusées.",
+      "angles": [
+        {
+          "outlet": "France Info",
+          "take": "Insiste sur le caractère presque irréel et dramatique de la scène, avec des flammes immenses enveloppant le train et forçant l'évacuation de l'équipage.",
+          "url": "https://www.franceinfo.fr/faits-divers/incendie/au-canada-les-images-impressionnantes-d-un-train-cerne-par-les-flammes-en-plein-incendie-de-foret_8108915.html#xtor=RSS-3-%5Bgeneral%5D"
+        }
+      ],
+      "id": 26,
+      "priority": 27
+    },
+    {
+      "themes": [
+        "Insolite"
+      ],
+      "title": "Au Japon, un ours noir s'introduit dans les cuisines",
+      "full": "Un couple japonais a découvert un ours noir d'Asie dans sa cuisine dans le nord-est du pays. L'animal est soupçonné d'être responsable de plusieurs intrusions dans des habitations de la région, où il venait se nourrir. Les autorités locales ont lancé des recherches pour localiser et capturer le plantigrade.",
+      "angles": [
+        {
+          "outlet": "20 Minutes",
+          "take": "L'ours noir aurait commis une série de « cambriolages » alimentaires avant d'être découvert directement dans une maison.",
+          "url": "https://www.20minutes.fr/arts-stars/insolite/4234671-20260715-japon-couple-trouve-ours-cuisine-animal-soupconne-plusieurs-cambriolages?at_medium=display&at_campaign=149"
+        }
+      ],
+      "id": 27,
+      "priority": 28
     }
   ]
 }
