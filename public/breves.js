@@ -1,23 +1,27 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-07-15T13:50:04.885959+00:00
+// 2026-07-16T04:03:02.148076+00:00
 const ARTICLES = [
   {
     "themes": [
-      "Monde",
-      "Économie"
+      "France"
     ],
-    "title": "Tensions au Moyen-Orient : le pétrole flambe près de 90 dollars",
-    "full": "Des explosions ont été signalées mardi 14 juillet autour du détroit d'Ormuz, au Moyen-Orient, dans un contexte d'escalade des tensions. Donald Trump annonce la restauration d'un blocus naval dans la zone. Conséquence directe : le prix du baril de pétrole se rapproche de la barre des 90 dollars, atteignant un niveau non vu depuis plusieurs mois. Cette hausse devrait avoir des répercussions à la pompe dans les prochains jours.",
+    "title": "L'aide à mourir légalisée après deux ans de débats",
+    "full": "La proposition de loi autorisant l'aide à mourir a été définitivement adoptée par l'Assemblée nationale mercredi 15 juillet. La France rejoint ainsi la Suisse, la Belgique et les Pays-Bas dans la légalisation de cette pratique. Le texte, marqué par un parcours parlementaire mouvementé, sera soumis au Conseil constitutionnel sur trois points controversés. Des incertitudes subsistent quant aux décrets d'application et aux refus de médecins de l'appliquer.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "L'agence souligne l'escalade militaire aux abords du détroit d'Ormuz et ses conséquences immédiates sur les prix de l'énergie.",
-        "url": "https://www.franceinfo.fr/economie/automobile/essence/avec-la-reprise-du-conflit-au-moyen-orient-le-petrole-repart-a-la-hausse-quelles-consequences-a-la-pompe_8107973.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Une femme regrette que son mari soit décédé avant de pouvoir bénéficier des dispositions de la loi, soulignant l'attente de nombreuses familles.",
+        "url": "https://www.franceinfo.fr/societe/euthanasie/fin-de-vie-ils-sont-a-cote-de-la-plaque-deplore-karine-dont-le-mari-n-aura-pas-pu-beneficier-de-la-loi-qui-pourrait-etre-votee-ce-mercredi_8108930.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Libération",
-        "take": "Le gouvernement français met en avant la crise moyen-orientale pour justifier le relèvement du Livret A à 1,7%, invoquant l'inflation et les incertitudes géopolitiques.",
-        "url": "https://www.liberation.fr/economie/la-banque-de-france-propose-de-relever-le-taux-du-livret-a-a-17-et-de-laisser-le-livret-depargne-populaire-a-25-20260715_PFKPSA25LVHDFIRWZF7QA75BJI/"
+        "outlet": "Le Figaro Politique",
+        "take": "Emmanuel Macron a choisi de soumettre trois aspects particulièrement controversés du texte aux Sages, malgré les doutes croissants du Premier ministre.",
+        "url": "https://www.lefigaro.fr/politique/fin-de-vie-sebastien-lecornu-doute-emmanuel-macron-veut-passer-en-force-20260714"
+      },
+      {
+        "outlet": "Mediapart",
+        "take": "L'adoption définitive pose des questions pratiques sur l'accès effectif au droit et l'implication des professionnels de santé.",
+        "url": "https://www.mediapart.fr/journal/politique/150726/l-aide-mourir-devient-legale-quels-malades-auront-acces-ce-nouveau-droit"
       }
     ],
     "id": 0,
@@ -27,33 +31,23 @@ const ARTICLES = [
     "themes": [
       "France"
     ],
-    "title": "Aide à mourir : l'Assemblée vote mercredi, saisine constitutionnelle annoncée",
-    "full": "L'Assemblée nationale doit adopter définitivement mercredi 15 juillet la proposition de loi instaurant un droit à l'aide à mourir sous strictes conditions, après plus de deux ans de débat parlementaire. Le Premier ministre Sébastien Lecornu a annoncé qu'il saisirait le Conseil constitutionnel après le vote pour vérifier la solidité du texte sur ses points les plus controversés. Le président du Sénat, Gérard Larcher, a également promis de saisir les Sages, tandis que des opposants au projet dénoncent une régression contraire aux principes de fraternité humaine.",
+    "title": "Renaissance assigne le RN pour utilisation de son nom en campagne",
+    "full": "Le parti Renaissance de Gabriel Attal a annoncé des poursuites en justice contre le Rassemblement national pour l'utilisation du slogan « Pour la France, la Renaissance » lors du lancement de la campagne de Marine Le Pen pour la présidentielle 2027. Le parti présidentiel accuse le RN de « parasitisme » et de « contrefaçon de marque », estimant que cette formule constitue une appropriation indue de son identité destinée à créer la confusion. L'audience en référé doit se tenir le 27 juillet au tribunal de Paris.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Le gouvernement confie le dernier mot à l'Assemblée malgré les trois rejets du Sénat, avec une saisine constitutionnelle déjà prévue.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/14/aide-a-mourir-sebastien-lecornu-saisira-le-conseil-constitutionnel-apres-le-vote-de-mercredi_6723330_823448.html"
-      },
-      {
-        "outlet": "Le Figaro Politique",
-        "take": "Emmanuel Macron maintient le texte en l'état tandis que le Premier ministre exprime des doutes sur certains aspects controversés.",
-        "url": "https://www.lefigaro.fr/politique/fin-de-vie-sebastien-lecornu-doute-emmanuel-macron-veut-passer-en-force-20260714"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "La saisine du Conseil constitutionnel est présentée comme un geste conciliateur face aux divisions persistantes.",
-        "url": "https://www.humanite.fr/societe/convention-citoyenne-fin-de-vie/aide-a-mourir-apres-plus-de-deux-ans-de-debat-que-contient-la-loi-soumise-au-vote-des-deputes-ce-mardi"
+        "outlet": "Libération",
+        "take": "Les poursuites visent l'usage du mot « Renaissance » dans le slogan de campagne du RN, avec une audience prévue en référé à Paris.",
+        "url": "https://www.liberation.fr/politique/attal-assigne-le-pen-pour-lutilisation-du-nom-renaissance-sur-son-affiche-de-campagne-20260715_6QTOHOBC5RF6TDBRT5WUQTHB6M/"
       },
       {
         "outlet": "France Info",
-        "take": "L'opposition de droite qualifie la loi de régression tout en soutenant le contrôle constitutionnel.",
-        "url": "https://www.franceinfo.fr/societe/euthanasie/loi-sur-la-fin-de-vie-francois-xavier-bellamy-denonce-une-regression-incroyable_8108699.html#xtor=RSS-3-[lestitres]"
+        "take": "Renaissance dénonce une tentative d'exploitation de sa notoriété et une création délibérée de confusion auprès des électeurs.",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/le-parti-renaissance-engage-des-poursuites-contre-le-rn-apres-le-lancement-de-la-campagne-de-marine-le-pen-pour-la-presidentielle-2027_8108714.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Libération",
-        "take": "Le texte ouvre un droit au suicide assisté pour les malades incurables en grande souffrance.",
-        "url": "https://www.liberation.fr/societe/sante/loi-sur-laide-a-mourir-le-premier-jour-du-reste-de-la-fin-de-vie-20260715_HZ4BR35CSNBZTHIAAKIBSJIISQ/"
+        "outlet": "Le Figaro Politique",
+        "take": "Attal qualifie explicitement cette utilisation de contrefaçon de marque et de parasitisme commercial.",
+        "url": "https://www.lefigaro.fr/politique/une-appropriation-indue-attal-annonce-des-poursuites-contre-le-pen-autour-du-slogan-renaissance-20260715"
       }
     ],
     "id": 1,
@@ -63,23 +57,28 @@ const ARTICLES = [
     "themes": [
       "France"
     ],
-    "title": "Renaissance attaque le RN en justice sur son slogan de campagne",
-    "full": "Le parti présidentiel Renaissance a assigné en justice le Rassemblement national pour l'utilisation du slogan « Pour la France, la renaissance » dans la campagne de Marine Le Pen pour la présidentielle 2027. Gabriel Attal dénonce une « contrefaçon de marque » et un « parasitisme », estimant que le RN cherche à créer une confusion en s'appropriant indûment l'identité du parti au pouvoir. L'audience se tiendra en référé le 27 juillet au tribunal de Paris.",
+    "title": "Buffet auditionné pour le poste de Défenseur des droits",
+    "full": "Le sénateur Les Républicains François-Noël Buffet, proposé par Emmanuel Macron au poste de Défenseur des droits, a été auditionné mercredi 15 juillet par la commission des Lois de l'Assemblée nationale. Son passé conservateur, notamment son opposition au mariage pour tous et à la constitutionnalisation de l'IVG, a suscité des critiques virulentes de la gauche et des syndicats. Il doit être entendu au Sénat le 21 juillet pour une audition qui scelle théoriquement sa nomination.",
     "angles": [
       {
+        "outlet": "L'Humanité",
+        "take": "Souligne les positions anciennes de Buffet contre les droits LGBT+ et la PMA, ainsi que sa réserve sur l'IVG constitutionnalisée.",
+        "url": "https://www.humanite.fr/politique/defenseur-des-droits/anti-lgbt-anti-immigration-qui-est-francois-noel-buffet-propose-comme-defenseur-des-droits"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Met l'accent sur le tir de barrage de syndicats et associations contre un profil aux positions controversées.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/15/candidat-au-poste-de-defenseur-des-droits-francois-noel-buffet-bouscule-par-la-gauche-lors-de-son-audition-devant-les-deputes_6723600_3224.html"
+      },
+      {
         "outlet": "Libération",
-        "take": "Renaissance annonce avoir saisi la justice pour parasitisme et contrefaçon de marque suite à l'utilisation du terme Renaissance par le RN.",
-        "url": "https://www.liberation.fr/politique/attal-assigne-le-pen-pour-lutilisation-du-nom-renaissance-sur-son-affiche-de-campagne-20260715_6QTOHOBC5RF6TDBRT5WUQTHB6M/"
+        "take": "Relève que malgré la mobilisation critique de l'opposition, sa nomination apparaît déjà acquise.",
+        "url": "https://www.liberation.fr/politique/francois-noel-buffet-propose-au-poste-de-defenseur-des-droits-la-gauche-scandalisee-mais-demunie-20260715_7LYCQHTSBRAWFGGR4B2HX2B5MA/"
       },
       {
-        "outlet": "France Info",
-        "take": "Le parti présidentiel considère le slogan du RN comme une appropriation indue destinée à créer de la confusion et à exploiter sa notoriété.",
-        "url": "https://www.franceinfo.fr/elections/presidentielle/le-parti-renaissance-engage-des-poursuites-contre-le-rn-apres-le-lancement-de-la-campagne-de-marine-le-pen-pour-la-presidentielle-2027_8108714.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "Le Figaro",
-        "take": "Gabriel Attal qualifie le recours au mot Renaissance par la candidate nationaliste de contrefaçon de marque et de parasitisme.",
-        "url": "https://www.courrierinternational.com/article/a-la-une-du-magazine-marine-le-pen-candidate-a-la-presidentielle-un-defi-moral-pour-la-presse-etrangere_248956"
+        "outlet": "Mediapart",
+        "take": "Observe que le candidat a peiné à convaincre lors de l'audition face aux questions sur ses prises de position réactionnaires.",
+        "url": "https://www.mediapart.fr/journal/france/150726/francois-noel-buffet-rame-pour-justifier-sa-candidature-au-poste-de-defenseur-des-droits"
       }
     ],
     "id": 2,
@@ -87,35 +86,26 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Environnement",
+      "France"
     ],
-    "title": "Christopher Nolan adapte L'Odyssée d'Homère au cinéma",
-    "full": "Le réalisateur Christopher Nolan sort son treizième film, une adaptation cinématographique de L'Odyssée d'Homère, tournée en pellicule avec un casting hollywoodien de prestige incluant Matt Damon. Le film, présenté comme un spectacle visuel ambitieux, transpose l'épopée antique sur grand écran avec des moyens de production considérables. Les critiques restent divisées : certaines sources saluent le caractère immersif et brillant de l'entreprise, tandis que d'autres jugent que le réalisateur ne parvient pas à égaler la portée de l'œuvre originale.",
+    "title": "La France face à une sécheresse exceptionnelle et précoce",
+    "full": "La France traverse une situation de sécheresse « exceptionnelle » et « très préoccupante », a alerté mercredi la ministre de la Transition écologique Monique Barbut. Depuis avril, un déficit pluviométrique couplé à des épisodes de fortes chaleurs affecte la quasi-totalité du territoire : 99 départements sont soumis à des restrictions d'eau et plusieurs cours d'eau affichent des niveaux historiquement bas. Les cultures souffrent et la situation pourrait s'aggraver, selon les autorités.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Il s'agit du treizième film de Nolan, réalisé avec son approche habituelle basée sur un casting sélectionné.",
-        "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/l-odyssee-christopher-nolan-a-l-assaut-de-son-epopee-la-plus-ambitieuse-a-ce-jour_8102894.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "L'adaptation mise en pellicule démontre une maîtrise artistique dans la transposition de l'œuvre homérique.",
-        "url": "https://www.humanite.fr/culture-et-savoir/cinema-americain/pourquoi-il-faut-aller-voir-la-brillante-adaptation-de-lodyssee-par-christopher-nolan"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "Le film possède les codes du blockbuster estival avec des qualités de spectacle immersif.",
-        "url": "https://www.20minutes.fr/arts-stars/cinema/4233775-20260715-pourquoi-odyssee-coche-toutes-cases-blockbuster?at_medium=display&at_campaign=149"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Malgré des moyens considérables et une distribution prestigieuse, l'adaptation ne convainc pas face à l'original d'Homère.",
-        "url": "https://www.lemonde.fr/culture/article/2026/07/15/l-odyssee-christopher-nolan-peine-a-se-mesurer-a-homere_6723507_3246.html"
+        "outlet": "France 24",
+        "take": "Souligne la combinaison de facteurs climatiques (déficit de pluies depuis avril et fortes chaleurs répétées) ayant créé cette situation précoce et intense.",
+        "url": "https://www.france24.com/fr/france/20260715-la-france-dans-une-situation-de-s%C3%A9cheresse-exceptionnelle-pr%C3%A9coce-et-intense"
       },
       {
         "outlet": "Libération",
-        "take": "Nolan enrichit le texte antique d'échos géopolitiques actuels, mais hésite à traduire visuellement l'univers homérique.",
-        "url": "https://www.liberation.fr/culture/cinema/lodyssee-de-christopher-nolan-heros-qui-comme-ulysse-20260715_57A5YJ3DXZA2PNKZKLW4MPHYUA/"
+        "take": "Met l'accent sur l'ampleur territoriale du phénomène avec 99 départements restreints et les niveaux d'eau des cours d'eau à des records historiquement bas.",
+        "url": "https://www.liberation.fr/environnement/climat/la-france-dans-une-situation-de-secheresse-exceptionnelle-et-tres-preoccupante-20260715_HYDZKAY3NVAI7K73P6YJ3QWCCA/"
+      },
+      {
+        "outlet": "Le Figaro Sciences",
+        "take": "Rapporte que l'ensemble des départements est déjà concerné par des mesures restrictives et que le gouvernement suit la situation de près.",
+        "url": "https://www.lefigaro.fr/sciences/reunion-de-crise-a-cause-de-la-secheresse-exceptionnelle-dans-l-hexagone-20260715"
       }
     ],
     "id": 3,
@@ -123,25 +113,21 @@ const ARTICLES = [
   },
   {
     "themes": [
+      "France",
       "Société"
     ],
-    "title": "Affaire Grégory : les faits reprochés à Jacqueline Jacob déclarés prescrits",
-    "full": "La chambre de l'instruction de la cour d'appel de Dijon a jugé prescrits, mercredi 15 juillet, les faits d'association de malfaiteurs reprochés à Jacqueline Jacob, grand-tante de Grégory Villemin. Cette dernière était soupçonnée d'avoir rédigé la lettre anonyme revendiquant l'assassinat du petit garçon, retrouvé noyé et ligoté dans une rivière des Vosges en octobre 1984, à l'âge de 4 ans. L'avocat de Jacqueline Jacob a dénoncé cette procédure comme du « charlatanisme judiciaire ».",
+    "title": "Bordeaux : plaintes pour viols contre un directeur d'école privée",
+    "full": "Le directeur de l'école maternelle et primaire Sainte-Marie Bastide, établissement privé catholique de Bordeaux, fait l'objet de deux plaintes pour viols sur mineurs de moins de quinze ans. Il est également soupçonné d'agressions sexuelles et de menaces de mort envers deux petits garçons. Une information judiciaire a été ouverte par un juge d'instruction.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "L'avocat de Jacqueline Jacob critique vivement la poursuite comme une opération judiciaire sans fondement.",
-        "url": "https://www.franceinfo.fr/faits-divers/affaire-du-petit-gregory/il-faut-arreter-avec-ce-charlatanisme-judiciaire-lance-l-un-des-avocats-de-jacqueline-jacob-soupconnee-d-etre-l-un-des-corbeaux-de-l-affaire-gregory_8108600.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "La mise en examen remonte à octobre dernier, mais les faits tombent désormais sous le coup de la prescription.",
-        "url": "https://www.20minutes.fr/justice/4234576-20260715-affaire-gregory-faits-reproches-grand-tante-jacqueline-jacob-declares-prescrits?at_medium=display&at_campaign=149"
-      },
-      {
         "outlet": "Libération",
-        "take": "L'infraction précise retenue était l'association de malfaiteurs en lien avec la lettre revendiquant le crime.",
-        "url": "https://www.liberation.fr/societe/police-justice/affaire-gregory-les-faits-reproches-a-la-grand-tante-prescrits-20260715_ZBTKJNHB2JERRCO4VIKOENRMHU/"
+        "take": "Insiste sur le caractère privé et catholique de l'établissement, ainsi que sur la gravité des accusations incluant des menaces de mort.",
+        "url": "https://www.liberation.fr/societe/police-justice/a-bordeaux-deux-plaintes-pour-viols-contre-un-directeur-decole-une-information-judiciaire-ouverte-20260715_ESFUJWOOGBCPTMBUNNVROTRIPM/"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Souligne la réputation de l'école et sa localisation précise sur la rive droite de Bordeaux, en Gironde.",
+        "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/viols-sur-mineurs-menaces-de-mort-le-directeur-d-une-ecole-privee-reputee-de-bordeaux-vise-par-deux-plaintes-3387127.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 4,
@@ -149,26 +135,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture",
-      "France"
+      "Économie"
     ],
-    "title": "Rachida Brakni refuse la Légion d'honneur",
-    "full": "L'actrice, réalisatrice et chanteuse Rachida Brakni a annoncé mercredi refuser la Légion d'honneur qui lui a été attribuée dans la promotion du 14-juillet. Sur Instagram, elle a expliqué que « la question de l'honneur » se situait ailleurs que dans une médaille, sans préciser davantage ses motifs.",
+    "title": "Le déficit public français pourrait atteindre 7 % du PIB en 2030",
+    "full": "Sans mesures de redressement, le déficit public français se dégraderait fortement pour avoisiner 7 % du PIB en 2030, selon un rapport d'économistes remis au gouvernement mercredi 15 juillet. Cette étude, commandée par Bercy pour servir de base aux débats budgétaires de l'automne, prévoit également une dette publique atteignant 130 % du PIB. Les experts estiment que 126 milliards d'euros d'efforts budgétaires seront nécessaires d'ici 2032, à entreprendre impérativement dès 2027 pour stabiliser la dette.",
     "angles": [
       {
+        "outlet": "Le Monde",
+        "take": "Souligne le scénario catastrophe d'une dégradation forte du déficit sans intervention politique rapide.",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/15/a-politique-inchangee-un-deficit-a-la-derive-les-previsions-pessimistes-des-economistes-missionnes-par-bercy_6723598_823448.html"
+      },
+      {
         "outlet": "France Info",
-        "take": "Rachida Brakni figure parmi les distingués du domaine culturel de cette promotion, aux côtés de Michelle Perrot et Natalie Portman.",
-        "url": "https://www.franceinfo.fr/culture/legion-d-honneur-dans-le-domaine-culturel-michelle-perrot-natalie-portman-et-wajdi-mouawad-distingues-dans-la-promotion-du-14-juillet_8108501.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "L'artiste considère que l'honneur véritable n'est pas lié à une décoration officielle.",
-        "url": "https://www.humanite.fr/culture-et-savoir/rachida-brakni/rachida-brakni-refuse-la-legion-dhonneur"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "L'annonce du refus a été faite publiquement sur le réseau social Instagram.",
-        "url": "https://www.20minutes.fr/arts-stars/culture/4234589-20260715-honneur-situe-ailleurs-rachida-brakni-refuse-legion-honneur?at_medium=display&at_campaign=149"
+        "take": "Quantifie l'effort budgétaire requis (126 milliards d'euros) et insiste sur l'urgence d'agir dès 2027.",
+        "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/a-politique-inchangee-le-deficit-public-atteindrait-6-8-du-pib-en-2030-et-la-dette-130-selon-des-economistes-missionnes-par-bercy_8109281.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 5,
@@ -176,25 +156,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "France"
     ],
-    "title": "Affaire Lyhanna : le suspect entendu pour meurtre et viol",
-    "full": "Jérôme Barella, principal suspect dans la mort de Lyhanna, une collégienne de 11 ans disparue dans le Gers, doit être entendu mercredi 15 juillet par un juge d'instruction en vue de sa mise en examen pour meurtre et viol. Jusqu'à présent, il n'était mis en examen que pour enlèvement et séquestration depuis sa garde à vue en mai dernier.",
+    "title": "Le tribunal administratif annule l'interdiction du colloque sur la Palestine au Collège de France",
+    "full": "Le tribunal administratif de Paris a infirmé, mercredi 15 juillet, la décision du Collège de France d'annuler un colloque intitulé « La Palestine et l'Europe : poids du passé et dynamiques contemporaines », prévu en novembre 2025. Le tribunal a jugé cette annulation « disproportionnée ». L'institution avait justifié son interdiction par un risque de « débordements », tandis que les organisateurs dénonçaient une restriction de la liberté d'expression.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Met l'accent sur l'élargissement des accusations envisagées contre le suspect, qui pourrait désormais être poursuivi pour meurtre et viol d'une mineure de 15 ans.",
-        "url": "https://www.20minutes.fr/justice/4234580-20260715-affaire-lyhanna-jerome-barella-bientot-mis-examen-meurtre-viol-mineure-quinze-ans?at_medium=display&at_campaign=149"
+        "outlet": "L'Humanité",
+        "take": "Le tribunal administratif a infirmé la décision jugée disproportionnée prise par le Collège de France.",
+        "url": "https://www.humanite.fr/societe/college-de-france/le-tribunal-administratif-de-paris-infirme-la-decision-du-college-de-france-dannuler-un-colloque-sur-la-palestine"
       },
       {
-        "outlet": "France Info",
-        "take": "Rapporte que le suspect a évoqué lors de sa garde à vue avoir été victime de violences dans son enfance.",
-        "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-jerome-barella-entendu-par-le-juge-d-instruction-en-vue-de-sa-mise-en-examen-pour-le-viol-et-le-meurtre-de-la-fillette_8107760.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Précise le lieu et la date de l'audition du juge d'instruction à Agen.",
-        "url": "https://www.liberation.fr/societe/police-justice/jerome-barella-va-etre-entendu-par-un-juge-dinstruction-pour-le-meurtre-et-le-viol-de-lyhanna-20260715_FWPLWYKDPRFTXNB67DB4EAZN6E/"
+        "outlet": "Le Monde",
+        "take": "Le rapporteur public a estimé que l'argument du risque de débordements ne justifiait pas l'annulation du colloque.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/15/le-tribunal-administratif-donne-tort-au-college-de-france-pour-l-annulation-d-un-colloque-sur-la-palestine-en-novembre-2025_6723591_3224.html"
       }
     ],
     "id": 6,
@@ -202,25 +177,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Monde",
+      "Économie"
     ],
-    "title": "Le projet de loi sur la protection des enfants débute son examen",
-    "full": "L'Assemblée nationale examine à partir du 15 juillet un projet de loi sur la protection des enfants, débat qui doit durer jusqu'au 17 juillet. Le texte a été largement remanié depuis son élaboration initiale pour intégrer des mesures contre les violences sexuelles. Cette réorientation inquiète les professionnels de la protection de l'enfance, qui espéraient une réforme structurelle du secteur de l'aide sociale à l'enfance, mais jugent le texte final trop technique et insuffisamment doté en moyens.",
+    "title": "France et New York prennent des mesures contre les dépendances numériques",
+    "full": "Une commission d'enquête française et l'État de New York adoptent simultanément des approches restrictives face aux enjeux numériques. En France, les députés Philippe Latombe et Cyrielle Chatelain ont présenté mercredi des propositions pour renforcer la souveraineté technologique, notamment une participation de l'État dans la startup Mistral AI et un moratoire sur les centres de données étrangers. À New York, la gouverneure Kathy Hochul a décrété un gel d'un an des nouveaux grands centres de données, justifié par la hausse des factures d'électricité et la surcharge des réseaux électriques. Ces mesures reflètent une préoccupation croissante sur les impacts énergétiques et économiques de l'infrastructure numérique.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "Le projet de loi a été considérablement transformé pour répondre aux enjeux de violences sexuelles, reléguant au second plan la réforme structurelle du système d'aide sociale à l'enfance.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/15/dans-le-projet-de-loi-sur-la-protection-des-enfants-l-objectif-de-reforme-de-l-aide-sociale-a-l-enfance-est-passe-au-second-plan_6723534_3224.html"
+        "take": "La commission française propose une intervention directe de l'État dans les champions technologiques et des barrières contre les investissements étrangers pour consolider l'indépendance numérique.",
+        "url": "https://www.lemonde.fr/economie/article/2026/07/15/participation-de-l-etat-dans-mistral-ai-moratoire-sur-les-data-centers-etrangers-les-propositions-chocs-de-la-commission-sur-les-dependances-numeriques_6723575_3234.html"
       },
       {
-        "outlet": "Mediapart",
-        "take": "Les acteurs de la protection de l'enfance dénoncent une loi sans réel financement, composée de mesures techniques qui n'honore pas la promesse gouvernementale de refondation du secteur.",
-        "url": "https://www.mediapart.fr/journal/france/150726/la-protection-de-l-enfance-grande-oubliee-du-projet-de-loi-de-protection-des-enfants"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Le texte du gouvernement, progressivement affaibli et révisé, arrive à l'Assemblée sous la forme d'un ensemble de mesures peu ambitieuses.",
-        "url": "https://www.liberation.fr/societe/le-projet-de-loi-de-protection-de-lenfance-un-gloubi-boulga-de-mesures-peu-ambitieuses-20260715_J74OUZF54VHXRB3BINUXJ5FTUY/"
+        "outlet": "Courrier International",
+        "take": "New York justifie son moratoire par la crise énergétique locale et esquisse un modèle que d'autres États pourraient imiter face aux défis de leurs réseaux électriques.",
+        "url": "https://www.courrierinternational.com/article/ia-l-etat-de-new-york-decrete-un-moratoire-sur-les-centres-de-donnees_249913"
       }
     ],
     "id": 7,
@@ -228,25 +199,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Culture"
     ],
-    "title": "La Grande Mosquée de Paris fête ses 100 ans",
-    "full": "La Grande Mosquée de Paris célèbre son centenaire, inaugurée en juillet 1926 en hommage aux soldats musulmans morts pour la France durant la Première Guerre mondiale. Devenue un édifice emblématique du Ve arrondissement, elle accueille toujours de nombreux fidèles. Le monument incarne à la fois la reconnaissance française envers les musulmans et, historiquement, une volonté de contrôle de l'islam français. Aujourd'hui, l'Algérie renforce progressivement son influence sur ce symbole.",
+    "title": "Au Festival d'Avignon, Deflorian adapte le roman d'Han Kang",
+    "full": "La metteuse en scène italienne Daria Deflorian présente au cloître des Carmes une adaptation théâtrale d'« Impossibles adieux », roman de l'écrivaine sud-coréenne Han Kang (prix Nobel de littérature). Le spectacle « Che dolore terribile è l'amore » transpose ce récit mémoriel situé sur une île coréenne enneigée, mais selon les critiques, il abandonne certaines dimensions fantastiques de l'œuvre originale.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "L'édifice reste très fréquenté malgré une commémoration discrète, tandis que l'Algérie accroît son emprise politique sur le lieu.",
-        "url": "https://www.liberation.fr/societe/religions/la-grande-mosquee-de-paris-celebre-ses-cent-ans-dans-la-discretion-20260715_3BC4M7P4EVEDTAN4R25SM72XD4/"
-      },
-      {
         "outlet": "Le Monde",
-        "take": "Le projet de 1926 reflétait un double objectif français : honorer les musulmans tout en s'assurer une maîtrise de l'islam dans le pays.",
-        "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/07/15/la-grande-mosquee-de-paris-a-100-ans-retour-sur-un-projet-grandiose-et-polemique_6146438_6038515.html"
+        "take": "La mise en scène explore avec délicatesse l'effroi et l'émotion du texte source.",
+        "url": "https://www.lemonde.fr/culture/article/2026/07/15/au-festival-d-avignon-daria-deflorian-sonde-l-effroi-avec-delicatesse-dans-che-dolore-terribile-e-l-amore_6723589_3246.html"
       },
       {
-        "outlet": "France 24",
-        "take": "La mosquée, nichée au Quartier latin, s'est transformée en outil géostratégique reliant la France à l'Algérie et symbolisant aussi le dialogue judéo-musulman.",
-        "url": "https://www.france24.com/fr/france/20260715-destin-m%C3%A9connu-grande-mosquee-paris-100-cent-ans-au-c%C5%93ur-histoire-juifs-musulmans-algerie"
+        "outlet": "Libération",
+        "take": "L'adaptation privilégie la réalité mémorielle et atmosphérique au détriment des éléments fantastiques qui caractérisaient le roman.",
+        "url": "https://www.liberation.fr/culture/che-dolore-terribile-e-lamore-adaptation-dun-roman-dhan-kang-etre-neige-quelque-part-20260715_YJMBANFD6REVBD4AY4QZ57RIX4/"
       }
     ],
     "id": 8,
@@ -254,25 +220,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Environnement"
     ],
-    "title": "Trump suspend les contrôles routiers de l'ICE après deux décès",
-    "full": "L'administration Trump a ordonné l'arrêt temporaire des contrôles routiers menés par l'agence fédérale de l'immigration et des douanes (ICE) américaine. Cette décision intervient après la mort de deux automobilistes en une semaine, tués par des agents de l'ICE : un Mexicain au Texas et un Colombien de 25 ans dans le Maine. Les agents ont reçu l'ordre de ne plus procéder à ces contrôles en attente d'une révision des procédures.",
+    "title": "La canicule régresse, les orages se dissipent en France",
+    "full": "Après plusieurs jours de fortes chaleurs, la situation météorologique s'améliore progressivement en France. Mercredi, Météo-France a levé la vigilance orange concernant les orages violents qui menaçaient le nord-ouest et l'est. Les fortes chaleurs se concentrent désormais sur le sud-est jeudi avant de se cantonner aux seules régions méditerranéennes vendredi. Soixante-neuf départements restent cependant en alerte orange pour canicule.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Met l'accent sur le décès du Colombien de 25 ans à Biddeford qui a déclenché la suspension.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/15/l-administration-trump-ordonne-la-suspension-des-controles-routiers-de-l-ice_6723489_3210.html"
+        "outlet": "20 Minutes",
+        "take": "Seize départements du nord-ouest et de l'est avaient été placés en vigilance orange pour des orages particulièrement pluvieux.",
+        "url": "https://www.20minutes.fr/planete/canicule/4234640-20260715-meteo-apres-canicule-point-orages-menacent-france?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Courrier International",
-        "take": "Souligne que les deux morts en une semaine concernent des nationalités différentes (mexicain et colombien) et situent les incidents dans deux États distincts.",
-        "url": "https://www.courrierinternational.com/article/etats-unis-les-controles-routiers-de-l-ice-suspendus-apres-la-mort-de-deux-hommes-en-une-semaine_249898"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Insiste sur le caractère temporaire de la mesure et son lien direct avec les deux décès survenus en moins d'une semaine.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260715-%C3%A9tats-unis-suspension-des-contr%C3%B4les-routiers-de-l-ice-apr%C3%A8s-deux-d%C3%A9c%C3%A8s"
+        "outlet": "France Info",
+        "take": "Les orages en vigilance orange ont disparu, mais plus de 69 départements demeurent en alerte canicule.",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/plus-aucun-departement-en-vigilance-orange-aux-orages-69-departements-encore-en-alerte-orange-canicule_8109452.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 9,
@@ -280,26 +241,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture",
-      "Économie"
+      "Culture"
     ],
-    "title": "Fusion Warner-Paramount : attaque judiciaire aux États-Unis",
-    "full": "Douze États américains et le syndicat des scénaristes (WGA) ont engagé des poursuites contre le projet de fusion entre Warner Bros Discovery et Paramount Skydance, évalué à environ 110 milliards de dollars. Le syndicat professionnel redoute une concentration excessive du marché du divertissement, susceptible de réduire les salaires, les emplois et la diversité des programmes produits. Les autorités américaines jugent cette mégafusion menaçante pour la santé économique et créative de l'industrie hollywoodienne.",
+    "title": "Rachida Brakni refuse la Légion d'honneur",
+    "full": "L'actrice Rachida Brakni a décliné la Légion d'honneur qui lui a été décernée lors de la promotion du 14 juillet. Elle a annoncé son refus sur Instagram, estimant que son honneur « est ailleurs ». Parmi les autres distinctions culturelles attribuées figurent la historienne Michelle Perrot, l'actrice Natalie Portman et le dramaturge Wajdi Mouawad.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Le syndicat des scénaristes dénonce une fusion qui menacerait la viabilité économique et créative de l'ensemble de l'industrie du divertissement américain.",
-        "url": "https://www.lemonde.fr/cinema/article/2026/07/15/rachat-de-warner-par-paramount-le-syndicat-des-scenaristes-americains-s-y-oppose-au-meme-titre-que-douze-etats-americains_6723488_3476.html"
+        "outlet": "Libération",
+        "take": "Le refus de Brakni est présenté comme un acte honorable qui soulève la question de la légitimité de l'État à décerner l'honneur.",
+        "url": "https://www.liberation.fr/culture/la-decision-de-rachida-brakni-de-refuser-la-legion-dhonneur-est-un-acte-honorable-20260715_FUJQXXF2N5CZZEIMMEBEVCV45M/"
       },
       {
         "outlet": "France Info",
-        "take": "Le WGA craint des conséquences directes pour ses membres : réductions de rémunération, suppressions de postes et baisse de la production audiovisuelle.",
-        "url": "https://www.franceinfo.fr/culture/rachat-de-warner-bros-discovery-par-paramount-le-syndicat-des-scenaristes-monte-au-creneau_8108474.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Le Figaro International",
-        "take": "Au-delà de la concentration des médias, les inquiétudes portent aussi sur les enjeux politiques et d'influence dans le contexte américain actuel.",
-        "url": "https://www.lefigaro.fr/secteur/high-tech/rachat-de-warner-par-paramount-concentration-des-medias-influence-de-trump-pourquoi-la-megafusion-inquiete-20260713"
+        "take": "Le refus est rapporté factuellement parmi les autres nominations culturelles de la promotion du 14 juillet.",
+        "url": "https://www.franceinfo.fr/culture/legion-d-honneur-dans-le-domaine-culturel-michelle-perrot-natalie-portman-et-wajdi-mouawad-distingues-dans-la-promotion-du-14-juillet_8108501.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 10,
@@ -307,25 +262,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Société"
     ],
-    "title": "« The Last Viking » : comédie noire de Jensen avec Mads Mikkelsen",
-    "full": "Le film danois « The Last Viking », réalisé par Anders Thomas Jensen, sort en salles. Mads Mikkelsen y incarne l'un de deux frères dans une chasse au trésor mêlant comédie et noirceur. Les critiques saluent la performance de l'acteur et l'exploration des personnages par le réalisateur, quoique certains jugent le scénario inabout et l'humour inégal.",
+    "title": "La préfecture de police conteste les exigences du tribunal sur son infirmerie psychiatrique",
+    "full": "La préfecture de police de Paris a saisi le Conseil d'État pour contester une décision du tribunal administratif lui ordonnant de prendre des mesures dans son infirmerie psychiatrique (I3P). Cet établissement reçoit les personnes amenées par les services de police, notamment lors de gardes à vue ou en cas de trouble à l'ordre public, pour évaluer la nécessité d'une hospitalisation. La préfecture affirme que les mesures imposées par le tribunal feraient courir un risque pour la sécurité des personnes.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Le film constitue une comédie noire brillante où Jensen explore l'identité et le regard des autres sur les personnages, avec humour et mordant.",
-        "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/the-last-viking-une-brillante-comedie-noire-sur-l-identite-portee-par-un-excellent-mads-mikkelsen_8106683.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
         "outlet": "Le Monde",
-        "take": "L'intrigue oppose deux frères contrastés incarnés par Mikkelsen et Nicolaj Lie Kaas, dans un projet au scénario prometteur mais incomplet.",
-        "url": "https://www.lemonde.fr/culture/article/2026/07/15/the-last-viking-une-drolatique-chasse-au-tresor-avec-mads-mikkelsen-et-nicolaj-lie-kaas_6723517_3246.html"
+        "take": "Explique le rôle de l'I3P dans l'évaluation psychiatrique des personnes interpellées par la police.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/15/sommee-de-prendre-des-mesures-dans-son-infirmerie-psychiatrique-la-prefecture-de-police-de-paris-fait-appel_6723539_3224.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Le buddy movie scandinave peine à trouver le ton avec un second degré approximatif et des blagues sans relief.",
-        "url": "https://www.liberation.fr/culture/cinema/the-last-viking-sonne-le-gla-gla-20260714_PJWF5RPWOZDEZMMHIAQ7XIA5OQ/"
+        "outlet": "Mediapart",
+        "take": "Souligne l'argument de sécurité invoqué par la préfecture pour justifier son recours devant le Conseil d'État.",
+        "url": "https://www.mediapart.fr/journal/france/150726/sommee-de-prendre-des-mesures-dans-son-infirmerie-psychiatrique-la-prefecture-de-police-fait-appel"
       }
     ],
     "id": 11,
@@ -333,25 +283,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Économie",
+      "France"
     ],
-    "title": "« L'Aventure rêvée » de Valeska Grisebach primé à Cannes",
-    "full": "Le film « L'Aventure rêvée » de la cinéaste allemande Valeska Grisebach a remporté le Prix du jury au Festival de Cannes. Ce drame se déploie en Bulgarie post-communiste, à la frontière turque, et suit une archéologue confrontée à la mafia locale. Grisebach, qui a réalisé ce long-métrage avec des acteurs non professionnels, s'approprie les codes du western en plaçant une femme justicière au cœur du récit.",
+    "title": "Le Sénat dénonce l'opacité du financement privé des politiques publiques",
+    "full": "Une commission d'enquête du Sénat a présenté mercredi un rapport critiquant « l'opacité de certaines structures privées » impliquées dans le financement des politiques publiques. La « galaxie Stérin », ensemble d'activités du milliardaire conservateur Pierre-Édouard Stérin, figure parmi les cas dénoncés. Les sénatrices à l'origine de cette commission appellent à une meilleure application du droit existant, qui prévoit des sanctions fiscales et pénales contre les organismes d'intérêt général qui dépasseraient leurs attributions.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Le film raconte les retrouvailles de trois amis d'enfance dans des conditions qui mettent en scène résistance et combat.",
-        "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/l-aventure-revee-de-valeska-grisebach-un-western-melancolique-dans-la-bulgarie-post-communiste_8088056.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Mediapart",
-        "take": "Valeska Grisebach explore les mémoires de l'Europe depuis ses marges orientales, détournant le genre du film de mafia par son héroïne féminine.",
-        "url": "https://www.mediapart.fr/journal/culture-et-idees/150726/l-allemande-valeska-grisebach-sonde-les-memoires-de-l-europe-depuis-ses-confins-orientaux"
-      },
-      {
         "outlet": "Le Monde",
-        "take": "Le casting repose sur des interprètes non professionnels, dont l'actrice Yana Radeva qui incarne l'archéologue.",
-        "url": "https://www.lemonde.fr/culture/article/2026/07/15/l-aventure-revee-en-bulgarie-une-archeologue-sur-les-traces-de-son-passe_6723515_3246.html"
+        "take": "Le rapport pointe nommément les activités du milliardaire Stérin comme exemple de manque de transparence.",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/15/financement-prive-des-politiques-publiques-la-galaxie-sterin-dans-le-viseur-d-une-commission-du-senat_6723530_823448.html"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Au-delà du cas Stérin, les sénatrices insistent sur la nécessité de renforcer l'encadrement général des fonds privés en appliquant la réglementation existante.",
+        "url": "https://www.liberation.fr/politique/un-rapport-du-senat-reclame-un-meilleur-encadrement-des-fonds-prives-pierre-edouard-sterin-cest-larbre-qui-cache-la-foret-20260715_QBVHFRAOZVCOXNDZQ4FEAQI7MI/"
       }
     ],
     "id": 12,
@@ -359,26 +305,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde",
-      "Santé"
+      "Culture",
+      "Économie"
     ],
-    "title": "L'épidémie d'Ebola en RDC serait largement sous-estimée",
-    "full": "L'Organisation mondiale de la santé estime que l'épidémie d'Ebola sévissant en République démocratique du Congo pourrait être de deux à quatre fois plus grave que les chiffres officiels ne l'indiquent. Le dernier bilan officiel recense 719 morts et 1 963 cas confirmés depuis le début de l'épidémie, il y a deux mois. L'OMS souligne que la progression des cas connaît « la cadence la plus rapide » de toutes les épidémies d'Ebola gérées jusqu'à présent, ce qui en ferait la troisième plus importante jamais enregistrée. En parallèle, des personnels soignants ont dénoncé mardi leurs conditions de travail difficiles dans la province de l'Ituri.",
+    "title": "Paramount-Warner : blocage judiciaire du syndicat des scénaristes",
+    "full": "Le rachat de Warner Bros Discovery par Paramount fait face à une opposition croissante aux États-Unis. Le syndicat des scénaristes américains (WGA) et douze États ont déposé plainte devant le tribunal fédéral de Californie du Nord pour empêcher cette fusion. Le WGA redoute que cette concentration débouche sur des réductions de salaires, des licenciements et une baisse de la production audiovisuelle. Cette fusion créerait le plus grand groupe d'acquisition de contenus audiovisuels aux États-Unis.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "L'OMS classe cette épidémie parmi les trois plus importantes jamais documentées.",
-        "url": "https://www.lemonde.fr/afrique/article/2026/07/14/ebola-l-ampleur-de-l-epidemie-pourrait-depasser-de-deux-a-quatre-fois-les-estimations-officielles-selon-l-oms_6723326_3212.html"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Des soignants locaux protestent contre leurs conditions de travail précaires.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260715-ebola-en-rdc-les-soignants-d%C3%A9noncent-leurs-conditions-de-travail"
+        "take": "Souligne l'amplification de l'opposition avec deux plaintes déposées, incluant celle d'une douzaine d'États américains contre cette fusion.",
+        "url": "https://www.lemonde.fr/economie/article/2026/07/15/l-opposition-au-rachat-de-warner-par-paramount-s-amplifie-avec-les-tentatives-de-blocage-du-syndicat-des-scenaristes-et-de-douze-etats-americains_6723560_3234.html"
       },
       {
         "outlet": "France Info",
-        "take": "La progression des contaminations établit un record de rapidité comparé aux épidémies antérieures.",
-        "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-ampleur-de-l-epidemie-d-ebola-pourrait-depasser-de-deux-a-quatre-fois-les-estimations-officielles-selon-l-oms_8107568.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Met l'accent sur les craintes spécifiques du syndicat concernant les conditions de travail et l'emploi dans le secteur.",
+        "url": "https://www.franceinfo.fr/culture/rachat-de-warner-bros-discovery-par-paramount-le-syndicat-des-scenaristes-monte-au-creneau_8108474.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 13,
@@ -386,21 +327,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences",
-      "Société"
+      "Culture"
     ],
-    "title": "Meta accusé d'avoir utilisé l'IA pour cibler des salariés vulnérables",
-    "full": "Une plainte en justice visant Meta allègue que le groupe a recours à des outils d'intelligence artificielle pour identifier les salariés à licencier, en pénalisant systématiquement ceux en congé parental ou médical, ainsi que ceux en situation de handicap. Selon la plainte, l'IA analyse les données de performance des employés, mais dévalue le classement de ceux ayant bénéficié d'aménagements ou d'absences liées à des raisons de santé. L'action est portée par 26 salariés de Meta.",
+    "title": "Anders Thomas Jensen sort sa comédie noire « The Last Viking »",
+    "full": "Le réalisateur danois Anders Thomas Jensen propose une comédie noire en salles avec Mads Mikkelsen et Nikolaj Lie Kaas, incarnant deux frères lancés dans une chasse au trésor. L'un des deux joue un malfrat colérique, l'autre un personnage naïf se prenant pour John Lennon. À cette occasion, le cinéaste évoque son inquiétude face à la culture actuelle du selfie, où l'introspection remplace l'ouverture au monde.",
     "angles": [
       {
-        "outlet": "Le Figaro Éco",
-        "take": "Meta est accusée de collecter des données de productivité dévaluant systématiquement les employés ayant pris un congé parental, médical ou demandé un aménagement handicap.",
-        "url": "https://www.lefigaro.fr/secteur/high-tech/meta-accuse-d-avoir-utilise-l-ia-pour-dresser-la-liste-de-ses-salaries-a-licencier-20260715"
+        "outlet": "France Info",
+        "take": "Anders Thomas Jensen utilise l'interview pour critiquer la tendance au repli narcissique dans notre époque.",
+        "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/interview-nous-vivons-dans-une-culture-du-selfie-ou-l-on-tourne-son-appareil-vers-soi-meme-regrette-anders-thomas-jensen-le-realisateur-de-the-last-viking_8108081.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Numerama",
-        "take": "26 salariés de Meta dénoncent l'usage d'outils d'IA ciblant spécifiquement les employés malades, handicapés ou en congé lors des vagues de licenciements.",
-        "url": "https://www.numerama.com/tech/2295363-meta-accuse-davoir-utilise-une-ia-qui-ciblait-les-employes-malades-ou-en-situation-de-handicap-lors-des-licenciements.html"
+        "outlet": "Le Monde",
+        "take": "Le Monde souligne le potentiel comique du scénario mais relève que l'exécution du film reste inachevée.",
+        "url": "https://www.lemonde.fr/culture/article/2026/07/15/the-last-viking-une-drolatique-chasse-au-tresor-avec-mads-mikkelsen-et-nicolaj-lie-kaas_6723517_3246.html"
       }
     ],
     "id": 14,
@@ -408,20 +348,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Culture"
     ],
-    "title": "La Préfecture de police conteste une décision sur son infirmerie psychiatrique",
-    "full": "La Préfecture de police de Paris se pourvoit devant le Conseil d'État contre une décision du tribunal administratif lui ordonnant de prendre des mesures dans son infirmerie psychiatrique (I3P). Cet établissement reçoit les personnes amenées par les services de police, notamment en garde à vue ou en cas de trouble à l'ordre public, pour évaluer la nécessité d'une hospitalisation. La préfecture conteste, arguant que les mesures prescrites feraient courir un risque pour la sécurité des personnes.",
+    "title": "Christopher Nolan adapte l'Odyssée d'Homère au cinéma",
+    "full": "Christopher Nolan sort mercredi 15 juillet « L'Odyssée », son adaptation cinématographique du texte antique d'Homère racontant le retour d'Ulysse vers Ithaque. Le réalisateur a mobilisé des moyens importants et un casting de prestige pour transposer l'épopée à l'écran, en quête d'une esthétique à la hauteur du chef-d'œuvre littéraire.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Met l'accent sur le rôle et le fonctionnement de l'I3P en tant que structure d'évaluation psychiatrique dans le contexte policier.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/15/sommee-de-prendre-des-mesures-dans-son-infirmerie-psychiatrique-la-prefecture-de-police-de-paris-fait-appel_6723539_3224.html"
+        "outlet": "France Info",
+        "take": "Souligne l'ambition du projet avec un casting XXL et une fresque hollywoodienne de grande envergure.",
+        "url": "https://www.franceinfo.fr/culture/cinema/avec-l-odyssee-christopher-nolan-adapte-le-texte-d-homere-en-fresque-hollywoodienne_8109074.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Mediapart",
-        "take": "Souligne que la préfecture invoque des risques de sécurité pour justifier son recours devant le Conseil d'État.",
-        "url": "https://www.mediapart.fr/journal/france/150726/sommee-de-prendre-des-mesures-dans-son-infirmerie-psychiatrique-la-prefecture-de-police-fait-appel"
+        "outlet": "Le Monde",
+        "take": "Juge le parti pris du grandiose insuffisant, estimant que le film ne parvient pas à égaler la portée de l'original homérique malgré les moyens considérables mobilisés.",
+        "url": "https://www.lemonde.fr/culture/article/2026/07/15/l-odyssee-christopher-nolan-peine-a-se-mesurer-a-homere_6723507_3246.html"
       }
     ],
     "id": 15,
@@ -429,20 +369,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie"
+      "Monde"
     ],
-    "title": "Un rapport parlementaire critique l'insuffisance des aides aux carburants",
-    "full": "Un rapport de mission flash du député socialiste Philippe Brun juge insuffisantes les aides gouvernementales mises en place durant la crise des carburants. Il pointe notamment le sous-usage de l'aide de 100 euros destinée aux gros rouleurs et relève que les montants sont inadaptés aux besoins des ménages ruraux modestes. Le gouvernement a défendu son dispositif face à ces critiques.",
+    "title": "Deux morts aux mains d'ICE ravive la tension aux États-Unis",
+    "full": "Deux personnes ont été tuées par balles par des agents de l'ICE, la police fédérale de l'immigration américaine, en l'espace de quelques jours. L'une des victimes est un homme de 26 ans, père de famille. Ces décès ont provoqué une vive émotion et déclenché de nouvelles manifestations contre l'agence aux États-Unis.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Un député socialiste fustige la gestion gouvernementale de la crise des carburants dans un rapport officiel.",
-        "url": "https://www.lemonde.fr/penurie-de-carburant/article/2026/07/15/carburant-le-rapport-de-philippe-brun-critique-les-aides-maud-bregeon-assume-le-dispositif_6723536_6145475.html"
-      },
-      {
-        "outlet": "Le Figaro Éco",
-        "take": "Le rapport souligne que l'aide de 100 euros pour gros rouleurs a été peu mobilisée et reste très insuffisante pour les ménages ruraux précaires.",
-        "url": "https://www.lefigaro.fr/conjoncture/carburants-des-aides-jugees-insuffisantes-par-un-rapport-parlementaire-l-executif-se-defend-20260715"
+        "outlet": "France Info",
+        "take": "L'agence ICE fait l'objet d'une controverse renouvelée après ces deux homicides, suscitant des mouvements de protestation sur le territoire américain.",
+        "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-la-colere-gronde-a-nouveau-contre-la-police-de-l-immigration-apres-la-mort-de-deux-hommes-par-balles_8109416.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 16,
@@ -450,20 +385,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Insolite"
     ],
-    "title": "Le Sénat enquête sur l'influence financière du milliardaire Stérin",
-    "full": "Une commission d'enquête du Sénat a présenté mercredi son rapport sur le financement privé des politiques publiques, pointant du doigt les activités du milliardaire conservateur Pierre-Édouard Stérin et dénonçant « l'opacité de certaines structures privées ». L'enquête fait suite aux révélations sur le plan Périclès de Stérin et la labellisation de sa fondation Némésis en tant qu'organisme d'intérêt général. Les sénatrices Sonia de la Provôté et Colombe Brossel ont formulé 32 recommandations visant à mieux réguler les interactions entre financement privé et institutions publiques et à développer une « culture de l'alerte ».",
+    "title": "L'épave du dernier navire de Shackleton découverte sous les glaces",
+    "full": "Le Quest, dernier navire de l'explorateur polaire britannique Ernest Shackleton, a été photographié en haute résolution au large du Canada, plus de soixante ans après son naufrage en 1962. Les images révèlent une épave remarquablement préservée sous les glaces, devenue un refuge pour la vie marine locale.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "La commission dénonce l'opacité des structures privées liées à Stérin et les examine spécifiquement.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/15/financement-prive-des-politiques-publiques-la-galaxie-sterin-dans-le-viseur-d-une-commission-du-senat_6723530_823448.html"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "Le rapport propose 32 préconisations pour encadrer le financement privé des structures publiques et renforcer la transparence.",
-        "url": "https://www.humanite.fr/politique/nemesis/millions-injectes-par-sterin-nemesis-declare-dinteret-general-le-senat-devoile-32-preconisations-pour-reguler-les-interactions-entre-financement"
+        "outlet": "Slate",
+        "take": "L'épave photographiée en haute résolution révèle un site devenu refuge pour la faune marine.",
+        "url": "https://www.slate.fr/culture/epave-quest-navire-exploration-sir-ernest-shackleton-exploration-antarctique"
       }
     ],
     "id": 17,
@@ -471,20 +401,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Insolite",
+      "Santé"
     ],
-    "title": "Trump condamné à verser 5,6 millions à Elizabeth Jean Carroll",
-    "full": "Donald Trump a versé 5,6 millions de dollars à l'autrice Elizabeth Jean Carroll suite à une condamnation civile prononcée fin juin. Un jury l'a reconnu responsable d'agression sexuelle et de diffamation envers l'ancienne journaliste. Le paiement a été confirmé par un document judiciaire publié mardi 14 juillet.",
+    "title": "Une « Coupe du monde des laits » pour comparer leurs bienfaits",
+    "full": "Slate a organisé un comparatif des différents types de lait, du lait entier aux boissons végétales, afin d'évaluer leurs impacts respectifs sur la santé. Le lait entier, longtemps décrié comme nocif pour le cœur, bénéficie aujourd'hui d'une réévaluation scientifique plus favorable. L'exercice illustre l'évolution des recommandations nutritionnelles et la complexité du débat entre produits laitiers traditionnels et alternatives végétales.",
     "angles": [
       {
-        "outlet": "L'Humanité",
-        "take": "Insiste sur l'exécution de la condamnation civile et le montant précis du dédommagement ordonnépar la justice.",
-        "url": "https://www.humanite.fr/monde/donald-trump/agression-sexuelle-reconnu-coupable-donald-trump-a-verse-56-millions-de-dollars-a-lautrice-elizabeth-jean-carroll"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Rapporte que les démocrates ont bloqué au Sénat l'examen du budget de la défense en riposte à des actions unilatérales de Trump.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/15/aux-etats-unis-les-ambitions-de-donald-trump-sur-le-budget-de-la-defense-freinees-par-les-democrates_6723522_3210.html"
+        "outlet": "Slate",
+        "take": "Le lait entier retrouve une légitimité nutritionnelle auprès des scientifiques, remettant en question des décennies de conseils favorisant les produits allégés.",
+        "url": "https://www.slate.fr/boire-manger/lait-entier-ecreme-vegetal-meilleur-sante-proteine-cardiovasculaire-bien-etre-animal"
       }
     ],
     "id": 18,
@@ -492,20 +418,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Société"
     ],
-    "title": "Glucksmann maintient le flou sur sa candidature à la présidentielle 2027",
-    "full": "Raphaël Glucksmann, eurodéputé de Place publique, refuse toujours de confirmer officiellement sa participation à la primaire du camp social-démocrate, validée par les militants socialistes le 9 juillet. Invité en Gironde pour inaugurer une réplique de la Statue de la Liberté le 14 juillet, le leader a tenu un discours de candidat sans pour autant lever l'incertitude sur sa décision définitive.",
+    "title": "Les gendarmes intensifient les contrôles contre les infractions en mer",
+    "full": "Face à la multiplication des comportements à risque en mer durant l'été, les gendarmes renforcent leurs opérations de contrôle. Jet-skis circulant dans des zones interdites, consommation d'alcool et de drogues : les forces de l'ordre ciblent ces infractions pour sécuriser les espaces côtiers et les plages.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Glucksmann prolonge volontairement le suspense en refusant de formaliser sa candidature à la primaire de la gauche sociale-démocrate.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/15/en-gironde-raphael-glucksmann-entretient-le-suspense-sur-sa-candidature_6723506_823448.html"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Tout en esquivant l'annonce officielle, le politicien profite de ses déplacements en province pour tenir un discours d'homme politique aspirant au pouvoir.",
-        "url": "https://www.liberation.fr/politique/etre-francais-cest-avant-tout-etre-libre-a-izon-sous-le-soleil-de-gironde-raphael-glucksmann-fete-le-retour-dune-statue-de-la-liberte-20260715_BQOVTXMPO5FV5FZA2U7Y5JJ7FA/"
+        "outlet": "France Info",
+        "take": "Les gendarmes intensifient la surveillance estivale en mer face à la recrudescence des infractions liées à l'alcool, aux drogues et à l'utilisation de jet-skis en zones interdites.",
+        "url": "https://www.franceinfo.fr/faits-divers/ces-gendarmes-luttent-contre-la-delinquance-en-mer_8109011.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 19,
@@ -513,20 +434,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Insolite",
+      "Environnement"
     ],
-    "title": "Buffet auditionné pour le poste de Défenseur des droits",
-    "full": "Le sénateur Les Républicains François-Noël Buffet a été auditionné mercredi 15 juillet par la commission des Lois de l'Assemblée nationale en vue de son nomination au poste de Défenseur des droits. Son candidature suscite l'hostilité de la gauche et des associations, qui contestent ses anciennes positions contre le mariage pour tous, l'extension de la PMA et ses réserves sur l'inscription de l'IVG dans la Constitution. Associations et syndicats jugent ces orientations incompatibles avec les fonctions d'une institution indépendante chargée de défendre les droits.",
+    "title": "Au Canada, un train de fret pris au piège dans les flammes",
+    "full": "Un train de marchandises s'est retrouvé encerclé par les incendies qui ravagent actuellement le Canada. Le convoi a dû rester bloqué au cœur des brasiers, alors que les feux ont déjà consumé plus de 53 000 hectares dans le pays.",
     "angles": [
       {
-        "outlet": "L'Humanité",
-        "take": "L'audition du candidat face à une gauche très hostile s'est déroulée avec succès mitigé.",
-        "url": "https://www.humanite.fr/politique/defenseur-des-droits/defenseur-des-droits-la-douloureuse-audition-de-francois-noel-buffet-devant-lassemblee-nationale"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Les associations dénoncent des positions ultraconservatrices jugées incompatibles avec la fonction de défenseur des droits.",
-        "url": "https://www.liberation.fr/societe/francois-noel-buffet-au-poste-de-defenseur-des-droits-les-associations-denoncent-un-profil-aux-positions-tres-inquietantes-20260715_JZSQCU3UFJAHZFEO5HO3HCIM5Y/"
+        "outlet": "France Info",
+        "take": "Un train de fret s'est trouvé pris au piège parmi les flammes lors des incendies qui dévastent le Canada depuis plusieurs jours.",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/incendies-au-canada-un-train-pris-au-piege-dans-un-brasier_8109230.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 20,
@@ -534,21 +451,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement",
-      "Économie"
+      "Insolite"
     ],
-    "title": "Un rapport parlementaire dénonce le soutien massif aux data centers",
-    "full": "Une commission d'enquête parlementaire critique l'appui du gouvernement à l'installation de centres de données en France, estimant que leur puissance pourrait atteindre 15 gigawatts en cinq ans, soit environ 24 % de la capacité nucléaire française. Le rapport alerte sur le risque d'accaparement de la production électrique par des opérateurs étrangers, principalement américains, spécialisés dans l'intelligence artificielle. La majorité de ces installations ont été contractualisées en 2025 et 2026. La commission appelle à une reprise de contrôle politique sur ces implantations.",
+    "title": "Japon : un ours noir s'invite régulièrement dans les cuisines",
+    "full": "Un ours noir d'Asie a été découvert dans la cuisine d'un couple du nord-est du Japon. L'animal est soupçonné d'être responsable de plusieurs intrusions dans des habitations de la région, où il s'introduit pour se nourrir. Les autorités locales ont lancé une traque pour capturer ce visiteur indésirable.",
     "angles": [
       {
-        "outlet": "Reporterre",
-        "take": "Met l'accent sur l'ampleur de la consommation énergétique des data centers et les enjeux de dépendance envers les hyperscalers.",
-        "url": "https://reporterre.net/Un-rapport-parlementaire-denonce-un-soutien-effrene-du-gouvernement-aux-datacenters"
-      },
-      {
-        "outlet": "Mediapart",
-        "take": "Souligne la question de la souveraineté française face à la domination des acteurs états-uniens dans ce secteur stratégique.",
-        "url": "https://www.mediapart.fr/journal/economie-et-social/150726/un-rapport-parlementaire-appelle-reprendre-la-main-sur-l-installation-des-centres-de-donnees"
+        "outlet": "20 Minutes",
+        "take": "Le même ours serait impliqué dans une série de « cambriolages » alimentaires dans plusieurs foyers de la zone.",
+        "url": "https://www.20minutes.fr/arts-stars/insolite/4234671-20260715-japon-couple-trouve-ours-cuisine-animal-soupconne-plusieurs-cambriolages?at_medium=display&at_campaign=149"
       }
     ],
     "id": 21,
@@ -556,21 +467,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences",
-      "Économie"
+      "Sport"
     ],
-    "title": "Google poursuivi par des éditeurs pour utilisation non autorisée d'œuvres dans son IA",
-    "full": "Hachette et autres maisons d'édition ont engagé des poursuites contre Google, l'accusant d'avoir utilisé sans autorisation des œuvres protégées pour entraîner son modèle d'intelligence artificielle Gemini. Cette action s'inscrit dans une série croissante de procédures intentées par auteurs et éditeurs contre des entreprises du secteur de l'IA, reprochant l'utilisation non consentie de contenus protégés.",
+    "title": "L'amitié entre Haaland et Bellingham fait le buzz en Coupe du monde",
+    "full": "Erling Haaland et Jude Bellingham, anciens coéquipiers du Borussia Dortmund, se sont affrontés en quart de finale de la Coupe du monde 2026. Au-delà de la victoire de l'Anglais, c'est leur amitié visuelle sur le terrain qui a capté l'attention des réseaux sociaux, générant des commentaires et des mèmes autour de leur relation.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Souligne que cette plainte s'ajoute à une série de procédures visant des entreprises d'IA accusées d'avoir alimenté leurs modèles sans autorisation.",
-        "url": "https://www.lemonde.fr/pixels/article/2026/07/15/hachette-et-d-autres-editeurs-poursuivent-google-l-accusant-de-violer-les-droits-d-auteur-avec-son-ia-gemini_6723382_4408996.html"
-      },
-      {
-        "outlet": "Le Figaro Éco",
-        "take": "Met l'accent sur le reproche spécifique d'utilisation non autorisée d'œuvres protégées par le droit d'auteur pour l'entraînement des modèles.",
-        "url": "https://www.lefigaro.fr/medias/ia-google-poursuivi-par-des-maisons-d-edition-dont-hachette-pour-violation-des-droits-d-auteur-20260715"
+        "outlet": "20 Minutes",
+        "take": "La confrontation entre les deux amis en phase finale du tournoi a moins marqué pour son enjeu sportif que pour l'affichage public de leur complicité.",
+        "url": "https://www.20minutes.fr/high-tech/by-the-web/4234582-20260715-coupe-monde-2026-pourquoi-bromance-entre-erling-haaland-jude-bellingham-affole-reseaux-sociaux?at_medium=display&at_campaign=149"
       }
     ],
     "id": 22,
@@ -578,115 +483,18 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "Insolite"
     ],
-    "title": "Île-de-France : pollution aggravée par canicule et incendie",
-    "full": "La qualité de l'air en Île-de-France s'est dégradée davantage après l'incendie de forêt de Fontainebleau. La région cumule déjà des niveaux d'ozone élevés dus à la canicule, auxquels s'ajoutent désormais les particules fines générées par les flammes, crée une situation qualifiée de « double peine » par les experts. Selon Pierre Pernot d'Airparif, cette conjonction de facteurs accentue considérablement les risques pour la santé.",
+    "title": "Une invasion de moustiques force l'évacuation de deux avions à Milan",
+    "full": "Deux vols Ryanair au départ de Milan ont dû être évacués en urgence en raison d'une invasion de moustiques dans les cabines. Les passagers ont été contraints de quitter les appareils, certains devant être réacheminés sur d'autres avions. Cet incident insolite a perturbé les opérations aériennes sur l'aéroport italien.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "L'incendie de Fontainebleau intensifie une pollution déjà aggravée par les températures caniculaires, créant un cumul de facteurs nocifs pour l'air en région parisienne.",
-        "url": "https://www.franceinfo.fr/environnement/c-est-la-double-peine-deja-accentuee-par-la-canicule-la-pollution-en-ile-de-france-grimpe-encore-apres-le-feu-de-foret-de-fontenainebleau_8108855.html#xtor=RSS-3-[lestitres]"
+        "take": "L'invasion d'insectes piqueurs a entraîné l'évacuation immédiate des deux appareils et le changement d'avion pour plusieurs voyageurs.",
+        "url": "https://www.franceinfo.fr/faits-divers/une-invasion-de-moustiques-bloque-deux-vols-ryanair-en-italie_8108972.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 23,
     "priority": 24
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Un pantalon Zara accusé de provoquer des chutes sur TikTok",
-    "full": "Des vidéos circulent depuis peu sur TikTok sous le hashtag « deadliest Zara pants » (le plus dangereux des pantalons Zara), mettant en avant un modèle ample au tissu fluide de la marque espagnole. Les utilisateurs dénoncent les risques de chute liés à ce vêtement, dont la coupe généreuse serait responsable de pertes d'équilibre chez celles qui le portent.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "Le phénomène viral met en lumière un modèle Zara spécifique dont les caractéristiques amples et fluides seraient dangereuses pour la stabilité des porteuses.",
-        "url": "https://www.20minutes.fr/tempo/style/4234637-20260715-futal-fatal-zara-comment-pantalon-accuse-faire-chuter-celles-portent?at_medium=display&at_campaign=149"
-      }
-    ],
-    "id": 24,
-    "priority": 25
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Un serpent découvert dans une machine à laver en Espagne",
-    "full": "Une femme en Galice a découvert un serpent de taille importante dans le tambour de sa machine à laver, lundi. L'animal sifflait, probablement en réaction à la menace perçue. La police locale a dû intervenir pour le récupérer et l'extraire de l'appareil électroménager.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "L'incident s'est produit en Galice, où le serpent avait trouvé refuge dans le tambour avant d'être découvert par la propriétaire de la machine.",
-        "url": "https://www.20minutes.fr/arts-stars/insolite/4234610-20260715-sifflait-car-sentait-menace-femme-retrouve-gros-serpent-tambour-machine-laver?at_medium=display&at_campaign=149"
-      }
-    ],
-    "id": 25,
-    "priority": 26
-  },
-  {
-    "themes": [
-      "Sport"
-    ],
-    "title": "Les règles du handball au football sèment la confusion",
-    "full": "Après l'élimination de la Belgique face à l'Espagne en Coupe du monde, un incident impliquant une main d'un défenseur espagnol dans la surface a relancé le débat sur l'interprétation des règlements. Beaucoup de commentateurs ont affirmé qu'un contact avec le ballon exonérait automatiquement le joueur de pénalité, alors que les lois du jeu prévoient des critères bien plus complexes, tenant compte notamment de la position du bras ou de l'intention. Le flou persiste autour de l'application pratique de ces règles.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "Les lois du jeu comportent une interprétation nuancée, loin de l'automaticité supposée par beaucoup de commentateurs après ce match.",
-        "url": "https://www.slate.fr/sports/main-penalty-football-regle-coupe-du-monde-belgique-espagne-loi"
-      }
-    ],
-    "id": 26,
-    "priority": 27
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "TikTok s'entiche des sandwichs aux pommes sans pain",
-    "full": "Un sandwich composé uniquement de tranches de pommes gagne en popularité sur TikTok. Cette recette fait partie d'une tendance plus large de préparations pauvres en glucides, notamment dépourvues de pain, qui connaissent un succès régulier durant l'été. L'engouement pour ce type de casse-croûte remonte à la recherche de variantes allégées et alternatives aux formules classiques.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "Souligne l'attrait des recettes sans glucides et sans pain qui se multiplient sur les réseaux sociaux pendant la saison estivale.",
-        "url": "https://www.20minutes.fr/tempo/food/4233878-20260715-apple-sandwich-pourquoi-tiktok-craque-casse-croute-insolite-base-tranches-pommes?at_medium=display&at_campaign=149"
-      }
-    ],
-    "id": 27,
-    "priority": 28
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Une salière de Cellini volée retrouvée après trois ans enterrée",
-    "full": "En 2003, un spécialiste des systèmes d'alarme a dérobé la célèbre salière de Benvenuto Cellini au musée de Vienne, en Autriche. Incapable de revendre cette pièce estimée à environ 100 millions de dollars, le voleur l'a enterrée dans les bois, où elle est restée cachée trois ans avant sa découverte. Ce chef-d'œuvre Renaissance, l'un des trésors les plus importants du musée, avait disparu lors du vol spectaculaire perpétré par le criminel autrichien.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "Le vol date de 2003 et le voleur, incapable de trouver un acheteur, avait enfoui l'objet dans les bois avant sa récupération trois années plus tard.",
-        "url": "https://www.slate.fr/societe/tresor-millions-dollars-vol-musee-vienne-autriche-bois-casse-cellini-or"
-      }
-    ],
-    "id": 28,
-    "priority": 29
-  },
-  {
-    "themes": [
-      "Monde",
-      "Société"
-    ],
-    "title": "Pulaski, ville du Tennessee hantée par ses origines du KKK",
-    "full": "Pulaski, dans le Tennessee, doit gérer un héritage encombrant : c'est là qu'est né le Ku Klux Klan en 1865. Alors que les États-Unis célèbrent le 250e anniversaire de leur indépendance, la ville demeure confrontée à ce passé trouble. Entre déni local, archives sensibles et efforts de réconciliation, Pulaski incarne les tensions mémorielles persistantes de l'Amérique face à son histoire raciste.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "Slate propose un reportage sur la manière dont Pulaski navigue entre reconnaissance historique, réticences locales et tentatives de dialogue autour de son rôle fondateur du KKK.",
-        "url": "https://www.slate.fr/monde/bienvenue-pulaski-berceau-ku-klux-klan-memoires-troubles-amerique-kkk-racisme-etats-unis-guerre-secession-tennessee"
-      }
-    ],
-    "id": 29,
-    "priority": 30
   }
 ];
