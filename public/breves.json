@@ -1,34 +1,35 @@
 {
-  "generated_at": "2026-07-16T15:13:39.202069+00:00",
-  "date_label": "Jeudi 16 juillet",
-  "count": 34,
+  "generated_at": "2026-07-17T04:03:07.728134+00:00",
+  "date_label": "Vendredi 17 juillet",
+  "count": 25,
   "breves": [
     {
       "themes": [
-        "Monde"
+        "France",
+        "Environnement"
       ],
-      "title": "Ukraine : remaniement gouvernemental et départ contesté du ministre de la Défense",
-      "full": "Le président ukrainien Volodymyr Zelensky a opéré mercredi un remaniement gouvernemental majeur. Le ministre de la Défense Mykhaïlo Fedorov, très populaire, a annoncé son départ, tout comme la Première ministre Ioulia Svyrydenko. Cette décision a provoqué des manifestations jeudi dans plusieurs grandes villes d'Ukraine (Kiev, Kharkiv, Odessa, Lviv) où des centaines de personnes ont réclamé le maintien du ministre. Selon certaines sources, Fedorov aurait quitté ses fonctions en raison d'un différend avec le chef d'état-major Oleksandr Syrsky. Le nouveau Premier ministre, le technocrate Serhiy Koretskiy, est chargé de préparer le pays à un hiver particulièrement difficile.",
+      "title": "Incendies de Fontainebleau : crise forestière et débats politiques",
+      "full": "La forêt de Fontainebleau connaît ses pires incendies depuis la Seconde Guerre mondiale, avec plus de 2 000 hectares ravagés depuis dimanche. Emmanuel Macron s'est rendu mercredi sur place auprès des 950 pompiers toujours mobilisés pour combattre les reprises de flammes, annonçant un guichet unique de collecte de fonds pour la reconstruction. Trois personnes ont été présentées à un juge en vue de leur mise en examen. À l'échelle nationale, la France compte déjà 11 000 feux ayant brûlé 35 000 hectares à la mi-juillet, dépassant le total de l'année précédente. Parallèlement, le Conseil d'État a annulé mercredi le décret du plan « un milliard d'arbres » du gouvernement, critiqué par les associations environnementales pour sa stratégie forestière.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Des manifestants craignent que ce départ n'entraîne un retour à des pratiques militaires moins modernes.",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-nous-risquons-de-revenir-aux-anciennes-manieres-de-faire-la-guerre-en-ukraine-des-manifestations-contre-le-depart-du-ministre-de-la-defense_8110112.html#xtor=RSS-3-[lestitres]"
+          "take": "Souligne l'ampleur exceptionnelle des feux et les difficultés à maîtriser les reprises de flammes malgré la mobilisation massive des pompiers.",
+          "url": "https://www.franceinfo.fr/faits-divers/incendie/incendies-de-fontainebleau-pourquoi-les-reprises-sont-encore-nombreuses-dans-la-foret-bien-que-le-feu-soit-fixe_8110841.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Mediapart",
-          "take": "Fedorov aurait payé son opposition au chef d'état-major Syrsky, selon le partenaire The Kyiv Independent.",
-          "url": "https://www.mediapart.fr/journal/international/160726/ukraine-pourquoi-le-limogeage-du-ministre-de-la-defense-fait-polemique"
+          "outlet": "Libération",
+          "take": "Relie l'incendie au débat sur la politique forestière en mettant en avant l'annulation du plan de renouvellement par la justice.",
+          "url": "https://www.liberation.fr/environnement/plan-un-milliard-darbres-le-conseil-detat-retoque-le-projet-decrie-demmanuel-macron-20260716_GKYFEAR2AJAW5MMUNRKYOKND3U/"
         },
         {
-          "outlet": "Le Figaro International",
-          "take": "Fedorov a lui-même reconnu l'incompatibilité avec le commandant Syrsky pour mener la guerre.",
-          "url": "https://www.lefigaro.fr/international/un-sang-jeune-derange-les-vieux-briscards-la-colere-monte-en-ukraine-apres-le-depart-de-fedorov-le-populaire-ministre-de-la-defense-20260716"
+          "outlet": "Le Monde",
+          "take": "Met l'accent sur les chiffres nationaux alarmantsde la saison incendiaire et la riposte financière annoncée par le gouvernement.",
+          "url": "https://www.lemonde.fr/planete/live/2026/07/16/en-direct-canicule-emmanuel-macron-est-arrive-dans-la-foret-de-fontainebleau-ravagee-par-des-incendies_6723261_3244.html"
         },
         {
-          "outlet": "Courrier International",
-          "take": "La nomination de Koretskiy vise à préparer l'Ukraine à affronter une saison hivernale particulièrement rude.",
-          "url": "https://www.courrierinternational.com/article/politique-serhiy-koretskiy-un-nouveau-premier-ministre-charge-de-preparer-l-ukraine-a-un-hiver-difficile_250449"
+          "outlet": "Le Figaro Éco",
+          "take": "Détaille le dispositif de collecte de fonds lancé via la Fondation du patrimoine.",
+          "url": "https://www.lefigaro.fr/conjoncture/incendies-en-foret-de-fontainebleau-macron-annonce-la-mise-en-place-d-un-guichet-unique-afin-de-collecter-des-fonds-20260716"
         }
       ],
       "id": 0,
@@ -39,28 +40,33 @@
         "France",
         "Société"
       ],
-      "title": "Le Parlement adopte définitivement la loi sur l'aide à mourir",
-      "full": "L'Assemblée nationale a définitivement approuvé mercredi une proposition de loi créant un droit à l'aide à mourir pour certains malades atteints de pathologies graves, sous conditions. Le texte a été adopté par 291 voix pour, 241 contre et 29 abstentions, reflétant des divisions persistantes dans le pays. Le gouvernement a annoncé qu'il saisirait le Conseil constitutionnel sur trois points du texte.",
+      "title": "L'Assemblée nationale rend imprescriptibles les crimes commis sur mineurs",
+      "full": "L'Assemblée nationale a voté jeudi 16 juillet pour étendre l'imprescriptibilité aux crimes commis sur les enfants, une mesure jusque-là réservée aux crimes contre l'humanité. Cet amendement, adopté par 93 voix contre 51, s'inscrit dans l'examen du projet de loi sur la protection des enfants et bénéficie du soutien du ministre de la Justice. La mesure vise à permettre aux victimes de poursuivre leurs agresseurs sans limite de délai, quels que soient les crimes commis (viols, violences mortelles, tortures). Cependant, L'Humanité soulève la question de sa constitutionnalité.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Une ancienne ministre salue cette adoption comme urgente et nécessaire.",
-          "url": "https://www.franceinfo.fr/societe/euthanasie/il-etait-temps-il-est-urgent-que-le-texte-soit-applique-reagit-l-ancienne-ministre-agnes-firmin-le-bodo-apres-l-adoption-la-loi-sur-l-aide-a-mourir_8109314.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "20 Minutes",
+          "take": "Met l'accent sur l'extension historique de l'imprescriptibilité, jusque-là monopole des crimes contre l'humanité.",
+          "url": "https://www.20minutes.fr/justice/4234798-20260716-assemblee-nationale-deputes-votent-etendre-imprescriptibilite-crimes-commis-mineurs?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Malgré le vote, le texte continue de diviser entre les partisans du droit à mourir et les associations conservatrices ou religieuses.",
-          "url": "https://www.20minutes.fr/societe/4234707-20260715-fin-vie-adoption-droit-aide-mourir-met-fin-divisions?at_medium=display&at_campaign=149"
+          "outlet": "France Info",
+          "take": "Souligne également l'adoption d'une ordonnance de protection permettant au procureur de mettre rapidement un enfant à l'abri en cas de suspicion.",
+          "url": "https://www.franceinfo.fr/societe/enfance-et-adolescence/maltraitance-des-enfants/l-assemblee-nationale-adopte-en-premiere-lecture-une-ordonnance-de-surete-de-l-enfant-en-cas-de-suspicion-d-inceste-ou-de-maltraitance_8109893.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "Le Monde",
-          "take": "L'adoption s'est faite par une courte majorité tandis que l'exécutif a maintenu une position très réservée.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/16/fin-de-vie-la-loi-historique-sur-l-aide-a-mourir-adoptee-definitivement-au-cours-d-un-debat-teinte-d-emotion_6723752_3224.html"
+          "take": "Précise le score du vote (93 pour, 51 contre) et le soutien du ministre Darmanin à cet amendement écologiste.",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/16/protection-des-enfants-l-assemblee-nationale-vote-pour-rendre-imprescriptibles-les-crimes-commis-sur-les-mineurs_6723794_823448.html"
         },
         {
-          "outlet": "Le Figaro",
-          "take": "Le premier ministre et le président du Sénat contestent le texte devant le Conseil constitutionnel.",
-          "url": "https://www.politis.fr/api/proxy/?articleID=494859"
+          "outlet": "L'Humanité",
+          "take": "Soulève des doutes sur la constitutionnalité de cette extension de l'imprescriptibilité.",
+          "url": "https://www.humanite.fr/societe/droits-de-lenfant/lassemblee-nationale-vote-limprescriptibilite-des-crimes-commis-sur-les-mineurs-une-mesure-inconstitutionnelle"
+        },
+        {
+          "outlet": "Mediapart",
+          "take": "Insiste sur l'objectif symbolique de « terminer l'impunité » et sur le caractère « surprise » de ce vote soutenu par le ministre.",
+          "url": "https://www.mediapart.fr/journal/france/160726/parce-que-l-inceste-est-le-royaume-du-silence-la-fin-de-la-prescription-votee-l-assemblee-pour-les-crimes"
         }
       ],
       "id": 1,
@@ -68,25 +74,30 @@
     },
     {
       "themes": [
-        "Société"
+        "Sport"
       ],
-      "title": "Affaire Jubillar : des ossements découverts dans le Tarn",
-      "full": "Des ossements ont été retrouvés jeudi matin dans le Tarn, à l'emplacement indiqué par Cédric Jubillar, qui avait reconnu en juillet être à l'origine de la mort de son épouse Delphine, disparue fin 2020. Les gendarmes et techniciens en investigation criminelle procèdent à des analyses médico-légales pour confirmer qu'il s'agit de restes humains. Cédric Jubillar, extradit de sa cellule, s'était toujours déclaré innocent avant cet aveu.",
+      "title": "Tour de France 2026 : Merlier remporte la 12e étape à Chalon",
+      "full": "Tim Merlier a remporté au sprint la douzième étape du Tour de France 2026, de Magny-Cours à Chalon-sur-Saône, marquant sa troisième victoire d'étape. Le coureur belge de la Soudal Quick-Step a devancé Olav Kooij et Biniam Girmay sur ce parcours relativement plat de près de 180 kilomètres. En tête du classement général, le Slovène Tadej Pogacar conserve le maillot jaune avec une avance de 3 minutes 36 secondes sur Jonas Vingegaard.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Les enquêteurs approfondissent les fouilles pour déterminer l'origine des ossements découverts plus de quatre ans après la disparition.",
-          "url": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/affaire-delphine-jubillar-des-ossements-retrouves-lors-de-fouilles-en-presence-de-cedric-jubillar_8110184.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Souligne le travail collectif de l'équipe Soudal Quick-Step pour maîtriser les attaques adverses avant le sprint final.",
+          "url": "https://www.franceinfo.fr/tour-de-france/videos/video-tour-de-france-2026-le-resume-de-la-12e-etape-mouvementee-qui-a-mene-a-la-troisieme-victoire-de-tim-merlier_8110631.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "Le Monde",
-          "take": "L'aveu de Cédric Jubillar, formulé début juillet dans une lettre à son avocat, marque un revirement spectaculaire après des années de dénégation.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/16/cedric-jubillar-a-ete-entendu-mercredi-et-les-fouilles-ont-debute-dans-le-tarn-a-annonce-le-procureur-general_6723780_3224.html"
+          "outlet": "20 Minutes",
+          "take": "Met en avant la domination de Merlier, qualifié de « trop fort », lors du sprint décisif.",
+          "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4234776-20260716-direct-tour-france-2026-peut-etre-derniere-chance-sprinteurs-philipsen-droit-erreur-suivez-12e-etape?at_medium=display&at_campaign=149"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Relève la présence remarquée de Baptiste Veistroffer en échappée, coureur connu pour ses tentatives audacieuses.",
+          "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-a-chalon-sur-saone-baptiste-veistroffer-en-sanglier-fou-troisieme-victoire-pour-tim-merlier-20260716_3TT22V4QZZHVPKWPF4WHDP4TWU/"
         },
         {
           "outlet": "France 24",
-          "take": "Les ossements découverts pourraient être humains, selon les premières constatations des techniciens sur place.",
-          "url": "https://www.france24.com/fr/france/20260716-c%C3%A9dric-jubillar-avoue-devant-la-justice-des-ossements-retrouv%C3%A9s-dans-le-tarn"
+          "take": "Contextualise la victoire en rappelant l'état du classement général avec les écarts entre Pogacar, Vingegaard et Evenepoel.",
+          "url": "https://www.france24.com/fr/sports/20260716-tour-de-france-une-troisi%C3%A8me-victoire-pour-le-belge-tim-merlier-%C3%A0-chalon-sur-sa%C3%B4ne"
         }
       ],
       "id": 2,
@@ -94,31 +105,25 @@
     },
     {
       "themes": [
-        "Environnement",
         "France"
       ],
-      "title": "Incendies massifs : la France confrontée à un record depuis 1945",
-      "full": "La France fait face à une vague d'incendies sans précédent depuis la fin de la Seconde Guerre mondiale. Environ 35 000 hectares ont brûlé depuis le début de l'année, dépassant d'ores et déjà le total de 2025. En forêt de Fontainebleau, le sinistre a ravagé plus de 2 000 hectares en quatre jours, mobilisant près d'un millier de pompiers. Emmanuel Macron s'est rendu sur place jeudi pour affirmer l'engagement de l'État et annoncer un « guichet unique » de collecte de fonds via la Fondation du patrimoine pour la reconstruction du massif.",
+      "title": "Un adolescent de 15 ans condamné pour le meurtre d'une surveillante",
+      "full": "Le tribunal pour enfants de Chaumont a condamné jeudi 16 juillet un collégien à 18 ans de réclusion criminelle pour le meurtre de Mélanie Grapinet, assistante d'éducation de 31 ans. L'agression à l'arme blanche s'était déroulée le 10 juin 2025 devant le collège Françoise-Dolto à Nogent en Haute-Marne. L'adolescent, âgé de 14 ans au moment des faits, avait déclaré viser une surveillante au hasard. Cette condamnation correspond à la demande du parquet et s'inscrit dans la limite maximale applicable aux mineurs.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Macron prévient que « l'été va être dur » et que la saison des feux n'est pas terminée, affichant une tolérance zéro envers les responsables.",
-          "url": "https://www.liberation.fr/environnement/climat/en-direct-chaleur-17-departements-en-alerte-pour-des-risques-dorages-31-encore-en-vigilance-orange-canicule-20260716_3XHR7YGWE5HOFMMJOO7BZNQKDQ/"
+          "outlet": "France Info",
+          "take": "Identifie la victime par son nom et son âge, soulignant le cadre de son activité professionnelle.",
+          "url": "https://www.franceinfo.fr/faits-divers/meurtre-d-une-surveillante-par-un-collegien-en-haute-marne/meurtre-d-une-surveillante-a-nogent-un-collegien-de-15-ans-condamne-a-18-ans-de-reclusion-criminelle_8110745.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Le Monde",
-          "take": "La mise en place d'un dispositif de financement pour « rebâtir » la forêt de Fontainebleau figure parmi les mesures annoncées.",
-          "url": "https://www.lemonde.fr/planete/live/2026/07/16/en-direct-canicule-emmanuel-macron-est-arrive-dans-la-foret-de-fontainebleau-ravagee-par-des-incendies_6723261_3244.html"
+          "take": "Précise que la sentence respecte les réquisitions du ministère public et situe cette peine au sein du cadre légal des mineurs.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/16/meurtre-d-une-surveillante-en-haute-marne-en-2025-un-adolescent-de-15-ans-condamne-a-dix-huit-ans-de-prison_6723840_3224.html"
         },
         {
-          "outlet": "France 24",
-          "take": "La visite présidentielle intervient sur fond de controverse concernant les moyens alloués à la lutte contre les incendies, notamment les Canadairs.",
-          "url": "https://www.france24.com/fr/france/20260716-incendies-fontainebleau-emmanuel-macron-attendu-sur-le-front-des-flammes"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Une portion de 25 kilomètres de l'autoroute A6 reste fermée à la circulation en raison de l'incendie.",
-          "url": "https://www.20minutes.fr/societe/4234747-20260716-incendies-fontainebleau-conditions-securite-reunies-incertitudes-autour-reouverture-a6?at_medium=display&at_campaign=149"
+          "outlet": "L'Humanité",
+          "take": "Rapporte les déclarations du mineur selon lesquelles il visait une surveillante sans discernement particulier.",
+          "url": "https://www.humanite.fr/societe/colleges/meurtre-dune-surveillante-en-haute-marne-le-proces-du-collegien-souvre-a-huis-clos"
         }
       ],
       "id": 3,
@@ -126,41 +131,25 @@
     },
     {
       "themes": [
-        "Économie",
-        "Environnement"
+        "Monde"
       ],
-      "title": "Loi d'urgence agricole : un compromis qui maintient les pesticides contestés",
-      "full": "Les députés et sénateurs réunis en commission mixte paritaire le 16 juillet ont adopté un texte commun sur la loi d'urgence agricole, qui sera soumis aux votes des deux chambres la semaine suivante. Cet accord maintient plusieurs mesures controversées, notamment la réintroduction de deux pesticides (l'acétamipride et le flupyradifurone) précédemment invalidés par le Conseil constitutionnel, ainsi que des dispositions relatives à la gestion de l'eau. Ces choix ont suscité des critiques de l'Ordre national des médecins, qui dénonce des risques sanitaires liés aux résidus de pesticides.",
+      "title": "Trump réitère ses accusations de fraude électorale sans preuve",
+      "full": "Donald Trump a prononcé jeudi un discours à la nation dans lequel il a répété, sans éléments probants, que l'élection présidentielle de 2020 lui avait été volée. Il a annoncé la déclassification de documents qu'il affirme montrer des « vulnérabilités » du système électoral américain et des tentatives de piratage de données électorales par la Chine. Ces accusations interviennent à quelques mois des élections de mi-mandat américaines.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Met en avant l'aboutissement du compromis parlementaire et le processus législatif à venir.",
-          "url": "https://www.liberation.fr/environnement/agriculture/loi-durgence-agricole-accord-sur-une-version-tres-proche-de-celle-du-senat-20260716_OFF4X3IKGNDIRDSBCXZS2EQGVU/"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Rapporte les préoccupations de l'Ordre national des médecins concernant l'impact toxique des pesticides sur la santé publique.",
-          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/loi-d-urgence-agricole-on-a-affaire-a-des-gens-qui-s-arcboutent-sur-des-decisions-qui-vont-a-l-encontre-de-la-sante-publique-denonce-l-ordre-national-des-medecins_8109749.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Le Figaro Éco",
-          "take": "Souligne que le texte adopté conserve les mesures contestées sur l'eau et les pesticides.",
-          "url": "https://www.lefigaro.fr/actualite-france/loi-d-urgence-agricole-deputes-et-senateurs-parviennent-a-un-compromis-plusieurs-mesures-contestees-sur-l-eau-et-les-pesticides-maintenues-20260716"
+          "outlet": "France 24",
+          "take": "Trump dénonce des « bureaucrates véreux » et des failles électorales « choquantes » en menaçant de déclassifier des documents justificatifs.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260717-discours-nation-donald-trump-martele-ses-accusations-fraude-elections-systeme-electoral-etats-unis-ingerence-chine-presidentielle-midterms-declassification-preuves"
         },
         {
           "outlet": "Le Monde",
-          "take": "Précise le calendrier des votes définitifs prévus lundi et mardi pour l'adoption finale.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/16/loi-d-urgence-agricole-les-parlementaires-s-accordent-en-commission-mixte-paritaire-sur-ce-texte-aux-mesures-contestees-concernant-l-eau-et-les-pesticides_6723809_823448.html"
+          "take": "Le discours de vingt-cinq minutes répète l'affirmation de vol électoral et spécifiquement l'implication de la Chine dans le piratage de données.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/17/donald-trump-relance-les-accusations-de-fraude-electorale-et-vise-la-chine-avant-les-elections-de-mi-mandat_6724119_3210.html"
         },
         {
-          "outlet": "L'Humanité",
-          "take": "Dénonce un recul environnemental avec l'alignement des macronistes et du centre sur la position du Sénat et de la droite.",
-          "url": "https://www.humanite.fr/politique/loi-agricole/loi-durgence-agricole-main-dans-la-main-avec-la-fnsea-la-cmp-valide-le-retour-des-pesticides-interdits"
-        },
-        {
-          "outlet": "Reporterre",
-          "take": "Détaille la réintroduction des deux pesticides spécifiques via l'article 2 Quater, après un précédent rejet du Conseil constitutionnel.",
-          "url": "https://reporterre.net/Le-Parlement-reintroduit-les-pesticides-de-la-loi-Duplomb"
+          "outlet": "20 Minutes",
+          "take": "Trump cible simultanément le système électoral, la Chine et les médias dans une allocution consacrée à la sécurité des scrutins.",
+          "url": "https://www.20minutes.fr/monde/etats-unis/4234931-20260717-etats-unis-elections-piratage-chinois-essentiel-nouveau-discours-nation-donald-trump?at_medium=display&at_campaign=149"
         }
       ],
       "id": 4,
@@ -168,35 +157,25 @@
     },
     {
       "themes": [
-        "France"
+        "Société"
       ],
-      "title": "Elon Musk apporte son soutien public à Marine Le Pen",
-      "full": "Le milliardaire américain Elon Musk a déclaré mercredi que Marine Le Pen était le « dernier espoir de la France », marquant ainsi son premier soutien explicite à la candidate du Rassemblement national pour la présidentielle de 2027. Jusqu'à présent, Musk avait soutenu personnellement la candidate sans prendre position sur sa campagne électorale. Ce soutien public suscite des critiques, plusieurs responsables politiques dénonçant une ingérence étrangère dans la campagne française. Le Rassemblement national lui-même semble gêné par cet appui du milliardaire, connu pour ses interventions dans les affaires politiques européennes.",
+      "title": "Le maire de Chalonnes-sur-Loire condamné pour images pédopornographiques",
+      "full": "Laurent Froger, maire de Chalonnes-sur-Loire près d'Angers, a été condamné jeudi 16 juillet par le tribunal d'Angers pour détention et diffusion d'images pédopornographiques. Environ 4 500 fichiers ont été découverts sur ses appareils. Selon le procureur, les faits s'étendent de janvier 2024 jusqu'à son arrestation. Il a reçu une peine de trois ans de prison, dont six mois ferme.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Musk rompt avec sa réserve habituelle envers la politique française en apportant un soutien public direct à la candidate du RN.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/07/15/elon-musk-qualifie-marine-le-pen-de-dernier-espoir-de-la-france_6723610_4408996.html"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "Le soutien de Musk est dénoncé comme une ingérence étrangère, d'autant que le RN n'assume pas ses soutiens.",
-          "url": "https://www.humanite.fr/politique/elon-musk/ingerence-et-salut-nazi-pourquoi-le-soutien-delon-musk-a-marine-le-pen-pour-la-presidentielle-2027-embarrasse-le-rn"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Cet appui du milliardaire embarrasse le RN, qui tente de se distancer de Trump et de ses alliés pour crédibiliser sa candidature.",
-          "url": "https://www.liberation.fr/politique/elections/marine-le-pen-dernier-espoir-de-la-france-selon-elon-musk-un-soutien-facheux-pour-le-rn-20260716_UGLISN4YABDIFJGIEEG7NEFUMI/"
-        },
-        {
           "outlet": "France Info",
-          "take": "Plusieurs responsables politiques qualifient ce soutien d'ingérence dans la campagne électorale française.",
-          "url": "https://www.franceinfo.fr/politique/marine-le-pen/elon-musk-estime-que-marine-le-pen-est-le-dernier-espoir-de-la-france_8109773.html#xtor=RSS-3-[lestitres]"
+          "take": "Insiste sur la condamnation du magistrat pour détention et diffusion de matériel pédopornographique.",
+          "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/maine-et-loire/angers/le-maire-de-chalonnes-sur-loire-condamne-pour-detention-et-diffusion-d-images-pedopornographiques-3387652.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Précise le volume des fichiers découverts et la chronologie des faits de janvier 2024 jusqu'à l'arrestation.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/16/le-maire-d-une-commune-du-maine-et-loire-condamne-pour-detention-d-images-pedopornographiques_6723847_3224.html"
         },
         {
           "outlet": "20 Minutes",
-          "take": "Marine Le Pen se retrouve sous les projecteurs suite à ce soutien que le RN aurait préféré éviter.",
-          "url": "https://www.20minutes.fr/politique/4234730-20260716-presidentielle-2027-dernier-espoir-france-soutien-empoisonne-musk-marine-pen?at_medium=display&at_campaign=149"
+          "take": "Met l'accent sur la nature et la durée de la peine prononcée, six mois ferme sur trois ans.",
+          "url": "https://www.20minutes.fr/justice/4234911-20260716-maine-loire-maire-condamne-detention-images-pedopornographiques?at_medium=display&at_campaign=149"
         }
       ],
       "id": 5,
@@ -204,30 +183,25 @@
     },
     {
       "themes": [
-        "Société"
+        "Monde"
       ],
-      "title": "Jérôme Barella mis en examen pour le meurtre de Lyhanna",
-      "full": "Jérôme Barella, principal suspect dans la mort de la collégienne de 11 ans retrouvée décédée le 4 juin dans le Gers, a été mis en examen mercredi 15 juillet pour meurtre et viol sur mineure de moins de 15 ans. L'homme de 41 ans encourt la prison à perpétuité. Selon Le Monde, il n'avait jamais été interpellé ni convoqué malgré plusieurs plaintes et signalements antérieurs pour violences sexuelles sur d'autres mineures. Un rapport révélé jeudi pointe des défaillances dans l'enquête, notamment des délais excessifs et un manque de moyens.",
+      "title": "Washington limite les séjours des étudiants et journalistes étrangers",
+      "full": "Les États-Unis vont restreindre la durée des visas pour les ressortissants étrangers, selon de nouvelles règles censées entrer en vigueur dans deux mois, sous réserve de l'approbation du Congrès. Les étudiants étrangers ne pourront rester plus de quatre ans sur le territoire américain, contre une limite actuelle plus flexible. Les journalistes étrangers seront autorisés à séjourner 240 jours renouvelables, sauf ceux des médias chinois limités à 90 jours, réduisant de moitié la durée actuelle de cinq ans. Reporters sans frontières a dénoncé une « violation directe » de la liberté de la presse.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Le suspect a été présenté à un juge le mercredi matin, un mois et demi après le crime qui a ému le pays.",
-          "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/des-indices-graves-et-concordants-jerome-barella-mis-en-examen-pour-le-viol-et-le-meurtre-de-la-petite-lyhanna-a-t-il-avoue_8109401.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "France 24",
-          "take": "La mise en examen officialise les accusations graves retenues par le parquet d'Agen.",
-          "url": "https://www.france24.com/fr/france/20260715-affaire-lyhanna-j%C3%A9r%C3%B4me-barella-mis-en-examen-meurtre-viol-sur-mineure-moins-15-ans"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Une enquête révèle des défaillances institutionnelles antérieures dans la prise en charge d'accusations contre le suspect.",
-          "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-des-delais-manifestement-excessifs-et-un-manque-de-moyens-denquete-pointe-un-deuxieme-rapport-20260716_HZKNO2HZGRH3PFT3WW2OFO3UX4/"
+          "take": "Souligne que les règles s'appliqueront d'abord aux étudiants, dont le séjour sera plafonné à quatre ans.",
+          "url": "https://www.franceinfo.fr/monde/usa/les-etats-unis-vont-limiter-la-duree-des-sejours-des-journalistes-et-etudiants-etrangers_8110547.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Le Monde",
-          "take": "L'homme avait fait l'objet de plusieurs signalements pour violences sexuelles sans être inquiété auparavant.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/15/mort-de-lyhanna-jerome-barella-mis-en-examen-pour-meurtre-et-viol-sur-mineure-de-moins-de-15-ans_6723611_3224.html"
+          "take": "Distingue les deux catégories affectées avec précision : quatre ans pour les étudiants, 240 jours pour les journalistes.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/16/les-etats-unis-vont-limiter-la-duree-des-sejours-des-etudiants-et-des-journalistes-etrangers_6723825_3210.html"
+        },
+        {
+          "outlet": "France 24",
+          "take": "Détaille les restrictions spécifiques aux médias chinois et met en avant la réaction critique de Reporters sans frontières.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260716-etats-unis-veulent-limiter-duree-sejours-visas-journalistes-etudiants-%C3%A9trangers-medias-presse-rsf-liberte-politique-migratoire"
         }
       ],
       "id": 6,
@@ -235,26 +209,20 @@
     },
     {
       "themes": [
-        "Sport",
-        "Monde"
+        "Société"
       ],
-      "title": "L'Argentine élimine l'Angleterre et se qualifie pour la finale",
-      "full": "L'Argentine s'est imposée 2-1 face à l'Angleterre mercredi 15 juillet en demi-finale de la Coupe du monde 2026, aux États-Unis. Après avoir été menée au score, l'équipe de Lionel Messi a renversé la situation pour se qualifier pour la finale, qui l'opposera à l'Espagne dimanche à New York. À l'issue du match, des joueurs argentins ont déployé une banderole mentionnant les Malouines, ravivant le contentieux territorial entre les deux nations.",
+      "title": "Décès de la psychanalyste Claude Halmos à 80 ans",
+      "full": "Claude Halmos, psychanalyste spécialiste de l'enfance et figure médiatique française, est décédée le 9 juillet d'un arrêt cardiaque à l'âge de 80 ans. Régulière des médias, elle avait notamment participé à des émissions de radio et de télévision, où elle commentait les enjeux familiaux et éducatifs.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "L'Argentine a su revenir au score et dominer l'Angleterre en seconde période pour atteindre une nouvelle finale mondiale.",
-          "url": "https://www.liberation.fr/sports/football/coupe-du-monde-largentine-renverse-langleterre-2-1-pour-soffrir-une-nouvelle-finale-20260715_ZNGHPQNTMVAL7JIVCS3OQAQ4HE/"
+          "outlet": "20 Minutes",
+          "take": "Souligne son rôle de psychanalyste médiatique intervenant fréquemment dans les médias.",
+          "url": "https://www.20minutes.fr/sante/4234904-20260716-claude-halmos-psychanalyste-mediatique-specialiste-enfants-morte-80-ans?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Les joueurs argentins ont utilisé le match pour affirmer leurs revendications sur les Malouines en déployant une banderole après leur victoire.",
-          "url": "https://www.lemonde.fr/sport/article/2026/07/16/coupe-du-monde-2026-une-banderole-les-malouines-sont-argentines-deployee-par-des-joueurs-de-l-albiceleste_6723744_3242.html"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "En Angleterre, les médias expriment une profonde déception et remettent en question les choix tactiques du sélectionneur face à cette élimination.",
-          "url": "https://www.courrierinternational.com/article/coupe-du-monde-detruits-les-anglais-ruminent-leur-defaite-contre-l-argentine-et-cherchent-le-coupable_250351"
+          "outlet": "France Info",
+          "take": "Précise son statut d'ancienne chroniqueuse pour la station et met l'accent sur sa spécialisation en enfance.",
+          "url": "https://www.franceinfo.fr/economie/medias/la-psychanalyste-claude-halmos-ancienne-chroniqueuse-pour-franceinfo-est-morte-a-l-age-de-80-ans_8110748.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 7,
@@ -262,30 +230,20 @@
     },
     {
       "themes": [
-        "Monde"
+        "Économie"
       ],
-      "title": "Algérie : au moins 11 morts dans l'incendie d'un orphelinat",
-      "full": "Un incendie s'est déclaré dans la nuit du 16 au 17 juillet à la Fondation de l'enfance assistée, située à El-Mohammadia près d'Alger, faisant au moins 11 morts, dont plusieurs enfants, et 19 blessés selon la protection civile algérienne. Le feu était toujours en cours jeudi matin et les opérations d'extinction se poursuivaient. Le sinistre intervient alors que l'Algérie connaît une canicule exceptionnelle ayant provoqué environ 1 000 départs de feu en une semaine. Les causes de l'incendie restent inconnues et le bilan des victimes demeure provisoire.",
+      "title": "Budget 2027 : réductions généralisées sauf pour la Défense",
+      "full": "Le gouvernement a annoncé jeudi des enveloppes budgétaires 2027 réduites pour la plupart des ministères, afin de maîtriser le déficit public. Les secteurs régaliens (Défense, Justice) et l'écologie font exception et conservent leurs moyens ou les augmentent. Cette stratégie vise à offrir au prochain président « des marges de manœuvre » tout en consolidant les finances publiques.",
       "angles": [
         {
+          "outlet": "Le Figaro Éco",
+          "take": "Le gouvernement conçoit ce budget comme une mesure de « sauvegarde républicaine » qui diminue les ressources de presque tous les ministères pour réduire le déficit.",
+          "url": "https://www.lefigaro.fr/conjoncture/budget-2027-matignon-met-tous-les-ministeres-a-la-diete-sauf-les-armees-20260716"
+        },
+        {
           "outlet": "Libération",
-          "take": "Souligne le contexte climatique de canicule exceptionnelle dans lequel survient le sinistre.",
-          "url": "https://www.liberation.fr/environnement/climat/algerie-au-moins-11-morts-dans-lincendie-dun-orphelinat-20260716_YOYMUEK74FGAXFGHLROY37DMRE/"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Précise l'état des opérations d'extinction toujours en cours et le nombre de blessés.",
-          "url": "https://www.franceinfo.fr/monde/afrique/algerie/au-moins-11-morts-dans-l-incendie-d-un-orphelinat-en-algerie-pres-de-la-capitale_8109866.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Identifie l'établissement touché et rapporte que les causes du feu ne sont pas encore établies.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/07/16/en-algerie-au-moins-11-morts-dans-l-incendie-d-un-orphelinat_6723778_3212.html"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Contextualise l'événement dans la vague d'incendies massifs affectant le pays sous l'effet de la sécheresse et de la chaleur.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260716-en-alg%C3%A9rie-au-moins-11-morts-dont-plusieurs-enfants-dans-l-incendie-d-un-orphelinat"
+          "take": "Alors que la Défense et l'écologie sont préservées, les autres secteurs doivent contribuer à la maîtrise de la dette publique.",
+          "url": "https://www.liberation.fr/economie/budget-2027-face-au-deficit-les-ministeres-sommes-de-se-serrer-la-ceinture-20260716_FHKZ5QRHHVD25KUADMLJCXJFL4/"
         }
       ],
       "id": 8,
@@ -293,30 +251,21 @@
     },
     {
       "themes": [
-        "Économie"
+        "Économie",
+        "Tech & Sciences"
       ],
-      "title": "Leasing social 2026 : les demandes ouvertes pour les voitures électriques",
-      "full": "Le dispositif de location de véhicules électriques à tarif réduit ouvre ses candidatures pour une troisième année consécutive. Le Gouvernement prévoit 50 000 bénéficiaires parmi les ménages modestes, avec des locations à partir de 94 euros par mois. Environ 20 modèles de marques comme Renault, Citroën et Jeep sont éligibles, avec des critères d'accès assouplis et une aide d'État renforcée pour les véhicules fabriqués en Europe.",
+      "title": "Jensen Huang affirme que la croissance de l'IA n'en est qu'à ses débuts",
+      "full": "Le patron de Nvidia, en visite au Japon, a déclaré jeudi que le cycle technologique de l'intelligence artificielle n'en était qu'à ses débuts. Selon lui, les grands cycles technologiques durent entre 10 et 15 ans avant de plafonner, et celui de l'IA en est loin de la saturation. Jensen Huang a également annoncé plusieurs partenariats lors de son séjour.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Met l'accent sur les conditions avantageuses : tarif plancher, critères élargis et nouvelle gamme de modèles proposés.",
-          "url": "https://www.franceinfo.fr/economie/transports/leasing-social-2026-les-demandes-ouvertes-pour-la-location-de-vehicules-electriques_8109887.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
           "outlet": "Libération",
-          "take": "Souligne le soutien gouvernemental accru envers les véhicules de fabrication européenne.",
-          "url": "https://www.liberation.fr/economie/transports/leasing-social-la-troisieme-vague-de-locations-longue-duree-de-voitures-electriques-demarre-ce-jeudi-20260716_KNZYD3BEZZGGNBNKWS6FMCGQKM/"
+          "take": "Le patron de Nvidia a proclamé sa confiance inébranlable dans la croissance future de l'IA en visite au Japon.",
+          "url": "https://www.liberation.fr/economie/economie-numerique/au-japon-le-patron-de-nvidia-clame-sa-confiance-en-lia-et-remercie-son-sauveur-sega-20260716_GUU7LKNFSRAWLB2BDWS36HAODE/"
         },
         {
           "outlet": "Le Figaro Éco",
-          "take": "Détaille la variété de l'offre (citadines aux SUV) et la sélectivité du programme avec son plafond de 50 000 places.",
-          "url": "https://www.lefigaro.fr/conjoncture/citroen-renault-peugeot-voici-les-modeles-electriques-eligibles-au-leasing-social-20260707"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Identifie le public cible spécifiquement comme les ménages à revenus modestes.",
-          "url": "https://www.20minutes.fr/societe/4234733-20260716-voitures-electriques-leasing-social-retour-troisieme-fois-peut-beneficier?at_medium=display&at_campaign=149"
+          "take": "Jensen Huang insiste sur le fait que le cycle technologique de l'IA en est encore à son début, contrairement aux anticipations de saturation.",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/pour-le-patron-de-nvidia-jensen-huang-la-croissance-de-l-ia-n-en-est-qu-a-ses-debuts-20260716"
         }
       ],
       "id": 9,
@@ -324,26 +273,20 @@
     },
     {
       "themes": [
-        "Tech & Sciences",
         "Monde"
       ],
-      "title": "Maroc : révélations sur un arsenal de surveillance massif",
-      "full": "Un consortium de quinze médias, dont Le Monde et Radio France, a publié des enquêtes documentant l'utilisation généralisée par le Maroc de logiciels espions et d'outils de surveillance. Au-delà du logiciel Pegasus, le royaume dispose d'un arsenal incluant des mouchards installés par clé USB, des téléphones préchargés de logiciels malveillants et des caméras dissimulées. Selon le témoignage d'un ancien agent des services secrets marocains, ces technologies ont été déployées principalement contre des journalistes et des figures d'opposition. Ces révélations interviennent cinq ans après le premier scandale Pegasus et alors que le gouvernement français enquête depuis 2021 sur l'espionnage dont auraient été victimes des ministres français.",
+      "title": "Italie : 32 condamnations pour l'effondrement du pont Morandi",
+      "full": "Le tribunal de Gênes a rendu son verdict dans le procès de la catastrophe du viaduc Morandi, qui s'était effondré le 14 août 2018, causant la mort de 43 personnes. Trente-deux accusés ont été reconnus coupables et condamnés à des peines de prison ferme. L'ancien directeur général de la société gestionnaire du pont a reçu la peine la plus lourde avec douze ans de prison.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Au-delà de Pegasus, le Maroc a constitué un puissant arsenal répressif combinant plusieurs technologies de surveillance déployées contre des cibles politiques et médiatiques.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/07/16/les-revelations-d-un-lanceur-d-alerte-sur-la-frenesie-d-achat-d-outils-de-surveillance-par-le-maroc_6723734_4408996.html"
+          "outlet": "Courrier International",
+          "take": "Le verdict intervient huit ans après la tragédie et aboutit à un large nombre de condamnations.",
+          "url": "https://www.courrierinternational.com/article/justice-en-italie-le-proces-de-l-effondrement-du-pont-morandi-a-genes-accouche-de-nombreuses-condamnations_250448"
         },
         {
-          "outlet": "France Info",
-          "take": "L'enquête coordonnée par Forbidden Stories apporte de nouvelles preuves au moment où le gouvernement français poursuit ses investigations judiciaires sur l'espionnage franco-marocain.",
-          "url": "https://www.franceinfo.fr/monde/scandale-du-logiciel-espion-pegasus-de-nouvelles-preuves-contre-le-maroc_8110370.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Les nouvelles révélations montrent que la France elle-même avait envisagé l'acquisition de Pegasus pour des besoins de sécurité intérieure.",
-          "url": "https://www.liberation.fr/international/pegasus-des-enquetes-revelent-que-la-france-a-envisage-dacheter-le-logiciel-espion-israelien-20260716_UD64WXVOS5AZTJMKY2MJ4WY3GM/"
+          "outlet": "France 24",
+          "take": "Le tribunal a reconnu la culpabilité de tous les accusés pour leur rôle respectif dans l'effondrement.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260716-italie-douze-ans-de-prison-pour-le-principal-accus%C3%A9-dans-le-proc%C3%A8s-de-la-catastrophe-de-g%C3%AAnes"
         }
       ],
       "id": 10,
@@ -351,25 +294,20 @@
     },
     {
       "themes": [
-        "Monde"
+        "Culture"
       ],
-      "title": "Effondrement du pont de Gênes : 32 condamnés à la prison ferme",
-      "full": "Près de huit ans après l'effondrement du pont Morandi à Gênes qui avait tué 43 personnes en août 2018, un tribunal italien a condamné jeudi 32 accusés à des peines de prison ferme, certaines atteignant douze ans. Les condamnés incluent d'anciens dirigeants de la société d'autoroutes Autostrade per l'Italia (Aspi), gestionnaire du viaduc, reconnus coupables de négligence et d'homicide involontaire. Giovanni Castellucci, ancien patron de la société, a reçu la peine la plus lourde.",
+      "title": "Au Festival d'Avignon, tensions autour du spectacle vivant",
+      "full": "Le Festival d'Avignon accueille cette année des enjeux qui dépassent la seule création théâtrale. Tandis que la troupe flamande du tg STAN présente son « 1,2,3 Poquelin », un marathon autour de Molière qui peine à convaincre selon les critiques, des responsables syndicaux et politiques de gauche profitent de l'événement pour alerter sur les coupes budgétaires drastiques affectant le secteur du spectacle vivant. La CGT Spectacle et les Nouveaux États généraux de la culture évoquent la possibilité d'une grève.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Retient que plus de trois décennies après le drame, des peines allant jusqu'à 12 ans ont finalement été prononcées contre les responsables.",
-          "url": "https://www.liberation.fr/international/europe/effondrement-du-pont-de-genes-prison-ferme-pour-32-accuses-20260716_FGQC5J4R3BEUPMPBG2YPHZ7L3E/"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Souligne le rôle central d'Autostrade per l'Italia et de ses ex-cadres dans ce méga-procès qui a abouti à des condamnations fermes.",
-          "url": "https://www.france24.com/fr/europe/20260716-effondrement-viaduc-g%C3%AAnes-huit-ans-apr%C3%A8s-32-accus%C3%A9s-condamn%C3%A9s-prison-ferme-italie-justice"
-        },
-        {
           "outlet": "Le Monde",
-          "take": "Identifie Giovanni Castellucci comme le principal responsable reconnu coupable, distinguant sa peine de douze ans parmi les autres condamnations.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/16/pont-de-genes-huit-ans-apres-l-effondrement-du-viaduc-un-ex-dirigeant-de-la-societe-d-autoroutes-condamne-a-12-ans-de-prison_6723803_3210.html"
+          "take": "Le spectacle du collectif belge, malgré quelques réussites burlesques, souffre d'une mise en scène qui ne parvient pas à maîtriser le cadre monumental du lieu.",
+          "url": "https://www.lemonde.fr/culture/article/2026/07/16/festival-d-avignon-1-2-3-poquelin-un-spectacle-du-tg-stan-qui-se-perd-dans-la-carriere-de-boulbon_6723812_3246.html"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Des figures syndicales et politiques de gauche mobilisent le festival pour dénoncer le manque de financement structurel du secteur culturel.",
+          "url": "https://www.liberation.fr/culture/scenes/sophie-binet-clementine-autain-et-sarah-legrain-au-chevet-du-spectacle-vivant-au-festival-davignon-20260716_GF23X2TZ3BAQZPJQI2GZEUI3HI/"
         }
       ],
       "id": 11,
@@ -377,26 +315,20 @@
     },
     {
       "themes": [
-        "Monde",
-        "Environnement"
+        "Monde"
       ],
-      "title": "Un train de marchandises cerné par les flammes au Canada",
-      "full": "Un train de marchandises s'est retrouvé entouré par un mur de flammes en traversant une forêt du nord-ouest de l'Ontario. L'équipage a pu s'échapper indemne. Le Canada fait face à plusieurs centaines d'incendies de forêt sur son territoire, avec plus d'une centaine de foyers actifs en Ontario seul.",
+      "title": "Condamnations pour l'effondrement du pont de Gênes en 2018",
+      "full": "Près de huit ans après la catastrophe du pont Morandi en août 2018, qui avait tué 43 personnes, une cour italienne a prononcé des peines allant jusqu'à 12 ans de prison contre 32 accusés, dont d'anciens dirigeants de la société gestionnaire des autoroutes. Le viaduc s'était effondré lors d'un épisode de pluie intense, précipitant des dizaines de véhicules dans le vide.",
       "angles": [
         {
-          "outlet": "Courrier International",
-          "take": "L'équipage du train s'est trouvé pris au piège au cœur des flammes lors de la traversée d'une zone forestière sinistrée.",
-          "url": "https://www.courrierinternational.com/video/video-au-canada-un-train-circule-en-plein-feu-de-foret-on-est-cernes-par-les-flammes_250362"
+          "outlet": "France Info",
+          "take": "L'accent est mis sur les peines contre les anciens dirigeants de la société d'autoroutes et les circonstances météorologiques de l'effondrement.",
+          "url": "https://www.franceinfo.fr/monde/italie/effondrement-d-un-pont-a-genes/effondrement-du-pont-de-genes-jusqu-a-12-ans-de-prison-pour-les-ex-dirigeants-de-la-societe-d-autoroutes_8110373.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Malgré la situation critique, l'ensemble de l'équipage s'est tiré sain et sauf de cette mésaventure.",
-          "url": "https://www.20minutes.fr/arts-stars/insolite/4234809-20260716-canada-encercles-train-marchandises-cerne-flammes-equipage-sort-sain-sauf?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Une vidéo virale sur les réseaux sociaux documente cette scène spectaculaire du train entouré par les flammes.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260716-train-au-coeur-des-flammes-images-virales-incendies-canada"
+          "outlet": "Libération",
+          "take": "L'article souligne le nombre de condamnés et le bilan humain de la catastrophe, 43 morts.",
+          "url": "https://www.liberation.fr/international/europe/effondrement-du-pont-de-genes-prison-ferme-pour-32-accuses-20260716_FGQC5J4R3BEUPMPBG2YPHZ7L3E/"
         }
       ],
       "id": 12,
@@ -404,25 +336,21 @@
     },
     {
       "themes": [
-        "Économie"
+        "Économie",
+        "Tech & Sciences"
       ],
-      "title": "Rakuten France fermera à la fin de 2026",
-      "full": "Le site de vente en ligne Rakuten France, anciennement PriceMinister, cessera son activité à compter de la fin 2026. Confrontée au déclin de son activité et sans repreneur satisfaisant, la direction prévoit une période de transition pour permettre aux vendeurs et acheteurs de s'adapter. Rakuten avait racheté PriceMinister il y a seize ans, quand ce dernier était le troisième acteur du e-commerce français.",
+      "title": "L'UE impose à Google de partager ses données et d'ouvrir Android",
+      "full": "L'Union européenne a exigé que Google partage ses données de recherche et permette aux utilisateurs d'Android de choisir librement entre des assistants d'intelligence artificielle rivaux. Ces mesures visent à rééquilibrer la concurrence sur le marché numérique européen. Google dénonce des risques pour la vie privée et la sécurité des utilisateurs.",
       "angles": [
         {
+          "outlet": "France Info",
+          "take": "Google craint que ces obligations ne compromettent les garde-fous en matière de protection des données personnelles.",
+          "url": "https://www.franceinfo.fr/internet/google/l-union-europeenne-exige-que-google-partage-ses-donnees-de-recherche-et-ouvre-android-aux-intelligences-artificielles-rivales_8110865.html#xtor=RSS-3-[lestitres]"
+        },
+        {
           "outlet": "Le Monde",
-          "take": "La fermeture intervient après l'absence de repreneur, avec mise en place d'une transition pour les utilisateurs.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/16/le-site-de-vente-en-ligne-rakuten-france-anciennement-priceminister-fermera-fin-2026_6723806_3234.html"
-        },
-        {
-          "outlet": "Numerama",
-          "take": "Cet arrêt marque la fin d'une présence française de Rakuten qui avait fait de PriceMinister un concurrent majeur du secteur.",
-          "url": "https://www.numerama.com/tech/2296239-seize-ans-apres-le-rachat-de-priceminister-rakuten-annonce-la-fermeture-de-son-site-en-france.html"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "L'entreprise n'a reçu aucune offre de reprise jugée acceptable par sa direction.",
-          "url": "https://www.20minutes.fr/economie/4234801-20260716-vente-ligne-site-rakuten-france-fermera-fin-2026-faute-offre-reprise-satisfaisante?at_medium=display&at_campaign=149"
+          "take": "Les décisions marquent un tournant dans l'équilibre des forces du secteur numérique en Europe, en donnant davantage de pouvoir aux utilisateurs.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/07/16/bruxelles-exige-que-google-partage-ses-donnees-de-recherche-et-ouvre-android-aux-ia-rivales_6723808_4408996.html"
         }
       ],
       "id": 13,
@@ -430,26 +358,21 @@
     },
     {
       "themes": [
-        "Économie",
-        "Tech & Sciences"
+        "Monde",
+        "Environnement"
       ],
-      "title": "L'UE impose à Google de partager ses données et d'ouvrir Android",
-      "full": "La Commission européenne a ordonné à Google de partager ses données de recherche avec ses concurrents et d'ouvrir son système Android aux assistants d'intelligence artificielle rivaux. Cette décision, prise en vertu de la loi sur les marchés numériques (DMA), vise à prévenir le monopole du service Gemini sur les appareils de la firme. Google devra rendre publiques dix fonctionnalités de son système d'exploitation pour smartphones. Le géant américain conteste ces mesures, estimant qu'elles pourraient compromettre la sécurité et la protection des données de ses utilisateurs.",
+      "title": "Incendies massifs au Canada, fumée jusqu'aux États-Unis",
+      "full": "Plus d'une centaine de feux de forêt ravagent actuellement le Canada, notamment la province de l'Ontario. Un train de marchandises a été encerclé par les flammes, mais son équipage s'en est sorti indemne. La fumée émise par ces incendies s'étend jusqu'au nord-est des États-Unis, affectant plusieurs États frontaliers (Minnesota, Wisconsin, Michigan, Illinois) et dégradant la qualité de l'air pour des millions de personnes.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Les utilisateurs d'Android auront la possibilité de choisir librement leur assistant d'IA, redéfinissant l'équilibre concurrentiel du marché numérique en Europe.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/07/16/bruxelles-exige-que-google-partage-ses-donnees-de-recherche-et-ouvre-android-aux-ia-rivales_6723808_4408996.html"
+          "outlet": "20 Minutes",
+          "take": "Met l'accent sur l'incident spectaculaire d'un convoi ferroviaire cerné par les flammes et l'étendue massive des incendies au Canada.",
+          "url": "https://www.20minutes.fr/arts-stars/insolite/4234809-20260716-canada-encercles-train-marchandises-cerne-flammes-equipage-sort-sain-sauf?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "France 24",
-          "take": "Google conteste les mesures en invoquant des risques pour la sécurité informatique et la vie privée des millions d'Européens utilisant ses services.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260716-google-contraint-de-partager-ses-donn%C3%A9es-de-recherche-par-la-commission-europ%C3%A9enne"
-        },
-        {
-          "outlet": "Le Figaro Éco",
-          "take": "La publication de dix fonctionnalités d'Android constitue le cœur de l'obligation imposée pour empêcher la domination exclusive de Gemini.",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/dma-l-union-europeenne-impose-a-google-d-ouvrir-android-aux-ia-concurrentes-20260716"
+          "take": "Souligne les impacts transfrontaliers, avec la propagation de la fumée vers plusieurs États américains et ses conséquences sanitaires pour les populations.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260716-les-%C3%A9tats-unis-touch%C3%A9s-par-la-fum%C3%A9e-des-incendies-au-canada"
         }
       ],
       "id": 14,
@@ -457,21 +380,21 @@
     },
     {
       "themes": [
-        "Santé",
-        "Environnement"
+        "Économie",
+        "Tech & Sciences"
       ],
-      "title": "Deux médias collectent des témoignages sur les traumatismes liés aux canicules",
-      "full": "20 Minutes et France Info lancent un appel à témoignages auprès de leurs lecteurs pour explorer l'impact psychologique des vagues de chaleur extrême. Les deux rédactions cherchent à recueillir des récits de personnes ayant vécu les canicules récentes comme des traumatismes, avec des symptômes tels que l'isolement, les insomnies et les troubles du bien-être mental. Cet intérêt journalistique reflète la reconnaissance croissante des effets des fortes chaleurs sur la santé physique et mentale des populations.",
+      "title": "Rakuten France ferme son site de vente en ligne fin 2026",
+      "full": "La plateforme de commerce électronique Rakuten France, anciennement connue sous le nom de PriceMinister, cessera ses activités à la fin de 2026. Confrontée à un déclin d'activité et ne trouvant pas de repreneur, l'entreprise prévoit une période de transition permettant aux vendeurs et acheteurs de se préparer à cette fermeture. Seize ans après son acquisition par le géant japonais Rakuten, le site quitte discrètement un marché français du e-commerce où il avait longtemps figuré parmi les trois principaux acteurs.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Appel direct aux lecteurs pour explorer comment les canicules peuvent générer des traumatismes chez les individus.",
-          "url": "https://www.20minutes.fr/sante/4234832-20260716-vecu-canicules-comme-traumatismes-racontez?at_medium=display&at_campaign=149"
+          "outlet": "Le Monde",
+          "take": "Insiste sur l'absence de repreneur et le calendrier de fermeture progressif prévu en 2026.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/16/le-site-de-vente-en-ligne-rakuten-france-anciennement-priceminister-fermera-fin-2026_6723806_3234.html"
         },
         {
-          "outlet": "France Info",
-          "take": "Met l'accent sur les multiples symptômes associés à ces épisodes (chaleur, isolement, insomnies) et l'anticipation anxieuse des futures vagues de chaleur.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/appel-a-temoignages-chaleur-isolement-insomnies-vous-etes-traumatise-par-les-dernieres-canicules-et-apprehendez-les-suivantes-racontez-vous_8109023.html#xtor=RSS-3-[lestitres]"
+          "outlet": "Numerama",
+          "take": "Souligne le contraste entre le rôle historique de PriceMinister comme troisième acteur du e-commerce français et sa disparition discrète après seize ans d'exploitation par Rakuten.",
+          "url": "https://www.numerama.com/tech/2296239-seize-ans-apres-le-rachat-de-priceminister-rakuten-annonce-la-fermeture-de-son-site-en-france.html"
         }
       ],
       "id": 15,
@@ -479,25 +402,21 @@
     },
     {
       "themes": [
-        "Sport"
+        "Environnement",
+        "France"
       ],
-      "title": "Tour de France 2026 : échappée surprise à la 12e étape",
-      "full": "Lors de la douzième étape du Tour de France 2026, reliant Nevers à Chalon-sur-Saône sur environ 180 kilomètres, un groupe d'échappés a surpris les sprinteurs favoris en prenant les devants. Malgré un parcours plat propice au sprint massif, l'attaque menée par plusieurs coureurs baroudeurs a modifié l'équilibre attendu. Le peloton devra rattraper ses adversaires avant l'arrivée pour que la victoire revienne aux sprinteurs de pointe.",
+      "title": "La France adopte sa nouvelle stratégie climatique avec un objectif de moins 50 % d'émissions",
+      "full": "Le gouvernement a présenté mercredi 15 juillet sa troisième stratégie nationale bas-carbone, visant une réduction de 50 % des émissions de gaz à effet de serre d'ici à 2030. Cette feuille de route, qui s'inscrit dans un horizon 2050, repose sur des investissements massifs et une accélération de la décarbonation, notamment via le développement des pompes à chaleur et du transport ferroviaire. L'exécutif justifie ce cap ambitieux par la lutte contre le réchauffement climatique et par des enjeux de souveraineté énergétique.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "L'équipe Lidl-Trek a orchestré une attaque déterminante qui a déstabilisé les sprinteurs réputés favoris de cette étape.",
-          "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4234776-20260716-direct-tour-france-2026-peut-etre-derniere-chance-sprinteurs-philipsen-droit-erreur-suivez-12e-etape?at_medium=display&at_campaign=149"
+          "outlet": "Le Figaro Sciences",
+          "take": "Le gouvernement officialise un objectif ambitieux de baisse de 50 % des émissions d'ici 2030, qui impose une accélération majeure de la décarbonation.",
+          "url": "https://www.lefigaro.fr/sciences/en-pleine-vague-de-chaleur-la-france-publie-enfin-sa-nouvelle-feuille-de-route-climatique-20260715"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Le terrain plat et la distance d'environ 180 kilomètres semblaient initialement jouer en faveur d'un règlement au sprint.",
-          "url": "https://www.lemonde.fr/sport/article/2026/07/16/tour-de-france-2026-le-parcours-de-la-douzieme-etape-circuit-nevers-magny-cours-chalon-sur-saone_6723743_3242.html"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Malgré seulement trois difficultés mineures au programme, les baroudeurs ont pris l'initiative face aux sprinters comme Tim Merlier.",
-          "url": "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-les-baroudeurs-peuvent-ils-empecher-un-nouveau-sprint-massif-annonce-avec-tim-merlier-pour-favori-la-12e-etape-en-questions_8105051.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Libération",
+          "take": "La stratégie met l'accent sur des mesures concrètes comme les pompes à chaleur et le développement du train, articulées autour d'impératifs climatiques et de souveraineté.",
+          "url": "https://www.liberation.fr/environnement/climat/pompes-a-chaleur-developpement-du-train-la-france-se-dote-dune-nouvelle-feuille-de-route-climatique-20260716_KBPBRFPQ3VGD3LXSLE7C63XHFU/"
         }
       ],
       "id": 16,
@@ -505,25 +424,20 @@
     },
     {
       "themes": [
-        "Société"
+        "Santé"
       ],
-      "title": "Deux jeunes hommes en détention pour les incendies de Fontainebleau",
-      "full": "Deux hommes de 18 ans, dont un sapeur-pompier volontaire et un étudiant, ont été placés en détention provisoire après leur mise en examen. Ils sont soupçonnés d'avoir provoqué deux départs de feu qui ont ravagé près de 2 000 hectares de forêt de Fontainebleau. Les incendies ont mobilisé plus de 950 pompiers pour éviter les reprises de feu.",
+      "title": "L'OMS identifie des facteurs de risque modifiables pour la démence",
+      "full": "Selon un rapport de l'Organisation mondiale de la santé, près de 45 % des cas de démence pourraient être évités ou retardés en agissant sur des facteurs de risque modifiables. Le tabagisme, l'alcoolisme, l'hypertension, la sédentarité et l'exposition à la pollution de l'air figurent parmi les principaux éléments sur lesquels intervenir. L'OMS préconise également un dépistage et une prise en charge précoces, rappelant que la démence n'est pas une conséquence inévitable du vieillissement, même si elle demeure plus fréquente après 65 ans.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Deux suspects ont été mis en examen et incarcérés pour les deux foyers qui ont détruit environ 2 000 hectares.",
-          "url": "https://www.franceinfo.fr/faits-divers/incendie/deux-suspects-places-en-detention-provisoire-pour-les-incendies-a-fontainebleau_8109809.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
           "outlet": "Libération",
-          "take": "L'un des suspects, un pompier volontaire, aurait tenté de provoquer un nouvel incendie sur un parking à proximité de la forêt.",
-          "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-incendies-fin-de-lalerte-rouge-69-departements-en-vigilance-orange-20260715_35JNCH4XSZAWDJUFUFJXUT4NPY/"
+          "take": "Met l'accent sur les recommandations de l'OMS visant à favoriser le dépistage et la prise en charge précoces de la démence.",
+          "url": "https://www.liberation.fr/societe/sante/tabagisme-alcoolisme-hypertension-jusqua-45-des-risques-de-demence-peuvent-etre-evites-ou-retardes-selon-loms-20260716_4D2QUKDBVRGJXPAYZHLXH5BR64/"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Au moins trois personnes (deux ouvriers et un gérant de société de travaux) ont également été présentées à un juge en lien avec les feux.",
-          "url": "https://www.20minutes.fr/monde/4234731-20260716-direct-incendies-chaleur-pompiers-action-fontainebleau-drome-canicule-eloigne?at_medium=display&at_campaign=149"
+          "outlet": "Sciences et Avenir",
+          "take": "Énumère les facteurs de risque spécifiques, notamment le tabagisme, la sédentarité et la pollution de l'air, sur lesquels agir serait bénéfique.",
+          "url": "https://www.sciencesetavenir.fr/sante/jusqu-a-45-des-risques-de-demence-peuvent-etre-evites-ou-retardes-selon-l-oms_193803?xtor=RSS-16"
         }
       ],
       "id": 17,
@@ -531,20 +445,20 @@
     },
     {
       "themes": [
-        "Économie"
+        "Société"
       ],
-      "title": "La CRE propose une hausse de 2,5 % des tarifs électriques",
-      "full": "La Commission de régulation de l'énergie (CRE) recommande une augmentation de 2,5 % des tarifs réglementés de l'électricité à compter du 1er août. Cette hausse représenterait environ 26 euros TTC supplémentaires par an pour un foyer moyen. La décision finale appartient au ministère des Finances, qui suit généralement les propositions du régulateur.",
+      "title": "Le tribunal administratif annule l'annulation d'un colloque sur la Palestine",
+      "full": "Le tribunal administratif de Paris a jugé mercredi que le Collège de France avait commis une erreur en annulant un colloque sur la Palestine. Les magistrats ont estimé que la décision d'annulation était « entachée d'une erreur d'appréciation » et que la menace à l'ordre public invoquée par l'institution n'était pas caractérisée. Des universitaires et intervenants ayant contesté cette annulation sont ainsi donnés gagnants.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "La CRE chiffre l'impact net de la hausse sur les factures annuelles des ménages.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/16/electricite-le-regulateur-de-l-energie-propose-une-hausse-de-2-5-des-tarifs-reglementes-au-1-aout_6723817_3234.html"
+          "outlet": "Libération",
+          "take": "Le tribunal juge que le Collège de France n'a pas justifié sa crainte d'une menace à l'ordre public pour annuler le colloque.",
+          "url": "https://www.liberation.fr/idees-et-debats/colloque-sur-la-palestine-annule-la-justice-donne-tort-au-college-de-france-20260716_RM7Q4ZKCDVEWPPHGTKYSBO3EKU/"
         },
         {
-          "outlet": "Le Figaro Éco",
-          "take": "La recommandation du régulateur ne devient officielle qu'après validation de Bercy.",
-          "url": "https://www.lefigaro.fr/conso/electricite-vers-une-hausse-de-2-5-des-tarifs-reglementes-de-vente-au-1er-aout-20260716"
+          "outlet": "Mediapart",
+          "take": "Les requérants ont vu leurs arguments reconnus fondés par la justice, qui invalide la décision de l'établissement.",
+          "url": "https://www.mediapart.fr/journal/culture-et-idees/160726/la-justice-donne-tort-au-college-de-france-qui-avait-annule-un-colloque-sur-la-palestine"
         }
       ],
       "id": 18,
@@ -552,20 +466,20 @@
     },
     {
       "themes": [
-        "France"
+        "Économie"
       ],
-      "title": "Polémique sur l'annulation de Canadair entre Attal et Mélenchon",
-      "full": "Jean-Luc Mélenchon accuse Gabriel Attal d'avoir annulé la commande de deux Canadair lorsqu'il était Premier ministre en 2024. Ces avions-citernes sont essentiels à la lutte contre les incendies et feux de forêt en France. Gabriel Attal a réagi à cette accusation, tandis que des vérifications questionnent le bien-fondé de cette critique.",
+      "title": "Uber rachète Delivery Hero pour 12,7 milliards d'euros",
+      "full": "Uber a accepté de racheter le groupe allemand de livraison de repas Delivery Hero pour 12,7 milliards d'euros. Le géant américain, qui détenait déjà 36 % du capital de son concurrent, étend ainsi sa présence dans une centaine de pays. Uber s'est engagé à maintenir l'indépendance managériale de Delivery Hero et à protéger ses salariés pour une durée de trois ans.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "La controverse porte sur une supposée annulation de commande de Canadair décidée par le gouvernement Attal en 2024.",
-          "url": "https://www.franceinfo.fr/faits-divers/incendie/polemique-sur-les-canadair-gabriel-attal-repond-a-jean-luc-melenchon_8110388.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "Souligne que Delivery Hero sera gérée de façon autonome malgré le rachat, avec des garanties pour ses employés.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/16/delivery-hero-l-offre-de-rachat-d-uber-pour-12-7-milliards-d-euros-acceptee_6723760_3234.html"
         },
         {
-          "outlet": "Le Figaro Politique",
-          "take": "Un article de fact-checking examine si l'accusation de Mélenchon contre Attal sur l'annulation des Canadair est fondée.",
-          "url": "https://www.lefigaro.fr/politique/les-canadair-il-s-en-fout-le-gouvernement-attal-a-t-il-vraiment-annule-une-commande-de-bombardiers-d-eau-20260716"
+          "outlet": "Le Figaro Éco",
+          "take": "Insiste sur l'expansion géographique qu'Uber réalise en consolidant sa position dans le secteur de la livraison de repas.",
+          "url": "https://www.lefigaro.fr/societes/uber-ouvre-sa-bourse-pour-avaler-l-allemand-delivery-hero-pour-13-milliards-d-euros-20260716"
         }
       ],
       "id": 19,
@@ -573,20 +487,20 @@
     },
     {
       "themes": [
-        "Sport"
+        "France"
       ],
-      "title": "Le Royaume-Uni demande une enquête à la Fifa après une banderole politique argentine",
-      "full": "Le gouvernement britannique a saisi la Fifa, jeudi, après le déploiement d'une banderole « Les Malouines sont argentines » par des joueurs argentins lors de la demi-finale contre l'Angleterre en Coupe du monde. Londres dénonce une violation du règlement de la Fifa, qui interdit les manifestations politiques dans les stades lors de ses tournois.",
+      "title": "Renaissance assigné en justice par Attal pour usage du terme par le RN",
+      "full": "Gabriel Attal, président du parti Renaissance, a annoncé des poursuites judiciaires contre le Rassemblement national pour avoir utilisé le mot « renaissance » dans ses affiches de campagne. Le parti présidentiel dénonce une « contrefaçon de marque » et un « parasitisme ». Le RN conteste cette appropriation, affirmant que le terme n'est pas associé uniquement à Gabriel Attal.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Le gouvernement britannique a officiellement saisi la Fifa pour enquêter sur le non-respect de ses règles concernant les manifestations politiques en stade.",
-          "url": "https://www.franceinfo.fr/coupe-du-monde/londres-demande-une-enquete-a-propos-de-la-banderole-brandie-par-des-joueurs-argentins-sur-les-malouines-apres-la-demi-finale-angleterre-argentine_8110349.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Laurent Jacobelli, représentant du RN, soutient que « personne au monde » n'associe le mot « renaissance » à Gabriel Attal plutôt qu'à son sens courant.",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/le-rn-assigne-pour-contrefacon-sur-l-utilisation-du-mot-renaissance-personne-au-monde-ne-l-associe-a-gabriel-attal-plaide-laurent-jacobelli_8109953.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Libération",
-          "take": "Le déploiement de la banderole par les joueurs argentins après leur victoire provoque la colère de Londres, qui demande à l'instance internationale d'intervenir.",
-          "url": "https://www.liberation.fr/societe/familles/les-malouines-sont-argentines-le-gouvernement-britannique-demande-une-enquete-20260716_7QKZE6MWXNEULNGLNLWI3Z7VSM/"
+          "outlet": "Le Figaro Politique",
+          "take": "Gabriel Attal qualifie l'utilisation du terme par la candidate nationaliste d'appropriation indue et de parasitisme à l'égard de sa marque politique.",
+          "url": "https://www.lefigaro.fr/politique/une-appropriation-indue-attal-annonce-des-poursuites-contre-le-pen-autour-du-slogan-renaissance-20260715"
         }
       ],
       "id": 20,
@@ -594,20 +508,21 @@
     },
     {
       "themes": [
-        "Monde"
+        "Santé",
+        "Tech & Sciences"
       ],
-      "title": "Le Pentagone introduit des tests de testostérone pour les militaires",
-      "full": "Pete Hegseth, ministre de la Défense américain, a annoncé que tous les membres des forces armées âgés de 30 ans et plus subiront désormais un test annuel mesurant leur taux de testostérone. En cas de déficit détecté, les militaires se verront proposer un traitement hormonal substitutif. Le ministre justifie cette mesure par la volonté de vérifier que les soldats « disposent des bases biologiques nécessaires pour tenir au combat ».",
+      "title": "Doctolib lancera un projet IA sur les données de santé sans consentement préalable",
+      "full": "Doctolib s'apprête à lancer en août 2026 un projet de recherche en intelligence artificielle fondé sur les données personnelles et médicales de ses utilisateurs, sans demander leur consentement préalable. L'objectif affiché est d'optimiser les parcours de soin et d'améliorer la qualité des soins, tout en répondant à un enjeu de souveraineté technologique selon la plateforme. Cette approche soulève des questions sur le traitement des données sensibles et les droits des patients.",
       "angles": [
         {
-          "outlet": "L'Humanité",
-          "take": "Souligne le caractère viriliste de la décision et son orientation idéologique autour de la notion de « mâles alpha ».",
-          "url": "https://www.humanite.fr/societe/etats-unis/aux-etats-unis-le-ministre-de-la-defense-reclame-une-armee-de-males-alpha-dopes-a-la-testosterone"
+          "outlet": "Libération",
+          "take": "Doctolib défend ce projet comme une nécessité pour la qualité des soins et l'indépendance technologique du pays, malgré l'absence de demande de consentement préalable.",
+          "url": "https://www.liberation.fr/checknews/doctolib-pourquoi-la-plateforme-veut-utiliser-vos-donnees-de-sante-pour-un-projet-de-recherche-avec-lia-20260716_TCGZ4NZTQNCCVCDKCUMTZMC2JY/"
         },
         {
-          "outlet": "Courrier International",
-          "take": "Précise que les tests concerneront tous les militaires sans distinction, y compris les femmes, et détaille le dispositif de traitement hormonal proposé.",
-          "url": "https://www.courrierinternational.com/article/hormones-le-ministre-de-la-defense-americain-veut-tester-le-taux-de-testosterone-des-militaires-femmes-comprises_250349"
+          "outlet": "France Info",
+          "take": "Le projet porte sur l'optimisation des parcours de soin par l'IA et concernera l'ensemble des données personnelles et médicales des utilisateurs de la plateforme.",
+          "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/que-sait-on-du-projet-de-recherche-de-doctolib-qui-va-donner-nos-informations-personnelles-a-une-intelligence-artificielle_8063834.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 21,
@@ -615,20 +530,15 @@
     },
     {
       "themes": [
-        "France"
+        "Insolite"
       ],
-      "title": "Gabriel Attal assigne le RN pour utilisation du mot « Renaissance »",
-      "full": "Le parti Renaissance de Gabriel Attal a engagé des poursuites judiciaires contre le Rassemblement national, l'accusant de contrefaçon de marque et de parasitisme. Le RN utiliserait le terme « renaissance » dans ses affiches de campagne pour exploiter la notoriété du parti présidentiel. Laurent Jacobelli, porte-parole du RN, conteste cette appropriation, arguant que personne n'associe le mot « renaissance » à Gabriel Attal.",
+      "title": "La mine d'or du Hollandais perdu intrigue toujours l'Amérique",
+      "full": "La légende de la mine d'or du Hollandais perdu, située en Arizona, fascine les États-Unis depuis le XIXe siècle. Cette histoire, jalonnée de cartes secrètes, de décès énigmatiques et d'expéditions fatales, demeure l'une des plus célèbres énigmes de l'Ouest américain et continue de susciter recherches et spéculations.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Jacobelli défend le RN en soutenant que le terme « renaissance » n'est pas lié à la notoriété personnelle d'Attal.",
-          "url": "https://www.franceinfo.fr/elections/presidentielle/le-rn-assigne-pour-contrefacon-sur-l-utilisation-du-mot-renaissance-personne-au-monde-ne-l-associe-a-gabriel-attal-plaide-laurent-jacobelli_8109953.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Le Figaro Politique",
-          "take": "Attal qualifie l'utilisation du mot par Le Pen d'« appropriation indue » et de tentative de parasitisme du label présidentiel.",
-          "url": "https://www.lefigaro.fr/politique/une-appropriation-indue-attal-annonce-des-poursuites-contre-le-pen-autour-du-slogan-renaissance-20260715"
+          "outlet": "Slate",
+          "take": "Le récit met en avant l'accumulation d'éléments dramatiques (meurtres, tragédies) qui ont consolidé le statut mythique de cette mine au fil des générations.",
+          "url": "https://www.slate.fr/monde/mystere-mine-or-perdue-arizona-etats-unis-carte-tresor-mort"
         }
       ],
       "id": 22,
@@ -636,21 +546,15 @@
     },
     {
       "themes": [
-        "Santé",
-        "Tech & Sciences"
+        "Insolite"
       ],
-      "title": "Doctolib va utiliser les données de santé pour un projet d'IA",
-      "full": "La plateforme de réservation médicale Doctolib s'apprête à lancer en août 2026 un projet de recherche fondé sur l'intelligence artificielle, portant sur l'optimisation des parcours de soin. Ce projet exploitera les données personnelles et médicales de ses utilisateurs sans demander de consentement préalable. Doctolib justifie cette initiative par des enjeux de qualité des soins et de souveraineté technologique.",
+      "title": "Une mystérieuse sphère de pierre découverte en Azerbaïdjan",
+      "full": "Des archéologues ont mis au jour en Azerbaïdjan une étrange pierre sphérique dont l'origine et l'utilité demeurent inexpliquées. L'objet, dont le mode de fabrication reste énigmatique, pourrait offrir des indices précieux sur la préhistoire et la période néolithique de la région.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Doctolib lance un projet d'IA utilisant les données de santé sans consentement préalable, mais défend l'initiative comme répondant à des questions de qualité des soins et de souveraineté.",
-          "url": "https://www.liberation.fr/checknews/doctolib-pourquoi-la-plateforme-veut-utiliser-vos-donnees-de-sante-pour-un-projet-de-recherche-avec-lia-20260716_TCGZ4NZTQNCCVCDKCUMTZMC2JY/"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Le projet de recherche, prévu pour août 2026, vise à optimiser les parcours de soin grâce à l'intelligence artificielle en s'appuyant sur les données personnelles des utilisateurs.",
-          "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/que-sait-on-du-projet-de-recherche-de-doctolib-qui-va-donner-nos-informations-personnelles-a-une-intelligence-artificielle_8063834.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Slate",
+          "take": "La découverte soulève des questions fondamentales sur les savoir-faire et l'organisation sociale des populations préhistoriques.",
+          "url": "https://www.slate.fr/monde/archeologues-pierre-spherique-prehistoire-neolithique-azerbaidjan-fouilles"
         }
       ],
       "id": 23,
@@ -658,191 +562,20 @@
     },
     {
       "themes": [
-        "Société"
+        "Insolite",
+        "Santé"
       ],
-      "title": "Pédocriminalité : 85 000 procédures en cours après audit massif",
-      "full": "Un audit ordonné par le ministre de la Justice sur les plaintes pour violences sexuelles contre mineurs a révélé l'ampleur des défaillances du système judiciaire. Au total, 85 000 procédures sont actuellement en cours, dont 15 000 plaintes supplémentaires découvertes lors de cette revue des stocks réalisée avant mi-juillet. Depuis début juin, 675 personnes ont été incarcérées dans le cadre de cette action de rattrapage, déclenchée après les failles mises au jour dans l'affaire Lyhanna.",
+      "title": "Le mystérieux «hum» enfin étudié scientifiquement",
+      "full": "Des chercheurs se penchent sur le «hum», un bourdonnement persistant entendu par une minorité de personnes à travers le monde. Ce phénomène sonore reste énigmatique pour la science, qui peine à en identifier l'origine. L'étude pourrait aider à déterminer si ce bruit provient d'une source externe ou d'une particularité physiologique chez ceux qui le perçoivent.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Le gouvernement met en avant les chiffres des incarcérations et l'ampleur inédite de l'audit réalisé en quelques semaines.",
-          "url": "https://www.franceinfo.fr/societe/pedocriminalite/pedrocriminalite-675-personnes-incarcerees-depuis-debut-juin_8110037.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Mediapart",
-          "take": "L'enquête souligne que cet audit révèle surtout un problème systémique des défaillances judiciaires, au-delà des félicitations officielles.",
-          "url": "https://www.mediapart.fr/journal/france/160726/violences-sexuelles-faites-aux-enfants-85-000-procedures-en-cours-et-toujours-plus-d-enfumage"
+          "outlet": "Slate",
+          "take": "Le «hum» est perçu de manière sporadique par une petite partie seulement de la population mondiale, ce qui complique l'investigation scientifique.",
+          "url": "https://www.slate.fr/sciences/hum-bourdonnement-bruit-son-audition-acouphene-vibration"
         }
       ],
       "id": 24,
       "priority": 25
-    },
-    {
-      "themes": [
-        "France",
-        "Société"
-      ],
-      "title": "Le CESE approuve une loi intégrale contre les violences sexistes",
-      "full": "Le Conseil économique, social et environnemental (CESE) a rendu un avis favorable, jeudi 16 juillet, sur la proposition de loi intégrale contre les violences sexistes et sexuelles faites aux femmes et aux enfants, saisie en juin par la présidente de l'Assemblée nationale Yaël Braun-Pivet. Toutefois, l'institution réclame le renforcement des mesures de prévention et l'allocation de moyens financiers et humains supplémentaires pour que cette législation soit véritablement opérante.",
-      "angles": [
-        {
-          "outlet": "Le Monde",
-          "take": "Le CESE insiste sur la nécessité d'allouer des ressources pour améliorer les politiques publiques de lutte contre ces violences.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/16/le-cese-favorable-a-une-loi-integrale-contre-les-violences-sexistes-et-sexuelles-mais-souhaite-plus-de-mesures-de-prevention_6723737_3224.html"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "L'organisation met l'accent sur l'alerte concernant le manque de moyens financiers et humains pour mettre en œuvre cette loi.",
-          "url": "https://www.humanite.fr/politique/affaire-lyhanna/violences-sexistes-et-sexuelles-le-cese-soutient-la-loi-integrale-mais-alerte-sur-le-manque-de-moyens"
-        }
-      ],
-      "id": 25,
-      "priority": 26
-    },
-    {
-      "themes": [
-        "Société"
-      ],
-      "title": "Le président du Comité d'éthique défend la loi sur l'aide à mourir",
-      "full": "Jean-François Delfraissy, président du Comité consultatif national d'éthique, a salué la loi votée mercredi 15 juillet sur l'aide à mourir, dont l'avis de son institution en 2022 a préparé le terrain. Selon lui, ce texte reconnaît la capacité du patient à décider pour lui-même et dépasse une approche purement médicale de la fin de vie. Delfraissy souligne que la loi cherche à concilier deux valeurs éthiques majeures : la liberté individuelle de choisir sa mort et la solidarité envers les plus vulnérables, en se situant sur une « ligne de crête fragile ».",
-      "angles": [
-        {
-          "outlet": "Libération",
-          "take": "La loi représente un changement de perspective en reconnaissant l'autonomie décisionnelle du patient au-delà de la seule dimension médicale.",
-          "url": "https://www.liberation.fr/politique/jean-francois-delfraissy-sur-laide-a-mourir-on-reconnait-au-patient-une-capacite-a-decider-pour-lui-meme-20260716_4BB4IKATCFGYDG2BATWEMZMYGU/"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Le texte tente de répondre aux attentes citoyennes avec prudence en équilibrant deux principes éthiques fondamentalement en tension.",
-          "url": "https://www.franceinfo.fr/societe/euthanasie/la-loi-sur-l-aide-a-mourir-essaie-de-repondre-aux-questionnements-des-citoyens-avec-prudence-salue-le-pr-delfraissy_8109929.html#xtor=RSS-3-%5Bgeneral%5D"
-        }
-      ],
-      "id": 26,
-      "priority": 27
-    },
-    {
-      "themes": [
-        "Environnement"
-      ],
-      "title": "Des feux de forêt plongent Toronto dans une pollution record",
-      "full": "Les incendies qui ravagent l'Ontario au Canada ont transformé Toronto en ville la plus polluée du monde, avec un taux de particules fines exceptionnellement élevé dans l'atmosphère. Les autorités appellent les habitants à rester confinés chez eux pour éviter d'inhaler cet air devenu irrespirable. La fumée s'étend également jusqu'à l'est des États-Unis.",
-      "angles": [
-        {
-          "outlet": "L'Humanité",
-          "take": "Toronto a brièvement détenu le statut peu enviable de ville la plus polluée au monde en raison des incendies en cours.",
-          "url": "https://www.humanite.fr/environnement/canada/canada-des-feux-de-foret-ravagent-lontario-lair-devient-irresponsable-a-toronto"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Les feux de forêt du nord-ouest de l'Ontario projettent leur fumée bien au-delà des frontières canadiennes, affectant également l'est des États-Unis.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/16/au-canada-toronto-suffoque-sous-la-fumee-des-feux-de-foret-et-enregistre-l-une-des-pires-qualites-de-l-air-au-monde_6723623_3210.html"
-        }
-      ],
-      "id": 27,
-      "priority": 28
-    },
-    {
-      "themes": [
-        "Culture"
-      ],
-      "title": "Christopher Nolan adapte L'Odyssée d'Homère au cinéma",
-      "full": "Christopher Nolan sort mercredi 15 juillet « L'Odyssée », adaptation cinématographique du texte classique d'Homère qui raconte le retour d'Ulysse vers Ithaque. Le film s'inscrit dans une longue tradition de réinterprétations de l'œuvre antique par les artistes, qui l'adaptent à leur style propre et à leur époque plutôt que de chercher une fidélité stricte au texte original.",
-      "angles": [
-        {
-          "outlet": "France Info",
-          "take": "Le nouveau long-métrage de Nolan offre une adaptation ambitieuse du mythe homérique avec un casting d'envergure.",
-          "url": "https://www.franceinfo.fr/culture/cinema/avec-l-odyssee-christopher-nolan-adapte-le-texte-d-homere-en-fresque-hollywoodienne_8109074.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Libération",
-          "take": "L'adaptation de Nolan poursuit une tradition d'interprétations libres de l'Odyssée, où chaque créateur y impose sa vision plutôt que sa reproduction fidèle.",
-          "url": "https://www.liberation.fr/idees-et-debats/tribunes/peu-importe-la-fidelite-a-homere-de-lodyssee-de-christopher-nolan-20260716_XOX4HGBLAJCGXKOGHO7GUAHYSU/"
-        }
-      ],
-      "id": 28,
-      "priority": 29
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "La légendaire mine d'or du Hollandais perdu fascine toujours",
-      "full": "Depuis le XIXe siècle, la mine d'or du Hollandais perdu, supposément localisée en Arizona, alimente l'imaginaire collectif américain. Cette légende, nourrie par des cartes énigmatiques, des décès mystérieux et des expéditions qui ont mal tourné, demeure l'un des récits les plus célèbres de la conquête de l'Ouest. Malgré les innombrables recherches, le trésor n'a jamais été retrouvé.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "Slate souligne comment cette quête mêle éléments historiques réels et mythologie, combinant cartes secrètes et drames humains pour former une légende persistante.",
-          "url": "https://www.slate.fr/monde/mystere-mine-or-perdue-arizona-etats-unis-carte-tresor-mort"
-        }
-      ],
-      "id": 29,
-      "priority": 30
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Une mystérieuse sphère de pierre découverte en Azerbaïdjan",
-      "full": "Des archéologues ont mis au jour en Azerbaïdjan une pierre sphérique dont l'origine et la fonction demeurent énigmatiques. L'objet, dont le mode de fabrication reste inconnu, pourrait éclairer des aspects jusque-là méconnus de la préhistoire.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "La découverte intéresse les chercheurs pour ce qu'elle pourrait révéler sur les civilisations néolithiques et les techniques anciennes de travail de la pierre.",
-          "url": "https://www.slate.fr/monde/archeologues-pierre-spherique-prehistoire-neolithique-azerbaidjan-fouilles"
-        }
-      ],
-      "id": 30,
-      "priority": 31
-    },
-    {
-      "themes": [
-        "Insolite",
-        "Santé"
-      ],
-      "title": "Le mystérieux « hum » intrigue les chercheurs",
-      "full": "Un bourdonnement persistant, perceptible dans plusieurs régions du monde, n'affecte qu'une minorité de la population. Bien que rapporté par certains depuis des décennies, ce phénomène sonore reste mal compris de la science. Une nouvelle étude tente d'élucider l'origine de ce bruit énigmatique, que les chercheurs peinent à expliquer et à distinguer avec certitude des acouphènes ou d'autres phénomènes auditifs.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "Le « hum » est entendu de façon sporadique à travers le globe par une faible minorité, et la communauté scientifique cherche encore à déterminer son origine précise.",
-          "url": "https://www.slate.fr/sciences/hum-bourdonnement-bruit-son-audition-acouphene-vibration"
-        }
-      ],
-      "id": 31,
-      "priority": 32
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Le dernier navire de Shackleton retrouvé sous la glace canadienne",
-      "full": "L'épave du Quest, navire de l'explorateur polaire Ernest Shackleton coulé en 1962 au large du Canada, a été photographiée en haute résolution pour la première fois. Le navire, immergé sous les glaces depuis plus de soixante ans, s'est transformé en refuge pour la vie marine selon les chercheurs qui ont documenté le site.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "Les premiers clichés haute résolution de l'épave révèlent qu'elle accueille désormais un écosystème marin développé.",
-          "url": "https://www.slate.fr/culture/epave-quest-navire-exploration-sir-ernest-shackleton-exploration-antarctique"
-        }
-      ],
-      "id": 32,
-      "priority": 33
-    },
-    {
-      "themes": [
-        "Insolite",
-        "Santé"
-      ],
-      "title": "Une « Coupe du monde des laits » pour déterminer le meilleur",
-      "full": "Slate a organisé une comparaison entre différents types de laits (entier, écrémé, alternatives végétales) afin d'évaluer leurs impacts respectifs sur la santé. L'exercice révèle que le lait entier, longtemps considéré comme nocif pour le système cardiovasculaire, bénéficie d'une réévaluation scientifique plus favorable. Les recommandations nutritionnelles concernant les produits laitiers et leurs substituts continuent d'évoluer au fil des découvertes.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "Le lait entier sort de son mauvaise réputation grâce à des études plus nuancées, tandis que la science réexamine les bénéfices comparatifs des produits laitiers et des alternatives végétales.",
-          "url": "https://www.slate.fr/boire-manger/lait-entier-ecreme-vegetal-meilleur-sante-proteine-cardiovasculaire-bien-etre-animal"
-        }
-      ],
-      "id": 33,
-      "priority": 34
     }
   ]
 }
