@@ -1,30 +1,40 @@
 {
-  "generated_at": "2026-07-17T06:09:38.355910+00:00",
-  "date_label": "Vendredi 17 juillet",
-  "count": 28,
+  "generated_at": "2026-07-18T04:05:42.637365+00:00",
+  "date_label": "Samedi 18 juillet",
+  "count": 25,
   "breves": [
     {
       "themes": [
-        "France",
+        "Monde",
         "Environnement"
       ],
-      "title": "Incendies de Fontainebleau : plus de 2 000 hectares ravagés",
-      "full": "La forêt de Fontainebleau connaît les pires incendies depuis la fin de la Seconde Guerre mondiale, selon Emmanuel Macron qui s'est rendu jeudi sur place auprès des 950 pompiers mobilisés. Depuis dimanche, les flammes ont parcouru plus de 2 000 hectares du massif forestier de Seine-et-Marne, avec encore de nombreuses reprises. Trois personnes ont été présentées à un juge en vue de leur mise en examen. Le Président a annoncé un « guichet unique » pour collecter des fonds destinés à la reconstruction de la forêt par l'intermédiaire de la Fondation du patrimoine.",
+      "title": "Incendies canadiens : la fumée menace la finale de la Coupe du monde",
+      "full": "Près de 900 feux de forêt ravagent actuellement le Canada, dont plus de 100 restent incontrôlables. Ces incendies ont brûlé plus de 2,7 millions d'hectares et génèrent des fumées massives qui se propagent jusqu'au nord-est des États-Unis, affectant des millions d'Américains. La finale de la Coupe du monde entre l'Espagne et l'Argentine doit se disputera dimanche au MetLife Stadium, à proximité de New York, l'une des villes actuellement les plus polluées au monde en raison de cette pollution atmosphérique.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Les pompiers font face à des reprises de flammes persistantes malgré la fixation du feu, tandis que trois ouvriers et un gérant sont poursuivis.",
-          "url": "https://www.franceinfo.fr/faits-divers/incendie/incendies-de-fontainebleau-pourquoi-les-reprises-sont-encore-nombreuses-dans-la-foret-bien-que-le-feu-soit-fixe_8110841.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Met en avant l'incertitude sur l'ampleur de la pollution lors du match, interrogeant l'évolution de la situation d'ici dimanche.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/la-finale-de-la-coupe-du-monde-menacee-par-le-nuage-de-pollution-qui-envahit-le-nord-est-des-etats-unis_8112260.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Libération",
-          "take": "Le Conseil d'État annule le décret encadrant le plan « un milliard d'arbres » de Macron, critiqué par les associations environnementales.",
-          "url": "https://www.liberation.fr/environnement/plan-un-milliard-darbres-le-conseil-detat-retoque-le-projet-decrie-demmanuel-macron-20260716_GKYFEAR2AJAW5MMUNRKYOKND3U/"
+          "outlet": "Reporterre",
+          "take": "Détaille l'ampleur des feux avec chiffres précis et souligne que l'Ontario est particulièrement touchée, les fumées ayant atteint Toronto.",
+          "url": "https://reporterre.net/Canada-pres-de-900-incendies-en-cours-et-2-7-millions-d-hectares-brules"
+        },
+        {
+          "outlet": "Courrier International",
+          "take": "Précise que New York figure actuellement parmi les villes les plus polluées au monde et que le MetLife Stadium se trouve à proximité.",
+          "url": "https://www.courrierinternational.com/article/environnement-les-incendies-au-canada-vont-ils-perturber-la-finale-de-la-coupe-du-monde_250872"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Rapporte la réaction politique de Donald Trump, qui accuse le Canada d'être responsable de la pollution affectant le nord-est américain.",
+          "url": "https://www.20minutes.fr/monde/etats-unis/4235100-20260717-etats-unis-trump-prend-canada-fumees-incendies-geants?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "Le Monde",
-          "take": "Avec 11 000 feux et 35 000 hectares brûlés en France à la mi-juillet, la surface incendiée a déjà dépassé le total de l'année précédente.",
-          "url": "https://www.lemonde.fr/planete/live/2026/07/16/en-direct-canicule-emmanuel-macron-est-arrive-dans-la-foret-de-fontainebleau-ravagee-par-des-incendies_6723261_3244.html"
+          "take": "Indique que la qualité de l'air s'est améliorée depuis jeudi mais reste jugée dangereuse pour les personnes à risque.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/18/la-fumee-des-incendies-au-canada-se-repand-dans-le-nord-est-des-etats-unis-inquietudes-avant-la-finale-de-la-coupe-du-monde_6724242_3210.html"
         }
       ],
       "id": 0,
@@ -32,35 +42,25 @@
     },
     {
       "themes": [
-        "Monde"
+        "Économie"
       ],
-      "title": "Trump accuse la Chine de piratage électoral massif",
-      "full": "Donald Trump a prononcé jeudi un discours à la nation consacré au système électoral américain, accusant Pékin d'avoir mené « la plus grosse opération de piratage de données électorales de l'histoire », prétendument responsable de l'acquisition de 220 millions de fichiers d'électeurs. Le président a également relancé sans preuve ses accusations selon lesquelles l'élection de 2020 lui aurait été « volée », annonçant le déclassification de documents pour appuyer ses affirmations. Ces déclarations interviennent à trois mois des élections de mi-mandat prévues en novembre.",
+      "title": "La France bloque complètement l'accès à Polymarket",
+      "full": "L'Autorité nationale des jeux (ANJ) a annoncé vendredi le blocage total du site américain de paris sur l'actualité Polymarket en France. Après une interdiction des transactions financières en novembre 2024, c'est désormais l'accès à l'ensemble du site qui est prohibé. L'ANJ justifie cette mesure en estimant que la page d'accueil, qui affiche en temps réel les cotes des événements, constitue une promotion d'une activité de jeux d'argent non autorisée sur le territoire français.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Les chiffres avancés par Trump sur le piratage chinois sont suspects et invérifiables, et visent principalement à promouvoir une loi que le Congrès refuse de voter.",
-          "url": "https://www.liberation.fr/international/amerique/lors-de-son-discours-a-la-nation-le-president-donald-trump-revisite-de-pseudo-scandales-electoraux-20260717_WRHO2D7YNFFYLMT45HMJOEFSTU/"
+          "outlet": "Le Figaro Éco",
+          "take": "L'ANJ considère que l'affichage dynamique des cotes sur la page d'accueil s'apparente à de la publicité pour une activité illégale.",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/dans-le-viseur-de-l-autorite-nationale-de-jeux-le-site-de-paris-sur-l-actualite-polymarket-bloque-en-france-20260717"
         },
         {
-          "outlet": "France 24",
-          "take": "Trump s'appuie sur des documents déclassifiés pour documenter ses accusations contre Pékin concernant les données d'électeurs depuis 2020.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260717-donald-trump-accuse-la-chine-du-plus-gros-piratage-de-donn%C3%A9es-%C3%A9lectorales-de-l-histoire"
-        },
-        {
-          "outlet": "Le Figaro International",
-          "take": "Le président exhorte ses partisans à soutenir sa réforme du système électoral en réaffirmant les contestations sur le scrutin de 2020.",
-          "url": "https://www.lefigaro.fr/international/trump-lance-une-vaste-offensive-pour-changer-les-regles-electorales-aux-etats-unis-20260717"
+          "outlet": "20 Minutes",
+          "take": "Le blocage complète une première interdiction de transactions financières datant de 2024.",
+          "url": "https://www.20minutes.fr/societe/4235049-20260717-france-bloque-completement-polymarket-site-americain-paris-actualite?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "Le Monde",
-          "take": "Trump renouvelle ses accusations de fraude électorale sans apporter de preuve, trois mois avant les midterms.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/17/donald-trump-relance-les-accusations-de-fraude-electorale-et-vise-la-chine-avant-les-elections-de-mi-mandat_6724119_3210.html"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "Le discours laisse planer l'intention du républicain de contester les résultats des élections de novembre si elles ne lui sont pas favorables.",
-          "url": "https://www.courrierinternational.com/article/etats-unis-trump-seme-le-doute-sur-la-fiabilite-du-systeme-electoral-americain-a-trois-mois-des-midterms_250572"
+          "take": "L'ANJ souligne que le site, aux audiences élevées, fait la promotion d'une offre illégale de jeux d'argent et de hasard.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/07/17/polymarket-la-france-bloque-l-acces-sur-son-territoire-au-site-de-paris-sur-l-actualite_6724196_4408997.html"
         }
       ],
       "id": 1,
@@ -70,33 +70,28 @@
       "themes": [
         "Monde"
       ],
-      "title": "Escalade militaire au Moyen-Orient entre Iran et États-Unis",
-      "full": "Les États-Unis ont bombardé des infrastructures iraniennes pour la sixième nuit consécutive vendredi 17 juillet. En réponse, l'Iran a lancé des drones et des missiles contre le Koweït, Bahreïn et le Qatar, qui affirment tous avoir intercepté ces projectiles. L'armée jordanienne a également rapporté l'interception de trois missiles iraniens. Les Gardiens de la révolution iraniens ont également annoncé avoir visé une base militaire américaine en Syrie.",
+      "title": "Andy Burnham nommé chef du Labour et futur Premier ministre britannique",
+      "full": "Andy Burnham, ancien maire du Grand Manchester, a été désigné vendredi 17 juillet à la tête du Parti travailliste britannique. Seul candidat à la succession de Keir Starmer, qui a annoncé son départ le 22 juin, il a obtenu le soutien d'environ 95 % des députés travaillistes. Il prendra ses fonctions de Premier ministre lundi 20 juillet. Burnham, présenté comme une figure populaire et charismatique, s'est engagé à mener une politique orientée à gauche, notamment sur le coût de la vie, le logement et les services publics.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Insiste sur la continuité des frappes américaines et le ciblage de plusieurs pays du Golfe par des drones iraniens.",
-          "url": "https://www.20minutes.fr/monde/etats-unis/4234929-20260717-direct-guerre-moyen-orient-etats-unis-frappent-infrastructures-iran-koweit-qatar-cibles-drones?at_medium=display&at_campaign=149"
+          "outlet": "France Info",
+          "take": "Burnham est l'une des personnalités politiques les plus populaires du Royaume-Uni et s'impose comme seul candidat au poste de chef du parti.",
+          "url": "https://www.franceinfo.fr/monde/royaume-uni/royaume-uni-andy-burnham-nomme-chef-du-parti-travailliste-britannique-avant-de-devenir-premier-ministre_8111681.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Souligne que les trois pays du Golfe ont réussi à intercepter les projectiles lancés par Téhéran.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-l-iran-riposte-aux-frappes-americaines-en-attaquant-le-koweit-bahrein-et-le-qatar_6722873_3210.html"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Élargit le périmètre des attaques iraniennes à la Jordanie et précise le nombre de missiles interceptés.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260716-en-direct-infrastructures-transports-touchees-frappes-americaines-iran-moyen-orient-pays-golfe-bahrein-koweit-jordanie-liban-qatar-donald-trump-etats-unis-israel"
+          "outlet": "Le Figaro International",
+          "take": "Son accession au pouvoir représente une revanche pour le « roi du Nord » qui promet une politique plus à gauche que son prédécesseur.",
+          "url": "https://www.lefigaro.fr/international/andy-burnham-le-futur-premier-ministre-britannique-ou-la-revanche-du-roi-du-nord-20260717"
         },
         {
           "outlet": "Libération",
-          "take": "Évoque le risque d'implication des Houthis, alliés iraniens, et leur menace de bloquer le détroit de Bab el-Mandeb.",
-          "url": "https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-les-houthis-allies-de-liran-bientot-dans-lequation-20260716_PF3IMQOAQBEDDLC53B2IAI6L54/"
+          "take": "Burnham est présenté comme un espoir pour contrer la montée en puissance du parti d'extrême droite Reform UK, actuellement en tête des sondages.",
+          "url": "https://www.liberation.fr/international/europe/royaume-uni-andy-burnham-charismatique-et-populaire-roi-du-nord-en-passe-de-devenir-chef-du-labour-et-premier-ministre-20260717_QK25UHUTRVD53OJBTVKFJTWYLY/"
         },
         {
-          "outlet": "France Info",
-          "take": "Rapporte l'attaque iranienne contre une base militaire en Syrie suite aux ripostes contre les pays du Golfe.",
-          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-iran-dit-avoir-frappe-une-base-militaire-en-syrie-apres-sa-riposte-contre-plusieurs-pays-du-golfe_8111222.html#xtor=RSS-3-[lestitres]"
+          "outlet": "Mediapart",
+          "take": "Bien que prometteur, Burnham pourrait être limité par une prudence gestionnaire qui tempérerait ses ambitions progressistes.",
+          "url": "https://www.mediapart.fr/journal/international/170726/royaume-uni-andy-burnham-succede-keir-starmer-sans-garantie-de-faire-mieux"
         }
       ],
       "id": 2,
@@ -104,40 +99,30 @@
     },
     {
       "themes": [
-        "Monde"
+        "Société"
       ],
-      "title": "Ukraine : remaniement gouvernemental et départ du ministre de la Défense",
-      "full": "Volodymyr Zelensky a annoncé un vaste remaniement du gouvernement ukrainien, désignant Serhiy Koretskiy, ancien patron du groupe énergétique Naftogaz, comme nouveau premier ministre. Le président justifie ce choix par la nécessité de préparer le pays aux attaques russes attendues en hiver sur les infrastructures critiques. Le remaniement suscite une vive contestation : Mykhaïlo Fedorov, ministre de la Défense sortant très populaire pour avoir modernisé l'armée avec les drones, a annoncé son départ après un désaccord avec le commandant en chef. Des manifestations ont éclaté dans plusieurs villes ukrainiennes pour protester contre son départ.",
+      "title": "Procès Athanor : condamnations jusqu'à 30 ans pour l'officine criminelle",
+      "full": "La cour d'assises spéciale de Paris a rendu son verdict vendredi dans l'affaire Athanor, une officine criminelle implantée au sein d'une loge maçonnique des Hauts-de-Seine. Dix-sept accusés ont été reconnus coupables de crimes allant de l'intimidation violente au meurtre, commandités pour des raisons financières. Les deux principaux dirigeants ont reçu des peines de 25 et 30 ans de réclusion, tandis que cinq accusés ont été acquittés. Ce procès, qui a duré plus de trois mois, a révélé le fonctionnement d'une structure criminelle organisée au sein de la franc-maçonnerie.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "Zelensky souligne que la nomination de Koretskiy, ancien dirigeant de Naftogaz, répond aux enjeux énergétiques et aux menaces russes hivernales sur les infrastructures.",
-          "url": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-justifie-le-choix-de-son-nouveau-premier-ministre-par-sa-volonte-de-preparer-au-mieux-l-hiver_6722853_3210.html"
+          "take": "Les deux têtes pensantes du réseau ont été condamnées aux peines maximales de 25 et 30 ans de prison après plus de trois mois d'audience.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/18/au-proces-athanor-les-tetes-pensantes-du-reseau-criminel-condamnees-a-25-ans-et-30-ans-de-prison_6724308_3224.html"
         },
         {
-          "outlet": "France Info",
-          "take": "Le président appelle à l'unité après une confrontation entre le ministre de la Défense sortant et le commandant en chef.",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-volodymyr-zelensky-appelle-a-l-unite-apres-une-passe-d-armes-entre-le-ministre-de-la-defense-sortant-et-le-commandant-en-chef-des-armees_8110262.html#xtor=RSS-3-[lestitres]"
+          "outlet": "20 Minutes",
+          "take": "Le procès s'est conclu par de lourdes condamnations contre les principaux dirigeants, mais plusieurs accusés ont été acquittés.",
+          "url": "https://www.20minutes.fr/justice/4235099-20260717-proces-athanor-entre-25-30-ans-reclusion-francs-macons-tete-officine-criminelle?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "L'Humanité",
-          "take": "Fedorov, nommé en janvier 2026, bénéficiait d'une forte popularité pour avoir privilégié les drones afin de réduire les pertes humaines.",
-          "url": "https://www.humanite.fr/monde/guerre-en-ukraine/guerre-en-ukraine-apres-le-remaniement-surprise-de-volodymyr-zelensky-les-ukrainiens-manifestent-contre-le-depart-du-ministre-de-la-defense"
+          "outlet": "Mediapart",
+          "take": "Dix-sept personnes ont été reconnues coupables avec des peines variant de six mois avec sursis à trente ans de prison ferme, tandis que l'accusation n'a obtenu que des acquittements partiels.",
+          "url": "https://www.mediapart.fr/journal/france/170726/proces-de-la-loge-athanor-de-lourdes-peines-de-prison-et-un-camouflet-pour-l-accusation"
         },
         {
           "outlet": "Libération",
-          "take": "Fedorov, technicien passionné de modernisation militaire, quitte ses fonctions dans ce bouleversement gouvernemental.",
-          "url": "https://www.liberation.fr/international/europe/remaniement-en-ukraine-mykhailo-fedorov-ladieu-aux-armes-dun-technophile-20260716_VKV4GBQDR5CIFLOM2ISPQPDE5E/"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "Koretskiy est désigné pour aider le pays à affronter un hiver particulièrement difficile, tandis que des manifestants réclament le maintien de Fedorov.",
-          "url": "https://www.courrierinternational.com/article/politique-serhiy-koretskiy-un-nouveau-premier-ministre-charge-de-preparer-l-ukraine-a-un-hiver-difficile_250449"
-        },
-        {
-          "outlet": "Le Figaro",
-          "take": "Fedorov explique son départ par un désaccord stratégique avec le général Syrsky, chef d'état-major, évoquant l'incompatibilité des approches militaires.",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-volodymyr-zelensky-appelle-a-l-unite-apres-une-passe-d-armes-entre-le-ministre-de-la-defense-sortant-et-le-commandant-en-chef-des-armees_8110262.html#xtor=RSS-3-[lestitres]"
+          "take": "L'officine implantait des personnalités issues du renseignement, de la franc-maçonnerie et du secteur du sport automobile.",
+          "url": "https://www.liberation.fr/societe/police-justice/dgse-francs-macons-et-sport-automobile-verdict-ce-vendredi-pour-les-barbouzes-dathanor-20260717_JJ3PVJZDGRBUTGTW5KFICTFOXY/"
         }
       ],
       "id": 3,
@@ -145,25 +130,25 @@
     },
     {
       "themes": [
-        "Économie"
+        "Monde"
       ],
-      "title": "Électricité : hausse de 2,5 % des tarifs au 1er août",
-      "full": "Le gouvernement a validé jeudi une augmentation de 2,5 % des tarifs réglementés de l'électricité à compter du 1er août, suivant ainsi la recommandation de la Commission de régulation de l'énergie. Cette hausse représentera environ 26 euros supplémentaires par an pour les foyers concernés, qui sont au nombre de 19 millions. Le gouvernement souligne que l'électricité demeure plus compétitive que le gaz, dont les prix ont augmenté en raison de tensions géopolitiques au Moyen-Orient.",
+      "title": "Ukraine : la démission du ministre de la Défense crée une crise politique",
+      "full": "Mykhaïlo Fedorov a quitté son poste de ministre de la Défense ukrainien après un conflit ouvert avec le commandant en chef des armées Oleksandr Syrsky. Le président Volodymyr Zelensky a tranché en faveur du général, provoquant une contestation importante au sein du pays et des inquiétudes auprès de l'Union européenne. Cette démission révèle les difficultés structurelles de l'armée ukrainienne à se moderniser et à dépasser son héritage soviétique.",
       "angles": [
         {
+          "outlet": "France Info",
+          "take": "Le départ de Fedorov résulte d'un affrontement stratégique direct avec le chef militaire, décision du président largement contestée en interne.",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/comment-le-depart-du-ministre-de-la-defense-mykhailo-fedorov-a-plonge-l-ukraine-dans-une-crise-politique-et-strategique-pour-volodymyr-zelensky_8111618.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "outlet": "Le Figaro International",
+          "take": "Cette crise ministérielle expose les blocages structurels profonds de l'institution militaire ukrainienne face aux nécessaires réformes.",
+          "url": "https://www.lefigaro.fr/international/un-systeme-herite-de-l-ere-sovietique-en-ukraine-la-difficile-reforme-du-ministere-de-la-defense-20260717"
+        },
+        {
           "outlet": "20 Minutes",
-          "take": "Met l'accent sur le suivi gouvernemental de l'avis du régulateur et le coût annuel pour un foyer.",
-          "url": "https://www.20minutes.fr/economie/4234905-20260716-electricite-proposition-regulateur-gouvernement-valide-augmentation-tarifs-2-5-1er-aout?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Souligne le nombre de clients impactés et replace la hausse dans un contexte comparatif avec le gaz naturel.",
-          "url": "https://www.liberation.fr/economie/conso/electricite-les-tarifs-reglementes-vont-augmenter-de-25-le-1er-aout-20260716_SCO75WLSOBCZHK4UKZ3J46BSOU/"
-        },
-        {
-          "outlet": "Le Figaro Éco",
-          "take": "Insiste sur le processus de calcul et de recommandation de l'autorité de régulation de l'énergie.",
-          "url": "https://www.lefigaro.fr/conso/electricite-vers-une-hausse-de-2-5-des-tarifs-reglementes-de-vente-au-1er-aout-20260716"
+          "take": "Le remaniement suscite des préoccupations au niveau européen quant à la stabilité politique de Kiev.",
+          "url": "https://www.20minutes.fr/monde/ukraine/4235010-20260717-guerre-ukraine-remaniement-zelensky-inquiete-ue-russie-met-detracteurs?at_medium=display&at_campaign=149"
         }
       ],
       "id": 4,
@@ -171,30 +156,35 @@
     },
     {
       "themes": [
-        "France"
+        "Monde"
       ],
-      "title": "Haute-Marne : un adolescent condamné pour le meurtre d'une surveillante",
-      "full": "Un adolescent de 15 ans a été condamné jeudi 16 juillet par le tribunal pour enfants de Chaumont à 18 ans de réclusion criminelle pour le meurtre de Mélanie Grapinet, assistante d'éducation de 31 ans. La victime avait été mortellement blessée à l'arme blanche le 10 juin 2025 devant le collège Françoise-Dolto de Nogent en Haute-Marne. Le procès s'est déroulé à huis clos. L'accusé, âgé de 14 ans au moment des faits, avait déclaré vouloir s'en prendre à une surveillante « n'importe laquelle ».",
+      "title": "Trump accuse la Chine de fraude électorale sans preuves",
+      "full": "Donald Trump a prononcé jeudi un discours dénonçant des « piratages » électoraux chinois lors de l'élection présidentielle de 2020, affirmations qu'il n'a étayées d'aucune preuve. Le président américain a également déclassifié des documents qui contredisent ses propres accusations. Il a parallèlement exprimé son intention de contester les résultats des élections de mi-mandat de novembre et appelé à une réforme électorale majeure avant ce scrutin critique pour les Républicains.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Le tribunal a rendu son jugement au deuxième jour du procès, reprenant la demande du ministère public.",
-          "url": "https://www.liberation.fr/societe/police-justice/assassinat-dune-surveillante-dans-un-college-de-haute-marne-en-2025-le-parquet-reclame-18-ans-de-prison-20260716_HIHFYLV45NG2PPUJN4S7GQVFIY/"
+          "outlet": "L'Humanité",
+          "take": "Les documents déclassifiés par Trump lui-même infirment ses allégations de fraude, révélant une stratégie destinée à consolider sa base électorale.",
+          "url": "https://www.humanite.fr/monde/chine/accusations-contre-la-chine-complot-venezuelien-les-mensonges-de-trump-sur-la-fraude-electorale-dementis-par-les-documents-quil-a-lui-meme-declassifies"
         },
         {
-          "outlet": "France Info",
-          "take": "Mélanie Grapinet a été blessée mortellement à l'arme blanche directement devant son lieu de travail.",
-          "url": "https://www.franceinfo.fr/faits-divers/meurtre-d-une-surveillante-par-un-collegien-en-haute-marne/meurtre-d-une-surveillante-a-nogent-un-collegien-de-15-ans-condamne-a-18-ans-de-reclusion-criminelle_8110745.html#xtor=RSS-3-[lestitres]"
+          "outlet": "France 24",
+          "take": "Trump met en avant des « vulnérabilités » présumées du système électoral américain et laisse entrevoir une contestation possible des résultats de novembre.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260717-donald-trump-accuse-la-chine-du-plus-grand-piratage-%C3%A9lectoral"
+        },
+        {
+          "outlet": "Le Figaro",
+          "take": "Le président répète sans preuve que l'élection 2020 lui a été volée et prétend disposer de documents prouvant le piratage chinois.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/17/donald-trump-livre-un-discours-aux-accents-complotistes-sur-la-vulnerabilite-du-systeme-electoral-americain-et-accuse-la-chine-d-ingerence_6724151_3210.html"
         },
         {
           "outlet": "Le Monde",
-          "take": "La peine prononcée correspond à celle requise par le parquet, alors que la loi permettait d'aller jusqu'à 20 ans pour un mineur.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/16/meurtre-d-une-surveillante-en-haute-marne-en-2025-un-adolescent-de-15-ans-condamne-a-dix-huit-ans-de-prison_6723840_3224.html"
+          "take": "Trump invoque un « État profond » censé avoir caché des preuves d'ingérence étrangère et affiche son intention de réorganiser le système électoral.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/17/donald-trump-livre-un-discours-aux-accents-complotistes-sur-la-vulnerabilite-du-systeme-electoral-americain-et-accuse-la-chine-d-ingerence_6724151_3210.html"
         },
         {
-          "outlet": "L'Humanité",
-          "take": "L'adolescent avait affirmé viser « n'importe quelle » surveillante, révélant une intention indiscriminée.",
-          "url": "https://www.humanite.fr/societe/colleges/meurtre-dune-surveillante-en-haute-marne-le-proces-du-collegien-souvre-a-huis-clos"
+          "outlet": "Libération",
+          "take": "La réforme électorale exigée par Trump avant novembre s'inscrit dans une offensive républicaine pour restreindre l'accès au vote, au-delà de la rhétorique antifraud.",
+          "url": "https://www.liberation.fr/international/amerique/save-america-act-la-loi-electorale-qui-obsede-donald-trump-20260717_3KUZJBKICZEKTCGXBGETZYB5I4/"
         }
       ],
       "id": 5,
@@ -202,31 +192,30 @@
     },
     {
       "themes": [
-        "Économie",
-        "Environnement"
+        "Sport"
       ],
-      "title": "La loi d'urgence agricole adoptée en commission mixte paritaire",
-      "full": "Les députés et sénateurs se sont mis d'accord jeudi en commission mixte paritaire sur le texte de la loi d'urgence agricole, qui sera soumis à un vote final à l'Assemblée nationale lundi et au Sénat mardi. Ce compromis maintient plusieurs mesures controversées, dont la réintroduction de pesticides interdits (néonicotinoïdes), des dispositions sur l'accès à l'eau et le soutien aux mégabassines et aux élevages intensifs. Les associations environnementales dénoncent ces choix, tandis que le gouvernement et les scientifiques ont exprimé leurs réserves.",
+      "title": "Mauro Schmid remporte sa première victoire au Tour de France",
+      "full": "Le coureur suisse Mauro Schmid (Jayco Alula) a remporté la 13e étape du Tour de France, vendredi 17 juillet, en s'imposant au sprint à Belfort devant Harold Tejeda. Il s'agit de la première victoire de Schmid sur la Grande Boucle. Tom Pidcock, troisième de l'étape, progresse significativement au classement général.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Les associations environnementales alertent sur les dangers d'une loi qu'elles jugent catastrophique.",
-          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/loi-d-urgence-agricole-on-va-vers-une-catastrophe-a-toute-vitesse-s-alarme-france-nature-environnement_8111186.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Mauro Schmid signe sa première victoire d'étape sur le Tour de France.",
+          "url": "https://www.franceinfo.fr/tour-de-france/le-sprint-vainqueur-de-mauro-schmid_8112068.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Reporterre",
-          "take": "Le texte adopté reprend largement les positions de la droite sénatoriale sur les pesticides, l'eau et l'élevage industriel.",
-          "url": "https://reporterre.net/Loi-d-urgence-agricole-Laurent-Duplomb-impose-son-texte"
+          "outlet": "20 Minutes",
+          "take": "Tom Pidcock améliore sa position au classement général grâce à sa troisième place de l'étape.",
+          "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4234955-20260717-direct-tour-france-2026-belle-occasion-echappee-pocagar-suivez-13e-etape?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "Le Monde",
-          "take": "La commission mixte paritaire a trouvé un accord après six heures de discussions, le texte devant être voté définitivement en séance.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/16/loi-d-urgence-agricole-les-parlementaires-s-accordent-en-commission-mixte-paritaire-sur-ce-texte-aux-mesures-contestees-concernant-l-eau-et-les-pesticides_6723809_823448.html"
+          "outlet": "Libération",
+          "take": "Le jeune Suisse a fait preuve de tactique lors d'une étape mouvementée passant par le Ballon d'Alsace.",
+          "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-a-belfort-mauro-schmid-rugit-comme-un-lion-20260717_PMQGEJJ66NALHOLP7NT64OXQYU/"
         },
         {
-          "outlet": "Mediapart",
-          "take": "Le retour des néonicotinoïdes est entériné malgré les avertissements du gouvernement et de la communauté scientifique.",
-          "url": "https://www.mediapart.fr/journal/france/160726/loi-d-urgence-agricole-les-parlementaires-enterinent-le-retour-des-neonicotinoides"
+          "outlet": "L'Humanité",
+          "take": "Schmid a triomphé au terme d'une échappée qui a également permis à Pidcock de progresser au classement.",
+          "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-2026-13e-etape-mauro-schmid-triomphe-a-belfort-au-terme-dune-echappee-monumentale"
         }
       ],
       "id": 6,
@@ -234,30 +223,30 @@
     },
     {
       "themes": [
-        "Sport"
+        "Monde"
       ],
-      "title": "Tour de France 2026 : Tim Merlier remporte sa troisième victoire",
-      "full": "Le cycliste belge Tim Merlier (Soudal Quick-Step) a remporté au sprint la 12e étape du Tour de France, disputée jeudi entre Magny-Cours et Chalon-sur-Saône. Il devance à l'arrivée Olav Kooij et Biniam Girmay. Il s'agit de la troisième victoire d'étape de Merlier dans cette édition 2026. En tête du classement général, le Slovène Tadej Pogacar conserve le maillot jaune avec une avance de 3 minutes 36 secondes sur Jonas Vingegaard et 4 minutes 6 secondes sur Remco Evenepoel.",
+      "title": "Échanges de frappes entre États-Unis et Iran au Moyen-Orient",
+      "full": "Les États-Unis ont bombardé des infrastructures militaires iraniennes pour la sixième nuit consécutive, tuant selon Téhéran trois personnes dans le sud du pays. L'Iran a riposté en tirant des missiles vers plusieurs cibles régionales : la Jordanie affirme en avoir intercepté dix, tandis que le Bahreïn, le Koweït et le Qatar ont signalé des attaques, dont l'une visée contre une centrale électrique koweïtienne et une base aérienne américaine au Qatar. Les appels à la désescalade se multiplient, mais aucun dialogue n'est engagé entre les deux puissances.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Met l'accent sur l'efficacité du travail collectif de l'équipe Soudal Quick-Step pour contrôler la course et neutraliser les attaquants.",
-          "url": "https://www.franceinfo.fr/tour-de-france/videos/video-tour-de-france-2026-le-resume-de-la-12e-etape-mouvementee-qui-a-mene-a-la-troisieme-victoire-de-tim-merlier_8110631.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Souligne l'imperméabilité de Merlier au sprint en le qualifiant de force dominante.",
-          "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4234776-20260716-direct-tour-france-2026-peut-etre-derniere-chance-sprinteurs-philipsen-droit-erreur-suivez-12e-etape?at_medium=display&at_campaign=149"
+          "outlet": "Le Monde",
+          "take": "Mise en avant de l'ampleur des frappes américaines sur les infrastructures iraniennes et des ripostes contre plusieurs pays du Golfe.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-au-moyen-orient-l-armee-americaine-a-frappe-des-infrastructures-militaires-et-des-depots-d-armes-souterrains-en-iran_6722873_3210.html"
         },
         {
           "outlet": "Libération",
-          "take": "Relève l'attaque solitaire persistante du coureur français Baptiste Veistroffer dans une logique de baroudage.",
-          "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-a-chalon-sur-saone-baptiste-veistroffer-en-sanglier-fou-troisieme-victoire-pour-tim-merlier-20260716_3TT22V4QZZHVPKWPF4WHDP4TWU/"
+          "take": "Contexte plus large incluant les frappes israéliennes à Gaza et les appels à la désescalade face à la reprise du conflit États-Unis-Iran.",
+          "url": "https://www.liberation.fr/international/moyen-orient/les-etats-unis-et-liran-poursuivent-leurs-frappes-appels-a-la-desescalade-lactu-du-conflit-au-moyen-orient-ce-17-juillet-20260717_Z4FF56IWDFDVJGUMYBQMKZPK4U/"
         },
         {
           "outlet": "France 24",
-          "take": "Positionne le résultat dans le contexte du classement général avec les écarts entre les trois premiers.",
-          "url": "https://www.france24.com/fr/sports/20260716-tour-de-france-une-troisi%C3%A8me-victoire-pour-le-belge-tim-merlier-%C3%A0-chalon-sur-sa%C3%B4ne"
+          "take": "Focus sur la justification iranienne des attaques comme réplique punitive et ciblage spécifique de la base américaine d'Al-Udeid.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260717-attaques-iraniennes-au-qatar-des-frappes-pour-punir-l-arm%C3%A9e-am%C3%A9ricaine"
+        },
+        {
+          "outlet": "L'Humanité",
+          "take": "Accent sur l'impasse diplomatique malgré les appels internationaux et la poursuite ininterrompue des bombardements.",
+          "url": "https://www.humanite.fr/monde/etats-unis/guerre-au-moyen-orient-les-bombardements-se-poursuivent-en-iran-la-diplomatie-au-point-mort"
         }
       ],
       "id": 7,
@@ -265,36 +254,30 @@
     },
     {
       "themes": [
-        "France",
-        "Société"
+        "France"
       ],
-      "title": "L'Assemblée nationale rend imprescriptibles les crimes sur mineurs",
-      "full": "L'Assemblée nationale a voté jeudi 16 juillet plusieurs mesures de protection de l'enfance. Parmi elles, l'imprescriptibilité des crimes commis sur les mineurs (viols, violences mortelles, tortures), une nouveauté jusque-là réservée aux crimes contre l'humanité. L'amendement, porté par le député écologiste Arnaud Bonnet, a été adopté par 93 voix contre 51, avec le soutien du ministre de la Justice. L'Assemblée a également approuvé en première lecture une « ordonnance de protection de l'enfant » permettant au procureur de mettre rapidement un enfant à l'abri en cas de suspicion d'inceste ou de maltraitance, avant même la fin de l'enquête.",
+      "title": "Macron appelle à la prudence face aux sondages favorables à Le Pen",
+      "full": "Emmanuel Macron a exhorté vendredi à se méfier des sondages prédisant la victoire de Marine Le Pen à l'élection présidentielle de 2027. S'exprimant lors d'une conférence de presse conjointe avec le chancelier allemand Friedrich Merz, le président a rappelé que aucune enquête n'avait anticipé son propre succès dix ans auparavant. À moins d'un an du scrutin, Macron a souligné que les situations politiques peuvent se transformer rapidement entre les prédictions et le résultat final.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Insiste sur le mécanisme opérationnel : l'ordonnance de protection permet au procureur d'agir rapidement pour protéger l'enfant durant l'enquête.",
-          "url": "https://www.franceinfo.fr/societe/enfance-et-adolescence/maltraitance-des-enfants/l-assemblee-nationale-adopte-en-premiere-lecture-une-ordonnance-de-surete-de-l-enfant-en-cas-de-suspicion-d-inceste-ou-de-maltraitance_8109893.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Souligne le caractère inédit de l'imprescriptibilité, qui sort du cadre traditionnel des crimes contre l'humanité.",
-          "url": "https://www.france24.com/fr/france/20260716-imprescriptibilit%C3%A9-crimes-sur-mineurs-vot%C3%A9e-assembl%C3%A9e-nationale"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "Signale un risque constitutionnel, interrogeant la conformité de la mesure à la Constitution.",
-          "url": "https://www.humanite.fr/societe/droits-de-lenfant/lassemblee-nationale-vote-limprescriptibilite-des-crimes-commis-sur-les-mineurs-une-mesure-inconstitutionnelle"
+          "take": "Macron établit un parallèle avec les élections de 2016 et 2017 pour montrer que les sondages peuvent se tromper sur les candidats qui accèdent au pouvoir.",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/emmanuel-macron-appelle-a-se-mefier-des-sondages-predisant-la-victoire-de-marine-le-pen-lors-de-l-election-presidentielle-de-2027_8112149.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Le Monde",
-          "take": "Précise les chiffres du vote et met en avant le soutien du gouvernement à cet amendement.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/16/protection-des-enfants-l-assemblee-nationale-vote-pour-rendre-imprescriptibles-les-crimes-commis-sur-les-mineurs_6723794_823448.html"
+          "take": "L'échange intervient lors d'une rencontre franco-allemande où Merz s'engage à tendre la main à tout futur dirigeant français.",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/17/emmanuel-macron-appelle-a-se-mefier-des-sondages-predisant-la-victoire-de-marine-le-pen-en-2027_6724214_823448.html"
         },
         {
-          "outlet": "Mediapart",
-          "take": "Contextualise le vote comme une réponse au silence entourant l'inceste et élargit la liste des crimes concernés.",
-          "url": "https://www.mediapart.fr/journal/france/160726/parce-que-l-inceste-est-le-royaume-du-silence-la-fin-de-la-prescription-votee-l-assemblee-pour-les-crimes"
+          "outlet": "Le Figaro",
+          "take": "Macron souligne que sa propre victoire de 2017 n'avait été prédite par aucun sondage, invalidant une forme de fatalisme électoral.",
+          "url": "https://www.lefigaro.fr/politique/presidentielle-2027-macron-appelle-a-se-mefier-des-sondages-predisant-la-victoire-de-le-pen-20260717"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Le président invite à rejeter l'idée que le triomphe du Rassemblement national serait inéluctable, malgré son avance dans les enquêtes d'opinion.",
+          "url": "https://www.liberation.fr/politique/elections/mefiez-vous-tout-de-meme-des-sondages-depuis-lallemagne-emmanuel-macron-invite-a-la-prudence-sur-les-chances-du-rn-en-2027-20260717_SVVRB4AWDRHFPLZNBV56HHC3CU/"
         }
       ],
       "id": 8,
@@ -302,30 +285,30 @@
     },
     {
       "themes": [
-        "France"
+        "Société"
       ],
-      "title": "Cazeneuve se déclare candidat à la présidentielle 2027",
-      "full": "Bernard Cazeneuve, ancien Premier ministre, a officialisé sa candidature à l'élection présidentielle de 2027 dans un entretien au Parisien. L'ancien chef du gouvernement de François Hollande a également publié une lettre aux Français de plus de 85 pages détaillant ses propositions sur une trentaine de sujets. Se présentant comme « un républicain de gauche » et « social-démocrate », il a décliné de participer à la primaire socialiste.",
+      "title": "Affaire Jubillar : ossements découverts après les aveux de Cédric",
+      "full": "Des ossements ont été retrouvés jeudi dans le Tarn, sur les indications de Cédric Jubillar, qui a avoué récemment. Ces restes pourraient être ceux de Delphine Aussaguel, infirmière disparue en décembre 2020. Les gendarmes ont achevé les fouilles vendredi sur le site de Mailhoc. Les analyses en cours determineront l'identification des ossements, tandis que la tenue d'un procès en septembre devient quasi impossible en raison de ce calendrier judiciaire chamboulé.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Cazeneuve maintient le suspense initial en affirmant son utilité potentielle avant de franchir le pas officiel de la candidature.",
-          "url": "https://www.franceinfo.fr/elections/presidentielle/si-je-peux-etre-utile-je-le-serai-bernard-cazeneuve-s-adresse-aux-francais-mais-maintient-le-suspense-sur-une-candidature-a-la-presidentielle-2027_8110241.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "outlet": "Libération",
-          "take": "L'ancien Premier ministre publie un programme détaillé sans avoir préalablement officiel son engagement électoral.",
-          "url": "https://www.liberation.fr/politique/bernard-cazeneuve-ecrit-85-pages-de-programme-mais-nest-toujours-pas-candidat-20260717_VDR5FULCDJC4NPPWF3VDY5OJZI/"
+          "outlet": "20 Minutes",
+          "take": "Les aveux surprises et la découverte d'ossements repoussent considérablement le procès initialement prévu en septembre.",
+          "url": "https://www.20minutes.fr/faits_divers/4235030-20260717-affaire-jubillar-expertises-reconstitution-report-prochaines-etapes-apres-aveux-cedric?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "Le Monde",
-          "take": "Cazeneuve déclare sa candidature tout en rejetant le processus de la primaire du Parti socialiste.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/16/presidentielle-2027-bernard-cazeneuve-se-declare-candidat-dans-un-entretien-au-parisien-et-decline-la-primaire-socialiste_6723827_823448.html"
+          "take": "Deux fémurs ont été retrouvés après que Cédric Jubillar ait guidé les enquêteurs sur le terrain.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/17/affaire-jubillar-apres-la-decouverte-d-ossements-les-recherches-se-poursuivent-dans-le-tarn_6724199_3224.html"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "La déclaration de candidature s'accompagne d'une double démarche de communication : lettre aux Français et interview presse.",
-          "url": "https://www.20minutes.fr/politique/4234906-20260716-presidentielle-2027-bernard-cazeneuve-ecrit-lettre-francais-ebauche-programme?at_medium=display&at_campaign=149"
+          "outlet": "Libération",
+          "take": "Les fouilles n'ont duré que deux jours sur le site où les ossements ont été mis au jour.",
+          "url": "https://www.liberation.fr/societe/police-justice/affaire-jubillar-les-gendarmes-reprennent-les-fouilles-apres-avoir-retrouve-des-ossements-20260717_A3F6JIC6DZBNJJSU2QLUJAEU7A/"
+        },
+        {
+          "outlet": "France Info",
+          "take": "La zone de découverte à Mailhoc n'avait jamais été fouillée auparavant malgré les recherches antérieures.",
+          "url": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/affaire-jubillar-pourquoi-la-zone-ou-des-ossements-ont-ete-decouverts-n-avait-jamais-ete-fouillee_8111405.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 9,
@@ -333,25 +316,30 @@
     },
     {
       "themes": [
-        "Société"
+        "France"
       ],
-      "title": "Le maire de Chalonnes-sur-Loire condamné pour images pédopornographiques",
-      "full": "Laurent Froger, maire de Chalonnes-sur-Loire en Maine-et-Loire, a été condamné jeudi 16 juillet par le tribunal d'Angers pour détention et diffusion d'images pédopornographiques. Environ 4 500 fichiers ont été découverts sur ses appareils. Selon le procureur, les faits s'échelonnent de janvier 2024 jusqu'à son arrestation. Il a reçu une peine de trois ans de prison, dont six mois ferme.",
+      "title": "Christine Herzog exclue temporairement du Sénat pour harcèlement",
+      "full": "La sénatrice de Moselle Christine Herzog a été exclue temporairement du Sénat par décision de sa présidence, une sanction d'une rareté exceptionnelle. L'élue centriste est soupçonnée de harcèlement moral envers une collaboratrice et d'utilisation indue de fonds publics. Elle sera interdite d'accès au palais du Luxembourg pendant quinze jours et perdra deux tiers de son indemnité parlementaire pendant six mois. Le bureau du Sénat qualifie les faits de « manquement d'une particulière gravité au principe déontologique de dignité ». L'élue devra également suivre une formation sur l'exercice de ses fonctions d'employeur.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Insiste sur la condamnation du tribunal d'Angers pour détention et diffusion d'images pédopornographiques.",
-          "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/maine-et-loire/angers/le-maire-de-chalonnes-sur-loire-condamne-pour-detention-et-diffusion-d-images-pedopornographiques-3387652.html#xtor=RSS-3-[lestitres]"
-        },
-        {
           "outlet": "Le Monde",
-          "take": "Souligne le nombre précis de fichiers retrouvés et la chronologie des faits s'étalant depuis janvier 2024.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/16/le-maire-d-une-commune-du-maine-et-loire-condamne-pour-detention-d-images-pedopornographiques_6723847_3224.html"
+          "take": "Le « compagnon » de la sénatrice, ancien collaborateur, aurait exercé un rôle hiérarchique sur les assistants et créé une surcharge de travail.",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/17/christine-herzog-senatrice-de-moselle-exclue-temporairement-du-senat-une-decision-rarissime_6724226_823448.html"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Détaille la peine prononcée : trois ans de prison avec six mois de détention ferme.",
-          "url": "https://www.20minutes.fr/justice/4234911-20260716-maine-loire-maire-condamne-detention-images-pedopornographiques?at_medium=display&at_campaign=149"
+          "outlet": "Libération",
+          "take": "Le bureau de la chambre haute estime que les faits constituent un manquement grave aux principes déontologiques et fixe des sanctions précises.",
+          "url": "https://www.liberation.fr/politique/harcelement-moral-atteinte-a-la-probite-lelue-centriste-christine-herzog-exclue-temporairement-du-senat-20260717_QMSU7ZYKB5DQZBD4LGDDQXJKLM/"
+        },
+        {
+          "outlet": "France Info",
+          "take": "L'interdiction d'entrée au palais s'accompagne d'une obligation de formation pour mieux exercer les responsabilités d'employeur.",
+          "url": "https://www.franceinfo.fr/politique/parlement-francais/senat/le-senat-exclut-temporairement-la-centriste-christine-herzog-soupconnee-de-harcelement-et-de-detournement-de-fonds_8111702.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "Mediapart",
+          "take": "Cette sanction constitue une première dans l'histoire du Sénat en matière de probité et de harcèlement.",
+          "url": "https://www.mediapart.fr/journal/france/170726/manque-de-probite-le-senat-prononce-une-sanction-inedite-contre-une-elue"
         }
       ],
       "id": 10,
@@ -359,20 +347,25 @@
     },
     {
       "themes": [
-        "Culture"
+        "Sport"
       ],
-      "title": "BTS se produit au Stade de France les 17 et 18 juillet",
-      "full": "Le groupe de K-pop sud-coréen BTS se produira au Stade de France les 17 et 18 juillet dans le cadre de sa tournée mondiale. Il s'agit des premières dates françaises du septuple ensemble depuis 2019, qui réuniront plus de 80 000 spectateurs au cours de chaque soirée. Depuis ses débuts en 2013, BTS a considérablement contribué à l'essor de la K-pop sur la scène musicale internationale.",
+      "title": "France-Angleterre en petite finale de Coupe du monde samedi",
+      "full": "La France affronte l'Angleterre samedi 18 juillet en match pour la troisième place de la Coupe du monde 2026. Didier Deschamps, qui quittera son poste de sélectionneur après le tournoi, cherche à mobiliser ses joueurs pour cette dernière rencontre en bleu, malgré l'élimination en demi-finale. L'entraînement des Bleus a été perturbé par un risque d'orage à la veille du match.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Met l'accent sur le parcours exceptionnel du groupe depuis 2013 et son rôle central dans la promotion mondiale de la K-pop.",
-          "url": "https://www.lemonde.fr/culture/article/2026/07/17/bts-le-groupe-sud-coreen-qui-a-hisse-la-k-pop-aux-sommets-de-l-industrie-musicale-mondiale_6724129_3246.html"
+          "outlet": "France Info",
+          "take": "France Info met en avant l'intérêt sportif du match en invitant les téléspectateurs à ne pas le négliger malgré son statut de petite finale.",
+          "url": "https://www.franceinfo.fr/coupe-du-monde/3-bonnes-raisons-de-regarder-la-petite-finale-france-angleterre_8112347.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France Info",
-          "take": "Souligne l'importance de ces dates pour les fans français, avec le retour du groupe en France après une pause de cinq ans et l'ampleur de la mobilisation (80 000 spectateurs par soir).",
-          "url": "https://www.franceinfo.fr/culture/musique/cinq-choses-a-savoir-sur-bts-en-escale-au-stade-de-france-au-cours-de-leur-tournee-mondiale_8108738.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Libération",
+          "take": "Deschamps se concentre sur la mobilisation de ses joueurs et la gestion de ses émotions avant son dernier match à la tête des Bleus.",
+          "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-quand-on-vient-la-on-a-des-devoirs-avant-sa-derniere-en-bleu-deschamps-mobilise-ses-joueurs-pour-la-petite-finale-20260717_SGJELCVIDJFTZDBESYKDRJIGJM/"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "20 Minutes rapporte les conditions de préparation difficiles de la France à cause des intempéries prévues.",
+          "url": "https://www.20minutes.fr/sport/football/4235102-20260718-direct-coupe-monde-2026-der-deschamps-trump-blame-canada-pollution-air?at_medium=display&at_campaign=149"
         }
       ],
       "id": 11,
@@ -380,20 +373,26 @@
     },
     {
       "themes": [
-        "Société"
+        "Santé",
+        "Environnement"
       ],
-      "title": "La psychanalyste Claude Halmos est décédée à 80 ans",
-      "full": "Claude Halmos, psychanalyste spécialiste de l'enfance et figure régulière des médias français, est morte le 9 juillet d'un arrêt cardiaque à l'âge de 80 ans. Elle était notamment chroniqueuse sur France Info et intervenait fréquemment dans les débats publics sur les questions éducatives et familiales.",
+      "title": "Canicule de juin : la mortalité a doublé en Île-de-France",
+      "full": "La vague de chaleur de juin en Île-de-France a entraîné près de 3 000 décès supplémentaires, soit une augmentation de 122 % par rapport à la normale, selon Santé publique France. Les personnes âgées de plus de 65 ans représentent 82,4 % de ces décès. L'agence précise que ces estimations pourraient encore être en deçà de la réalité.",
       "angles": [
         {
           "outlet": "20 Minutes",
-          "take": "Souligne sa présence importante dans le paysage médiatique et son expertise reconnue en matière d'enfance.",
-          "url": "https://www.20minutes.fr/sante/4234904-20260716-claude-halmos-psychanalyste-mediatique-specialiste-enfants-morte-80-ans?at_medium=display&at_campaign=149"
+          "take": "Met l'accent sur le caractère particulièrement éprouvant du mois de juin marqué par de nombreux îlots de chaleur en région parisienne.",
+          "url": "https://www.20minutes.fr/planete/canicule/4235044-20260717-canicule-mortalite-plus-double-rapport-normale-juin-ile-france?at_medium=display&at_campaign=149"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Souligne que les chiffres officiels pourraient être minimisés et que la mortalité a atteint près de 3 000 décès supplémentaires.",
+          "url": "https://www.lemonde.fr/planete/article/2026/07/17/canicule-de-juin-pres-de-3-000-morts-en-ile-de-france-le-double-de-la-normale-selon-sante-publique-france_6724203_3244.html"
         },
         {
           "outlet": "France Info",
-          "take": "Met en avant son rôle de chroniqueuse régulière au sein de la rédaction.",
-          "url": "https://www.franceinfo.fr/economie/medias/la-psychanalyste-claude-halmos-ancienne-chroniqueuse-pour-franceinfo-est-morte-a-l-age-de-80-ans_8110748.html#xtor=RSS-3-[lestitres]"
+          "take": "Chiffre précisément la surmortalité à 1 565 décès observés au-delà du nombre attendu, soit une variation de plus 122 %.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/lors-de-la-canicule-de-juin-la-mortalite-en-ile-de-france-a-plus-que-double-par-rapport-a-la-normale_8112194.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 12,
@@ -401,20 +400,25 @@
     },
     {
       "themes": [
-        "Économie"
+        "Environnement"
       ],
-      "title": "Le gouvernement demande des coupes budgétaires à la plupart des ministères",
-      "full": "Matignon a présenté jeudi 16 juillet les plafonds de dépenses pour 2027, imposant des réductions à la majorité des ministères pour maîtriser le déficit public. Les portefeuilles régaliens, dont la Défense, et l'Écologie sont épargnis par cette compression. Le gouvernement justifie cette stratégie de « sauvegarde républicaine » par le souhait de laisser au prochain président les marges de manœuvre nécessaires.",
+      "title": "Le 16 juillet, journée record d'orages en France",
+      "full": "Jeudi 16 juillet a marqué la journée la plus foudroyée de l'année 2026 en France, avec plus de 20 000 éclairs enregistrés par Météorage, la filiale de Météo France. La région Auvergne-Rhône-Alpes a été la plus impactée, totalisant plus de 7 500 éclairs. Ces violents orages, accompagnés de pluies intenses, rafales et grêle, ont coupé l'électricité à plus de 53 000 foyers et sont responsables de la mort de deux personnes.",
       "angles": [
         {
-          "outlet": "Le Figaro Éco",
-          "take": "Les Armées sont exclues des coupes budgétaires tandis que presque tous les autres ministères voient leurs moyens diminuer.",
-          "url": "https://www.lefigaro.fr/conjoncture/budget-2027-matignon-met-tous-les-ministeres-a-la-diete-sauf-les-armees-20260716"
+          "outlet": "20 Minutes",
+          "take": "Met en avant le volume record d'éclairs enregistrés en une seule journée et précise les régions les plus affectées.",
+          "url": "https://www.20minutes.fr/planete/canicule/4235075-20260717-orages-regions-plus-touchees-journee-plus-foudroyee-annee?at_medium=display&at_campaign=149"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Souligne le caractère exceptionnel de ce 16 juillet comparé aux autres jours de 2026.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/orages-le-16-juillet-devient-la-journee-la-plus-foudroyee-de-2026-avec-plus-de-20-000-eclairs_8111753.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Libération",
-          "take": "Au-delà des domaines régaliens et écologiques protégés, les autres missions doivent contribuer à la maîtrise de la dette.",
-          "url": "https://www.liberation.fr/economie/budget-2027-face-au-deficit-les-ministeres-sommes-de-se-serrer-la-ceinture-20260716_FHKZ5QRHHVD25KUADMLJCXJFL4/"
+          "take": "Détaille les conséquences matérielles et humaines des orages, notamment les coupures d'électricité et les décès.",
+          "url": "https://www.liberation.fr/environnement/climat/en-direct-chaleur-des-degats-apres-de-violents-orages-encore-10-departements-du-sud-est-en-vigilance-orange-20260717_NG5PTVRGINDYFB5YLQSKDQJOW4/"
         }
       ],
       "id": 13,
@@ -422,21 +426,26 @@
     },
     {
       "themes": [
-        "Économie",
-        "Tech & Sciences"
+        "Environnement",
+        "Économie"
       ],
-      "title": "Jensen Huang affirme que la croissance de l'IA n'en est qu'à ses débuts",
-      "full": "Le patron de Nvidia, Jensen Huang, en visite au Japon, a déclaré jeudi que le cycle de croissance de l'intelligence artificielle ne fait que commencer. Selon lui, les cycles technologiques durent généralement entre 10 et 15 ans avant d'atteindre un plateau, et l'IA n'en serait qu'au début. À cette occasion, Huang a annoncé plusieurs partenariats et réaffirmé sa confiance dans le développement de ce secteur.",
+      "title": "L'UE prolonge les quotas carbone gratuits pour l'industrie jusqu'en 2038",
+      "full": "La Commission européenne a présenté vendredi 17 juillet une réforme du marché du carbone qui repousse de plusieurs années l'expiration des quotas gratuits accordés aux industriels. Cette mesure vise à préserver la compétitivité des entreprises européennes face à la concurrence internationale. En contrepartie, Bruxelles étend le système d'échange de quotas à de nouveaux secteurs, notamment l'aviation et les déchets, et fixe un nouvel objectif d'électrification de 46 % de la consommation finale d'énergie d'ici 2040.",
       "angles": [
         {
+          "outlet": "Le Monde",
+          "take": "L'assouplissement du marché carbone s'accompagne d'un objectif ambitieux d'électrification pour démontrer que les ambitions climatiques restent intactes.",
+          "url": "https://www.lemonde.fr/planete/article/2026/07/17/l-union-europeenne-propose-d-assouplir-la-tarification-du-carbone-pour-les-industriels-jusqu-en-2038_6724184_3244.html"
+        },
+        {
           "outlet": "Libération",
-          "take": "Jensen Huang profite de sa visite au Japon pour annoncer des partenariats et exprimer sa foi dans la croissance de l'intelligence artificielle.",
-          "url": "https://www.liberation.fr/economie/economie-numerique/au-japon-le-patron-de-nvidia-clame-sa-confiance-en-lia-et-remercie-son-sauveur-sega-20260716_GUU7LKNFSRAWLB2BDWS36HAODE/"
+          "take": "Cette révision constitue un nouveau recul par rapport aux engagements du Pacte vert européen, huit mois après le report du calendrier de disparition des véhicules thermiques.",
+          "url": "https://www.liberation.fr/economie/marche-carbone-la-commission-europeenne-fait-une-nouvelle-entorse-a-son-pacte-vert-20260717_L6VHMWHQMNHRTF75VCHLRORRQI/"
         },
         {
           "outlet": "Le Figaro Éco",
-          "take": "Le patron de Nvidia situe le cycle technologique de l'IA dans une trajectoire de 10 à 15 ans, avec des années de croissance encore devant lui.",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/pour-le-patron-de-nvidia-jensen-huang-la-croissance-de-l-ia-n-en-est-qu-a-ses-debuts-20260716"
+          "take": "L'extension du système ETS à l'aviation et aux déchets représente un élargissement du marché carbone, tandis que les objectifs climatiques se relâchent pour favoriser la compétitivité industrielle.",
+          "url": "https://www.lefigaro.fr/economie/atteindre-zero-emission-d-ici-a-2039-est-tout-a-fait-irrealiste-l-union-europeenne-assouplit-son-marche-du-carbone-au-profit-de-l-industrie-20260717"
         }
       ],
       "id": 14,
@@ -444,20 +453,25 @@
     },
     {
       "themes": [
-        "Monde"
+        "France"
       ],
-      "title": "Washington limite les séjours des étudiants et journalistes étrangers",
-      "full": "Les États-Unis s'apprêtent à réduire significativement la durée des visas pour les étudiants et journalistes étrangers. Selon un document révélé jeudi, les visas étudiants seront plafonnés à quatre ans au lieu de la durée antérieure, tandis que les journalistes étrangers seront limités à 240 jours renouvelables (90 jours pour les médias chinois), contre cinq ans actuellement. Ces nouvelles règles doivent entrer en vigueur dans deux mois, sauf intervention du Congrès. Reporters sans frontières dénonce une « violation directe » de la liberté de la presse.",
+      "title": "La Ville de Paris poursuit Rachida Dati en diffamation",
+      "full": "Emmanuel Grégoire a fait voter au Conseil de Paris l'autorisation d'engager une action en diffamation contre Rachida Dati pour des propos tenus sur les réseaux sociaux. La maire du 7e arrondissement et ancienne candidate aux municipales de mars avait accusé l'ancienne équipe municipale d'avoir volontairement déplacé des animateurs auteurs de violences sexuelles d'une école à une autre sans saisir la justice. Cette plainte fait suite au scandale du périscolaire parisien.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Détaille la restriction des séjours étudiants à quatre ans maximum sur le territoire américain.",
-          "url": "https://www.franceinfo.fr/monde/usa/les-etats-unis-vont-limiter-la-duree-des-sejours-des-journalistes-et-etudiants-etrangers_8110547.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "Le vote du Conseil de Paris autorise le maire à poursuivre son ex-rivale électorale pour des accusations portées sur X.",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/17/au-conseil-de-paris-emmanuel-gregoire-engage-la-ville-dans-une-plainte-en-diffamation-contre-rachida-dati_6724193_823448.html"
         },
         {
-          "outlet": "France 24",
-          "take": "Souligne les limites imposées aux journalistes (240 jours, 90 pour les médias chinois) et rapporte la condamnation de Reporters sans frontières.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260716-etats-unis-veulent-limiter-duree-sejours-visas-journalistes-etudiants-%C3%A9trangers-medias-presse-rsf-liberte-politique-migratoire"
+          "outlet": "France Info",
+          "take": "Rachida Dati a spécifiquement reproché à l'équipe sortante de ne jamais saisir la justice malgré sa connaissance des violences.",
+          "url": "https://www.franceinfo.fr/politique/rachida-dati/periscolaire-emmanuel-gregoire-va-porter-plainte-pour-diffamation-contre-rachida-dati-au-nom-de-la-ville-de-paris_8111615.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Les accusations de Dati portaient sur un transfert délibéré de prédateurs sexuels entre établissements scolaires.",
+          "url": "https://www.liberation.fr/politique/scandale-du-periscolaire-emmanuel-gregoire-va-porter-plainte-pour-diffamation-contre-rachida-dati-au-nom-de-la-ville-de-paris-20260717_WH73HUQ3ZFHHBGRA6CAY2M7L5Y/"
         }
       ],
       "id": 15,
@@ -465,20 +479,21 @@
     },
     {
       "themes": [
-        "Monde"
+        "France",
+        "Culture"
       ],
-      "title": "Italie : 32 condamnations pour l'effondrement du pont Morandi",
-      "full": "Le tribunal de Gênes a rendu son verdict jeudi après quatre ans de procès concernant l'effondrement du viaduc Morandi, survenu le 14 août 2018 et ayant causé 43 morts. Trente-deux accusés ont été reconnus coupables et condamnés à de la prison ferme pour leur rôle dans cette catastrophe. L'ancien directeur général de la société gestionnaire du pont a reçu la peine la plus lourde avec douze ans d'emprisonnement.",
+      "title": "Le spectacle vivant mobilisé contre les coupes budgétaires",
+      "full": "Les professionnels du spectacle vivant s'organisent contre les réductions de subventions décidées par le gouvernement début juillet. Au Festival d'Avignon, une mobilisation s'est cristallisée jeudi 16 juillet avec une assemblée sur le parvis du Palais des Papes pour débattre des actions à mener. Le secteur, déjà fragilisé par des tensions internes et des critiques politiques, craint une saison marquée par des tensions accrues.",
       "angles": [
         {
-          "outlet": "Courrier International",
-          "take": "Met l'accent sur l'ampleur des condamnations (32 personnes) et souligne la peine maximale de douze ans infligée au directeur général.",
-          "url": "https://www.courrierinternational.com/article/justice-en-italie-le-proces-de-l-effondrement-du-pont-morandi-a-genes-accouche-de-nombreuses-condamnations_250448"
+          "outlet": "Libération",
+          "take": "Les coupes budgétaires s'accumulent et aggravent les fragilités d'un secteur confronté à des accusations d'entre-soi et des attaques de l'extrême droite.",
+          "url": "https://www.liberation.fr/culture/scenes/dans-le-spectacle-vivant-les-coupes-budgetaires-promettent-une-saison-sous-tension-20260717_ZVZVA6FRVBCS5IDQBFFSUJ52MQ/"
         },
         {
-          "outlet": "France 24",
-          "take": "Insiste sur la durée exceptionnelle du procès (quatre ans, 283 audiences) avant le rendu du verdict.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260716-italie-prison-ferme-pour-trente-deux-accus%C3%A9s-dans-le-proc%C3%A8s-de-la-catastrophe-de-g%C3%AAnes"
+          "outlet": "L'Humanité",
+          "take": "La CGT-Spectacle s'inquiète d'une situation explosive et prépare des modalités d'action collectives face aux mesures gouvernementales.",
+          "url": "https://www.humanite.fr/culture-et-savoir/politique-culturelle/mobilisation-contre-les-coupes-budgetaires-au-festival-davignon-pour-la-cgt-spectacle-il-suffit-dune-etincelle-pour-que-ca-parte"
         }
       ],
       "id": 16,
@@ -486,20 +501,20 @@
     },
     {
       "themes": [
-        "Économie"
+        "Société"
       ],
-      "title": "Le leasing social revient avec des voitures à partir de 94 euros par mois",
-      "full": "Le gouvernement lance jeudi la troisième édition de son programme de leasing social, permettant de louer un véhicule électrique neuf pendant trois ans à tarif réduit. L'objectif porte sur 50 000 locations, avec des tarifs débutant à 94 euros mensuels selon les modèles et les revenus des candidats. Le dispositif, destiné aux ménages aux revenus modestes, accorde une aide majorée pour les véhicules produits en Europe et propose environ vingt modèles éligibles avec des critères d'accès révisés.",
+      "title": "Le maire d'Alès reçoit des menaces de mort liées au narcotrafic",
+      "full": "Le maire d'Alès, Christophe Rivenq, a reçu par courrier deux balles accompagnées de menaces de mort. Les enquêteurs attribuent ces intimidations à la DZ Mafia, un groupe de narcotrafiquants marseillais actif dans la commune du Gard depuis l'été 2025. Une enquête a été ouverte, bien que la revendication du groupe criminel reste à confirmer, ce label étant parfois usurpé.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Met l'accent sur le prix plafond de 200 euros par mois et souligne l'accessibilité accrue pour les propriétaires de vieux diesels.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/16/le-leasing-social-entame-sa-troisieme-edition-fini-mon-vieux-diesel-je-vais-pouvoir-etre-comme-m-tout-le-monde_6723831_3234.html"
+          "outlet": "France Info",
+          "take": "Souligne le mode opératoire des menaces : l'envoi de balles par la poste adressé au maire.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/narcotrafic-le-maire-d-ales-recoit-des-menaces-de-mort_8111717.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France Info",
-          "take": "Détaille la gamme de véhicules disponibles et précise l'avantage accordé aux productions européennes.",
-          "url": "https://www.franceinfo.fr/economie/transports/voitures-electriques-le-leasing-social-2026-est-lance-des-vehicules-des-94-euros-par-mois_8110361.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "Contextualise l'action en rappelant la présence établie du groupe criminel sur le territoire et la prudence des enquêteurs face aux revendications.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/17/le-maire-d-ales-ville-confrontee-au-narcotrafic-menace-de-mort-par-des-individus-se-reclamant-de-la-dz-mafia_6724238_3224.html"
         }
       ],
       "id": 17,
@@ -507,20 +522,20 @@
     },
     {
       "themes": [
-        "Culture"
+        "Environnement"
       ],
-      "title": "Au Festival d'Avignon, débats sur la crise du spectacle vivant",
-      "full": "Le Festival d'Avignon fait cette année la place à des enjeux économiques et politiques du secteur culturel. Sophie Binet, leader de la CGT, ainsi que plusieurs élus de gauche dont Clémentine Autain, se mobilisent pour alerter sur les réductions budgétaires drastiques touchant le spectacle vivant. Ces interventions interviennent alors que les organisations syndicales et culturelles envisagent une action collective.",
+      "title": "Deux décès lors d'orages en Haute-Vienne et Isère",
+      "full": "Deux personnes ont perdu la vie jeudi lors d'intempéries orageuses en Auvergne-Rhône-Alpes. En Haute-Vienne, à Saint-Victurnien, une femme a été tuée par la chute d'un arbre. En Isère, à Dolomieu, une seconde personne a trouvé la mort dans un atelier de chaudronnerie et métallurgie frappé par la foudre. L'alerte orange aux orages a été levée après ces événements.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "La critique porte sur une création du tg STAN autour de Molière qui, malgré des moments burlesques, ne parvient pas à convaincre dans le cadre du festival.",
-          "url": "https://www.lemonde.fr/culture/article/2026/07/16/festival-d-avignon-1-2-3-poquelin-un-spectacle-du-tg-stan-qui-se-perd-dans-la-carriere-de-boulbon_6723812_3246.html"
+          "take": "Détaille les circonstances précises des deux décès : chute d'arbre en Haute-Vienne et électrocution par foudre en Isère.",
+          "url": "https://www.lemonde.fr/planete/article/2026/07/17/orages-deux-personnes-sont-mortes-dans-les-intemperies-en-haute-vienne-et-dans-l-isere_6724149_3244.html"
         },
         {
-          "outlet": "Libération",
-          "take": "Des responsables syndicaux et politiques utilisent le festival comme tribune pour dénoncer les coupes budgétaires affectant le secteur et envisager une mobilisation.",
-          "url": "https://www.liberation.fr/culture/scenes/sophie-binet-clementine-autain-et-sarah-legrain-au-chevet-du-spectacle-vivant-au-festival-davignon-20260716_GF23X2TZ3BAQZPJQI2GZEUI3HI/"
+          "outlet": "20 Minutes",
+          "take": "Souligne que le bilan humain intervient au moment de la levée de la vigilance orange aux orages.",
+          "url": "https://www.20minutes.fr/planete/canicule/4234947-20260717-orages-deux-personnes-trouve-mort-haute-vienne-isere?at_medium=display&at_campaign=149"
         }
       ],
       "id": 18,
@@ -528,21 +543,20 @@
     },
     {
       "themes": [
-        "Tech & Sciences",
         "Économie"
       ],
-      "title": "L'UE impose à Google de partager ses données et d'ouvrir Android aux IA concurrentes",
-      "full": "L'Union européenne a exigé que Google partage ses données de recherche avec ses concurrents et ouvre sa plateforme Android à des assistants d'intelligence artificielle rivaux. Cette décision vise à réduire la domination de Google sur le marché numérique européen en permettant aux utilisateurs d'Android de choisir librement leur assistant d'IA. Google conteste ces mesures, arguant qu'elles risquent de fragiliser les protections en matière de vie privée et de sécurité.",
+      "title": "Darquer, plus ancienne dentellerie de Calais, ferme définitivement",
+      "full": "L'entreprise Darquer, fondatrice de l'industrie de la dentelle à Calais, cesse son activité à la mi-juillet après sa liquidation judiciaire. En redressement depuis l'an dernier, la fabrique n'a pas résisté au déclin de la filière française, confrontée à la concurrence des dentelles tricotées asiatiques, commercialisées à des coûts bien inférieurs. Cette fermeture marque la disparition d'un fleuron du patrimoine industriel textile français.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Google dénonce un risque d'affaiblissement des garde-fous en matière de vie privée et de sécurité pour les Européens.",
-          "url": "https://www.franceinfo.fr/internet/google/l-union-europeenne-exige-que-google-partage-ses-donnees-de-recherche-et-ouvre-android-aux-intelligences-artificielles-rivales_8110865.html#xtor=RSS-3-[lestitres]"
+          "take": "Insiste sur la dimension patrimoniale et symbolique de cette fermeture pour l'industrie française.",
+          "url": "https://www.franceinfo.fr/economie/notre-patrimoine-francais-disparait-l-entreprise-darquer-plus-ancienne-fabrique-de-dentelles-de-calais-ferme-definitivement-ses-portes_8110289.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Le Monde",
-          "take": "La mesure permettra aux utilisateurs de choisir librement leur IA sur Android et restructurera le marché numérique européen en faveur de la concurrence.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/07/16/bruxelles-exige-que-google-partage-ses-donnees-de-recherche-et-ouvre-android-aux-ia-rivales_6723808_4408996.html"
+          "outlet": "Le Figaro Éco",
+          "take": "Met l'accent sur les causes structurelles : concurrence des dentelles asiatiques tricotées et coûts de production inférieurs.",
+          "url": "https://www.lefigaro.fr/societes/c-est-lourd-de-sens-historique-darquer-la-plus-ancienne-fabrique-de-dentelles-de-calais-ferme-ses-portes-20260717"
         }
       ],
       "id": 19,
@@ -550,20 +564,21 @@
     },
     {
       "themes": [
-        "Sport"
+        "France",
+        "Économie"
       ],
-      "title": "Coupe du monde 2026 : Argentine-Espagne en finale",
-      "full": "La finale de la Coupe du monde 2026 opposera l'Argentine à l'Espagne dimanche. L'Argentine s'est qualifiée samedi en renversant l'Angleterre en fin de match, grâce notamment à deux passes décisives de Lionel Messi. La France affrontera l'Angleterre samedi pour la troisième place. Ce sera la première confrontation entre l'Argentine, tenante du titre, et l'Espagne, championne d'Europe, à ce stade de la compétition mondiale.",
+      "title": "La Fonderie de Bretagne a jusqu'au 11 septembre pour trouver un repreneur",
+      "full": "Le tribunal de commerce de Lorient a accordé un délai jusqu'au 11 septembre à la Fonderie de Bretagne pour trouver un repreneur, a annoncé vendredi la CGT. L'usine bretonne est actuellement en redressement judiciaire et menacée de liquidation. Renault, fondateur historique de l'entreprise, se montre favorable pour débloquer 4,5 millions d'euros afin d'éviter cette issue, selon France Inter. À ce jour, aucun candidat n'a formellement manifesté son intention de reprendre l'établissement.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Rappelle les horaires et chaînes de diffusion des deux derniers matchs du tournoi ce week-end.",
-          "url": "https://www.franceinfo.fr/coupe-du-monde/argentine-espagne-et-france-angleterre-a-quelle-heure-et-sur-quelle-chaine-suivre-la-finale-et-la-petite-finale-de-la-coupe-du-monde_8109908.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "L'Humanité",
+          "take": "Souligne l'absence de candidat repreneur malgré le délai accordé et la précarité de la situation de liquidation.",
+          "url": "https://www.humanite.fr/social-et-economie/capital-vs-travail/en-redressement-judiciaire-la-fonderie-de-bretagne-a-jusquau-11-septembre-pour-trouver-un-repreneur"
         },
         {
-          "outlet": "France 24",
-          "take": "Souligne que l'Argentine a dû remonter au score contre l'Angleterre et que sa victoire constituerait un exploit inédit depuis 1962.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/le-club-du-mondial/20260716-l-argentine-affrontera-l-espagne-en-finale"
+          "outlet": "France Info",
+          "take": "Met l'accent sur l'engagement financier de Renault, ancien propriétaire, pour sauver l'usine de la faillite.",
+          "url": "https://www.franceinfo.fr/economie/industrie/renault-sur-le-point-de-debloquer-4-5-millions-d-euros-pour-aider-la-fonderie-de-bretagne-en-redressement-judiciaire_8111279.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 20,
@@ -571,21 +586,20 @@
     },
     {
       "themes": [
-        "Environnement",
-        "France"
+        "Environnement"
       ],
-      "title": "La France adopte sa nouvelle stratégie climatique avec un objectif de -50% en 2030",
-      "full": "Le gouvernement a présenté mercredi 15 juillet sa troisième feuille de route stratégique pour réduire les émissions de gaz à effet de serre. L'objectif fixé est une baisse de 50 % des émissions d'ici à 2030, qualifié d'ambitieux par les autorités. Cette nouvelle stratégie nationale bas carbone jusqu'à 2050 repose sur des mesures concrètes comme le déploiement des pompes à chaleur et le développement des transports ferroviaires. Son application nécessite des investissements massifs et une accélération de la décarbonation de l'économie française.",
+      "title": "Retardant rouge : les pompiers cherchent une alternative moins polluante",
+      "full": "Pour combattre les incendies de forêt, les pompiers français larguent depuis des avions ou des camions-citernes un produit retardant de couleur rouge vif. Ce composé chimique ralentit la propagation du feu, mais présente des inconvénients environnementaux : il peut entraîner une fertilisation excessive des rivières et contenir des métaux lourds. Des scientifiques travaillent donc à la mise au point d'alternatives moins polluantes, dans un contexte où la gestion future des forêts brûlées devient un enjeu majeur.",
       "angles": [
         {
-          "outlet": "Le Figaro Sciences",
-          "take": "Présente cet objectif de réduction comme un cap ambitieux exigeant une accélération majeure de la décarbonation et des investissements substantiels.",
-          "url": "https://www.lefigaro.fr/sciences/en-pleine-vague-de-chaleur-la-france-publie-enfin-sa-nouvelle-feuille-de-route-climatique-20260715"
+          "outlet": "France Info",
+          "take": "La question porte sur la régénération des forêts à long terme après les incendies et leur restauration future.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/incendies-comment-preparer-les-forets-de-demain_8112305.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "Libération",
-          "take": "Souligne que l'exécutif justifie cette stratégie par la lutte contre le réchauffement climatique mais aussi par un impératif de souveraineté énergétique.",
-          "url": "https://www.liberation.fr/environnement/climat/pompes-a-chaleur-developpement-du-train-la-france-se-dote-dune-nouvelle-feuille-de-route-climatique-20260716_KBPBRFPQ3VGD3LXSLE7C63XHFU/"
+          "outlet": "Reporterre",
+          "take": "Le retardant utilisé soulève des préoccupations sanitaires et écologiques, d'où la recherche d'une solution de substitution.",
+          "url": "https://reporterre.net/Incendies-quel-est-ce-produit-rouge-largue-sur-les-forets"
         }
       ],
       "id": 21,
@@ -593,20 +607,20 @@
     },
     {
       "themes": [
-        "Santé"
+        "Économie"
       ],
-      "title": "L'OMS identifie des facteurs modifiables réduisant le risque de démence",
-      "full": "Selon l'Organisation mondiale de la santé, près de 45 % des cas de démence pourraient être évités ou retardés en agissant sur des facteurs de risque modifiables. Le tabagisme, l'alcoolisme, l'hypertension, la sédentarité et l'exposition à la pollution de l'air figurent parmi les principaux éléments identifiés. L'OMS souligne que cette pathologie, bien que plus fréquente après 65 ans, n'est pas une conséquence inévitable du vieillissement et recommande un dépistage et une prise en charge précoces.",
+      "title": "Un accord trouvé sur la loi d'urgence agricole, mais des risques de rejet",
+      "full": "Une commission mixte paritaire a dégagé jeudi un accord sur la loi d'urgence agricole, texte qui prévoit notamment la réintroduction de deux pesticides. Cet accord suscite des craintes : les associations environnementales le dénoncent comme catastrophique, tandis que l'entourage du chef du gouvernement redoute un rejet du texte à l'Assemblée nationale en raison de ces mesures controversées. Le gouvernement demande à ses ministres de consulter les groupes parlementaires avant un vote.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "L'OMS publie des recommandations visant à favoriser un dépistage et une prise en charge précoces de la démence.",
-          "url": "https://www.liberation.fr/societe/sante/tabagisme-alcoolisme-hypertension-jusqua-45-des-risques-de-demence-peuvent-etre-evites-ou-retardes-selon-loms-20260716_4D2QUKDBVRGJXPAYZHLXH5BR64/"
+          "outlet": "France Info",
+          "take": "Les associations environnementales s'alarment de la portée de cet accord, qu'elles jugent dommageable pour l'environnement.",
+          "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/loi-d-urgence-agricole-on-va-vers-une-catastrophe-a-toute-vitesse-s-alarme-france-nature-environnement_8111186.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Sciences et Avenir",
-          "take": "L'accent est mis sur l'intervention précoce concernant les comportements et expositions environnementales modifiables.",
-          "url": "https://www.sciencesetavenir.fr/sante/jusqu-a-45-des-risques-de-demence-peuvent-etre-evites-ou-retardes-selon-l-oms_193803?xtor=RSS-16"
+          "outlet": "Le Monde",
+          "take": "Le gouvernement craint que la réintroduction des pesticides ne provoque un rejet global du texte au moment du vote à l'Assemblée.",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/17/loi-d-urgence-agricole-sebastien-lecornu-demande-aux-ministres-de-consulter-les-groupes-parlementaires_6724160_823448.html"
         }
       ],
       "id": 22,
@@ -616,18 +630,13 @@
       "themes": [
         "Insolite"
       ],
-      "title": "Deux médias lancent des appels à témoignages sur la météo",
-      "full": "20 Minutes et Le Monde sollicitent leurs lecteurs pour deux enquêtes distinctes liées à la météorologie. Le premier média cherche à recueillir des récits sur le vécu des canicules et leurs possibles impacts traumatiques. Le second s'intéresse aux usages des applications météorologiques alternatives à Météo-France, en pleine multiplication sur le marché.",
+      "title": "Un écureuil s'échappe dans les bureaux de Meta à Bangkok",
+      "full": "Un écureuil, arrivé clandestinement dans un colis, s'est échappé dans les locaux de Meta en Thaïlande et a couru une vingtaine de minutes à travers les bureaux. Le rongeur a légèrement blessé un agent d'entretien avant d'être maîtrisé. L'incident rappelle les déboires occasionnels causés par des animaux s'introduisant inopinément dans les espaces de travail.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Collecte de témoignages sur le rapport émotionnel aux vagues de chaleur et leurs conséquences psychologiques.",
-          "url": "https://www.20minutes.fr/sante/4234832-20260716-vecu-canicules-comme-traumatismes-racontez?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Enquête sur les préférences des utilisateurs face à la concurrence croissante entre services météorologiques gratuits et payants.",
-          "url": "https://www.lemonde.fr/pixels/appel-temoignages/2026/07/16/quelle-application-meteo-utilisez-vous-racontez-nous_6723797_4408996.html"
+          "outlet": "Slate",
+          "take": "Un écureuil dissimulé dans un colis a provoqué une course-poursuite chaotique dans les locaux de Meta à Bangkok, blessant légèrement un membre du personnel.",
+          "url": "https://www.slate.fr/sciences/colis-meta-ecureuil-bureau-blessure-bangkok-thailande"
         }
       ],
       "id": 23,
@@ -635,78 +644,19 @@
     },
     {
       "themes": [
-        "France"
+        "Insolite"
       ],
-      "title": "Elon Musk soutient publiquement Marine Le Pen pour 2027",
-      "full": "Le milliardaire Elon Musk a déclaré mercredi 15 juillet voir en Marine Le Pen « le dernier espoir de la France », marquant un soutien explicite à sa candidature pour l'élection présidentielle de 2027. Cette prise de position tranche avec ses interventions antérieures, où il avait soutenu la leader du Rassemblement national de manière plus discrète, notamment lors de son procès. Plusieurs responsables politiques français dénoncent cette ingérence d'un acteur étranger majeur dans la campagne électorale française.",
+      "title": "Des archéologues découvrent vingt-quatre langues en or en Égypte",
+      "full": "Des archéologues ont mis au jour vingt-quatre amulettes en forme de langues dans un cimetière antique égyptien, datant de plus de deux mille ans. Ces objets funéraires étaient placés dans les tombes et avaient probablement pour fonction de permettre aux défunts de communiquer avec les dieux dans l'au-delà, selon les chercheurs.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Ce soutien s'inscrit dans la continuité des prises de position de Musk en faveur de mouvements d'extrême droite populiste en Europe.",
-          "url": "https://www.liberation.fr/politique/soutien-delon-musk-a-marine-le-pen-il-donne-son-soutien-a-la-figure-de-lextreme-droite-qui-a-le-plus-de-chances-de-lemporter-20260716_BWPJDAHAENEQZLMOV7NY3H53TU/"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Cette déclaration représente un changement de stratégie par rapport au soutien personnel et discret que Musk apportait jusqu'à présent à la candidate.",
-          "url": "https://www.franceinfo.fr/politique/marine-le-pen/elon-musk-estime-que-marine-le-pen-est-le-dernier-espoir-de-la-france_8109773.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Slate",
+          "take": "La découverte souligne le rôle des amulettes dans les rites funéraires égyptiens, particulièrement leur importance pour la communication avec le monde divin.",
+          "url": "https://www.slate.fr/culture/archeologues-decouverte-tombes-egyptiennes-langues-or-cimetiere-antique-alexandrie-dieu-mort"
         }
       ],
       "id": 24,
       "priority": 25
-    },
-    {
-      "themes": [
-        "Santé",
-        "Tech & Sciences"
-      ],
-      "title": "Doctolib lance un projet d'IA utilisant les données de santé des patients",
-      "full": "Doctolib s'apprête à lancer en août 2026 un projet de recherche en intelligence artificielle fondé sur les données personnelles et médicales de ses utilisateurs, sans demander de consentement préalable. Ce projet vise à optimiser les parcours de soin grâce à l'IA. La plateforme justifie cette démarche auprès des médias comme relevant à la fois d'une amélioration de la qualité des soins et d'une question de souveraineté française.",
-      "angles": [
-        {
-          "outlet": "Libération",
-          "take": "Doctolib utilisera les données personnelles sans consentement préalable des utilisateurs et justifie ce choix par des enjeux de qualité des soins et de souveraineté.",
-          "url": "https://www.liberation.fr/checknews/doctolib-pourquoi-la-plateforme-veut-utiliser-vos-donnees-de-sante-pour-un-projet-de-recherche-avec-lia-20260716_TCGZ4NZTQNCCVCDKCUMTZMC2JY/"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Le projet, lancé en août 2026, portera sur l'optimisation des parcours de soin et s'appuiera directement sur les données de santé stockées par la plateforme.",
-          "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/que-sait-on-du-projet-de-recherche-de-doctolib-qui-va-donner-nos-informations-personnelles-a-une-intelligence-artificielle_8063834.html#xtor=RSS-3-%5Bgeneral%5D"
-        }
-      ],
-      "id": 25,
-      "priority": 26
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "La mine d'or du Hollandais perdu fascine toujours l'Amérique",
-      "full": "La légende de la mine d'or du Hollandais perdu, dissimulée quelque part en Arizona, demeure l'une des plus célèbres énigmes de l'Ouest américain depuis le XIXe siècle. Ce mythe s'est nourri de cartes secrètes, de meurtres inexpliqués et d'expéditions tragiques, attirant explorateurs et chercheurs de trésor à travers les décennies. Le mystère conserve toujours sa capacité à captiver l'imaginaire collectif américain.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "Le récit combine éléments de trésor, de crimes énigmatiques et d'aventures périlleuses pour former un récit légendaire de l'Ouest américain.",
-          "url": "https://www.slate.fr/monde/mystere-mine-or-perdue-arizona-etats-unis-carte-tresor-mort"
-        }
-      ],
-      "id": 26,
-      "priority": 27
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Une mystérieuse sphère de pierre découverte en Azerbaïdjan",
-      "full": "Des archéologues ont mis au jour en Azerbaïdjan une pierre sphérique dont l'origine et l'utilité demeurent énigmatiques. L'objet, dont le mode de fabrication reste inconnu, pourrait offrir des éclairages précieux sur la préhistoire et le Néolithique de cette région.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "L'artefact intrigant constituerait une clé potentielle pour mieux comprendre les modes de vie et les techniques des sociétés préhistoriques.",
-          "url": "https://www.slate.fr/monde/archeologues-pierre-spherique-prehistoire-neolithique-azerbaidjan-fouilles"
-        }
-      ],
-      "id": 27,
-      "priority": 28
     }
   ]
 }
