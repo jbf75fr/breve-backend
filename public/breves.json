@@ -1,29 +1,34 @@
 {
-  "generated_at": "2026-07-20T04:02:27.403233+00:00",
+  "generated_at": "2026-07-20T06:37:47.082449+00:00",
   "date_label": "Lundi 20 juillet",
-  "count": 19,
+  "count": 17,
   "breves": [
     {
       "themes": [
         "Monde"
       ],
-      "title": "L'Espagne remporte la Coupe du monde face à l'Argentine",
-      "full": "L'Espagne a remporté dimanche sa deuxième Coupe du monde en battant l'Argentine 1-0 après prolongations en finale, disputée au MetLife Stadium. Ferran Torres a inscrit le but décisif face à des adversaires réduits à dix après l'expulsion d'Enzo Fernandez en fin de temps réglementaire. Kylian Mbappé termine meilleur buteur de l'édition avec 10 buts et devient le meilleur buteur de l'histoire de la compétition avec 22 réalisations en 22 matches.",
+      "title": "États-Unis et Iran intensifient leurs frappes au Moyen-Orient",
+      "full": "Les États-Unis ont mené des bombardements sur l'Iran pour la neuvième nuit consécutive, ciblant des centres de commandement et des réseaux de communication iraniens. Cette escalade fait suite à la mort de deux militaires américains en Jordanie vendredi, portant à seize le nombre de victimes américaines dans le conflit. En réaction, les Gardiens de la Révolution iraniens ont déclaré avoir frappé des cibles militaires américaines au Koweït et en Jordanie, ainsi qu'avoir saisi deux pétroliers dans le détroit d'Ormuz. Les échanges de tirs s'étendent ainsi à plusieurs pays du Golfe persique.",
       "angles": [
         {
+          "outlet": "Le Figaro International",
+          "take": "Les frappes américaines visent à punir Téhéran après les pertes américaines, dans un contexte de surenchère.",
+          "url": "https://www.lefigaro.fr/international/apres-les-deux-morts-americains-en-jordanie-trump-pousse-a-la-surenchere-en-iran-20260719"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Les États-Unis ciblent l'infrastructure de commandement iranienne tandis que Téhéran riposte par des attaques de drones dans la région.",
+          "url": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-au-moyen-orient-l-armee-americaine-a-bombarde-l-iran-pour-la-neuvieme-nuit-de-suite-apres-la-mort-de-plusieurs-de-ses-soldats_6725301_3210.html"
+        },
+        {
           "outlet": "France 24",
-          "take": "La Roja conquiert son deuxième titre mondial seize ans après le premier, tandis que Mbappé établit un record historique de buts en Coupe du monde.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/le-club-du-mondial/20260719-mondial-2026-l-espagne-d%C3%A9croche-sa-deuxi%C3%A8me-%C3%A9toile"
+          "take": "Trump affirme avoir frappé très durement l'Iran pendant que l'armée koweïtienne signale de nouvelles attaques de drones iraniens.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260719-en-direct-9e-nuit-frappes-americaines-iran-attaque-frappes-centre-de-commandement-syrie-liban-etats-unis-gardiens-revolution-pays-golfe-koweit-bahrein-jordanie"
         },
         {
           "outlet": "Libération",
-          "take": "L'Espagne parvient à ses fins grâce à l'avantage numérique obtenu par l'expulsion d'Enzo Fernandez en fin de temps réglementaire.",
-          "url": "https://www.liberation.fr/sports/football/finale-de-la-coupe-du-monde-lespagne-et-largentine-face-a-face-pour-decrocher-letoile-20260719_D4ADAC66JBEVTJVYYQMRWPS5ZU/"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "La finale s'accompagne d'un spectacle de clôture prestigieux réunissant Tom Cruise, Robbie Williams, Madonna, Shakira et Justin Bieber.",
-          "url": "https://www.20minutes.fr/sport/football/4235214-20260719-coupe-monde-2026-tom-cruise-madonna-stars-mettent-touche-finale-mondial?at_medium=display&at_campaign=149"
+          "take": "Les frappes américaines suscitent désormais des inquiétudes au sein de la population iranienne, le sud du pays s'enfonçant dans le chaos.",
+          "url": "https://www.liberation.fr/international/moyen-orient/chaque-jour-nous-nous-reveillons-avec-le-bruit-des-missiles-en-iran-le-dur-retour-a-la-realite-de-la-guerre-20260720_NWDIC5543JAUBNRQPIO5A7LLIM/"
         }
       ],
       "id": 0,
@@ -32,35 +37,35 @@
     {
       "themes": [
         "Monde",
-        "Environnement"
+        "Sport"
       ],
-      "title": "Incendies massifs en France et Espagne, aggravés par la sécheresse",
-      "full": "Plusieurs foyers ravagent le sud de la France et l'Espagne centrale. En Haute-Corse, deux incendies déclenchés par la foudre le 12 juillet progressent toujours dans des zones montagneuses difficiles d'accès, ayant consumé près de 400 hectares. Dans le Var, les pompiers combattent des feux apparus dimanche, l'un ayant brûlé 200 hectares. En Espagne, un incendie majeur près de Guadalajara (nord de Madrid) a détruit plus de 13 000 hectares, sans faire de victime pour l'instant. La sécheresse et les fortes températures alimentent ces sinistres, les autorités espagnoles redoutant une nouvelle canicule avec des pics à plus de 40 °C.",
+      "title": "L'Espagne remporte sa deuxième Coupe du monde face à l'Argentine",
+      "full": "L'Espagne a remporté dimanche la finale de la Coupe du monde 2026 face à l'Argentine tenante du titre, s'imposant 1-0 après prolongations à New York. Les Espagnols réalisent ainsi le doublé Euro-Mondial et mettent fin au règne argentin. Kylian Mbappé a terminé meilleur buteur du tournoi avec 10 buts et devient le meilleur buteur de l'histoire de la compétition avec 22 buts en 22 matches. Cette édition du Mondial, organisée aux États-Unis, s'est caractérisée par son ampleur mais également par une faible ferveur du public américain, compensée par l'enthousiasme des supporters internationaux.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Met l'accent sur l'ampleur des dégâts en Haute-Corse et l'accessibilité réduite aux zones sinistrées pour les secours.",
-          "url": "https://www.20minutes.fr/planete/4235188-20260719-haute-corse-incendies-progressent-zones-difficiles-acces-400-hectares-partis-fumee?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Souligne la durée de l'engagement en Haute-Corse (une semaine après le déclenchement) tout en notant une évolution favorable dans le Var.",
-          "url": "https://www.lemonde.fr/planete/article/2026/07/19/en-haute-corse-les-incendies-progressent-dans-des-zones-difficiles-d-acces_6725886_3244.html"
-        },
-        {
           "outlet": "France 24",
-          "take": "Relie les incendies à la sécheresse générale et à l'alerte canicule émise par Météo-France pour ces deux territoires.",
-          "url": "https://www.france24.com/fr/france/20260720-secheresse-feu-foret-pompiers-france-plusieurs-incendies-ravagent-var-corse"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Relève l'ampleur exceptionnelle du feu dans le centre espagnol et l'inquiétude face aux températures extrêmes annoncées.",
-          "url": "https://www.liberation.fr/international/europe/espagne-un-important-incendie-en-cours-dans-le-centre-du-pays-avant-une-nouvelle-canicule-20260719_PFOMNEE3IRHKFPQBLQ5J7RUH3Y/"
+          "take": "L'Espagne décroche son second titre mondial seize ans après le premier, profitant d'une infériorité numérique de l'Argentine en fin de temps réglementaire.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/le-club-du-mondial/20260719-mondial-2026-l-espagne-d%C3%A9croche-sa-deuxi%C3%A8me-%C3%A9toile"
         },
         {
           "outlet": "France Info",
-          "take": "Précise la localisation du principal foyer espagnol à proximité de la capitale madrilène et son classement en situation « difficile ».",
-          "url": "https://www.franceinfo.fr/faits-divers/incendie/en-espagne-plus-de-12-000-hectares-reduits-en-cendres-dans-un-incendie-localise-a-100-kilometres-au-nord-de-madrid_8113856.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Didier Deschamps conclut quatorze années de règne à la tête de la sélection française en remportant une deuxième étoile.",
+          "url": "https://www.franceinfo.fr/coupe-du-monde/en-images-didier-deschamps-quatorze-ans-de-regne-et-une-deuxieme-etoile-a-jamais-dans-l-histoire_8101658.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "outlet": "L'Humanité",
+          "take": "Face à une Argentine repliée défensivement, l'Espagne dominatrice a trouvé la faille en prolongations.",
+          "url": "https://www.humanite.fr/sports/argentine/coupe-du-monde-2026-lespagne-sacree-au-bout-de-leffort-largentine-detronee"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "La finale a accueilli un concert de mi-temps sur le modèle du Super Bowl avec Shakira, BTS, Madonna et Justin Bieber, dépassant les limites réglementaires du football.",
+          "url": "https://www.lemonde.fr/sport/article/2026/07/19/shakira-bts-madonna-et-justin-bieber-un-fade-half-time-show-a-l-americaine-pour-conclure-une-coupe-du-monde-2026-demesuree_6726366_3242.html"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Le Mondial américain s'est davantage distingué par son gigantisme que par sa capacité à enthousiasmer les hôtes nationaux.",
+          "url": "https://www.liberation.fr/sports/football/aux-etats-unis-une-coupe-du-monde-tout-en-superlatifs-mais-sans-grande-ferveur-20260720_J2BNU4D2MFDM3A4JMRFECDYDBU/"
         }
       ],
       "id": 1,
@@ -68,30 +73,35 @@
     },
     {
       "themes": [
-        "France"
+        "Environnement"
       ],
-      "title": "Affaire Jubillar : les ossements de Delphine confirmés",
-      "full": "Les analyses de l'Institut de recherche criminelle de la gendarmerie nationale confirment que les ossements retrouvés dans un champ de Mailhoc, en Tarn, sont bien ceux de Delphine Aussaguel. Cédric Jubillar, condamné pour le meurtre de son épouse disparue en 2020, avait indiqué le lieu de sépulture après plus de cinq ans et demi de mensonges. Le procureur général de la cour d'appel de Toulouse a validé les résultats des analyses ADN dimanche soir.",
+      "title": "Incendies en France et Espagne, 27 départements en alerte",
+      "full": "Plusieurs incendies ravagent le sud de la France et l'Espagne, alimentés par la sécheresse et les chaleurs persistantes. Dans le Var, les secteurs de Taradeau et des Arcs sont particulièrement touchés avec des habitations menacées et le trafic SNCF interrompu entre Toulon et Nice. En Corse, l'incendie d'Albertacce a détruit 326 hectares. Météo-France a placé 27 départements en risque élevé de feux de forêt et six en vigilance orange canicule ce lundi. En Espagne, un incendie a brûlé 13 000 hectares dans la province de Guadalajara, avec des températures dépassant les 40 °C annoncées.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Les ossements ont été retrouvés selon les indications de Cédric Jubillar et confirmés scientifiquement.",
-          "url": "https://www.20minutes.fr/justice/4235205-20260719-affaire-jubillar-ossements-retrouves-bien-ceux-delphine?at_medium=display&at_campaign=149"
-        },
-        {
           "outlet": "France Info",
-          "take": "Après cinq ans et demi de mensonges, l'accusé a finalement révélé l'endroit où il avait enterré le corps de son épouse.",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-analyses-confirment-qu-il-s-agit-bien-des-ossements-de-delphine-aussaguel_8114387.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "L'alerte rouge météorologique confirmée par des feux actifs dans le Var, avec progression rapide des flammes et impacts directs sur les infrastructures et habitations.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-dans-le-var-evacuations-et-maisons-menacees_8114405.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "Libération",
-          "take": "Les fouilles ont été menées dans une zone à environ dix kilomètres de la maison du couple.",
-          "url": "https://www.liberation.fr/societe/affaire-jubillar-les-ossements-retrouves-dans-le-tarn-sont-bien-ceux-de-delphine-aussaguel-selon-plusieurs-medias-20260719_7ER2COF6PNCSRKAS4GHAIGNNH4/"
+          "outlet": "20 Minutes",
+          "take": "L'ampleur territoriale de la crise avec 27 départements en risque élevé et six en vigilance orange canicule ce lundi.",
+          "url": "https://www.20minutes.fr/planete/secheresse/4235359-20260720-incendies-27-departements-places-risque-eleve-feux-forets-lundi-meteo-france?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "Le Monde",
-          "take": "Cette confirmation soulève des incertitudes sur le déroulement du procès en appel.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/20/affaire-jubillar-apres-la-decouverte-des-ossements-de-delphine-aussaguel-dans-un-champ-du-tarn-incertitudes-sur-le-proces-en-appel_6726566_3224.html"
+          "take": "Le contexte du Var en risque extrême aux feux de forêt avec fermeture préventive des massifs.",
+          "url": "https://www.lemonde.fr/planete/article/2026/07/20/incendies-en-france-27-departements-places-en-risque-eleve-de-feux-de-foret-six-departements-en-vigilance-orange-canicule_6726844_3244.html"
+        },
+        {
+          "outlet": "France 24",
+          "take": "Les superficies brûlées et la mobilisation des pompiers face aux incendies simultanés dans le Var et la Haute-Corse.",
+          "url": "https://www.france24.com/fr/france/20260720-secheresse-feu-foret-pompiers-france-plusieurs-incendies-ravagent-var-corse"
+        },
+        {
+          "outlet": "Libération",
+          "take": "L'extension du phénomène à l'Espagne avec un foyer majeur dans la province de Guadalajara déjà très étendu.",
+          "url": "https://www.liberation.fr/international/europe/espagne-un-important-incendie-en-cours-dans-le-centre-du-pays-avant-une-nouvelle-canicule-20260719_PFOMNEE3IRHKFPQBLQ5J7RUH3Y/"
         }
       ],
       "id": 2,
@@ -99,31 +109,30 @@
     },
     {
       "themes": [
-        "Culture",
-        "Société"
+        "France"
       ],
-      "title": "Un concert de Barbara Butch interrompu à Grenoble par des militants",
-      "full": "Le concert de la DJ Barbara Butch s'est déroulé samedi à Grenoble avant d'être interrompu par une centaine de militants propalestiniens. Ces derniers reprochaient à l'artiste son soutien à la proposition de loi Yadan, présentée puis retirée au printemps. L'action a été menée sur appel de la section locale de La France insoumise. La mairie de Grenoble a dénoncé une « agression intolérable » tandis que LFI a qualifié l'intervention de « manifestation pacifique » et contesté tout appel à la violence.",
+      "title": "Affaire Jubillar : les ossements retrouvés confirmés être ceux de Delphine",
+      "full": "Les analyses de l'Institut de recherche criminelle de la gendarmerie nationale ont confirmé que les ossements découverts dans un champ près de Mailhoc, dans le Tarn, appartiennent à Delphine Aussaguel. Cédric Jubillar, son mari, avait indiqué le lieu de découverte après plus de cinq ans et demi de mensonges. Cette confirmation intervient alors que le dossier est en appel devant la cour de Toulouse, soulevant des questions sur les suites judiciaires.",
       "angles": [
         {
           "outlet": "20 Minutes",
-          "take": "Le concert a été perturbé par des militants propalestiniens en raison de la présence de Barbara Butch.",
-          "url": "https://www.20minutes.fr/arts-stars/culture/4235210-20260719-grenoble-concert-dj-barbara-butch-interrompu-militants-propalestiniens-lfi?at_medium=display&at_campaign=149"
+          "take": "Les ossements ont été retrouvés sur indication de Cédric Jubillar et les analyses scientifiques les identifient formellement comme étant ceux de Delphine.",
+          "url": "https://www.20minutes.fr/justice/4235205-20260719-affaire-jubillar-ossements-retrouves-bien-ceux-delphine?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "France Info",
-          "take": "Les manifestants contestaient le soutien de la DJ à la proposition de loi Yadan.",
-          "url": "https://www.franceinfo.fr/societe/le-concert-de-la-dj-barbara-butch-a-grenoble-interrompu-samedi-par-une-centaine-de-militants-pro-palestiniens_8113775.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Deux lectures divergentes de l'événement : la mairie le qualifie d'agression tandis que LFI parle de manifestation pacifique.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/19/un-concert-de-la-dj-barbara-butch-interrompu-par-des-militants-propalestiniens-a-grenoble_6726132_823448.html"
+          "take": "Après plus de cinq ans et demi de mensonges, l'accusé a finalement révélé le lieu où il avait enterré le corps de son épouse.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-analyses-confirment-qu-il-s-agit-bien-des-ossements-de-delphine-aussaguel_8114387.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "Libération",
-          "take": "Barbara Butch, connue pour avoir participé à la cérémonie des JO, a été forcée de quitter la scène lors d'un festival isérois.",
-          "url": "https://www.liberation.fr/culture/on-depasse-les-limites-de-ce-qui-est-acceptable-en-democratie-barbara-butch-forcee-de-quitter-la-scene-du-cabaret-frappe-a-grenoble-20260719_DWNXM7QXTVGE7KYQDXQWOZV5LE/"
+          "take": "Les fouilles se sont déroulées dans une zone désignée par Cédric Jubillar sur la commune de Mailhoc, à environ dix kilomètres du domicile du couple.",
+          "url": "https://www.liberation.fr/societe/affaire-jubillar-les-ossements-retrouves-dans-le-tarn-sont-bien-ceux-de-delphine-aussaguel-selon-plusieurs-medias-20260719_7ER2COF6PNCSRKAS4GHAIGNNH4/"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "La confirmation des résultats ADN par le procureur général crée des incertitudes quant aux développements futurs du procès en appel.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/20/affaire-jubillar-apres-la-decouverte-des-ossements-de-delphine-aussaguel-dans-un-champ-du-tarn-incertitudes-sur-le-proces-en-appel_6726566_3224.html"
         }
       ],
       "id": 3,
@@ -131,25 +140,31 @@
     },
     {
       "themes": [
+        "Culture",
         "Société"
       ],
-      "title": "Andrew Tate et son frère arrêtés aux États-Unis",
-      "full": "L'influenceur masculiniste Andrew Tate et son frère Tristan ont été arrêtés samedi en Floride par les autorités américaines à la demande du Royaume-Uni, qui réclame leur extradition. Ils sont recherchés pour viols, complicité d'exploitation sexuelle et infractions liées à des images indécentes d'enfant. Selon le parquet britannique, 59 chefs d'accusation pèsent contre eux, impliquant au moins sept victimes présumées. Les deux hommes font également l'objet d'une procédure judiciaire en Roumanie.",
+      "title": "Concert de Barbara Butch interrompu à Grenoble par des militants",
+      "full": "Le concert de la DJ Barbara Butch a été interrompu samedi soir à Grenoble par environ cent militants propalestiniens. Les manifestants reprochaient à l'artiste son soutien à la proposition de loi Yadan, examinée puis retirée au printemps. La mairie de Grenoble a qualifié les événements « d'agression intolérable », tandis que La France insoumise, dont la section locale avait appelé à cette action, l'a décrite comme une « manifestation pacifique ».",
       "angles": [
         {
+          "outlet": "20 Minutes",
+          "take": "Mentionne l'implication de militants propalestiniens et de représentants de LFI dans l'interruption.",
+          "url": "https://www.20minutes.fr/arts-stars/culture/4235210-20260719-grenoble-concert-dj-barbara-butch-interrompu-militants-propalestiniens-lfi?at_medium=display&at_campaign=149"
+        },
+        {
           "outlet": "France Info",
-          "take": "Le parquet britannique énumère les infractions précises : viols, complicité d'exploitation sexuelle et images indécentes d'un enfant.",
-          "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-influenceur-masculiniste-andrew-tate-et-son-frere-tristan-arretes-aux-etats-unis-a-la-demande-du-royaume-uni-qui-reclame-leur-extradition_8113703.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Précise que les manifestants contestaient le positionnement de la DJ sur la proposition de loi Yadan.",
+          "url": "https://www.franceinfo.fr/societe/le-concert-de-la-dj-barbara-butch-a-grenoble-interrompu-samedi-par-une-centaine-de-militants-pro-palestiniens_8113775.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Souligne le désaccord d'interprétation entre la mairie, qui dénonce une agression, et LFI, qui réfute tout appel à la violence.",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/19/un-concert-de-la-dj-barbara-butch-interrompu-par-des-militants-propalestiniens-a-grenoble_6726132_823448.html"
         },
         {
           "outlet": "Libération",
-          "take": "Détaille le nombre de chefs d'accusation (59) et le nombre de victimes présumées (au moins sept).",
-          "url": "https://www.liberation.fr/international/amerique/etats-unis-linfluenceur-masculiniste-andrew-tate-et-son-frere-arretes-le-royaume-uni-reclame-leur-extradition-20260719_AXA6VEV7YFAOBEDCWIUJRKBR4U/"
-        },
-        {
-          "outlet": "Mediapart",
-          "take": "Souligne que les deux hommes demeurent sous menace de procès en Roumanie, où ils avaient installé leur activité pornographique.",
-          "url": "https://www.mediapart.fr/journal/international/190726/mis-en-cause-pour-viols-l-influenceur-masculiniste-andrew-tate-et-son-frere-arretes-aux-etats-unis"
+          "take": "Contextualise en rappelant que Barbara Butch a participé à la cérémonie d'ouverture des JO et est régulièrement visée par l'extrême droite.",
+          "url": "https://www.liberation.fr/culture/on-depasse-les-limites-de-ce-qui-est-acceptable-en-democratie-barbara-butch-forcee-de-quitter-la-scene-du-cabaret-frappe-a-grenoble-20260719_DWNXM7QXTVGE7KYQDXQWOZV5LE/"
         }
       ],
       "id": 4,
@@ -157,26 +172,31 @@
     },
     {
       "themes": [
-        "Tech & Sciences",
+        "France",
         "Environnement"
       ],
-      "title": "La station Tara commence sa mission en Arctique pour 18 mois",
-      "full": "La station scientifique flottante Tara a quitté Lorient ce dimanche pour une expédition inédite en Arctique. Douze chercheurs vont dériver volontairement sur la banquise jusqu'à fin 2027, embarqués à bord de ce laboratoire mobile surnommé « l'ISS du pôle Nord ». L'objectif est de collecter des données sur le climat, la biodiversité et les effets du réchauffement climatique dans cette région vulnérable, en observant l'évolution des phénomènes à travers les saisons et la nuit polaire.",
+      "title": "Loi d'urgence agricole : le retour de pesticides divise l'Assemblée",
+      "full": "L'Assemblée nationale doit voter lundi 20 juillet sur un projet de loi d'urgence agricole dont le contenu s'est progressivement éloigné de ses objectifs initiaux. Le texte, qui introduirait l'acétamipride, un insecticide interdit en France mais autorisé en Europe, divise la majorité parlementaire et embarrasse le gouvernement qui cherche un compromis avant le scrutin. Au-delà de cette question de pesticides, la loi suscite aussi des inquiétudes sur sa gestion de l'eau agricole, que plusieurs observateurs jugent susceptible de déséquilibrer l'accès à cette ressource au profit des grandes exploitations.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "L'équipe vivra plusieurs mois dans la nuit polaire arctique pour mener des observations continues en conditions extrêmes.",
-          "url": "https://www.franceinfo.fr/sante/decouverte-scientifique/reportage-voir-comment-cela-evolue-a-travers-les-saisons-la-station-tara-va-passer-18-mois-dans-la-nuit-polaire-pour-etudier-le-rechauffement-climatique_8113682.html#xtor=RSS-3-[lestitres]"
+          "take": "Le retour de l'acétamipride crée des tensions au sein de la majorité et menace de faire échouer le projet de loi.",
+          "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-le-retour-d-un-pesticide-menace-de-faire-echouer-le-projet-de-loi-d-urgence-agricole-a-l-assemblee_8064653.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "Libération",
-          "take": "La station recueillera des données combinées sur le climat et la biodiversité d'une région méconnue jusqu'à fin 2027.",
-          "url": "https://www.liberation.fr/environnement/la-station-polaire-tara-quitte-la-france-pour-aller-etudier-le-climat-et-la-biodiversite-de-larctique-20260719_UHWEGFMAV5HCFHN3W2W5GYV3FA/"
+          "take": "Le texte initial de crise s'est transformé au fil des débats parlementaires jusqu'à dépasser le contrôle du gouvernement.",
+          "url": "https://www.liberation.fr/environnement/agriculture/loi-durgence-agricole-des-manifs-de-lhiver-aux-compromis-de-derniere-minute-genese-dun-texte-empoisonne-20260720_WADYSYTS2JAJNNU6ZMA6UZE5T4/"
         },
         {
-          "outlet": "Le Figaro Sciences",
-          "take": "Cette mission est exceptionnelle par la combinaison inédite entre recherche en physique et en biologie marine.",
-          "url": "https://www.lefigaro.fr/sciences/tara-polaris-i-part-vers-l-arctique-l-effort-de-recherche-combine-entre-physique-et-biologie-est-sans-precedent-20260719"
+          "outlet": "Le Monde",
+          "take": "Les dispositions sur l'eau agricole risquent de contredire les grands textes de protection de l'environnement.",
+          "url": "https://www.lemonde.fr/planete/article/2026/07/20/loi-d-urgence-agricole-ce-texte-consacre-la-primaute-absolue-des-usages-agricoles-de-l-eau-sur-les-besoins-des-autres-usagers_6726706_3244.html"
+        },
+        {
+          "outlet": "L'Humanité",
+          "take": "La loi renforcerait la mainmise de l'agro-industrie sur l'eau en période de sécheresse exceptionnelle, au détriment des petites fermes.",
+          "url": "https://www.humanite.fr/environnement/agriculture/demain-il-ny-aura-plus-de-paysans-qui-pronent-le-modele-bio-en-pleine-canicule-les-petites-fermes-laissees-pour-compte-de-la-loi-durgence-agricole"
         }
       ],
       "id": 5,
@@ -186,23 +206,23 @@
       "themes": [
         "Monde"
       ],
-      "title": "Au Mali, au moins 50 militaires tués dans une embuscade",
-      "full": "Un convoi de l'armée malienne a été attaqué samedi en quittant la ville d'Anéfis, dans le nord du pays, pour se rendre à Gao. L'embuscade a été menée par une coalition d'indépendantistes touareg et de groupes djihadistes affiliés à Al-Qaïda et l'État islamique. Selon des sources locales, au moins 24 soldats ont également été faits prisonniers. Le Mali connaît une crise sécuritaire chronique depuis 2012, alimentée par ces mêmes mouvements ainsi que par des groupes criminels.",
+      "title": "Andy Burnham devient premier ministre britannique lundi",
+      "full": "Andy Burnham, ancien maire de Manchester surnommé le « Roi du Nord », a remporté vendredi la course à la direction du Parti travailliste. Il succèdera à Keir Starmer à Downing Street dès lundi. À 56 ans, il devient le sixième premier ministre britannique en dix ans. Burnham prépare la composition de son gouvernement en envisageant de recruter des figures provenant des deux ailes de son parti, laissant pour l'instant en suspens l'orientation précise de sa politique face aux défis majeurs du Royaume-Uni.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Souligne le caractère stratégique d'Anéfis et précise que le convoi se dirigeait vers Gao lors de l'attaque.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/07/19/au-mali-au-moins-50-militaires-tues-dans-une-attaque-d-independantistes-et-de-djihadistes_6725956_3212.html"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Contextualise l'incident en rappelant la profondeur de la crise sécuritaire malienne depuis plus d'une décennie.",
-          "url": "https://www.franceinfo.fr/monde/afrique/mali/guerre-au-mali/au-moins-50-militaires-tues-dans-une-attaque-des-independantistes-et-des-jihadistes-au-mali_8113877.html#xtor=RSS-3-[lestitres]"
+          "outlet": "Le Figaro International",
+          "take": "Le nouveau premier ministre souligne son préparation et l'existence d'un plan pour diriger le pays.",
+          "url": "https://www.lefigaro.fr/international/je-suis-pret-j-ai-un-plan-au-royaume-uni-le-roi-du-nord-andy-burnham-couronne-a-la-tete-du-labour-20260717"
         },
         {
           "outlet": "Libération",
-          "take": "Met l'accent sur les prisonniers, rapportant qu'au moins 24 soldats ont été capturés selon les sources locales.",
-          "url": "https://www.liberation.fr/international/afrique/mali-au-moins-50-militaires-tues-dans-une-embuscade-touareg-et-jihadiste-20260719_OLQWQ6BNPRBOHDBUKQBKEPVPVU/"
+          "take": "Burnham construit un gouvernement d'ouverture regroupant sensibilités travaillistes de gauche et de droite.",
+          "url": "https://www.liberation.fr/international/europe/au-royaume-uni-le-travailliste-andy-burnham-prepare-son-casting-ministeriel-20260720_GQTIMAGZBVEPZEBJMPH3DAHIH4/"
+        },
+        {
+          "outlet": "France 24",
+          "take": "Sa nomination intervient dans un contexte de forte instabilité exécutive, avec six premiers ministres en une décennie.",
+          "url": "https://www.france24.com/fr/info-en-continu/20260720-royaume-uni-andy-burnham-remplace-keir-starmer-au-poste-de-premier-ministre"
         }
       ],
       "id": 6,
@@ -210,26 +230,26 @@
     },
     {
       "themes": [
-        "Économie",
+        "Tech & Sciences",
         "Environnement"
       ],
-      "title": "L'Union européenne interdit la destruction de vêtements invendus",
-      "full": "À partir de ce dimanche, les fabricants et distributeurs de mode établis dans l'Union européenne ne pourront plus détruire leurs stocks invendus de vêtements, chaussures et accessoires. Chaque année, environ 600 000 tonnes de produits textiles sont actuellement éliminées en Europe. Les entreprises sont désormais incitées à explorer des alternatives : revente, reconditionnement, dons ou réutilisation. Cette mesure vise à réduire le gaspillage et l'impact environnemental du secteur textile.",
+      "title": "La station polaire Tara démarre sa mission en Arctique",
+      "full": "Le laboratoire flottant Tara Polaris I a quitté Lorient ce dimanche pour une expédition scientifique sans précédent en Arctique. Douze chercheurs vont dériver sur la banquise jusqu'à fin 2027, vivant notamment dix-huit mois dans la nuit polaire. Cette mission combinera l'étude de la physique des glaces et de la biologie marine pour mesurer l'impact du réchauffement climatique sur cette région vulnérable et mieux comprendre son évolution saisonnière.",
       "angles": [
         {
+          "outlet": "Libération",
+          "take": "Met l'accent sur le rôle du navire comme laboratoire flottant recueillant des données sur le climat et la biodiversité arctiques jusqu'en 2027.",
+          "url": "https://www.liberation.fr/environnement/la-station-polaire-tara-quitte-la-france-pour-aller-etudier-le-climat-et-la-biodiversite-de-larctique-20260719_UHWEGFMAV5HCFHN3W2W5GYV3FA/"
+        },
+        {
+          "outlet": "Le Figaro Sciences",
+          "take": "Souligne le caractère inédit de l'approche combinant la recherche en physique et en biologie de manière intégrée.",
+          "url": "https://www.lefigaro.fr/sciences/tara-polaris-i-part-vers-l-arctique-l-effort-de-recherche-combine-entre-physique-et-biologie-est-sans-precedent-20260719"
+        },
+        {
           "outlet": "France Info",
-          "take": "Souligne l'ampleur du phénomène avec le volume annuel de produits détruits en Europe.",
-          "url": "https://www.franceinfo.fr/economie/dons-reconditionnement-recyclage-le-secteur-de-la-mode-a-desormais-l-interdiction-de-detruire-les-vetements-et-chaussures-invendus_8113049.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "Énumère les solutions alternatives encouragées : revente, reconditionnement, dons et réutilisation.",
-          "url": "https://www.humanite.fr/societe/mode/textile-lunion-europeenne-interdit-depuis-ce-dimanche-la-destruction-de-vetements-accessoires-et-chaussures-invendus"
-        },
-        {
-          "outlet": "Le Figaro Éco",
-          "take": "Détaille les obligations imposées aux fabricants concernant la gestion des stocks et des retours.",
-          "url": "https://www.lefigaro.fr/conso/textile-l-union-europeenne-interdit-depuis-ce-dimanche-la-destruction-de-vetements-accessoires-et-chaussures-invendus-20260719"
+          "take": "Insiste sur les conditions extrêmes de la mission, notamment les dix-huit mois en nuit polaire et le confinement prolongé des chercheurs dans les glaces.",
+          "url": "https://www.franceinfo.fr/sante/decouverte-scientifique/reportage-voir-comment-cela-evolue-a-travers-les-saisons-la-station-tara-va-passer-18-mois-dans-la-nuit-polaire-pour-etudier-le-rechauffement-climatique_8113682.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 7,
@@ -240,17 +260,17 @@
         "Monde",
         "Économie"
       ],
-      "title": "La Cedeao approuve un gazoduc Nigeria-Maroc de 6 000 km",
-      "full": "Les chefs d'État de la Communauté économique des États de l'Afrique de l'Ouest (Cedeao) ont approuvé dimanche la construction d'un gazoduc reliant le Nigeria au Maroc. Long d'environ 6 000 kilomètres, ce projet doit traverser treize pays d'Afrique de l'Ouest avant de se raccorder au gazoduc Maghreb-Europe. Envisagé depuis une décennie, cet ouvrage vise à acheminer d'importants volumes de gaz naturel et répond à des enjeux énergétiques régionaux.",
+      "title": "La Cedeao approuve un gazoduc Nigeria-Maroc de 6000 km",
+      "full": "Les chefs d'État de la Communauté économique des États de l'Afrique de l'Ouest (Cedeao) ont approuvé dimanche à Freetown la construction d'un gazoduc reliant le Nigeria au Maroc. Long d'environ 6000 kilomètres, ce projet traverserait treize pays d'Afrique de l'Ouest avant d'être connecté au gazoduc Maghreb-Europe. Porté depuis une décennie, ce gazoduc viserait à acheminer des milliards de mètres cubes de gaz naturel via la façade atlantique du continent.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "Insiste sur l'ampleur de ce projet longtemps resté en suspens et son intégration au réseau gazier méditerranéen.",
+          "take": "Souligne que ce long projet énergétique était en préparation depuis dix ans et s'inscrit dans une infrastructure gazière régionale plus large.",
           "url": "https://www.lemonde.fr/international/article/2026/07/20/la-cedeao-approuve-la-construction-d-un-gazoduc-nigeria-maroc-immense-projet-energetique-dans-les-tuyaux-depuis-des-annees_6726498_3210.html"
         },
         {
           "outlet": "France 24",
-          "take": "Souligne l'annonce officielle lors du sommet de Freetown et les volumes considérables de gaz que l'infrastructure doit transporter.",
+          "take": "Précise que l'accord a été officiellement signé lors du sommet de Freetown et détaille le volume de gaz naturel attendu du projet.",
           "url": "https://www.france24.com/fr/afrique/20260720-chefs-etat-cedeao-approuvent-construction-gazoduc-nigeria-maroc-freetown-afrique-gaz"
         }
       ],
@@ -259,20 +279,20 @@
     },
     {
       "themes": [
-        "Monde"
+        "Culture"
       ],
-      "title": "Naufrage d'un ferry au Guyana: 66 personnes disparues",
-      "full": "Un ferry transportant 133 personnes a coulé au large du Guyana dimanche. Environ 67 passagers ont été secourus, mais 66 autres restent portés disparus. Les opérations de recherche sont en cours dans cette région d'Amérique du Sud.",
+      "title": "Orange annule un concert hommage à Queen pour raisons financières",
+      "full": "La mairie d'Orange, dirigée par le nouvel élu Rassemblement national Jean-Dominique Artaud, a annulé le spectacle « Queen forever », prévu le 4 septembre au théâtre antique. Le maire invoque des contraintes budgétaires. Le producteur conteste cette justification et affirme être prêt à jouer gratuitement, annonçant un recours en justice contre cette décision.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Le naufrage représente un drame majeur pour le Guyana, petit pays anglophone de 1 million d'habitants.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/19/naufrage-d-un-ferry-avec-133-personnes-a-bord-au-large-du-guyana-au-moins-67-rescapes-mais-66-disparus_6726266_3210.html"
+          "outlet": "Libération",
+          "take": "La mairie met en avant une excuse financière, contredite par le producteur du spectacle qui déclare pouvoir le jouer sans coût pour la collectivité.",
+          "url": "https://www.liberation.fr/culture/la-mairie-rn-dorange-annule-un-concert-dhommage-a-queen-prevu-par-un-groupe-de-choristes-amateurs-20260719_QFXUMTVLZJFLTPBK33Z5UDBNBM/"
         },
         {
           "outlet": "France Info",
-          "take": "Les autorités ont confirmé dimanche le bilan des rescapés et des disparus après la catastrophe.",
-          "url": "https://www.franceinfo.fr/faits-divers/un-ferry-a-fait-naufrage-avec-116-personnes-a-bord-au-large-des-cotes-du-guyana_8113817.html#xtor=RSS-3-[lestitres]"
+          "take": "L'annulation suscite une polémique et pousse le producteur à engager une action judiciaire contre la décision municipale.",
+          "url": "https://www.franceinfo.fr/culture/musique/polemique-apres-l-annulation-d-un-concert-hommage-a-queen-par-la-mairie-rn-d-orange_8114129.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 9,
@@ -280,21 +300,20 @@
     },
     {
       "themes": [
-        "Culture",
-        "France"
+        "Monde"
       ],
-      "title": "Orange annule un concert hommage à Queen pour des raisons financières",
-      "full": "Le nouveau maire RN d'Orange, Jean-Dominique Artaud, a annulé le spectacle « Queen forever », programmé le 4 septembre au théâtre antique. La mairie invoque des contraintes budgétaires. Le producteur conteste cette justification et affirme être prêt à financer le concert gratuitement. Il a annoncé le dépôt d'un recours en justice contre cette décision.",
+      "title": "Le Gabon en visite d'État en France pour discuter manganèse et base militaire",
+      "full": "Le président gabonais Brice Oligui Nguema débute lundi une visite d'État de trois jours en France, reçu par Emmanuel Macron. Les discussions porteront sur la transformation locale du manganèse, dont le Gabon est l'un des principaux producteurs, et sur l'avenir de la base militaire française De Gaulle à Libreville. Cette visite intervient dans un contexte politique tendu au Gabon, où des restrictions aux libertés publiques ont été signalées ces derniers mois.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Le producteur dénonce le prétexte financier invoqué par la mairie en se déclarant disposé à assurer le spectacle sans frais.",
-          "url": "https://www.liberation.fr/culture/la-mairie-rn-dorange-annule-un-concert-dhommage-a-queen-prevu-par-un-groupe-de-choristes-amateurs-20260719_QFXUMTVLZJFLTPBK33Z5UDBNBM/"
+          "outlet": "France 24",
+          "take": "La visite d'État met l'accent sur les enjeux économiques (transformation du manganèse) et les intérêts stratégiques français (pérennité de la base militaire).",
+          "url": "https://www.france24.com/fr/france/20260720-gabon-visite-etat-france-mangan%C3%A8se-base-militaire-brice-oligui-nguema"
         },
         {
-          "outlet": "France Info",
-          "take": "Le producteur engage une action judiciaire pour contester l'annulation du concert prévu au théâtre antique.",
-          "url": "https://www.franceinfo.fr/culture/musique/polemique-apres-l-annulation-d-un-concert-hommage-a-queen-par-la-mairie-rn-d-orange_8114129.html#xtor=RSS-3-[lestitres]"
+          "outlet": "Libération",
+          "take": "Des élus écologistes critiquent l'accueil prestigieux accordé à un président soupçonné de restrictions aux libertés (suspension des réseaux sociaux, arrestation de l'opposant principal).",
+          "url": "https://www.liberation.fr/idees-et-debats/monsieur-macron-pourquoi-derouler-le-tapis-rouge-au-president-gabonais-en-plein-tournant-autoritaire-20260719_KXSHKMJPW5H53DIKMJMGKNGPQ4/"
         }
       ],
       "id": 10,
@@ -302,20 +321,21 @@
     },
     {
       "themes": [
-        "France"
+        "Économie",
+        "Environnement"
       ],
-      "title": "Loi d'urgence agricole votée lundi et mardi au Parlement",
-      "full": "Le projet de loi d'urgence agricole sera examiné par les députés lundi et mardi. Le ministre Sébastien Lecornu réunira auparavant les chefs des groupes du socle commun afin de préparer les débats. Ce texte intervient dans un contexte de sécheresse exceptionnelle et suscite des inquiétudes parmi les petits exploitants, notamment ceux pratiquant l'agriculture biologique, qui craignent une concentration accrue du contrôle de l'eau au profit des grands groupes agricoles.",
+      "title": "L'UE interdit la destruction de vêtements invendus",
+      "full": "À partir de ce dimanche, l'Union européenne interdit aux fabricants de détruire les vêtements, accessoires et chaussures invendus. Cette mesure vise à réduire le gaspillage textile en Europe, où 600 000 tonnes de produits de mode sont détruites chaque année. Les entreprises sont désormais incitées à explorer des alternatives telles que la revente, le reconditionnement, les dons ou la réutilisation.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Lecornu convoque les chefs de groupes parlementaires du socle commun quelques heures avant le vote pour coordonner le passage du texte.",
-          "url": "https://www.franceinfo.fr/politique/loi-d-urgence-agricole-sebastien-lecornu-reunira-les-chefs-des-groupes-du-socle-commun-lundi_8114411.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "L'Humanité",
+          "take": "Met l'accent sur le volume considérable de déchets textiles générés annuellement en Europe et les solutions alternatives de gestion des stocks.",
+          "url": "https://www.humanite.fr/societe/mode/textile-lunion-europeenne-interdit-depuis-ce-dimanche-la-destruction-de-vetements-accessoires-et-chaussures-invendus"
         },
         {
-          "outlet": "L'Humanité",
-          "take": "Des agriculteurs en agriculture biologique dénoncent une loi qui risque de renforcer la mainmise de l'agro-industrie sur l'eau durant une période de sécheresse inédite.",
-          "url": "https://www.humanite.fr/environnement/agriculture/demain-il-ny-aura-plus-de-paysans-qui-pronent-le-modele-bio-en-pleine-canicule-les-petites-fermes-laissees-pour-compte-de-la-loi-durgence-agricole"
+          "outlet": "Le Figaro Éco",
+          "take": "Souligne que les fabricants sont encouragés à explorer diverses options de valorisation des invendus, de la revente au reconditionnement.",
+          "url": "https://www.lefigaro.fr/conso/textile-l-union-europeenne-interdit-depuis-ce-dimanche-la-destruction-de-vetements-accessoires-et-chaussures-invendus-20260719"
         }
       ],
       "id": 11,
@@ -323,21 +343,20 @@
     },
     {
       "themes": [
-        "Économie",
-        "Environnement"
+        "Société"
       ],
-      "title": "Le budget écologique renforcé à 1 milliard d'euros en 2027",
-      "full": "La ministre de la Transition écologique Monique Barbut annonce que le fonds vert sera doté d'1 milliard d'euros dans le budget 2027, ce qui en ferait le deuxième budget le plus augmenté après celui des Armées. Cette annonce intervient avant le vote du projet de loi d'urgence agricole. Monique Barbut exprime cependant ses réserves sur plusieurs dispositions du texte, notamment la réintroduction de l'acétamipride, un insecticide précédemment interdit, ajoutée par le Sénat.",
+      "title": "Andrew Tate et son frère arrêtés aux États-Unis",
+      "full": "L'influenceur masculiniste Andrew Tate et son frère Tristan ont été arrêtés samedi en Floride à la demande du Royaume-Uni, qui les recherche pour viols, complicité d'exploitation sexuelle et possession d'images indécentes d'enfants. Les deux hommes, figures de la « manosphère » en ligne, restent également visés par des poursuites en Roumanie, où ils auraient implanté un réseau pornographique. Une procédure d'extradition devrait être engagée.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "La ministre met en avant la satisfaction d'avoir obtenu le renforcement majeur du budget écologique malgré ses critiques sur les amendements du Sénat concernant les pesticides.",
-          "url": "https://www.franceinfo.fr/politique/l-ecologie-sera-le-budget-le-plus-renforce-apres-celui-des-armees-se-rejouit-la-ministre-de-la-transition-ecologique-avant-le-vote-du-projet-de-loi-d-urgence-agricole_8113763.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Le parquet britannique a confirmé que les deux frères sont recherchés pour plusieurs infractions graves incluant les viols et l'exploitation sexuelle.",
+          "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-influenceur-masculiniste-andrew-tate-et-son-frere-tristan-arretes-aux-etats-unis-a-la-demande-du-royaume-uni-qui-reclame-leur-extradition_8113703.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Libération",
-          "take": "L'accent est porté sur le chiffre précis du fonds vert (1 milliard) et sur la tension principale du texte autour de la réintroduction de pesticides interdits.",
-          "url": "https://www.liberation.fr/economie/lecologie-sera-le-budget-le-plus-renforce-apres-celui-des-armees-annonce-la-ministre-monique-barbut-20260719_WEBLHEXC3NBTDLZIYUTSC2JG2A/"
+          "outlet": "Mediapart",
+          "take": "Les deux figures de la manosphère font l'objet de poursuites dans plusieurs juridictions, dont la Roumanie où ils auraient organisé leurs activités pornographiques.",
+          "url": "https://www.mediapart.fr/journal/international/190726/mis-en-cause-pour-viols-l-influenceur-masculiniste-andrew-tate-et-son-frere-arretes-aux-etats-unis"
         }
       ],
       "id": 12,
@@ -345,20 +364,16 @@
     },
     {
       "themes": [
-        "Culture"
+        "Insolite",
+        "Environnement"
       ],
-      "title": "Le Festival d'Avignon 2026 explore la langue comme terrain de jeu",
-      "full": "Deux créations marquantes investissent le langage comme matière dramatique au Festival d'Avignon. Marion Siéfert et Matthieu Bareyre proposent « Bunker », spectacle interrogeant les distorsions du langage dans un contexte de réchauffement climatique. De son côté, Abdelwahed Sefsaf clôt sa trilogie « Hexagone » avec « Alif », pièce célébrée comme une célébration de la langue française à travers les souvenirs d'un enfant de Saint-Étienne.",
+      "title": "Un avocat poursuivi pour avoir nettoyé une rivière polluée",
+      "full": "Paul Powlesland, avocat londonien, risque des poursuites judiciaires après avoir organisé en mars un nettoyage de l'Alders Brook sans autorisation préalable. Les autorités britanniques l'accusent d'avoir endommagé des habitats naturels lors de cette opération destinée à réduire la pollution du cours d'eau. Cette affaire soulève la tension entre action environnementale spontanée et respect des procédures légales de protection de la nature.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "« Bunker » décortique comment le libéralisme débridé façonne et déforme le langage dans un monde en surchauffe climatique.",
-          "url": "https://www.liberation.fr/culture/festival-davignon-2026-bunker-de-marion-siefert-sur-la-boue-de-la-langue-20260719_LGKYDTUWYZH7NHBUTSFL5CQKVE/"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "« Alif » constitue une réponse poétique et politique à la résignation, célébrant la langue française comme acte de résistance.",
-          "url": "https://www.humanite.fr/culture-et-savoir/festival-davignon/festival-davignon-avec-alif-abdelwahed-sefsaf-signe-une-ode-a-la-langue-et-un-antidote-a-la-resignation"
+          "outlet": "Slate",
+          "take": "Slate met l'accent sur le paradoxe judiciaire : un acte de nettoyage écologique se heurte aux lois de protection de l'environnement faute d'autorisations officielles.",
+          "url": "https://www.slate.fr/monde/londres-nettoyage-riviere-pollution-avocat-ecologiste-poursuite-judiciaire-angleterre"
         }
       ],
       "id": 13,
@@ -366,20 +381,15 @@
     },
     {
       "themes": [
-        "France"
+        "Insolite"
       ],
-      "title": "Hollande prépare sa candidature à la présidentielle 2027",
-      "full": "François Hollande réunit ses soutiens au Sénat pour préparer une nouvelle candidature à l'élection présidentielle de 2027. L'ancien président socialiste a confirmé ses ambitions mercredi, en précisant que sa candidature ne serait pas « de témoignage ». Il cherche ainsi à cultiver son rapport à l'opinion en vue du scrutin.",
+      "title": "Les probabilités mathématiques d'un crash aérien cet été",
+      "full": "Slate se penche sur les risques statistiques d'accident aérien pour les voyageurs estivaux. L'avion reste l'un des modes de transport les plus sûrs, mais quels chiffres et probabilités soutiennent cette réputation ? L'article détaille les données actuelles pour rassurer ou contextualiser les craintes des passagers.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "L'ancien chef de l'État est présenté comme un possible « joker » caché de la gauche pour 2027.",
-          "url": "https://www.20minutes.fr/politique/assemblee_nationale/4234766-20260719-presidentielle-2027-revanchard-francois-hollande-peut-etre-joker-cache-gauche?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "Le Figaro Politique",
-          "take": "Hollande confirme ses ambitions présidentielles en s'appuyant sur un réseau de soutiens au Sénat.",
-          "url": "https://www.lefigaro.fr/politique/il-va-continuer-a-cultiver-son-rapport-a-l-opinion-francois-hollande-les-coulisses-d-un-retour-annonce-20260719"
+          "outlet": "Slate",
+          "take": "Examen des statistiques et probabilités d'un crash aérien pour évaluer objectivement le niveau de sécurité du transport aérien.",
+          "url": "https://www.slate.fr/societe/lexplication/quelles-sont-mathematiquement-risques-votre-avion-ecrase-cet-ete-probabilites-chances-crash-aerien-accident-vol-survie-siege"
         }
       ],
       "id": 14,
@@ -390,12 +400,12 @@
         "Insolite",
         "Culture"
       ],
-      "title": "Helen Melville Smith, fille du capitaine du Titanic, bien plus qu'une malédiction",
-      "full": "Helen Melville Smith, fille du capitaine Edward Smith du Titanic, a vu son identité réduite à celle de héritière du naufrage de 1912. Pionnière de l'aviation et passionnée d'automobile, elle a mené une vie complexe et novatrice pour son époque, éclipsée par le récit historique dominant. Son parcours illustre comment les mémoires collectives enferment parfois les destins individuels dans des narrations simplifiées, transformant une femme d'exception en simple footnote d'une tragédie.",
+      "title": "La fille du capitaine du Titanic, réduite à une malédiction",
+      "full": "Helen Melville Smith, fille du capitaine du Titanic, a vu sa vie entière résumée à la tragédie du naufrage en 1912. Pionnière de l'aviation et passionnée d'automobile, elle a pourtant mené une existence riche et diverse que l'histoire collective a occultée. Son parcours illustre comment les récits historiques enferment parfois des destinées complexes dans des narrations de fatalité, oubliant l'individu derrière le symbole.",
       "angles": [
         {
           "outlet": "Slate",
-          "take": "L'article détaille comment Helen Melville Smith, femme pionnière aux multiples talents, a été réduite par l'histoire à l'image d'une malédiction familiale liée au Titanic.",
+          "take": "L'article met l'accent sur le contraste entre l'identité publique restreinte qu'Helen a subie et ses véritables accomplissements dans l'aviation et l'automobile.",
           "url": "https://www.slate.fr/culture/fille-capitaine-titanic-naufrage-reduite-pretendue-malediction-vie-oubliee-helen-melville-smith-recit-histoire-narration-memoire-collective"
         }
       ],
@@ -406,50 +416,17 @@
       "themes": [
         "Insolite"
       ],
-      "title": "Deux jeunes hommes secourus au sommet de la cathédrale d'Orléans",
-      "full": "Deux jeunes hommes ont été coincés dimanche matin au sommet de la cathédrale d'Orléans après être montés pour photographier un drone. Une vingtaine de sapeurs-pompiers ont dû intervenir pour les secourir.",
+      "title": "Deux jeunes hommes coincés au sommet de la cathédrale d'Orléans",
+      "full": "Deux jeunes hommes se sont retrouvés bloqués au sommet de la cathédrale d'Orléans dimanche matin après s'y être introduits pour réaliser des photos avec un drone. Une vingtaine de sapeurs-pompiers a dû intervenir pour les secourir.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "L'intervention des pompiers a eu lieu tôt le matin pour extraire les deux hommes du sommet de l'édifice religieux.",
-          "url": "https://www.franceinfo.fr/faits-divers/deux-jeunes-hommes-coinces-au-sommet-de-la-cathedrale-d-orleans-ils-voulaient-faire-des-photos-avec-un-drone_8113886.html#xtor=RSS-3-[lestitres]"
+          "take": "L'intervention des pompiers s'est déroulée tôt le dimanche matin pour extraire les deux hommes du toit de l'édifice religieux.",
+          "url": "https://www.franceinfo.fr/faits-divers/deux-jeunes-hommes-coinces-au-sommet-de-la-cathedrale-d-orleans-ils-voulaient-faire-des-photos-avec-un-drone_8113886.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 16,
       "priority": 17
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Les tendances de manucure de l'été misent sur la couleur et la nostalgie",
-      "full": "Cet été, le nail art affiche des codes résolument colorés et rétro. Bleu Tiffany, effets texturés en trois dimensions et inspirations des années 2010 dominent les tendances qui séduisent les amateurs de manucure. Le phénomène reflète un retour d'intérêt pour l'esthétique des années 2010-2015, marquée par l'exubérance chromatique et les jeux de matières.",
-      "angles": [
-        {
-          "outlet": "20 Minutes",
-          "take": "Le nail art estival valorise la couleur éclatante et la texture 3D, avec un fort ancrage dans l'esthétique nostalgique des années 2010.",
-          "url": "https://www.20minutes.fr/tempo/4234769-20260719-vraiment-retour-annees-2010-2015-voici-manucures-vont-marquer?at_medium=display&at_campaign=149"
-        }
-      ],
-      "id": 17,
-      "priority": 18
-    },
-    {
-      "themes": [
-        "Insolite",
-        "Santé"
-      ],
-      "title": "L'Ozempic chamboule le marché des robes de mariée américaines",
-      "full": "Aux États-Unis, environ 10 % des futurs époux prennent des médicaments amaigrissants de type GLP-1 (comme l'Ozempic ou le Wegovy) avant leur mariage. Cette tendance contraint l'industrie nuptiale à s'adapter : créateurs de robes et prestataires doivent gérer des écarts de poids parfois importants entre l'essayage et la cérémonie, certains clients perdant plus de 20 kilos. L'écosystème du mariage, des boutiques aux organisateurs d'événements, repense ainsi ses pratiques commerciales face à cette nouvelle réalité.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "L'industrie du mariage américaine doit s'adapter aux changements physiques rapides causés par les traitements amaigrissants, modifiant les délais et conditions de confection des robes.",
-          "url": "https://www.slate.fr/societe/ozempic-mariage-marche-robe-mariee-medicament-traitement-semaglutide-wegovy-physique-chirurgie-esthetique-inde-etats-unis"
-        }
-      ],
-      "id": 18,
-      "priority": 19
     }
   ]
 }
