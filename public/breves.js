@@ -1,28 +1,22 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-07-21T06:22:34.109577+00:00
+// 2026-07-22T04:03:16.293536+00:00
 const ARTICLES = [
   {
     "themes": [
-      "France",
-      "Environnement"
+      "France"
     ],
-    "title": "Loi d'urgence agricole adoptée face à la sécheresse et aux incendies",
-    "full": "L'Assemblée nationale a adopté lundi soir la loi d'urgence agricole par 296 voix pour et 224 contre, en réponse à la sécheresse qui frappe actuellement les exploitations françaises. Le texte facilite le stockage de l'eau pour les agriculteurs et réintroduit deux pesticides néonicotinoïdes jusque-là interdits, mesure qui a provoqué des divisions au sein du Parlement. Parallèlement, 27 départements français sont en alerte élevée pour les risques d'incendies de forêt, avec quatre d'entre eux basculant mardi au seuil d'alerte maximal en raison d'une canicule persistante dans le sud du pays.",
+    "title": "L'Assemblée adopte l'interdiction des réseaux sociaux avant 15 ans",
+    "full": "Le Parlement a définitivement adopté le 21 juillet un projet de loi interdisant l'accès aux réseaux sociaux aux moins de 15 ans, une première en Europe. Le texte, fruit de six mois de négociations entre le Sénat et l'Assemblée nationale, doit entrer en vigueur le 1er septembre, selon le calendrier fixé par Emmanuel Macron. Cette mesure répond aux préoccupations concernant les effets psychologiques d'Internet sur les mineurs.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Les agriculteurs envisagent l'irrigation comme solution cruciale face aux dégâts causés par la sécheresse sur leurs cultures.",
-        "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/loi-d-urgence-agricole-l-irrigation-on-l-envisage-tres-serieusement-confie-un-agriculteur-dont-les-cultures-subissent-de-plein-fouet-la-secheresse_8115146.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Mediapart",
+        "take": "Le texte a été adopté après six mois de désaccords, dans les délais impartis par Macron pour une application dès septembre.",
+        "url": "https://www.mediapart.fr/journal/politique/210726/la-france-interdit-les-reseaux-sociaux-aux-moins-de-15-ans-une-premiere-en-europe"
       },
       {
         "outlet": "Libération",
-        "take": "Les autorités alertent sur une semaine à très haut risque d'incendies dans le sud-ouest et le sud-est, avec une escalade des niveaux d'alerte.",
-        "url": "https://www.liberation.fr/environnement/climat/incendies-27-departements-a-risque-eleve-de-feux-de-foret-6-toujours-en-vigilance-orange-canicule-20260720_5O3LGNO6DNFBTOBGESZCYNEWGE/"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "L'adoption du texte s'est opérée dans la division, opposant notamment la droite et l'extrême-droite aux autres forces politiques sur la question controversée des pesticides.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/21/le-projet-de-loi-d-urgence-agricole-adopte-dans-la-cacophonie-par-une-assemblee-nationale-fracturee-sur-les-pesticides_6728117_823448.html"
+        "take": "Macron a porté cette interdiction après avoir été alerté sur les effets néfastes d'Internet, notamment suite aux événements de 2023.",
+        "url": "https://www.liberation.fr/politique/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-le-texte-adopte-au-parlement-une-victoire-pour-macron-20260721_6RNXKWFE7ZDHVJ6AAURWBGVKIY/"
       }
     ],
     "id": 0,
@@ -30,30 +24,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Monde"
     ],
-    "title": "La Cour des comptes dénonce l'opacité du contrôle des forces de l'ordre",
-    "full": "Dans un rapport publié lundi 20 juillet, la Cour des comptes critique le manque de transparence et les délais excessifs des procédures disciplinaires visant policiers et gendarmes. L'institution préconise d'ouvrir les conseils de discipline à des observateurs extérieurs, de publier les sanctions prononcées et d'accélérer le traitement des dossiers. Elle recommande aussi d'expérimenter le déclenchement systématique des caméras-piétons lors des interventions.",
+    "title": "Les États-Unis poursuivent leurs frappes en Iran pour la onzième nuit",
+    "full": "L'armée américaine a mené une nouvelle série d'attaques aériennes sur des cibles militaires iraniennes, poursuivant une campagne entamée il y a onze jours. Des explosions ont été signalées à Bouchehr, où se trouve la principale centrale nucléaire civile du pays, ainsi que dans le sud et le nord-ouest de l'Iran. Le ministère américain de la Défense estime que le coût total de cette opération atteindra 37,5 milliards de dollars jusqu'à fin septembre, soit une augmentation de près de 30 % par rapport aux estimations précédentes.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Souligne les délais de traitement très longs des procédures disciplinaires relevés par la Cour.",
-        "url": "https://www.liberation.fr/societe/police-justice/dans-un-rapport-sur-le-controle-de-forces-de-lordre-la-cour-des-comptes-pointe-le-manque-de-transparence-des-autorites-20260720_2S3AYOTAINAH5A7NZN74KF4YP4/"
-      },
-      {
-        "outlet": "Mediapart",
-        "take": "Met l'accent sur les appels à ouverture des conseils de discipline à des observateurs externes.",
-        "url": "https://www.mediapart.fr/journal/france/200726/deontologie-des-policiers-et-gendarmes-la-cour-des-comptes-plaide-pour-plus-de-transparence"
-      },
-      {
         "outlet": "Le Monde",
-        "take": "Détaille la proposition de publier une synthèse anonymisée des sanctions les plus graves.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/20/la-cour-des-comptes-appelle-a-plus-de-transparence-dans-le-controle-de-la-deontologie-des-forces-de-l-ordre_6727648_3224.html"
+        "take": "Souligne la régularité des frappes nocturnes sur onze nuits consécutives et mentionne spécifiquement les impacts près des installations nucléaires civiles.",
+        "url": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-le-ministre-de-la-defense-americain-estime-a-37-5-milliards-de-dollars-le-cout-de-la-guerre-en-iran-jusqu-a-fin-septembre_6725301_3210.html"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Insiste sur la nécessité d'accélérer les sanctions et de renforcer les contrôles.",
-        "url": "https://www.20minutes.fr/societe/4235495-20260720-violences-policieres-cour-comptes-pointe-manque-transparence-procedures-disciplinaire?at_medium=display&at_campaign=149"
+        "outlet": "France 24",
+        "take": "Insiste sur la hausse significative du coût budgétaire estimé par le Pentagone, révisant les prévisions à la hausse.",
+        "url": "https://www.france24.com/fr/moyen-orient/20260722-en-direct-moyen-orient-iran-etats-unis-nouvelle-salve-frappes-houthis-ormuz-golfe-trump"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Élargit le contexte régional en intégrant les menaces de Trump et les opérations d'autres acteurs du Moyen-Orient.",
+        "url": "https://www.liberation.fr/international/liran-attaque-une-base-militaire-americaine-au-bahrein-tsahal-tue-un-commandant-du-hamas-larmee-libanaise-se-deploie-dans-le-sud-lactu-de-ce-mardi-21-juillet-au-moyen-orient-20260721_QR5X4HR73NFOVAAYTMCE3U33OQ/"
       }
     ],
     "id": 1,
@@ -61,30 +50,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Société"
     ],
-    "title": "L'Espagne remporte la Coupe du monde 2026 face à l'Argentine",
-    "full": "L'Espagne est devenue championne du monde pour la deuxième fois de son histoire en battant l'Argentine en finale (1-0, après prolongation) grâce à un but de Ferran Torres. Les joueurs et leur sélectionneur Luis de la Fuente ont célébré leur sacre à Madrid, où plus d'un million de supporters ont participé à une parade dans les rues de la capitale. Selon les observateurs, l'Espagne a dominé une Argentine piégée par son propre style de jeu.",
+    "title": "François-Noël Buffet confirmé Défenseur des droits malgré les contestations",
+    "full": "Le Parlement a validé mardi 21 juillet la nomination du sénateur Les Républicains François-Noël Buffet comme Défenseur des droits, en succession de Claire Hédon. Cette désignation, proposée par Emmanuel Macron et soutenue par les groupes de droite et du centre, s'est heurtée à une vive opposition du monde associatif et syndical. Huit organisations civiles ont mobilisé le matin même de l'audition du candidat au Sénat, dénonçant ses prises de position jugées contraires aux droits fondamentaux, notamment sur les droits des femmes, des personnes LGBTQIA+ et des immigrés.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "L'Espagne renoue avec le titre mondial seize ans après son premier sacre en 2010, tandis que la France déçoit et le débat autour de la succession de Deschamps s'ouvre.",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/l-argentine-a-ete-piegee-a-son-propre-jeu-analyse-bixente-lizarazu-apres-la-victoire-de-l-espagne-en-finale-de-coupe-du-monde_8114717.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Les festivités madrilènes rassemblent plus d'un million de personnes et s'achèvent sur un concert place de Cybèle.",
-        "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260721-coupe-du-monde-2026-l-espagne-c%C3%A9l%C3%A8bre-son-sacre-mondial-%C3%A0-madrid"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "La presse argentine privilégie un récit valorisant de son équipe plutôt que de critiquer les comportements problématiques de celle-ci lors du tournoi.",
-        "url": "https://www.20minutes.fr/sport/4235500-20260720-coupe-monde-2026-equipe-polie-respectueuse-presse-argentine-vit-monde-parallele?at_medium=display&at_campaign=149"
+        "outlet": "Libération",
+        "take": "Huit associations se sont mobilisées avant l'audition parlementaire pour interpeller les élus contre cette nomination.",
+        "url": "https://www.liberation.fr/societe/defenseur-des-droits-devant-le-senat-les-associations-remontees-contre-la-nomination-de-francois-noel-buffet-20260721_ADHIKKLZKFBFVAV3LHA26IYRRQ/"
       },
       {
         "outlet": "Le Monde",
-        "take": "Donald Trump, discret durant le tournoi, assiste à la finale où il est hué, révélant une influence inédite du président américain sur le déroulé de la compétition.",
-        "url": "https://www.lemonde.fr/sport/article/2026/07/20/apres-des-semaines-dans-l-ombre-donald-trump-prend-la-lumiere-sous-les-huees-lors-de-la-finale-de-la-coupe-du-monde-2026_6726877_3242.html"
+        "take": "Le monde associatif et syndical a dénoncé des positions du candidat jugées contraires aux droits fondamentaux.",
+        "url": "https://www.lemonde.fr/societe/video/2026/07/21/pourquoi-la-nomination-de-francois-noel-buffet-en-tant-que-defenseur-des-droits-fait-polemique_6729214_3224.html"
+      },
+      {
+        "outlet": "Mediapart",
+        "take": "L'inquiétude porte spécifiquement sur les positions de Buffet concernant les droits des femmes, des personnes LGBTQIA+ et immigrées.",
+        "url": "https://www.mediapart.fr/journal/france/210726/malgre-les-oppositions-et-son-profil-reactionnaire-francois-noel-buffet-est-le-nouveau-defenseur-des-droit"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Des militants ont menée une action symbolique devant le Sénat pour protester contre la nomination.",
+        "url": "https://www.20minutes.fr/societe/4235584-20260721-buffet-veut-associations-manifestent-contre-nouveau-defenseur-droits?at_medium=display&at_campaign=149"
       }
     ],
     "id": 2,
@@ -92,25 +81,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Sport"
     ],
-    "title": "Au Festival d'Avignon, deux tendances marquent la programmation",
-    "full": "Le Festival d'Avignon 2026 accueille deux créations qui reflètent des orientations artistiques distinctes. Le collectif britannique Forced Entertainment présente « Everything Must Go », un spectacle de science-fiction dystopique mettant en scène six comédiens, dont la forme divise les spectateurs. Parallèlement, le cirque contemporain gagne en légitimité institutionnelle avec « Le Pas du monde » du collectif XY, programmé à la cour d'honneur du palais des papes, marquant une reconnaissance nouvelle pour un art longtemps marginalisé.",
+    "title": "Evenepoel remporte le contre-la-montre de la 16e étape",
+    "full": "Remco Evenepoel a dominé le contre-la-montre individuel de la 16e étape du Tour de France 2026, mardi 21 juillet, entre Évian-les-Bains et Thonon-les-Bains. Le coureur belge de Red Bull-Bora-hansgrohe signe sa deuxième victoire sur cette Grande Boucle, devançant Tadej Pogacar, leader du classement général. Evenepoel, champion olympique de la discipline, consolide sa position de dauphin à plus de 4 minutes du maillot jaune. Le jeune Français Paul Seixas, de l'équipe Decathlon-CMA CGM, a terminé quatrième de l'étape.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "« Everything Must Go » suscite des réactions contrastées du public en raison de sa forme théâtrale expérimentale.",
-        "url": "https://www.lemonde.fr/culture/article/2026/07/20/au-festival-d-avignon-pour-ou-contre-everything-must-go-le-tres-clivant-spectacle-du-collectif-britannique-forced-entertainment_6727441_3246.html"
+        "outlet": "France Info",
+        "take": "Evenepoel confirme son statut de champion du chrono en remportant cette étape reine face au leader Pogacar.",
+        "url": "https://www.franceinfo.fr/tour-de-france/videos/remco-evenepoel-survole-le-contre-la-montre-et-remporte-la-16e-etape-du-tour-de-france_8116859.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Libération",
-        "take": "La programmation d'une création circassienne au palais des papes témoigne d'une évolution dans la reconnaissance institutionnelle du cirque.",
-        "url": "https://www.liberation.fr/culture/scenes/au-festival-davignon-le-cirque-bien-en-cour-20260721_RRCSPXZ47ZH55KJOXINMZH2BQ4/"
+        "take": "Le Tour de France organise une vague massive et inédite de contrôles antidopage, soumettant tous les coureurs lundi soir.",
+        "url": "https://www.liberation.fr/sports/cyclisme/sur-le-tour-de-france-une-vague-massive-et-inedite-de-controles-antidopage-on-a-limpression-detre-en-98-20260721_COETBKVZTRE67IQRIQFIPSZE4Y/"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Le spectacle de Forced Entertainment explore un futur dominé par l'intelligence artificielle générative en puisant dans l'esthétique de l'ennui.",
-        "url": "https://www.humanite.fr/culture-et-savoir/festival-davignon/festival-davignon-everything-must-go-de-forced-entertainment-une-science-fiction-decatie-et-ennuyeuse"
+        "outlet": "20 Minutes",
+        "take": "Seixas, très jeune coureur français, tient son rang lors du seul contre-la-montre individuel au programme.",
+        "url": "https://www.20minutes.fr/sport/cyclisme/4235651-20260721-tour-france-place-contre-montre-bien-mene-concurrent-podium-elimine-seixas?at_medium=display&at_campaign=149"
       }
     ],
     "id": 3,
@@ -118,25 +107,36 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé"
+      "Société",
+      "Environnement"
     ],
-    "title": "La HAS recommande l'obligation vaccinale contre la grippe pour les soignants",
-    "full": "La Haute Autorité de santé a rendu un avis préconisant l'obligation vaccinale contre la grippe pour l'ensemble des professionnels de santé et médico-sociaux. Cette recommandation s'appuie sur l'ampleur du fardeau sanitaire de la grippe et le risque accru de transmission aux patients et résidents en établissements de soins. Le gouvernement a indiqué engager les travaux pour mettre en œuvre cette mesure, qui nécessitera un décret en Conseil d'État précisant les modalités et les personnels concernés. La HAS observe que la couverture vaccinale des personnes âgées en collectivité reste insuffisante pour prévenir les foyers épidémiques en Ehpad.",
+    "title": "Deux incendies ravagent la France, deux pompiers décèdent en Gironde",
+    "full": "Deux pompiers sont morts mardi en Gironde en tentant d'éteindre un incendie près de l'aéroport de Bordeaux-Mérignac, leur camion-citerne s'étant retrouvé piégé par les flammes. Dans le même temps, un incendie majeur progresse dans le Var à « une vitesse très importante » : il a déjà ravagé plus de 1.700 hectares, entraîné l'évacuation de 400 habitants et privé 2.300 foyers d'électricité. Sur l'arc méditerranéen, les autorités alertent sur des conditions favorables aux incendies : vent sec, chaleur caniculaire et végétation très sèche.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Met l'accent sur la procédure administrative requise, un décret en Conseil d'État devant fixer les modalités et les personnels visés.",
-        "url": "https://www.liberation.fr/societe/sante/grippe-la-haute-autorite-de-sante-recommande-lobligation-vaccinale-pour-les-professionnels-de-sante-20260720_VCQSATKXZVGWPKXRG2RHODGLOQ/"
+        "outlet": "20 Minutes",
+        "take": "Le sinistre du Var a atteint 1.700 hectares et mobilise près d'un millier de pompiers.",
+        "url": "https://www.20minutes.fr/planete/4235672-20260721-incendie-var-feu-progresse-vitesse-tres-importante-plus-1-700-hectares-parcourus?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "France Info",
-        "take": "Détaille la justification sanitaire de la HAS en pointant l'ampleur du fardeau de la grippe et le risque augmenté de transmission par les soignants.",
-        "url": "https://www.franceinfo.fr/sante/maladie/grippe/la-haute-autorite-de-sante-recommande-l-obligation-vaccinale-contre-la-grippe-pour-tous-les-professionnels-de-sante_8115158.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "L'incendie de Gironde a tué deux pompiers dans leur véhicule en combat direct contre les flammes, perturbant le trafic de l'aéroport.",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/gironde-deux-pompiers-meurent-dans-un-incendie_8116949.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Le Monde",
-        "take": "Souligne que la vaccination élevée des personnes âgées en collectivité demeure insuffisante pour éviter les épidémies récurrentes dans les Ehpad.",
-        "url": "https://www.lemonde.fr/sciences/article/2026/07/20/la-haute-autorite-de-sante-recommande-la-vaccination-obligatoire-des-soignants-contre-la-grippe_6727440_1650684.html"
+        "take": "Le camion-citerne s'est retrouvé piégé par les flammes selon le service départemental d'incendie et de secours.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/21/deux-pompiers-meurent-en-tentant-d-eteindre-un-incendie-dans-un-batiment-pres-de-bordeaux-annonce-laurent-nunez_6728856_3224.html"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Deux foyers déclarés mardi en France témoignent d'une situation critique de feux multiples sur le territoire.",
+        "url": "https://www.liberation.fr/environnement/climat/le-ciel-est-devenu-rouge-deux-pompiers-tues-par-un-incendie-en-gironde-700-hectares-deja-engloutis-dans-le-var-20260721_S7HFOQKUOBFFZCZKDON74GPDCI/"
+      },
+      {
+        "outlet": "France 24",
+        "take": "Les conditions météorologiques actuelles (chaleur, vent sec, sécheresse) multiplient le risque d'incendies sur toute la région méditerranéenne.",
+        "url": "https://www.france24.com/fr/france/20260722-france-incendie-var-continue-de-progresser-evacuations-electricite-pompiers"
       }
     ],
     "id": 4,
@@ -144,25 +144,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Société"
     ],
-    "title": "Affaire Jubillar: les restes de Delphine identifiés, causes de mort incertaines",
-    "full": "Les ossements retrouvés dans le Tarn et découverts sur indication de Cédric Jubillar appartiennent bien à Delphine Aussaguel, disparue en 2015. L'identification par ADN a été confirmée après plus de cinq ans d'enquête. L'état de la dépouille rend complexe la détermination des causes de la mort de l'infirmière de 33 ans, qui demeure un enjeu central de l'investigation. Les proches de la victime expriment un mélange de soulagement quant à la possibilité d'inhumer la mère de famille et d'impatience face aux questions encore sans réponse.",
+    "title": "Affaire Jubillar : le procès en appel reporté à 2027",
+    "full": "Le procès en appel de Cédric Jubillar, initialement prévu en septembre 2026, a été renvoyé au premier semestre 2027. Ce report fait suite aux aveux de l'accusé concernant le meurtre de son épouse Delphine Aussaguel, disparue fin 2020 dans le Tarn. Entendu le 15 juillet, Cédric Jubillar a reconnu avoir étranglé sa femme. La poursuite de l'enquête, notamment après la découverte des ossements de la victime, justifie selon la cour d'assises de Haute-Garonne ce délai supplémentaire.",
     "angles": [
       {
         "outlet": "20 Minutes",
-        "take": "Les confidences antérieures de Cédric Jubillar à son ex-compagne ravident la question d'un possible assassinat.",
-        "url": "https://www.20minutes.fr/faits_divers/4235449-20260720-affaire-jubillar-pourquoi-confidences-cedric-ex-compagne-font-resurgir-piste-assassinat?at_medium=display&at_campaign=149"
+        "take": "Met l'accent sur les aveux prononcés lors de la garde à vue, où Cédric Jubillar aurait déclaré avoir étranglé sa femme pour qu'elle se taise.",
+        "url": "https://www.20minutes.fr/justice/4235668-20260721-affaire-jubillar-mari-avoue-justice-avoir-etrangle-femme-delphine?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Libération",
-        "take": "Les proches oscillent entre soulagement de pouvoir enfin organiser une sépulture et frustration face à l'absence de clarté sur les circonstances.",
-        "url": "https://www.liberation.fr/societe/police-justice/les-enfants-vont-enfin-avoir-une-sepulture-pour-leur-mere-les-proches-de-delphine-aussaguel-entre-soulagement-et-colere-20260720_RGGQGF75CVCQHELQNMZI7LVSJU/"
+        "outlet": "Le Monde",
+        "take": "Souligne le lien entre les aveux et la découverte des ossements, qui ont relancé les débats sur le calendrier du procès.",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/21/affaire-jubillar-le-proces-en-appel-de-cedric-jubillar-prevu-en-septembre-est-renvoye-au-premier-semestre-2027_6728818_3224.html"
       },
       {
         "outlet": "France Info",
-        "take": "La mauvaise conservation des ossements complique l'expertise médico-légale et repousse les explications attendues.",
-        "url": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/affaire-jubillar-les-ossements-retrouves-sont-bien-ceux-de-delphine-mais-les-circonstances-de-la-mort-restent-floues_8115074.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Rapporte que l'avocate d'une proche de Delphine espère que le report permettra de vérifier l'hypothèse de la préméditation.",
+        "url": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/affaire-jubillar-l-avocate-d-une-amie-proche-de-delphine-aussaguel-epouse-jubillar-espere-que-le-report-du-proces-en-appel-permettra-de-verifier-l-hypothese-de-la-premeditation_8116718.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 5,
@@ -172,23 +172,23 @@ const ARTICLES = [
     "themes": [
       "Monde"
     ],
-    "title": "Khalil al-Hayya élu à la tête du Hamas",
-    "full": "Le Hamas a annoncé l'élection de Khalil al-Hayya comme nouveau chef du mouvement, à une large majorité. Négociateur en chef du mouvement islamiste palestinien, il succède à Yahya Sinwar, tué par l'armée israélienne en octobre 2024. Son élection doit être officialisée la semaine prochaine. Al-Hayya reprend la direction d'une organisation affaiblie et isolée, dont les marges de manœuvre restent fortement limitées.",
+    "title": "Zelensky limoge le commandant en chef de l'armée ukrainienne",
+    "full": "Le président ukrainien Volodymyr Zelensky a annoncé le départ d'Oleksandr Syrsky, commandant en chef de l'armée depuis 2024. Cette décision intervient après plusieurs jours de manifestations à Kiev et dans d'autres villes ukrainiennes réclamant la démission de Syrsky, critiqué pour ses lourdes pertes humaines. Il sera remplacé par Mykhaïlo Drapaty, 35 ans, commandant des forces interarmées, réputé populaire dans le pays.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Souligne que le nouveau chef a remporté une large majorité lors du scrutin interne et que son investiture sera formalisée dans les jours suivants.",
-        "url": "https://www.liberation.fr/international/moyen-orient/le-hamas-annonce-lelection-de-khalil-al-hayya-comme-nouveau-chef-du-mouvement-20260720_BGBF3TXU2JBENOQXVZX6J6MIEE/"
+        "outlet": "Le Monde",
+        "take": "Les manifestations de grande ampleur avaient cristallisé les reproches des détracteurs de Syrsky concernant son bilan en termes de pertes humaines.",
+        "url": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-le-depart-du-commandant-en-chef-de-l-armee-oleksandr-syrsky_6725306_3210.html"
       },
       {
         "outlet": "France Info",
-        "take": "Met l'accent sur le rôle de négociateur d'al-Hayya et sur l'état décapité et isolé du mouvement qu'il est appelé à diriger.",
-        "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/qui-est-khalil-al-hayya-le-nouveau-chef-politique-du-hamas_8064602.html#xtor=RSS-3-[lestitres]"
+        "take": "Le changement marque une transition générationnelle avec le passage d'un officier de 60 ans à un commandant de 35 ans.",
+        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-limoge-le-commandant-en-chef-de-son-armee_8117009.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "Le Figaro International",
-        "take": "Décrit al-Hayya comme un survivant incarnant Gaza, proche de l'Iran, face au défi de négocier la survie du Hamas.",
-        "url": "https://www.lefigaro.fr/international/il-incarne-gaza-khalil-al-hayya-le-survivant-charge-de-negocier-la-survie-du-hamas-20260720"
+        "take": "Ce limogeage symbolise le choix ukrainien pour une stratégie d'innovation militaire plutôt que de simple défense soviétique.",
+        "url": "https://www.lefigaro.fr/international/face-a-vladimir-poutine-volodymyr-zelensky-hesite-entre-deux-visions-de-la-guerre-20260721"
       }
     ],
     "id": 6,
@@ -196,20 +196,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Société"
     ],
-    "title": "Les houthistes annoncent un blocus maritime contre l'Arabie saoudite",
-    "full": "Les rebelles yéménites pro-iraniens ont déclaré lundi leur intention de bloquer le trafic maritime saoudien en mer Rouge. Cette annonce, dont les modalités concrètes restent floues, pourrait affecter les exportations pétrolières du royaume et ouvrir un nouveau foyer de tension au Moyen-Orient. Elle menace également de peser sur l'approvisionnement énergétique mondial.",
+    "title": "Cédric Jubillar avoue avoir étranglé son épouse lors d'une dispute",
+    "full": "Cédric Jubillar a reconnu le 15 juillet devant la cour d'appel de Toulouse avoir tué son épouse Delphine, disparue en décembre 2020. Après plus de cinq ans de dénégations, il a expliqué l'avoir étranglée au cours d'une altercation : « Je voulais qu'elle se taise, je l'ai attrapée par le cou ». Il affirme avoir ensuite placé son corps dans le coffre de sa voiture avant de le dissimuler dans un champ. Son procès en appel, initialement prévu en septembre, a été renvoyé au premier semestre 2027. Cette confession soulève la question de la préméditation auprès de certaines parties civiles.",
     "angles": [
       {
-        "outlet": "Courrier International",
-        "take": "Le blocus constituerait une extension significative du conflit régional avec des répercussions potentielles sur les flux d'énergie mondiaux.",
-        "url": "https://www.courrierinternational.com/article/guerre-en-iran-les-houthistes-annoncent-un-blocus-maritime-contre-l-arabie-saoudite-faisant-craindre-une-extension-du-conflit_251364"
+        "outlet": "France Info",
+        "take": "Le procès en appel est reporté au premier semestre 2027, et les détails complets des aveux de Jubillar à la police sont désormais connus.",
+        "url": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/cedric-jubillar-je-voulais-qu-elle-se-taise_8116958.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Le Monde",
-        "take": "La menace reste hypothétique et sans détails opérationnels, mais pourrait compliquer les stratégies de contournement du détroit d'Ormuz pour l'exportation pétrolière saoudienne.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/21/les-rebelles-houthistes-du-yemen-annoncent-un-blocus-maritime-de-l-arabie-saoudite-sans-donner-les-details-de-sa-mise-en-uvre_6728151_3210.html"
+        "take": "Jubillar a déclaré avoir réalisé « quelques instants » après le crime qu'il venait de tuer la mère de ses enfants, et qu'une parole de sa femme l'avait fait « péter les plombs ».",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/21/il-m-a-fallu-quelques-instants-pour-realiser-que-je-venais-de-tuer-la-mere-de-mes-enfants-ce-qu-a-dit-cedric-jubillar-a-la-justice_6728862_3224.html"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "La famille et la justice mettent en place des mesures de protection pour les deux enfants du couple face aux enjeux de l'affaire.",
+        "url": "https://www.20minutes.fr/faits_divers/4235639-20260721-affaire-jubillar-comment-famille-justice-organisent-proteger-deux-enfants-couple?at_medium=display&at_campaign=149"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Les parties civiles demeurent sceptiques quant à la version du crime présenté comme un acte impulsif, la question de la préméditation restant en suspens.",
+        "url": "https://www.liberation.fr/societe/police-justice/cedric-jubillar-a-avoue-a-la-justice-avoir-etrangle-sa-femme-delphine-20260721_GTIU4CFEYFFBVPOWLGZ6MWKURM/"
       }
     ],
     "id": 7,
@@ -217,21 +227,31 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde",
-      "Environnement"
+      "Économie",
+      "Tech & Sciences"
     ],
-    "title": "Afghanistan: plus de 100 disparus dans des inondations meurtrières",
-    "full": "Des crues ont frappé l'Afghanistan lundi, faisant au moins 20 morts et 105 disparus, selon les autorités locales. La ville de Parun, chef-lieu de la province du Nouristan, a été particulièrement ravagée, avec de nombreux fonctionnaires et le maire portés disparus. Les opérations de recherche se poursuivent dans des conditions difficiles, tandis que le bilan pourrait s'alourdir.",
+    "title": "Microsoft s'allie à Mistral pour renforcer son infrastructure IA en Europe",
+    "full": "Microsoft a signé un accord de plusieurs milliards de dollars avec Mistral, la start-up française spécialisée en intelligence artificielle, pour accéder à sa puissance de calcul en Europe. Ce partenariat permet au géant américain de renforcer ses capacités informatiques sur le continent, tandis que les modèles de Mistral seront intégrés aux outils Microsoft, notamment son assistant IA Copilot. Le montant exact de l'accord n'a pas été dévoilé.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Met l'accent sur l'ampleur des disparitions à Parun et l'implication de responsables administratifs locaux.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/20/afghanistan-20-morts-et-plus-de-100-disparus-dans-des-inondations_6727615_3210.html"
+        "outlet": "France 24",
+        "take": "Souligne l'ampleur financière plurimilliardaire et l'utilisation des infrastructures européennes de Mistral par Microsoft.",
+        "url": "https://www.france24.com/fr/%C3%A9co-tech/20260721-ia-microsoft-signe-un-accord-avec-mistral-pour-utiliser-ses-infrastructures-en-europe"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Souligne le nombre total de victimes (morts et blessés) et les obstacles rencontrés par les équipes de secours.",
-        "url": "https://www.20minutes.fr/monde/afghanistan/4235498-20260720-afghanistan-inondations-font-20-morts-80-blesses-plus-100-disparus?at_medium=display&at_campaign=149"
+        "outlet": "Le Figaro Éco",
+        "take": "Met en avant la vitrine stratégique pour Mistral grâce à l'intégration de ses modèles dans les produits phares de Microsoft.",
+        "url": "https://www.lefigaro.fr/secteur/high-tech/ia-microsoft-signe-un-accord-de-plusieurs-milliards-de-dollars-avec-mistral-pour-developper-ses-capacites-de-calcul-europeennes-20260721"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Insiste sur l'objectif de renforcement de la capacité en Europe du géant américain via les data centers français.",
+        "url": "https://www.liberation.fr/economie/economie-numerique/ia-lentreprise-francaise-mistral-signe-un-accord-de-plusieurs-milliards-de-dollars-avec-microsoft-20260721_46CWKAUJJBGS5NNBDRGF6JB4KM/"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Précise que Microsoft rendra les modèles de Mistral davantage disponibles sur sa plateforme de services aux entreprises.",
+        "url": "https://www.lemonde.fr/pixels/article/2026/07/21/microsoft-signe-un-accord-de-plusieurs-milliards-de-dollars-pour-utiliser-les-data-centers-de-mistral-ai_6729035_4408996.html"
       }
     ],
     "id": 8,
@@ -239,20 +259,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Économie"
     ],
-    "title": "Hongrie : Judit Polgar décline la présidence proposée par Magyar",
-    "full": "La légende hongroise des échecs Judit Polgar a refusé la présidence que lui proposait le Premier ministre Péter Magyar. Cette nomination s'inscrivait dans une volonté de rupture avec l'ancien régime d'extrême droite, en remplaçant un proche de Viktor Orbán qui avait dû quitter ses fonctions. Polgar, 49 ans, a dominé le classement mondial féminin pendant plus d'une décennie et reste la seule femme à avoir atteint le top 10 absolu des échecs.",
+    "title": "Jean Castex écarte le PDG de SNCF Voyageurs et réorganise la filiale",
+    "full": "Christophe Fanichet, à la tête de SNCF Voyageurs depuis 2020, quitte ses fonctions mardi 21 juillet. Jean Castex, président du groupe SNCF, remplace cette direction unique par un système à deux têtes, censé « impulser une nouvelle dynamique ». Le changement intervient après des divergences stratégiques entre les deux hommes et dans un contexte de tensions sociales marquées par une grève unitaire en juin. Selon L'Humanité, le plan de restructuration « Destination 2030 » est abandonné.",
     "angles": [
       {
         "outlet": "Libération",
-        "take": "L'accent est mis sur le changement politique que représentait cette proposition de Magyar, symbolisant une rupture avec l'héritage orbánien.",
-        "url": "https://www.liberation.fr/international/europe/hongrie-judit-polgar-plus-grande-championne-dechecs-de-tous-les-temps-proposee-pour-prendre-la-presidence-20260720_TJ2WWFRWOJDWXG3OD36TC5E2LM/"
+        "take": "La réorganisation en direction bicéphale permet à Castex de consolider son contrôle sur la filiale.",
+        "url": "https://www.liberation.fr/economie/transports/en-debarquant-le-pdg-de-sncf-voyageurs-jean-castex-muscle-sa-mainmise-20260721_YRJ5V5CGQRE5HFB4YMTAAQFEZY/"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Deux nouveaux responsables sont nommés pour insuffler un renouveau.",
+        "url": "https://www.franceinfo.fr/economie/transports/sncf/jean-castex-annonce-le-depart-du-pdg-de-sncf-voyageurs-et-reorganise-cette-filiale_8116358.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Le Monde",
-        "take": "L'attention se porte sur le palmarès exceptionnel de Polgar et son statut unique dans l'histoire des échecs mondiaux.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/20/hongrie-l-ex-championne-d-echecs-judit-polgar-refuse-la-presidence-proposee-par-peter-magyar_6726983_3211.html"
+        "take": "Des désaccords stratégiques opposaient Castex et Fanichet depuis l'arrivée du nouvel actionnaire.",
+        "url": "https://www.lemonde.fr/economie/article/2026/07/22/jean-castex-modifie-la-gouvernance-de-sncf-voyageurs-et-se-separe-de-son-patron-christophe-fanichet_6729714_3234.html"
+      },
+      {
+        "outlet": "L'Humanité",
+        "take": "Le changement intervient après un succès de la mobilisation syndicale et entraîne l'abandon du plan de restructuration.",
+        "url": "https://www.humanite.fr/social-et-economie/cgt-cheminots/sncf-voyageurs-jean-castex-debarque-christophe-fanichet-les-syndicats-obtiennent-larret-du-plan-de-restructuration-destination-2030"
       }
     ],
     "id": 9,
@@ -260,21 +290,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé",
-      "Société"
+      "Économie"
     ],
-    "title": "Le PTC et le kush, drogues de synthèse aux effets dévastateurs",
-    "full": "Le PTC (« Pète ton crâne »), un cannabis de synthèse particulièrement puissant, se propage en France avec des effets souvent extrêmement violents. Cette substance peut être consommée via des cigarettes électroniques et reste largement méconnue du grand public. En Afrique de l'Ouest, le kush, une autre drogue chimique de synthèse vendue à bas prix, provoque une addiction rapide et des blessures graves, parfois mortelles, notamment chez les jeunes Sierra-Léonais et Libériens. Ces deux drogues illustrent l'émergence de nouvelles substances synthétiques posant un enjeu sanitaire majeur.",
+    "title": "L'A13 fermera neuf mois pour travaux au tunnel de Saint-Cloud",
+    "full": "L'autoroute A13 sera fermée en direction de la Normandie pendant neuf mois à partir de mi-novembre 2026 jusqu'à fin août 2027 au niveau du tunnel de Saint-Cloud. Ces travaux de consolidation, estimés à 35 millions d'euros, consisteront à couler une nouvelle coque en béton armé à l'intérieur du tunnel afin d'assurer sa pérennité. Cette fermeture s'inscrit également dans le calendrier du chantier de la future ligne 15 Ouest du Grand Paris Express.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Le PTC est un cannabis de synthèse puissant consommable via cigarette électronique, dont les effets violents restent mal connus en France.",
-        "url": "https://www.franceinfo.fr/sante/drogue-addictions/drogue-ptc-des-effets-devastateurs_8115173.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "20 Minutes",
+        "take": "Précise le calendrier exact de la fermeture : mi-novembre 2026 à fin août 2027.",
+        "url": "https://www.20minutes.fr/societe/4235670-20260721-autoroute-a13-circulation-vers-normandie-coupee-pendant-neuf-mois-niveau-tunnel-saint-cloud?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Le Monde",
-        "take": "En Sierra Leone et au Liberia, le kush provoque une addiction fulgurante et des blessures souvent mortelles, particulièrement chez les jeunes populations.",
-        "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/21/en-sierra-leone-et-au-liberia-plongee-dans-l-enfer-du-kush-drogue-de-synthese-aux-effets-devastateurs_6728289_3451060.html"
+        "take": "Détaille le coût des travaux de consolidation estimé à 35 millions d'euros et la nature technique de l'intervention.",
+        "url": "https://www.lemonde.fr/economie/article/2026/07/21/l-a13-fermee-pendant-neuf-mois-de-paris-vers-caen-a-partir-de-la-mi-novembre_6729215_3234.html"
+      },
+      {
+        "outlet": "Le Figaro Éco",
+        "take": "Relie la fermeture à la fois aux besoins de confortement du tunnel et au calendrier du Grand Paris Express.",
+        "url": "https://www.lefigaro.fr/conjoncture/ile-de-france-le-tunnel-de-saint-cloud-sur-l-a13-va-fermer-pendant-plus-de-neuf-mois-dans-le-sens-paris-province-20260721"
       }
     ],
     "id": 10,
@@ -282,20 +316,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Société"
     ],
-    "title": "Kevin Keegan, légende de Liverpool, décédé à 75 ans",
-    "full": "Kevin Keegan, double Ballon d'or anglais et figure majeure du football des années 1970, est décédé lundi à l'âge de 75 ans. L'ancienne star de Liverpool et de Newcastle succombait à un cancer, selon l'annonce de sa famille auprès des médias britanniques. Considéré comme l'un des meilleurs offensifs de sa génération, Keegan avait marqué l'histoire du club de Merseyside lors de son apogée sportive.",
+    "title": "Marseille : plusieurs artistes se retirent du Delta Festival",
+    "full": "Une dizaine d'artistes et de partenaires se retirent du Delta Festival de Marseille, prévu ce week-end, après la diffusion de témoignages visant le président de la manifestation, Olivier Ledot. Celui-ci fait l'objet d'accusations de violences sexuelles formulées par d'anciennes collaboratrices et bénévoles. Ces défections affectent le plus grand événement estival de la ville, qui se déroule habituellement sur la plage du Prado.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Souligne le statut de légende de Keegan au sein de Liverpool et sa reconnaissance internationale avec deux Ballon d'or.",
-        "url": "https://www.franceinfo.fr/sports/foot/football-legende-de-liverpool-et-double-ballon-d-or-l-anglais-kevin-keegan-est-mort-a-l-age-de-75-ans_8115233.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "Une dizaine d'artistes et de partenaires du festival annoncent leur retrait suite à la diffusion de témoignages contre le président de la manifestation.",
+        "url": "https://www.lemonde.fr/culture/article/2026/07/21/a-marseille-le-delta-festival-lache-par-plusieurs-musiciens-apres-des-allegations-de-violences-sexuelles_6729347_3246.html"
       },
       {
         "outlet": "Libération",
-        "take": "Insiste sur son rôle déterminant dans le grand Liverpool des années soixante-dix et son passage ultérieur à Newcastle.",
-        "url": "https://www.liberation.fr/sports/football/mort-de-kevin-keegan-double-ballon-dor-anglais-a-lage-de-75-ans-20260720_23BPHBH7EBA3XK6GUTEIV4KQKE/"
+        "take": "L'événement entre en crise face aux accusations de violences sexuelles visant Olivier Ledot, l'un de ses fondateurs, mise en cause par d'anciennes collaboratrices et bénévoles.",
+        "url": "https://www.liberation.fr/societe/police-justice/marseille-defections-en-serie-au-delta-festival-apres-des-accusations-de-violences-sexuelles-visant-lun-de-ses-fondateurs-20260721_EVOL4RRDOBGXTPDHMIA3T2C26I/"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Le DJ Mosimann annule sa participation au festival en affirmant rester fidèle à ses valeurs face aux accusations contre l'un des fondateurs.",
+        "url": "https://www.franceinfo.fr/culture/musique/fidele-a-ses-valeurs-le-dj-mosimann-annule-sa-participation-au-delta-festival-de-marseille_8116568.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 11,
@@ -303,20 +342,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Culture"
     ],
-    "title": "Pogacar et Vingegaard contrôlés antidopage en pleine nuit",
-    "full": "Tadej Pogacar et Jonas Vingegaard, respectivement leader et dauphin du Tour de France, ont été réveillés dans la nuit de samedi à dimanche pour un contrôle antidopage inopiné avant la 15e étape. Cette pratique, bien que légale, s'avère controversée parmi les coureurs. Elle permet aux autorités de détecter certaines substances rapidement éliminées de l'organisme, mais suscite des critiques quant au respect du repos des athlètes.",
+    "title": "L'État débloque les subventions gelées de 28 structures culturelles",
+    "full": "Le ministère de la Culture a annoncé le déblocage des crédits 2026 pour 28 théâtres, centres dramatiques, maisons d'opéra et orchestres nationaux, soit 10 millions d'euros pour le second semestre. Ces subventions avaient été gelées début juillet, provoquant une vive inquiétude dans le monde théâtral et une mobilisation avant l'ouverture du Festival d'Avignon.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Met l'accent sur le dilemme entre l'efficacité de cette méthode de contrôle et le sentiment de violation qu'elle provoque chez les coureurs.",
-        "url": "https://www.liberation.fr/sports/cyclisme/controles-antidopage-en-pleine-nuit-pour-pogacar-et-vingegaard-une-operation-legale-et-efficace-ou-un-manque-de-respect-total-pour-les-coureurs-20260720_AQWCRJCTGVCEJF745ARWHAHGGA/"
+        "outlet": "France Info",
+        "take": "L'entourage de la ministre de la Culture confirme le versement intégral des crédits initialement bloqués.",
+        "url": "https://www.franceinfo.fr/culture/spectacles/les-credits-2026-geles-pour-28-structures-du-spectacle-vivant-vont-finalement-leur-etre-verses-annonce-l-entourage-de-la-ministre-de-la-culture_8116511.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "France Info",
-        "take": "Expose les faits bruts de l'opération et son contexte dans le déroulement de la Grande Boucle.",
-        "url": "https://www.franceinfo.fr/tour-de-france/on-vous-resume-l-affaire-des-controles-antidopage-inopines-en-pleine-nuit-ayant-vise-tadej-pogacar-et-jonas-vingegaard-sur-le-tour-de-france-2026_8115230.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Le Monde",
+        "take": "Le déblocage intervient à la veille de l'ouverture du Festival d'Avignon et met fin à une période d'inquiétude du secteur culturel.",
+        "url": "https://www.lemonde.fr/culture/article/2026/07/21/spectacle-vivant-l-etat-debloque-les-credits-de-28-structures-culturelles_6728863_3246.html"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Le ministère confirme que les établissements en difficulté depuis début juillet recevront l'intégralité de leurs subventions.",
+        "url": "https://www.liberation.fr/culture/scenes/theatres-maisons-dopera-et-orchestres-les-credits-de-28-structures-qui-menacaient-detre-geles-seront-bien-verses-20260721_UK4BV76KHJHTBFEAGT4IS3PPHA/"
       }
     ],
     "id": 12,
@@ -324,21 +368,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie",
-      "Environnement"
+      "Monde"
     ],
-    "title": "Le soutien public aux énergies renouvelables augmente de 11 % en 2027",
-    "full": "La Commission de régulation de l'énergie estime que le coût du soutien public aux énergies renouvelables s'élèvera à environ 20 milliards d'euros en 2026 et 2027, en hausse de 11 % entre ces deux années. Cette augmentation découle principalement de la croissance des volumes de production d'énergie éolienne, solaire et biométhane soutenus par l'État. Les nouvelles estimations intègrent l'évolution des prix de gros et des modifications du cadre de fonctionnement du secteur.",
+    "title": "Naufrage d'un ferry au Guyana : le bilan s'alourdit",
+    "full": "Le ferry MV Barima a chaviré dans la nuit de samedi à dimanche au large du Guyana après avoir été frappé par une grosse vague. Parti de Georgetown avec environ 130 à 180 personnes à bord selon les sources, le bilan des décès s'élève à au moins 41 morts selon les autorités locales, quoique d'autres estimations le portent à 53. Des recherches se poursuivent avec l'aide de plongeurs militaires français et de pêcheurs locaux.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "L'augmentation des charges s'explique par une montée en puissance des volumes de production d'énergies renouvelables.",
-        "url": "https://www.lemonde.fr/planete/article/2026/07/20/eolien-solaire-biomethane-vers-une-hausse-de-11-du-cout-du-soutien-public-aux-energies-renouvelables-en-2027_6727650_3244.html"
+        "outlet": "France Info",
+        "take": "Révision à la hausse du nombre de victimes confirmées, passé de 27 morts à 41 selon le nouveau bilan officiel.",
+        "url": "https://www.franceinfo.fr/monde/le-naufrage-d-un-bateau-au-guyana-a-fait-au-moins-41-morts-selon-un-nouveau-bilan-des-autorites_8116967.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "Le Figaro Éco",
-        "take": "La CRE a révisé ses projections en tenant compte de nouvelles règles de fonctionnement et de l'évolution des prix du marché.",
-        "url": "https://www.lefigaro.fr/societes/les-energies-renouvelables-couteront-20-milliards-d-euros-a-l-etat-en-2026-et-2027-20260720"
+        "outlet": "Le Monde",
+        "take": "Le nombre total de passagers à bord reste incertain, variant entre 130 et 179 selon les estimations.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/22/naufrage-d-un-ferry-au-guyana-le-bilan-toujours-provisoire-reevalue-a-53-morts_6729413_3210.html"
       }
     ],
     "id": 13,
@@ -346,20 +389,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Culture"
     ],
-    "title": "Isère : quatre suspects arrêtés après une fuite en hélicoptère",
-    "full": "Quatre hommes soupçonnés de cambriolage se sont échappés à pied après un accident de voiture sur l'autoroute A43 en Isère. Leur véhicule, volé et chargé d'objets dérobés (téléphones et accessoires), a été abandonné sur place. Les forces de l'ordre ont lancé une traque en hélicoptère et procédé à l'arrestation des quatre fugitifs. Des coups de feu ont été tirés en l'air par un policier pour tenter de les arrêter.",
+    "title": "Avignon 2026 : le festival mise sur la Corée et l'optimisme",
+    "full": "Le Festival d'Avignon a clôturé son édition 2026 (4 au 25 juillet) avec un bilan jugé très positif par son directeur Tiago Rodrigues. Cette 80e édition avait placé la langue coréenne au cœur de la programmation théâtrale et chorégraphique. Malgré un contexte marqué par des incertitudes politiques et économiques, le directeur se montre confiant pour la prochaine édition et salue le déblocage des subventions de 28 structures culturelles (opéras, scènes nationales et centres dramatiques) pour le second semestre.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Met l'accent sur l'aspect spectaculaire de la fuite à pied et les coups de feu tirés par un policier pour stopper les suspects.",
-        "url": "https://www.20minutes.fr/faits_divers/4235441-20260720-isere-quatre-hommes-soupconnes-avoir-commis-cambriolage-echappent-apres-grave-accident-voiture?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "Souligne le parti pris artistique de l'édition 2026 en faveur de la création coréenne et des spectacles vivants.",
+        "url": "https://www.franceinfo.fr/culture/festival-avignon/festival-d-avignon-un-bilan-tres-positif-pour-l-edition-2026-selon-son-directeur-tiago-rodrigues_8116775.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "France Info",
-        "take": "Souligne l'intervention de l'hélicoptère et le détail des objets volés retrouvés dans le véhicule accidenté.",
-        "url": "https://www.franceinfo.fr/faits-divers/accident/quatre-interpellations-apres-une-traque-en-helicoptere-aux-abords-de-l-a43-en-isere_8115251.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "L'Humanité",
+        "take": "Insiste sur le climat d'espoir malgré les obstacles économiques et politiques, notamment la résolution du gel des financements culturels.",
+        "url": "https://www.humanite.fr/culture-et-savoir/culture/festival-davignon-malgre-les-incertitudes-politiques-et-economiques-une-80e-edition-porteuse-despoir-selon-son-directeur-tiago-rodrigues"
       }
     ],
     "id": 14,
@@ -367,20 +410,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Monde",
+      "Économie"
     ],
-    "title": "Un acteur d'« Ici tout commence » suspendu après une altercation",
-    "full": "Stéphane Blancafort, acteur de la série TF1 « Ici tout commence », a été écarté du tournage suite à une violente altercation avec sa compagne et partenaire de jeu Catherine Davydzenka. Placé en garde à vue, il est accusé d'agression. Sa défense invoque la légitime défense. Le parquet de Nîmes a ouvert une enquête le 20 juillet.",
+    "title": "Royaume-Uni: Burnham nomme Healey aux finances et supprime la TVA sur l'électricité",
+    "full": "Le Premier ministre britannique Andy Burnham a nommé John Healey au poste de chancelier de l'Échiquier (ministre des Finances), ancien collaborateur de Gordon Brown, dans l'objectif de rassurer les marchés financiers. Parallèlement, son gouvernement annonce la suppression de la TVA sur l'électricité comme première mesure de soutien au pouvoir d'achat. Cette décision soulève déjà des questions sur son financement, alors que le pays cherche à éviter un déraillement de la dette publique.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Rappelle la gravité de l'incident et l'exclusion immédiate de l'acteur des productions en cours.",
-        "url": "https://www.20minutes.fr/arts-stars/serie/4235421-20260720-stephane-blancafort-acteur-ecarte-tout-commence-apres-avoir-tente-etrangler-compagne?at_medium=display&at_campaign=149"
+        "outlet": "Le Figaro Éco",
+        "take": "La nomination de Healey, fort de son expérience auprès de Gordon Brown, vise à restaurer la confiance des marchés dans la gestion économique britannique.",
+        "url": "https://www.lefigaro.fr/conjoncture/au-royaume-uni-andy-burnham-choisit-john-healey-aux-finances-pour-rassurer-les-marches-20260721"
       },
       {
-        "outlet": "Libération",
-        "take": "Souligne que l'affaire relève désormais de la justice et que les deux protagonistes invoquent des versions divergentes des faits.",
-        "url": "https://www.liberation.fr/societe/police-justice/ici-tout-commence-enquete-ouverte-apres-une-violente-altercation-impliquant-un-acteur-de-la-serie-accuse-dagression-sur-sa-compagne-20260720_PTXXNEXXVRALZKYDZZRPS7M2RE/"
+        "outlet": "France 24",
+        "take": "La suppression de la TVA sur l'électricité répond aux préoccupations de pouvoir d'achat, mais son coût budgétaire inquiète dans un contexte de vigilance sur l'endettement public.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260721-royaume-uni-premi%C3%A8re-mesure-pour-le-pouvoir-d-achat-premi%C3%A8res-questions-sur-son-co%C3%BBt"
       }
     ],
     "id": 15,
@@ -390,18 +434,18 @@ const ARTICLES = [
     "themes": [
       "Économie"
     ],
-    "title": "L'UE sanctionne AliExpress avec une amende record de 550 millions",
-    "full": "La Commission européenne a infligé une amende de 550 millions d'euros à la plateforme chinoise AliExpress pour avoir failli à ses obligations de lutte contre la vente de produits illégaux. L'enquête a révélé un grand nombre de contrefaçons, de jouets dangereux et de vêtements contrefaits. AliExpress dispose de trois mois pour se conformer au droit européen, faute de quoi elle encourra des amendes périodiques. Cette sanction est la troisième infligée par Bruxelles en moins d'un an à une grande plateforme numérique, après X et Temu.",
+    "title": "Fibre Excellence : les salariés occupent l'usine avant le jugement",
+    "full": "Les salariés de l'usine Fibre Excellence à Saint-Gaudens occupent leur lieu de travail en attente de la décision du tribunal de commerce de Toulouse, prévue le 27 juillet. Le groupe, en redressement judiciaire depuis avril, pourrait être liquidé si l'offre de reprise présentée par le banquier Matthieu Pigasse est rejetée. La CGT demande un soutien présidentiel à ce projet de reprise.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "La Commission européenne a demandé à AliExpress de respecter la réglementation européenne sous trois mois, menaçant d'amendes supplémentaires en cas de non-respect.",
-        "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-union-europeenne-sanctionne-aliexpress-pour-la-vente-de-produits-illegaux-dont-des-jouets-dangereux-et-des-vetements-contrefaits_8114975.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "L'Humanité",
+        "take": "L'action des salariés s'accompagne d'une mobilisation syndicale auprès des autorités gouvernementales pour obtenir du soutien à la reprise envisagée.",
+        "url": "https://www.humanite.fr/social-et-economie/entreprise/fibre-excellence-lusine-de-saint-gaudens-occupee-par-ses-salaries-avant-la-decision-du-tribunal-sur-la-potentielle-reprise-de-matthieu-pigasse"
       },
       {
         "outlet": "Le Monde",
-        "take": "Cette amende record s'inscrit dans une volonté croissante de Bruxelles de sanctionner les grandes plateformes numériques qui ne contrôlent pas suffisamment les contenus illégaux.",
-        "url": "https://www.lemonde.fr/economie/article/2026/07/20/la-commission-europeenne-inflige-une-amende-record-de-550-millions-d-euros-a-aliexpress_6727187_3234.html"
+        "take": "Le jugement du tribunal de commerce est crucial : il déterminera entre la survie de l'usine via la reprise ou sa disparition par liquidation judiciaire.",
+        "url": "https://www.lemonde.fr/economie/article/2026/07/21/les-salaries-de-fibre-excellence-occupent-l-usine-de-saint-gaudens-suspendus-a-la-decision-du-tribunal-de-commerce-de-toulouse_6728897_3234.html"
       }
     ],
     "id": 16,
@@ -409,20 +453,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Monde",
+      "Économie"
     ],
-    "title": "François-Noël Buffet en passe de devenir Défenseur des droits",
-    "full": "Le Parlement doit valider mardi la nomination de François-Noël Buffet, sénateur Les Républicains, au poste de Défenseur des droits. Le ministre de l'Intérieur Laurent Nuñez a défendu lundi cette nomination, affirmant que le parcours politique du candidat n'influerait pas sur son objectivité et son impartialité à la tête de cette institution. Buffet a cependant affiché publiquement des positions conservatrices, notamment son opposition à la PMA et au mariage pour tous, ainsi que son soutien à un durcissement des politiques migratoires.",
+    "title": "Les Pays-Bas interdisent les importations des colonies israéliennes",
+    "full": "Les Pays-Bas ont annoncé l'interdiction d'importer, d'acheter ou de vendre des marchandises provenant des colonies israéliennes à partir du 22 septembre. Le ministère néerlandais des Affaires étrangères justifie cette mesure en considérant ces colonies comme illégales selon le droit international. Cette décision intervient alors que plusieurs États membres de l'Union européenne se sont prononcés en faveur d'une telle interdiction en juillet, sans parvenir à un accord commun au niveau européen.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Le gouvernement insiste sur l'indépendance institutionnelle du Défenseur des droits, indépendamment du profil politique des candidats.",
-        "url": "https://www.franceinfo.fr/societe/defenseur-des-droits-laurent-nunez-n-a-aucun-doute-sur-l-objectivite-l-impartialite-de-francois-noel-buffet_8114903.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "Souligne que cette mesure néerlandaise intervient dans un contexte où plusieurs pays de l'UE débattent d'une harmonisation, mais n'ont pas encore trouvé de position commune.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/21/les-pays-bas-annoncent-l-interdiction-des-importations-issues-de-colonies-israeliennes-des-le-22-septembre_6728999_3210.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Des questionnements émergent sur la compatibilité entre les positions conservatrices affichées du candidat et les missions de protection des droits fondamentaux confiées à cette institution.",
-        "url": "https://www.liberation.fr/politique/nomination-de-francois-noel-buffet-un-defenseur-des-droits-ne-devrait-pas-dire-ca-20260720_JREOOCSHQ5AD7H6AFDR2HPPKPA/"
+        "outlet": "Le Figaro Éco",
+        "take": "Insiste sur le caractère opérationnel de la mesure en précisant sa date d'entrée en vigueur et le fondement juridique invoqué (illégalité selon le droit international).",
+        "url": "https://www.lefigaro.fr/conjoncture/les-pays-bas-vont-interdire-les-importations-provenant-des-colonies-israeliennes-20260721"
       }
     ],
     "id": 17,
@@ -430,20 +475,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie"
+      "Environnement",
+      "France"
     ],
-    "title": "Pierre & Vacances rachetée par le fonds émirati Mubadala Capital",
-    "full": "Le groupe français Pierre & Vacances-Center Parcs a accepté d'être racheté par le fonds d'investissement émirati Mubadala Capital pour une valorisation d'environ un milliard d'euros. L'accord a reçu le soutien du conseil d'administration et des trois principaux actionnaires, qui contrôlent ensemble 58,6 % du capital. Le géant du tourisme, qui a généré près de deux milliards d'euros de chiffre d'affaires en 2025, passera ainsi sous contrôle émirati.",
+    "title": "La fusion de l'IRD avec le CNRS inquiète les chercheurs",
+    "full": "Le gouvernement envisage d'absorber l'Institut de recherche pour le développement (IRD) au sein du CNRS. Près de 2000 chercheurs s'opposent à ce projet, craignant une dilution de cet organisme spécialisé dans l'étude des enjeux globaux comme le changement climatique, les catastrophes naturelles et la coopération internationale. Selon ses détracteurs, cette fusion menacerait l'indépendance scientifique et la capacité de recherche à long terme de l'IRD, jugée incompatible avec une intégration au CNRS.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Met l'accent sur le montant de valorisation du groupe et son importance dans le tourisme français.",
-        "url": "https://www.franceinfo.fr/economie/pierre-vacances-fait-un-nouveau-pas-vers-son-rachat-par-un-fonds-emirati_8115038.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Reporterre",
+        "take": "L'IRD, unique en son genre en France pour l'adaptation climatique, risque de disparaître à un moment critique face aux crises environnementales.",
+        "url": "https://reporterre.net/Au-pire-moment-la-France-saborde-un-institut-sur-l-adaptation-au-changement-climatique"
       },
       {
-        "outlet": "Le Monde",
-        "take": "Détaille l'identité des principaux actionnaires ayant approuvé l'opération et leur poids décisionnel.",
-        "url": "https://www.lemonde.fr/economie/article/2026/07/20/pierre-vacances-center-parcs-accord-de-rachat-avec-le-fonds-emirati-mubadala-capital_6726948_3234.html"
+        "outlet": "Libération",
+        "take": "Un collectif de chercheurs dénonce une absorption qui compromettrait la recherche de long terme et la coopération internationale, essentielles aux défis actuels.",
+        "url": "https://www.liberation.fr/idees-et-debats/tribunes/pourquoi-linstitut-de-recherche-pour-le-developpement-ne-doit-pas-etre-absorbe-par-le-cnrs-par-pres-de-2000-chercheurs-20260721_UDA3PIAQFZGKLIEZ6OL7EURMOM/"
       }
     ],
     "id": 18,
@@ -451,16 +497,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite",
-      "Société"
+      "Culture"
     ],
-    "title": "Des automobilistes dénoncent les jeteurs de mégots sur les réseaux",
-    "full": "Des internautes relaient sur les réseaux sociaux des vidéos de conducteurs jetant leurs mégots par la portière, soulevant des craintes face aux risques d'incendie. Selon une étude récente, un fumeur sur cinq adopte ce comportement en voiture. Cette pratique dangereuse fait l'objet d'une mobilisation croissante en ligne pour sensibiliser et dissuader les contrevenants.",
+    "title": "Trois films à découvrir en salle cette semaine",
+    "full": "Le Monde propose ses critiques cinéma hebdomadaires avec trois films à l'affiche : « Gavagai et autres malentendus » réalisé par Ulrich Köhler, « De la Comédie-Française » et « Gorgona ». Le premier, une comédie signée par deux des cocréateurs de la série « Broute », explore les tensions au sein d'une équipe de cinéma confrontée à des enjeux néocoloniaux, mêlant satire et malaise selon les critiques.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "La dénonciation en ligne de ces comportements à risque s'intensifie, mettant l'accent sur le danger d'incendie lié aux mégots jetés depuis les véhicules.",
-        "url": "https://www.franceinfo.fr/faits-divers/incendie/face-au-risque-d-incendie-ils-denoncent-les-jeteurs-de-megots-sur-internet_8115539.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "Sélection hebdomadaire des films en salles incluant « Gavagai et autres malentendus », comédie de Darondeau et Usclat, créateurs de « Broute ».",
+        "url": "https://www.lemonde.fr/cinema/article/2026/07/22/les-films-a-l-affiche-gavagai-et-autres-malentendus-de-la-comedie-francaise-gorgona_6729612_3476.html"
+      },
+      {
+        "outlet": "Libération",
+        "take": "« Gavagai et autres malentendus » dépeint les déboires d'une équipe de film aux prises avec les tensions néocoloniales et brouille les frontières entre mythe, satire et inconfort.",
+        "url": "https://www.liberation.fr/culture/cinema/gavagai-et-autres-malentendus-chaos-didentites-20260721_HDADIEFBZ5HGZOZ4FYB46GL3FI/"
       }
     ],
     "id": 19,
@@ -468,16 +518,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite",
-      "Tech & Sciences"
+      "Environnement",
+      "Économie"
     ],
-    "title": "Une météorite rare traverse le toit d'une maison au New Jersey",
-    "full": "Un couple américain du New Jersey a découvert une météorite ayant percé son toit et endommagé son salon. La composition inhabituelle de ce rocher spatial suscite l'intérêt des chercheurs, qui y voient une opportunité d'approfondir leur compréhension de la formation de certaines planètes du système solaire.",
+    "title": "Les conducteurs invités à documenter les insectes écrasés",
+    "full": "Le Muséum national d'histoire naturelle, l'ONG Noé et l'Office pour les insectes et leur environnement lancent un programme de science participative. Les conducteurs sont sollicités pour photographier et identifier les insectes écrasés sur leur plaque d'immatriculation durant l'été, afin de mieux évaluer l'impact du trafic routier sur le déclin des populations d'insectes.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "Les scientifiques considèrent cette météorite comme un trésor aux propriétés minéralogiques exceptionnelles susceptible de révéler des informations sur l'évolution des mondes planétaires.",
-        "url": "https://www.slate.fr/sciences/meteorite-maison-usa-systeme-solaire-planete-scientifique"
+        "outlet": "Reporterre",
+        "take": "Souligne l'initiative citoyenne et scientifique : les automobilistes sont invités à contribuire à la compréhension du déclin des insectes en documentant les collisions routières.",
+        "url": "https://reporterre.net/Les-insectes-s-ecrasent-ils-toujours-autant-contre-les-voitures-A-vous-de-compter"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Contextualise l'augmentation de la taille des véhicules en 25 ans (près de 30 centimètres), ce qui amplifie les problèmes de circulation et potentiellement les impacts environnementaux.",
+        "url": "https://www.franceinfo.fr/economie/automobile/voitures-toujours-plus-grandes_8116439.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 20,
@@ -485,15 +540,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Économie"
     ],
-    "title": "Jimothy, le raton laveur au physique atypique, devient viral",
-    "full": "Un raton laveur aperçu à Seattle, aux États-Unis, fait sensation sur les réseaux sociaux en raison de son apparence inhabuelle. L'animal, prénommé Jimothy par les internautes, présenterait selon toute vraisemblance une malformation congénitale responsable de ses traits distinctifs. Les photos et vidéos le mettant en scène, partagées par les habitants de la région, se propagent massivement en ligne.",
+    "title": "Le gouvernement durcit les conditions d'accès au compte personnel de formation",
+    "full": "Le ministre du Travail Jean-Pierre Farandou souhaite renforcer les vérifications pour l'utilisation du compte personnel de formation (CPF). Les demandeurs de formation devront désormais remplir un questionnaire précisant leur projet professionnel avant de pouvoir bénéficier de cette aide. L'ancienne ministre du Travail Muriel Pénicaud, qui avait porté la loi créant le CPF en 2018, dénonce ces nouvelles conditions comme un « recul indigne ».",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Le média souligne que Jimothy doit probablement son aspect singulier à une malformation de naissance et a conquis le statut de vedette auprès des internautes.",
-        "url": "https://www.20minutes.fr/arts-stars/insolite/4235412-20260720-decouvrez-jimothy-raton-laveur-physique-surprenant-devenu-coqueluche-reseaux-sociaux?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "L'ex-ministre Pénicaud critique le durcissement des règles d'accès au CPF voulu par le gouvernement actuel.",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/21/compte-personnel-de-formation-l-ancienne-ministre-du-travail-muriel-penicaud-denonce-le-tour-de-vis-voulu-par-le-gouvernement_6728499_823448.html"
+      },
+      {
+        "outlet": "Le Figaro Éco",
+        "take": "L'État justifie cette réforme par la volonté de renforcer la cohérence entre les formations suivies et les projets professionnels.",
+        "url": "https://www.lefigaro.fr/social/compte-personnel-de-formation-l-etat-veut-renforcer-la-coherence-du-projet-professionnel-20260721"
       }
     ],
     "id": 21,
@@ -501,15 +561,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Sport"
     ],
-    "title": "Decathlon lance un masque de plongée sans bouteille",
-    "full": "Decathlon commercialisera le mois prochain l'Easybreath Dive, un masque de plongée innovant permettant de respirer sous l'eau jusqu'à 3 mètres de profondeur sans équipement de plongée classique. Ce dispositif promet de démocratiser l'accès aux fonds marins en simplifiant la pratique pour les débutants.",
+    "title": "L'Espagne célèbre sa victoire à la Coupe du monde 2026",
+    "full": "L'équipe d'Espagne a été reçue en héros à Madrid après son sacre à la Coupe du monde 2026. Les 26 joueurs ont présenté le trophée devant près d'un million de personnes lundi et ont été accueillis par le roi Felipe VI lors d'une parade organisée dans les rues de la capitale.",
     "angles": [
       {
+        "outlet": "France Info",
+        "take": "La sélection espagnole a présenté le trophée devant environ un million de spectateurs et a reçu les honneurs du roi Felipe VI.",
+        "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/coupe-du-monde-2026-les-espagnols-accueillis-en-heros-a-madrid_8116019.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
         "outlet": "20 Minutes",
-        "take": "20 Minutes met l'accent sur la promesse de facilité et d'accessibilité de cette nouvelle technologie pour découvrir la plongée sans contrainte.",
-        "url": "https://www.20minutes.fr/tempo/escapade/4234620-20260720-sentir-comme-poisson-eau-promesse-innovation-easybreath-dive-decathlon?at_medium=display&at_campaign=149"
+        "take": "Les champions du monde ont été accueillis en grande pompe lors d'une parade à travers Madrid lundi.",
+        "url": "https://www.20minutes.fr/football/diaporama-4235527-images-parade-champions-monde-espagnols-rues-madrid?at_medium=display&at_campaign=149"
       }
     ],
     "id": 22,
@@ -519,16 +584,81 @@ const ARTICLES = [
     "themes": [
       "Insolite"
     ],
-    "title": "Les planches apéro deviennent des œuvres d'art de table",
-    "full": "Les planches apéritives ont dépassé leur simple fonction de plateau de grignotage pour se transformer en compositions visuelles élaborées. Fruits, fromages et charcuteries s'y assemblent désormais selon des principes esthétiques proches de ceux d'un tableau, destinés autant à être photographiés qu'à être dégustés.",
+    "title": "Le nouvel opus « Les Maîtres de l'Univers » bascule au streaming",
+    "full": "Après un revers au box-office américain, le nouveau film « Les Maîtres de l'Univers » sort ce mercredi en streaming sur Prime Video, contournant ainsi une sortie cinématographique. La franchise peine à raviver l'engouement qui caractérisait les années 1980, époque de ses plus grands succès.",
     "angles": [
       {
         "outlet": "20 Minutes",
-        "take": "Les planches apéro sont devenues des objets de mise en scène culinaire, où la dimension photographique prime autant que le goût des aliments.",
-        "url": "https://www.20minutes.fr/tempo/food/4235032-20260720-comment-servir-planche-apero-aussi-gourmande-instagrammable?at_medium=display&at_campaign=149"
+        "take": "La production interroge l'incapacité de la saga à retrouver son aura d'antan malgré les tentatives de relance.",
+        "url": "https://www.20minutes.fr/arts-stars/cinema/4235590-20260721-maitres-univers-pourquoi-musclor-reussit-retrouver-hype-annees-1980?at_medium=display&at_campaign=149"
       }
     ],
     "id": 23,
     "priority": 24
+  },
+  {
+    "themes": [
+      "Insolite"
+    ],
+    "title": "Un pilote fait croire à ses passagers que l'Argentine a remporté la Coupe du monde",
+    "full": "Un commandant de bord a joué une plaisanterie à ses passagers argentins dimanche en leur annonçant en vol que leur pays venait de remporter la Coupe du monde. Après les cris de joie et l'euphorie à bord, le pilote a révélé qu'il s'agissait d'une blague, provoquant la déception des voyageurs.",
+    "angles": [
+      {
+        "outlet": "20 Minutes",
+        "take": "Le commandant a volontairement créé un moment d'enthousiasme suivi d'une chute brutale pour amuser l'équipage et les passagers.",
+        "url": "https://www.20minutes.fr/arts-stars/insolite/4235578-20260721-cris-joie-puis-froid-glacial-pilote-fait-croire-passagers-argentine-gagne-coupe-monde?at_medium=display&at_campaign=149"
+      }
+    ],
+    "id": 24,
+    "priority": 25
+  },
+  {
+    "themes": [
+      "Insolite",
+      "Société"
+    ],
+    "title": "Trente-sept ans après, l'identité de l'enfant de l'A10 révélée",
+    "full": "Le corps d'une fillette de 4 ans avait été découvert en août 1987 sur le bord de l'autoroute A10 dans le Loir-et-Cher. Pendant plus de trente-sept ans, son identité était restée inconnue et elle avait été inhumée au cimetière de Suèvres, où les habitants l'avaient progressivement adoptée. Cette affaire, longtemps énigmatique, a finalement permis d'identifier l'enfant, ravivant l'intérêt pour ce drame ancien et les questions qu'il soulevait.",
+    "angles": [
+      {
+        "outlet": "Slate",
+        "take": "Les habitants de Suèvres se sont approprié l'histoire de cette petite fille anonyme au fil des décennies, en faisant symboliquement la mienne du village.",
+        "url": "https://www.slate.fr/societe/au-bout-du-chemin/devenu-petite-village-suevres-sur-les-traces-inconnue-autoroute-a10-petite-martyre-inass-touloub-meurtre-affaire-justice-proces"
+      }
+    ],
+    "id": 25,
+    "priority": 26
+  },
+  {
+    "themes": [
+      "Insolite"
+    ],
+    "title": "Île-de-France: la voile attire jeunes et retraités sur les fleuves",
+    "full": "La région Île-de-France compte près de 90 clubs de voile répartis sur la Seine, la Marne et l'Oise. Ces structures accueillent des passionnés d'âges variés, des jeunes aux retraités, qui partagent le goût des sports nautiques. Au-delà de la voile, les fleuves franciliens sont aussi le terrain de jeu de clubs de wakeboard, de ski nautique et d'aviron.",
+    "angles": [
+      {
+        "outlet": "20 Minutes",
+        "take": "Met l'accent sur la mixité générationnelle et la diversité des disciplines nautiques pratiquées en Île-de-France.",
+        "url": "https://www.20minutes.fr/tempo/escapade/4234425-20260721-ile-france-seine-jeunes-passionnes-retraites-partagent-amour-voile?at_medium=display&at_campaign=149"
+      }
+    ],
+    "id": 26,
+    "priority": 27
+  },
+  {
+    "themes": [
+      "Insolite"
+    ],
+    "title": "Les glaces salées conquièrent les étals de l'été",
+    "full": "Cet été, une tendance culinaire décalée s'impose : les glaces aux saveurs salées ou atypiques. Parmesan, huile d'olive, cornichon ou thon font leur apparition dans les cornets, loin des parfums classiques vanille-chocolat. Ces créations surprenantes séduisent les consommateurs en quête de nouvelles expériences gustatives.",
+    "angles": [
+      {
+        "outlet": "20 Minutes",
+        "take": "Les glaces salées ou insolites (parmesan, huile d'olive, cornichon, thon) deviennent une tendance estivale marquante.",
+        "url": "https://www.20minutes.fr/tempo/food/4234792-20260721-thon-cornichon-huile-olive-pourquoi-allez-succomber-tendance-glaces-salees?at_medium=display&at_campaign=149"
+      }
+    ],
+    "id": 27,
+    "priority": 28
   }
 ];
