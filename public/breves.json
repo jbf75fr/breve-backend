@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-07-24T04:03:20.434114+00:00",
+  "generated_at": "2026-07-24T06:18:58.796329+00:00",
   "date_label": "Vendredi 24 juillet",
-  "count": 37,
+  "count": 34,
   "breves": [
     {
       "themes": [
-        "France"
+        "Monde",
+        "Économie"
       ],
-      "title": "Barbara Butch annonce plusieurs plaintes après l'interruption de son concert",
-      "full": "La DJ Barbara Butch va déposer plusieurs plaintes, notamment contre La France insoumise et l'essayiste Alain Soral, après l'interruption de son concert samedi 18 juillet à Grenoble. Elle les accuse de provocation à la haine et à la violence. Le parquet de Grenoble a déjà ouvert une enquête pour « délit d'entrave concertée aux libertés ». Des militants propalestiniens reprochaient à l'artiste sa participation à des événements liés à Israël et sa signature d'une pétition en faveur de la proposition de loi Yadan.",
+      "title": "Attaques houthies en mer Rouge, le pétrole franchit 100 dollars",
+      "full": "Les rebelles houthis du Yémen ont revendiqué mercredi une attaque contre deux pétroliers saoudiens en mer Rouge et annoncé un blocus des ports d'Arabie saoudite. Ces opérations dans le détroit de Bab Al-Mandab, déjà critique après le contrôle iranien du détroit d'Ormuz, ont fait monter les craintes d'une nouvelle escalade régionale. Le cours du baril de Brent a dépassé jeudi la barre des 100 dollars, les investisseurs redoutant des perturbations majeures du commerce pétrolier mondial.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Barbara Butch annonce ses plaintes jeudi au micro de franceinfo, accompagnée de son avocate, tandis qu'une enquête est déjà en cours.",
-          "url": "https://www.franceinfo.fr/societe/concert-interrompu-de-barbara-butch-l-artiste-depose-plusieurs-plaintes_8119079.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "L'Iran et les houthis misent sur les répercussions économiques pour inciter Donald Trump à reprendre des négociations.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/24/au-yemen-dans-le-detroit-de-bab-al-mandab-la-menace-d-un-nouveau-front-de-la-guerre-en-iran_6731426_3210.html"
         },
         {
-          "outlet": "Mediapart",
-          "take": "L'incident relance un débat sur l'efficacité du boycott dans la culture et les limites à respecter entre militantisme et entrave à la liberté.",
-          "url": "https://www.mediapart.fr/journal/culture-et-idees/230726/apres-l-interruption-du-concert-de-barbara-butch-le-boycott-culturel-de-nouveau-en-debat"
+          "outlet": "Le Figaro International",
+          "take": "Après le détroit d'Ormuz verrouillé par Téhéran, Bab Al-Mandab devient un second goulot d'étranglement du marché pétrolier.",
+          "url": "https://www.lefigaro.fr/international/bab-el-mandeb-l-autre-detroit-qui-menace-d-etrangler-le-petrole-mondial-20260723"
         },
         {
-          "outlet": "France 24",
-          "take": "Les plaintes visent spécifiquement les accusations de provocation à la haine et à la violence contre La France insoumise et Alain Soral.",
-          "url": "https://www.france24.com/fr/france/20260723-dj-barbara-butch-va-porter-plainte-contre-lfi-alain-soral-pour-provocation-haine-violence"
+          "outlet": "Libération",
+          "take": "La crainte d'une ouverture d'un nouveau front au Moyen-Orient a propulsé le Brent à 100 dollars.",
+          "url": "https://www.liberation.fr/economie/guerre-au-moyen-orient-le-baril-de-petrole-atteint-les-100-dollars-apres-des-attaques-en-mer-rouge-20260723_PGJWVPBEPZAZVGJHUN47RIDLBI/"
         }
       ],
       "id": 0,
@@ -31,30 +32,51 @@
     },
     {
       "themes": [
-        "Tech & Sciences"
+        "Environnement",
+        "France"
       ],
-      "title": "La médaille Fields 2026 récompense quatre mathématiciens",
-      "full": "La médaille Fields, plus haute distinction mathématique décernée tous les quatre ans aux chercheurs de moins de 40 ans, a été attribuée jeudi à deux Chinois (Hong Wang et Yu Deng), un Américain (John Pardon) et un Canadien (Jacob Tsimerman). Hong Wang, formée en France et travaillant à l'Institut des hautes études scientifiques, devient la troisième femme à recevoir cette récompense prestigieuse. Yu Deng a été notamment distingué pour avoir démontré un résultat recherché depuis cinquante ans sur le passage des trajectoires moléculaires au comportement des fluides. Cette édition reflète l'émergence croissante des mathématiciens chinois au niveau international, dans un contexte où l'intelligence artificielle bouleverse la discipline.",
+      "title": "Incendies massifs dans le Sud-Ouest, renforts européens activés",
+      "full": "Des feux de forêt ravagent la Gironde et les Landes depuis mercredi, ayant brûlé plusieurs milliers d'hectares et contraint à l'évacuation de plus de 23 000 personnes. Face à l'ampleur de la catastrophe, Emmanuel Macron a demandé jeudi l'activation du mécanisme de protection civile de l'Union européenne. Des appareils en provenance de Croatie, du Portugal, de République tchèque et de Slovaquie (Canadair, hélicoptères lourds, avions-citernes) doivent rapidement renforcer les opérations des sapeurs-pompiers français.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "Souligne le contexte de transformation de la discipline mathématique sous l'effet de l'IA.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260723-en-plein-tournant-de-l-ia-la-m%C3%A9daille-fields-r%C3%A9compense-quatre-math%C3%A9maticiens-dont-deux-chinois"
+          "outlet": "Mediapart",
+          "take": "L'interruption du concert de Barbara Butch, qui a relancé un débat sur le boycott culturel, constitue un sujet distinct de cette actualité d'incendies.",
+          "url": "https://www.mediapart.fr/journal/culture-et-idees/230726/apres-l-interruption-du-concert-de-barbara-butch-le-boycott-culturel-de-nouveau-en-debat"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Macron insiste sur le soutien aérien attendu « rapidement » dans une situation décrite comme « sous très forte tension ».",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/face-aux-incendies-emmanuel-macron-demande-l-activation-du-mecanisme-de-protection-civile-de-l-ue-des-renforts-aeriens-europeens-attendus-rapidement_8119946.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Les pompiers sur le terrain rapportent que le comportement du feu reste difficile à anticiper, le sinistre se dirigeant vers Lège-Cap-Ferret.",
+          "url": "https://www.20minutes.fr/societe/4235978-20260723-comportement-feu-difficile-anticiper-ur-incendie-eprouve-gironde?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "Le Monde",
-          "take": "Met l'accent sur l'ascension des chercheurs chinois à travers cette double distinction.",
-          "url": "https://www.lemonde.fr/sciences/article/2026/07/23/mathematiques-les-medailles-fields-2026-consacrent-l-emergence-des-chinois_6730884_1650684.html"
+          "take": "Les évacuations s'étendent à plusieurs villages de la presqu'île du Cap-Ferret en Gironde.",
+          "url": "https://www.lemonde.fr/planete/live/2026/07/24/en-direct-incendies-plus-de-23-000-personnes-evacuees-dans-les-landes-en-gironde-la-prefecture-ordonne-l-evacuation-de-plusieurs-villages-de-la-presqu-ile-du-cap-ferret_6730417_3244.html"
         },
         {
-          "outlet": "Sciences et Avenir",
-          "take": "Détaille la contribution de Yu Deng en démonstration rigoureuse d'un problème physique majeur.",
-          "url": "https://www.sciencesetavenir.fr/fondamental/medaille-fields-2026-yu-deng-virtuose-de-la-combinatoire-des-arbres_193874?xtor=RSS-10"
+          "outlet": "France 24",
+          "take": "L'incendie s'attaque à nouveau à la forêt des Landes dans une zone très touristique, avec environ 2 400 hectares déjà parcourus.",
+          "url": "https://www.france24.com/fr/france/20260723-en-images-feu-for%C3%AAt-bassin-arcachon-flammes-landes-gascogne"
+        },
+        {
+          "outlet": "L'Humanité",
+          "take": "La sécheresse exacerbe les feux qui s'étendent sur plusieurs régions, du Var à la Haute-Corse, la végétation s'enflammant « comme de l'essence ».",
+          "url": "https://www.humanite.fr/environnement/feux-de-foret/incendies-gironde-var-corse-partout-en-france-la-vegetation-senflamme-comme-de-lessence"
+        },
+        {
+          "outlet": "Courrier International",
+          "take": "L'Espagne déclare également l'état d'urgence face à des incendies ravageant la région de Madrid, avec plus de 30 000 personnes évacuées en Europe.",
+          "url": "https://www.courrierinternational.com/article/europe-incendies-la-france-annonce-des-renforts-europeens-tandis-que-l-espagne-declare-l-etat-d-urgence_252420"
         },
         {
           "outlet": "Libération",
-          "take": "Souligne les liens français de Hong Wang et son rôle de troisième femme lauréate.",
-          "url": "https://www.liberation.fr/sciences/medaille-fields-2026-la-mathematicienne-hong-wang-co-laureate-du-prix-met-la-formation-francaise-a-lhonneur-20260723_BSAVRRJDPNDOZFMCMFUVQSNKUM/"
+          "take": "Un deuxième foyer majeur s'est déclaré jeudi soir dans les Landes, en plus du feu girondien qui a déjà ravagé 4 800 hectares.",
+          "url": "https://www.liberation.fr/environnement/climat/incendies-dans-le-sud-ouest-des-dizaines-de-milliers-devacues-des-renforts-aeriens-attendus-20260724_VP5BT7AMBNCZDEVOB7CBNYAWMA/"
         }
       ],
       "id": 1,
@@ -62,30 +84,31 @@
     },
     {
       "themes": [
-        "Sport"
+        "Tech & Sciences",
+        "Société"
       ],
-      "title": "Carapaz remporte la 18e étape du Tour de France",
-      "full": "Richard Carapaz a remporté en solitaire la 18e étape du Tour de France 2026, jeudi, au sommet d'Orcières-Merlette. L'Équatorien de l'équipe EF Education s'est imposé après deux attaques consécutives dans la montée, devançant le Suisse Mauro Schmid et l'Américain Matteo Jorgenson. Il s'agit de la deuxième victoire de sa carrière sur la Grande Boucle. Le classement général reste inchangé, les principaux favoris n'ayant pas bouger à l'avant du peloton.",
+      "title": "La France interdit les réseaux sociaux aux moins de 15 ans",
+      "full": "Le Parlement français a approuvé mardi 21 juillet une proposition de loi interdisant l'accès aux réseaux sociaux pour les mineurs de moins de 15 ans, avec une entrée en vigueur prévue au 1er septembre. Cette interdiction répond aux préoccupations concernant les effets addictifs et les risques pour la santé mentale des jeunes utilisateurs. Selon une étude de l'Arcom, 69 % des enfants âgés de 10 à 14 ans soutiennent cette mesure, bien qu'un tiers envisage déjà des contournements. Le texte fait déjà l'objet d'un recours déposé par les députés LFI devant le Conseil constitutionnel, qui dénoncent une atteinte aux libertés fondamentales.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Carapaz s'impose en solitaire après ses deux attaques successives dans la montée.",
-          "url": "https://www.franceinfo.fr/tour-de-france/richard-carapaz-s-offre-une-deuxieme-victoire-en-carriere-sur-le-tour-de-france-en-remportant-la-18e-etape_8119409.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "Soulève les questions pratiques de l'application de la loi : calendrier, modalités de vérification d'identité et risques de censure constitutionnelle.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/07/24/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-huit-questions-pour-tout-comprendre_6731421_4408996.html"
+        },
+        {
+          "outlet": "Courrier International",
+          "take": "Situe cette interdiction française dans un mouvement international plus large visant à limiter l'accès des mineurs aux réseaux sociaux.",
+          "url": "https://www.courrierinternational.com/article/a-la-une-de-courrier-ados-peut-on-interdire-les-reseaux-sociaux_247702"
+        },
+        {
+          "outlet": "Le Figaro Éco",
+          "take": "Met l'accent sur le soutien des jeunes eux-mêmes à cette mesure, tout en pointant les stratégies envisagées pour la contourner.",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/reseaux-sociaux-69-des-10-14-ans-favorables-a-l-interdiction-pour-les-moins-de-15-ans-20260724"
         },
         {
           "outlet": "20 Minutes",
-          "take": "L'étape annonce un spectacle attendu dans les deux jours de compétition alpestre à venir.",
-          "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4235941-20260723-direct-tour-france-2026-grosse-journee-maillot-pois-paret-peintre-doit-briller-suivez-18e-etape?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "Les coureurs de tête sont restés passifs, laissant les baroudeurs-grimpeurs s'exprimer librement.",
-          "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-2026-la-18e-etape-marque-lescapade-de-carapaz"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Le Français Valentin Paret-Peintre a terminé quatrième de l'étape.",
-          "url": "https://www.france24.com/fr/sports/20260723-tour-de-france-richard-carapaz-remporte-la-18e-%C3%A9tape-au-sommet-d-orci%C3%A8res-merlette-paret-peintre"
+          "take": "Rapporte le recours du groupe LFI contestant la constitutionnalité de la loi au nom de la protection des libertés.",
+          "url": "https://www.20minutes.fr/politique/4236065-20260723-reseaux-sociaux-interdits-moins-15-ans-lfi-depose-recours-devant-conseil-constitutionnel?at_medium=display&at_campaign=149"
         }
       ],
       "id": 2,
@@ -93,36 +116,25 @@
     },
     {
       "themes": [
-        "Économie",
-        "Tech & Sciences"
+        "Sport"
       ],
-      "title": "L'UE inflige 890 millions d'euros d'amendes à Google",
-      "full": "La Commission européenne a sanctionné Google d'un total de 890 millions d'euros pour atteintes à la concurrence, au titre de son règlement sur les marchés numériques (DMA). L'Union reproche au géant américain de favoriser ses propres services (hôtels, vols) dans son moteur de recherche et de brider la concurrence via son magasin d'applications Play Store. Cette sanction record risque d'alimenter les tensions avec l'administration Trump, qui accuse régulièrement la réglementation numérique européenne de cibler injustement les champions technologiques américains.",
+      "title": "Carapaz remporte la 18e étape du Tour de France en solitaire",
+      "full": "L'Équatorien Richard Carapaz (EF Education) s'est imposé jeudi sur la 18e étape du Tour de France, remportant ainsi sa deuxième victoire en carrière sur la Grande Boucle. Après deux attaques consécutives dans la montée vers Orcières-Merlette, il a devancé le Suisse Mauro Schmid et l'Américain Matteo Jorgenson d'environ 45 secondes. Le classement général n'a enregistré aucun changement parmi les favoris. Les coureurs s'apprêtent à affronter deux étapes alpestres consécutives à l'Alpe d'Huez les 25 et 26 juillet.",
       "angles": [
         {
-          "outlet": "Le Figaro Éco",
-          "take": "Souligne le risque de provocation de la colère de Donald Trump face à cette amende record.",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/dma-l-ue-inflige-a-google-une-amende-record-de-890-millions-d-euros-risquant-de-provoquer-la-colere-de-trump-20260723"
+          "outlet": "France Info",
+          "take": "Carapaz s'impose en attaquant deux fois successivement dans la montée finale, confirmant une deuxième victoire d'étape sur le Tour.",
+          "url": "https://www.franceinfo.fr/tour-de-france/richard-carapaz-s-offre-une-deuxieme-victoire-en-carriere-sur-le-tour-de-france-en-remportant-la-18e-etape_8119409.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Insiste sur le contexte de friction croissante entre Washington et la régulation numérique européenne.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/23/google-se-voit-infliger-un-total-de-890-millions-d-euros-d-amendes-par-l-union-europeenne-pour-atteintes-a-la-concurrence_6730672_3234.html"
-        },
-        {
-          "outlet": "Mediapart",
-          "take": "Met l'accent sur les deux domaines d'infraction : la recherche en ligne et le magasin d'applications.",
-          "url": "https://www.mediapart.fr/journal/economie-et-social/230726/l-ue-inflige-890-millions-d-euros-d-amendes-google"
+          "outlet": "20 Minutes",
+          "take": "Les principaux favoris ont choisi de ne pas bouger, se réservant pour les deux prochaines étapes décisives à l'Alpe d'Huez.",
+          "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4235941-20260723-direct-tour-france-2026-grosse-journee-maillot-pois-paret-peintre-doit-briller-suivez-18e-etape?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "Libération",
-          "take": "Précise qu'il s'agit de la plus grosse sanction prononcée au titre du DMA depuis son entrée en vigueur.",
-          "url": "https://www.liberation.fr/economie/economie-numerique/lue-inflige-890-millions-deuros-damendes-a-google-risquant-la-colere-de-trump-20260723_XPJZ5ST3UNCADHCTRCEGZ27F2U/"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "Qualifie cette sanction de record et détaille les reproches de Bruxelles concernant l'abus de position dominante.",
-          "url": "https://www.humanite.fr/social-et-economie/google/un-record-google-se-voit-inflige-890-millions-deuros-damendes-par-la-commission-europeenne"
+          "take": "Les deux prochaines étapes alpestres de vendredi et samedi seront cruciales pour l'équipe du maillot jaune Pogacar, entourée de doutes sur sa forme.",
+          "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-pogacar-face-a-une-double-montagne-20260724_F6ERLB63YNH2BPNZ5QRAXZF2VA/"
         }
       ],
       "id": 3,
@@ -130,31 +142,30 @@
     },
     {
       "themes": [
-        "France",
-        "Société"
+        "Tech & Sciences"
       ],
-      "title": "Interdiction des réseaux sociaux aux moins de 15 ans validée par le Parlement",
-      "full": "L'Assemblée nationale et le Sénat ont approuvé mardi 21 juillet une proposition de loi interdisant l'accès aux réseaux sociaux pour les mineurs de moins de 15 ans, applicable dès septembre. Le texte vise à protéger la santé physique et mentale des adolescents, face aux risques d'addiction et de problèmes psychologiques liés à ces plateformes. Cependant, la loi fait déjà l'objet de contestations : les députés de La France insoumise ont saisi le Conseil constitutionnel, dénonçant une atteinte aux libertés fondamentales et à la vie privée. Des questions pratiques de mise en œuvre restent en suspens.",
+      "title": "Médaille Fields 2026 : deux Chinois parmi les quatre lauréats",
+      "full": "La médaille Fields, plus prestigieuse récompense en mathématiques pour les chercheurs de moins de 40 ans, a été décernée jeudi à Hong Wang et Yu Deng (Chine), John Pardon (États-Unis) et Jacob Tsimerman (Canada). Cette distinction quadriennale souligne l'émergence des mathématiciens chinois sur la scène mondiale. Yu Deng est notamment récompensé pour sa démonstration rigoureuse d'un résultat recherché depuis cinquante ans sur le passage des trajectoires moléculaires au comportement des fluides.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "La restriction des réseaux sociaux constitue une priorité de santé publique pour protéger les mineurs, malgré les changements que cela entraînera dans leur sociabilité.",
-          "url": "https://www.liberation.fr/idees-et-debats/tribunes/interdiction-des-reseaux-sociaux-au-moins-de-15-ans-un-premier-pas-sanitaire-en-attendant-plus-de-regulation-europeenne-20260723_4TZADXJT55BK7HYUH2HJGB5HNM/"
+          "outlet": "France Info",
+          "take": "Rappelle que la médaille Fields constitue l'équivalent du Nobel en mathématiques et récompense des travaux considérés comme exceptionnels.",
+          "url": "https://www.franceinfo.fr/sciences/la-medaille-fields-remise-a-deux-chinois-un-americain-et-un-canadien-pour-leurs-decouvertes-exceptionnelles_8119760.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Le Monde",
-          "take": "L'adoption de la loi soulève plusieurs questions concrètes sur son application, dont la date effective et les modalités de vérification de l'âge.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/07/24/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-huit-questions-pour-tout-comprendre_6731421_4408996.html"
+          "take": "Met en avant la montée en puissance des chercheurs chinois avec deux lauréats sur quatre.",
+          "url": "https://www.lemonde.fr/sciences/article/2026/07/23/mathematiques-les-medailles-fields-2026-consacrent-l-emergence-des-chinois_6730884_1650684.html"
         },
         {
-          "outlet": "Courrier International",
-          "take": "Plusieurs pays ciblent désormais les réseaux sociaux pour en limiter l'accès aux mineurs, dans un contexte plus large de préoccupations sanitaires.",
-          "url": "https://www.courrierinternational.com/article/a-la-une-de-courrier-ados-peut-on-interdire-les-reseaux-sociaux_247702"
+          "outlet": "Sciences et Avenir",
+          "take": "Détaille les travaux spécifiques de Yu Deng en combinatoire et leurs applications à la physique des fluides.",
+          "url": "https://www.sciencesetavenir.fr/fondamental/medaille-fields-2026-yu-deng-virtuose-de-la-combinatoire-des-arbres_193874?xtor=RSS-10"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "La gauche radicale conteste la loi par voie constitutionnelle, soulevant des enjeux de droits fondamentaux.",
-          "url": "https://www.20minutes.fr/politique/4236065-20260723-reseaux-sociaux-interdits-moins-15-ans-lfi-depose-recours-devant-conseil-constitutionnel?at_medium=display&at_campaign=149"
+          "outlet": "France 24",
+          "take": "Contextualise cette édition dans un contexte de transformation de la discipline par l'intelligence artificielle.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260723-en-plein-tournant-de-l-ia-la-m%C3%A9daille-fields-r%C3%A9compense-quatre-math%C3%A9maticiens-dont-deux-chinois"
         }
       ],
       "id": 4,
@@ -165,21 +176,21 @@
         "Société"
       ],
       "title": "Meurtre de Thomas à Crépol : le racisme retenu comme circonstance aggravante",
-      "full": "Les juges d'instruction ont qualifié de crime raciste le meurtre de Thomas Perotto, commis à Crépol en novembre 2023. Cette circonstance aggravante a été retenue sur la base d'une dizaine de témoignages rapportant des propos hostiles aux personnes blanches lors du bal de village où l'adolescent de 16 ans a été poignardé. Le parquet n'avait pas retenu le motif racial dans son réquisitoire de juin.",
+      "full": "Les juges d'instruction ont qualifié de crime raciste le meurtre de Thomas Perotto, commis à Crépol en novembre 2023. Cette décision, rendue jeudi 23 juillet, introduit la circonstance aggravante de racisme contre l'ensemble des mis en examen. Le parquet n'avait pas retenu le motif racial dans son réquisitoire de juin. Selon une source proche du dossier, les magistrats se sont appuyés sur une dizaine de témoignages relatant des propos hostiles aux personnes blanches lors du bal de village où l'adolescent de 16 ans a été tué.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Met l'accent sur le désaccord entre le parquet, qui n'avait pas retenu le motif racial, et les juges d'instruction qui l'ont ajouté.",
+          "take": "Le parquet avait initialement omis le motif racial, contrairement à la qualification retenue ultérieurement par les juges.",
           "url": "https://www.franceinfo.fr/faits-divers/meurtre-de-thomas-a-crepol/meurtre-de-thomas-a-crepol-la-circonstance-aggravante-de-racisme-retenue-par-les-juges-d-instruction_8119898.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "Libération",
-          "take": "Précise que la qualification repose sur environ dix témoignages évoquant des propos hostiles aux personnes blanches sur le lieu du drame.",
+          "take": "La décision s'appuie sur des témoignages mentionnant des propos hostiles aux personnes blanches au moment des faits.",
           "url": "https://www.liberation.fr/societe/police-justice/meurtre-a-crepol-en-2023-la-circonstance-aggravante-de-racisme-retenue-par-les-juges-dinstruction-20260723_55LRNN2HGRHSPCSHOPNV2E65HY/"
         },
         {
           "outlet": "L'Humanité",
-          "take": "Analyse de façon critique cette qualification en questionnant ce qu'elle révèle réellement du racisme en France au-delà de sa seule dimension juridique.",
+          "take": "Cette qualification judiciaire du racisme ne traduit qu'une partie des formes du racisme en France.",
           "url": "https://www.humanite.fr/societe/antiracisme/meurtre-de-thomas-a-crepol-ce-que-la-qualification-de-crime-raciste-dit-et-ne-dit-pas-du-racisme-en-france"
         }
       ],
@@ -191,27 +202,27 @@
         "Environnement",
         "Société"
       ],
-      "title": "Huit dauphins de Marineland transférés en Espagne",
-      "full": "Huit des douze dauphins restant au Marineland d'Antibes, fermé depuis janvier 2025, ont été transférés jeudi vers un parc zoologique à Benalmadena, près de Malaga, en Espagne. Le transfert s'est effectué par camion jusqu'à l'aéroport de Nice puis par avion. Des associations de défense des animaux ont dénoncé cette décision, arguant que deux projets de sanctuaires marins en Grèce et en Italie auraient pu mieux correspondre au bien-être des cétacés. À terme, ces dauphins pourraient revenir en France dans un centre d'accueil en projet au zoo de Beauval.",
+      "title": "Huit dauphins du Marineland d'Antibes transférés en Espagne",
+      "full": "Huit des douze dauphins restant au Marineland d'Antibes, fermé depuis janvier 2025, ont été transférés jeudi vers un parc zoologique à Benalmadena, près de Malaga, en Espagne. Le transfert, dénoncé par des associations de défense des animaux, intervient faute de sanctuaire marin en France. À terme, ces cétacés pourraient rejoindre un centre d'accueil en projet au zoo de Beauval.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "Met l'accent sur la possibilité d'un retour des dauphins en France via un futur centre au zoo de Beauval.",
+          "take": "Les dauphins ont été acheminés par route jusqu'à l'aéroport de Nice avant de s'envoler pour Malaga, avec une perspective de retour en France via le zoo de Beauval.",
           "url": "https://www.lemonde.fr/international/video/2026/07/23/marineland-huit-dauphins-transferes-en-espagne_6730781_3210.html"
         },
         {
           "outlet": "Sciences et Avenir",
-          "take": "Rapporte la dénonciation des associations concernant ce transfert vers un autre delphinarium.",
+          "take": "Le transfert s'est déroulé cette nuit vers un autre delphinarium espagnol, fait dénoncé par les associations.",
           "url": "https://www.sciencesetavenir.fr/animaux/marineland-les-dauphins-sont-transferes-vers-un-delphinarium-espagnol_193907?xtor=RSS-26"
         },
         {
           "outlet": "France 24",
-          "take": "Précise que huit dauphins sur les douze du parc fermé ont été concernés par le transfert.",
+          "take": "Cette opération concerne huit des douze dauphins du parc fermé depuis janvier 2025.",
           "url": "https://www.france24.com/fr/france/20260723-marineland-antibes-8-des-12-dauphins-transferes-parc-benalmadena-espagne"
         },
         {
           "outlet": "Reporterre",
-          "take": "Critique le rejet des projets de sanctuaires marins grec et italien au profit d'un delphinarium commercial.",
+          "take": "Les projets de sanctuaires marins alternatifs en Grèce et Italie ont été écartés par le gouvernement français, d'où le choix d'un delphinarium commercial.",
           "url": "https://reporterre.net/Une-honte-8-dauphins-du-Marineland-d-Antibes-transferes-vers-l-Espagne"
         }
       ],
@@ -223,23 +234,23 @@
         "Culture",
         "Société"
       ],
-      "title": "Marseille: le concert d'Amir annulé après appels au boycott",
-      "full": "Le concert gratuit du chanteur franco-israélien Amir, prévu dimanche 26 juillet à Marseille dans le cadre de l'événement « Sunset live », a été annulé. La direction du centre commercial a invoqué des « raisons de sécurité » pour justifier cette décision. L'annulation intervient après un appel au boycott lancé par le collectif Union Palestine Marseille, qui reprochait à l'artiste sa participation passée à des événements dans des colonies israéliennes.",
+      "title": "Le concert d'Amir annulé à Marseille après appels au boycott",
+      "full": "Le concert gratuit du chanteur franco-israélien Amir, prévu dimanche 26 juillet à Marseille dans le cadre de l'événement « Sunset live », a été annulé. La direction du centre commercial a justifié cette décision par des « raisons de sécurité », selon un communiqué. L'annulation intervient après une mobilisation du collectif Union Palestine Marseille, qui reprochait à l'artiste sa participation passée à des événements organisés dans des colonies israéliennes et appelait au boycott. Le collectif a salué cette annulation comme une « victoire de la mobilisation populaire », tandis que le Crif a exprimé son inquiétude face à cette décision.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "Souligne que la sécurité a été officiellement citée comme motif de l'annulation par la direction du lieu.",
+          "take": "Met l'accent sur l'invocation des « raisons de sécurité » par la direction pour justifier l'annulation.",
           "url": "https://www.lemonde.fr/musiques/article/2026/07/24/a-marseille-un-concert-du-chanteur-franco-israelien-amir-annule-apres-des-appels-au-boycott_6731209_1654986.html"
         },
         {
           "outlet": "Libération",
-          "take": "Précise le grief spécifique du collectif activiste: les apparitions passées du chanteur dans des colonies israéliennes.",
+          "take": "Souligne les griefs précis du collectif militant, notamment la participation passée d'Amir à des événements en colonies israéliennes.",
           "url": "https://www.liberation.fr/culture/un-concert-avec-le-chanteur-amir-annule-a-marseille-apres-un-appel-au-boycott-de-militants-pro-palestiniens-20260723_GUKTQKRZMBFVXLQXO5DNV2DIEY/"
         },
         {
           "outlet": "France Info",
-          "take": "Relève les réactions opposées: le collectif pro-palestinien se félicite de cette « victoire », tandis que le Crif exprime son inquiétude.",
-          "url": "https://www.franceinfo.fr/culture/un-concert-d-amir-annule-a-marseille-pour-raisons-de-securite-apres-des-appels-au-boycott-propalestinien_8119625.html#xtor=RSS-3-[lestitres]"
+          "take": "Rapporte la réaction du collectif se réclamant d'une « victoire » et l'inquiétude exprimée par le Crif.",
+          "url": "https://www.franceinfo.fr/culture/un-concert-d-amir-annule-a-marseille-pour-raisons-de-securite-apres-des-appels-au-boycott-propalestinien_8119625.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 7,
@@ -247,26 +258,25 @@
     },
     {
       "themes": [
-        "Santé",
-        "Économie"
+        "Société"
       ],
-      "title": "Le gouvernement veut doubler le plafond des franchises médicales",
-      "full": "Le gouvernement envisage de relever le plafond annuel des franchises médicales de 100 à 200 euros, a annoncé la ministre de la santé Stéphanie Rist. Cette mesure vise à réduire le déficit de la Sécurité sociale en augmentant la part des dépenses restant à la charge des patients sur les médicaments et les consultations. Le projet, déjà rejeté par les députés lors de l'examen du budget 2026, suscite une opposition généralisée dans le secteur médical et auprès des professionnels de santé.",
+      "title": "Le réseau Wyylde visé par une enquête judiciaire parisienne",
+      "full": "Le parquet de Paris a ouvert une enquête contre la plateforme de rencontres Wyylde, soupçonnée d'avoir servi de vecteur à une affaire de viols collectifs en Gironde. Dix-neuf hommes sont mis en examen pour des crimes sexuels avec torture ou acte de barbarie, et six victimes ont été identifiées. Les investigations portent sur le rôle que le site aurait joué dans le recrutement des agresseurs par le suspect principal, accusé d'avoir orchestré les viols de plusieurs de ses compagnes.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Le gouvernement présente cette augmentation comme un levier pour réduire le déficit de la Sécurité sociale, malgré les inquiétudes qu'elle provoque chez les patients et les professionnels.",
-          "url": "https://www.franceinfo.fr/sante/medicaments-le-gouvernement-veut-relever-le-plafond-des-franchises-medicales_8119322.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "20 Minutes",
+          "take": "Rapporte que le Secret Service enquête sur une fuite d'informations concernant un déplacement privé de J.D. Vance.",
+          "url": "https://www.20minutes.fr/monde/etats-unis/4236067-20260724-etats-unis-agent-secret-service-vance-vise-enquete-fuite-presumee-informations?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "Le Monde",
-          "take": "La décision est décrite comme hautement sensible et contestée de toutes parts dans le secteur sanitaire.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/23/le-gouvernement-relance-le-projet-sensible-du-doublement-des-plafonds-des-franchises-medicales_6730677_3224.html"
+          "take": "Souligne que la plateforme Wyylde occupe une place centrale dans l'enquête sur les viols en Gironde, révélée par le journal lui-même en juillet.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/07/23/le-reseau-social-libertin-wyylde-vise-par-une-enquete-du-parquet-de-paris_6730848_4408996.html"
         },
         {
-          "outlet": "L'Humanité",
-          "take": "Le projet revient à la charge après un rejet antérieur des députés, le gouvernement relançant le dossier durant la période estivale.",
-          "url": "https://www.humanite.fr/social-et-economie/franchises-medicales/on-sattendait-a-des-sales-coups-pendant-lete-le-gouvernement-revient-a-la-charge-sur-le-doublement-des-franchises-medicales"
+          "outlet": "France Info",
+          "take": "Détaille que l'enquête porte spécifiquement sur le rôle de la plateforme dans le recrutement des agresseurs par le principal suspect.",
+          "url": "https://www.franceinfo.fr/societe/justice/une-enquete-ouverte-a-paris-contre-le-reseau-libertin-wyylde-soupconne-d-avoir-ete-utilise-dans-une-affaire-de-viols-collectifs-filmes-en-gironde_8119871.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 8,
@@ -274,25 +284,26 @@
     },
     {
       "themes": [
-        "Environnement"
+        "Économie",
+        "Santé"
       ],
-      "title": "Incendies d'été : la France interrogée sur ses capacités de lutte",
-      "full": "Plus de 46 000 hectares ont brûlé en France depuis le début de l'été, ravivant les questions sur les moyens disponibles pour combattre des feux de plus en plus précoces, fréquents et violents. Les rapports parlementaires pointent notamment le vieillissement de la flotte d'avions bombardiers d'eau. Au-delà des enjeux opérationnels, les écosystèmes subissent des dégâts à long terme : sécheresse des prairies, manque d'eau et impacts durables sur la faune et la flore.",
+      "title": "Le gouvernement envisage de doubler les franchises médicales",
+      "full": "Le gouvernement souhaite relever le plafond annuel des franchises médicales de 100 à 200 euros, selon une annonce de la ministre de la Santé Stéphanie Rist. Cette mesure viserait à réduire le déficit de la Sécurité sociale en augmentant la part restant à la charge des patients sur les médicaments et les consultations. Le projet, rejeté par les députés lors de l'examen du budget 2026, suscite une opposition généralisée du milieu de la santé et de certains patients.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Met l'accent sur l'ampleur des sinistres (46 000 hectares) et le doute quant à l'équipement des pompiers.",
-          "url": "https://www.franceinfo.fr/faits-divers/incendie/incendies-la-france-manque-t-elle-de-moyens_8119853.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Insiste sur l'objectif budgétaire de la mesure tout en mettant en avant les inquiétudes qu'elle provoque.",
+          "url": "https://www.franceinfo.fr/sante/medicaments-le-gouvernement-veut-relever-le-plafond-des-franchises-medicales_8119322.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "Le Monde",
-          "take": "Souligne l'aggravation du phénomène (feux plus précoces, fréquents, violents) et la problématique spécifique du vieillissement des avions bombardiers d'eau.",
-          "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/07/23/la-france-est-elle-prete-a-lutter-contre-la-multiplication-des-incendies-comprendre-en-3-minutes_6621677_6176283.html"
+          "take": "Souligne le caractère sensible et contesté du projet dans l'ensemble du secteur sanitaire.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/23/le-gouvernement-relance-le-projet-sensible-du-doublement-des-plafonds-des-franchises-medicales_6730677_3224.html"
         },
         {
-          "outlet": "Le Figaro Sciences",
-          "take": "Insiste sur les conséquences écologiques durables des canicules et des incendies sur les écosystèmes.",
-          "url": "https://www.lefigaro.fr/sciences/prairies-seches-incendies-manque-d-eau-la-faune-et-la-flore-sauvages-eprouvees-par-des-chaleurs-hors-norme-20260723"
+          "outlet": "L'Humanité",
+          "take": "Relève que le gouvernement revient à la charge après un précédent rejet parlementaire du doublement des franchises.",
+          "url": "https://www.humanite.fr/social-et-economie/franchises-medicales/on-sattendait-a-des-sales-coups-pendant-lete-le-gouvernement-revient-a-la-charge-sur-le-doublement-des-franchises-medicales"
         }
       ],
       "id": 9,
@@ -300,26 +311,26 @@
     },
     {
       "themes": [
-        "Environnement",
-        "France"
+        "Économie",
+        "Tech & Sciences"
       ],
-      "title": "Monique Barbut reste ministre après sa démission annulée",
-      "full": "La ministre de la Transition écologique Monique Barbut, annoncée démissionnaire, a finalement conservé son poste au gouvernement. Son départ avait suscité des tensions au sein de l'exécutif, notamment autour de désaccords sur la loi agricole et des critiques quant à sa méthode de gestion. Barbut pourra désormais poursuivre la réforme d'organisation de son ministère qu'elle avait engagée en juin, bien que cette restructuration ait inquiété les agents pour les ambitions écologiques.",
+      "title": "L'UE inflige 890 millions d'euros d'amendes à Google",
+      "full": "La Commission européenne a prononcé le 23 juillet une sanction record de 890 millions d'euros contre Google pour abus de position dominante. Bruxelles reproche au géant californien des pratiques anticoncurrentielles dans son moteur de recherche et sur Google Play, son magasin d'applications. Cette décision intervient au titre du Digital Markets Act et pourrait raviver les tensions avec Washington, l'administration Trump contestant la réglementation numérique européenne.",
       "angles": [
         {
-          "outlet": "Le Figaro Politique",
-          "take": "L'épisode de la démission puis maintien de Barbut a créé des frictions au gouvernement et dans l'opposition, les tensions portant sur la politique agricole et des questions de gouvernance.",
-          "url": "https://www.lefigaro.fr/politique/pesticides-emmanuel-macron-retient-sa-ministre-de-l-ecologie-demissionnaire-monique-barbut-sans-effacer-les-tensions-dans-son-camp-20260722"
-        },
-        {
           "outlet": "Le Monde",
-          "take": "L'enjeu réside désormais dans la capacité du sommet de l'État à soutenir Barbut pour contrer le recul des ambitions écologiques du gouvernement.",
-          "url": "https://www.lemonde.fr/idees/article/2026/07/23/ce-n-est-pas-la-volonte-de-monique-barbut-qu-il-faudra-scruter-dans-les-prochaines-semaines-mais-bien-celle-des-deux-tetes-de-l-executif_6730713_3232.html"
+          "take": "La sanction risque d'intensifier les frictions entre l'UE et les États-Unis, l'administration Trump estimant que les règles européennes visent injustement les géants américains du secteur.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/23/google-se-voit-infliger-un-total-de-890-millions-d-euros-d-amendes-par-l-union-europeenne-pour-atteintes-a-la-concurrence_6730672_3234.html"
         },
         {
-          "outlet": "Reporterre",
-          "take": "La réforme interne du ministère engagée par Barbut, comparée à un jeu de construction, inquiète les agents sur la préservation des objectifs environnementaux.",
-          "url": "https://reporterre.net/Monique-Barbut-joue-aux-Lego-la-reforme-qui-plonge-le-ministere-de-la-Transition"
+          "outlet": "Libération",
+          "take": "Bruxelles a utilisé pour la première fois son nouveau règlement des marchés numériques pour sanctionner Google, établissant un précédent en matière de régulation des plateformes.",
+          "url": "https://www.liberation.fr/economie/economie-numerique/lue-inflige-890-millions-deuros-damendes-a-google-risquant-la-colere-de-trump-20260723_XPJZ5ST3UNCADHCTRCEGZ27F2U/"
+        },
+        {
+          "outlet": "L'Humanité",
+          "take": "La double amende constitue un record dans les sanctions prononcées par la Commission européenne contre les abus de position dominante numérique.",
+          "url": "https://www.humanite.fr/social-et-economie/google/un-record-google-se-voit-inflige-890-millions-deuros-damendes-par-la-commission-europeenne"
         }
       ],
       "id": 10,
@@ -327,21 +338,25 @@
     },
     {
       "themes": [
-        "Société",
         "Environnement"
       ],
-      "title": "Justice ordonne le démantèlement de quatre bassines en Charente-Maritime",
-      "full": "Un tribunal administratif de Poitiers a ordonné le démantèlement de quatre retenues d'eau agricoles en Charente-Maritime dans un délai de trois ans. Selon l'association à l'origine du contentieux, plusieurs manquements ont entaché la construction de ces réserves d'irrigation. Les exploitants agricoles ont annoncé qu'ils contesteraient cette décision en appel.",
+      "title": "Plus de 46 000 hectares brûlés en France cet été",
+      "full": "Depuis le début de l'été, les incendies ont consumé plus de 46 000 hectares en France, tandis que les feux deviennent de plus en plus précoces, fréquents et violents. Cette multiplication des sinistres soulève la question de l'adéquation des moyens de lutte disponibles, notamment la flotte vieillissante d'avions bombardiers d'eau, selon plusieurs rapports parlementaires. Au-delà de la destruction immédiate, les chaleurs exceptionnelles menacent également l'équilibre écologique à long terme, affectant gravement la faune et la flore sauvages.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Le jugement du tribunal administratif de Poitiers impose aux exploitants le démantèlement de ces quatre bassines avec un délai de trois ans pour s'exécuter.",
-          "url": "https://www.franceinfo.fr/societe/justice/en-charente-maritime-la-justice-ordonne-le-demantelement-de-quatre-bassines-d-ici-3-ans_8119850.html#xtor=RSS-3-[lestitres]"
+          "take": "Interroge les ressources insuffisantes des pompiers face à l'accélération des incendies.",
+          "url": "https://www.franceinfo.fr/faits-divers/incendie/incendies-la-france-manque-t-elle-de-moyens_8119853.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "Le Monde",
-          "take": "L'association plaignante dénonce des manquements dans la procédure d'édification de ces réserves d'eau, tandis que les agriculteurs préparent leur recours en appel.",
-          "url": "https://www.lemonde.fr/planete/article/2026/07/24/quatre-bassines-d-irrigation-doivent-etre-demantelees-en-charente-maritime-ordonne-la-justice_6731275_3244.html"
+          "take": "Pointe le vieillissement des moyens aériens de lutte contre le feu comme enjeu crucial.",
+          "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/07/23/la-france-est-elle-prete-a-lutter-contre-la-multiplication-des-incendies-comprendre-en-3-minutes_6621677_6176283.html"
+        },
+        {
+          "outlet": "Le Figaro Sciences",
+          "take": "Souligne les conséquences durables des températures extrêmes sur les écosystèmes naturels.",
+          "url": "https://www.lefigaro.fr/sciences/prairies-seches-incendies-manque-d-eau-la-faune-et-la-flore-sauvages-eprouvees-par-des-chaleurs-hors-norme-20260723"
         }
       ],
       "id": 11,
@@ -351,18 +366,18 @@
       "themes": [
         "Société"
       ],
-      "title": "Trump accepte l'extradition des frères Tate vers le Royaume-Uni",
-      "full": "L'administration Trump ne s'opposera pas à l'extradition d'Andrew et Tristan Tate vers le Royaume-Uni, a confirmé mercredi la Maison Blanche. Les deux frères, arrêtés samedi à Miami, sont recherchés pour des accusations de viol, traite d'êtres humains à des fins d'exploitation sexuelle et agression. Le secrétaire d'État Marco Rubio a précisé que les États-Unis n'avaient aucun rôle à jouer dans cette affaire.",
+      "title": "Rennes : un mineur écroué pour le viol d'une octogénaire",
+      "full": "Un mineur non accompagné a été mis en examen et placé en détention provisoire à Rennes pour le viol présumé d'une femme de 80 ans survenu le 4 juillet. Il est également poursuivi pour vol. Le suspect a été identifié grâce à son ADN et aux images de vidéosurveillance. Il serait né en 2009 au Maroc selon le procureur.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Met l'accent sur l'absence d'opposition de Trump à l'extradition et détaille les accusations britanniques contre les deux influenceurs.",
-          "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/donald-trump-ne-s-opposera-pas-a-l-extradition-des-freres-tate-suspectes-de-viols-et-de-complicite-d-exploitation-sexuelle-vers-le-royaume-uni_8119814.html#xtor=RSS-3-[lestitres]"
+          "outlet": "20 Minutes",
+          "take": "Insiste sur la mise en examen et l'écrou du mineur, ainsi que les deux infractions retenues.",
+          "url": "https://www.20minutes.fr/justice/4236066-20260723-rennes-mineur-origine-marocaine-mis-examen-ecroue-viol-octogenaire?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Rapporte la position officielle du département d'État affirmant qu'aucune intervention américaine n'est prévue dans le dossier.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/24/donald-trump-ne-s-opposera-pas-a-l-extradition-des-freres-tate-vers-le-royaume-uni-selon-la-maison-blanche_6731242_3210.html"
+          "outlet": "France Info",
+          "take": "Détaille les circonstances de l'agression et les moyens d'identification du suspect.",
+          "url": "https://www.franceinfo.fr/faits-divers/un-mineur-etranger-mis-en-examen-et-ecroue-pour-le-viol-d-une-octogenaire-a-rennes_8119790.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 12,
@@ -372,18 +387,18 @@
       "themes": [
         "Société"
       ],
-      "title": "Rennes : un mineur mis en examen pour le viol d'une octogénaire",
-      "full": "Un mineur étranger non accompagné a été mis en examen jeudi à Rennes et placé en détention provisoire pour le viol présumé d'une femme de 80 ans, survenu le 4 juillet. Il est également poursuivi pour vol. Le suspect, identifié grâce à son ADN et à des images de vidéosurveillance, serait né en 2009 au Maroc selon le procureur.",
+      "title": "Vidéo de dénégation attribuée à la DZ Mafia après les menaces contre le maire d'Alès",
+      "full": "Des hommes cagoulés et gantés, se présentant comme membres de la DZ Mafia, ont publié une vidéo niant toute responsabilité dans les menaces visant Christophe Rivenq, maire d'Alès, qui a été exfiltré de son domicile par le Raid lundi soir. L'un d'eux, se réclamant porte-parole du groupe criminel marseillais, dénonce « un acte lâche et odieux » attribué à d'autres acteurs souhaitant « nuire à la société ». Cette vidéo de dénégation laisse les enquêteurs perplexes quant à la véritable origine des menaces et pourrait refléter des recompositions en cours du narcotrafic dans la région.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Met l'accent sur la mise en examen et l'écrou du mineur, ainsi que la double qualification (viol et vol).",
-          "url": "https://www.20minutes.fr/justice/4236066-20260723-rennes-mineur-origine-marocaine-mis-examen-ecroue-viol-octogenaire?at_medium=display&at_campaign=149"
+          "outlet": "France Info",
+          "take": "Six hommes entièrement vêtus de noir apparaissent à visage couvert pour contester leur implication dans les menaces qui ont nécessité une intervention du Raid.",
+          "url": "https://www.franceinfo.fr/societe/drogue/ce-que-l-on-sait-de-la-video-des-hommes-cagoules-qui-se-presentent-comme-etant-des-membres-de-la-dz-mafia-et-nient-avoir-menace-le-maire-d-ales_8119217.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "France Info",
-          "take": "Détaille les circonstances de l'agression et les méthodes d'enquête ayant permis l'identification du suspect.",
-          "url": "https://www.franceinfo.fr/faits-divers/un-mineur-etranger-mis-en-examen-et-ecroue-pour-le-viol-d-une-octogenaire-a-rennes_8119790.html#xtor=RSS-3-[lestitres]"
+          "outlet": "Le Monde",
+          "take": "Le dénégation soulève des questions chez les enquêteurs sur les possibles mutations au sein des réseaux criminels opérant dans l'ancienne cité minière.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/23/menaces-contre-le-maire-d-ales-une-video-de-dementi-attribuee-a-la-dz-mafia-brouille-encore-un-peu-plus-les-pistes_6731102_3224.html"
         }
       ],
       "id": 13,
@@ -391,21 +406,20 @@
     },
     {
       "themes": [
-        "Monde",
-        "Environnement"
+        "Société"
       ],
-      "title": "Incendies massifs en Europe du Sud, l'Espagne décrète l'état d'urgence",
-      "full": "L'Espagne fait face à des incendies majeurs qui l'établissent comme le pays européen le plus touché. Le gouvernement espagnol a déclaré l'état d'urgence national vendredi, notamment aux abords de Madrid où les feux se rapprochent. La France a appelé l'Union européenne à mobiliser des renforts pour combattre ces incendies qui ravagent l'Europe du Sud. Les conditions météorologiques ont créé une situation critique : la végétation s'est densifiée durant l'hiver pluvieux avant de se dessécher brutalement lors de la canicule.",
+      "title": "Nord : un directeur d'école mis en examen pour agressions sexuelles",
+      "full": "Le directeur de l'école Claude-Bernard de Busigny (Nord) a été arrêté et incarcéré pour des faits d'agressions sexuelles et corruption de mineurs commis dans le cadre de son activité professionnelle. Il a été mis en examen par les autorités judiciaires. Le rectorat a ordonné sa suspension immédiate.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Souligne que la conjonction entre une végétation abondante (due aux pluies hivernales) et le dessèchement provoqué par la canicule a créé des conditions propices à la propagation des incendies.",
-          "url": "https://www.liberation.fr/international/europe/incendies-en-espagne-pays-le-plus-touche-deurope-madrid-cerne-par-les-feux-20260723_AJKBYPQRGZG7TDU72U2DIRGF2M/"
+          "outlet": "20 Minutes",
+          "take": "Met l'accent sur l'incarcération et la suspension du chef d'établissement par l'Education nationale.",
+          "url": "https://www.20minutes.fr/faits_divers/4236086-20260724-nord-directeur-ecole-mis-examen-agressions-sexuelles-mineurs?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "France 24",
-          "take": "Insiste sur les mesures d'urgence et la mobilisation européenne, avec la déclaration de l'état d'urgence en Espagne et l'appel français pour des renforts de l'UE.",
-          "url": "https://www.france24.com/fr/europe/20260724-incendies-europe-france-ue-rescousse-espagne-etat-d-urgence"
+          "outlet": "France Info",
+          "take": "Précise la nature des accusations (agressions sexuelles et corruption de mineurs) en lien avec ses fonctions professionnelles.",
+          "url": "https://www.franceinfo.fr/faits-divers/un-directeur-d-ecole-soupconne-d-agressions-sexuelles-sur-mineurs-incarcere-et-mis-en-examen-a-busigny-dans-le-nord_8119658.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 14,
@@ -413,20 +427,21 @@
     },
     {
       "themes": [
-        "Économie"
+        "Tech & Sciences",
+        "Société"
       ],
-      "title": "Le nombre de distributeurs de billets recule en France",
-      "full": "La France a perdu 1800 distributeurs automatiques de billets en 2025, poursuivant une tendance baissière observée depuis plusieurs années. Selon la Banque de France, cette réduction n'affecte pas l'accessibilité des espèces sur le territoire, qui reste à un « excellent niveau ».",
+      "title": "L'UE réautorise la détection de contenus pédopornographiques sur les plateformes",
+      "full": "L'Union européenne a rétabli temporairement le cadre légal permettant aux plateformes de détecter les images pédopornographiques dans les messageries, après l'expiration du précédent dispositif début avril. Cette réautorisation intervient après des mois de négociations entre les États membres et le Parlement européen, opposant les associations de protection de l'enfance aux défenseurs de la vie privée. Les messages protégés par un chiffrement de bout en bout restent toutefois exemptés de cette détection.",
       "angles": [
         {
           "outlet": "Le Figaro Éco",
-          "take": "Met l'accent sur la continuité de la baisse du nombre de distributeurs et sur l'assurance des autorités monétaires quant à la qualité de l'accès aux espèces.",
-          "url": "https://www.lefigaro.fr/conjoncture/1800-de-moins-en-2025-le-nombre-de-distributeurs-de-billets-continue-de-baisser-en-france-20260723"
+          "take": "Le cadre légal antérieur avait expiré faute d'accord entre les pays de l'UE et les eurodéputés sur les modalités de détection.",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/l-ue-reautorise-la-detection-d-images-pedopornographiques-par-les-plateformes-sauf-dans-les-echanges-chiffres-20260723"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Souligne que malgré la fermeture de ces distributeurs, le maillage territorial garantit toujours un accès largement assuré aux espèces pour les Français.",
-          "url": "https://www.20minutes.fr/economie/4236059-20260723-distributeurs-billets-moins-nombreux-acces-especes-reste-assure?at_medium=display&at_campaign=149"
+          "outlet": "Le Monde",
+          "take": "La décision met fin à un long conflit d'intérêts entre protection de l'enfance et préservation de la vie privée, avec un compromis excluant les messageries chiffrées.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/07/23/l-ue-reautorise-temporairement-les-plateformes-a-detecter-les-contenus-pedopornographiques-dans-les-messageries_6731065_4408996.html"
         }
       ],
       "id": 15,
@@ -434,20 +449,20 @@
     },
     {
       "themes": [
-        "Tech & Sciences"
+        "Culture"
       ],
-      "title": "L'UE réautorise la détection de contenus pédopornographiques sur les plateformes",
-      "full": "L'Union européenne a rétabli temporairement un cadre légal permettant aux plateformes de détecter et signaler les images pédopornographiques dans les messageries. Ce dispositif avait expiré début avril faute d'accord entre les États membres et le Parlement européen. Les services de messagerie utilisant un chiffrement de bout en bout restent exemptés de cette obligation de détection.",
+      "title": "Balat, le quartier coloré d'Istanbul vedette des réseaux sociaux",
+      "full": "Le quartier de Balat, sur la rive européenne d'Istanbul, figure parmi les destinations les plus photographiées de la ville. Ses ruelles pavées et ses maisons aux façades colorées attirent particulièrement les visiteurs en quête de clichés. Ce secteur historique où cohabitent héritages européen et asiatique illustre le caractère cosmopolite d'Istanbul, carrefour entre deux continents.",
       "angles": [
         {
-          "outlet": "Le Figaro Éco",
-          "take": "Met l'accent sur le blocage réglementaire qui avait suspendu ce cadre légal et sur l'exception accordée aux échanges chiffrés.",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/l-ue-reautorise-la-detection-d-images-pedopornographiques-par-les-plateformes-sauf-dans-les-echanges-chiffres-20260723"
+          "outlet": "France 24",
+          "take": "Insiste sur le patrimoine multiculturel du quartier où se rencontrent les influences historiques de l'Europe et de l'Asie.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260723-istanbul-balade-%C3%A0-balat-quartier-color%C3%A9-o%C3%B9-se-croisent-h%C3%A9ritages-d-europe-et-d-asie"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Souligne les mois de négociations entre défenseurs de l'enfance et partisans de la protection de la vie privée, et le caractère temporaire de cette réautorisation.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/07/23/l-ue-reautorise-temporairement-les-plateformes-a-detecter-les-contenus-pedopornographiques-dans-les-messageries_6731065_4408996.html"
+          "outlet": "France Info",
+          "take": "Souligne le succès touristique et photographique du quartier, devenu l'une des zones les plus documentées de la ville.",
+          "url": "https://www.franceinfo.fr/monde/turquie/promenade-dans-balat-le-quartier-aux-mille-maisons-colorees-parmi-les-plus-photographies-d-istanbul_8119388.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 16,
@@ -455,20 +470,20 @@
     },
     {
       "themes": [
-        "Culture"
+        "Monde"
       ],
-      "title": "Balat, le quartier coloré d'Istanbul qui fascine les touristes",
-      "full": "Balat, situé sur la rive européenne d'Istanbul, est devenu l'une des destinations les plus photographiées de la ville. Ses ruelles pavées et ses maisons aux façades colorées en font un carrefour visuel où se rencontrent les influences européennes et asiatiques. Ce quartier historique incarne la diversité culturelle d'Istanbul à travers son architecture et ses lieux de culte.",
+      "title": "La Tunisie suffoque sous une canicule et des coupures d'électricité",
+      "full": "La Tunisie fait face à une canicule intense depuis une dizaine de jours, avec des températures approchant les 50 degrés Celsius. Face à la demande énergétique accrue, les autorités procèdent à des délestages réguliers qui alimentent la frustration des habitants. Les secteurs de la santé et de l'agriculture subissent de plein fouet ces coupures d'électricité, tandis que les incendies se multiplient sur le territoire. Nombreux sont les Tunisiens qui dénoncent le manque d'anticipation des pouvoirs publics face à cette situation de crise.",
       "angles": [
         {
           "outlet": "France 24",
-          "take": "Balat illustre la dimension de ville-monde d'Istanbul, où les héritages européens et asiatiques se croisent dans l'architecture et la vie quotidienne.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260723-istanbul-balade-%C3%A0-balat-quartier-color%C3%A9-o%C3%B9-se-croisent-h%C3%A9ritages-d-europe-et-d-asie"
+          "take": "Souligne la critique des Tunisiens envers l'absence de préparation des autorités face aux délestages.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260723-en-tunisie-les-coupures-d-%C3%A9lectricit%C3%A9-se-multiplient-en-pleine-canicule"
         },
         {
-          "outlet": "France Info",
-          "take": "Le quartier s'est établi comme une destination très prisée des photographes, attirant de nombreux visiteurs en quête d'images de ses maisons colorées caractéristiques.",
-          "url": "https://www.franceinfo.fr/monde/turquie/promenade-dans-balat-le-quartier-aux-mille-maisons-colorees-parmi-les-plus-photographies-d-istanbul_8119388.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "Met l'accent sur les impacts sectoriels (santé, agriculture) et la multiplication des incendies liée à l'extrême chaleur.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/07/23/en-tunisie-ou-les-temperatures-frolent-les-50-c-la-canicule-met-le-pays-sous-pression_6731062_3212.html"
         }
       ],
       "id": 17,
@@ -476,20 +491,20 @@
     },
     {
       "themes": [
-        "Monde"
+        "Sport"
       ],
-      "title": "En Tunisie, canicule et délestages électriques paralysent le pays",
-      "full": "La Tunisie subit depuis dix jours une vague de chaleur extrême, avec des températures approchant 50 °C. Face à la demande énergétique accrue, les autorités ont multiplié les coupures de courant, alimentant la frustration des Tunisiens qui dénoncent l'absence d'anticipation. Cette situation fragilise les secteurs sensibles : les hôpitaux et l'agriculture subissent les coupures, tandis que les incendies se propagent dans le pays.",
+      "title": "La France crée un observatoire sur l'identité dans le sport",
+      "full": "Le ministère des sports a lancé jeudi l'Observatoire des variations, de l'intersexuation et de l'identité dans le sport. Cette instance vise à éclairer les décisions publiques sur ces enjeux, dans un contexte de débat international sur l'accès des athlètes trans aux compétitions. La France s'oppose aux tests de féminité que le Comité international olympique envisage d'imposer, considérant que la ministre Marina Ferrari souhaite défendre la lutte contre les discriminations.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "Les délestages répétés provoquent la colère d'une population reprochant aux autorités leur manque de préparation face à la crise climatique.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260723-en-tunisie-les-coupures-d-%C3%A9lectricit%C3%A9-se-multiplient-en-pleine-canicule"
+          "outlet": "France Info",
+          "take": "L'Observatoire a été créé pour fournir au gouvernement les données et analyses nécessaires à l'élaboration de ses politiques sportives sur ce sujet.",
+          "url": "https://www.franceinfo.fr/sports/defavorable-aux-tests-de-feminite-la-france-lance-un-observatoire-de-l-intersexuation-et-de-l-identite-dans-le-sport-pour-eclairer-les-choix-des-pouvoirs-publics_8119418.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Les secteurs critiques comme la santé et l'agriculture sont gravement affectés par les coupures, tandis que les foyers d'incendie se multiplient.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/07/23/en-tunisie-ou-les-temperatures-frolent-les-50-c-la-canicule-met-le-pays-sous-pression_6731062_3212.html"
+          "outlet": "Libération",
+          "take": "La création de cet observatoire s'inscrit en réaction critique aux décisions du CIO qui risquent d'exclure les athlètes trans des Jeux olympiques.",
+          "url": "https://www.liberation.fr/sports/defavorable-aux-tests-de-feminite-la-france-lance-un-observatoire-pour-accompagner-au-mieux-les-athletes-et-eclairer-les-decisions-publiques-20260723_JPRKQBM2RVCZHKD53TKETBYUCI/"
         }
       ],
       "id": 18,
@@ -497,20 +512,20 @@
     },
     {
       "themes": [
-        "Insolite"
+        "Monde"
       ],
-      "title": "Rosalía s'excuse après avoir moqué l'Argentine sur les réseaux",
-      "full": "La chanteuse espagnole Rosalía a dû présenter ses excuses après avoir partagé une vidéo se moquant de l'équipe de football argentine, quelques jours avant ses concerts à Buenos Aires début août. La vidéo, initialement publiée par l'influenceuse Mia Khalifa, célébrait la victoire de l'Espagne en finale de la Coupe du monde 2026 face à l'Argentine. Le geste a suscité un tollé en Argentine, avec des appels au boycott de ses concerts.",
+      "title": "Maroc : un rappeur critiquant le régime maintenu en prison",
+      "full": "Le rappeur marocain Mehdi Black Wind, connu pour ses textes dénonçant les inégalités sociales, est en détention provisoire depuis le 13 juillet. Arrêté à l'aéroport de Rabat alors qu'il s'apprêtait à rejoindre la France où il réside, il est poursuivi pour offense au Roi en vertu de l'article 179 du Code pénal, passible de deux ans d'emprisonnement. Une audience était prévue le 31 juillet pour examiner son maintien en détention.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Rosalía a dû s'excuser juste avant sa tournée prévue à Buenos Aires pour avoir partagé une vidéo célébrant la victoire espagnole.",
-          "url": "https://www.20minutes.fr/monde/4236083-20260724-coupe-monde-2026-rosalia-critiquee-argentine-video-defaite-mondial?at_medium=display&at_campaign=149"
+          "outlet": "France 24",
+          "take": "Souligne l'arrestation du rappeur à l'aéroport et les mobilisations de ses soutiens pour réclamer sa libération.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260723-au-maroc-les-soutiens-du-rappeurs-mehdi-black-wind-r%C3%A9clament-sa-lib%C3%A9ration"
         },
         {
-          "outlet": "Courrier International",
-          "take": "La republication de la vidéo de moquerie a déclenché des appels au boycott de ses concerts argentins.",
-          "url": "https://www.courrierinternational.com/article/reseaux-sociaux-rosal-a-chambre-l-equipe-de-foot-d-argentine-et-suscite-un-tolle-dans-le-pays_252135"
+          "outlet": "L'Humanité",
+          "take": "Relève l'absence de mention de ce dossier par le gouvernement français lors de négociations diplomatiques récentes avec le Maroc.",
+          "url": "https://www.humanite.fr/monde/justice/maroc-face-a-lemprisonnement-du-rappeur-et-cineaste-el-mahdi-lyoubi-le-silence-complice-de-la-france"
         }
       ],
       "id": 19,
@@ -518,21 +533,20 @@
     },
     {
       "themes": [
-        "Sport",
-        "Santé"
+        "France"
       ],
-      "title": "La France crée un observatoire sur l'intersexuation dans le sport",
-      "full": "Le ministère des sports a lancé jeudi l'Observatoire des variations, de l'intersexuation et de l'identité dans le sport. Cette structure vise à éclairer les décisions publiques sur ces enjeux, dans un contexte où le Comité international olympique envisage d'imposer des tests de féminité aux athlètes. La ministre Marina Ferrari a affirmé vouloir continuer à lutter contre les discriminations tout en accompagnant au mieux les sportifs concernés.",
+      "title": "Matignon négocie avec les banques pour financer la campagne de Le Pen",
+      "full": "Le gouvernement discute avec des établissements bancaires français pour mettre en place un emprunt destiné à financer la campagne présidentielle 2027 de Marine Le Pen. Matignon envisage de garantir partiellement ce prêt par l'État via la prochaine loi de finances, face à la réticence des banques à accorder des crédits de plusieurs millions d'euros au Rassemblement national. L'exécutif cherche à éviter que la candidate ne recours à des financements étrangers.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "L'observatoire est présenté comme un outil pour fonder les choix politiques sur des données et analyses approfondies.",
-          "url": "https://www.franceinfo.fr/sports/defavorable-aux-tests-de-feminite-la-france-lance-un-observatoire-de-l-intersexuation-et-de-l-identite-dans-le-sport-pour-eclairer-les-choix-des-pouvoirs-publics_8119418.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "Un consortium bancaire, avec garantie partielle de l'État, devrait permettre à la candidate d'extrême droite d'obtenir son financement en France.",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/23/presidentielle-2027-comment-matignon-negocie-avec-les-banques-francaises-pour-qu-elles-acceptent-de-financer-la-campagne-de-marine-le-pen_6730921_823448.html"
         },
         {
           "outlet": "Libération",
-          "take": "La création de cet observatoire s'inscrit en réaction critique aux tests de féminité du CIO, dont l'application exclurait les athlètes trans.",
-          "url": "https://www.liberation.fr/sports/defavorable-aux-tests-de-feminite-la-france-lance-un-observatoire-pour-accompagner-au-mieux-les-athletes-et-eclairer-les-decisions-publiques-20260723_JPRKQBM2RVCZHKD53TKETBYUCI/"
+          "take": "Face aux banques hésitantes en raison des risques, le gouvernement cherche à les encourager pour éviter que le RN ne se tourne vers des sources de financement étrangères.",
+          "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-le-rn-sans-solution-de-pret-le-gouvernement-et-les-banques-planchent-sur-le-financement-de-la-campagne-20260723_LTB5TLTBWFEOXHBQ5OTAZCJEJI/"
         }
       ],
       "id": 20,
@@ -540,20 +554,20 @@
     },
     {
       "themes": [
-        "Monde"
+        "Culture"
       ],
-      "title": "Au Maroc, le rappeur Mehdi Black Wind reste en détention",
-      "full": "Le rappeur marocain Mehdi Black Wind, connu pour ses critiques des inégalités dans le royaume, demeure en détention provisoire depuis le 13 juillet. Arrêté à l'aéroport de Rabat alors qu'il s'apprêtait à rejoindre la France, où il réside, il est poursuivi pour offense au Roi en vertu de l'article 179 du Code pénal, passible de deux ans d'emprisonnement. Une nouvelle audience est prévue le 31 juillet. Ses soutiens réclament sa libération.",
+      "title": "Trajal Harrell captive Avignon avec « Music Music »",
+      "full": "Le chorégraphe et danseur américain Trajal Harrell présente au Festival d'Avignon un solo intitulé « Music Music », joué au cloître des Carmes. La performance mêle voguing, fado et butô dans une exploration intime et vulnérable de sa relation à la musique. Cette création se distingue par son mélange de rigueur technique et d'expression épurée, marquant le retour de l'artiste à une forme plus dépouillée.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "Le rappeur a été arrêté à son départ du Maroc et ses partisans demandent sa libération immédiate.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260723-au-maroc-les-soutiens-du-rappeurs-mehdi-black-wind-r%C3%A9clament-sa-lib%C3%A9ration"
+          "outlet": "Libération",
+          "take": "Met l'accent sur le caractère drôle et émouvant de la performance, née de la combinaison de plusieurs langages chorégraphiques et de l'intimité du lieu.",
+          "url": "https://www.liberation.fr/culture/scenes/a-avignon-trajal-harrell-joue-sa-music-music-interieure-20260723_M7H4T246TJA2PL3EYQ2QTD32XM/"
         },
         {
           "outlet": "L'Humanité",
-          "take": "L'artiste, exilé en France depuis dix ans, reste emprisonné tandis que Paris négocie un accord avec Rabat sans évoquer sa situation.",
-          "url": "https://www.humanite.fr/monde/justice/maroc-face-a-lemprisonnement-du-rappeur-et-cineaste-el-mahdi-lyoubi-le-silence-complice-de-la-france"
+          "take": "Souligne que le solo constitue une déclaration d'amour à la musique, révélant la maîtrise et la vulnérabilité simultanées du danseur.",
+          "url": "https://www.humanite.fr/culture-et-savoir/danse/festival-davignon-music-music-de-trajal-harrell-a-en-perdre-la-voix"
         }
       ],
       "id": 21,
@@ -561,20 +575,20 @@
     },
     {
       "themes": [
-        "France"
+        "Tech & Sciences"
       ],
-      "title": "Matignon négocie avec les banques pour financer la campagne de Le Pen",
-      "full": "Le gouvernement discute avec un consortium bancaire pour permettre à Marine Le Pen d'obtenir un emprunt destiné à sa campagne présidentielle de 2027. Matignon envisage de garantir partiellement ce prêt via la prochaine loi de finances, face à la réticence des établissements de crédit à financer un tel montant. L'exécutif souhaite ainsi éviter que le Rassemblement national ne recourt à des financements étrangers.",
+      "title": "Hong Wang reçoit la Médaille Fields pour sa résolution de la conjecture de Kakeya",
+      "full": "La mathématicienne chinoise Hong Wang fait partie des quatre lauréats de la Médaille Fields 2026, la plus haute distinction en mathématiques. Elle est récompensée, avec Joshua Zahl, pour avoir résolu la conjecture de Kakeya en dimension 3, un problème ouvert depuis plus de cinquante ans. Cette avancée porte sur la géométrie des aiguilles tournantes et ouvre de nouvelles voies en analyse harmonique. Hong Wang, qui a étudié et travaille en France à l'Institut des hautes études scientifiques, devient la troisième femme à recevoir cette médaille.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Un consortium bancaire pourrait accorder le prêt à la candidate d'extrême droite avec une garantie partielle de l'État intégrée à la loi de finances.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/23/presidentielle-2027-comment-matignon-negocie-avec-les-banques-francaises-pour-qu-elles-acceptent-de-financer-la-campagne-de-marine-le-pen_6730921_823448.html"
+          "outlet": "Sciences et Avenir",
+          "take": "Met l'accent sur le problème mathématique résolu : comment faire tourner une aiguille dans l'espace minimal, un défi majeur qui attendait une solution depuis plus d'un demi-siècle.",
+          "url": "https://www.sciencesetavenir.fr/fondamental/medaille-fields-2026-hong-wang-perce-le-mystere-des-aiguilles-tournantes_193898?xtor=RSS-10"
         },
         {
           "outlet": "Libération",
-          "take": "Le gouvernement cherche à encourager les banques, naturellement frileuses face aux risques, pour éviter que le RN ne s'adresse à des sources de financement étrangères.",
-          "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-le-rn-sans-solution-de-pret-le-gouvernement-et-les-banques-planchent-sur-le-financement-de-la-campagne-20260723_LTB5TLTBWFEOXHBQ5OTAZCJEJI/"
+          "take": "Souligne le lien de Hong Wang avec la formation et les institutions scientifiques françaises, ainsi que l'importance de sa distinction en tant que troisième femme lauréate de la Médaille Fields.",
+          "url": "https://www.liberation.fr/sciences/medaille-fields-2026-la-mathematicienne-hong-wang-co-laureate-du-prix-met-la-formation-francaise-a-lhonneur-20260723_BSAVRRJDPNDOZFMCMFUVQSNKUM/"
         }
       ],
       "id": 22,
@@ -582,20 +596,21 @@
     },
     {
       "themes": [
-        "Culture"
+        "Monde",
+        "Société"
       ],
-      "title": "Trajal Harrell sééduit Avignon avec « Music Music »",
-      "full": "Le chorégraphe et danseur américain Trajal Harrell présente au Festival d'Avignon un solo intitulé « Music Music », accueilli au cloître des Carmes. La performance mêle voguing, fado et butô dans une exploration intime et vulnérable de sa relation à la musique, saluée par la critique pour son intensité émotionnelle et sa maîtrise technique.",
+      "title": "En Inde, les étudiants du Parti des cafards occupent Delhi",
+      "full": "Un mouvement étudiant indien, le Parti du peuple des cafards, poursuit son occupation du centre de New Delhi pour contester les annonces du premier ministre Narendra Modi. Les manifestants réclament un véritable dialogue et des mesures concrètes sur les enjeux qui les concernent. Face aux interventions musclées des forces de l'ordre, les jeunes mobilisés ripostent notamment par des mèmes et vidéos humoristiques qui circulent massivement sur les réseaux sociaux.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Harrell déploie sa vulnérabilité à travers une performance drôle et émouvante qui fusionne plusieurs langages chorégraphiques.",
-          "url": "https://www.liberation.fr/culture/scenes/a-avignon-trajal-harrell-joue-sa-music-music-interieure-20260723_M7H4T246TJA2PL3EYQ2QTD32XM/"
+          "outlet": "L'Humanité",
+          "take": "Le mouvement étudiant maintient son occupation malgré les annonces gouvernementales, exigeant un véritable engagement politique.",
+          "url": "https://www.humanite.fr/monde/inde/inde-insatisfaits-des-annonces-de-narendra-modi-les-etudiants-du-parti-des-cafards-continuent-doccuper-delhi"
         },
         {
-          "outlet": "L'Humanité",
-          "take": "Le spectacle se présente comme une lettre d'amour à la musique, marquée par un retour ludique du danseur à l'essentiel.",
-          "url": "https://www.humanite.fr/culture-et-savoir/danse/festival-davignon-music-music-de-trajal-harrell-a-en-perdre-la-voix"
+          "outlet": "Slate",
+          "take": "La génération Z oppose à la répression policière une stratégie décalée : l'humour viral et les contenus comiques en ligne.",
+          "url": "https://www.slate.fr/monde/inde-parti-cafards-jeunesse-manifestants-memes-videos-viralite-humour-new-delhi-generation-z"
         }
       ],
       "id": 23,
@@ -603,20 +618,20 @@
     },
     {
       "themes": [
-        "Économie"
+        "Monde"
       ],
-      "title": "Le Royaume-Uni réduit les taxes des pubs et salles de concert",
-      "full": "Le premier ministre britannique Andy Burnham a annoncé une baisse de 20 % de la taxe professionnelle pour les pubs, discothèques et salles de concert. Cette mesure s'inscrit dans une série d'interventions économiques visant à soutenir le pouvoir d'achat et à freiner les fermetures en cascade de ces établissements, confrontés à la hausse des coûts. Au Royaume-Uni, un pub ferme en moyenne chaque jour.",
+      "title": "Trump envisage des frappes aériennes contre les djihadistes au Mali",
+      "full": "L'administration américaine étudierait la possibilité de mener des opérations aériennes contre le Groupe de soutien à l'islam et aux musulmans (JNIM), selon le Washington Post. Ce groupe djihadiste renforce sa présence autour de Bamako, la capitale malienne. Washington verrait aussi dans cette intervention une opportunité de se positionner comme alternative sécuritaire face à l'influence russe au Mali, où les paramilitaires russes de l'Africa Corps ont subi des revers récents face aux mêmes organisations terroristes.",
       "angles": [
         {
-          "outlet": "Le Figaro Éco",
-          "take": "L'allègement fiscal s'inscrit dans une stratégie gouvernementale plus large de soutien au pouvoir d'achat face aux difficultés économiques des secteurs culturels et de loisirs.",
-          "url": "https://www.lefigaro.fr/conjoncture/royaume-uni-le-nouveau-premier-ministre-reduit-la-taxe-des-pubs-discotheques-et-salles-de-concert-20260723"
+          "outlet": "Le Figaro International",
+          "take": "L'administration Trump examine une réaction militaire face à l'encerclement de Bamako par les djihadistes.",
+          "url": "https://www.lefigaro.fr/international/l-administration-trump-envisage-de-frapper-les-djihadistes-au-mali-20260723"
         },
         {
-          "outlet": "France 24",
-          "take": "Cette réduction de taxe constitue la troisième mesure économique du nouveau gouvernement en trois jours, affichant une volonté d'agir rapidement sur l'économie.",
-          "url": "https://www.france24.com/fr/europe/20260723-royaume-uni-pubs-britanniques-recoivent-un-coup-de-pouce-du-nouveau-premier-ministre-andy-burnham"
+          "outlet": "Courrier International",
+          "take": "Cette intervention potentielle s'inscrit dans une rivalité plus large avec Moscou pour l'influence sécuritaire au Sahel.",
+          "url": "https://www.courrierinternational.com/article/sahel-l-administration-trump-envisage-une-intervention-militaire-au-mali-selon-le-washington-post_252133"
         }
       ],
       "id": 24,
@@ -624,20 +639,20 @@
     },
     {
       "themes": [
-        "Monde"
+        "Culture"
       ],
-      "title": "Washington envisage des frappes aériennes contre les djihadistes au Mali",
-      "full": "L'administration Trump étudie la possibilité de mener des frappes aériennes au Mali pour contenir la progression du Groupe de soutien à l'islam et aux musulmans (Jnim), qui renforce sa présence autour de Bamako, selon le Washington Post. Cette option s'inscrit dans une stratégie plus large de positionnement des États-Unis face à l'influence russe dans la région : les paramilitaires russes de l'Africa Corps ont récemment subi des revers face aux djihadistes, créant une opportunité pour Washington de se présenter comme alternative sécuritaire.",
+      "title": "Macron et Lee Jae Myung coprésident un sommet sur l'avenir du cinéma",
+      "full": "Emmanuel Macron et le président sud-coréen Lee Jae Myung coprésident le 7 septembre à Saint-Paul-de-Vence un sommet international consacré aux enjeux du cinéma et de l'image animée. Cet événement réunira environ 150 participants : dirigeants des studios hollywoodiens majors, exploitants de salles, plateformes de streaming et producteurs indépendants. Il s'agit du premier sommet de ce type dédié aux grandes questions de l'industrie cinématographique.",
       "angles": [
         {
-          "outlet": "Le Figaro International",
-          "take": "L'accent est mis sur la menace djihadiste croissante aux portes de Bamako et sur l'option des frappes aériennes américaines.",
-          "url": "https://www.lefigaro.fr/international/l-administration-trump-envisage-de-frapper-les-djihadistes-au-mali-20260723"
+          "outlet": "Le Monde",
+          "take": "Souligne le caractère prestigieux du rassemblement, dénommé « Sommet Lumière », et la composition internationale des 150 invités réunissant tous les acteurs majeurs du secteur.",
+          "url": "https://www.lemonde.fr/culture/article/2026/07/23/emmanuel-macron-copresidera-un-sommet-sur-les-grands-enjeux-du-cinema-le-7-septembre-avec-son-homologue-sud-coreen_6730882_3246.html"
         },
         {
-          "outlet": "Courrier International",
-          "take": "L'angle souligne la dimension géopolitique : Washington cherche à concurrencer l'influence russe au Mali après les revers de Moscou face aux groupes armés.",
-          "url": "https://www.courrierinternational.com/article/sahel-l-administration-trump-envisage-une-intervention-militaire-au-mali-selon-le-washington-post_252133"
+          "outlet": "France Info",
+          "take": "Met l'accent sur le caractère inaugural de ce premier sommet international entièrement dédié à l'avenir du cinéma et de l'image animée.",
+          "url": "https://www.franceinfo.fr/culture/cinema/le-premier-sommet-international-consacre-a-l-avenir-du-cinema-et-de-l-image-animee-se-tiendra-en-septembre_8119289.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 25,
@@ -645,20 +660,20 @@
     },
     {
       "themes": [
-        "Culture"
+        "Sport"
       ],
-      "title": "Macron et le leader sud-coréen réuniront l'industrie du cinéma en septembre",
-      "full": "Emmanuel Macron et son homologue sud-coréen Lee Jae Myung copresideront le 7 septembre à Saint-Paul-de-Vence un sommet international consacré aux enjeux du cinéma et de l'image animée. Cette première édition du « Sommet Lumière » rassemblera environ 150 participants, parmi lesquels les grands studios hollywoodiens, des exploitants de salles, les principales plateformes de streaming et des producteurs indépendants.",
+      "title": "La Norvège porte plainte à la Fifa après l'intervention de Trump",
+      "full": "La fédération norvégienne a annoncé son intention de déposer une plainte auprès du comité d'éthique de la Fifa suite à l'intervention de Donald Trump dans l'affaire du joueur américain Folarin Balogun. Le président américain a intercédé auprès du président de la Fifa, Gianni Infantino, pour obtenir l'annulation de la suspension de l'attaquant, qui avait reçu un carton rouge et ne pouvait ainsi participer au huitième de finale face à la Belgique. La Fifa a finalement levé cette suspension, permettant à Balogun de jouer. La présidente de la fédération norvégienne dénonce cette intervention politique comme une violation des règles de l'instance internationale.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Souligne que le sommet se déroulera dans le village des Alpes-Maritimes et regroupe les majors américaines et les géants du streaming.",
-          "url": "https://www.lemonde.fr/culture/article/2026/07/23/emmanuel-macron-copresidera-un-sommet-sur-les-grands-enjeux-du-cinema-le-7-septembre-avec-son-homologue-sud-coreen_6730882_3246.html"
+          "outlet": "France Info",
+          "take": "La fédération norvégienne estime que contourner une règle disciplinaire engage sur une pente glissante pour l'intégrité de la compétition.",
+          "url": "https://www.franceinfo.fr/coupe-du-monde/la-federation-norvegienne-annonce-porter-plainte-aupres-du-comite-d-ethique-de-la-fifa-concernant-l-intervention-de-donald-trump-dans-l-affaire-folarin-balogun_8118965.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France Info",
-          "take": "Présente cet événement comme le premier sommet international de ce type consacré à l'avenir du cinéma et de l'image animée.",
-          "url": "https://www.franceinfo.fr/culture/cinema/le-premier-sommet-international-consacre-a-l-avenir-du-cinema-et-de-l-image-animee-se-tiendra-en-septembre_8119289.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "L'Humanité",
+          "take": "La plainte cible spécifiquement les ingérences politiques de Trump et son accès direct au président de la Fifa.",
+          "url": "https://www.humanite.fr/sports/coupe-du-monde-de-football-2026/coupe-du-monde-2026-lise-klaveness-president-de-la-federation-de-norvege-porte-plainte-aupres-de-la-fifa-apres-les-ingerences-de-trump"
         }
       ],
       "id": 26,
@@ -666,21 +681,20 @@
     },
     {
       "themes": [
-        "Économie",
-        "Tech & Sciences"
+        "Culture"
       ],
-      "title": "Dassault Systèmes acquiert ArisGlobal pour 2 milliards de dollars",
-      "full": "Dassault Systèmes a annoncé jeudi le rachat d'ArisGlobal, plateforme américaine d'intelligence artificielle spécialisée dans les sciences de la vie et la biotech. Cette acquisition pour 2 milliards de dollars, la deuxième plus importante de l'histoire du groupe français, a été réalisée auprès du fonds suédois Nordic Capital. Dassault Systèmes renforce ainsi sa position sur le marché des logiciels critiques pour les laboratoires pharmaceutiques et les opérations biotechnologiques.",
+      "title": "Elon Musk annonce sa propre adaptation de L'Odyssée réalisée avec l'IA",
+      "full": "Alors que le film L'Odyssée de Christopher Nolan rencontre un succès commercial mondial, Elon Musk a annoncé la production d'une version alternative du poème épique d'Homère utilisant l'intelligence artificielle. Le milliardaire affirme que cette adaptation serait plus fidèle au texte original qu'celle du réalisateur primé.",
       "angles": [
         {
-          "outlet": "Le Figaro Éco",
-          "take": "Dassault Systèmes consolide sa domination dans les logiciels industriels avec une acquisition majeure dans l'IA appliquée à la santé.",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/en-rachetant-arisglobal-pour-2-milliards-de-dollars-dassault-systemes-frappe-un-grand-coup-dans-l-ia-pour-la-sante-20260723"
+          "outlet": "France Info",
+          "take": "Musk critique le film de Nolan et propose sa propre version générée par l'IA, qu'il juge plus conforme à l'œuvre homérique.",
+          "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/apres-avoir-attaque-le-film-de-christopher-nolan-elon-musk-veut-produire-sa-propre-version-de-l-odyssee-avec-l-ia_8090762.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Courrier International",
-          "take": "L'acquisition répond à la volonté du groupe d'étendre son emprise sur le secteur hautement convoité des sciences de la vie et de la biotechnologie.",
-          "url": "https://www.courrierinternational.com/article/biotech-pour-2-milliards-de-dollars-dassault-systemes-se-paie-une-plateforme-d-ia-pour-la-sante_252142"
+          "outlet": "20 Minutes",
+          "take": "Le film de Nolan, adaptation cinématographique du poème épique, place au cœur de son récit la notion antique de la « xenia » incarnée par « la loi de Zeus ».",
+          "url": "https://www.20minutes.fr/arts-stars/culture/4235746-20260723-odyssee-christopher-nolan-quoi-loi-zeus-ur-film?at_medium=display&at_campaign=149"
         }
       ],
       "id": 27,
@@ -688,20 +702,21 @@
     },
     {
       "themes": [
-        "Économie"
+        "Santé",
+        "Environnement"
       ],
-      "title": "Le taux d'emprunt français à 10 ans atteint 4% pour la première fois depuis 2009",
-      "full": "Le taux d'intérêt auquel la France emprunte sur dix ans a franchi jeudi le seuil de 4%, un niveau inédit depuis juin 2009. Ce franchissement intervient à un moment où la dette publique française atteint un niveau record, augmentant ainsi le coût de financement de l'État.",
+      "title": "Canicule de juin : bilan mortel record depuis 2003",
+      "full": "La canicule qui a frappé la France du 17 juin au 2 juillet a entraîné 5 764 décès supplémentaires, selon un bilan provisoire de Santé publique France. Cette surmortalité de 36 % représente le bilan le plus lourd depuis 2003, avec une concentration particulièrement importante en Île-de-France. Les chiffres restent en cours d'affinage selon les différents dispositifs de surveillance.",
       "angles": [
         {
-          "outlet": "Le Figaro Éco",
-          "take": "Souligne que ce taux constitue un poids supplémentaire pour les finances publiques françaises.",
-          "url": "https://www.lefigaro.fr/conjoncture/dette-ce-taux-d-emprunt-desormais-a-4-qui-etouffe-encore-un-peu-plus-la-france-20260723"
+          "outlet": "France Info",
+          "take": "Souligne l'ampleur inédite de cette canicule de juin, la plus meurtrière depuis 2003, avec une surmortalité particulièrement marquée en région parisienne.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-de-juin-jamais-depuis-2003-la-france-n-avait-enregistre-autant-de-deces-lies-a-la-chaleur_8118941.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France Info",
-          "take": "Qualifie le franchissement de 4% de cap symbolique en mettant l'accent sur le contexte de dette publique record.",
-          "url": "https://www.franceinfo.fr/economie/le-taux-d-emprunt-de-la-france-sur-10-ans-est-au-plus-haut-depuis-2009_8119175.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Sciences et Avenir",
+          "take": "Précise que le bilan reste provisoire et que ces décès alimentent le débat politique sur l'adaptation au changement climatique, tout en notant que l'impact a aussi touché les jeunes.",
+          "url": "https://www.sciencesetavenir.fr/sante/canicule-de-juin-une-surmortalite-record-depuis-2003-marquee-aussi-chez-les-jeunes_193897?xtor=RSS-16"
         }
       ],
       "id": 28,
@@ -709,20 +724,16 @@
     },
     {
       "themes": [
+        "Insolite",
         "Société"
       ],
-      "title": "Mort de Daniel Siad : Innocence en danger assigne l'État",
-      "full": "L'association Innocence en danger assigne l'État français pour « déni de justice » suite à la mort de Daniel Siad, soupçonné d'avoir recruté des victimes pour le pédocriminel américain Jeffrey Epstein. Visé par plusieurs plaintes dont deux pour viols, cet homme n'a jamais été entendu par la justice malgré des signalements remontant à l'été 2019. Son corps a été découvert le 20 juillet.",
+      "title": "Des chercheurs américains retrouvent deux voitures dans l'Adour",
+      "full": "Deux passionnés américains, spécialisés dans la recherche de cold cases, ont découvert deux véhicules contenant des ossements dans le fleuve Adour, en Pays basque, en seulement deux jours. Équipés d'un sonar, ces civils ont pu localiser les épaves là où les enquêteurs locaux n'avaient pas cherché. Les ossements pourraient éclaircir deux disparitions remontant à près de dix ans.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "L'association met l'accent sur l'absence totale de suivi judiciaire en France depuis plus de quatre ans malgré les plaintes déposées.",
-          "url": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/affaire-epstein-l-association-innocence-en-danger-assigne-l-etat-francais-pour-deni-de-justice-apres-la-mort-du-rabatteur-presume-du-pedocriminel_8119124.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "La presse étrangère souligne que l'affaire Epstein continue de produire des ramifications juridiques en France avec la disparition d'un suspect clé.",
-          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-mort-du-rabatteur-presume-daniel-siad-l-affaire-epstein-continue-de-faire-des-vagues-en-france_252146"
+          "take": "Des civils américains munis d'équipements de sonar parviennent à retrouver des éléments que les forces de l'ordre n'avaient pas découverts dans le cadre d'enquêtes anciennes.",
+          "url": "https://www.franceinfo.fr/faits-divers/on-voit-des-choses-que-les-forces-de-l-ordre-peuvent-avoir-ratees-comment-deux-americains-ont-retrouve-les-corps-de-deux-disparus-francais_8119784.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 29,
@@ -730,20 +741,15 @@
     },
     {
       "themes": [
-        "Culture"
+        "Insolite"
       ],
-      "title": "Elon Musk annonce sa propre version de L'Odyssée générée par l'IA",
-      "full": "Alors que le film L'Odyssée de Christopher Nolan connaît un succès commercial mondial, Elon Musk a annoncé la production d'une adaptation par intelligence artificielle du poème d'Homère. Le milliardaire affirme que sa version serait plus fidèle au texte original que celle du réalisateur.",
+      "title": "Les monstres de l'Odyssée auraient des origines scientifiques",
+      "full": "Des chercheurs proposent une relecture scientifique de l'Odyssée d'Homère selon laquelle plusieurs créatures mythiques et événements célèbres pourraient s'inspirer de phénomènes réels. Cette approche offre des explications naturelles aux aventures surnaturelles du poème épique grec, questionnant la frontière entre mythologie et faits observables.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Musk critique le film de Nolan et propose une alternative cinématographique générée par IA qu'il juge plus conforme à l'épopée homérique.",
-          "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/apres-avoir-attaque-le-film-de-christopher-nolan-elon-musk-veut-produire-sa-propre-version-de-l-odyssee-avec-l-ia_8090762.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "L'adaptation de Nolan s'inspire du poème épique et intègre des concepts de la Grèce antique comme la xenia, incarnée par la loi de Zeus.",
-          "url": "https://www.20minutes.fr/arts-stars/culture/4235746-20260723-odyssee-christopher-nolan-quoi-loi-zeus-ur-film?at_medium=display&at_campaign=149"
+          "outlet": "Slate",
+          "take": "Une analyse scientifique décode les éléments merveilleux de l'Odyssée en y trouvant des racines ancrées dans la réalité physique et naturelle.",
+          "url": "https://www.slate.fr/monde/odyssee-homer-grece-antique-antiquite-histoire-faits-scientifiques-ulysse-tempete-fiction-drogue-explication"
         }
       ],
       "id": 30,
@@ -751,21 +757,15 @@
     },
     {
       "themes": [
-        "Santé",
-        "Environnement"
+        "Insolite"
       ],
-      "title": "La canicule de juin provoque un bilan mortel record en France",
-      "full": "La canicule qui a traversé la France du 17 juin au 2 juillet a entraîné une surmortalité exceptionnelle de 36 %, avec 5 764 décès supplémentaires enregistrés, selon Santé publique France. Il s'agit du bilan le plus lourd depuis 2003, l'Île-de-France étant particulièrement touchée. Ces chiffres, encore provisoires, soulèvent des questions sur l'adaptation du pays face aux phénomènes météorologiques extrêmes liés au changement climatique.",
+      "title": "Une araignée australienne court plus vite qu'un joggeur",
+      "full": "Des scientifiques ont classé plusieurs centaines d'espèces d'araignées selon leur vitesse de course. La chasseuse brune australienne remporte le titre, atteignant 13 km/h, soit une allure supérieure à celle d'un joggeur moyen.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Insiste sur le caractère inédit de cette surmortalité depuis plus de 20 ans et sur la vulnérabilité accrue de la région parisienne.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-de-juin-jamais-depuis-2003-la-france-n-avait-enregistre-autant-de-deces-lies-a-la-chaleur_8118941.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Sciences et Avenir",
-          "take": "Souligne que l'évaluation du bilan reste complexe et provisoire, tout en notant que le débat politique s'empare déjà de ces données.",
-          "url": "https://www.sciencesetavenir.fr/sante/canicule-de-juin-une-surmortalite-record-depuis-2003-marquee-aussi-chez-les-jeunes_193897?xtor=RSS-16"
+          "outlet": "Slate",
+          "take": "L'étude comparative de centaines d'araignées révèle que la chasseuse brune dépasse les performances de coureurs humains ordinaires.",
+          "url": "https://www.slate.fr/sciences/araignee-vitesse-rapidite-joggeur-australie-evolution-course-animal"
         }
       ],
       "id": 31,
@@ -773,20 +773,15 @@
     },
     {
       "themes": [
-        "Monde"
+        "Insolite"
       ],
-      "title": "Les États-Unis autorisent un programme nucléaire civil saoudien",
-      "full": "Washington a conclu mercredi un accord avec l'Arabie saoudite pour développer un programme nucléaire civil. Selon des médias américains, cet accord dérogerait aux inspections internationales renforcées habituellement exigées. Le président américain a affirmé que le partenariat serait conditionné à une normalisation des relations entre Riyad et Israël, bien que des sources indiquent que ce lien n'aurait pas été imposé en pratique. L'accord suscite des critiques d'élus démocrates américains et de responsables israéliens.",
+      "title": "Un policier américain extrait un conducteur d'une voiture en feu",
+      "full": "Aux États-Unis, un agent de police a extrait in extremis un automobiliste piégé dans son véhicule en proie aux flammes. L'intervention, capturée en vidéo, montre le sauvetage spectaculaire réalisé en quelques secondes avant que l'incendie ne se propage davantage.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Le partenariat nucléaire s'accompagne d'enjeux commerciaux et suscite des inquiétudes, notamment liées à sa conditionnalité affichée avec la normalisation israélo-saoudienne.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/23/etats-unis-arabie-saoudite-derriere-l-accord-sur-le-nucleaire-civil-des-enjeux-commerciaux-et-des-inquietudes_6730627_3210.html"
-        },
-        {
-          "outlet": "France 24",
-          "take": "L'accord représenterait une victoire diplomatique pour le prince héritier saoudien, en contournant les standards d'inspection internationaux généralement requis sans engagement clair de rapprochement avec Israël.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260723-feu-vert-am%C3%A9ricain-au-nucl%C3%A9aire-civil-saoudien-une-victoire-sign%C3%A9e-mbs"
+          "outlet": "20 Minutes",
+          "take": "Valorise l'acte de bravoure du policier et met en avant le caractère dramatique et impressionnant des images du sauvetage.",
+          "url": "https://www.20minutes.fr/monde/etats-unis/4236025-20260723-etats-unis-images-impressionnantes-policier-sauvant-conducteur-piege-voiture-flammes?at_medium=display&at_campaign=149"
         }
       ],
       "id": 32,
@@ -794,68 +789,19 @@
     },
     {
       "themes": [
-        "Insolite",
-        "Société"
+        "Insolite"
       ],
-      "title": "Des passionnés américains découvrent deux voitures dans l'Adour",
-      "full": "Deux civils américains équipés d'un sonar ont retrouvé deux véhicules immergés en deux jours dans l'Adour, en Pays basque. Ces découvertes contiennent des ossements et pourraient clarifier deux disparitions remontant à près de dix ans. Les deux hommes, spécialisés dans la recherche de cold cases au fond des cours d'eau, ont détecté des indices que les forces de l'ordre n'avaient pas localisés.",
+      "title": "Tour de France 2026 : un chien crée l'incident sur la route",
+      "full": "Un chien en liberté a traversé la chaussée devant un coureur lors de l'étape Évian-les-Bains / Thonon-les-Bains mardi, manquant de peu de provoquer une chute. L'organisation du Tour de France a appelé les spectateurs propriétaires de chiens à les tenir en laisse, craignant un accident plus grave.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Souligne que ces amateurs dotés de technologies de détection ont vu des éléments que les autorités avaient pu laisser échapper, révélant les limites des recherches précédentes.",
-          "url": "https://www.franceinfo.fr/faits-divers/on-voit-des-choses-que-les-forces-de-l-ordre-peuvent-avoir-ratees-comment-deux-americains-ont-retrouve-les-corps-de-deux-disparus-francais_8119784.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "20 Minutes",
+          "take": "L'incident met en lumière un risque sur les routes accueillant le passage de la course et pousse l'organisation à rappeler les consignes de sécurité aux spectateurs.",
+          "url": "https://www.20minutes.fr/arts-stars/insolite/4235968-20260723-tour-france-2026-accident-evite-peu-direction-recadre-spectateurs-proprietaires-chiens?at_medium=display&at_campaign=149"
         }
       ],
       "id": 33,
       "priority": 34
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Les monstres de l'Odyssée auraient des origines scientifiques",
-      "full": "Des chercheurs proposent une relecture scientifique de l'Odyssée d'Homère, suggérant que plusieurs créatures mythiques et événements du récit grec pourraient s'inspirer de phénomènes naturels bien réels. Cette approche offre des explications rationnelles à des éléments de la mythologie antique longtemps considérés comme purement fantastiques.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "L'étude met en avant comment des phénomènes concrets du monde antique pourraient avoir inspiré les monstres et aventures décrits dans l'épopée homérique.",
-          "url": "https://www.slate.fr/monde/odyssee-homer-grece-antique-antiquite-histoire-faits-scientifiques-ulysse-tempete-fiction-drogue-explication"
-        }
-      ],
-      "id": 34,
-      "priority": 35
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Une araignée australienne court plus vite qu'un joggeur",
-      "full": "Des chercheurs ont classé des centaines d'espèces d'araignées selon leur vitesse de course. La chasseuse brune australienne établit un record avec une vélocité atteignant 13 km/h, dépassant ainsi les performances d'un joggeur moyen.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "Une étude comparative de centaines d'espèces place la chasseuse brune au sommet du classement de vitesse parmi les araignées.",
-          "url": "https://www.slate.fr/sciences/araignee-vitesse-rapidite-joggeur-australie-evolution-course-animal"
-        }
-      ],
-      "id": 35,
-      "priority": 36
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "États-Unis: un policier sauve un conducteur d'une voiture en flammes",
-      "full": "Un agent de police américain a extrait un automobiliste piégé dans son véhicule en feu, juste avant que les flammes ne se propagent davantage. L'intervention, capturée en images, montre l'urgence de la situation et le sang-froid du policier face au danger.",
-      "angles": [
-        {
-          "outlet": "20 Minutes",
-          "take": "Met en avant les images spectaculaires de l'intervention et le caractère in extremis du sauvetage.",
-          "url": "https://www.20minutes.fr/monde/etats-unis/4236025-20260723-etats-unis-images-impressionnantes-policier-sauvant-conducteur-piege-voiture-flammes?at_medium=display&at_campaign=149"
-        }
-      ],
-      "id": 36,
-      "priority": 37
     }
   ]
 }
