@@ -1,33 +1,33 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-07-25T04:02:16.839262+00:00
+// 2026-07-25T06:11:28.835849+00:00
 const ARTICLES = [
   {
     "themes": [
       "Environnement",
-      "Monde"
+      "France"
     ],
-    "title": "Incendies ravageurs en France et en Espagne, aide européenne mobilisée",
-    "full": "Des feux de forêt dévastateurs touchent le sud-ouest français et l'Espagne. En Gironde, environ 14 000 hectares ont été détruits et 110 000 personnes évacuées, le feu progressant vers Bordeaux. Emmanuel Macron a demandé aux armées de renforcer la sécurité civile. Le Mécanisme européen de protection civile a déployé des moyens aériens, dont deux Canadair et des hélicoptères. En Espagne, l'incendie près de Madrid a endommagé un centre stratégique de la Nasa, dont les opérations ont été basculées vers la Californie.",
+    "title": "Incendies ravageurs en France et en Espagne, mobilisation renforcée",
+    "full": "Des feux de forêt d'une ampleur exceptionnelle dévastent le Sud-Ouest français et l'Espagne. En Gironde et dans les Landes, environ 14 000 hectares ont brûlé, 110 000 personnes ont été évacuées et les flammes progressent vers Bordeaux. Emmanuel Macron a demandé aux armées de se mobiliser en renfort de la sécurité civile, tandis que l'Union européenne déploie des moyens aériens: deux Canadair, deux avions et deux hélicoptères complètent les efforts français. En Espagne, l'incendie de Madrid est qualifié d'impossible à éteindre et a endommagé un site de communication majeur de la Nasa.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Emmanuel Macron mobilise l'armée en renfort face à l'aggravation de la situation dans le Sud-Ouest.",
+        "take": "Macron mobilise l'armée pour renforcer les moyens de la sécurité civile face à la dégradation rapide de la situation.",
         "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/emmanuel-macron-demande-aux-armees-de-se-mobiliser-contre-les-feux-dans-le-sud-ouest_8121299.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Libération",
-        "take": "L'Union européenne déploie des renforts aériens via son mécanisme de protection civile, malgré les défis de gestion simultanée de plusieurs foyers.",
+        "take": "Le Mécanisme de protection civile européen, créé en 2001, déploie des renforts aériens, mais le vrai défi demeure la gestion simultanée de multiples foyers.",
         "url": "https://www.liberation.fr/international/europe/incendies-en-europe-malgre-le-mecanisme-de-protection-civile-le-vrai-defi-reste-de-faire-face-a-la-simultaneite-des-feux-20260724_W3OUIQ2NWVG6JCD72DCB5WOLAY/"
       },
       {
         "outlet": "20 Minutes",
-        "take": "Un incendie près de Madrid a détruit un site majeur de communication de la Nasa implanté en Espagne.",
+        "take": "Un centre stratégique de communication de la Nasa situé en Espagne a été détruit, ses opérations basculées vers la Californie.",
         "url": "https://www.20minutes.fr/monde/espagne/4236240-20260725-incendies-implante-espagne-site-majeur-communication-nasa-detruit-flammes?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "France 24",
-        "take": "L'incendie espagnol de la région de Madrid est décrit comme impossible à éteindre.",
-        "url": "https://www.france24.com/fr/france/20260724-feux-for%C3%AAts-en-direct-10-000-hectares-ravag%C3%A9s-sud-ouest-cap-ferret-%C3%A9vacu%C3%A9"
+        "outlet": "Reporterre",
+        "take": "Les incendies girondins ramènent le traumatisme de l'été 2022, avec des milliers d'hectares forestiers ravagés et des communes évacuées.",
+        "url": "https://reporterre.net/Le-cap-Ferret-evacue-des-milliers-d-hectares-en-fumee-l-incendie-de-Gironde-rappelle-le"
       }
     ],
     "id": 0,
@@ -35,30 +35,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Économie"
     ],
-    "title": "Le procureur de la CPI Karim Khan relevé de ses fonctions",
-    "full": "L'Assemblée des États membres de la Cour pénale internationale a approuvé vendredi la destitution de son procureur général Karim Khan, accusé d'agression sexuelle par une collaboratrice. Le magistrat britannique de 56 ans conteste les accusations et a annoncé qu'il intenterait un recours contre cette décision. Cette révocation intervient alors que la CPI subit des pressions croissantes des États-Unis et d'Israël concernant ses enquêtes sur les crimes commis en territoires palestiniens.",
+    "title": "Trump menace l'UE de représailles après l'amende à Google",
+    "full": "L'Union européenne a infligé jeudi 890 millions d'euros d'amendes à Google pour pratiques anticoncurrentielles dans la recherche en ligne et son magasin d'applications. En réaction, Donald Trump a menacé vendredi l'UE de « très lourd prix » et annoncé de nouveaux droits de douane contre soixante pays, dont les membres de l'Union. Ces taxes de 10 % ont toutefois été jugées conformes à l'accord commercial de Turnberry par Bruxelles, qui les estime inférieures au plafond de 15 % convenu.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Le vote était initialement incertain, mais les États membres ont approuvé « assez largement » la destitution de l'ancien avocat britannique.",
-        "url": "https://www.liberation.fr/international/moyen-orient/accuse-dagression-sexuelle-le-procureur-general-de-la-cpi-karim-khan-est-releve-de-ses-fonctions-20260724_W4F6JRWA2JBP3LTT7HAYS24TAY/"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "Khan a été révoqué pour « faute grave » selon la procédure disciplinaire engagée contre lui.",
-        "url": "https://www.20minutes.fr/monde/4236227-20260725-cour-penale-internationale-procureur-karim-khan-releve-fonctions-faute-grave?at_medium=display&at_campaign=149"
-      },
-      {
         "outlet": "Le Monde",
-        "take": "La destitution se produit dans un contexte de tensions géopolitiques autour des enquêtes de la CPI sur les crimes en Palestine.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/24/karim-khan-procureur-general-de-la-cpi-demis-de-ses-fonctions-apres-des-accusations-d-agression-sexuelle_6731579_3210.html"
+        "take": "L'amende sanctionne les pratiques de Google favorisant systématiquement ses propres services au détriment de ses concurrents.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/24/amende-a-google-l-union-europeenne-va-payer-un-tres-lourd-prix-menace-donald-trump_6731543_3210.html"
       },
       {
-        "outlet": "France Info",
-        "take": "L'avocat de Khan a confirmé son intention de contester la décision de l'assemblée des 125 États membres.",
-        "url": "https://www.franceinfo.fr/societe/justice/le-procureur-de-la-cpi-karim-khan-vise-par-des-allegations-d-agression-sexuelle-releve-de-ses-fonctions_8121227.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Mediapart",
+        "take": "Trump poursuit sa stratégie de guerre commerciale en contournant les restrictions judiciaires américaines sur l'usage des droits de douane.",
+        "url": "https://www.mediapart.fr/journal/international/240726/donald-trump-poursuit-sa-guerre-commerciale-par-tous-les-moyens"
+      },
+      {
+        "outlet": "Le Figaro International",
+        "take": "Les nouvelles taxes ne correspondent pas aux résultats promis par Trump en matière de réduction du déficit commercial américain.",
+        "url": "https://www.lefigaro.fr/conjoncture/les-droits-de-douane-de-donald-trump-ont-ils-vraiment-permis-de-resorber-le-deficit-commercial-americain-20260724"
+      },
+      {
+        "outlet": "Libération",
+        "take": "L'Union européenne considère que le nouveau régime douanier respecte les termes de l'accord commercial transatlantique.",
+        "url": "https://www.liberation.fr/economie/nouveaux-droits-de-douane-americains-les-europeens-soulages-laccord-de-turnberry-respecte-20260724_PSREOORX4VE5FJZIW5GRV4T3OM/"
       }
     ],
     "id": 1,
@@ -66,35 +66,35 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Monde"
     ],
-    "title": "Pogacar remporte l'Alpe d'Huez et pulvérise le record de Pantani",
-    "full": "Tadej Pogacar a remporté la 19e étape du Tour de France 2026 à l'Alpe d'Huez vendredi 24 juillet. Le coureur slovène, porteur du maillot jaune, s'est imposé sans concurrence au sommet et a pulvérisé le record de l'ascension établi par Marco Pantani en 1995. L'épreuve s'est déroulée devant des centaines de milliers de spectateurs mobilisés sur les routes de la montagne. La 20e étape doit se disputer samedi, faisant de l'Alpe d'Huez un site unique avec deux arrivées consécutives au cours du même Tour.",
+    "title": "Le procureur de la CPI Karim Khan relevé de ses fonctions",
+    "full": "L'assemblée des États membres de la Cour pénale internationale a voté vendredi 24 juillet la révocation de Karim Khan, procureur général de la juridiction. Le magistrat britannique de 56 ans était accusé d'une relation sexuelle inappropriée avec une collaboratrice. Khan conteste les accusations et a annoncé son intention de contester cette décision. Cette révocation intervient dans un contexte de tensions croissantes entre la CPI et plusieurs États, notamment sur ses enquêtes au Moyen-Orient.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "La mobilisation exceptionnelle des spectateurs depuis la veille crée une ambiance historique pour cette première double ascension de l'Alpe d'Huez au Tour.",
-        "url": "https://www.franceinfo.fr/tour-de-france/une-ambiance-de-folie-a-l-alpe-d-huez_8120891.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "Pogacar domine la 19e étape tandis que Seixas concède du temps sur ses principaux rivaux.",
-        "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-2026-a-la-19e-etape-pogacar-ecrase-lalpe"
-      },
-      {
         "outlet": "Libération",
-        "take": "Le Slovène établit un nouveau record personnel de l'ascension au cours de cette victoire.",
-        "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-a-lalpe-dhuez-un-pogacar-insatiable-gagne-et-explose-le-record-de-lascension-20260724_GKZSFF2KHRAGZHHD4WPVXWV7HY/"
+        "take": "Le vote des États membres s'est déroulé vendredi et a approuvé « assez largement » la destitution de l'ex-avocat.",
+        "url": "https://www.liberation.fr/international/moyen-orient/accuse-dagression-sexuelle-le-procureur-general-de-la-cpi-karim-khan-est-releve-de-ses-fonctions-20260724_W4F6JRWA2JBP3LTT7HAYS24TAY/"
       },
       {
         "outlet": "20 Minutes",
-        "take": "Lenny Martinez termine deuxième devant Richard Carapaz, tandis que Seixas rencontre des difficultés.",
-        "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4236107-20260724-direct-tour-france-arrivee-royale-alpe-huez-seixas-espere-depasser-del-toro-suivez-19e-etape?at_medium=display&at_campaign=149"
+        "take": "La révocation a été prononcée pour « faute grave », le magistrat contestant les faits qui lui sont reprochés.",
+        "url": "https://www.20minutes.fr/monde/4236227-20260725-cour-penale-internationale-procureur-karim-khan-releve-fonctions-faute-grave?at_medium=display&at_campaign=149"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Cette décision risque de fragiliser la CPI, déjà confrontée aux pressions des États-Unis et d'Israël contre ses enquêtes palestiniennes.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/25/la-revocation-du-procureur-de-la-cpi-karim-khan-met-fin-a-une-longue-saga_6731788_3210.html"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Khan avait été accusé par l'une de ses anciennes collaboratrices et prévoit de contester la révocation.",
+        "url": "https://www.franceinfo.fr/societe/justice/le-procureur-de-la-cpi-karim-khan-vise-par-des-allegations-d-agression-sexuelle-releve-de-ses-fonctions_8121227.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "France 24",
-        "take": "Le record de Pogacar efface celui établi par Marco Pantani à l'époque du dopage systématique à l'EPO.",
-        "url": "https://www.france24.com/fr/sports/20260724-tour-de-france-tadej-pogcar-dompte-l-alpe-d-huez-en-battant-le-record-de-pantani"
+        "take": "Le procureur a toujours rejeté les allégations de harcèlement sexuel formulées à son encontre.",
+        "url": "https://www.france24.com/fr/europe/20260724-le-procureur-g%C3%A9n%C3%A9ral-de-la-cpi-karim-khan-d%C3%A9mis-de-ses-fonctions-selon-plusieurs-sources"
       }
     ],
     "id": 2,
@@ -102,30 +102,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Sport"
     ],
-    "title": "Crépol : la justice retient le racisme comme circonstance aggravante",
-    "full": "Dans l'affaire du meurtre de Thomas Perotto à Crépol en 2023, la juge d'instruction a ajouté en dernière minute une circonstance aggravante de racisme, alors que l'enquête était close. Cette qualification vise les faits commis en raison de l'appartenance des victimes « à la race blanche et la nation française ». L'ajout alourdit les peines encourues et relance les débats procéduraux. Cette décision ravive la controverse sur la notion de « racisme anti-Blancs », contestée par plusieurs observateurs et magistrats qui s'interrogent sur son opportunité.",
+    "title": "Pogacar remporte l'Alpe d'Huez et pulvérise le record de Pantani",
+    "full": "Tadej Pogacar a remporté la 19e étape du Tour de France 2026 à l'Alpe d'Huez vendredi 24 juillet. Le coureur slovène, en maillot jaune, s'est imposé nettement devant le Français Lenny Martinez et Richard Carapaz. À cette occasion, Pogacar a battu le record de l'ascension établi par Marco Pantani en 1995. Cette étape historique marque la première d'une ascension répétée du mythique sommet, puisque l'Alpe d'Huez sera à nouveau au programme le lendemain.",
     "angles": [
       {
-        "outlet": "Mediapart",
-        "take": "La notion de racisme anti-Blancs, retenue par la justice, est décrite comme venue de l'extrême droite et fait l'objet de vives contestations.",
-        "url": "https://www.mediapart.fr/journal/france/240726/affaire-crepol-la-tres-contestee-notion-de-racisme-anti-blancs-retenue-par-la-justice"
+        "outlet": "France Info",
+        "take": "Souligne l'ambiance exceptionnelle créée par les centaines de milliers de spectateurs rassemblés deux jours consécutifs au sommet.",
+        "url": "https://www.franceinfo.fr/tour-de-france/une-ambiance-de-folie-a-l-alpe-d-huez_8120891.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Le Monde",
-        "take": "La juge d'instruction a procédé à un revirement en ajoutant cette circonstance aggravante aux derniers moments de l'instruction.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/24/coup-de-theatre-dans-l-affaire-du-meurtre-de-thomas-perotto-a-crepol-la-justice-retient-in-extremis-la-circonstance-aggravante-de-racisme_6731528_3224.html"
+        "outlet": "L'Humanité",
+        "take": "Rapporte que Seixas a concédé du temps sur ses rivaux, notamment Del Toro, au classement général.",
+        "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-2026-a-la-19e-etape-pogacar-ecrase-lalpe"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "L'ajout de la circonstance de racisme alourdit les peines possibles et rouvre des batailles procédurales.",
-        "url": "https://www.20minutes.fr/faits_divers/4236159-20260724-mort-thomas-crepol-pourquoi-ajout-circonstance-racisme-fait-basculer-dossier?at_medium=display&at_campaign=149"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Bien que juridiquement correcte et ordinaire, cette circonstance aggravante suscite des interrogations chez plusieurs magistrats sur son bien-fondé.",
-        "url": "https://www.liberation.fr/societe/police-justice/racisme-envers-la-race-blanche-et-la-nation-francaise-retenue-dans-laffaire-de-crepol-une-circonstance-aggravante-qui-fait-debat-20260724_N3HUP26QVJB2JIL55RHHPZQ5XI/"
+        "outlet": "France 24",
+        "take": "Met l'accent sur le dépassement du record de Pantani datant d'une époque marquée par le dopage à l'EPO.",
+        "url": "https://www.france24.com/fr/sports/20260724-tour-de-france-tadej-pogcar-dompte-l-alpe-d-huez-en-battant-le-record-de-pantani"
       }
     ],
     "id": 3,
@@ -133,30 +128,26 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "France",
+      "Environnement"
     ],
-    "title": "Écologistes et LFI saisissent le Conseil constitutionnel sur la loi agricole",
-    "full": "Les députés écologistes et insoumis ont déposé un recours au Conseil constitutionnel contre plusieurs dispositions de la loi d'urgence agricole, adoptée en juillet. Ils contestent notamment la réintroduction de l'acétamipride, un pesticide interdit, et l'augmentation des volumes de stockage d'eau pour l'agriculture. Les requérants arguent que ces mesures violent la Charte de l'environnement et constituent des cavaliers législatifs, dépourvus de lien direct avec l'objet initial du texte.",
+    "title": "Une quatrième vague de chaleur attendue en France dès lundi",
+    "full": "Après la fin de la troisième canicule, la plus longue jamais enregistrée, une nouvelle vague de fortes chaleurs devrait toucher la France à partir de la semaine prochaine. Selon La Chaîne Météo, cet épisode affecterait notamment le Sud-Ouest, les régions centrales et le Nord-Est, avec des températures pouvant atteindre 39 °C. Ce week-end sera d'abord marqué par des orages avant le retour du soleil et de la chaleur. Météo-France annonce des températures élevées sans confirmer formellement qu'il s'agira d'une quatrième canicule à proprement parler.",
     "angles": [
       {
+        "outlet": "Libération",
+        "take": "Signale que cette quatrième canicule succède directement à la troisième vague, la plus longue jamais relevée en France.",
+        "url": "https://www.liberation.fr/environnement/climat/de-fortes-chaleurs-attendues-en-france-des-la-semaine-prochaine-20260723_KWAAQGC3MVCZHB4BOUBVK67YZA/"
+      },
+      {
         "outlet": "Reporterre",
-        "take": "Appui sur la Charte de l'environnement pour contester le retour du pesticide interdit.",
-        "url": "https://reporterre.net/Loi-d-urgence-agricole-Ecolos-et-Insoumis-saisissent-le-Conseil-Constitutionnel"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Concentration du recours sur deux points : réintroduction de pesticides et doublement du stockage d'eau agricole.",
-        "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/loi-d-urgence-agricole-les-ecologistes-et-lfi-saisissent-le-conseil-constitutionnel_8120381.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Utilisation de l'argument du cavalier législatif pour demander la censure de dispositions sans lien avec le projet initial.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/24/loi-d-urgence-agricole-le-conseil-constitutionnel-saisi-par-des-deputes-insoumis-et-ecologistes_6731496_823448.html"
+        "take": "Précise la localisation géographique de la vague de chaleur et mentionne les températures attendues dès ce week-end.",
+        "url": "https://reporterre.net/La-quatrieme-canicule-de-l-ete-attendue-en-France"
       },
       {
         "outlet": "L'Humanité",
-        "take": "Mise en avant du non-respect de plusieurs dispositions constitutionnelles par le texte.",
-        "url": "https://www.humanite.fr/environnement/agriculture/loi-durgence-agricole-ecologistes-et-insoumis-deposent-un-recours-devant-le-conseil-constitutionnel"
+        "take": "Note que Météo-France annonce des fortes chaleurs sans pouvoir confirmer à ce stade qu'il s'agira formellement d'une canicule.",
+        "url": "https://www.humanite.fr/societe/canicule/vers-une-quatrieme-canicule-meteo-france-prevoit-le-retour-des-fortes-chaleurs-des-la-semaine-prochaine"
       }
     ],
     "id": 4,
@@ -164,20 +155,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Société"
     ],
-    "title": "Une bombe découverte en Irlande, la conductrice inculpée",
-    "full": "La police irlandaise a découvert un engin explosif dans un véhicule intercepté près de la frontière avec l'Irlande du Nord. La conductrice, âgée de 25 ans, a été inculpée et placée sous contrôle judiciaire. Un homme d'une quarantaine d'années a également été arrêté. Les enquêteurs soupçonnent la préparation d'une attaque.",
+    "title": "Crépol: la justice retient le racisme comme circonstance aggravante",
+    "full": "La juge d'instruction a ajouté, en fin d'enquête, une circonstance aggravante de racisme au dossier du meurtre de Thomas Perotto à Crépol en 2023, retenant que les faits auraient été commis en raison de l'appartenance des victimes à « la race blanche et la nation française ». Cette décision tardive, intervenue après la clôture de l'instruction, alourdit les peines encourues et relance le débat judiciaire. Elle ravive la controverse sur la notion de « racisme anti-Blancs », qualifiée par certains de concept importé de l'extrême droite, tandis que des magistrats s'interrogent sur son opportunité malgré sa conformité juridique.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Deux individus ont été interpellés suite à la découverte de cet engin explosif dans le véhicule.",
-        "url": "https://www.franceinfo.fr/monde/en-irlande-une-bombe-trouvee-par-la-police-dans-un-vehicule-la-conductrice-inculpee_8121254.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Mediapart",
+        "take": "Met l'accent sur le caractère inattendu du retournement et la critique de la notion de « racisme anti-Blancs », présentée comme un terme venant de l'extrême droite.",
+        "url": "https://www.mediapart.fr/journal/france/240726/affaire-crepol-la-tres-contestee-notion-de-racisme-anti-blancs-retenue-par-la-justice"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Souligne la formulation légale précise de la circonstance aggravante et son caractère dramaturgique de « coup de théâtre ».",
+        "url": "https://www.lemonde.fr/societe/article/2026/07/24/coup-de-theatre-dans-l-affaire-du-meurtre-de-thomas-perotto-a-crepol-la-justice-retient-in-extremis-la-circonstance-aggravante-de-racisme_6731528_3224.html"
       },
       {
         "outlet": "20 Minutes",
-        "take": "Les autorités considèrent cette affaire comme potentiellement liée à un projet d'attaque.",
-        "url": "https://www.20minutes.fr/monde/4236224-20260724-irlande-femme-inculpee-apres-decouverte-bombe-voiture?at_medium=display&at_campaign=149"
+        "take": "Insiste sur les conséquences procédurales de cet ajout, notamment l'alourdissement des peines et la relance du dossier.",
+        "url": "https://www.20minutes.fr/faits_divers/4236159-20260724-mort-thomas-crepol-pourquoi-ajout-circonstance-racisme-fait-basculer-dossier?at_medium=display&at_campaign=149"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Rappelle que la circonstance est légalement fondée tout en signalant les réserves de magistrats sur son bien-fondé.",
+        "url": "https://www.liberation.fr/societe/police-justice/racisme-envers-la-race-blanche-et-la-nation-francaise-retenue-dans-laffaire-de-crepol-une-circonstance-aggravante-qui-fait-debat-20260724_N3HUP26QVJB2JIL55RHHPZQ5XI/"
       }
     ],
     "id": 5,
@@ -185,20 +186,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie"
+      "France"
     ],
-    "title": "La BCE consulte les citoyens sur le design des nouveaux billets euros",
-    "full": "La Banque centrale européenne lance un sondage en ligne pour permettre aux Européens de choisir le graphisme des futurs billets de 5 à 200 euros. La consultation, ouverte jusqu'au 21 septembre, porte sur les motifs des coupures qui circuleront à partir de 2030. Les options proposées incluent des personnalités européennes célèbres, des oiseaux et des bâtiments des institutions de l'UE.",
+    "title": "Loi d'urgence agricole contestée au Conseil constitutionnel",
+    "full": "Les groupes parlementaires écologiste et La France insoumise ont saisi le Conseil constitutionnel vendredi 24 juillet pour contester plusieurs articles de la loi d'urgence agricole adoptée récemment. Ils s'opposent particulièrement à la réintroduction de l'acétamipride, un pesticide interdit, ainsi qu'au doublement des volumes de stockage d'eau pour l'agriculture. Les requérants arguent que ces mesures constituent des cavaliers législatifs dépourvus de lien avec l'objet initial du texte et violeraient la Charte de l'environnement.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "La BCE ouvre une consultation publique en ligne pour associer les citoyens au choix du graphisme des futurs billets.",
-        "url": "https://www.franceinfo.fr/economie/la-banque-centrale-europeenne-lance-un-sondage-en-ligne-pour-choisir-le-graphisme-des-prochains-billets-de-banque-en-euros_8120990.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Reporterre",
+        "take": "Met l'accent sur la contestation de l'acétamipride spécifiquement et l'invocation de la Charte de l'environnement comme fondement juridique.",
+        "url": "https://reporterre.net/Loi-d-urgence-agricole-Ecolos-et-Insoumis-saisissent-le-Conseil-Constitutionnel"
       },
       {
-        "outlet": "Libération",
-        "take": "Le sondage propose trois thèmes distincts : personnalités, faune et patrimoine institutionnel européen, pour une mise en circulation en 2030.",
-        "url": "https://www.liberation.fr/economie/les-billets-de-5-a-200-euros-font-peau-neuve-la-bce-lance-une-consultation-pour-choisir-leur-nouveau-look-20260724_XPMUCA3FU5ABFMJ3G43WSQ4CDM/"
+        "outlet": "France Info",
+        "take": "Énumère les deux principaux griefs : la réintroduction de pesticides et le doublement des capacités de stockage d'eau agricole.",
+        "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/loi-d-urgence-agricole-les-ecologistes-et-lfi-saisissent-le-conseil-constitutionnel_8120381.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Souligne l'argument juridique des requérants fondé sur le caractère de cavalier législatif de ces dispositions.",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/24/loi-d-urgence-agricole-le-conseil-constitutionnel-saisi-par-des-deputes-insoumis-et-ecologistes_6731496_823448.html"
       }
     ],
     "id": 6,
@@ -206,21 +212,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde",
-      "Environnement"
+      "Monde"
     ],
-    "title": "Tunisie: canicule extrême et coupures d'électricité simultanées",
-    "full": "La Tunisie subit depuis deux semaines une canicule intense avec des températures approchant 50 degrés Celsius, particulièrement au centre du pays. Face à la surcharge du réseau électrique causée par la demande accrue en climatisation, la société nationale de l'électricité et du gaz procède à des coupures de courant répétées pour éviter un blackout généralisé. Cette combinaison laisse la population exaspérée, privée de climatisation au cœur de la vague de chaleur.",
+    "title": "Une bombe découverte en Irlande, la conductrice inculpée",
+    "full": "La police irlandaise a découvert un engin explosif dans un véhicule intercepté près de la frontière avec l'Irlande du Nord. La conductrice, âgée de 25 ans, a été inculpée et placée sous contrôle judiciaire. Un homme d'une quarantaine d'années a également été interpellé. Les enquêteurs soupçonnent un projet d'attaque.",
     "angles": [
       {
-        "outlet": "L'Humanité",
-        "take": "Met l'accent sur la situation critique où les coupures d'électricité multipliées aggravent le malaise de la population face à la canicule suffocante.",
-        "url": "https://www.humanite.fr/environnement/coupures-delectricite/canicule-en-tunisie-prive-delectricite-le-pays-suffoque-a-49c"
+        "outlet": "France Info",
+        "take": "Relate l'interpellation de la conductrice et d'un homme, avec placement sous contrôle judiciaire de la femme.",
+        "url": "https://www.franceinfo.fr/monde/en-irlande-une-bombe-trouvee-par-la-police-dans-un-vehicule-la-conductrice-inculpee_8121254.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "Courrier International",
-        "take": "Souligne l'argument invoqué par le gestionnaire du réseau (surconsommation de climatisation) et critique une forme de désengagement de l'État face à la crise.",
-        "url": "https://www.courrierinternational.com/article/politique-en-tunisie-une-canicule-et-des-coupures-de-courant-en-serie-l-etat-s-en-lave-les-mains_252552"
+        "outlet": "20 Minutes",
+        "take": "Souligne que les enquêteurs soupçonnent un projet d'attaque derrière cette découverte.",
+        "url": "https://www.20minutes.fr/monde/4236224-20260724-irlande-femme-inculpee-apres-decouverte-bombe-voiture?at_medium=display&at_campaign=149"
       }
     ],
     "id": 7,
@@ -228,20 +233,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Économie"
     ],
-    "title": "Mark van Bommel nommé sélectionneur de la Belgique",
-    "full": "Mark van Bommel, ancien milieu de terrain néerlandais de 49 ans, a été nommé sélectionneur de l'équipe masculine belge de football. Il succède à Rudi Garcia, dont le contrat n'a pas été prolongé malgré l'atteinte des objectifs fixés.",
+    "title": "La BCE consulte les citoyens sur le design des nouveaux billets en euros",
+    "full": "La Banque centrale européenne lance un sondage en ligne pour permettre aux citoyens européens de choisir le graphisme des futurs billets de 5 à 200 euros. La consultation est ouverte jusqu'au 21 septembre. Les nouveaux billets, dont le design intégrera des personnalités européennes célèbres, des oiseaux et des bâtiments des institutions de l'UE, entreront en circulation en 2030.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Confirme la nomination officielle de van Bommel à la tête des Diables Rouges après le départ du Français García.",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/le-neerlandais-mark-van-bommel-nomme-selectionneur-de-la-belgique-apres-le-depart-du-francais-rudi-garcia_8120786.html#xtor=RSS-3-[lestitres]"
+        "take": "La BCE ouvre une consultation publique en ligne pour associer les citoyens au choix esthétique des futurs billets.",
+        "url": "https://www.franceinfo.fr/economie/la-banque-centrale-europeenne-lance-un-sondage-en-ligne-pour-choisir-le-graphisme-des-prochains-billets-de-banque-en-euros_8120990.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Le Monde",
-        "take": "Souligne que la non-prolongation de Garcia a surpris certains observateurs, bien qu'il ait rempli ses objectifs.",
-        "url": "https://www.lemonde.fr/sport/article/2026/07/24/mark-van-bommel-nomme-a-la-tete-de-la-selection-masculine-belge-de-football-apres-rudi-garcia_6731509_3242.html"
+        "outlet": "Libération",
+        "take": "Le projet de redesign inclut des thèmes emblématiques comme les personnalités marquantes, la faune et l'architecture institutionnelle européenne.",
+        "url": "https://www.liberation.fr/economie/les-billets-de-5-a-200-euros-font-peau-neuve-la-bce-lance-une-consultation-pour-choisir-leur-nouveau-look-20260724_XPMUCA3FU5ABFMJ3G43WSQ4CDM/"
       }
     ],
     "id": 8,
@@ -249,20 +254,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Sport"
     ],
-    "title": "The Strokes reviennent avec « Reality Awaits »",
-    "full": "Le groupe new-yorkais publie vendredi son septième album, intitulé « Reality Awaits ». France Info y voit une démarche politique marquée par des expérimentations musicales, tandis que Le Monde juge l'album dominé par l'Auto-Tune et les effets synthétiques, saluant toutefois quelques titres convaincants.",
+    "title": "Mark van Bommel nommé sélectionneur de la Belgique",
+    "full": "Le Néerlandais Mark van Bommel, ancien milieu de terrain international, a été confirmé vendredi à la tête de la sélection belge de football. Il succède au Français Rudi Garcia, dont le contrat n'a pas été prolongé malgré l'atteinte des objectifs fixés.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Le groupe propose un album explorant des sonorités plus apocalyptiques, porté par des revendications politiques marquées.",
-        "url": "https://www.franceinfo.fr/culture/musique/les-strokes-signent-un-retour-fracassant-avec-reality-awaits-une-exploration-postmoderne-d-une-musique-toujours-plus-apocalyptique-et-profonde_8119562.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "La nomination de van Bommel intervient après le départ de Rudi Garcia et officialise le changement à la tête des Diables Rouges.",
+        "url": "https://www.franceinfo.fr/coupe-du-monde/le-neerlandais-mark-van-bommel-nomme-selectionneur-de-la-belgique-apres-le-depart-du-francais-rudi-garcia_8120786.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Le Monde",
-        "take": "L'album s'appuie massivement sur des effets synthétiques et l'Auto-Tune, au détriment d'une certaine authenticité malgré quelques bons titres.",
-        "url": "https://www.lemonde.fr/culture/article/2026/07/24/avec-l-album-reality-awaits-the-strokes-se-perdent-dans-un-ocean-d-auto-tune_6731503_3246.html"
+        "take": "Le non-renouvellement du contrat de Garcia, pourtant auteur de résultats conformes aux attentes, a suscité la surprise parmi les observateurs.",
+        "url": "https://www.lemonde.fr/sport/article/2026/07/24/mark-van-bommel-nomme-a-la-tete-de-la-selection-masculine-belge-de-football-apres-rudi-garcia_6731509_3242.html"
       }
     ],
     "id": 9,
@@ -270,20 +275,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences"
+      "Économie"
     ],
-    "title": "Le PlayStation Network victime d'une panne mondiale",
-    "full": "Le service en ligne du PlayStation Network a connu une défaillance majeure le 24 juillet, empêchant des milliers d'utilisateurs d'accéder aux fonctionnalités multijoueur de leurs consoles PS4 et PS5. Les signalements se sont multipliés sur les réseaux sociaux au cours de la journée. Sony n'avait pas communiqué de calendrier de rétablissement au moment de la rédaction.",
+    "title": "Gibert envisage de supprimer 84 postes sur 500 d'ici fin 2026",
+    "full": "La chaîne de librairies Gibert, premier libraire indépendant de France avec seize magasins, prévoit de réduire ses effectifs de 84 postes sur 500 au second semestre 2026. Cette restructuration intervient après le placement de l'entreprise en redressement judiciaire, approuvé par le tribunal des affaires économiques de Paris fin avril.",
     "angles": [
       {
-        "outlet": "Le Figaro Éco",
-        "take": "La panne affecte l'ensemble des services en ligne associés aux consoles PlayStation.",
-        "url": "https://www.lefigaro.fr/secteur/high-tech/jeux-video-le-playstation-network-connait-une-panne-mondiale-ce-vendredi-20260724"
+        "outlet": "France Info",
+        "take": "Insiste sur le calendrier de la suppression de postes, prévue pour le second semestre 2026.",
+        "url": "https://www.franceinfo.fr/culture/livres/la-direction-des-librairies-gibert-envisage-de-supprimer-84-postes-sur-500-au-cours-du-second-semestre-2026_8120699.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Numerama",
-        "take": "L'incident a paralysé l'accès à la plateforme pour un grand nombre de joueurs à l'échelle mondiale.",
-        "url": "https://www.numerama.com/pop-culture/2301263-playstation-network-est-en-panne-voici-ce-que-lon-sait.html"
+        "outlet": "Le Figaro Éco",
+        "take": "Précise que Gibert est le premier libraire indépendant de France et contextualise avec l'approbation judiciaire du redressement.",
+        "url": "https://www.lefigaro.fr/societes/les-librairies-gibert-envisagent-de-supprimer-84-postes-sur-500-au-cours-du-second-semestre-2026-20260724"
       }
     ],
     "id": 10,
@@ -291,20 +296,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Culture"
     ],
-    "title": "Autopsie de Daniel Siad : aucune trace de violences récentes",
-    "full": "L'autopsie de Daniel Siad, rabatteur présumé pour Jeffrey Epstein retrouvé mort à Colombes, n'a révélé aucune trace de violences récentes susceptible d'être liée au décès. Des analyses complémentaires, notamment toxicologiques et sur des tissus prélevés, ont été ordonnées pour compléter l'enquête. Siad était visé par plusieurs plaintes, dont pour viol.",
+    "title": "The Strokes de retour avec « Reality Awaits »",
+    "full": "Le groupe new-yorkais The Strokes sort son septième album « Reality Awaits » ce vendredi. Le projet marque un tournant musical pour la formation, qui explore de nouvelles directions sonores. Les critiques restent partagées : certains saluent une démarche politique et expérimentale, d'autres regrettent un recours excessif aux effets synthétiques.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Met l'accent sur l'absence de violences visibles détectées lors de l'autopsie du rabatteur.",
-        "url": "https://www.20minutes.fr/faits_divers/4236144-20260724-affaire-epstein-corps-daniel-siad-presente-traces-violentes-assure-autopsie?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "L'album représente le projet le plus politique des Strokes, combinant expérimentations musicales et revendications.",
+        "url": "https://www.franceinfo.fr/culture/musique/les-strokes-signent-un-retour-fracassant-avec-reality-awaits-une-exploration-postmoderne-d-une-musique-toujours-plus-apocalyptique-et-profonde_8119562.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Le Monde",
-        "take": "Souligne que des examens supplémentaires ont été demandés et rappelle les accusations visant Siad.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/24/mort-de-daniel-siad-pas-de-traces-de-violences-recentes-selon-l-autopsie_6731494_3210.html"
+        "take": "Le recours massif à l'Auto-Tune noie l'album dans des artifices synthétiques, malgré quelques bons morceaux.",
+        "url": "https://www.lemonde.fr/culture/article/2026/07/24/avec-l-album-reality-awaits-the-strokes-se-perdent-dans-un-ocean-d-auto-tune_6731503_3246.html"
       }
     ],
     "id": 11,
@@ -312,20 +317,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Tech & Sciences"
     ],
-    "title": "Trump conditionne l'accord nucléaire saoudien à la normalisation avec Israël",
-    "full": "Donald Trump a annoncé le 22 juillet un accord de coopération nucléaire civile entre les États-Unis et l'Arabie saoudite, tout en le soumettant à deux conditions majeures : l'interdiction d'enrichir des matières nucléaires et l'adhésion de Riyad aux accords d'Abraham, c'est-à-dire la normalisation des relations avec Israël. Cette soudaine conditionnalité intervient après 24 heures d'annonces contradictoires du président américain, jetant le doute sur la conclusion effective de ce projet négocié depuis plus d'un an.",
+    "title": "Le PlayStation Network victime d'une panne mondiale",
+    "full": "Le service en ligne de PlayStation a connu une défaillance majeure le 24 juillet, empêchant les utilisateurs de se connecter à leurs comptes PS4 et PS5. Des milliers de joueurs ont signalé leur incapacité à accéder aux fonctionnalités en ligne de la plateforme, selon les remontées observées sur les réseaux sociaux.",
     "angles": [
       {
-        "outlet": "Courrier International",
-        "take": "L'exigence d'adhésion aux accords d'Abraham représente un obstacle majeur à l'approbation de l'accord selon les observateurs régionaux.",
-        "url": "https://www.courrierinternational.com/article/vu-du-liban-nucleaire-civil-saoudien-le-cadeau-sous-conditions-de-donald-trump_252499"
+        "outlet": "Le Figaro Éco",
+        "take": "La panne affecte le service permettant d'accéder à l'ensemble des fonctionnalités en ligne des consoles Sony.",
+        "url": "https://www.lefigaro.fr/secteur/high-tech/jeux-video-le-playstation-network-connait-une-panne-mondiale-ce-vendredi-20260724"
       },
       {
-        "outlet": "Libération",
-        "take": "Trump a radicalement changé de position en moins de 24 heures, d'abord approuvant puis conditionnant l'enrichissement d'uranium pour l'Arabie saoudite.",
-        "url": "https://www.liberation.fr/international/amerique/nucleaire-saoudien-la-soudaine-volte-face-de-donald-trump-20260724_ROHLW5IZ3JEQVEIKNCHXE3DDJI/"
+        "outlet": "Numerama",
+        "take": "L'incident s'est déroulé le 24 juillet avec une ampleur suffisante pour mobiliser des milliers de joueurs simultanément.",
+        "url": "https://www.numerama.com/pop-culture/2301263-playstation-network-est-en-panne-voici-ce-que-lon-sait.html"
       }
     ],
     "id": 12,
@@ -335,18 +340,18 @@ const ARTICLES = [
     "themes": [
       "Sport"
     ],
-    "title": "Jürgen Klopp nommé sélectionneur de l'Allemagne",
-    "full": "Jürgen Klopp a été officiellement désigné entraîneur de la sélection allemande vendredi 24 juillet, avec un contrat courant jusqu'à la Coupe du monde 2030. L'ancien manager de Liverpool, qui a remporté plusieurs titres majeurs avec le club anglais, prend la tête d'une équipe allemande en difficulté depuis une décennie.",
+    "title": "Rugby: un avocat met en péril le procès de centaines d'ex-joueurs",
+    "full": "Des centaines d'anciens rugbymen anglais, gallois et écossais, victimes de commotions cérébrales, risquent de voir leur action en justice contre les instances de leur sport s'effondrer. Leur conseil a omis de transmettre à temps certains documents essentiels au dossier. Cette carence procédurale pourrait mener à un rejet de leur plainte avant même le jugement du fond.",
     "angles": [
       {
         "outlet": "Libération",
-        "take": "Klopp, qui a restauré la fierté de Liverpool, arrive avec l'ambition de ressusciter une sélection allemande apathique depuis dix ans.",
-        "url": "https://www.liberation.fr/sports/football/et-si-jurgen-klopp-etait-le-sauveur-du-foot-allemand-20260724_BCZ3DU6OSZCCNBNECPLLPFUFLY/"
+        "take": "L'erreur de transmission documentaire menace l'ensemble de l'action collective de plusieurs centaines de plaignants britanniques.",
+        "url": "https://www.liberation.fr/sports/rugby/rugby-apres-lerreur-de-leur-avocat-laction-en-justice-de-centaines-dex-joueurs-britanniques-victimes-de-commotion-menacee-20260724_DY7RLLA36RDDLF2PXGKSDLGRFQ/"
       },
       {
         "outlet": "France Info",
-        "take": "Sa nomination a été officialisée lors d'une conférence de presse après une carrière menée à Mayence, Dortmund et Liverpool.",
-        "url": "https://www.franceinfo.fr/sports/foot/football-jurgen-klopp-nomme-selectionneur-de-l-allemagne-jusqu-a-la-coupe-du-monde-2030_8120453.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Le manquement procédural du conseil pourrait avoir des conséquences financières et légales graves pour les victimes de commotions.",
+        "url": "https://www.franceinfo.fr/sports/rugby/rugby-l-erreur-d-un-avocat-pourrait-couter-cher-aux-victimes-de-commotions-cerebrales-dans-le-proces-qui-les-oppose-aux-instances-de-leur-sport_8120639.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 13,
@@ -354,16 +359,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite",
-      "Santé"
+      "Société"
     ],
-    "title": "Une femme victime d'un infarctus après le mariage de sa fille",
-    "full": "Une femme a souffert d'une crise cardiaque peu après le mariage de sa fille, victime du syndrome du cœur brisé provoqué non par une émotion négative, mais par une joie intense. Ce phénomène, appelé cardiomyopathie de Takotsubo, reste exceptionnel et peu connu du grand public. Bien que le syndrome du cœur brisé soit habituellement associé à un choc émotionnel douloureux, des cas d'infarctus déclenchés par une grande euphorie ont été documentés dans la littérature médicale.",
+    "title": "Autopsie de Daniel Siad : pas de traces de violences",
+    "full": "L'autopsie de Daniel Siad, rabatteur présumé pour le financier Jeffrey Epstein, retrouvé mort à Colombes, n'a révélé aucune trace de violences récentes susceptible d'expliquer le décès. Des analyses complémentaires, notamment toxicologiques et tissulaires, ont été commandées pour affiner les conclusions. Siad était visé par plusieurs plaintes pour crimes sexuels en lien avec les activités d'Epstein.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "Le syndrome du cœur brisé peut être provoqué par une émotion extrêmement positive, ce qui reste un phénomène médical rare et souvent ignoré.",
-        "url": "https://www.slate.fr/sante/immense-bonheur-briser-coeur-syndrome-mariage-femme-fille-infarctus-maladie-cardiaque-takotsubo"
+        "outlet": "20 Minutes",
+        "take": "Met l'accent sur l'absence de violences apparentes mise en avant par les résultats de l'autopsie.",
+        "url": "https://www.20minutes.fr/faits_divers/4236144-20260724-affaire-epstein-corps-daniel-siad-presente-traces-violentes-assure-autopsie?at_medium=display&at_campaign=149"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Souligne que d'autres examens (toxicologie, prélèvements tissulaires) restent en cours pour clarifier les circonstances.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/24/mort-de-daniel-siad-pas-de-traces-de-violences-recentes-selon-l-autopsie_6731494_3210.html"
       }
     ],
     "id": 14,
@@ -371,16 +380,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite",
+      "Tech & Sciences",
       "Société"
     ],
-    "title": "Des Américains retrouvent deux voitures dans l'Adour",
-    "full": "Quatre civils américains, spécialisés dans la recherche de cold cases, ont localisé deux véhicules immergés dans l'Adour, en Pays basque, en l'espace de deux jours. Les deux voitures contenaient des ossements, qui pourraient clarifier deux disparitions datant d'une dizaine d'années. Ces chercheurs utilisent le sonar pour sonder le fond des fleuves à la recherche de véhicules susceptibles de recéler des indices sur des affaires non résolues.",
+    "title": "France interdit les réseaux sociaux aux moins de 15 ans",
+    "full": "Le Parlement français a adopté mardi une loi interdisant l'accès aux réseaux sociaux pour les enfants de moins de 15 ans, entrée en application à partir de septembre. Selon un sondage, plus des deux tiers des jeunes âgés de 10 à 14 ans soutiennent cette mesure.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Quatre civils américains, ni policiers ni gendarmes, retrouvent deux véhicules dans un fleuve français grâce à un équipement de sonar, relançant l'enquête sur deux disparitions anciennes.",
-        "url": "https://www.franceinfo.fr/faits-divers/cold-cases-deux-affaires-resolues-par-des-americains_8120870.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "20 Minutes",
+        "take": "Met l'accent sur le soutien des jeunes eux-mêmes à cette interdiction selon un sondage.",
+        "url": "https://www.20minutes.fr/high-tech/by-the-web/4236099-20260724-reseaux-sociaux-moins-15-ans-plus-deux-tiers-10-14-ans-favorables-mesure-selon-sondage?at_medium=display&at_campaign=149"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Confirme le vote parlementaire et contextualise l'adoption de la loi par les deux chambres.",
+        "url": "https://www.lemonde.fr/pixels/live/2026/07/24/posez-vos-questions-sur-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans_6731466_4408996.html"
       }
     ],
     "id": 15,
@@ -390,13 +404,13 @@ const ARTICLES = [
     "themes": [
       "Insolite"
     ],
-    "title": "Lego et Nintendo lancent une borne d'arcade Donkey Kong à assembler",
-    "full": "Lego et Nintendo s'associent pour proposer une borne d'arcade Donkey Kong à construire soi-même. Ce nouveau produit permet aux fans de monter leur propre jeu vidéo culte en briques, combinant l'expérience de construction des jouets danois avec le classique du jeu vidéo des années 1980.",
+    "title": "L'« airport divorce », la tendance pour préserver l'harmonie en vacances",
+    "full": "Une tendance circule sur les réseaux sociaux : les couples se sépareraient volontairement à l'aéroport avant un voyage pour éviter les frictions du départ et se retrouver avec un regard neuf à destination. Cette pratique, baptisée « airport divorce », reposerait sur l'idée que le stress de l'aéroport et la fatigue du voyage sont sources de disputes. Selon ses partisans, cette « séparation » temporaire permettrait à chacun de voyager à son rythme et de se retrouver détendus au point de départ.",
     "angles": [
       {
         "outlet": "20 Minutes",
-        "take": "Lego et Nintendo unissent leurs forces pour ressusciter le titre emblématique avec une borne d'arcade interactive à assembler.",
-        "url": "https://www.20minutes.fr/arts-stars/insolite/4236165-20260724-lego-nintendo-font-revivre-donkey-kong-borne-arcade-construire?at_medium=display&at_campaign=149"
+        "take": "Questionne le bien-fondé de cette pratique en envisageant si la séparation à l'aéroport constitue vraiment une solution aux disputes de couple en vacances.",
+        "url": "https://www.20minutes.fr/tempo/4235719-20260725-airport-divorce-si-secret-eviter-disputes-vacances-commencait-aeroport?at_medium=display&at_campaign=149"
       }
     ],
     "id": 16,
@@ -404,15 +418,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Insolite",
+      "Santé"
     ],
-    "title": "Un ours grimpé sur un poteau électrique au Nouveau-Mexique",
-    "full": "Une automobiliste a filmé un ours juchéé en haut d'un poteau électrique longeant une autoroute au Nouveau-Mexique (États-Unis). Les services de secours, dépêchés sur place, n'ont pas pu intervenir pour l'aider à descendre. Les images de cette scène insolite ont été partagées en ligne.",
+    "title": "Une femme hospitalisée après une joie intense au mariage de sa fille",
+    "full": "Une femme a présenté les symptômes d'une crise cardiaque lors du mariage de sa fille, provoquée par une émotion positive extrême. Ce phénomène, appelé syndrome du cœur brisé (ou takotsubo), est généralement associé à un stress négatif ou un choc émotionnel. Son déclenchement par une immense joie reste exceptionnel et peu documenté dans la littérature médicale.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Met l'accent sur le caractère inaccoutumé de la scène filmée par une automobiliste et l'impuissance des secours.",
-        "url": "https://www.20minutes.fr/arts-stars/insolite/4236164-20260724-etats-unis-filme-ours-perche-poteau-electrique-bordure-autoroute?at_medium=display&at_campaign=149"
+        "outlet": "Slate",
+        "take": "L'article souligne que le syndrome du cœur brisé peut être provoqué par une émotion positive, ce qui contraste avec sa manifestation habituelle liée au stress ou au chagrin.",
+        "url": "https://www.slate.fr/sante/immense-bonheur-briser-coeur-syndrome-mariage-femme-fille-infarctus-maladie-cardiaque-takotsubo"
       }
     ],
     "id": 17,
@@ -421,18 +436,50 @@ const ARTICLES = [
   {
     "themes": [
       "Insolite",
-      "Monde"
+      "Société"
     ],
-    "title": "Giulia Tofana, empoisonneuse légendaire de l'Italie du XVIIe siècle",
-    "full": "Giulia Tofana aurait empoisonné des centaines d'hommes en Italie au XVIIe siècle, selon la légende. Pourtant, son nom ne figure dans aucun document judiciaire de l'époque. Des historiens ont récemment entrepris de démêler le vrai du faux concernant ce personnage énigmatique, dont la portée réelle des crimes reste largement méconnue.",
+    "title": "Quatre Américains retrouvent deux voitures dans l'Adour",
+    "full": "Quatre civils américains spécialisés dans la recherche de cold cases ont découvert deux véhicules immergés dans le fleuve Adour, en Pays basque, en seulement deux jours. Les voitures contenaient des ossements pouvant éclaircir deux disparitions datant de près de dix ans. Équipés d'un sonar, ces enquêteurs bénévoles traquent des affaires non résolues en explorant les fonds des cours d'eau.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "Les historiens tentent de reconstituer la véritable histoire de Giulia Tofana au-delà de la légende, en l'absence de preuves judiciaires directes.",
-        "url": "https://www.slate.fr/monde/poison-empoisonneuse-meurtre-hommes-italie-renaissance-giulia-tofana-heroine-legende-femme-icone"
+        "outlet": "France Info",
+        "take": "Des civils américains équipés de sonar ont localisé en deux jours deux véhicules contenant des restes dans l'Adour, potentiellement liés à des disparitions anciennes.",
+        "url": "https://www.franceinfo.fr/faits-divers/cold-cases-deux-affaires-resolues-par-des-americains_8120870.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 18,
     "priority": 19
+  },
+  {
+    "themes": [
+      "Insolite"
+    ],
+    "title": "Lego et Nintendo créent une borne d'arcade Donkey Kong à assembler",
+    "full": "Lego et Nintendo s'associent pour proposer une borne d'arcade Donkey Kong fonctionnelle à construire soi-même. Ce produit permet aux amateurs du jeu culte des années 1980 de revivre l'expérience de jeu classique en assemblant les briques de la célèbre marque danoise. L'initiative conjugue la nostalgie vidéoludique et le plaisir de la construction Lego.",
+    "angles": [
+      {
+        "outlet": "20 Minutes",
+        "take": "La borne d'arcade Lego-Nintendo offre une expérience de jeu reconstituée du classique Donkey Kong aux collectionneurs et passionnés de rétro-gaming.",
+        "url": "https://www.20minutes.fr/arts-stars/insolite/4236165-20260724-lego-nintendo-font-revivre-donkey-kong-borne-arcade-construire?at_medium=display&at_campaign=149"
+      }
+    ],
+    "id": 19,
+    "priority": 20
+  },
+  {
+    "themes": [
+      "Insolite"
+    ],
+    "title": "Un ours repéré au sommet d'un poteau électrique au Nouveau-Mexique",
+    "full": "Une automobiliste a filmé un ours perché en haut d'un poteau électrique le long d'une autoroute du Nouveau-Mexique. Les secours alertés n'ont pas pu intervenir pour secourir l'animal.",
+    "angles": [
+      {
+        "outlet": "20 Minutes",
+        "take": "Valorise l'aspect insolite de la scène et l'impuissance des secours face à cette situation inédite.",
+        "url": "https://www.20minutes.fr/arts-stars/insolite/4236164-20260724-etats-unis-filme-ours-perche-poteau-electrique-bordure-autoroute?at_medium=display&at_campaign=149"
+      }
+    ],
+    "id": 20,
+    "priority": 21
   }
 ];
