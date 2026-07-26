@@ -1,33 +1,28 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-07-25T06:11:28.835849+00:00
+// 2026-07-26T04:01:56.484034+00:00
 const ARTICLES = [
   {
     "themes": [
-      "Environnement",
-      "France"
+      "France",
+      "Environnement"
     ],
-    "title": "Incendies ravageurs en France et en Espagne, mobilisation renforcée",
-    "full": "Des feux de forêt d'une ampleur exceptionnelle dévastent le Sud-Ouest français et l'Espagne. En Gironde et dans les Landes, environ 14 000 hectares ont brûlé, 110 000 personnes ont été évacuées et les flammes progressent vers Bordeaux. Emmanuel Macron a demandé aux armées de se mobiliser en renfort de la sécurité civile, tandis que l'Union européenne déploie des moyens aériens: deux Canadair, deux avions et deux hélicoptères complètent les efforts français. En Espagne, l'incendie de Madrid est qualifié d'impossible à éteindre et a endommagé un site de communication majeur de la Nasa.",
+    "title": "Incendies massifs en Gironde : 140 000 évacuées, Bordeaux menacée",
+    "full": "Un violent incendie déclenché jeudi près de Biscarrosse (Landes) a ravagé plus de 22 000 hectares et forcé l'évacuation de 140 000 personnes dans le Sud-Ouest, notamment autour de Bordeaux. Les flammes, attisées par des conditions météorologiques favorables, se sont propagées rapidement vendredi soir vers la métropole girondine, contraignant à l'évacuation préventive de sept communes incluant Saint-Médard-en-Jalles (33 000 habitants). Le gouvernement a mobilisé 500 militaires supplémentaires en renfort des quelque 250 pompiers déjà engagés, appuyés par des aéronefs (Dash, deux Canadair). Un phénomène météorologique inédit en France, le pyrocumulonimbus (orage de feu), a également été observé.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Macron mobilise l'armée pour renforcer les moyens de la sécurité civile face à la dégradation rapide de la situation.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/emmanuel-macron-demande-aux-armees-de-se-mobiliser-contre-les-feux-dans-le-sud-ouest_8121299.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "France 24",
+        "take": "Un incendie déclenché par un véhicule a parcouru 1 200 hectares en quelques heures près de Biscarrosse, entraînant l'évacuation de plus de 5 000 personnes.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260725-incendie-%C3%A0-biscarrosse-plus-de-5-000-personnes-%C3%A9vacu%C3%A9es-le-feu-ravage-1-200-hectares"
       },
       {
-        "outlet": "Libération",
-        "take": "Le Mécanisme de protection civile européen, créé en 2001, déploie des renforts aériens, mais le vrai défi demeure la gestion simultanée de multiples foyers.",
-        "url": "https://www.liberation.fr/international/europe/incendies-en-europe-malgre-le-mecanisme-de-protection-civile-le-vrai-defi-reste-de-faire-face-a-la-simultaneite-des-feux-20260724_W3OUIQ2NWVG6JCD72DCB5WOLAY/"
+        "outlet": "Courrier International",
+        "take": "La presse internationale souligne l'ampleur exceptionnelle de ce feu, l'un des plus importants d'une saison marquée par des incendies massifs en Europe.",
+        "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-feux-de-foret-des-evacuations-autour-de-bordeaux-un-combat-extenuant-contre-les-flammes_252684"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Un centre stratégique de communication de la Nasa situé en Espagne a été détruit, ses opérations basculées vers la Californie.",
-        "url": "https://www.20minutes.fr/monde/espagne/4236240-20260725-incendies-implante-espagne-site-majeur-communication-nasa-detruit-flammes?at_medium=display&at_campaign=149"
-      },
-      {
-        "outlet": "Reporterre",
-        "take": "Les incendies girondins ramènent le traumatisme de l'été 2022, avec des milliers d'hectares forestiers ravagés et des communes évacuées.",
-        "url": "https://reporterre.net/Le-cap-Ferret-evacue-des-milliers-d-hectares-en-fumee-l-incendie-de-Gironde-rappelle-le"
+        "outlet": "Le Figaro Sciences",
+        "take": "Un pyrocumulonimbus, phénomène d'orage de feu générant éclairs et attaques de braises, a été observé pour la première fois en France.",
+        "url": "https://www.lefigaro.fr/sciences/une-situation-totalement-inedite-qu-est-ce-qu-un-feu-convectif-comme-celui-qui-ravage-la-gironde-20260725"
       }
     ],
     "id": 0,
@@ -35,30 +30,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie"
+      "Sport"
     ],
-    "title": "Trump menace l'UE de représailles après l'amende à Google",
-    "full": "L'Union européenne a infligé jeudi 890 millions d'euros d'amendes à Google pour pratiques anticoncurrentielles dans la recherche en ligne et son magasin d'applications. En réaction, Donald Trump a menacé vendredi l'UE de « très lourd prix » et annoncé de nouveaux droits de douane contre soixante pays, dont les membres de l'Union. Ces taxes de 10 % ont toutefois été jugées conformes à l'accord commercial de Turnberry par Bruxelles, qui les estime inférieures au plafond de 15 % convenu.",
+    "title": "Tour de France 2026 : Seixas termine quatrième, Carapaz gagne à l'Alpe d'Huez",
+    "full": "À l'Alpe d'Huez samedi, l'Équatorien Richard Carapaz (EF Education-EasyPost) a remporté la 20e étape du Tour de France 2026, confirmant son excellente troisième semaine. Le Français Paul Seixas a perdu près de deux minutes dans cette étape-reine et abandonne tout espoir de podium, terminant finalement quatrième du classement général. La dernière étape dimanche à Paris sera raccourcie à 89 kilomètres en raison de la mobilisation des forces de l'ordre sur les incendies en Gironde.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "L'amende sanctionne les pratiques de Google favorisant systématiquement ses propres services au détriment de ses concurrents.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/24/amende-a-google-l-union-europeenne-va-payer-un-tres-lourd-prix-menace-donald-trump_6731543_3210.html"
+        "outlet": "France Info",
+        "take": "La dernière étape est modifiée pour redéployer une partie des forces de sécurité sur les incendies.",
+        "url": "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-les-jeux-sont-faits-pour-paul-seixas-qui-laisse-echapper-le-podium_8122322.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Mediapart",
-        "take": "Trump poursuit sa stratégie de guerre commerciale en contournant les restrictions judiciaires américaines sur l'usage des droits de douane.",
-        "url": "https://www.mediapart.fr/journal/international/240726/donald-trump-poursuit-sa-guerre-commerciale-par-tous-les-moyens"
-      },
-      {
-        "outlet": "Le Figaro International",
-        "take": "Les nouvelles taxes ne correspondent pas aux résultats promis par Trump en matière de réduction du déficit commercial américain.",
-        "url": "https://www.lefigaro.fr/conjoncture/les-droits-de-douane-de-donald-trump-ont-ils-vraiment-permis-de-resorber-le-deficit-commercial-americain-20260724"
+        "outlet": "20 Minutes",
+        "take": "Seixas, épuisé, reçoit néanmoins les félicitations du jury malgré sa quatrième place.",
+        "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4236268-20260725-tour-france-paul-seixas-tente-tout-tout-francais-4e-honneurs?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Libération",
-        "take": "L'Union européenne considère que le nouveau régime douanier respecte les termes de l'accord commercial transatlantique.",
-        "url": "https://www.liberation.fr/economie/nouveaux-droits-de-douane-americains-les-europeens-soulages-laccord-de-turnberry-respecte-20260724_PSREOORX4VE5FJZIW5GRV4T3OM/"
+        "take": "L'ultime étape empruntera trois fois le tracé de Montmartre, celui de l'épreuve routière des JO de Paris.",
+        "url": "https://www.liberation.fr/sports/cyclisme/le-tour-de-france-dans-montmartre-la-carte-postale-obligee-20260725_3W5BEV7JDFC35DYNDUBKYEBUJY/"
+      },
+      {
+        "outlet": "France 24",
+        "take": "Carapaz signe son deuxième succès en trois jours sur le Tour, tandis que Seixas perd le maillot blanc face à Del Toro et Pogacar.",
+        "url": "https://www.france24.com/fr/sports/20260725-tour-de-france-carapaz-vainqueur-de-l-%C3%A9tape-reine-seixas-n-a-pas-r%C3%A9ussi-%C3%A0-renverser-le-podium"
       }
     ],
     "id": 1,
@@ -68,33 +63,23 @@ const ARTICLES = [
     "themes": [
       "Monde"
     ],
-    "title": "Le procureur de la CPI Karim Khan relevé de ses fonctions",
-    "full": "L'assemblée des États membres de la Cour pénale internationale a voté vendredi 24 juillet la révocation de Karim Khan, procureur général de la juridiction. Le magistrat britannique de 56 ans était accusé d'une relation sexuelle inappropriée avec une collaboratrice. Khan conteste les accusations et a annoncé son intention de contester cette décision. Cette révocation intervient dans un contexte de tensions croissantes entre la CPI et plusieurs États, notamment sur ses enquêtes au Moyen-Orient.",
+    "title": "Ukraine : au moins 20 morts dans les frappes des deux côtés",
+    "full": "Des bombardements mutuels entre l'Ukraine et la Russie ont fait au moins 20 morts samedi 25 juillet, selon les autorités des deux pays. Kyiv a frappé des régions russes jusqu'à l'Oural, tandis que Moscou a mené de nouvelles attaques en Ukraine, notamment sur Kyrylivka, village occupé au bord de la mer d'Azov. Dans un contexte de poursuite du conflit, le président kazakh Kassym-Jomart Tokaïev a appelé Vladimir Poutine à « geler » les combats lors d'une rencontre samedi.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Le vote des États membres s'est déroulé vendredi et a approuvé « assez largement » la destitution de l'ex-avocat.",
-        "url": "https://www.liberation.fr/international/moyen-orient/accuse-dagression-sexuelle-le-procureur-general-de-la-cpi-karim-khan-est-releve-de-ses-fonctions-20260724_W4F6JRWA2JBP3LTT7HAYS24TAY/"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "La révocation a été prononcée pour « faute grave », le magistrat contestant les faits qui lui sont reprochés.",
-        "url": "https://www.20minutes.fr/monde/4236227-20260725-cour-penale-internationale-procureur-karim-khan-releve-fonctions-faute-grave?at_medium=display&at_campaign=149"
-      },
-      {
         "outlet": "Le Monde",
-        "take": "Cette décision risque de fragiliser la CPI, déjà confrontée aux pressions des États-Unis et d'Israël contre ses enquêtes palestiniennes.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/25/la-revocation-du-procureur-de-la-cpi-karim-khan-met-fin-a-une-longue-saga_6731788_3210.html"
+        "take": "Souligne la demande du président kazakh d'un gel du conflit auprès de Poutine, quelques heures après les frappes ukrainiennes de longue portée.",
+        "url": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-en-ukraine-au-moins-20-morts-en-ukraine-et-en-russie-selon-les-autorites-des-deux-pays_6725306_3210.html"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Met l'accent sur l'étendue géographique des attaques ukrainiennes, jusqu'à l'Oural, et détaille le bilan dans la localité occupée du sud.",
+        "url": "https://www.liberation.fr/international/europe/kyiv-frappe-des-regions-russes-jusqua-loural-11-morts-dans-une-ville-occupee-du-sud-de-lukraine-20260725_JIY37KG2NZBHJEJEHJCXK5IYXM/"
       },
       {
         "outlet": "France Info",
-        "take": "Khan avait été accusé par l'une de ses anciennes collaboratrices et prévoit de contester la révocation.",
-        "url": "https://www.franceinfo.fr/societe/justice/le-procureur-de-la-cpi-karim-khan-vise-par-des-allegations-d-agression-sexuelle-releve-de-ses-fonctions_8121227.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Le procureur a toujours rejeté les allégations de harcèlement sexuel formulées à son encontre.",
-        "url": "https://www.france24.com/fr/europe/20260724-le-procureur-g%C3%A9n%C3%A9ral-de-la-cpi-karim-khan-d%C3%A9mis-de-ses-fonctions-selon-plusieurs-sources"
+        "take": "Rapporte le chiffre de 15 morts minimum et précise les déclarations des autorités pro-russes sur le bilan de l'attaque de Kyrylivka.",
+        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-frappe-ukrainienne-sur-une-ville-occupee-fait-huit-morts-selon-les-autorites-pro-russes_8121872.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 2,
@@ -102,25 +87,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Monde"
     ],
-    "title": "Pogacar remporte l'Alpe d'Huez et pulvérise le record de Pantani",
-    "full": "Tadej Pogacar a remporté la 19e étape du Tour de France 2026 à l'Alpe d'Huez vendredi 24 juillet. Le coureur slovène, en maillot jaune, s'est imposé nettement devant le Français Lenny Martinez et Richard Carapaz. À cette occasion, Pogacar a battu le record de l'ascension établi par Marco Pantani en 1995. Cette étape historique marque la première d'une ascension répétée du mythique sommet, puisque l'Alpe d'Huez sera à nouveau au programme le lendemain.",
+    "title": "Inde : le ministre de l'Éducation démissionne face aux étudiants",
+    "full": "Dharmendra Pradhan, ministre indien de l'Éducation, a annoncé sa démission samedi 25 juillet après plusieurs semaines de mobilisation étudiante. Les manifestants contestaient une série de fraudes aux examens universitaires, notamment à la faculté de médecine. Suite à cette annonce, les représentants des étudiants ont déclaré la fin de leur mouvement de protestation qui durait depuis un mois.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Souligne l'ambiance exceptionnelle créée par les centaines de milliers de spectateurs rassemblés deux jours consécutifs au sommet.",
-        "url": "https://www.franceinfo.fr/tour-de-france/une-ambiance-de-folie-a-l-alpe-d-huez_8120891.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Le ministre quitte son poste en raison des fraudes aux examens universitaires qui ont déclenché la contestation.",
+        "url": "https://www.franceinfo.fr/monde/inde/contestation-des-etudiants-en-inde-le-ministre-de-l-education-annonce-sa-demission_8121827.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Rapporte que Seixas a concédé du temps sur ses rivaux, notamment Del Toro, au classement général.",
-        "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-2026-a-la-19e-etape-pogacar-ecrase-lalpe"
+        "outlet": "Le Monde",
+        "take": "La démission intervient sous la pression conjuguée des étudiants et du Parti du peuple des cafards, qui s'était mobilisé aux côtés des manifestants.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/25/en-inde-le-ministre-de-l-education-demissionne-sous-la-pression-des-etudiants-en-colere-contre-les-fraudes-aux-examens_6732169_3210.html"
       },
       {
-        "outlet": "France 24",
-        "take": "Met l'accent sur le dépassement du record de Pantani datant d'une époque marquée par le dopage à l'EPO.",
-        "url": "https://www.france24.com/fr/sports/20260724-tour-de-france-tadej-pogcar-dompte-l-alpe-d-huez-en-battant-le-record-de-pantani"
+        "outlet": "Libération",
+        "take": "Les étudiants qualifient leur victoire de symbolique après six jours de mobilisation intensifiée par le soutien politique.",
+        "url": "https://www.liberation.fr/international/asie-pacifique/nous-lavons-fait-face-a-la-fronde-des-etudiants-en-inde-le-ministre-de-leducation-annonce-sa-demission-20260725_UUQPGWPKJFCLVCQ7BKNRKWVLLQ/"
+      },
+      {
+        "outlet": "Courrier International",
+        "take": "Certains manifestants appellent déjà à maintenir la pression pour élargir les revendications au-delà de la démission obtenue.",
+        "url": "https://www.courrierinternational.com/article/manifestations-eruption-de-joie-en-inde-apres-la-demission-du-ministre-de-l-education_252750"
       }
     ],
     "id": 3,
@@ -128,26 +118,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France",
-      "Environnement"
+      "Monde"
     ],
-    "title": "Une quatrième vague de chaleur attendue en France dès lundi",
-    "full": "Après la fin de la troisième canicule, la plus longue jamais enregistrée, une nouvelle vague de fortes chaleurs devrait toucher la France à partir de la semaine prochaine. Selon La Chaîne Météo, cet épisode affecterait notamment le Sud-Ouest, les régions centrales et le Nord-Est, avec des températures pouvant atteindre 39 °C. Ce week-end sera d'abord marqué par des orages avant le retour du soleil et de la chaleur. Météo-France annonce des températures élevées sans confirmer formellement qu'il s'agira d'une quatrième canicule à proprement parler.",
+    "title": "Flavio Bolsonaro investi candidat à la présidentielle brésilienne",
+    "full": "Le sénateur Flavio Bolsonaro, fils de l'ancien président Jair Bolsonaro actuellement emprisonné pour tentative de coup d'État, a été investi samedi candidat à la présidentielle d'octobre par le Parti libéral, principal parti de droite brésilien. Le candidat de 45 ans affrontera le président sortant Lula, qui brigue un quatrième mandat. Cette élection revêt une importance politique majeure pour le Brésil.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Signale que cette quatrième canicule succède directement à la troisième vague, la plus longue jamais relevée en France.",
-        "url": "https://www.liberation.fr/environnement/climat/de-fortes-chaleurs-attendues-en-france-des-la-semaine-prochaine-20260723_KWAAQGC3MVCZHB4BOUBVK67YZA/"
+        "outlet": "France Info",
+        "take": "Flavio Bolsonaro prend la parole lors d'une convention du Parti libéral à Sao Paulo pour officialiser sa candidature.",
+        "url": "https://www.franceinfo.fr/monde/bresil/au-bresil-flavio-bolsonaro-investi-candidat-pour-la-presidentielle-d-octobre-par-le-principal-parti-de-droite_8122241.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "Reporterre",
-        "take": "Précise la localisation géographique de la vague de chaleur et mentionne les températures attendues dès ce week-end.",
-        "url": "https://reporterre.net/La-quatrieme-canicule-de-l-ete-attendue-en-France"
+        "outlet": "20 Minutes",
+        "take": "À 45 ans, le fils aîné du chef d'État détenu se positionne comme héritier politique face au sortant Lula.",
+        "url": "https://www.20minutes.fr/monde/4236281-20260725-bresil-bolsonaro-candidat-presidentielle-octobre-oui-fils-flavio?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Note que Météo-France annonce des fortes chaleurs sans pouvoir confirmer à ce stade qu'il s'agira formellement d'une canicule.",
-        "url": "https://www.humanite.fr/societe/canicule/vers-une-quatrieme-canicule-meteo-france-prevoit-le-retour-des-fortes-chaleurs-des-la-semaine-prochaine"
+        "outlet": "France 24",
+        "take": "Le scrutin d'octobre revêt un fort enjeu politique, Flavio Bolsonaro revendiquant explicitement l'héritage de son père d'extrême droite.",
+        "url": "https://www.france24.com/fr/am%C3%A9riques/20260725-pr%C3%A9sidentielle-au-br%C3%A9sil-le-fils-de-jair-bolsonaro-investi-candidat-face-%C3%A0-lula"
       }
     ],
     "id": 4,
@@ -155,30 +144,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Culture"
     ],
-    "title": "Crépol: la justice retient le racisme comme circonstance aggravante",
-    "full": "La juge d'instruction a ajouté, en fin d'enquête, une circonstance aggravante de racisme au dossier du meurtre de Thomas Perotto à Crépol en 2023, retenant que les faits auraient été commis en raison de l'appartenance des victimes à « la race blanche et la nation française ». Cette décision tardive, intervenue après la clôture de l'instruction, alourdit les peines encourues et relance le débat judiciaire. Elle ravive la controverse sur la notion de « racisme anti-Blancs », qualifiée par certains de concept importé de l'extrême droite, tandis que des magistrats s'interrogent sur son opportunité malgré sa conformité juridique.",
+    "title": "Décès de la chanteuse Marie-Paule Belle à 80 ans",
+    "full": "La chanteuse, compositrice et pianiste Marie-Paule Belle est décédée à l'âge de 80 ans à Neuilly-sur-Seine, des suites d'un cancer. Révélée en 1969 après avoir remporté un concours radiophonique, elle avait marqué plus de cinquante ans de carrière avec des titres emblématiques, dont « La Parisienne ». Musicienne depuis l'enfance, elle avait commencé le piano dès ses 3 ans.",
     "angles": [
       {
-        "outlet": "Mediapart",
-        "take": "Met l'accent sur le caractère inattendu du retournement et la critique de la notion de « racisme anti-Blancs », présentée comme un terme venant de l'extrême droite.",
-        "url": "https://www.mediapart.fr/journal/france/240726/affaire-crepol-la-tres-contestee-notion-de-racisme-anti-blancs-retenue-par-la-justice"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Souligne la formulation légale précise de la circonstance aggravante et son caractère dramaturgique de « coup de théâtre ».",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/24/coup-de-theatre-dans-l-affaire-du-meurtre-de-thomas-perotto-a-crepol-la-justice-retient-in-extremis-la-circonstance-aggravante-de-racisme_6731528_3224.html"
+        "outlet": "France Info",
+        "take": "Souligne son parcours précoce au piano et sa révélation lors d'un concours radiophonique en 1969.",
+        "url": "https://www.franceinfo.fr/culture/la-chanteuse-et-pianiste-marie-paule-belle-connue-notamment-pour-la-parisienne-est-morte-a-l-age-de-80-ans_8121890.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "20 Minutes",
-        "take": "Insiste sur les conséquences procédurales de cet ajout, notamment l'alourdissement des peines et la relance du dossier.",
-        "url": "https://www.20minutes.fr/faits_divers/4236159-20260724-mort-thomas-crepol-pourquoi-ajout-circonstance-racisme-fait-basculer-dossier?at_medium=display&at_campaign=149"
+        "take": "Met l'accent sur l'étendue de sa carrière sur cinq décennies et l'impact de ses chansons.",
+        "url": "https://www.20minutes.fr/arts-stars/culture/musique/4236261-20260725-marie-paule-belle-grandes-dates-carriere-chanteuse-morte-80-ans?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Libération",
-        "take": "Rappelle que la circonstance est légalement fondée tout en signalant les réserves de magistrats sur son bien-fondé.",
-        "url": "https://www.liberation.fr/societe/police-justice/racisme-envers-la-race-blanche-et-la-nation-francaise-retenue-dans-laffaire-de-crepol-une-circonstance-aggravante-qui-fait-debat-20260724_N3HUP26QVJB2JIL55RHHPZQ5XI/"
+        "outlet": "Le Monde",
+        "take": "Précise le lieu du décès et la cause médicale.",
+        "url": "https://www.lemonde.fr/disparitions/article/2026/07/25/marie-paule-belle-interprete-de-la-parisienne-est-morte-a-l-age-de-80-ans_6732274_3382.html"
       }
     ],
     "id": 5,
@@ -186,25 +170,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "France",
+      "Société"
     ],
-    "title": "Loi d'urgence agricole contestée au Conseil constitutionnel",
-    "full": "Les groupes parlementaires écologiste et La France insoumise ont saisi le Conseil constitutionnel vendredi 24 juillet pour contester plusieurs articles de la loi d'urgence agricole adoptée récemment. Ils s'opposent particulièrement à la réintroduction de l'acétamipride, un pesticide interdit, ainsi qu'au doublement des volumes de stockage d'eau pour l'agriculture. Les requérants arguent que ces mesures constituent des cavaliers législatifs dépourvus de lien avec l'objet initial du texte et violeraient la Charte de l'environnement.",
+    "title": "Le gouvernement lance une formation anti-discriminations LGBT+ dans l'Éducation nationale",
+    "full": "Le gouvernement a annoncé l'intégration d'un module de lutte contre la haine anti-LGBT+ dans la formation obligatoire de tous les cadres de l'Éducation nationale (directeurs et inspecteurs). Cette mesure, inscrite au nouveau Plan national pour l'égalité et contre les discriminations anti-LGBTI+, s'accompagnera d'un renforcement de la formation continue. L'objectif est de mieux identifier et signaler les actes discriminatoires au sein des établissements scolaires.",
     "angles": [
       {
-        "outlet": "Reporterre",
-        "take": "Met l'accent sur la contestation de l'acétamipride spécifiquement et l'invocation de la Charte de l'environnement comme fondement juridique.",
-        "url": "https://reporterre.net/Loi-d-urgence-agricole-Ecolos-et-Insoumis-saisissent-le-Conseil-Constitutionnel"
-      },
-      {
         "outlet": "France Info",
-        "take": "Énumère les deux principaux griefs : la réintroduction de pesticides et le doublement des capacités de stockage d'eau agricole.",
-        "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/loi-d-urgence-agricole-les-ecologistes-et-lfi-saisissent-le-conseil-constitutionnel_8120381.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "La ministre Aurore Bergé précise que la formation prendra la forme d'un module spécifique intégré aux parcours de directeurs et d'inspecteurs.",
+        "url": "https://www.franceinfo.fr/societe/lgbt/le-gouvernement-veut-former-tous-les-cadres-de-l-education-nationale-pour-lutter-contre-les-discriminations-anti-lgbt_8122022.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "Le Monde",
-        "take": "Souligne l'argument juridique des requérants fondé sur le caractère de cavalier législatif de ces dispositions.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/24/loi-d-urgence-agricole-le-conseil-constitutionnel-saisi-par-des-deputes-insoumis-et-ecologistes_6731496_823448.html"
+        "outlet": "20 Minutes",
+        "take": "Cette mesure vise à améliorer la qualification et le signalement des actes anti-LGBTI+ dans les établissements, dans le cadre d'un plan gouvernemental plus large.",
+        "url": "https://www.20minutes.fr/societe/4236259-20260725-gouvernement-veut-former-tous-cadres-education-nationale-discriminations-anti-lgbt?at_medium=display&at_campaign=149"
       }
     ],
     "id": 6,
@@ -212,20 +192,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Économie"
     ],
-    "title": "Une bombe découverte en Irlande, la conductrice inculpée",
-    "full": "La police irlandaise a découvert un engin explosif dans un véhicule intercepté près de la frontière avec l'Irlande du Nord. La conductrice, âgée de 25 ans, a été inculpée et placée sous contrôle judiciaire. Un homme d'une quarantaine d'années a également été interpellé. Les enquêteurs soupçonnent un projet d'attaque.",
+    "title": "Démarchage téléphonique : consentement préalable obligatoire dès août",
+    "full": "À partir du 11 août, les entreprises devront obtenir le consentement explicite des consommateurs avant de les démarcher par téléphone. Un décret publié au Journal officiel le 25 juillet impose cette nouvelle règle, plus stricte que le système actuel de liste d'opposition Bloctel. Le consentement ne pourra pas être renouvelé automatiquement et devra être donné de manière préalable.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Relate l'interpellation de la conductrice et d'un homme, avec placement sous contrôle judiciaire de la femme.",
-        "url": "https://www.franceinfo.fr/monde/en-irlande-une-bombe-trouvee-par-la-police-dans-un-vehicule-la-conductrice-inculpee_8121254.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Libération",
+        "take": "Le décret introduit une exigence de consentement explicite excluant tout renouvellement automatique du consentement.",
+        "url": "https://www.liberation.fr/economie/conso/demarchage-telephonique-des-le-11-aout-les-entreprises-devront-obtenir-le-consentement-des-consommateurs-20260725_FH6Y2DNCZVAMPO7ZLYZZOWIHRM/"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Souligne que les enquêteurs soupçonnent un projet d'attaque derrière cette découverte.",
-        "url": "https://www.20minutes.fr/monde/4236224-20260724-irlande-femme-inculpee-apres-decouverte-bombe-voiture?at_medium=display&at_campaign=149"
+        "outlet": "Le Figaro Éco",
+        "take": "La nouvelle règle rend obligatoire l'accord préalable des consommateurs, visant à réduire les appels non sollicités.",
+        "url": "https://www.lefigaro.fr/conso/fini-les-appels-intempestifs-le-demarchage-telephonique-strictement-encadre-a-partir-du-11-aout-20260725"
       }
     ],
     "id": 7,
@@ -233,20 +213,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie"
+      "Monde"
     ],
-    "title": "La BCE consulte les citoyens sur le design des nouveaux billets en euros",
-    "full": "La Banque centrale européenne lance un sondage en ligne pour permettre aux citoyens européens de choisir le graphisme des futurs billets de 5 à 200 euros. La consultation est ouverte jusqu'au 21 septembre. Les nouveaux billets, dont le design intégrera des personnalités européennes célèbres, des oiseaux et des bâtiments des institutions de l'UE, entreront en circulation en 2030.",
+    "title": "Les Houthis attaquent l'Arabie saoudite en riposte",
+    "full": "Les rebelles houthis du Yémen ont frappé samedi des installations pétrolières en Arabie saoudite, en représailles à des frappes menées par Riyad. Cette attaque marque une intensification des affrontements sur ce nouveau théâtre de la guerre au Moyen-Orient. Le ministre iranien des affaires étrangères a appelé au dialogue entre les deux belligérants.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "La BCE ouvre une consultation publique en ligne pour associer les citoyens au choix esthétique des futurs billets.",
-        "url": "https://www.franceinfo.fr/economie/la-banque-centrale-europeenne-lance-un-sondage-en-ligne-pour-choisir-le-graphisme-des-prochains-billets-de-banque-en-euros_8120990.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "Les Houthis, alliés de Téhéran, intensifient les hostilités en cible des sites saoudiens suite à des frappes de riposte.",
+        "url": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-au-moyen-orient-le-ministre-des-affaires-etrangeres-iranien-appelle-au-dialogue-entre-les-saoudiens-et-les-houthistes_6725301_3210.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Le projet de redesign inclut des thèmes emblématiques comme les personnalités marquantes, la faune et l'architecture institutionnelle européenne.",
-        "url": "https://www.liberation.fr/economie/les-billets-de-5-a-200-euros-font-peau-neuve-la-bce-lance-une-consultation-pour-choisir-leur-nouveau-look-20260724_XPMUCA3FU5ABFMJ3G43WSQ4CDM/"
+        "outlet": "20 Minutes",
+        "take": "L'attaque houthie vise des installations saoudiennes en Mer Rouge dans un contexte de tensions régionales plus larges.",
+        "url": "https://www.20minutes.fr/monde/etats-unis/4236242-20260725-direct-guerre-moyen-orient-trump-brandit-menace-offensive-massive-contre-iran-arabie-saoudite-cible-houthis?at_medium=display&at_campaign=149"
       }
     ],
     "id": 8,
@@ -254,20 +234,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Culture"
     ],
-    "title": "Mark van Bommel nommé sélectionneur de la Belgique",
-    "full": "Le Néerlandais Mark van Bommel, ancien milieu de terrain international, a été confirmé vendredi à la tête de la sélection belge de football. Il succède au Français Rudi Garcia, dont le contrat n'a pas été prolongé malgré l'atteinte des objectifs fixés.",
+    "title": "Six médinas des Comores inscrites au Patrimoine mondial de l'Unesco",
+    "full": "Six médinas des Comores ont été inscrites au Patrimoine mondial de l'Unesco, une première pour l'archipel. Quatre de ces sites historiques se situent sur l'île de Grande Comore et deux sur celle de Ndzouani. Construites à partir du XIIe siècle le long des routes commerciales de l'océan Indien, ces cités-États constituent les premiers biens comoriens à figurer sur la liste mondiale, qui en compte plus de 1 200.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "La nomination de van Bommel intervient après le départ de Rudi Garcia et officialise le changement à la tête des Diables Rouges.",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/le-neerlandais-mark-van-bommel-nomme-selectionneur-de-la-belgique-apres-le-depart-du-francais-rudi-garcia_8120786.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "L'inscription devrait favoriser la préservation de ces six médinas menacées.",
+        "url": "https://www.lemonde.fr/culture/article/2026/07/25/six-medinas-des-comores-inscrites-au-patrimoine-mondial-de-l-unesco-une-reconnaissance-qui-devrait-favoriser-leur-preservation_6732096_3246.html"
       },
       {
-        "outlet": "Le Monde",
-        "take": "Le non-renouvellement du contrat de Garcia, pourtant auteur de résultats conformes aux attentes, a suscité la surprise parmi les observateurs.",
-        "url": "https://www.lemonde.fr/sport/article/2026/07/24/mark-van-bommel-nomme-a-la-tete-de-la-selection-masculine-belge-de-football-apres-rudi-garcia_6731509_3242.html"
+        "outlet": "France Info",
+        "take": "Ces médinas séculaires témoignent du rôle historique des Comores dans les échanges commerciaux de l'océan Indien.",
+        "url": "https://www.franceinfo.fr/culture/patrimoine/six-medinas-seculaires-des-comores-inscrites-au-patrimoine-mondial-de-l-unesco_8121680.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 9,
@@ -275,20 +255,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie"
+      "Monde"
     ],
-    "title": "Gibert envisage de supprimer 84 postes sur 500 d'ici fin 2026",
-    "full": "La chaîne de librairies Gibert, premier libraire indépendant de France avec seize magasins, prévoit de réduire ses effectifs de 84 postes sur 500 au second semestre 2026. Cette restructuration intervient après le placement de l'entreprise en redressement judiciaire, approuvé par le tribunal des affaires économiques de Paris fin avril.",
+    "title": "Arrestation d'une stagiaire soupçonnée d'espionnage à l'OTAN",
+    "full": "Les autorités belges ont annoncé samedi l'arrestation d'une ressortissante canadienne d'origine chinoise, soupçonnée d'espionnage. La femme travaillait en tant que stagiaire au quartier général stratégique de l'OTAN à Mons, en Belgique. Elle est accusée d'avoir utilisé son stage pour se livrer à des activités d'espionnage au profit d'un pays tiers, selon la justice belge.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Insiste sur le calendrier de la suppression de postes, prévue pour le second semestre 2026.",
-        "url": "https://www.franceinfo.fr/culture/livres/la-direction-des-librairies-gibert-envisage-de-supprimer-84-postes-sur-500-au-cours-du-second-semestre-2026_8120699.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "La justice belge a confirmé l'arrestation et détaille que la suspecte aurait profité de son accès au siège de l'Alliance atlantique pour commettre des faits d'espionnage.",
+        "url": "https://www.lemonde.fr/international/article/2026/07/25/otan-soupcons-d-espionnage-au-quartier-general-du-commandement-militaire-de-l-organisation_6732381_3210.html"
       },
       {
-        "outlet": "Le Figaro Éco",
-        "take": "Précise que Gibert est le premier libraire indépendant de France et contextualise avec l'approbation judiciaire du redressement.",
-        "url": "https://www.lefigaro.fr/societes/les-librairies-gibert-envisagent-de-supprimer-84-postes-sur-500-au-cours-du-second-semestre-2026-20260724"
+        "outlet": "France Info",
+        "take": "La stagiaire était affectée au quartier général stratégique des Puissances Alliées en Europe, basé à Mons.",
+        "url": "https://www.franceinfo.fr/monde/otan/une-stagiaire-de-l-otan-soupconnee-d-espionnage-arretee-en-belgique_8121653.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 10,
@@ -296,20 +276,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Insolite",
+      "Société"
     ],
-    "title": "The Strokes de retour avec « Reality Awaits »",
-    "full": "Le groupe new-yorkais The Strokes sort son septième album « Reality Awaits » ce vendredi. Le projet marque un tournant musical pour la formation, qui explore de nouvelles directions sonores. Les critiques restent partagées : certains saluent une démarche politique et expérimentale, d'autres regrettent un recours excessif aux effets synthétiques.",
+    "title": "Les gauchers penche-t-ils plus à gauche politiquement?",
+    "full": "Une enquête menée dans dix-huit pays occidentaux suggère que la latéralité pourrait influencer les préférences politiques, au-delà des facteurs habituels comme le revenu ou l'éducation. Ce lien apparaît davantage lié à des questions d'identité qu'à des déterminants biologiques. Les chercheurs proposent que les gauchers, historiquement marginalisés dans des sociétés pensées pour les droitiers, développeraient une sensibilité particulière aux enjeux de discrimination.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "L'album représente le projet le plus politique des Strokes, combinant expérimentations musicales et revendications.",
-        "url": "https://www.franceinfo.fr/culture/musique/les-strokes-signent-un-retour-fracassant-avec-reality-awaits-une-exploration-postmoderne-d-une-musique-toujours-plus-apocalyptique-et-profonde_8119562.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Le recours massif à l'Auto-Tune noie l'album dans des artifices synthétiques, malgré quelques bons morceaux.",
-        "url": "https://www.lemonde.fr/culture/article/2026/07/24/avec-l-album-reality-awaits-the-strokes-se-perdent-dans-un-ocean-d-auto-tune_6731503_3246.html"
+        "outlet": "Slate",
+        "take": "L'étude révèle une corrélation statistique entre le fait d'être gaucher et une orientation politique progressiste, mécanisme expliqué par l'expérience sociale plutôt que par la neurobiologie.",
+        "url": "https://www.slate.fr/politique/gauchers-votent-ils-plus-gauche-question-pas-idiote-mains-influence-orientation-opinion-identite-droitier-etude"
       }
     ],
     "id": 11,
@@ -317,20 +293,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences"
+      "Insolite",
+      "Société"
     ],
-    "title": "Le PlayStation Network victime d'une panne mondiale",
-    "full": "Le service en ligne de PlayStation a connu une défaillance majeure le 24 juillet, empêchant les utilisateurs de se connecter à leurs comptes PS4 et PS5. Des milliers de joueurs ont signalé leur incapacité à accéder aux fonctionnalités en ligne de la plateforme, selon les remontées observées sur les réseaux sociaux.",
+    "title": "L'« airport divorce », nouvelle tendance pour les couples en vacances",
+    "full": "Une tendance émergente suggère que les couples pourraient réduire les conflits pendant leurs vacances en se séparant volontairement à l'aéroport avant de se retrouver à destination. Cette pratique consiste à voyager indépendamment (vols différents, sièges distincts) pour se reconnecter ensuite au moment des congés, plutôt que de commencer le séjour dans une ambiance tendue. Selon ses promoteurs, cette distance initiale favoriserait une meilleure dynamique relationnelle une fois sur place.",
     "angles": [
       {
-        "outlet": "Le Figaro Éco",
-        "take": "La panne affecte le service permettant d'accéder à l'ensemble des fonctionnalités en ligne des consoles Sony.",
-        "url": "https://www.lefigaro.fr/secteur/high-tech/jeux-video-le-playstation-network-connait-une-panne-mondiale-ce-vendredi-20260724"
-      },
-      {
-        "outlet": "Numerama",
-        "take": "L'incident s'est déroulé le 24 juillet avec une ampleur suffisante pour mobiliser des milliers de joueurs simultanément.",
-        "url": "https://www.numerama.com/pop-culture/2301263-playstation-network-est-en-panne-voici-ce-que-lon-sait.html"
+        "outlet": "20 Minutes",
+        "take": "L'article pose la question de l'efficacité de cette séparation temporaire pour prévenir les disputes conjugales courantes lors des périodes de vacances.",
+        "url": "https://www.20minutes.fr/tempo/4235719-20260725-airport-divorce-si-secret-eviter-disputes-vacances-commencait-aeroport?at_medium=display&at_campaign=149"
       }
     ],
     "id": 12,
@@ -338,148 +310,19 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Insolite",
+      "Culture"
     ],
-    "title": "Rugby: un avocat met en péril le procès de centaines d'ex-joueurs",
-    "full": "Des centaines d'anciens rugbymen anglais, gallois et écossais, victimes de commotions cérébrales, risquent de voir leur action en justice contre les instances de leur sport s'effondrer. Leur conseil a omis de transmettre à temps certains documents essentiels au dossier. Cette carence procédurale pourrait mener à un rejet de leur plainte avant même le jugement du fond.",
+    "title": "Une inscription romaine en Albanie révèle une femme oubliée",
+    "full": "Une inscription découverte sur un puits antique en Albanie mentionne Junia Rufina, qualifiée d'« amie des Nymphes ». Cette simple gravure pourrait témoigner du rôle influent d'une femme de l'Empire romain dont l'histoire avait disparu des mémoires. L'inscription suggère qu'elle jouissait d'un statut social élevé et d'une forme de mécénat, habituellement attribué aux hommes dans l'Antiquité.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "L'erreur de transmission documentaire menace l'ensemble de l'action collective de plusieurs centaines de plaignants britanniques.",
-        "url": "https://www.liberation.fr/sports/rugby/rugby-apres-lerreur-de-leur-avocat-laction-en-justice-de-centaines-dex-joueurs-britanniques-victimes-de-commotion-menacee-20260724_DY7RLLA36RDDLF2PXGKSDLGRFQ/"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Le manquement procédural du conseil pourrait avoir des conséquences financières et légales graves pour les victimes de commotions.",
-        "url": "https://www.franceinfo.fr/sports/rugby/rugby-l-erreur-d-un-avocat-pourrait-couter-cher-aux-victimes-de-commotions-cerebrales-dans-le-proces-qui-les-oppose-aux-instances-de-leur-sport_8120639.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Slate",
+        "take": "L'inscription met en lumière une figure féminine oubliée de l'Antiquité romaine et son influence possible dans les structures sociales de l'époque.",
+        "url": "https://www.slate.fr/culture/identite-femme-mysterieuse-inscription-romaine-puits-antique-albanie-mecenat-source"
       }
     ],
     "id": 13,
     "priority": 14
-  },
-  {
-    "themes": [
-      "Société"
-    ],
-    "title": "Autopsie de Daniel Siad : pas de traces de violences",
-    "full": "L'autopsie de Daniel Siad, rabatteur présumé pour le financier Jeffrey Epstein, retrouvé mort à Colombes, n'a révélé aucune trace de violences récentes susceptible d'expliquer le décès. Des analyses complémentaires, notamment toxicologiques et tissulaires, ont été commandées pour affiner les conclusions. Siad était visé par plusieurs plaintes pour crimes sexuels en lien avec les activités d'Epstein.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "Met l'accent sur l'absence de violences apparentes mise en avant par les résultats de l'autopsie.",
-        "url": "https://www.20minutes.fr/faits_divers/4236144-20260724-affaire-epstein-corps-daniel-siad-presente-traces-violentes-assure-autopsie?at_medium=display&at_campaign=149"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Souligne que d'autres examens (toxicologie, prélèvements tissulaires) restent en cours pour clarifier les circonstances.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/24/mort-de-daniel-siad-pas-de-traces-de-violences-recentes-selon-l-autopsie_6731494_3210.html"
-      }
-    ],
-    "id": 14,
-    "priority": 15
-  },
-  {
-    "themes": [
-      "Tech & Sciences",
-      "Société"
-    ],
-    "title": "France interdit les réseaux sociaux aux moins de 15 ans",
-    "full": "Le Parlement français a adopté mardi une loi interdisant l'accès aux réseaux sociaux pour les enfants de moins de 15 ans, entrée en application à partir de septembre. Selon un sondage, plus des deux tiers des jeunes âgés de 10 à 14 ans soutiennent cette mesure.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "Met l'accent sur le soutien des jeunes eux-mêmes à cette interdiction selon un sondage.",
-        "url": "https://www.20minutes.fr/high-tech/by-the-web/4236099-20260724-reseaux-sociaux-moins-15-ans-plus-deux-tiers-10-14-ans-favorables-mesure-selon-sondage?at_medium=display&at_campaign=149"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Confirme le vote parlementaire et contextualise l'adoption de la loi par les deux chambres.",
-        "url": "https://www.lemonde.fr/pixels/live/2026/07/24/posez-vos-questions-sur-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans_6731466_4408996.html"
-      }
-    ],
-    "id": 15,
-    "priority": 16
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "L'« airport divorce », la tendance pour préserver l'harmonie en vacances",
-    "full": "Une tendance circule sur les réseaux sociaux : les couples se sépareraient volontairement à l'aéroport avant un voyage pour éviter les frictions du départ et se retrouver avec un regard neuf à destination. Cette pratique, baptisée « airport divorce », reposerait sur l'idée que le stress de l'aéroport et la fatigue du voyage sont sources de disputes. Selon ses partisans, cette « séparation » temporaire permettrait à chacun de voyager à son rythme et de se retrouver détendus au point de départ.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "Questionne le bien-fondé de cette pratique en envisageant si la séparation à l'aéroport constitue vraiment une solution aux disputes de couple en vacances.",
-        "url": "https://www.20minutes.fr/tempo/4235719-20260725-airport-divorce-si-secret-eviter-disputes-vacances-commencait-aeroport?at_medium=display&at_campaign=149"
-      }
-    ],
-    "id": 16,
-    "priority": 17
-  },
-  {
-    "themes": [
-      "Insolite",
-      "Santé"
-    ],
-    "title": "Une femme hospitalisée après une joie intense au mariage de sa fille",
-    "full": "Une femme a présenté les symptômes d'une crise cardiaque lors du mariage de sa fille, provoquée par une émotion positive extrême. Ce phénomène, appelé syndrome du cœur brisé (ou takotsubo), est généralement associé à un stress négatif ou un choc émotionnel. Son déclenchement par une immense joie reste exceptionnel et peu documenté dans la littérature médicale.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "L'article souligne que le syndrome du cœur brisé peut être provoqué par une émotion positive, ce qui contraste avec sa manifestation habituelle liée au stress ou au chagrin.",
-        "url": "https://www.slate.fr/sante/immense-bonheur-briser-coeur-syndrome-mariage-femme-fille-infarctus-maladie-cardiaque-takotsubo"
-      }
-    ],
-    "id": 17,
-    "priority": 18
-  },
-  {
-    "themes": [
-      "Insolite",
-      "Société"
-    ],
-    "title": "Quatre Américains retrouvent deux voitures dans l'Adour",
-    "full": "Quatre civils américains spécialisés dans la recherche de cold cases ont découvert deux véhicules immergés dans le fleuve Adour, en Pays basque, en seulement deux jours. Les voitures contenaient des ossements pouvant éclaircir deux disparitions datant de près de dix ans. Équipés d'un sonar, ces enquêteurs bénévoles traquent des affaires non résolues en explorant les fonds des cours d'eau.",
-    "angles": [
-      {
-        "outlet": "France Info",
-        "take": "Des civils américains équipés de sonar ont localisé en deux jours deux véhicules contenant des restes dans l'Adour, potentiellement liés à des disparitions anciennes.",
-        "url": "https://www.franceinfo.fr/faits-divers/cold-cases-deux-affaires-resolues-par-des-americains_8120870.html#xtor=RSS-3-%5Bgeneral%5D"
-      }
-    ],
-    "id": 18,
-    "priority": 19
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Lego et Nintendo créent une borne d'arcade Donkey Kong à assembler",
-    "full": "Lego et Nintendo s'associent pour proposer une borne d'arcade Donkey Kong fonctionnelle à construire soi-même. Ce produit permet aux amateurs du jeu culte des années 1980 de revivre l'expérience de jeu classique en assemblant les briques de la célèbre marque danoise. L'initiative conjugue la nostalgie vidéoludique et le plaisir de la construction Lego.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "La borne d'arcade Lego-Nintendo offre une expérience de jeu reconstituée du classique Donkey Kong aux collectionneurs et passionnés de rétro-gaming.",
-        "url": "https://www.20minutes.fr/arts-stars/insolite/4236165-20260724-lego-nintendo-font-revivre-donkey-kong-borne-arcade-construire?at_medium=display&at_campaign=149"
-      }
-    ],
-    "id": 19,
-    "priority": 20
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Un ours repéré au sommet d'un poteau électrique au Nouveau-Mexique",
-    "full": "Une automobiliste a filmé un ours perché en haut d'un poteau électrique le long d'une autoroute du Nouveau-Mexique. Les secours alertés n'ont pas pu intervenir pour secourir l'animal.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "Valorise l'aspect insolite de la scène et l'impuissance des secours face à cette situation inédite.",
-        "url": "https://www.20minutes.fr/arts-stars/insolite/4236164-20260724-etats-unis-filme-ours-perche-poteau-electrique-bordure-autoroute?at_medium=display&at_campaign=149"
-      }
-    ],
-    "id": 20,
-    "priority": 21
   }
 ];
