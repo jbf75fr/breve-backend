@@ -1,35 +1,24 @@
 {
-  "generated_at": "2026-07-26T06:27:49.690599+00:00",
-  "date_label": "Dimanche 26 juillet",
-  "count": 11,
+  "generated_at": "2026-07-27T04:01:58.976309+00:00",
+  "date_label": "Lundi 27 juillet",
+  "count": 14,
   "breves": [
     {
       "themes": [
-        "France",
-        "Environnement"
+        "Monde"
       ],
-      "title": "Incendies en Gironde: 42 000 hectares brûlés, 220 000 évacués",
-      "full": "Un incendie d'ampleur inédite ravage la Gironde et les Landes depuis mercredi. Selon la préfecture girondine, le feu a détruit 42 000 hectares et contraint à l'évacuation 220 000 personnes, notamment autour du bassin d'Arcachon et des communes proches de Bordeaux. Les flammes, attisées par des conditions météorologiques favorables et un phénomène rare de « pyrocumulonimbus », se sont propagées très rapidement. Le gouvernement a mobilisé 500 militaires supplémentaires, un avion A400M capable de larguer 20 000 litres d'eau, ainsi que 250 pompiers et des moyens aériens civils pour tenter de maîtriser le sinistre.",
+      "title": "Incendie géant en Gironde, 42 000 hectares ravagés",
+      "full": "Un mégafeu dévaste la Gironde depuis quatre jours, consumant 42 000 hectares (soit quatre fois la surface de Paris) et forçant l'évacuation de 220 000 personnes. Le feu s'approche à 15 kilomètres de Bordeaux et sa progression reste imprévisible malgré l'engagement de 1 500 pompiers renforcés en effectifs. Selon le ministre de l'Intérieur, la situation demeure très défavorable, les autorités appelant à davantage de moyens pour maîtriser cet incendie hors norme.",
       "angles": [
         {
-          "outlet": "Mediapart",
-          "take": "Souligne l'ampleur massive avec 220 000 personnes évacuées et 42 000 hectares ravagés, le sinistre restant non maîtrisé.",
-          "url": "https://www.mediapart.fr/journal/france/260726/220-000-personnes-evacuees-42-000-hectares-brules-le-feu-en-gironde-n-est-toujours-pas-maitrise-0"
+          "outlet": "France Info",
+          "take": "Après quatre jours d'efforts intenses, les pompiers peinent à enrayer la progression du sinistre qui continue de prendre de la puissance.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/c-est-un-feu-qui-peut-prendre-beaucoup-de-puissance-la-lutte-sans-fin-des-pompiers-en-gironde_8123204.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "France 24",
-          "take": "Détaille le foyer initial de Biscarrosse, déclenché par un véhicule, ayant menacé directement la ville avec l'évacuation de campings.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260725-incendie-%C3%A0-biscarrosse-plus-de-5-000-personnes-%C3%A9vacu%C3%A9es-le-feu-ravage-1-200-hectares"
-        },
-        {
-          "outlet": "Le Figaro Sciences",
-          "take": "Met l'accent sur le caractère scientifiquement inédit du phénomène de pyrocumulonimbus observé pour la première fois en France.",
-          "url": "https://www.lefigaro.fr/sciences/une-situation-totalement-inedite-qu-est-ce-qu-un-feu-convectif-comme-celui-qui-ravage-la-gironde-20260725"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "Inscrit les incendies français dans un contexte européen plus large de calamités climatiques estivales.",
-          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-feux-de-foret-des-evacuations-autour-de-bordeaux-un-combat-extenuant-contre-les-flammes_252684"
+          "take": "Le feu menace directement Bordeaux et a contraint à l'évacuation de 220 000 personnes, tandis que renforts et moyens additionnels sont attendus.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260726-france-l-incendie-est-%C3%A0-15-kilom%C3%A8tres-de-bordeaux-selon-le-maire-de-la-ville"
         }
       ],
       "id": 0,
@@ -37,35 +26,25 @@
     },
     {
       "themes": [
-        "Sport"
+        "Société"
       ],
-      "title": "Tour de France 2026: Seixas termine quatrième, Carapaz remporte l'Alpe d'Huez",
-      "full": "À l'Alpe d'Huez samedi, le Français Paul Seixas a définitivement perdu ses espoirs de podium au Tour de France 2026, cédant du terrain face à ses concurrents directs. L'Équatorien Richard Carapaz a remporté cette étape reine et conforte sa progression dans la troisième semaine de la course. Seixas, à son premier Tour, devrait terminer quatrième dimanche à Paris. La dernière étape a par ailleurs été raccourcie à 89 kilomètres, les forces de l'ordre étant mobilisées sur les incendies en Gironde.",
+      "title": "La France rend hommage au père Hamel, dix ans après son assassinat",
+      "full": "Une cérémonie d'hommage national s'est déroulée dimanche 26 juillet à Saint-Étienne-du-Rouvray, près de Rouen, en mémoire du père Jacques Hamel, assassiné le 26 juillet 2016. Le prêtre catholique avait été égorgé par deux djihadistes alors qu'il célébrait la messe. Le Premier ministre Sébastien Lecornu et l'ancien président François Hollande ont notamment assisté à la cérémonie, organisée conjointement par les autorités républicaines et religieuses.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Paul Seixas rate le podium au sommet de l'Alpe d'Huez et devrait terminer quatrième pour son premier Tour.",
-          "url": "https://www.franceinfo.fr/tour-de-france/tour-de-france-2026-les-jeux-sont-faits-pour-paul-seixas-qui-laisse-echapper-le-podium_8122322.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
           "outlet": "Le Monde",
-          "take": "La dernière étape dimanche a été réduite à 89 kilomètres en raison du redéploiement des forces de l'ordre sur les incendies.",
-          "url": "https://www.lemonde.fr/sport/article/2026/07/25/tour-de-france-2026-en-raison-des-incendies-en-gironde-le-trace-de-la-derniere-etape-reduit-a-89-km_6732379_3242.html"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Richard Carapaz signe sa deuxième victoire en trois jours en remportant l'étape de l'Alpe d'Huez.",
-          "url": "https://www.france24.com/fr/sports/20260725-tour-de-france-carapaz-vainqueur-de-l-%C3%A9tape-reine-seixas-n-a-pas-r%C3%A9ussi-%C3%A0-renverser-le-podium"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Malgré l'absence de podium, Seixas a reçu les félicitations du jury pour sa performance générale.",
-          "url": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4236268-20260725-tour-france-paul-seixas-tente-tout-tout-francais-4e-honneurs?at_medium=display&at_campaign=149"
+          "take": "Emmanuel Macron a souligné que le père Hamel incarnait le refus de la haine, la fraternité et l'espérance.",
+          "url": "https://www.lemonde.fr/societe/article/2026/07/26/assassinat-du-pere-hamel-en-2016-la-france-rend-hommage-au-pretre-tue-dans-un-attentat-a-saint-etienne-du-rouvray_6733251_3224.html"
         },
         {
           "outlet": "Libération",
-          "take": "L'arrivée du Tour à Montmartre dimanche divise les riverains entre enthousiasme et craintes face au surtourisme.",
-          "url": "https://www.liberation.fr/lifestyle/voyages/meilleure-journee-de-lannee-ou-appel-dair-pour-le-surtourisme-a-montmartre-les-riverains-divises-sur-le-passage-du-tour-de-france-20260726_RFKSYJXPVFGTXHAYDQ4H7YYLQA/"
+          "take": "Les assaillants se revendiquaient de l'État islamique lors de cet attentat commis en 2016.",
+          "url": "https://www.liberation.fr/societe/a-saint-etienne-du-rouvray-la-france-rend-hommage-au-pere-jacques-hamel-tue-dans-un-attentat-il-y-a-dix-ans-20260726_RAMKQZ7UHJBTDCMLVYZZXLQNT4/"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Le drame du père Hamel continue de marquer les habitants de la localité une décennie après.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/saint-etienne-de-rouvray-rend-hommage-au-pere-hamel-dix-ans-apres-sa-mort_8123261.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 1,
@@ -75,28 +54,33 @@
       "themes": [
         "Monde"
       ],
-      "title": "Flavio Bolsonaro investi candidat à la présidentielle brésilienne",
-      "full": "Le Parti libéral a désigné samedi Flavio Bolsonaro, sénateur et fils de l'ex-président Jair Bolsonaro, comme candidat pour l'élection présidentielle brésilienne d'octobre. Le père, emprisonné pour tentative de coup d'État, ne pouvait se présenter lui-même. Flavio Bolsonaro, 45 ans, affrontera lors du scrutin le président sortant Luiz Inácio Lula da Silva, qui brigue un quatrième mandat.",
+      "title": "Violences en Cisjordanie: affrontements entre Palestiniens et colons",
+      "full": "Vendredi 24 juillet, des affrontements entre colons israéliens armés et Palestiniens dans le nord de la Cisjordanie ont fait quatre morts palestiniens et deux morts israéliens. Les incidents se sont déroulés dans les villages de Tell et Sarra, près de Naplouse, après la tentative d'intrusion de colons. Depuis, des mosquées ont été incendiées et l'armée israélienne mène une vaste opération militaire dans le territoire. Ces tensions interviennent dans un contexte politique tendu.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Souligne que Jair Bolsonaro, détenu pour tentative de coup d'État, ne pouvait être candidat et que c'est son fils qui le remplace comme champion de la droite.",
-          "url": "https://www.franceinfo.fr/monde/bresil/au-bresil-flavio-bolsonaro-investi-candidat-pour-la-presidentielle-d-octobre-par-le-principal-parti-de-droite_8122241.html#xtor=RSS-3-[lestitres]"
+          "outlet": "L'Humanité",
+          "take": "Met l'accent sur la permissivité du gouvernement Netanyahu envers les colons avant des élections législatives incertaines.",
+          "url": "https://www.humanite.fr/monde/benyamin-netanyahou/en-cisjordanie-occupee-netanyahou-laisse-carte-blanche-aux-colons-avant-les-elections"
         },
         {
           "outlet": "Le Monde",
-          "take": "Met l'accent sur la dimension dynastique avec le qualificatif d'« héritier » appliqué à Flavio Bolsonaro face au président sortant.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/26/au-bresil-l-heritier-flavio-bolsonaro-investi-pour-la-presidentielle-d-octobre_6732875_3210.html"
+          "take": "Rapporte l'incendie de deux mosquées par des colons et l'annonce d'une opération militaire israélienne.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/26/en-cisjordanie-deux-mosquees-incendiees-par-des-colons-israeliens-sur-fond-de-vives-tensions-apres-les-affrontements-de-vendredi_6733181_3210.html"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Relève le décalage entre le titre accrocheur annonçant Bolsonaro et la clarification que c'est en réalité son fils qui sera candidat.",
-          "url": "https://www.20minutes.fr/monde/4236281-20260725-bresil-bolsonaro-candidat-presidentielle-octobre-oui-fils-flavio?at_medium=display&at_campaign=149"
+          "outlet": "Libération",
+          "take": "Souligne l'ampleur inhabituelle de la mobilisation de colons, décrite comme jamais vue auparavant.",
+          "url": "https://www.liberation.fr/international/moyen-orient/en-cisjordanie-occupee-deux-villages-palestiniens-attaques-par-des-colons-israeliens-on-ne-les-avait-jamais-vus-si-nombreux-20260726_J4A4CNFKTJA5FF744ABPGMPFHU/"
         },
         {
-          "outlet": "France 24",
-          "take": "Insiste sur l'enjeu politique majeur du scrutin et sur la volonté de Flavio Bolsonaro de revendiquer l'héritage politique de son père emprisonné.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260725-pr%C3%A9sidentielle-au-br%C3%A9sil-le-fils-de-jair-bolsonaro-investi-candidat-face-%C3%A0-lula"
+          "outlet": "Courrier International",
+          "take": "Lie les violences aux déclarations incendiaires du gouvernement Netanyahu et qualifie la situation d'explosive.",
+          "url": "https://www.courrierinternational.com/article/moyen-orient-l-armee-israelienne-se-deploie-massivement-en-cisjordanie-occupee_252915"
+        },
+        {
+          "outlet": "Le Figaro",
+          "take": "Décrit une présence militaire persistante et craint la création d'un nouvel avant-poste de colons à Tell.",
+          "url": "https://www.liberation.fr/international/moyen-orient/en-cisjordanie-occupee-deux-villages-palestiniens-attaques-par-des-colons-israeliens-on-ne-les-avait-jamais-vus-si-nombreux-20260726_J4A4CNFKTJA5FF744ABPGMPFHU/"
         }
       ],
       "id": 2,
@@ -104,25 +88,25 @@
     },
     {
       "themes": [
-        "Culture"
+        "Monde"
       ],
-      "title": "Décès de la chanteuse Marie-Paule Belle à 80 ans",
-      "full": "La chanteuse, compositrice et pianiste Marie-Paule Belle est décédée à Neuilly-sur-Seine des suites d'un cancer. Révélée en 1969 après avoir remporté un concours radiophonique, elle a marqué cinq décennies de carrière avec des titres devenus emblématiques, dont « La Parisienne ». Musicienne précoce, elle avait débuté le piano dès l'âge de trois ans.",
+      "title": "Tensions diplomatiques entre l'Argentine et le Brésil autour de Milei",
+      "full": "Le Brésil a rappelé son ambassadeur en Argentine après des déclarations offensantes du président argentin Javier Milei à l'encontre de son homologue Luiz Inácio Lula da Silva. Milei a également accusé le Brésil, le Mexique et le Parti démocrate américain de financer une « campagne anti-argentine » en marge de la Coupe du monde. Brasilia a par ailleurs convoqué l'ambassadeur de l'Argentine pour protester contre ces attaques verbales.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Souligne son parcours d'artiste révélée par la radio dans sa jeunesse et sa formation musicale précoce au piano.",
-          "url": "https://www.franceinfo.fr/culture/la-chanteuse-et-pianiste-marie-paule-belle-connue-notamment-pour-la-parisienne-est-morte-a-l-age-de-80-ans_8121890.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Insiste sur la longévité et l'influence de sa carrière qui a traversé plusieurs générations avec des titres restés mémorables.",
-          "url": "https://www.20minutes.fr/arts-stars/culture/musique/4236261-20260725-marie-paule-belle-grandes-dates-carriere-chanteuse-morte-80-ans?at_medium=display&at_campaign=149"
+          "outlet": "Le Figaro International",
+          "take": "Milei, figure de proue de la droite latino-américaine, a apporté son soutien à Flavio Bolsonaro lors du lancement de sa campagne présidentielle brésilienne.",
+          "url": "https://www.lefigaro.fr/international/presidentielle-au-bresil-javier-milei-superstar-de-la-droite-latino-americaine-apporte-son-soutien-a-flavio-bolsonaro-20260726"
         },
         {
           "outlet": "Le Monde",
-          "take": "Précise les causes du décès et son domicile au moment de sa mort.",
-          "url": "https://www.lemonde.fr/disparitions/article/2026/07/25/marie-paule-belle-interprete-de-la-parisienne-est-morte-a-l-age-de-80-ans_6732274_3382.html"
+          "take": "Le Brésil réagit aux provocations du président argentin en rappelant son ambassadeur et en convoquant le représentant diplomatique de Buenos Aires.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/27/le-bresil-rappelle-son-ambassadeur-en-argentine-apres-des-propos-offensants-de-javier-milei-qui-s-en-prend-aussi-au-mexique-et-au-parti-democrate-americain_6733504_3210.html"
+        },
+        {
+          "outlet": "France 24",
+          "take": "Milei revendique une « campagne anti-argentine » orchestrée par des acteurs régionaux et américains depuis les événements de la Coupe du monde.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260726-javier-milei-accuse-bresil-mexique-parti-democrate-americain-avoir-finance-campagne-anti-argentine-coupe-monde-diplomatie-rappel-ambassadeur-lula-da-silva"
         }
       ],
       "id": 3,
@@ -130,25 +114,25 @@
     },
     {
       "themes": [
-        "Économie"
+        "Culture"
       ],
-      "title": "Démarchage téléphonique : consentement préalable obligatoire dès août",
-      "full": "À partir du 11 août, les entreprises devront obtenir le consentement explicite des consommateurs avant toute prospection commerciale par téléphone. Un décret publié au Journal officiel le 25 juillet impose cette nouvelle règle, plus stricte que le dispositif Bloctel existant. Le consentement doit être libre, spécifique et révocable, sans possibilité de renouvellement automatique.",
+      "title": "Marvel annonce un troisième Black Panther avec David Jonsson",
+      "full": "Marvel a dévoilé au Comic-Con 2026 un troisième volet de la franchise Black Panther, prévu pour décembre 2028. L'acteur britannique David Jonsson endossera le rôle principal, incarnant le fils de T'Challa, le Black Panther original joué par Chadwick Boseman décédé en 2020. Cette annonce s'inscrit dans une vague de révélations du studio sur l'orientation future de son univers cinématographique.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Souligne que le décret interdit le renouvellement tacite du consentement, renforçant la protection des consommateurs par rapport au système antérieur.",
-          "url": "https://www.liberation.fr/economie/conso/demarchage-telephonique-des-le-11-aout-les-entreprises-devront-obtenir-le-consentement-des-consommateurs-20260725_FH6Y2DNCZVAMPO7ZLYZZOWIHRM/"
+          "outlet": "France Info",
+          "take": "Souligne la date de sortie du film fixée au 15 décembre 2028 et confirme David Jonsson dans le rôle titre.",
+          "url": "https://www.franceinfo.fr/culture/cinema/marvel-annonce-un-troisieme-volet-de-black-panther-au-comic-con_8122634.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "Numerama",
+          "take": "Contextualise l'annonce dans l'ensemble des révélations Marvel au Comic-Con, marquées par plusieurs projets et surprises majeures.",
+          "url": "https://www.numerama.com/pop-culture/2301909-ryan-gosling-en-ghost-rider-black-panther-3-deadpool-dans-avengers-toutes-les-annonces-marvel-de-la-comic-con-2026.html"
         },
         {
           "outlet": "Le Monde",
-          "take": "Définit précisément les critères du consentement exigé : libre, spécifique, éclairé, univoque et révocable.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/26/demarchage-telephonique-a-partir-du-11-aout-les-entreprises-devront-obtenir-le-consentement-des-consommateurs_6733043_3234.html"
-        },
-        {
-          "outlet": "Le Figaro Éco",
-          "take": "Présente la mesure comme une restriction du démarchage téléphonique rendant obligatoire le consentement préalable.",
-          "url": "https://www.lefigaro.fr/conso/fini-les-appels-intempestifs-le-demarchage-telephonique-strictement-encadre-a-partir-du-11-aout-20260725"
+          "take": "Précise que le nouvel interprète incarnera le fils du héros original et établit le lien générationnel avec Chadwick Boseman.",
+          "url": "https://www.lemonde.fr/culture/article/2026/07/26/marvel-annonce-un-troisieme-volet-de-black-panther-au-comic-con-avec-david-jonsson-dans-le-role-principal_6733109_3246.html"
         }
       ],
       "id": 4,
@@ -156,25 +140,21 @@
     },
     {
       "themes": [
-        "Monde"
+        "Environnement",
+        "France"
       ],
-      "title": "Trump attaque les journalistes au dîner de la Maison Blanche",
-      "full": "Lors du dîner annuel des correspondants de la Maison Blanche vendredi 24 juillet, le président américain Donald Trump a prononcé un discours d'une heure d'une grande virulence envers la presse et ses opposants politiques. Il a qualifié les journalistes de « personnes atteintes du syndrome de délire anti-Trump » et s'en est pris nommément à plusieurs figures politiques en utilisant des surnoms péjoratifs, provoquant un malaise visible parmi l'assistance. L'événement, qui s'était tenu en format restreint suite à une tentative d'assassinat survenue en avril dernier, a révélé une nouvelle fois l'absence de réconciliation entre Trump et les médias.",
+      "title": "Incendies majeurs en Gironde et dans les Landes",
+      "full": "De vastes incendies ravagent actuellement la Gironde et les Landes en Nouvelle-Aquitaine. Les autorités mobilisent les moyens administratifs pour gérer l'urgence de la situation. Les foyers sont suivis en temps réel grâce aux données satellites de la Nasa, actualisées plusieurs fois par jour.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Trump a menacé les journalistes en déclarant que leur situation financière s'effondrerait après son départ du pouvoir.",
-          "url": "https://www.franceinfo.fr/monde/usa/quand-je-vais-partir-vous-allez-vous-faire-faillite-malaise-palpable-entre-donald-trump-et-les-journalistes-au-diner-des-correspondants-de-la-maison-blanche_8121611.html#xtor=RSS-3-[lestitres]"
-        },
-        {
           "outlet": "Libération",
-          "take": "Le président a entrelardé son discours d'insultes envers des figures politiques et adversaires, créant une atmosphère toxique.",
-          "url": "https://www.liberation.fr/international/amerique/pocahontas-le-chialeur-tete-de-pasteque-trump-a-assaisonne-de-fiel-le-diner-de-gala-des-correspondants-a-la-maison-blanche-20260725_PWHXDJ5K2ZCCVBBBYRAE3FU75U/"
+          "take": "L'éditorial insiste sur la nécessité d'une réponse gouvernementale structurelle au-delà de la gestion immédiate de la crise.",
+          "url": "https://www.liberation.fr/idees-et-debats/editorial/incendies-en-gironde-et-dans-les-landes-un-evenement-dont-il-faudra-prendre-la-mesure-20260726_J43BQDUNMRFCHCWQV3ZPJBRU6U/"
         },
         {
-          "outlet": "Courrier International",
-          "take": "Malgré son ton agressif, le discours a globalement été reçu comme peu convaincant et maladroit par l'assistance.",
-          "url": "https://www.courrierinternational.com/article/etats-unis-trump-barbant-au-diner-des-correspondants-il-savait-lui-aussi-qu-il-faisait-un-bide_252717"
+          "outlet": "France Info",
+          "take": "L'accent est mis sur le suivi cartographique en direct des feux à partir des données satellites de surveillance.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/carte-suivez-au-fil-des-heures-l-avancee-des-incendies-qui-ravagent-la-gironde-et-les-landes_8120696.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 5,
@@ -182,20 +162,20 @@
     },
     {
       "themes": [
-        "Monde"
+        "Environnement"
       ],
-      "title": "Inde : le ministre de l'Éducation démissionne après la mobilisation étudiante",
-      "full": "En Inde, le ministre de l'Éducation Dharmendra Pradhan a annoncé sa démission samedi 25 juillet, après près d'un mois de mobilisation estudiantin. Le mouvement, devenu emblématique sous le nom de « cafards », réclamait le départ du ministre suite à un scandale de fraude aux examens d'admission en faculté de médecine. Cette victoire symbolique intervient au sixième jour d'une contestation particulièrement active, bien que certains manifestants appellent à élargir la pression sur le gouvernement au-delà de cette seule démission.",
+      "title": "Nouvelle vague de chaleur attendue dès mardi, jusqu'à 40 °C",
+      "full": "Météo-France prévoit une nouvelle vague de chaleur à partir de mardi, avec des températures pouvant atteindre 40 °C dans plusieurs régions. Cette hausse intervient alors que des incendies spectaculaires sévissent actuellement dans le Sud-Ouest et le Var, compliquant la situation face aux risques de feu de forêt liés aux températures extrêmes.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Met l'accent sur le caractère victorious du mouvement estudiantin et le rôle central du Parti populaire des cafards comme porte-voix de la contestation.",
-          "url": "https://www.liberation.fr/international/asie-pacifique/nous-lavons-fait-face-a-la-fronde-des-etudiants-en-inde-le-ministre-de-leducation-annonce-sa-demission-20260725_UUQPGWPKJFCLVCQ7BKNRKWVLLQ/"
+          "outlet": "20 Minutes",
+          "take": "Insiste sur l'inquiétude face à cette nouvelle canicule coïncidant avec des incendies majeurs dans le Sud-Ouest.",
+          "url": "https://www.20minutes.fr/societe/4236327-20260726-canicule-meteo-france-annonce-probable-nouvelle-vague-chaleur-partir-mardi?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "Courrier International",
-          "take": "Souligne l'origine du scandale (fraude aux examens de médecine) et note que certains contestataires visent à poursuivre la mobilisation sur d'autres enjeux gouvernementaux.",
-          "url": "https://www.courrierinternational.com/article/manifestations-eruption-de-joie-en-inde-apres-la-demission-du-ministre-de-l-education_252750"
+          "outlet": "Libération",
+          "take": "Souligne que le pays doit affronter une nouvelle hausse des températures alors que les foyers continuent de ravager deux régions.",
+          "url": "https://www.liberation.fr/environnement/climat/incendies-une-probable-nouvelle-vague-de-chaleur-a-partir-de-mardi-selon-meteo-france-20260726_MDIQFJN7B5FJREAXPXOWBO4KVI/"
         }
       ],
       "id": 6,
@@ -203,20 +183,20 @@
     },
     {
       "themes": [
-        "Culture"
+        "Monde"
       ],
-      "title": "Six médinas des Comores inscrites au Patrimoine mondial de l'Unesco",
-      "full": "Six médinas des Comores ont été inscrites au Patrimoine mondial de l'Unesco, une première pour l'archipel. Quatre de ces sites historiques se situent sur l'île de Grande Comore et deux sur celle de Ndzouani. Construites à partir du XIIe siècle le long des routes commerciales de l'océan Indien, ces cités-États constituent les premiers biens comoriens à figurer sur la liste mondiale de l'Unesco, qui en compte plus de 1 200.",
+      "title": "En Inde, le ministre de l'Éducation démissionne face à la mobilisation étudiante",
+      "full": "Le ministre indien de l'Éducation Dharmendra Pradhan a démissionné samedi, cédant aux demandes des étudiants qui le contestaient depuis un mois. La fronde, partie de dénonciations de fraudes aux examens universitaires, a pris l'ampleur d'un mouvement de jeunesse transversal surnommé le « parti des cafards » qui a endommagé l'image du Premier ministre Narendra Modi. Les protestataires ont annoncé la fin de leurs mobilisations suite à ce départ.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "Cette inscription devrait contribuer à la préservation de ces médinas historiques.",
-          "url": "https://www.lemonde.fr/culture/article/2026/07/25/six-medinas-des-comores-inscrites-au-patrimoine-mondial-de-l-unesco-une-reconnaissance-qui-devrait-favoriser-leur-preservation_6732096_3246.html"
+          "take": "Insiste sur l'ampleur inédite du mouvement, qui dépasse les clivages sociaux et représente une jeunesse désenchantée fragilisant le pouvoir en place.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/26/en-inde-la-mobilisation-des-cafards-mouvement-de-contestation-de-la-jeunesse-fragilise-narendra-modi_6733366_3210.html"
         },
         {
-          "outlet": "France Info",
-          "take": "Ces médinas témoignent du rôle stratégique des Comores dans le commerce maritime historique de l'océan Indien.",
-          "url": "https://www.franceinfo.fr/culture/patrimoine/six-medinas-seculaires-des-comores-inscrites-au-patrimoine-mondial-de-l-unesco_8121680.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "L'Humanité",
+          "take": "Met l'accent sur les raisons précises de la contestation : les fraudes électorales universitaires qui ont déclenché la mobilisation.",
+          "url": "https://www.humanite.fr/monde/inde/fronde-etudiante-en-inde-le-ministre-de-leducation-finit-par-demissionner-le-parti-des-cafards-annonce-la-fin-des-mobilisations"
         }
       ],
       "id": 7,
@@ -224,15 +204,20 @@
     },
     {
       "themes": [
-        "Insolite"
+        "Économie"
       ],
-      "title": "Les jeunes abandonnent le café chaud pour des versions glacées et décorées",
-      "full": "Le café traditionnel perd du terrain auprès des moins de trente ans, qui lui préfèrent largement les variantes froides et sucrées: lattes glacés, americanos refroidis ou frappés garnis de toppings. Ces boissons, facilement photographiables avec leurs nappes de lait et garnitures gourmandes, deviennent les incontournables de l'été et séduisent bien au-delà de la simple pause caféine.",
+      "title": "Démarchage téléphonique : consentement obligatoire à partir d'août",
+      "full": "À partir du 11 août, les entreprises devront obtenir le consentement explicite des consommateurs avant toute prospection commerciale par téléphone. Ce consentement doit être libre, spécifique, éclairé et révocable. Cette nouvelle obligation, inscrite dans un décret publié au Journal officiel, vise à renforcer la protection des consommateurs face au démarchage non sollicité.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Les jeunes générations délaissent le café noir classique pour des boissons froides, visuellement attrayantes et pensées pour les réseaux sociaux.",
-          "url": "https://www.20minutes.fr/tempo/food/4235027-20260726-latte-americano-frappe-cafe-prend-coup-froid?at_medium=display&at_campaign=149"
+          "outlet": "Le Monde",
+          "take": "Insiste sur la nature précise du consentement requis, défini comme une manifestation de volonté dotée de caractéristiques juridiques strictes.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/26/demarchage-telephonique-a-partir-du-11-aout-les-entreprises-devront-obtenir-le-consentement-des-consommateurs_6733043_3234.html"
+        },
+        {
+          "outlet": "L'Humanité",
+          "take": "Met l'accent sur le caractère éclairé du consentement et présente la mesure comme une réponse aux frustrations des consommateurs face aux appels non désirés.",
+          "url": "https://www.humanite.fr/vie-quotidienne/consommation/vous-nen-pouvez-plus-du-demarchage-telephonique-a-partir-du-11-aout-les-entreprises-devront-obtenir-votre-consentement"
         }
       ],
       "id": 8,
@@ -240,16 +225,15 @@
     },
     {
       "themes": [
-        "Insolite",
-        "Société"
+        "Insolite"
       ],
-      "title": "Les gauchers penche-t-ils davantage à gauche politiquement?",
-      "full": "Une enquête menée dans dix-huit pays occidentaux suggère que la latéralité pourrait influencer les préférences politiques, au-delà des facteurs habituels comme le revenu, l'âge ou le niveau d'éducation. Selon cette étude, les gauchers présenteraient une corrélation avec des votes de gauche, un lien apparemment lié à l'identité sociale plutôt qu'à des déterminants biologiques. La question, bien qu'originale, soulève des pistes intéressantes sur la formation des opinions politiques.",
+      "title": "Des poilus se mutilaient volontairement pour fuir les tranchées",
+      "full": "Pendant la Première Guerre mondiale, des dizaines de soldats français se sont infligé des blessures volontaires pour échapper aux combats, notamment dès 1914-1918. Cet phénomène, peu connu de l'histoire de la Grande Guerre, révèle l'ampleur du désespoir face aux conditions extrêmes des tranchées. Ces mutilations volontaires constituaient un pari risqué : outre les dangers de la blessure elle-même, les militaires s'exposaient à des poursuites et à des exécutions s'ils étaient découverts.",
       "angles": [
         {
           "outlet": "Slate",
-          "take": "L'étude révèle que l'identité de gaucher pourrait jouer un rôle dans l'orientation politique, indépendamment des variables socio-économiques classiques.",
-          "url": "https://www.slate.fr/politique/gauchers-votent-ils-plus-gauche-question-pas-idiote-mains-influence-orientation-opinion-identite-droitier-etude"
+          "take": "Le phénomène des automutilations reste un aspect méconnu de la Grande Guerre, illustrant un désespoir massif face à l'horreur des tranchées.",
+          "url": "https://www.slate.fr/culture/mutilation-volontaire-sortir-tranchees-pari-risque-dizaines-poilus-1914-1918-soldats-francais-premiere-guerre-mondiale-blessures-executions"
         }
       ],
       "id": 9,
@@ -259,17 +243,66 @@
       "themes": [
         "Insolite"
       ],
-      "title": "Comment garder ses plantes vertes en période de canicule",
-      "full": "Lors des épisodes de forte chaleur, les plantes d'intérieur et d'extérieur souffrent rapidement de la sécheresse et des températures élevées. Pour les préserver, il est recommandé d'adapter l'arrosage, de les protéger de l'exposition directe au soleil et de vérifier régulièrement leur état général. Des gestes simples permettent d'éviter que le stress thermique n'affaiblisse durablement les végétaux.",
+      "title": "Le running s'invite dans les studios de sport parisiens",
+      "full": "Après le yoga, le Pilates et le cycling, le running fait son entrée dans les studios spécialisés. Ces espaces proposent des séances de course encadrées, sur le modèle des autres disciplines qui ont séduit les amateurs de fitness en quête d'ambiance et de communauté. Cette tendance traduit l'évolution du marché du sport en salle, où l'offre se diversifie pour répondre aux différentes pratiques.",
       "angles": [
         {
           "outlet": "20 Minutes",
-          "take": "Le média propose des conseils pratiques d'entretien (fréquence d'arrosage, ombre partielle, surveillance) pour que les plantes résistent aux périodes caniculaires.",
-          "url": "https://www.20minutes.fr/tempo/style/4236108-20260725-arrosage-chaleur-entretien-comment-prendre-soin-plantes-pendant-grandes-chaleurs?at_medium=display&at_campaign=149"
+          "take": "Le running s'ajoute à la liste croissante des activités proposées en studios fermés, suivant le succès des disciplines comme le yoga ou le cycling.",
+          "url": "https://www.20minutes.fr/tempo/bien-etre/4235999-20260726-juste-envie-courir-plus-vite-possible-running-trouve-place-studios?at_medium=display&at_campaign=149"
         }
       ],
       "id": 10,
       "priority": 11
+    },
+    {
+      "themes": [
+        "Insolite"
+      ],
+      "title": "Des truites mystérieuses dans un lac isolé de Norvège",
+      "full": "Des archéologues ont élucidé la présence de truites brunes dans un lac inaccessible des montagnes norvégiennes. Selon leurs recherches, des chasseurs-cueilleurs auraient volontairement introduit ces poissons il y a plusieurs millénaires, probablement pour constituer une réserve de nourriture lors de leurs déplacements en montagne.",
+      "angles": [
+        {
+          "outlet": "Slate",
+          "take": "L'hypothèse retenue est que ces populations anciennes ont délibérément transféré des truites pour créer des stocks alimentaires accessibles au cours de leurs expéditions.",
+          "url": "https://www.slate.fr/sciences/comment-truites-atteint-lac-inaccessible-montagnes-norvegiennes-chasseurs-cueilleurs-peche-piege"
+        }
+      ],
+      "id": 11,
+      "priority": 12
+    },
+    {
+      "themes": [
+        "Insolite"
+      ],
+      "title": "Un fabricant de bonbons britannique cause accidentellement 20 décès",
+      "full": "Un confiseur britannique cherchait à réduire ses coûts en remplaçant le sucre par du gypse en poudre dans la fabrication de bonbons. L'apprenti chargé du mélange a confondu le gypse avec de l'arsenic, causant la mort de vingt personnes. Le bilan tragique de cette tentative d'économie illustre les risques d'une substitution mal contrôlée de matières premières.",
+      "angles": [
+        {
+          "outlet": "Slate",
+          "take": "Met en avant l'erreur fatale d'un apprenti ayant mélangé arsenic et gypse lors d'une substitution volontaire du sucre par du gypse en poudre.",
+          "url": "https://www.slate.fr/sante/fabricant-bonbon-accident-mort-sucre-economie-royaume-uni-halloween-confiserie-siecle"
+        }
+      ],
+      "id": 12,
+      "priority": 13
+    },
+    {
+      "themes": [
+        "Insolite",
+        "Société"
+      ],
+      "title": "Les jeunes Français désertent le café chaud pour les versions glacées",
+      "full": "Le café traditionnel perd du terrain auprès des moins de trente ans, qui lui préfèrent largement les déclinaisons froides : lattes glacés, americanos et frappés agrémentés de sirops et toppings. Cette tendance répond à la fois aux préférences climatiques estivales et au désir de créer des boissons visuellement attrayantes, propices au partage sur les réseaux sociaux.",
+      "angles": [
+        {
+          "outlet": "20 Minutes",
+          "take": "Les jeunes délaissent le petit noir classique au profit de boissons glacées et décoratives, faciles à photographier et à partager en ligne.",
+          "url": "https://www.20minutes.fr/tempo/food/4235027-20260726-latte-americano-frappe-cafe-prend-coup-froid?at_medium=display&at_campaign=149"
+        }
+      ],
+      "id": 13,
+      "priority": 14
     }
   ]
 }
