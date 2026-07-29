@@ -1,33 +1,33 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-07-29T04:02:34.919664+00:00
+// 2026-07-29T06:23:17.194825+00:00
 const ARTICLES = [
   {
     "themes": [
-      "Environnement",
-      "France"
+      "France",
+      "Environnement"
     ],
-    "title": "Incendie majeur en Gironde : l'armée mobilisée",
-    "full": "Face à un mégafeu ravageant la Gironde depuis plusieurs jours, l'armée et la gendarmerie ont été déployées en renfort des pompiers. Quelque 1 500 militaires sont engagés sur le terrain avec des moyens lourds : bulldozers pour dégager les routes et véhicules blindés Centaure. L'incendie, qui a consumé environ 42 000 hectares, est stabilisé mais demeure imprévisible en raison des conditions météorologiques, notamment du retour possible de la canicule.",
+    "title": "Mégafeu en Gironde : 42 000 hectares brûlés, situation stabilisée",
+    "full": "Le feu qui ravage la Gironde depuis le 22 juillet a consumé 42 000 hectares et demeure stabilisé après une nuit calme mercredi matin, selon la préfecture. Plusieurs reprises de feu ont été traitées rapidement, notamment autour du Bassin d'Arcachon et près d'une base militaire aux abords de Bordeaux. Ce mégafeu a généré un phénomène rare en France : un pyrocumulonimbus, système convectif produisant éclairs et attaques de braises. Malgré les déclarations du gouvernement sur une augmentation des moyens anti-incendies, les pompiers signalent des effectifs et équipements insuffisants, tandis que huit pays européens ont mobilisé des avions et hélicoptères pour soutenir les efforts français.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "L'armée et les gendarmes apportent une aide logistique massive aux pompiers avec des engins inhabituels.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/bulldozers-centaures-l-armee-et-les-gendarmes-pretent-main-forte-aux-pompiers-pour-lutter-contre-les-flammes-en-gironde_8125508.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "Malgré les déclarations du gouvernement sur une augmentation des moyens, les pompiers et les services d'incendie dénoncent une sous-dotation et un manque d'effectifs.",
-        "url": "https://www.humanite.fr/-/-/malgre-les-declarations-rassurantes-du-gouvernement-les-pompiers-manquent-de-tout"
-      },
-      {
-        "outlet": "Reporterre",
-        "take": "Le feu est stabilisé mais reste imprévisible ; une reprise de feu a été signalée à Lège-Cap-Ferret.",
-        "url": "https://reporterre.net/Incendie-en-Gironde-Importante-reprise-de-feu-a-Lege-Cap-Ferret"
+        "outlet": "France 24",
+        "take": "Le mégafeu de 42 000 hectares reste stabilisé après une seconde nuit calme, avec plusieurs reprises rapidement maîtrisées.",
+        "url": "https://www.france24.com/fr/france/20260729-en-direct-megafeu-gironde-feu-toujours-stabilise-nouveau-pic-de-chaleur"
       },
       {
         "outlet": "Le Figaro Sciences",
-        "take": "Le phénomène de pyrocumulonimbus observé génère un « orage de feu » sans précédent en France.",
+        "take": "L'incendie génère un phénomène meteorological inédit en France : le pyrocumulonimbus, créant éclairs et attaques de braises.",
         "url": "https://www.lefigaro.fr/sciences/une-situation-totalement-inedite-qu-est-ce-qu-un-feu-convectif-comme-celui-qui-ravage-la-gironde-20260725"
+      },
+      {
+        "outlet": "L'Humanité",
+        "take": "Les pompiers dénoncent des moyens insuffisants et des services sous-financés malgré les assurances gouvernementales.",
+        "url": "https://www.humanite.fr/-/-/malgre-les-declarations-rassurantes-du-gouvernement-les-pompiers-manquent-de-tout"
+      },
+      {
+        "outlet": "Le Figaro International",
+        "take": "La solidarité européenne se mobilise avec sept avions et cinq hélicoptères issus de huit pays pour combattre l'incendie.",
+        "url": "https://www.lefigaro.fr/international/avions-legers-suedois-canadair-croate-helicoptere-tcheque-la-solidarite-europeenne-se-deploie-face-aux-incendies-geants-20260727"
       }
     ],
     "id": 0,
@@ -37,23 +37,23 @@ const ARTICLES = [
     "themes": [
       "Culture"
     ],
-    "title": "Nouvelle vague au cinéma : Spider-Man, drames et autofiction",
-    "full": "Plusieurs films arrivent en salles cette semaine. Le nouvel opus Spider-Man : Brand New Day, réalisé par Destin Daniel Cretton, figure parmi les sorties attendues. À l'affiche également, une œuvre esthétique et politique consacrée à la lutte pour l'indépendance de l'Angola au milieu des années 1970, ainsi que le film de Gregg Araki I Want Your Sex, qui explore le consentement à travers une confrontation générationnelle.",
+    "title": "Spider-Man Brand New Day arrive en salles cette semaine",
+    "full": "Le nouveau volet Spider-Man Brand New Day sort en salles cette semaine. Réalisé par Destin Daniel Cretton, il marque le dernier film du Marvel Cinématique Universe avant l'arrivée d'Avengers : Doomsday en décembre. Les critiques saluent notamment une relecture de la franchise qui sort des codes habituels des films de super-héros.",
     "angles": [
       {
+        "outlet": "France Info",
+        "take": "Spider-Man Brand New Day clôt le cycle de films Marvel avant le grand événement Avengers : Doomsday prévu à la fin de l'année.",
+        "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/spider-man-brand-new-day-nouveau-depart-en-solitaire-pour-l-homme-araignee_8125526.html#xtor=RSS-3-[lestitres]"
+      },
+      {
         "outlet": "Le Monde",
-        "take": "Les critiques du journal couvrent régulièrement les sorties cinéma et proposent une sélection de films à découvrir, incluant cette semaine un drame politique angolais.",
+        "take": "Cette semaine au cinéma figure aussi Les Matins merveilleux, un film centré sur la lutte pour l'indépendance de l'Angola dans les années 1970.",
         "url": "https://www.lemonde.fr/culture/article/2026/07/29/les-films-a-l-affiche-spider-man-brand-new-day-les-matins-merveilleux-i-want-your-sex-tommy-guns_6735838_3246.html"
       },
       {
         "outlet": "Numerama",
-        "take": "Le site juge Spider-Man : Brand New Day comme une rupture remarquable pour la franchise, dépassant les standards du film de super-héros contemporain.",
+        "take": "Le film se distingue en redéfinissant les standards de la saga Spider-Man et en s'imposant comme l'un des meilleurs films Marvel des dernières années.",
         "url": "https://www.numerama.com/pop-culture/2303003-on-a-vu-spider-man-brand-new-day-cest-le-meilleur-de-la-saga-avec-tom-holland.html"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Le critique souligne la tonalité légère du film d'Araki malgré son sujet osé, centré sur une dynamique BDSM entre personnages.",
-        "url": "https://www.liberation.fr/culture/cinema/i-want-your-sex-de-gregg-araki-parce-quil-le-veut-bien-20260728_5SVFNQMR7FAATHE437PVJ2JAR4/"
       }
     ],
     "id": 1,
@@ -61,25 +61,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Tech & Sciences"
     ],
-    "title": "L'Odyssée de Nolan réalise le meilleur démarrage de 2026 en France",
-    "full": "Le film de Christopher Nolan « L'Odyssée » a enregistré plus de 232 000 entrées lors de sa première semaine d'exploitation en France, le meilleur démarrage cinématographique de l'année. Le gouvernement grec a officiellement salué le succès du long-métrage mardi 28 juillet, saluant sa capacité à fusionner le patrimoine culturel grec et la créativité contemporaine, bien que le film fasse l'objet de critiques. Une projection en IMAX 70 MM, le format préféré du réalisateur, est proposée à la salle Pathé Odysseum de Montpellier, seule établissement français disposant de ce système.",
+    "title": "Plus de 1 100 cadres de l'IA demandent un ralentissement des sorties de modèles",
+    "full": "Des dirigeants d'Anthropic, OpenAI, Meta et Google, ainsi que plus de 1 100 employés du secteur, ont adressé mardi une pétition au gouvernement américain pour qu'il soutienne une initiative internationale visant à ralentir la publication des modèles d'IA les plus avancés. Ils craignent que l'amélioration automatique et incontrôlable de ces systèmes ne dépasse rapidement les capacités humaines de compréhension et de maîtrise.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Le film établit un record de fréquentation pour un nouveau film français en 2026.",
-        "url": "https://www.franceinfo.fr/culture/cinema/le-premier-ministre-grec-remercie-christopher-nolan-pour-l-odyssee_8125316.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Figaro Éco",
+        "take": "Met l'accent sur l'appel des patrons de grandes entreprises du secteur et leur demande d'aide gouvernementale pour freiner les sorties.",
+        "url": "https://www.lefigaro.fr/secteur/high-tech/ia-le-patron-d-anthropic-et-des-dirigeants-d-openai-meta-et-google-demandent-a-temporiser-la-sortie-des-modeles-20260729"
       },
       {
-        "outlet": "Libération",
-        "take": "Le gouvernement grec exprime son gratitude officielle pour la valorisation du patrimoine hellénique, en dépit des critiques adressées au film.",
-        "url": "https://www.liberation.fr/culture/cinema/le-premier-ministre-grec-remercie-christopher-nolan-pour-son-adaptation-de-lodyssee-20260728_ZXXCSIDNDFBQHH6F7GYGK3XKCI/"
+        "outlet": "France 24",
+        "take": "Souligne l'inquiétude face à une amélioration autonome et incontrolable de l'IA, ainsi que le statut de pétition formelle du message.",
+        "url": "https://www.france24.com/fr/%C3%A9co-tech/20260729-ia-petition-openai-anthropic-google-inquiets-etats-unis-auto-amelioration-recursive"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Le format IMAX 70 MM préconisé par Nolan n'est accessible qu'en une seule salle de l'Hexagone.",
-        "url": "https://www.20minutes.fr/arts-stars/cinema/4236599-20260728-vu-odyssee-imax-70-mm-format-souhaite-christopher-nolan?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Insiste sur le risque que les nouveaux modèles dépassent nos capacités à les comprendre ou les contrôler.",
+        "url": "https://www.lemonde.fr/pixels/article/2026/07/29/intelligence-artificielle-une-petition-pour-temporiser-la-sortie-des-nouveaux-modeles_6735805_4408996.html"
       }
     ],
     "id": 2,
@@ -87,20 +87,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Société"
     ],
-    "title": "Algérie : une femme à la tête du Parlement pour la première fois",
-    "full": "Khalida Boufedeche, députée d'Alger, a été élue présidente de l'Assemblée populaire nationale algérienne, une première dans l'histoire du pays. Son parti a remporté les récentes législatives, qui se sont déroulées avec un taux de participation historiquement bas. Les femmes restent largement sous-représentées à l'assemblée, occupant seulement 25 sièges sur 407 (6,14 %), alors qu'elles constituent près de la moitié de la population.",
+    "title": "Une mosquée d'Aulnay-sous-Bois fermée pour apologie du terrorisme",
+    "full": "La préfecture de Seine-Saint-Denis a ordonné la fermeture pour six mois de la mosquée d'Aulnay-sous-Bois, reprochant aux imams et intervenants de diffuser « une idéologie islamiste radicale » et de tenir des propos constituant une incitation à la violence et une apologie du terrorisme. L'association gestionnaire du lieu annonce contester cet arrêté préfectoral devant le tribunal administratif en référé.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Souligne le record de participation record faible aux élections et le nombre réduit de femmes élues au scrutin.",
-        "url": "https://www.lemonde.fr/afrique/article/2026/07/29/algerie-khalida-boufedeche-devient-la-premiere-femme-presidente-de-l-assemblee-populaire-nationale_6735672_3212.html"
+        "outlet": "France Info",
+        "take": "L'avocat de l'association gestionnaire prépare une action en justice pour faire annuler la décision préfectorale.",
+        "url": "https://www.franceinfo.fr/france/ile-de-france/seine-saint-denis/a-aulnay-sous-bois-une-mosquee-fermee-pour-incitation-a-la-violence-et-apologie-du-terrorisme_8125973.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Met l'accent sur l'écart de représentation entre la proportion de femmes au Parlement et leur part dans la population.",
-        "url": "https://www.20minutes.fr/monde/4236790-20260729-algerie-khalida-boufedeche-devient-premiere-femme-elue-tete-parlement?at_medium=display&at_campaign=149"
+        "outlet": "Libération",
+        "take": "La préfecture identifie une rhétorique reprenant celle d'organisations terroristes, justifiant une fermeture administrative de six mois.",
+        "url": "https://www.liberation.fr/societe/police-justice/une-mosquee-daulnay-sous-bois-fermee-six-mois-pour-incitation-a-la-violence-et-apologie-du-terrorisme-20260728_VTXDX3G2MFDARGQOQSS52FXERA/"
       }
     ],
     "id": 3,
@@ -110,18 +110,18 @@ const ARTICLES = [
     "themes": [
       "Monde"
     ],
-    "title": "États-Unis : réforme pour accélérer les expulsions de demandeurs d'asile",
-    "full": "L'administration Trump a mis en place une réforme des procédures d'asile aux États-Unis, entrée en vigueur mardi. Les demandes d'asile pourront désormais être directement adressées à des juges sans entretien préalable avec un agent des services de l'immigration, réduisant ainsi la durée du séjour des requérants. Cette mesure pourrait concerner jusqu'à 444.724 demandeurs d'asile.",
+    "title": "Oman propose à l'Iran un mécanisme de gestion du détroit d'Ormuz",
+    "full": "Le sultanat d'Oman a présenté à l'Iran une proposition de mécanisme régional conjoint pour la gestion du détroit d'Ormuz, financé par des redevances volontaires. Ce plan s'inspire du modèle actuellement appliqué au détroit de Malacca. L'Iran a simultanément démenti négocier directement avec les États-Unis, tout en confirmant ses discussions avec Oman.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "La réforme contourne l'entretien préalable avec les agents de l'immigration pour accélérer la procédure et limiter le temps de présence des demandeurs d'asile.",
-        "url": "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-une-reforme-pour-accelerer-l-expulsion-des-demandeurs-d-asile_6735606_3210.html"
+        "outlet": "Libération",
+        "take": "Oman sert de médiateur en proposant une gestion conjointe calquée sur le précédent du détroit de Malacca.",
+        "url": "https://www.liberation.fr/international/moyen-orient/liran-dement-negocier-avec-les-etats-unis-mais-discute-avec-oman-20260728_FQKMO6EVGBA2VCDSWWUULC2SVQ/"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "L'administration Trump annonce cette mesure comme une accélération du traitement des dossiers, affectant potentiellement près de 445.000 demandeurs d'asile.",
-        "url": "https://www.20minutes.fr/monde/etats-unis/4236773-20260728-etats-unis-administration-trump-annonce-acceleration-expulsions-demandeurs-asile?at_medium=display&at_campaign=149"
+        "outlet": "France 24",
+        "take": "Le mécanisme repose sur des redevances volontaires versées par les navires transitant par ce passage stratégique.",
+        "url": "https://www.france24.com/fr/moyen-orient/20260728-oman-propose-%C3%A0-l-iran-un-m%C3%A9canisme-pour-la-gestion-du-d%C3%A9troit-d-ormuz"
       }
     ],
     "id": 4,
@@ -129,20 +129,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Culture"
     ],
-    "title": "Une mosquée d'Aulnay-sous-Bois fermée pour six mois",
-    "full": "La préfecture de Seine-Saint-Denis a ordonné la fermeture pour six mois de la mosquée d'Aulnay-sous-Bois, reprochant aux imams et intervenants de diffuser une idéologie islamiste radicale et de tenir des propos constituant une incitation à la violence et une apologie du terrorisme. L'association gestionnaire du lieu de culte a annoncé son intention de contester cet arrêté préfectoral devant le tribunal administratif en référé.",
+    "title": "Betye Saar, artiste majeure afro-américaine, décédée à 99 ans",
+    "full": "Betye Saar, pionnière de l'art afro-américain, s'est éteinte dimanche 26 juillet à Los Angeles, quatre jours avant son centième anniversaire. Reconnue pour ses assemblages transformant les objets du quotidien en créations politiques et libératrices, elle a marqué le Black Arts Movement et constitué une référence majeure pour les générations d'artistes noirs qui ont suivi.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "L'avocat de l'association gestionnaire annonce une saisie en référé du tribunal administratif pour contester la fermeture.",
-        "url": "https://www.franceinfo.fr/france/ile-de-france/seine-saint-denis/a-aulnay-sous-bois-une-mosquee-fermee-pour-incitation-a-la-violence-et-apologie-du-terrorisme_8125973.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "Met l'accent sur ses engagements politiques et son rôle de figure tutélaire de l'art afro-américain contemporain.",
+        "url": "https://www.lemonde.fr/disparitions/article/2026/07/28/betye-saar-figure-tutelaire-de-l-art-afro-americain-est-morte_6735604_3382.html"
       },
       {
         "outlet": "Libération",
-        "take": "La préfecture accuse spécifiquement les imams et intervenants ponctuels de promouvoir une rhétorique alignée sur celle des organisations terroristes.",
-        "url": "https://www.liberation.fr/societe/police-justice/une-mosquee-daulnay-sous-bois-fermee-six-mois-pour-incitation-a-la-violence-et-apologie-du-terrorisme-20260728_VTXDX3G2MFDARGQOQSS52FXERA/"
+        "take": "Souligne sa technique d'assemblage utilisant les rebuts et son influence cruciale au sein du Black Arts Movement.",
+        "url": "https://www.liberation.fr/culture/arts/mort-a-99-ans-de-betye-saar-grande-figure-de-lart-afro-americain-20260728_BFLKXTSIKVHNDCDBZLLV56SBF4/"
       }
     ],
     "id": 5,
@@ -150,20 +150,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Culture"
     ],
-    "title": "Oman propose un mécanisme de gestion du détroit d'Ormuz à l'Iran",
-    "full": "Oman a présenté à l'Iran une proposition visant à créer un système régional conjoint pour la gestion du détroit d'Ormuz, financé par des redevances volontaires. Cette initiative s'inspirerait du modèle actuellement utilisé pour le détroit de Malacca. L'Iran dément actuellement négocier directement avec les États-Unis sur ce dossier.",
+    "title": "Stéphane Bern élu à la tête de l'association de reconstruction de Saint-Denis",
+    "full": "Stéphane Bern a été élu président de l'association Suivez la flèche, chargée de piloter la réfection de la basilique de Saint-Denis, au nord de Paris. Le maire de la ville, Bally Bagayoko, dénonce des « irrégularités » lors du scrutin et qualifie ce changement de « rupture sans précédent », l'édile ayant traditionnellement dirigé cette association. La basilique, l'un des monuments majeurs du patrimoine français et européen, abrite les sépultures de quarante rois et vingt-six reines.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "L'Iran rejette les négociations directes avec Washington mais engage des discussions avec Oman sur une solution régionale inspirée du précédent malais.",
-        "url": "https://www.liberation.fr/international/moyen-orient/liran-dement-negocier-avec-les-etats-unis-mais-discute-avec-oman-20260728_FQKMO6EVGBA2VCDSWWUULC2SVQ/"
+        "outlet": "France Info",
+        "take": "Le maire exprime son désaccord quant à l'élection de Bern et souligne le caractère inédit de cette rupture avec la direction historiquement municipale.",
+        "url": "https://www.franceinfo.fr/culture/patrimoine/basilique-de-saint-denis-une-rupture-sans-precedent-pour-le-maire-bally-bagayoko-apres-l-election-de-stephane-bern-a-la-tete-de-l-association-chargee-de-la-reconstruction_8125652.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "France 24",
-        "take": "Oman propose un cadre nouveau basé sur des contributions volontaires des acteurs régionaux pour la gestion du détroit stratégique.",
-        "url": "https://www.france24.com/fr/moyen-orient/20260728-oman-propose-%C3%A0-l-iran-un-m%C3%A9canisme-pour-la-gestion-du-d%C3%A9troit-d-ormuz"
+        "outlet": "Libération",
+        "take": "La majorité municipale dénonce des dysfonctionnements dans le processus électoral ayant permis à l'animateur de prendre la tête de l'association.",
+        "url": "https://www.liberation.fr/politique/reconstruction-de-la-basilique-de-saint-denis-bally-bagayoko-prend-mal-lelection-de-stephane-bern-20260728_NDUO7WFO5RAGPP3DUPADJJHDME/"
       }
     ],
     "id": 6,
@@ -173,18 +173,18 @@ const ARTICLES = [
     "themes": [
       "Culture"
     ],
-    "title": "Betye Saar, pionnière de l'art afro-américain, disparaît à 99 ans",
-    "full": "L'artiste Betye Saar s'est éteinte dimanche 26 juillet à Los Angeles, quatre jours avant son centième anniversaire. Reconnue pour ses assemblages et son engagement politique, elle a marqué le Black Arts Movement en transformant les matériaux de récupération en œuvres porteuses de libération pour les communautés noires. Sa pratique de l'assemblage et son vision critique de la société américaine en ont fait une figure tutélaire de l'art afro-américain contemporain.",
+    "title": "« L'Odyssée » de Nolan fait un carton au box-office français",
+    "full": "Le film de Christopher Nolan « L'Odyssée » a enregistré plus de 232 000 entrées lors de sa première semaine d'exploitation en France, réalisant le meilleur démarrage cinématographique de 2026 sur le territoire. Le succès a été suffisant pour que le Premier ministre grec adresse ses remerciements au réalisateur. Pour ceux souhaitant découvrir l'œuvre au format IMAX 70 millimètres, préconisé par Nolan lui-même, seule la salle Pathé Odysseum de Montpellier propose ce système en France.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Souligne l'imminence de son centième anniversaire et sa double reconnaissance comme plasticienne et militante politique.",
-        "url": "https://www.lemonde.fr/disparitions/article/2026/07/28/betye-saar-figure-tutelaire-de-l-art-afro-americain-est-morte_6735604_3382.html"
+        "outlet": "France Info",
+        "take": "Le film établit un record de fréquentation à l'ouverture en 2026 et reçoit l'approbation officielle du gouvernement grec.",
+        "url": "https://www.franceinfo.fr/culture/cinema/le-premier-ministre-grec-remercie-christopher-nolan-pour-l-odyssee_8125316.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Libération",
-        "take": "Met l'accent sur sa transformation des rebuts en œuvres de libération et son rôle fondateur dans le Black Arts Movement.",
-        "url": "https://www.liberation.fr/culture/arts/mort-a-99-ans-de-betye-saar-grande-figure-de-lart-afro-americain-20260728_BFLKXTSIKVHNDCDBZLLV56SBF4/"
+        "outlet": "20 Minutes",
+        "take": "Une seule salle française propose la projection en IMAX 70 millimètres, le format techniquement préféré par le cinéaste.",
+        "url": "https://www.20minutes.fr/arts-stars/cinema/4236599-20260728-vu-odyssee-imax-70-mm-format-souhaite-christopher-nolan?at_medium=display&at_campaign=149"
       }
     ],
     "id": 7,
@@ -192,20 +192,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Culture"
     ],
-    "title": "Au Cameroun, l'absence prolongée du président Biya suscite des inquiétudes",
-    "full": "Le président camerounais Paul Biya, 93 ans, est absent de son pays depuis le 7 juin, soit plus de 50 jours. Actuellement en Suisse, le chef de l'État n'a pas été vu en public depuis son départ, ce qui alimente les débats au Cameroun sur son état de santé et le fonctionnement de l'État. L'opposition dénonce un pays en « pilotage automatique », tandis que la présidence assure qu'il « n'y a aucune somnolence au sommet de l'État ». Biya, doyen des chefs d'État mondiaux, dirige le Cameroun depuis 1982 sans alternance politique.",
+    "title": "Le mont Olympe et trois autres sites inscrits au patrimoine mondial",
+    "full": "Le mont Olympe en Grèce, les huit forteresses royales du Languedoc en France, les plages du débarquement en Normandie et les plaines de Boma-Badingilo au Soudan du Sud ont été inscrits dimanche 26 juillet au patrimoine mondial de l'Unesco. Pour la Grèce, cette distinction reconnaît la montagne légendaire, berceau de la mythologie antique. Le Languedoc attendait cette consécration depuis plus de dix-sept ans de démarches administratives.",
     "angles": [
       {
-        "outlet": "France 24",
-        "take": "Cette absence de 50 jours est inédite et divise la classe politique camerounaise entre ceux qui craignent un vide du pouvoir et ceux qui relativisent l'incident.",
-        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260728-cameroun-s%C3%A9jour-d-une-longueur-record-pour-paul-biya-en-suisse"
+        "outlet": "France Info",
+        "take": "Souligne que le mont Olympe devient un bien de l'humanité entière à travers son inscription à l'Unesco.",
+        "url": "https://www.franceinfo.fr/culture/patrimoine/en-grece-le-mont-olympe-inscrit-au-patrimoine-mondial-de-l-unesco_8125493.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Le Monde",
-        "take": "L'absence prolongée ravive les questions sur la continuité institutionnelle dans un pays sans alternance politique depuis son indépendance en 1960.",
-        "url": "https://www.lemonde.fr/afrique/article/2026/07/28/il-n-y-a-aucune-somnolence-au-sommet-de-l-etat-au-cameroun-la-controverse-enfle-sur-l-absence-prolongee-du-president-paul-biya-93-ans_6735290_3212.html"
+        "outlet": "20 Minutes",
+        "take": "Met l'accent sur l'aboutissement d'un long processus initié par le département de l'Aude pour les forteresses languedociennes.",
+        "url": "https://www.20minutes.fr/societe/diaporama-4236499-images-huit-forteresses-royales-languedoc-classees-patrimoine-mondial-unesco?at_medium=display&at_campaign=149"
       }
     ],
     "id": 8,
@@ -213,20 +213,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Insolite"
     ],
-    "title": "Incendies : traitement accéléré des demandes d'activité partielle",
-    "full": "Le gouvernement a annoncé le traitement en urgence des demandes d'activité partielle pour les entreprises affectées par les incendies dans le Sud-Ouest et la Provence. Environ 130 000 salariés sont actuellement empêchés de travailler en raison de ces sinistres. Une réunion est prévue jeudi avec les représentants des entreprises au ministère des Finances pour coordonner les mesures de soutien.",
+    "title": "Les pompiers du monde dansent pour prévenir les incendies",
+    "full": "Depuis juin, des sapeurs-pompiers de plusieurs pays se sont emparés du tube « Every Breath You Take » du groupe The Police pour créer une tendance virale sur les réseaux sociaux. Cette reprise chorégraphiée vise à promouvoir la prévention des incendies auprès du grand public, en transformant un message de sécurité en défi musical.",
     "angles": [
       {
-        "outlet": "L'Humanité",
-        "take": "Met l'accent sur le nombre de salariés impactés et sur l'instruction gouvernementale d'accélérer le traitement des dossiers.",
-        "url": "https://www.humanite.fr/-/-/130-000-salaries-empeches-de-travailler-les-demandes-dactivite-partielle-seront-traitees-en-urgence-annonce-le-gouvernement"
-      },
-      {
-        "outlet": "Le Figaro Éco",
-        "take": "Souligne que le ministère du Travail chiffre à 130 000 le nombre de salariés touchés et organise une réunion de concertation avec les entreprises.",
-        "url": "https://www.lefigaro.fr/social/incendies-les-demandes-d-activite-partielle-seront-traitees-en-urgence-annonce-le-ministere-du-travail-20260728"
+        "outlet": "France Info",
+        "take": "Met l'accent sur le caractère mondial du phénomène et son lancement en juin, où les pompiers détournent un succès musical emblématique pour sensibiliser aux risques d'incendie.",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/la-trend-mondiale-des-pompiers-pour-prevenir-les-incendies_8126090.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 9,
@@ -234,20 +229,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Insolite"
     ],
-    "title": "Enquête administrative demandée contre le groupe de crèches People & Baby",
-    "full": "Le syndicat national des professionnels de la petite enfance réclame une enquête administrative sur le groupe People & Baby et demande un moratoire sur toute nouvelle autorisation ou délégation de service public le concernant. Cette demande intervient après la fermeture de deux crèches du groupe pour soupçons de maltraitance, dont une en mai dans l'Oise où un enfant de 21 mois avait été retrouvé dans un état d'intoxication alcoolique.",
+    "title": "Un magasin marseillais crée une collection capsule avec Decathlon",
+    "full": "La boutique Saison, basée à Marseille, s'associe à l'équipementier sportif Decathlon pour une ligne de vêtements et accessoires. Cette collaboration allie design épuré et prix accessibles, attirant l'attention des consommateurs pour sa proposition originale mêlant la créativité du magasin indépendant aux ressources du géant français du sport.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Le syndicat demande au gouvernement un moratoire complet sur les nouvelles autorisations et délégations de service public en faveur du groupe.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/29/creches-people-baby-le-syndicat-national-des-professionnels-de-la-petite-enfance-demande-une-enquete-administrative_6735871_3224.html"
-      },
-      {
-        "outlet": "France Info",
-        "take": "La demande d'enquête suit plusieurs fermetures de crèches et un incident grave en mai impliquant un nourrisson alcoolisé.",
-        "url": "https://www.franceinfo.fr/societe/les-professionnels-de-la-petite-enfance-demandent-une-enquete-administrative-sur-les-creches-people-baby_8125670.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "20 Minutes",
+        "take": "Présente cette association comme l'une des collaborations entre marques les plus remarquées de l'été, conjuguant style et prix abordable.",
+        "url": "https://www.20minutes.fr/tempo/4236531-20260728-comment-shop-marseillais-signe-collab-plus-cool-decathlon?at_medium=display&at_campaign=149"
       }
     ],
     "id": 10,
@@ -255,218 +245,18 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Insolite"
     ],
-    "title": "Stéphane Bern élu à la tête de l'association de reconstruction de Saint-Denis",
-    "full": "L'animateur Stéphane Bern a été élu président de l'association Suivez la flèche, qui pilote la réfection de la basilique de Saint-Denis, l'un des monuments majeurs du patrimoine français où reposent quarante rois et vingt-six reines. Le maire de Saint-Denis, Bally Bagayoko, dénonce une « rupture sans précédent » et conteste la régularité du scrutin. Jusqu'à présent, l'édile présidait toujours cette association chargée de la reconstruction.",
+    "title": "Les canines du tigre à dents de sabre étaient plus redoutables qu'on le croyait",
+    "full": "Une nouvelle étude d'ossements préhistoriques, datés de plus de 13 000 ans, révèle que les canines démesurées du Smilodon, longtemps jugées fragiles, pouvaient en réalité transpercer les os. Cette découverte remet en question la compréhension traditionnelle de la puissance de morsure de ce félin disparu et de son efficacité de chasseur.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Stéphane Bern a été élu à la tête de l'association Suivez la flèche, qui supervise les travaux de la basilique de Saint-Denis.",
-        "url": "https://www.franceinfo.fr/culture/patrimoine/basilique-de-saint-denis-une-rupture-sans-precedent-pour-le-maire-bally-bagayoko-apres-l-election-de-stephane-bern-a-la-tete-de-l-association-chargee-de-la-reconstruction_8125652.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Libération",
-        "take": "La majorité municipale conteste les « irrégularités » du scrutin et regrette la perte du contrôle de l'association, traditionnellement présidée par le maire.",
-        "url": "https://www.liberation.fr/politique/reconstruction-de-la-basilique-de-saint-denis-bally-bagayoko-prend-mal-lelection-de-stephane-bern-20260728_NDUO7WFO5RAGPP3DUPADJJHDME/"
+        "outlet": "Slate",
+        "take": "Les fossiles prouvent que les dents caractéristiques du Smilodon possédaient une résistance bien supérieure aux estimations antérieures.",
+        "url": "https://www.slate.fr/sciences/felins-tigre-dents-canines-morsures-sabre-danger-prehistoire-decouverte-nature-machoire"
       }
     ],
     "id": 11,
     "priority": 12
-  },
-  {
-    "themes": [
-      "Tech & Sciences",
-      "Économie"
-    ],
-    "title": "Sam Altman estime que l'IA a dépassé l'intelligence humaine",
-    "full": "Le cofondateur d'OpenAI a déclaré lors d'un podcast que l'intelligence artificielle avait atteint la singularité technologique, le moment où les machines dépasseraient l'homme. Sam Altman s'est dit enthousiasmé par ces progrès, tout en préconisant un ralentissement volontaire du développement de l'IA pour laisser l'écosystème informatique s'adapter. Ces propos interviennent après qu'OpenAI ait révélé qu'une cyberattaque aurait impliqué deux de ses modèles.",
-    "angles": [
-      {
-        "outlet": "Libération",
-        "take": "Sam Altman estime nécessaire de ralentir volontairement le développement de l'IA afin que le secteur informatique ait le temps de se préparer aux défis que pose cette technologie.",
-        "url": "https://www.liberation.fr/societe/sante/incident-openai-sam-altman-evoque-un-ralentissement-volontaire-du-developpement-de-lia-20260728_K2YFJHJMWVF6PHMO54W2P2JW6Q/"
-      },
-      {
-        "outlet": "Le Figaro Éco",
-        "take": "Le dirigeant affirme que l'IA a franchi un seuil historique en surpassant l'intelligence humaine, décrivant cela comme l'accomplissement d'une aspiration de longue date.",
-        "url": "https://www.lefigaro.fr/secteur/high-tech/j-ai-attendu-ca-toute-ma-vie-sam-altman-fondateur-d-openai-estime-que-l-ia-a-depasse-l-intelligence-humaine-20260728"
-      }
-    ],
-    "id": 12,
-    "priority": 13
-  },
-  {
-    "themes": [
-      "Monde",
-      "Environnement"
-    ],
-    "title": "Espagne : Sanchez propose un pacte climatique rejeté par la droite",
-    "full": "Alors que les incendies qui ravagent l'Espagne sont en passe d'être maîtrisés, le Premier ministre socialiste Pedro Sanchez a présenté un « pacte d'État » pour renforcer la prévention des catastrophes climatiques. Ce plan, élaboré en 2025 avec la société civile et les scientifiques, a été rejeté par la droite espagnole. Sanchez considère l'adoption de ces mesures comme urgente face à la menace climatique.",
-    "angles": [
-      {
-        "outlet": "Le Monde",
-        "take": "Met l'accent sur le rejet du pacte climatique par une droite qualifiée de climatosceptique et sur l'urgence politique avancée par Sanchez.",
-        "url": "https://www.lemonde.fr/planete/article/2026/07/28/en-espagne-le-pacte-d-etat-de-pedro-sanchez-face-a-l-urgence-climatique-est-rejete-par-la-droite_6735402_3244.html"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Souligne les progrès opérationnels des pompiers dans la lutte immédiate contre les incendies, avec des déclarations optimistes du Premier ministre.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260728-espagne-sanchez-voit-la-lumi%C3%A8re-au-bout-du-tunnel-dans-la-lutte-contre-les-incendies"
-      }
-    ],
-    "id": 13,
-    "priority": 14
-  },
-  {
-    "themes": [
-      "France",
-      "Économie"
-    ],
-    "title": "Deuxième « méga décret » de simplification publié au Journal officiel",
-    "full": "Le gouvernement a publié un second décret de simplification administrative comportant une trentaine de mesures. Ce texte, issu du chantier lancé par le premier ministre, vise à faciliter les projets photovoltaïques, accélérer la construction de logements sociaux et assouplir les contraintes environnementales. Il modifie également des dispositions relatives à l'urbanisme, la sécurité intérieure et d'autres domaines connexes.",
-    "angles": [
-      {
-        "outlet": "Le Figaro Éco",
-        "take": "Souligne le logement social et les contraintes environnementales comme enjeux centraux du décret de simplification.",
-        "url": "https://www.lefigaro.fr/conjoncture/logement-social-contraintes-environnementales-un-deuxieme-mega-decret-de-simplification-publie-au-journal-officiel-20260728"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Détaille la pluralité des domaines affectés, mettant l'accent sur les projets photovoltaïques et la sécurité intérieure.",
-        "url": "https://www.franceinfo.fr/politique/projets-photovoltaiques-logements-sociaux-securite-interieure-le-deuxieme-mega-decret-de-simplification-publie-au-journal-officiel_8125361.html#xtor=RSS-3-%5Bgeneral%5D"
-      }
-    ],
-    "id": 14,
-    "priority": 15
-  },
-  {
-    "themes": [
-      "Environnement",
-      "Société"
-    ],
-    "title": "Dans le Var, l'incendie du Gros-Bessillon est fixé après une semaine",
-    "full": "L'incendie qui ravage le Var depuis le 21 juillet a été fixé en fin de journée lundi 27 juillet, selon la préfecture. Le sinistre a détruit environ 4 500 hectares de forêt et 31 à 33 maisons. Quelque 1 000 pompiers restent mobilisés pour consolider la maîtrise du feu, tandis que les habitants des zones affectées s'organisent pour faciliter l'approvisionnement en eau et soutenir les équipes d'intervention.",
-    "angles": [
-      {
-        "outlet": "France Info",
-        "take": "Insiste sur la mobilisation citoyenne locale pour aider les pompiers dans leurs efforts de ravitaillement et de maîtrise du sinistre.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/on-est-tous-la-pour-aider-les-pompiers-dans-le-var-les-habitants-se-mobilisent-pour-acheminer-de-l-eau-et-fixer-l-incendie_8125148.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Souligne l'épuisement physique des pompiers engagés en continu depuis une semaine pour combattre les flammes.",
-        "url": "https://www.lemonde.fr/planete/article/2026/07/28/dans-le-var-l-incendie-du-gros-bessillon-est-fixe-laissant-des-pompiers-epuises-c-est-du-non-stop-depuis-huit-jours_6735605_3244.html"
-      }
-    ],
-    "id": 15,
-    "priority": 16
-  },
-  {
-    "themes": [
-      "Culture"
-    ],
-    "title": "Le mont Olympe et des sites français inscrits au patrimoine mondial",
-    "full": "Le mont Olympe en Grèce, les Forteresses royales du Languedoc et les plages du débarquement en Normandie ont été inscrits au patrimoine mondial de l'Unesco dimanche 26 juillet. La Grèce célèbre cette reconnaissance du sommet mythologique des divinités grecques. Pour le Languedoc, ce classement des huit forteresses de l'Aude couronne plus de dix-sept années de travaux et démarches administratives.",
-    "angles": [
-      {
-        "outlet": "France Info",
-        "take": "Souligne la dimension symbolique et mythologique du mont Olympe, désormais reconnu comme patrimoine de toute l'humanité.",
-        "url": "https://www.franceinfo.fr/culture/patrimoine/en-grece-le-mont-olympe-inscrit-au-patrimoine-mondial-de-l-unesco_8125493.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "Insiste sur l'effort de longue haleine du département de l'Aude pour obtenir le classement de ses huit forteresses.",
-        "url": "https://www.20minutes.fr/societe/diaporama-4236499-images-huit-forteresses-royales-languedoc-classees-patrimoine-mondial-unesco?at_medium=display&at_campaign=149"
-      }
-    ],
-    "id": 16,
-    "priority": 17
-  },
-  {
-    "themes": [
-      "Santé"
-    ],
-    "title": "Le déficit des hôpitaux publics atteindrait 2,3 milliards en 2025",
-    "full": "Les hôpitaux publics français afficheraient un déficit de 2,3 milliards d'euros en 2025, représentant 2,1% de leurs recettes, selon une étude de la Drees (Direction de la recherche, des études, de l'évaluation et des statistiques). Ce chiffre marquerait une amélioration par rapport à 2024, année record où le déficit avait atteint 2,9 milliards d'euros, soit 2,7% des recettes.",
-    "angles": [
-      {
-        "outlet": "France Info",
-        "take": "Souligne que le déficit représente 2,1% des recettes globales des hôpitaux publics en 2025.",
-        "url": "https://www.franceinfo.fr/sante/hopital/le-deficit-des-hopitaux-publics-estime-a-2-3-milliard-d-euros-en-2025-selon-la-drees_8124869.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Contextualise en comparant avec 2024, année où le déficit avait atteint son plus haut niveau.",
-        "url": "https://www.lemonde.fr/societe/article/2026/07/28/le-deficit-des-hopitaux-publics-estime-a-2-3-milliards-d-euros-en-2025-selon-la-drees_6734804_3224.html"
-      }
-    ],
-    "id": 17,
-    "priority": 18
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Les pompiers du monde dansent sur du Police pour prévenir les incendies",
-    "full": "Depuis juin, les sapeurs-pompiers de plusieurs pays participent à une tendance virale en reprenant sur les réseaux sociaux « Every Breath You Take », le célèbre titre de The Police. Cette chorégraphie collective vise à sensibiliser le public aux risques d'incendie de manière ludique et décalée, en détournant l'aspect sérieux de la prévention.",
-    "angles": [
-      {
-        "outlet": "France Info",
-        "take": "Présente cette tendance mondiale comme une stratégie de prévention originale, démarrée en juin, qui s'appuie sur le succès viral d'une chanson bien connue.",
-        "url": "https://www.franceinfo.fr/faits-divers/incendie/la-trend-mondiale-des-pompiers-pour-prevenir-les-incendies_8126090.html#xtor=RSS-3-%5Bgeneral%5D"
-      }
-    ],
-    "id": 18,
-    "priority": 19
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Un magasin marseillais lance une collection avec Decathlon",
-    "full": "La boutique marseillaise Saison s'associe à l'équipementier Decathlon pour proposer une collection capsule cet été. Cette collaboration conjugue accessibilité tarifaire et ambition stylistique, selon le média.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "L'accent est mis sur le caractère remarquable de cette collaboration, présentée comme particulièrement prisée par rapport à d'autres partenariats entre marques.",
-        "url": "https://www.20minutes.fr/tempo/4236531-20260728-comment-shop-marseillais-signe-collab-plus-cool-decathlon?at_medium=display&at_campaign=149"
-      }
-    ],
-    "id": 19,
-    "priority": 20
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Le tigre à dents de sabre était plus redoutable qu'on ne le croyait",
-    "full": "Une nouvelle étude menée sur des ossements vieux de plus de 13 000 ans révèle que les canines démesurées du Smilodon, bien que longtemps jugées fragiles, pouvaient transpercer des os. Ces crocs légendaires de la préhistoire s'avéraient donc bien plus efficaces et dangereuses que les hypothèses antérieures ne l'indiquaient.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "Les découvertes paléontologiques remettent en question la fragilité présumée des impressionnantes canines du félin préhistorique, révélant un potentiel lésif bien supérieur.",
-        "url": "https://www.slate.fr/sciences/felins-tigre-dents-canines-morsures-sabre-danger-prehistoire-decouverte-nature-machoire"
-      }
-    ],
-    "id": 20,
-    "priority": 21
-  },
-  {
-    "themes": [
-      "Insolite",
-      "Tech & Sciences"
-    ],
-    "title": "Des chercheurs lancent un compte OnlyFans pour financer leurs études sur les marmottes",
-    "full": "Face aux réductions budgétaires dans la recherche aux États-Unis, une équipe de scientifiques spécialistes des marmottes a décidé de recourir à OnlyFans, la plateforme de contenu pour adultes, afin de lever des fonds. Cette stratégie inédite illustre les difficultés croissantes de financement auxquelles font face les équipes de recherche américaines. Les chercheurs proposent du contenu exclusif sur leurs travaux avec les rongeurs pour attirer des abonnés payants.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "Slate souligne le caractère insolite et innovant d'une équipe scientifique qui contourne les coupes budgétaires gouvernementales en utilisant une plateforme de monétisation de contenu initialement conçue à d'autres fins.",
-        "url": "https://www.slate.fr/sciences/onlyfans-marmottes-scientifiques-recherche-argent-sous-coupes-budgetaires-animaux-innovation-rongeurs"
-      }
-    ],
-    "id": 21,
-    "priority": 22
   }
 ];
