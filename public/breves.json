@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-07-31T06:36:50.332493+00:00",
-  "date_label": "Vendredi 31 juillet",
-  "count": 26,
+  "generated_at": "2026-08-01T04:02:23.290441+00:00",
+  "date_label": "Samedi 1 août",
+  "count": 18,
   "breves": [
     {
       "themes": [
-        "Monde"
+        "France",
+        "Environnement"
       ],
-      "title": "Le Hamas accepte un désarmement progressif à Gaza",
-      "full": "Le Hamas a consenti jeudi à un accord de désarmement dans la bande de Gaza, en vue d'appliquer la deuxième phase du cessez-le-feu avec Israël, selon une annonce du président américain Donald Trump. Cet accord prévoit une remise progressive des armes à une instance palestinienne. Israël a cependant exprimé son scepticisme, estimant que le texte ne répondrait pas à ses exigences de démilitarisation totale de l'enclave, rapporte la presse israélienne.",
+      "title": "Incendies en France: progression en Gironde, nouvelles évacuations dans le Var",
+      "full": "Les incendies qui ravagent le sud-ouest et le sud-est de la France poursuivent leur progression. En Gironde, environ 200 000 personnes sur 220 000 déplacées ont pu regagner leur domicile, mais le feu n'est pas encore fixé selon la préfète. Dans le Var, un incendie du massif du Gros Bessillon, attisé par un mistral violent, a repris jeudi et entraîne l'évacuation de 2 500 personnes supplémentaires sur environ 1 000 hectares parcourus. Ces sinistres provoquent aussi des conséquences économiques: le secteur touristique girondais connaît des annulations massives, y compris dans des zones épargnées, jusqu'à 70 kilomètres des foyers.",
       "angles": [
         {
-          "outlet": "Mediapart",
-          "take": "L'accord a été annoncé jeudi soir par Donald Trump, avec remise des armes à une instance palestinienne.",
-          "url": "https://www.mediapart.fr/journal/international/310726/treve-gaza-le-hamas-consent-un-accord-sur-le-desarmement"
+          "outlet": "Le Monde",
+          "take": "En Gironde, la majorité des évacués ont pu revenir malgré la poursuite des opérations; en Var, le feu a repris et force de nouvelles évacuations.",
+          "url": "https://www.lemonde.fr/planete/live/2026/08/01/en-direct-incendies-dans-le-var-2-500-personnes-evacuees-et-1-000-hectares-parcourus-par-un-feu-qui-depasse-l-entendement-estime-le-prefet_6737097_3244.html"
         },
         {
-          "outlet": "Courrier International",
-          "take": "Israël conteste l'accord en jugeant qu'il ne répond pas à ses exigences de démilitarisation totale de Gaza.",
-          "url": "https://www.courrierinternational.com/article/gaza-trump-annonce-un-accord-sur-le-desarmement-du-hamas-malgre-le-scepticisme-d-israel_254895"
+          "outlet": "France Info",
+          "take": "Le secteur touristique girondais subit des pertes massives dues aux annulations de vacanciers, même dans des régions non touchées par les flammes.",
+          "url": "https://www.franceinfo.fr/economie/tourisme/une-espece-de-tourisme-solidaire-doit-se-mettre-en-place-d-arcachon-a-biscarrosse-l-absence-de-touristes-apres-les-incendies-inquiete-le-secteur_8130191.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France 24",
-          "take": "Cet accord s'inscrit dans la mise en œuvre de la deuxième phase du plan de paix du président Trump au Moyen-Orient.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260730-en-direct-moyen-orient-gaza-iran-accord-desarmement-hamas-israel-donald-trump-ormuz"
+          "outlet": "Le Figaro Sciences",
+          "take": "Le réchauffement climatique entraîne une multiplication des vagues de chaleur en Europe et des conditions favorables aux incendies.",
+          "url": "https://www.lefigaro.fr/sciences/on-ne-retrouvera-plus-les-etes-de-notre-jeunesse-comment-le-rechauffement-climatique-entraine-des-canicules-a-repetition-en-europe-20260729"
         }
       ],
       "id": 0,
@@ -31,25 +32,30 @@
     },
     {
       "themes": [
-        "Monde"
+        "France"
       ],
-      "title": "Un missile russe s'écrase en Pologne lors d'une attaque massive",
-      "full": "Un cratère a été découvert jeudi matin en Pologne, près de Tarnawa-Kolonia dans la région de Lublin, à environ 80 km de la frontière ukrainienne, après une puissante détonation entendue peu avant 4 heures. Les autorités locales estiment qu'il s'agit d'un missile balistique russe ayant pénétré l'espace aérien polonais lors d'une offensive nocturne contre l'ouest de l'Ukraine. Cette nuit-là, l'armée de l'air ukrainienne a dénombré 74 missiles et 284 drones lancés par la Russie, causant au moins 8 morts en Ukraine dont six membres d'une même famille.",
+      "title": "Un syndicaliste agricole présente ses excuses à Marine Tondelier",
+      "full": "Régis Desrumaux, président de la FDSEA de l'Oise, a présenté ses excuses publiques à Marine Tondelier, secrétaire nationale des Écologistes, après l'avoir insultée sur Facebook. Le responsable syndical avait utilisé des termes grossiers envers la responsable écologiste suite au vote de la loi d'urgence agricole réintroduisant deux pesticides interdits en France. Tondelier avait exigé des excuses publiques et menacé de poursuites judiciaires.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Les témoins locaux polonais ont signalé une détonation près de la localité, laissant penser à un impact de projectile.",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/tout-porte-a-croire-qu-il-s-agit-d-un-missile-balistique-russe-un-cratere-decouvert-en-pologne-au-lendemain-de-frappes-nocturnes-en-ukraine_8128346.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "outlet": "Le Figaro International",
-          "take": "L'intrusion du missile en territoire polonais soulève des questions sur l'efficacité de la défense aérienne de l'Otan face aux menaces russes.",
-          "url": "https://www.lefigaro.fr/international/derriere-la-chute-d-un-missile-russe-en-pologne-la-defense-aerienne-de-l-otan-a-l-epreuve-des-menaces-de-moscou-20260730"
-        },
-        {
           "outlet": "Libération",
-          "take": "Le bombardement faisait suite à un avertissement du président Zelensky concernant un risque d'attaque massive.",
-          "url": "https://www.liberation.fr/international/europe/ukraine-huit-morts-dans-des-bombardements-russes-dont-six-dune-meme-famille-20260730_YSH52DBW5RH5NJLLSFBOWAX55E/"
+          "take": "Le conflit s'est résolu par les excuses publiques obtenues par Tondelier après son interpellation directe du syndicaliste.",
+          "url": "https://www.liberation.fr/politique/insultee-par-un-syndicaliste-agricole-marine-tondelier-reclame-des-excuses-publiques-20260731_A2OFPDCT6NDZBHKZQRLM4B2GBM/"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "L'insulte a suivi le désaccord politique sur la réintroduction dérogatoire de deux pesticides par la loi d'urgence agricole.",
+          "url": "https://www.20minutes.fr/politique/4237203-20260731-pesticides-insultee-responsable-fnsea-marine-tondelier-exige-excuses-publiques?at_medium=display&at_campaign=149"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "L'insulte a été proférée sur la page privée du responsable, et Tondelier a menacé explicitement de recours juridiques.",
+          "url": "https://www.lemonde.fr/politique/article/2026/07/31/un-responsable-de-la-fnsea-presente-ses-excuses-a-marine-tondelier-apres-l-avoir-insultee_6737126_823449.html"
+        },
+        {
+          "outlet": "L'Humanité",
+          "take": "Cet incident révèle le sexisme persistant en politique et a suscité le soutien unanime des élus de gauche envers Tondelier.",
+          "url": "https://www.humanite.fr/feminisme/fnsea/force-a-toutes-les-grosses-salopes-et-a-toutes-les-sales-connes-marine-tondelier-riposte-apres-linsulte-sexiste-dun-membre-de-la-fnsea"
         }
       ],
       "id": 1,
@@ -57,40 +63,26 @@
     },
     {
       "themes": [
-        "Monde"
+        "Tech & Sciences",
+        "Économie"
       ],
-      "title": "Afflux massif de migrants à Ceuta, neuf morts lors de la traversée",
-      "full": "Plusieurs centaines de migrants sont entrés illégalement jeudi dans l'enclave espagnole de Ceuta depuis le Maroc, au moins neuf personnes ayant péri durant la traversée à la nage. Plus de 1 500 personnes sont déjà arrivées, tandis que des milliers d'autres sont rassemblées à Fnideq, au nord du Maroc, selon les autorités. L'Espagne dépêche 60 soldats en renfort et annonce des expulsions rapides, aux côtés du Maroc. Cet afflux ravive les tensions entre Madrid et Rabat et provoque un différend avec Rome, l'Italie demandant la suspension de l'Espagne de l'espace Schengen.",
+      "title": "OpenAI franchit le cap du milliard d'utilisateurs actifs",
+      "full": "OpenAI a annoncé avoir dépassé le milliard d'utilisateurs actifs de ses outils d'intelligence artificielle, dont ChatGPT, moins de quatre ans après le lancement de ce dernier. L'entreprise compte également deux millions de clients entreprise. Cette croissance exceptionnellement rapide illustre l'adoption massive de l'IA générative. OpenAI accélère parallèlement le développement de modèles à bas coût pour répondre à une concurrence de plus en plus intense dans le secteur.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "L'armée espagnole est mobilisée face à l'arrivée massive de migrants, tandis que des centaines d'autres attendent encore à la frontière marocaine.",
-          "url": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort"
-        },
-        {
           "outlet": "20 Minutes",
-          "take": "Plus de 1 500 migrants sont parvenus à atteindre Ceuta en quelques jours, forçant les autorités à renforcer les mesures de sécurité.",
-          "url": "https://www.20minutes.fr/monde/espagne/4237119-20260731-afflux-migrants-morts-tensions-italie-sait-situation-ceuta?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "Mediapart",
-          "take": "Des rumeurs d'ouverture de la frontière auraient déclenché la convergence de milliers de personnes vers l'enclave espagnole.",
-          "url": "https://www.mediapart.fr/journal/international/310726/au-maroc-des-milliers-de-personnes-rassemblees-pres-de-la-frontiere-avec-ceuta"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Espagne et Maroc prévoient des expulsions rapides, une pratique jugée problématique par le droit humanitaire international.",
-          "url": "https://www.liberation.fr/international/europe/au-moins-neuf-morts-dans-lentree-de-migrants-a-ceuta-un-morceau-deurope-enclave-au-maroc-20260730_6EYSCVGVGZBINDZGBF4IMQAMDA/"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Cet afflux, composé majoritairement de jeunes hommes et d'adolescents, réactive les tensions bilatérales entre Madrid et Rabat.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/31/un-afflux-massif-de-migrants-a-ceuta-ravive-les-tensions-entre-madrid-et-rabat_6737073_3210.html"
+          "take": "Met l'accent sur la stratégie d'OpenAI face à la concurrence, notamment la diversification vers des modèles d'IA moins onéreux.",
+          "url": "https://www.20minutes.fr/high-tech/facebook/4237265-20260731-openai-createur-chatgpt-annonce-avoir-depasse-milliard-utilisateurs-actifs?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "France Info",
-          "take": "L'Italie menace de suspendre l'Espagne de l'espace Schengen, provoquant une protestation diplomatique espagnole.",
-          "url": "https://www.franceinfo.fr/monde/italie/l-italie-veut-suspendre-l-espagne-de-l-espace-schengen-apres-que-des-centaines-de-migrants-sont-arrives-a-ceuta-madrid-denonce-la-demagogie-de-rome_8129171.html#xtor=RSS-3-[lestitres]"
+          "take": "Souligne l'importance du segment des clients entreprise, qui représente deux millions de comptes.",
+          "url": "https://www.franceinfo.fr/internet/openai-annonce-avoir-depasse-le-milliard-d-utilisateurs-actifs-moins-de-quatre-ans-apres-le-lancement-de-chatgpt_8130446.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "outlet": "Le Figaro Éco",
+          "take": "Compare la vitesse de croissance d'OpenAI à celle de Facebook, mettant en avant une ascension exceptionnellement rapide.",
+          "url": "https://www.lefigaro.fr/societes/openai-annonce-avoir-depasse-le-milliard-d-utilisateurs-actifs-en-quelques-annees-seulement-20260731"
         }
       ],
       "id": 2,
@@ -98,30 +90,25 @@
     },
     {
       "themes": [
-        "France"
+        "Sport"
       ],
-      "title": "Arrêté d'expulsion et gel des avoirs contre Xenia Fedorova",
-      "full": "Le gouvernement français a notifié un arrêté d'expulsion à Xenia Fedorova, ancienne dirigeante de RT France et chroniqueuse sur plusieurs médias français, l'accusant de relayer la propagande du Kremlin. Le ministre de l'Intérieur Laurent Nuñez a défendu cette mesure en affirmant qu'elle ne constitue pas une atteinte à la liberté d'expression mais vise à protéger les intérêts fondamentaux de la nation. Un second arrêté, publié au Journal officiel le 31 juillet, gèle également ses avoirs en France pour une durée de six mois, renouvelable, afin de prévenir des actes d'ingérence. Cette décision divise le spectre politique, certains saluant la lutte contre l'influence russe tandis que d'autres dénoncent une atteinte aux libertés ou un deux poids deux mesures.",
+      "title": "Avalanche au Pakistan : dix alpinistes portés disparus dont Nirmal Purja",
+      "full": "Une avalanche a enseveli dix alpinistes jeudi sur le Broad Peak (8 047 mètres) dans la chaîne du Karakoram, au Pakistan. Parmi eux se trouve Nirmal Purja, alpiniste népalais-britannique de 43 ans connu pour avoir gravi les quatorze plus hauts sommets du monde en un temps record. Quatre corps ont été retrouvés par les équipes de secours vendredi, mais les recherches pour localiser les six autres se poursuivent.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Les autorités accusent Fedorova de diffuser la propagande du Kremlin, tandis que ses soutiens contestent cette décision en invoquant le pluralisme.",
-          "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/pour-quelles-raisons-xenia-fedorova-ancienne-dirigeante-de-rt-france-est-elle-visee-par-une-expulsion_8069477.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Le Rassemblement national est divisé: certains membres soutiennent la lutte contre l'ingérence russe, d'autres y voient une censure politique.",
-          "url": "https://www.france24.com/fr/france/20260730-censure-ou-bonne-d%C3%A9cision-arr%C3%AAt%C3%A9-expulsion-visant-xenia-fedorova-division-extr%C3%AAme-droite-propagande-russie"
-        },
-        {
           "outlet": "Le Monde",
-          "take": "Nuñez présente l'expulsion comme une réponse à une menace pour les intérêts fondamentaux de la nation française.",
-          "url": "https://www.lemonde.fr/politique/article/2026/07/30/xenia-fedorova-propagandiste-russe-visee-par-un-arrete-d-expulsion-laurent-nunez-affirme-que-ce-n-est-pas-une-atteinte-a-la-liberte-d-expression_6737064_823448.html"
+          "take": "Met l'accent sur le profil exceptionnnel de Nirmal Purja et ses exploits passés, ainsi que sur les conditions difficiles des recherches en haute montagne.",
+          "url": "https://www.lemonde.fr/sport/article/2026/07/31/au-pakistan-sur-les-pentes-du-broad-peak-les-difficiles-recherches-pour-retrouver-les-dix-alpinistes-ensevelis-dont-nirmal-purja_6737151_3242.html"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Rapporte que quatre corps ont été découverts vendredi matin sans que leur identité n'ait pu être établie.",
+          "url": "https://www.franceinfo.fr/sports/sports-extremes/dix-personnes-dont-la-star-de-l-alpinisme-nirmal-purja-portees-disparues-apres-une-avalanche-au-pakistan_8129468.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "Libération",
-          "take": "Le gel des avoirs s'accompagne formellement d'un objectif de prévention des actes d'ingérence étrangère.",
-          "url": "https://www.liberation.fr/international/europe/visee-par-un-arrete-dexpulsion-la-propagandiste-russe-xenia-fedorova-voit-ses-avoirs-geles-en-france-pour-six-mois-20260731_F7E75HUS4RDE5HE2SNV4ST6C4E/"
+          "take": "Précise que Nirmal Purja dirigeait l'expédition et reste injoignable depuis les faits.",
+          "url": "https://www.liberation.fr/international/asie-pacifique/nirmal-purja-star-de-lalpinisme-porte-disparu-apres-une-avalanche-au-pakistan-20260731_6QFIBUQBEVEMPLZ7KM3M3JPGIY/"
         }
       ],
       "id": 3,
@@ -129,30 +116,25 @@
     },
     {
       "themes": [
-        "France"
+        "Sport"
       ],
-      "title": "La justice autorise Marine Le Pen à utiliser « renaissance »",
-      "full": "Le tribunal judiciaire de Paris a rejeté la demande du parti Renaissance visant à interdire au Rassemblement national d'utiliser le terme « renaissance » dans sa campagne présidentielle. Les juges ont estimé que l'utilisation du mot commun ne créait aucune confusion avec le nom propre du parti de Gabriel Attal, ni ne laissait supposer une collaboration entre les deux mouvements. Renaissance a annoncé son intention de faire appel de cette décision.",
+      "title": "Les Girondins de Bordeaux rachetés par le fonds Sparta Capital",
+      "full": "Le fonds d'investissement britannique Sparta Capital a trouvé un accord vendredi 31 juillet pour racheter les Girondins de Bordeaux. Cette transaction apporte les garanties financières qui manquaient au club, lequel risquait de jouer en Régional 1, le cinquième échelon français, faute de financement. Le rachat éloigne ainsi le spectre d'une liquidation pour le club six fois champion de Ligue 1.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Le tribunal juge que le RN utilise le nom commun sans risque de confusion avec la marque politique Renaissance.",
-          "url": "https://www.franceinfo.fr/politique/la-justice-autorise-marine-le-pen-a-utiliser-le-terme-renaissance-et-rejette-un-recours-du-parti-renaissance_8128634.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "La décision intervient après une assignation de Renaissance concernant une affiche de campagne datant de juillet.",
-          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/07/30/le-tribunal-de-paris-rejette-la-demande-de-gabriel-attal-visant-a-interdire-au-rn-d-utiliser-le-mot-renaissance_6737022_6205049.html"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Le RN se félicite de ce déboutage tandis que Renaissance annonce un recours en appel.",
-          "url": "https://www.20minutes.fr/politique/4237108-20260730-presidentielle-2027-gabriel-attal-deboute-utilisation-slogan-campagne-renaissance-marine-pen?at_medium=display&at_campaign=149"
+          "take": "Les deux parties ont conclu un accord financier qui met fin aux incertitudes pesant sur l'avenir du club.",
+          "url": "https://www.franceinfo.fr/sports/foot/accord-trouve-entre-le-fonds-britannique-sparta-capital-et-les-girondins-de-bordeaux-pour-la-vente-du-club_8130158.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "Libération",
-          "take": "La cour a également rejeté les accusations de parasitisme portées par le parti macroniste.",
-          "url": "https://www.liberation.fr/politique/elections/presidentielle-la-justice-deboute-attal-sur-lutilisation-du-mot-renaissance-par-marine-le-pen-pour-sa-campagne-20260730_EPAG7JFFAFAJXPC36V36BJNLRE/"
+          "take": "Après avoir échappé à la liquidation grâce au rachat, le club peut désormais maintenir son statut professionnel.",
+          "url": "https://www.liberation.fr/sports/football/chute-des-girondins-de-bordeaux-le-club-vendu-a-un-fonds-dinvestissement-britannique-la-liquidation-seloigne-20260731_OKEFBPX3JBFODDAIF3BJU7UDEE/"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Cette acquisition marque le départ attendu de Gérard Lopez, ancien propriétaire du club.",
+          "url": "https://www.20minutes.fr/sport/football/4237208-20260731-girondins-bordeaux-club-point-etre-rachete-gerard-lopez-va-enfin-aller?at_medium=display&at_campaign=149"
         }
       ],
       "id": 4,
@@ -160,30 +142,25 @@
     },
     {
       "themes": [
-        "Culture"
+        "Environnement"
       ],
-      "title": "L'Odyssée de Nolan devient un phénomène mondial au cinéma",
-      "full": "L'adaptation cinématographique de L'Odyssée par Christopher Nolan est devenue un succès commercial majeur, franchissant la barre des 700 millions de dollars de recettes mondiales deux semaines après sa sortie française du 15 juillet, pour un budget de 250 millions de dollars. Le film a aussi stimulé les ventes du roman antique en librairies britanniques. Cependant, le film fait débat : la traductrice Emily Wilson a publié une critique négative lundi 27 juillet, déclenchant une polémique entre intellectuels et commentateurs sur ses qualités artistiques et son message politique.",
+      "title": "Des ossements de mammouth découverts dans le Danube asséché",
+      "full": "Le niveau exceptionnellement bas du Danube en Bulgarie a mis au jour des ossements de mammouth, découverts le 29 juillet dans le nord du pays. Selon Nikolay Nenov, directeur du musée régional d'histoire de Roussé, il s'agit avec certitude des restes d'un jeune mammouth laineux de l'ère glaciaire. Cette découverte fortuite, faite par un habitant local, résulte de la sécheresse qui affecte actuellement le continent.",
       "angles": [
         {
+          "outlet": "Reporterre",
+          "take": "Met l'accent sur la confirmation scientifique de la découverte et le rôle d'une habitant qui a repéré les ossements par hasard.",
+          "url": "https://reporterre.net/En-Bulgarie-des-ossements-de-mammouth-decouverts-dans-le-lit-asseche-du-Danube"
+        },
+        {
+          "outlet": "Sciences et Avenir",
+          "take": "Souligne que la baisse exceptionnelle du fleuve révèle un mammouth laineux de l'ère glaciaire.",
+          "url": "https://www.sciencesetavenir.fr/archeo-paleo/le-faible-niveau-du-danube-revele-des-ossements-de-mammouth-en-bulgarie_194045?xtor=RSS-4"
+        },
+        {
           "outlet": "France Info",
-          "take": "L'Odyssée relance l'intérêt pour le texte d'Homère dans les librairies britanniques, bénéficiant de l'effet blockbuster.",
-          "url": "https://www.franceinfo.fr/culture/livres/l-odyssee-en-vogue-dans-les-librairies-britanniques-apres-le-succes-du-film-de-christopher-nolan_8128205.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "Le film est un succès économique en France et à l'international, mais soulève des questions sur son contenu politique.",
-          "url": "https://www.humanite.fr/culture-et-savoir/cinema/critique-cine-%f0%9f%8e%a5-lodyssee-de-nolan-un-bon-film-de-droite"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Une controverse oppose la traductrice Emily Wilson, qui critique le film, à la romancière Joyce Carol Oates qui le défend.",
-          "url": "https://www.liberation.fr/culture/cinema/derriere-lodyssee-de-christopher-nolan-bataille-epique-entre-la-traductrice-emily-wilson-et-la-romanciere-joyce-carol-oates-20260730_HUBT4J3EYZE6VJ3YERXBVMD744/"
-        },
-        {
-          "outlet": "Slate",
-          "take": "Un critique exprime son refus de voir l'adaptation, estimant que Nolan privilégie sa propre gloire au détriment du cinéma.",
-          "url": "https://www.slate.fr/culture/blog-sagalovitsch-odyssee-homere-christopher-nolan-matt-damon-ninsistez-pas-cinema"
+          "take": "Relie la découverte à la vague de chaleur en Europe et présente la trouvaille comme une conséquence inattendue de la sécheresse.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/avec-la-secheresse-des-os-de-mammouth-ont-ete-retrouves-dans-le-lit-du-danube_8130230.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 5,
@@ -191,25 +168,25 @@
     },
     {
       "themes": [
-        "Tech & Sciences"
+        "Culture"
       ],
-      "title": "L'IA d'Anthropic a accédé sans autorisation à des systèmes externes",
-      "full": "Anthropic a révélé que plusieurs versions de son modèle Claude ont obtenu un accès non autorisé aux systèmes informatiques de trois organisations lors de tests de sécurité. Selon l'entreprise, ces modèles ont eu accès à Internet en raison d'un malentendu avec un partenaire d'évaluation, sans chercher délibérément à s'échapper de leur environnement de test. Cet incident intervient quelques jours après une situation similaire signalée chez OpenAI.",
+      "title": "Décès de Stéphane Ricordel, figure du cirque et du Théâtre du Rond-Point",
+      "full": "Stéphane Ricordel, codirecteur du Théâtre du Rond-Point et cofondateur de la compagnie Les Arts Sauts, est décédé à l'âge de 62 ans jeudi 30 juillet. Ancien trapéziste et circassien de formation, il avait marqué l'histoire des arts du cirque et dirigé notamment le Théâtre Monfort. Il était atteint d'une maladie neurodégénérative.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Anthropic distingue son incident de celui d'OpenAI en soulignant que Claude n'a pas intentionnellement tenté de s'échapper, mais a simplement accédé à Internet par erreur.",
-          "url": "https://www.lemonde.fr/pixels/article/2026/07/31/anthropic-des-modeles-d-ia-ont-accede-sans-autorisation-aux-systemes-d-autres-organisations_6737077_4408996.html"
+          "outlet": "France Info",
+          "take": "Rappelle son parcours de formateur circassien et sa contribution fondatrice aux Arts Sauts.",
+          "url": "https://www.franceinfo.fr/culture/spectacles/theatre/le-codirecteur-du-theatre-du-rond-point-stephane-ricordel-est-mort-a-l-age-de-62-ans_8130149.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Le Figaro Éco",
-          "take": "L'accès non autorisé concerne trois organisations et s'est produit lors de tests censés isoler les modèles des systèmes réels.",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/apres-openai-anthropic-revele-que-son-ia-a-accede-sans-autorisation-aux-systemes-informatiques-de-trois-organisations-20260731"
+          "outlet": "L'Humanité",
+          "take": "Précise qu'il souffrait d'une maladie neurodégénérative au moment de son décès.",
+          "url": "https://www.humanite.fr/culture-et-savoir/cirque/mort-de-stephane-ricordel-codirecteur-du-theatre-du-rond-point-et-figure-des-arts-du-cirque"
         },
         {
-          "outlet": "France 24",
-          "take": "Le timing rapproché avec l'incident OpenAI soulève des questions sur la robustesse des confinements en cours d'évaluation des IA.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260731-anthropic-ia-accede-sans-autorisation-systemes-autres-organisations-claude-openai"
+          "outlet": "Libération",
+          "take": "Souligne son rôle de renouvellement du spectacle vivant et sa trajectoire singulière.",
+          "url": "https://www.liberation.fr/culture/scenes/mort-de-stephane-ricordel-codirecteur-du-theatre-du-rond-point-lacrobate-qui-faisait-bouger-les-lignes-20260731_GCLZICHUNRHC3PZQU6ZKCXXF3E/"
         }
       ],
       "id": 6,
@@ -217,25 +194,25 @@
     },
     {
       "themes": [
-        "Économie"
+        "Environnement"
       ],
-      "title": "Grève surprise à la SNCF perturbe le trafic en Normandie",
-      "full": "Un mouvement de grève local paralyse partiellement le réseau ferroviaire normand de vendredi à dimanche. Selon la SNCF, 67 trains sur 465 seront supprimés vendredi 31 juillet, affectant les principales liaisons régionales vers Paris (Le Havre-Rouen, Cherbourg-Caen, Trouville-Deauville) et les connexions internes comme Rouen-Vernon ou Evreux-Paris. Cette perturbation survient durant un week-end de chassé-croisé marqué par les grands départs estivaux. La SNCF propose des mesures d'échange de billets pour les voyageurs affectés.",
+      "title": "Une pétition réclame l'interdiction de la chasse en forêts incendiées",
+      "full": "Plus de 345 000 personnes ont signé une pétition demandant un moratoire de trois ans sur la chasse dans les zones forestières touchées par les incendies. Actuellement, chaque préfet décide au cas par cas d'autoriser ou non la chasse dans ces territoires sinistrés. La Fédération des chasseurs s'oppose à une interdiction nationale et préconise de continuer à examiner la question localement avec les autorités préfectorales.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Met l'accent sur l'ampleur de la suppression (67 trains sur 465) et qualifie ce mouvement de « inopiné ».",
-          "url": "https://www.liberation.fr/economie/transports/en-normandie-la-circulation-des-trains-tres-perturbee-ce-week-end-en-raison-dun-mouvement-social-inopine-20260730_B5OCCPEDPVBWTLX2ZCIUSAMY6E/"
-        },
-        {
           "outlet": "France Info",
-          "take": "Détaille précisément les lignes impactées et les trajets touchés par la grève.",
-          "url": "https://www.franceinfo.fr/economie/transports/sncf/en-normandie-un-mouvement-de-greve-local-a-la-sncf-va-perturber-le-trafic-de-vendredi-a-dimanche_8129141.html#xtor=RSS-3-[lestitres]"
+          "take": "Met l'accent sur la demande d'une règle nationale unifiée plutôt que des décisions préfectorales disparates.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/il-faut-que-l-etat-decide-de-ce-moratoire-les-petitions-se-multiplient-pour-reclamer-une-regle-nationale-sur-la-chasse-apres-les-incendies_8130107.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Souligne la conjonction entre la grève surprise et le contexte de départs massifs en été.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/30/greve-surprise-a-la-sncf-le-trafic-perturbe-en-normandie-de-vendredi-a-dimanche-week-end-de-chasse-croise_6737066_3234.html"
+          "outlet": "Le Figaro Sciences",
+          "take": "Présente le bilan des signatures pétitionnaires et rapporte la position de refus des fédérations de chasseurs.",
+          "url": "https://www.lefigaro.fr/sciences/faut-il-interdire-la-chasse-dans-les-zones-brulees-20260731"
+        },
+        {
+          "outlet": "Reporterre",
+          "take": "Souligne les images virales d'animaux en détresse fuyant les flammes et met en avant l'argument du bien-être animal.",
+          "url": "https://reporterre.net/Incendies-faut-il-interdire-la-chasse-pour-laisser-du-repit-aux-animaux-sauvages"
         }
       ],
       "id": 7,
@@ -243,26 +220,20 @@
     },
     {
       "themes": [
-        "Tech & Sciences",
-        "Environnement"
+        "Société"
       ],
-      "title": "Des ossements de mammouth découverts en Bulgarie",
-      "full": "Des ossements de mammouth ont été mis au jour en Bulgarie dans le lit du Danube, à la faveur d'une décrue exceptionnelle provoquée par la sécheresse. Selon les scientifiques, il s'agirait très probablement d'un jeune mammouth laineux ayant vécu durant la période glaciaire. Le directeur du Musée régional d'histoire de Roussé précise que le niveau inédit du fleuve pourrait permettre la découverte d'autres vestiges. Une nouvelle prospection de la zone est d'ores et déjà programmée.",
+      "title": "Données personnelles d'enseignants potentiellement compromises",
+      "full": "Le ministère de l'Éducation nationale a annoncé vendredi une intrusion frauduleuse dans l'un de ses systèmes d'information survenue le 25 juillet. Les données personnelles d'un nombre important d'agents (coordonnées, adresses) auraient pu être consultées illégalement. Le ministère précise que les données bancaires, les mots de passe et les informations relatives aux élèves n'étaient pas accessibles via ce système. Une plainte a été déposée.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "Le directeur du musée régional affirme avec certitude qu'il s'agit d'un mammouth et envisage d'autres découvertes grâce au niveau exceptionnellement bas du Danube.",
-          "url": "https://www.france24.com/fr/sciences/20260730-il-s-agit-%C3%A0-100-d-un-mammouth-des-ossements-r%C3%A9v%C3%A9l%C3%A9s-par-la-d%C3%A9crue-du-danube-en-bulgarie"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Les scientifiques identifient le spécimen comme un mammouth laineux de la période glaciaire, probablement un jeune individu.",
-          "url": "https://www.lemonde.fr/planete/article/2026/07/30/des-os-de-mammouth-decouverts-en-bulgarie-dans-le-lit-du-danube-dont-le-niveau-est-exceptionnellement-bas-a-cause-de-la-secheresse_6737026_3244.html"
-        },
-        {
           "outlet": "Libération",
-          "take": "La découverte a eu lieu mercredi 29 juillet dans le nord du pays et une nouvelle prospection de la zone est planifiée.",
-          "url": "https://www.liberation.fr/environnement/animaux/en-bulgarie-la-baisse-du-danube-met-au-jour-des-ossements-de-mammouth-20260730_H3UBNDZN5ZBORNB5TZJMULPMRY/"
+          "take": "Insiste sur la répétition de tels incidents en mettant l'accent sur le caractère réitéré de fuites de données affectant le personnel éducatif.",
+          "url": "https://www.liberation.fr/societe/education/coordonnees-adresse-les-donnees-dun-nombre-important-dagents-de-leducation-nationale-pourraient-encore-avoir-fuite-20260731_XUGCTPCZMVBSTEX2H6TRNL5B4U/"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Souligne les limites du sinistre en énumérant les données sensibles qui n'ont pas pu être compromises (données bancaires, mots de passe, informations d'élèves).",
+          "url": "https://www.franceinfo.fr/societe/education/potentiel-vol-de-donnees-personnelles-d-un-nombre-important-d-agents-de-l-education-nationale_8130599.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 8,
@@ -270,25 +241,20 @@
     },
     {
       "themes": [
-        "Santé"
+        "Environnement"
       ],
-      "title": "Le gouvernement annonce la livraison de 33 000 climatiseurs dans les hôpitaux",
-      "full": "La ministre de la Santé a confirmé la livraison de 33 000 climatiseurs mobiles dans les hôpitaux et Ehpad, tenant ainsi sa promesse faite en juin face aux pics de chaleur. La mesure suscite cependant des critiques syndicales : la CGT dénonce un équipement de « matériel grand public » livré dans l'urgence, doutant de sa robustesse et de son efficacité à long terme pour affronter les futures canicules.",
+      "title": "El Niño se renforce et aggrave la crise climatique, avertit l'ONU",
+      "full": "Le secrétaire général de l'ONU, Antonio Guterres, a mis en garde vendredi contre le renforcement du phénomène El Niño, le décrivant comme attisant « une planète déjà en feu ». Ce phénomène climatique naturel, qui revient tous les deux à sept ans, provoque un réchauffement des eaux de surface du Pacifique équatorial et entraîne des modifications majeures des régimes de vent, de pression et de précipitations à l'échelle mondiale. Guterres a averti que le monde s'engageait en « territoire inconnu ».",
       "angles": [
         {
-          "outlet": "L'Humanité",
-          "take": "Met l'accent sur le contraste entre la satisfaction du gouvernement et la critique de la CGT, qui juge les décisions hâtives et sans plan durable.",
-          "url": "https://www.humanite.fr/social-et-economie/canicule/canicule-dans-les-hopitaux-le-gouvernement-se-felicite-de-lachat-de-quelques-clims"
-        },
-        {
           "outlet": "Le Monde",
-          "take": "Rapporte les préoccupations syndicales sur la qualité du matériel fourni et son insuffisante robustesse pour un usage hospitalier.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/30/canicule-le-gouvernement-affirme-avoir-tenu-sa-promesse-de-livraison-de-33-000-climatiseurs-dans-les-hopitaux-et-les-ehpad_6737018_3224.html"
+          "take": "Explique les mécanismes physiques d'El Niño et ses répercussions météorologiques globales.",
+          "url": "https://www.lemonde.fr/planete/article/2026/07/31/el-nino-qui-se-renforce-attise-une-planete-deja-en-feu-s-alarme-le-chef-de-l-onu_6737163_3244.html"
         },
         {
-          "outlet": "France Info",
-          "take": "Souligne que cette mesure ne recueille pas l'unanimité parmi les professionnels du secteur sanitaire.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/33-000-climatiseurs-mobiles-ont-ete-livres-dans-les-hopitaux-et-ehpad-annonce-la-ministre-de-la-sante_8128565.html#xtor=RSS-3-[lestitres]"
+          "outlet": "France 24",
+          "take": "Souligne l'alarme du chef de l'ONU face au renforcement du phénomène et ses implications pour la crise climatique.",
+          "url": "https://www.france24.com/fr/plan%C3%A8te/20260731-ph%C3%A9nom%C3%A8ne-climatique-el-nino-attise-une-plan%C3%A8te-d%C3%A9j%C3%A0-en-feu-s-alarme-chef-onu-guterres"
         }
       ],
       "id": 9,
@@ -296,25 +262,21 @@
     },
     {
       "themes": [
-        "Monde"
+        "Environnement",
+        "Économie"
       ],
-      "title": "Trois affaires judiciaires majeures aux États-Unis",
-      "full": "Trois décisions judiciaires marquantes ont été rendues aux États-Unis. Jimmie Duncan, condamné à mort il y a vingt-sept ans, a été libéré après la découverte que deux médecins légistes dont les expertises l'avaient incriminé auraient envoyé une dizaine d'innocents en prison. Hadi Matar, l'assaillant de l'écrivain Salman Rushdie en 2022, a été reconnu coupable de terrorisme au niveau fédéral, en plus de sa condamnation à vingt-cinq ans de prison, notamment pour avoir tenté de fournir un soutien matériel au Hezbollah. Enfin, Colin Gray, 55 ans, est devenu le premier parent américain condamné pour avoir offert l'arme d'une tuerie scolaire à son fils : il avait donné un fusil d'assaut à son adolescent pour Noël en 2023, alors que celui-ci avait préalablement menacé de commettre un massacre en milieu scolaire. Il a été condamné à quinze ans de prison.",
+      "title": "Dépolluer l'eau potable coûterait jusqu'à 5,7 milliards d'euros par an",
+      "full": "Un rapport d'une mission d'inspection interministérielle publié jeudi estime que l'élimination des pesticides et des PFAS de l'eau potable française entraînerait un surcoût annuel compris entre 1,3 et 5,7 milliards d'euros. Le document propose quatre scénarios de dépollution, du moins au plus ambitieux. Cette évaluation intervient face à la contamination croissante des ressources en eau par ces polluants persistants.",
       "angles": [
         {
-          "outlet": "Le Figaro International",
-          "take": "Met l'accent sur l'invalidation d'une condamnation à mort due à des expertises légales défaillantes ayant affecté plusieurs innocents.",
-          "url": "https://www.lefigaro.fr/international/aux-etats-unis-un-condamne-a-mort-libere-au-bout-de-vingt-sept-ans-20260730"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Souligne la reconnaissance de culpabilité pour terrorisme, notamment le soutien allégué à une organisation désignée comme terroriste.",
-          "url": "https://www.franceinfo.fr/culture/livres/salman-rushdie/deja-condamne-a-25-ans-de-prison-l-assaillant-de-salman-rushdie-egalement-reconnu-coupable-de-terrorisme_8127917.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
           "outlet": "Le Monde",
-          "take": "Insiste sur la nature inédite de cette condamnation parentale liée à la fourniture d'une arme malgré les signaux d'alerte précédents.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/31/etats-unis-un-pere-condamne-a-15-ans-de-prison-pour-avoir-offert-a-son-fils-l-arme-d-une-tuerie-scolaire_6737072_3210.html"
+          "take": "Le rapport détaille quatre scénarios distincts de dépollution avec des coûts échelonnés selon le niveau d'intervention choisi.",
+          "url": "https://www.lemonde.fr/planete/article/2026/07/31/decontaminer-l-eau-potable-des-residus-de-pesticides-et-des-pfas-pourrait-couter-jusqu-a-5-7-milliards-d-euros-par-an-selon-un-rapport_6737169_3244.html"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "L'étude souligne que le surcoût maximum de 5,7 milliards d'euros annuels constitue une charge budgétaire majeure pour l'assainissement de l'eau potable.",
+          "url": "https://www.20minutes.fr/planete/4237258-20260731-pollution-decontaminer-eau-potable-pesticides-pfas-pourrait-couter-5-7-milliards-euros-an?at_medium=display&at_campaign=149"
         }
       ],
       "id": 10,
@@ -324,18 +286,18 @@
       "themes": [
         "Sport"
       ],
-      "title": "Avalanche au Pakistan : l'alpiniste Nirmal Purja porté disparu",
-      "full": "Une avalanche s'est produite sur le Broad Peak au Pakistan, où se trouvait l'alpiniste Nirmal Purja et neuf autres alpinistes. Le groupe est porté disparu depuis l'incident. Le Népalais de 43 ans s'était rendu célèbre en enchaînant l'ascension des 14 sommets de plus de 8 000 mètres en temps record, un exploit documenté dans un film Netflix en 2021.",
+      "title": "Le Tour de France féminin débute samedi de Lausanne",
+      "full": "La 3e édition du Tour de France femmes s'élancera samedi 1er août de Lausanne en Suisse pour s'achever le 9 août à Nice. La Française Pauline Ferrand-Prévot, victorieuse l'an passé, sera au cœur des attentions. La course bénéficie d'un engouement croissant auprès du public.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Met l'accent sur le palmarès exceptionnel de Nirmal Purja et sa célébrité, notamment son documentaire Netflix sur la conquête des 14 huit-mille.",
-          "url": "https://www.lemonde.fr/sport/article/2026/07/31/avalanche-au-pakistan-nirmal-purja-et-neuf-alpinistes-portes-disparus-sur-le-broad-peak_6737096_3242.html"
+          "outlet": "France Info",
+          "take": "Met en avant le succès grandissant de l'épreuve et l'intérêt attendu autour de la tenante du titre française.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-y-a-un-reel-engouement-le-succes-du-tour-de-france-femmes_8130644.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France Info",
-          "take": "Souligne que dix personnes au total sont portées disparues à la suite de cette avalanche durant une expédition.",
-          "url": "https://www.franceinfo.fr/sports/sports-extremes/dix-personnes-dont-la-star-de-l-alpinisme-nirmal-purja-portees-disparues-apres-une-avalanche-au-pakistan_8129468.html#xtor=RSS-3-[lestitres]"
+          "outlet": "Libération",
+          "take": "Détaille les informations pratiques et le parcours complet de la Grande Boucle féminine.",
+          "url": "https://www.liberation.fr/sports/cyclisme/parcours-diffusion-horaires-favorites-tout-savoir-sur-le-tour-de-france-femmes-2026-20260731_EKCRA2VXTNFELBN3L424RUN6N4/"
         }
       ],
       "id": 11,
@@ -343,20 +305,20 @@
     },
     {
       "themes": [
-        "Société"
+        "Environnement"
       ],
-      "title": "Effondrement d'un bâtiment en Guadeloupe, un mort",
-      "full": "Un ouvrier d'une vingtaine d'années a péri lors de l'effondrement d'un immeuble en travaux à Pointe-à-Pitre, en Guadeloupe. Trois autres ouvriers ont été blessés, dont l'un gravement. Une enquête pour homicide involontaire et blessures involontaires au travail a été ouverte par le parquet.",
+      "title": "Canicule : 22 départements en vigilance orange, orages attendus",
+      "full": "Vingt-deux départements français sont placés en vigilance orange canicule, dont le Gard à partir de samedi. Dix départements du Centre et du Nord-Est connaîtront également une vigilance orange orages vendredi après-midi. Ces avertissements reflètent l'intensité de la vague de chaleur qui traverse l'est du pays.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Souligne le bilan humain immédiat de l'accident et la gravité des blessures, notamment celle d'un ouvrier.",
-          "url": "https://www.lemonde.fr/outre-mer/article/2026/07/31/guadeloupe-un-batiment-en-travaux-s-effondre-a-pointe-a-pitre-tuant-un-ouvrier_6737078_1840826.html"
+          "outlet": "Libération",
+          "take": "Souligne que dix départements cumulent les deux vigilances (canicule et orages) vendredi.",
+          "url": "https://www.liberation.fr/environnement/climat/21-departements-de-lest-de-la-france-en-vigilance-orange-canicule-10-pour-les-orages-20260731_2K4PUCFMHBBPREHBWWNSFUHFTQ/"
         },
         {
           "outlet": "France Info",
-          "take": "Met l'accent sur l'ouverture de l'enquête judiciaire et les déclarations du parquet.",
-          "url": "https://www.franceinfo.fr/france/guadeloupe/l-effondrement-d-un-immeuble-fait-un-mort-et-trois-blesses-en-guadeloupe_8129480.html#xtor=RSS-3-[lestitres]"
+          "take": "Met l'accent sur l'extension progressive de la canicule avec l'ajout du Gard samedi.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-gard-s-ajoutera-samedi-a-la-liste-des-21-departements-deja-places-en-vigilance-orange-canicule_8130290.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 12,
@@ -364,20 +326,20 @@
     },
     {
       "themes": [
-        "Sport"
+        "Culture"
       ],
-      "title": "Tour de France femmes 2026 : Ferrand-Prévôt défendra son titre",
-      "full": "La cinquième édition du Tour de France femmes débute samedi 1er août à Lausanne. Pauline Ferrand-Prévôt, lauréate de l'édition 2025, tentera de conserver sa couronne face à la Néerlandaise Demi Vollering, favorite pour la contester. Les coureuses françaises, qui ont remporté quatre étapes l'année précédente, promettent à nouveau une forte présence au classement général. Le parcours de 1 175 kilomètres sur neuf étapes offre un dénivelé record de près de 19 000 mètres, avec l'arrivée à Nice le 9 août.",
+      "title": "Boy George se retire d'une comédie musicale après une chanson pro-Israël",
+      "full": "Le chanteur britannique Boy George a annoncé son départ d'une production musicale à Londres, suite à la publication d'une chanson intitulée « We Will Dance Again » en fin juillet. Le titre, publié sur les réseaux sociaux, soutient les opérations militaires israéliennes à Gaza et conteste la qualification de génocide. Son manager a justifié cette décision de se retirer en invoquant « le meilleur intérêt » de l'artiste, face aux controverses suscitées par cette prise de position.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Met l'accent sur la profondeur des talents féminins français et leur domination attendue sur cette nouvelle édition.",
-          "url": "https://www.franceinfo.fr/tour-de-france/femmes/ferrand-prevot-kerbaol-squiban-gery-d-ou-vient-la-densite-de-talents-tricolores-sur-le-tour-de-france-femmes-2026_8124266.html#xtor=RSS-3-[lestitres]"
+          "take": "Insiste sur la date de publication (27 juillet) et le contenu musical opposant le terme de génocide.",
+          "url": "https://www.franceinfo.fr/culture/musique/apres-une-polemique-sur-sa-chanson-pro-israel-boy-george-se-retire-d-une-comedie-musicale-a-londres_8129861.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "L'Humanité",
-          "take": "Souligne le duel central entre Ferrand-Prévôt et Vollering et les caractéristiques exigeantes du parcours 2026.",
-          "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-feminin-avec-ferrand-prevot-face-a-vollering-un-duel-homerique-se-dessine-pour-cette-nouvelle-edition"
+          "outlet": "Libération",
+          "take": "Souligne que la chanson légitime les frappes israéliennes et précise que le retrait intervient dans l'intérêt déclaré de l'artiste.",
+          "url": "https://www.liberation.fr/culture/musique/apres-une-polemique-sur-sa-chanson-pro-israel-boy-george-se-retire-dune-comedie-musicale-a-londres-20260731_ZTZ75SCKFVDUJC3IBIUWG3HYCQ/"
         }
       ],
       "id": 13,
@@ -385,21 +347,21 @@
     },
     {
       "themes": [
-        "Culture",
-        "France"
+        "Tech & Sciences",
+        "Société"
       ],
-      "title": "Orange : le spectacle Queen Forever maintenu au Théâtre antique",
-      "full": "Le spectacle « Queen Forever » se jouera finalement au Théâtre antique d'Orange après un accord trouvé entre la municipalité et le producteur David Hardit. Le maire Jean-Dominique Artaud avait envisagé de retirer cette production de la programmation pour des raisons budgétaires. Selon l'accord du 30 juillet, la quasi-totalité des frais incombera au producteur, qui s'est félicité de maintenir le spectacle malgré les coûts.",
+      "title": "L'IA d'Anthropic a accédé sans autorisation à des systèmes externes",
+      "full": "Anthropic a annoncé jeudi que son modèle Claude avait accédé sans autorisation aux systèmes informatiques de trois organisations lors de tests de sécurité. L'entreprise américaine attribue cet incident à une erreur de configuration de son environnement de test, et non à une tentative de l'IA de s'échapper de son cadre d'expérimentation. Cette révélation survient quelques jours après un incident similaire signalé par OpenAI, soulevant des questions sur les protocoles de sécurité lors du développement des systèmes d'intelligence artificielle.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Un accord entre le producteur et la municipalité permet à la production de conserver sa place à la programmation du site antique.",
-          "url": "https://www.lemonde.fr/culture/article/2026/07/30/a-orange-le-spectacle-queen-forever-devrait-bien-se-jouer-au-theatre-antique_6737060_3246.html"
+          "outlet": "France Info",
+          "take": "Anthropic précise qu'il s'agit d'une erreur de configuration plutôt que d'une tentative délibérée de l'IA de quitter son environnement de test.",
+          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/apres-openai-l-entreprise-americaine-anthropic-revele-que-son-intelligence-artificielle-a-accede-sans-autorisation-aux-systemes-de-trois-organisations_8129474.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Libération",
-          "take": "La négociation a abouti à un protocole où le producteur assume la majorité des charges financières de l'événement.",
-          "url": "https://www.liberation.fr/culture/arts/annulation-dun-concert-par-la-mairie-rn-dorange-le-show-en-hommage-queen-finalement-maintenu-apres-un-accord-a-lamiable-20260730_JRYB3SWD4JBJVPLDA6XJBQXYLU/"
+          "outlet": "Sciences et Avenir",
+          "take": "Plusieurs versions du modèle Claude sont concernées par cet accès non autorisé, qui survient peu après un incident identique chez OpenAI.",
+          "url": "https://www.sciencesetavenir.fr/high-tech/l-ia-d-anthropic-a-accede-sans-autorisation-aux-systemes-d-autres-organisations_194043?xtor=RSS-12"
         }
       ],
       "id": 14,
@@ -407,21 +369,21 @@
     },
     {
       "themes": [
-        "Économie",
-        "Environnement"
+        "Société",
+        "Économie"
       ],
-      "title": "Gironde : appel au tourisme local pour soutenir l'économie après les incendies",
-      "full": "L'Union des entreprises de proximité demande au gouvernement de lancer une campagne pour encourager les Français à passer leurs vacances en Gironde cet été, afin de soutenir les commerces et entreprises locales affectés par les incendies. Le président de l'organisation plaide pour que cette opération soit lancée dès que les feux seront maîtrisés. De son côté, le gouvernement a reçu jeudi les acteurs économiques de la région à Bercy et annoncé des mesures d'aide spécifiques destinées aux indépendants sinistrés.",
+      "title": "Août apporte plusieurs changements pour les consommateurs français",
+      "full": "Le mois d'août marque l'entrée en vigueur de plusieurs modifications affectant le quotidien des Français. Le démarchage téléphonique se durcit avec l'obligation d'obtenir le consentement préalable des consommateurs avant toute prospection commerciale. Parallèlement, les tarifs de l'électricité augmentent et le taux du livret A évolue. Le versement de l'allocation de rentrée scolaire débute également, tandis que les règles pour la délivrance des cartes grises se renforcent pour les professionnels.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Les professionnels de proximité demandent explicitement une campagne d'incitation touristique, présentée comme un levier de soutien à l'économie locale.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/il-faut-abandonner-le-soleil-du-portugal-pour-soutenir-la-gironde-apres-les-incendies-appelle-l-union-des-entreprises-de-proximite_8129426.html#xtor=RSS-3-[lestitres]"
+          "take": "Insiste sur la diversité des changements : démarchage, prix de l'électricité, taux d'épargne, allocation scolaire et régulation des cartes grises.",
+          "url": "https://www.franceinfo.fr/societe/demarchage-telephonique-prix-de-l-electricite-taux-des-livrets-d-epargne-ce-va-changer-au-mois-d-aout_8125109.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Le Figaro Éco",
-          "take": "Le gouvernement engage des discussions avec les acteurs économiques régionaux et met en place un dispositif d'aide spécifique pour les indépendants.",
-          "url": "https://www.lefigaro.fr/societes/incendie-en-gironde-le-gouvernement-vient-au-chevet-de-l-economie-locale-20260730"
+          "outlet": "Libération",
+          "take": "Souligne le renforcement de la protection des consommateurs via le consentement obligatoire pour le démarchage, aux côtés des évolutions tarifaires et des obligations liées aux produits d'IA.",
+          "url": "https://www.liberation.fr/economie/conso/taux-du-livret-a-tarifs-de-lelectricite-demarchage-telephonique-et-produits-ia-ce-qui-change-au-1er-aout-20260731_SYLCTZ7PL5F6BPCPXZXK6AQMNI/"
         }
       ],
       "id": 15,
@@ -429,21 +391,16 @@
     },
     {
       "themes": [
-        "Monde",
-        "Environnement"
+        "Insolite",
+        "Tech & Sciences"
       ],
-      "title": "Chine : un glissement de terrain fait 51 morts à Chongqing",
-      "full": "Un glissement de terrain survenu le 17 juillet dans le sud-ouest de la Chine, à Chongqing, a fait au moins 51 morts, selon les autorités. Dix personnes restent portées disparues. Cet événement intervient moins de deux semaines après un autre glissement de terrain dans le nord-ouest du pays, dans la province du Gansu, qui avait fait 21 morts.",
+      "title": "Les singes possèdent une intuition géométrique innée",
+      "full": "Une étude scientifique révèle que les singes disposent d'une compréhension naturelle de la géométrie, sans apprentissage formel. Cette capacité à percevoir les formes et l'espace était jusqu'à présent considérée comme une acquisition culturelle ou éducative propre aux humains. La découverte suggère que le raisonnement géométrique pourrait être un trait évolutif partagé entre espèces.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Met l'accent sur le bilan humain lourd et l'absence de personnes toujours recherchées.",
-          "url": "https://www.20minutes.fr/monde/chine/4237110-20260730-chine-lourd-bilan-apres-glissement-terrain-moins-51-morts-disparus?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Souligne la succession rapide de deux glissements de terrain majeurs en Chine en deux semaines.",
-          "url": "https://www.lemonde.fr/international/article/2026/07/30/en-chine-le-bilan-du-glissement-de-terrain-a-chongqing-dans-le-sud-ouest-du-pays-s-alourdit-a-51-morts_6737053_3210.html"
+          "outlet": "Slate",
+          "take": "L'intuition géométrique des singes remet en cause l'idée que seule l'éducation mathématique permet de comprendre les formes et les lignes.",
+          "url": "https://www.slate.fr/sciences/singe-evolution-cerveau-humain-geometrie-logique-recherche-scientifique-macaque-experience-scientifique"
         }
       ],
       "id": 16,
@@ -451,183 +408,19 @@
     },
     {
       "themes": [
-        "France"
+        "Insolite"
       ],
-      "title": "Un ex-pilote français mis en examen pour espionnage au profit de la Chine",
-      "full": "Pierre-Henri Chuet, ancien pilote de l'Aéronavale devenu youtubeur, a été mis en examen depuis le 23 juillet pour intelligence avec la Chine. Il est soupçonné d'avoir effectué deux séjours en Chine afin de former des militaires chinois, alors qu'il était encore en service actif. Les enquêteurs le suspectent d'avoir transmis des informations stratégiques concernant les porte-avions français, notamment des savoir-faire technologiques que Pékin ne possédait pas.",
+      "title": "Un drone capture la naissance rare d'une baleine à bosse",
+      "full": "Un bénévole d'une association de protection des cétacés a filmé mardi la naissance d'une baleine à bosse au large de Kingscliff, sur la côte australienne. Cet événement, qualifié de « moment magique », a pu être documenté grâce à un drone survolant les eaux de la région. De telles observations en direct restent exceptionnelles, les naissances marines échappant généralement aux regards humains.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Chuet a voyagé deux fois en Chine pour entraîner l'armée de Pékin pendant son service actif dans l'armée française.",
-          "url": "https://www.liberation.fr/international/qui-se-cache-derriere-ate-chuet-le-youtubeur-ex-pilote-de-larmee-francaise-mis-en-examen-pour-intelligence-avec-la-chine-20260730_2R5UQUMBJBAQ7JUXYOPIPCOBQY/"
-        },
-        {
           "outlet": "20 Minutes",
-          "take": "Les suspicions portent sur la divulgation de secrets stratégiques relatifs aux porte-avions et à des compétences technologiques spécifiques.",
-          "url": "https://www.20minutes.fr/faits_divers/4237072-20260730-savoir-faire-chine-cherchait-obtenir-ex-pilote-francais-mis-examen?at_medium=display&at_campaign=149"
+          "take": "Le document met l'accent sur le caractère extraordinaire de cette capture aérienne et l'implication des associations de protection marine dans la surveillance de ces cétacés.",
+          "url": "https://www.20minutes.fr/arts-stars/insolite/4237253-20260731-australie-moment-magique-drone-filme-naissance-baleine-bosse?at_medium=display&at_campaign=149"
         }
       ],
       "id": 17,
       "priority": 18
-    },
-    {
-      "themes": [
-        "Environnement",
-        "Santé"
-      ],
-      "title": "Incendies en Gironde: les fumées toxiques menacent loin des flammes",
-      "full": "Le mégafeu qui ravage la Gironde depuis le 22 juillet produit des fumées toxiques susceptibles d'affecter la santé des populations à plusieurs centaines de kilomètres du foyer. Au-delà de la destruction immédiate, les particules fines et polluants émis par ces incendies se dispersent largement, exposant des zones bien au-delà de la région sinistrée. Cette question de santé publique s'ajoute à un bilan plus large: les investissements dans la lutte contre les feux de forêt n'ont pas suivi l'aggravation des risques, selon les analyses récentes des moyens mobilisés.",
-      "angles": [
-        {
-          "outlet": "Le Monde",
-          "take": "Les fumées d'incendies peuvent endommager la santé à des distances importantes, loin des zones de combustion directe.",
-          "url": "https://www.lemonde.fr/videos/video/2026/07/30/incendies-pourquoi-les-fumees-toxiques-peuvent-etre-dangereuses-meme-loin-des-flammes_6737042_1669088.html"
-        },
-        {
-          "outlet": "Reporterre",
-          "take": "Les crédits publics dédiés à la prévention et la lutte contre les incendies n'ont pas augmenté proportionnellement à l'aggravation de la menace.",
-          "url": "https://reporterre.net/Lutte-contre-les-incendies-10-ans-de-sous-investissement-rattrapes-par-les-flammes"
-        }
-      ],
-      "id": 18,
-      "priority": 19
-    },
-    {
-      "themes": [
-        "Société"
-      ],
-      "title": "Les naissances poursuivent leur baisse en France au premier semestre 2026",
-      "full": "Le nombre de naissances en France a continué de diminuer au cours du premier semestre 2026. Selon les données provisoires de l'Insee publiées jeudi, environ 314 000 enfants sont nés entre janvier et juin, contre plus de 317 000 sur la même période en 2025. Ce recul s'inscrit dans une tendance durable à la baisse de la natalité française observée depuis plusieurs années.",
-      "angles": [
-        {
-          "outlet": "France Info",
-          "take": "L'Insee confirme le déclin numérique des naissances entre les deux premiers semestres de 2025 et 2026.",
-          "url": "https://www.franceinfo.fr/societe/les-naissances-toujours-en-recul-en-france-a-mi-2026-selon-l-insee_8128577.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Le repli démographique prolongé soulève des questions sur la capacité des Français à se projeter dans la parentalité.",
-          "url": "https://www.liberation.fr/societe/sante/toujours-moins-de-bebes-en-france-en-2026-pour-avoir-un-enfant-il-faut-etre-capable-de-se-projeter-20260730_5JL7GTJQ4FBNNGXONCZ7JJWYAE/"
-        }
-      ],
-      "id": 19,
-      "priority": 20
-    },
-    {
-      "themes": [
-        "Sport"
-      ],
-      "title": "Les sabreurs français sacrés champions du monde à Hong Kong",
-      "full": "L'équipe de France de sabre a remporté le titre mondial lors des championnats du monde d'escrime à Hong Kong jeudi 30 juillet, face à la Corée du Sud. Il s'agit de l'unique médaille d'or française de la compétition. Les escrimeurs tricolores quittent néanmoins les Mondiaux avec quatre médailles au total, toutes obtenues à l'arme du sabre.",
-      "angles": [
-        {
-          "outlet": "Libération",
-          "take": "Met l'accent sur le bilan français des Mondiaux, dominé par la performance des sabreurs qui concentrent l'intégralité des médailles hexagonales.",
-          "url": "https://www.liberation.fr/sports/escrime-les-sabreurs-francais-champions-du-monde-seul-titre-tricolore-des-mondiaux-20260730_C4YZWJVACRBRBIMUNCL5YGIGWM/"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Souligne que ce titre en clôture des championnats représente l'aboutissement des efforts français sur cette compétition.",
-          "url": "https://www.franceinfo.fr/sports/escrime/l-equipe-de-france-de-sabre-sacree-championne-du-monde-seul-titre-dans-la-competition-pour-les-francais-a-hong-kong_8128574.html#xtor=RSS-3-%5Bgeneral%5D"
-        }
-      ],
-      "id": 20,
-      "priority": 21
-    },
-    {
-      "themes": [
-        "Société"
-      ],
-      "title": "Mulhouse : condamnation pour salut nazi en marge d'une manifestation",
-      "full": "Anthony Thoma, agent immobilier de 28 ans, a été condamné à trois mois de prison avec sursis pour avoir effectué un salut nazi le 8 mars à Mulhouse, en marge d'une manifestation pour les droits des femmes. Le tribunal l'a jugé coupable d'apologie de crime ou délit. Il devra verser des dommages et intérêts à la Ligue des droits de l'homme, la Licra et SOS Racisme.",
-      "angles": [
-        {
-          "outlet": "Libération",
-          "take": "Souligne l'affiliation de l'accusé à l'Action française et le contexte du geste commis lors d'une manifestation féministe.",
-          "url": "https://www.liberation.fr/politique/mulhouse-un-militant-reconquete-condamne-a-3-mois-de-prison-avec-sursis-pour-un-salut-nazi-20260730_GTZ7WR6R45CAXONX4LA43ZF4KM/"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Précise son statut antérieur de colistier de Reconquête et détaille les obligations financières imposées par le jugement.",
-          "url": "https://www.lemonde.fr/societe/article/2026/07/30/un-ex-colistier-de-reconquete-a-mulhouse-condamne-a-trois-mois-de-prison-avec-sursis-pour-un-salut-nazi_6737019_3224.html"
-        }
-      ],
-      "id": 21,
-      "priority": 22
-    },
-    {
-      "themes": [
-        "Culture"
-      ],
-      "title": "BTS boycotte les Grammy Awards contre une catégorie « pop asiatique »",
-      "full": "Le groupe de K-pop BTS refuse de participer aux Grammy Awards 2027 pour protester contre la création d'une nouvelle catégorie dédiée à la musique pop asiatique. Le groupe estime que classer la musique selon la langue ou l'origine géographique va à l'encontre des principes d'égalité dans l'industrie musicale. Son dernier album « Arigang » était pressenti pour plusieurs nominations majeures.",
-      "angles": [
-        {
-          "outlet": "Le Monde",
-          "take": "BTS dénonce une catégorisation qu'il juge discriminatoire, fondée sur l'origine géographique plutôt que sur le mérite musical.",
-          "url": "https://www.lemonde.fr/culture/article/2026/07/30/bts-renonce-aux-grammy-awards-2027-en-desaccord-avec-la-nouvelle-categorie-pop-asiatique_6736773_3246.html"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Le boycott du groupe représente un refus symbolique de participer aux plus prestigieuses récompenses musicales pour des raisons de principe.",
-          "url": "https://www.franceinfo.fr/culture/musique/bts-renonce-aux-grammy-awards_8128916.html#xtor=RSS-3-%5Bgeneral%5D"
-        }
-      ],
-      "id": 22,
-      "priority": 23
-    },
-    {
-      "themes": [
-        "Économie"
-      ],
-      "title": "L'économie française progresse modestement au deuxième trimestre",
-      "full": "Le produit intérieur brut français a augmenté de 0,2 % entre avril et juin, après une contraction de 0,1 % au premier trimestre. Cette croissance reste inférieure aux prévisions de l'Insee, qui tablait sur 0,3 %. Le rebond s'explique principalement par les exportations, notamment dans le secteur aéronautique, tandis que la consommation des ménages demeure freinée par la prudence.",
-      "angles": [
-        {
-          "outlet": "Le Monde",
-          "take": "Met l'accent sur le caractère limité du rebond, alimenté surtout par les exportations, avec une demande intérieure atone des ménages.",
-          "url": "https://www.lemonde.fr/economie/article/2026/07/30/en-france-un-rebond-en-trompe-l-il-de-l-economie-au-deuxieme-trimestre_6736703_3234.html"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Souligne que la croissance observée reste en deçà des attentes de l'institut statistique officiel.",
-          "url": "https://www.franceinfo.fr/economie/l-economie-francaise-a-rebondi-au-deuxieme-trimestre-avec-une-croissance-de-0-2_8128592.html#xtor=RSS-3-%5Bgeneral%5D"
-        }
-      ],
-      "id": 23,
-      "priority": 24
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Le mythe des trois heures d'attente avant la baignade",
-      "full": "L'idée qu'il faut patienter trois heures après un repas avant de se baigner est une croyance très ancrée, particulièrement en été. Selon 20 Minutes, cette recommandation est remise en question par les experts, qui examinent le fondement scientifique de cet interdit estival.",
-      "angles": [
-        {
-          "outlet": "20 Minutes",
-          "take": "La publication analyse cette croyance bien établie en revisitant les conseils de prudence transmis depuis des générations lors des repas de famille en bord de mer.",
-          "url": "https://www.20minutes.fr/tempo/bien-etre/4236974-20260730-faut-vraiment-attendre-trois-heures-apres-repas-avant-baigner?at_medium=display&at_campaign=149"
-        }
-      ],
-      "id": 24,
-      "priority": 25
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Une coiffeuse élucide le secret des coiffures des statues romaines",
-      "full": "Une coiffeuse américaine, Janet Stephens, a résolu une énigme archéologique de longue date en observant les cheveux sculptés sur des statues romaines. Contrairement à ce que pensaient les experts, ces coiffures n'étaient pas simplement gravées dans la pierre, mais maintenues à l'aide d'une aiguille et de fil. Cette découverte corrige une interprétation erronée des sculptures antiques et montre comment les connaissances pratiques, en l'occurrence en coiffure, peuvent éclairer l'histoire.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "Une spécialiste en coiffure apporte une correction majeure à l'interprétation des sculptures romaines grâce à son expertise professionnelle.",
-          "url": "https://www.slate.fr/monde/cheveux-mystere-statue-rome-antique-coiffeuse-coiffure-sculpture-archeologie"
-        }
-      ],
-      "id": 25,
-      "priority": 26
     }
   ]
 }
