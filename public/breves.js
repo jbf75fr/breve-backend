@@ -1,28 +1,27 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-08-01T04:02:23.290441+00:00
+// 2026-08-01T06:20:12.937463+00:00
 const ARTICLES = [
   {
     "themes": [
-      "France",
-      "Environnement"
+      "Monde"
     ],
-    "title": "Incendies en France: progression en Gironde, nouvelles évacuations dans le Var",
-    "full": "Les incendies qui ravagent le sud-ouest et le sud-est de la France poursuivent leur progression. En Gironde, environ 200 000 personnes sur 220 000 déplacées ont pu regagner leur domicile, mais le feu n'est pas encore fixé selon la préfète. Dans le Var, un incendie du massif du Gros Bessillon, attisé par un mistral violent, a repris jeudi et entraîne l'évacuation de 2 500 personnes supplémentaires sur environ 1 000 hectares parcourus. Ces sinistres provoquent aussi des conséquences économiques: le secteur touristique girondais connaît des annulations massives, y compris dans des zones épargnées, jusqu'à 70 kilomètres des foyers.",
+    "title": "Afflux massif de migrants à Ceuta, puis retrait rapide",
+    "full": "Environ 60 000 migrants ont rejoint l'enclave espagnole de Ceuta en quelques jours, franchissant la frontière terrestre du Maroc suite à des rumeurs d'ouverture propagées sur les réseaux sociaux. Les autorités espagnoles rapportent que plus de la moitié d'entre eux ont déjà quitté les lieux en quarante-huit heures, avec le soutien des autorités marocaines pour le rapatriement. Cet afflux spectaculaire aurait causé entre 34 et 60 morts selon les sources.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "En Gironde, la majorité des évacués ont pu revenir malgré la poursuite des opérations; en Var, le feu a repris et force de nouvelles évacuations.",
-        "url": "https://www.lemonde.fr/planete/live/2026/08/01/en-direct-incendies-dans-le-var-2-500-personnes-evacuees-et-1-000-hectares-parcourus-par-un-feu-qui-depasse-l-entendement-estime-le-prefet_6737097_3244.html"
+        "outlet": "France 24",
+        "take": "Insiste sur le retrait rapide de la majorité des migrants et la coopération maroco-espagnole pour les rapatriements.",
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260731-ceuta-environ-50000-clandestins-sont-repartis-durant-les-derni%C3%A8res-quarante-huit-heures"
       },
       {
-        "outlet": "France Info",
-        "take": "Le secteur touristique girondais subit des pertes massives dues aux annulations de vacanciers, même dans des régions non touchées par les flammes.",
-        "url": "https://www.franceinfo.fr/economie/tourisme/une-espece-de-tourisme-solidaire-doit-se-mettre-en-place-d-arcachon-a-biscarrosse-l-absence-de-touristes-apres-les-incendies-inquiete-le-secteur_8130191.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "20 Minutes",
+        "take": "Souligne l'ampleur de l'afflux (60 000 migrants) et le bilan humain de la crise.",
+        "url": "https://www.20minutes.fr/monde/4237219-20260731-crise-ceuta-60-000-migrants-entres-34-morts-renforts-fait-point?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Le Figaro Sciences",
-        "take": "Le réchauffement climatique entraîne une multiplication des vagues de chaleur en Europe et des conditions favorables aux incendies.",
-        "url": "https://www.lefigaro.fr/sciences/on-ne-retrouvera-plus-les-etes-de-notre-jeunesse-comment-le-rechauffement-climatique-entraine-des-canicules-a-repetition-en-europe-20260729"
+        "outlet": "Le Figaro International",
+        "take": "Contextualise Ceuta comme l'une des deux seules frontières terrestres entre l'Union européenne et l'Afrique, enjeu stratégique majeur.",
+        "url": "https://www.lefigaro.fr/international/ceuta-cette-enclave-autonome-espagnole-au-coeur-des-tensions-migratoires-20260731"
       }
     ],
     "id": 0,
@@ -30,30 +29,40 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Sport"
     ],
-    "title": "Un syndicaliste agricole présente ses excuses à Marine Tondelier",
-    "full": "Régis Desrumaux, président de la FDSEA de l'Oise, a présenté ses excuses publiques à Marine Tondelier, secrétaire nationale des Écologistes, après l'avoir insultée sur Facebook. Le responsable syndical avait utilisé des termes grossiers envers la responsable écologiste suite au vote de la loi d'urgence agricole réintroduisant deux pesticides interdits en France. Tondelier avait exigé des excuses publiques et menacé de poursuites judiciaires.",
+    "title": "Infantino abandonne son projet d'ouverture de la Fifa aux investisseurs privés",
+    "full": "Le président de la Fifa, Gianni Infantino, a renoncé samedi à son projet de création d'une structure commerciale ouverte aux investisseurs privés. Face à l'opposition massive de l'UEFA, de plusieurs confédérations et de ses propres collaborateurs, dont l'ex-patron de la fédération américaine Carlo Cordeiro qui a démissionné en protestation, la Fifa a plié face à la fronde. Cette reculade intervient après des menaces de boycott des compétitions Fifa par les nations européennes et fragilise considérablement la position d'Infantino à la tête de l'instance.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Le conflit s'est résolu par les excuses publiques obtenues par Tondelier après son interpellation directe du syndicaliste.",
-        "url": "https://www.liberation.fr/politique/insultee-par-un-syndicaliste-agricole-marine-tondelier-reclame-des-excuses-publiques-20260731_A2OFPDCT6NDZBHKZQRLM4B2GBM/"
+        "outlet": "France 24",
+        "take": "Infantino cède aux critiques massives du monde du football qui s'était opposé à cette ouverture aux investisseurs privés.",
+        "url": "https://www.france24.com/fr/sports/20260801-cern%C3%A9-par-les-critiques-infantino-renonce-%C3%A0-l-ouverture-de-la-fifa-aux-investisseurs-priv%C3%A9s"
       },
       {
         "outlet": "20 Minutes",
-        "take": "L'insulte a suivi le désaccord politique sur la réintroduction dérogatoire de deux pesticides par la loi d'urgence agricole.",
-        "url": "https://www.20minutes.fr/politique/4237203-20260731-pesticides-insultee-responsable-fnsea-marine-tondelier-exige-excuses-publiques?at_medium=display&at_campaign=149"
+        "take": "La Fifa a cédé face à la fronde coordonnée de l'UEFA et de plusieurs confédérations continentales.",
+        "url": "https://www.20minutes.fr/sport/football/4237282-20260801-coupe-monde-lache-tout-monde-gianni-infantino-retire-projet-investissements-prives-fifa?at_medium=display&at_campaign=149"
+      },
+      {
+        "outlet": "Le Figaro Éco",
+        "take": "Ce revirement intervient après des années de commercialisation intensive ayant triplé les revenus de la Fifa sous la direction d'Infantino.",
+        "url": "https://www.lefigaro.fr/societes/des-revenus-multiplies-par-3-en-quelques-annees-comment-la-fifa-est-devenue-une-machine-a-cash-avec-gianni-infantino-20260731"
       },
       {
         "outlet": "Le Monde",
-        "take": "L'insulte a été proférée sur la page privée du responsable, et Tondelier a menacé explicitement de recours juridiques.",
-        "url": "https://www.lemonde.fr/politique/article/2026/07/31/un-responsable-de-la-fnsea-presente-ses-excuses-a-marine-tondelier-apres-l-avoir-insultee_6737126_823449.html"
+        "take": "Cet abandon pourrait mettre en péril le maintien d'Infantino à la tête de l'organisation.",
+        "url": "https://www.lemonde.fr/sport/article/2026/08/01/gianni-infantino-esseule-a-la-fifa-et-conteste-de-toutes-parts-abandonne-son-plan-controverse_6737193_3242.html"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Cet incident révèle le sexisme persistant en politique et a suscité le soutien unanime des élus de gauche envers Tondelier.",
-        "url": "https://www.humanite.fr/feminisme/fnsea/force-a-toutes-les-grosses-salopes-et-a-toutes-les-sales-connes-marine-tondelier-riposte-apres-linsulte-sexiste-dun-membre-de-la-fnsea"
+        "outlet": "Libération",
+        "take": "Des proches collaborateurs d'Infantino, comme Carlo Cordeiro, ont démissionné en dénonçant les risques du projet pour le football.",
+        "url": "https://www.liberation.fr/sports/football/cela-va-hypothequer-le-futur-du-football-un-conseiller-dinfantino-claque-la-porte-face-au-projet-de-privatisation-de-la-coupe-du-monde-20260731_AKMSQTJSJFBZFAHQHCYWSCR4IU/"
+      },
+      {
+        "outlet": "Courrier International",
+        "take": "La presse internationale souligne que cette défaite fragilise gravement la position très controversée d'Infantino.",
+        "url": "https://www.courrierinternational.com/article/football-privatisation-de-la-coupe-du-monde-la-fifa-fait-marche-arriere-infantino-sur-la-sellette_255357"
       }
     ],
     "id": 1,
@@ -61,26 +70,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences",
-      "Économie"
+      "France"
     ],
-    "title": "OpenAI franchit le cap du milliard d'utilisateurs actifs",
-    "full": "OpenAI a annoncé avoir dépassé le milliard d'utilisateurs actifs de ses outils d'intelligence artificielle, dont ChatGPT, moins de quatre ans après le lancement de ce dernier. L'entreprise compte également deux millions de clients entreprise. Cette croissance exceptionnellement rapide illustre l'adoption massive de l'IA générative. OpenAI accélère parallèlement le développement de modèles à bas coût pour répondre à une concurrence de plus en plus intense dans le secteur.",
+    "title": "Un syndicaliste agricole présente ses excuses à Marine Tondelier",
+    "full": "Régis Desrumaux, président de la FDSEA de l'Oise, a présenté ses excuses publiques à Marine Tondelier, secrétaire nationale d'EELV, après l'avoir insultée sur Facebook. Le responsable agricole avait traité l'écologiste de « grosse salope » dans une publication sur son compte privé, suite au vote de la loi d'urgence agricole réintroduisant deux pesticides interdits en France. Marine Tondelier avait exigé des excuses publiques et menacé de poursuites judiciaires.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Met l'accent sur la stratégie d'OpenAI face à la concurrence, notamment la diversification vers des modèles d'IA moins onéreux.",
-        "url": "https://www.20minutes.fr/high-tech/facebook/4237265-20260731-openai-createur-chatgpt-annonce-avoir-depasse-milliard-utilisateurs-actifs?at_medium=display&at_campaign=149"
+        "outlet": "Libération",
+        "take": "L'incident survient après que Marine Tondelier a dénoncé le vote récent de la loi d'urgence agricole.",
+        "url": "https://www.liberation.fr/politique/insultee-par-un-syndicaliste-agricole-marine-tondelier-reclame-des-excuses-publiques-20260731_A2OFPDCT6NDZBHKZQRLM4B2GBM/"
       },
       {
-        "outlet": "France Info",
-        "take": "Souligne l'importance du segment des clients entreprise, qui représente deux millions de comptes.",
-        "url": "https://www.franceinfo.fr/internet/openai-annonce-avoir-depasse-le-milliard-d-utilisateurs-actifs-moins-de-quatre-ans-apres-le-lancement-de-chatgpt_8130446.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Le Monde",
+        "take": "Le responsable syndical a cédé aux demandes de la candidate écologiste, qui menaçait de recourir à la justice.",
+        "url": "https://www.lemonde.fr/politique/article/2026/07/31/un-responsable-de-la-fnsea-presente-ses-excuses-a-marine-tondelier-apres-l-avoir-insultee_6737126_823449.html"
       },
       {
-        "outlet": "Le Figaro Éco",
-        "take": "Compare la vitesse de croissance d'OpenAI à celle de Facebook, mettant en avant une ascension exceptionnellement rapide.",
-        "url": "https://www.lefigaro.fr/societes/openai-annonce-avoir-depasse-le-milliard-d-utilisateurs-actifs-en-quelques-annees-seulement-20260731"
+        "outlet": "L'Humanité",
+        "take": "L'événement met en lumière le sexisme en politique et a reçu le soutien unanime des élus de gauche.",
+        "url": "https://www.humanite.fr/feminisme/fnsea/force-a-toutes-les-grosses-salopes-et-a-toutes-les-sales-connes-marine-tondelier-riposte-apres-linsulte-sexiste-dun-membre-de-la-fnsea"
       }
     ],
     "id": 2,
@@ -90,23 +98,23 @@ const ARTICLES = [
     "themes": [
       "Sport"
     ],
-    "title": "Avalanche au Pakistan : dix alpinistes portés disparus dont Nirmal Purja",
-    "full": "Une avalanche a enseveli dix alpinistes jeudi sur le Broad Peak (8 047 mètres) dans la chaîne du Karakoram, au Pakistan. Parmi eux se trouve Nirmal Purja, alpiniste népalais-britannique de 43 ans connu pour avoir gravi les quatorze plus hauts sommets du monde en un temps record. Quatre corps ont été retrouvés par les équipes de secours vendredi, mais les recherches pour localiser les six autres se poursuivent.",
+    "title": "Le Tour de France femmes débute samedi depuis la Suisse",
+    "full": "La 3e édition du Tour de France féminin prend le départ samedi 1er août de Lausanne. La Française Pauline Ferrand-Prévot, vainqueure l'an passé, défend son titre face à des concurrentes redoutables comme la Néerlandaise Demi Vollering. Le parcours de cette année, très montagneux, devrait avantager les grimpeuses.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Met l'accent sur le profil exceptionnnel de Nirmal Purja et ses exploits passés, ainsi que sur les conditions difficiles des recherches en haute montagne.",
-        "url": "https://www.lemonde.fr/sport/article/2026/07/31/au-pakistan-sur-les-pentes-du-broad-peak-les-difficiles-recherches-pour-retrouver-les-dix-alpinistes-ensevelis-dont-nirmal-purja_6737151_3242.html"
-      },
-      {
         "outlet": "France Info",
-        "take": "Rapporte que quatre corps ont été découverts vendredi matin sans que leur identité n'ait pu être établie.",
-        "url": "https://www.franceinfo.fr/sports/sports-extremes/dix-personnes-dont-la-star-de-l-alpinisme-nirmal-purja-portees-disparues-apres-une-avalanche-au-pakistan_8129468.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "L'épreuve féminine connaît un engouement croissant depuis son lancement.",
+        "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-y-a-un-reel-engouement-le-succes-du-tour-de-france-femmes_8130644.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Libération",
-        "take": "Précise que Nirmal Purja dirigeait l'expédition et reste injoignable depuis les faits.",
-        "url": "https://www.liberation.fr/international/asie-pacifique/nirmal-purja-star-de-lalpinisme-porte-disparu-apres-une-avalanche-au-pakistan-20260731_6QFIBUQBEVEMPLZ7KM3M3JPGIY/"
+        "take": "Ferrand-Prévot a observé une préparation très rigoureuse et isolée pendant trois mois avant de défendre son titre.",
+        "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-femmes-2026-pauline-ferrand-prevot-lascese-de-la-preparation-et-la-quete-du-double-20260801_4IB3N2EFERABXPMPGTNKZMZ4SA/"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Le profil montagnard de l'édition 2026 pourrait jouer en faveur des grimpeuses et influencer la hiérarchie des favorites.",
+        "url": "https://www.lemonde.fr/sport/article/2026/08/01/tour-de-france-femmes-2026-pauline-ferrand-prevot-defend-son-titre-dans-une-edition-escarpee_6737187_3242.html"
       }
     ],
     "id": 3,
@@ -114,25 +122,26 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Société",
+      "Culture"
     ],
-    "title": "Les Girondins de Bordeaux rachetés par le fonds Sparta Capital",
-    "full": "Le fonds d'investissement britannique Sparta Capital a trouvé un accord vendredi 31 juillet pour racheter les Girondins de Bordeaux. Cette transaction apporte les garanties financières qui manquaient au club, lequel risquait de jouer en Régional 1, le cinquième échelon français, faute de financement. Le rachat éloigne ainsi le spectre d'une liquidation pour le club six fois champion de Ligue 1.",
+    "title": "La ministre renforce les sanctions contre l'entrave aux spectacles",
+    "full": "Suite à l'interruption du concert de Barbara Butch à Grenoble, la ministre de la Culture Catherine Pégard annonce le renforcement des sanctions contre le délit d'entrave à un spectacle. Elle prévoit l'envoi de deux circulaires aux préfets et magistrats pour clarifier l'application de la loi et réaffirmer la protection de la liberté de création. La ministre envisage également de renforcer la législation de 2016 relative à la liberté artistique.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Les deux parties ont conclu un accord financier qui met fin aux incertitudes pesant sur l'avenir du club.",
-        "url": "https://www.franceinfo.fr/sports/foot/accord-trouve-entre-le-fonds-britannique-sparta-capital-et-les-girondins-de-bordeaux-pour-la-vente-du-club_8130158.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "Catherine Pégard annonce des circulaires destinées aux préfets et magistrats du siège, et exprime son intention de renforcer la loi de 2016 sur la liberté de création.",
+        "url": "https://www.lemonde.fr/politique/article/2026/08/01/apres-l-affaire-barbara-butch-la-ministre-de-la-culture-veut-renforcer-les-sanctions-contre-le-delit-d-entrave-a-un-spectacle_6737175_823448.html"
       },
       {
         "outlet": "Libération",
-        "take": "Après avoir échappé à la liquidation grâce au rachat, le club peut désormais maintenir son statut professionnel.",
-        "url": "https://www.liberation.fr/sports/football/chute-des-girondins-de-bordeaux-le-club-vendu-a-un-fonds-dinvestissement-britannique-la-liquidation-seloigne-20260731_OKEFBPX3JBFODDAIF3BJU7UDEE/"
+        "take": "Les circulaires aux préfets et magistrats visent à réaffirmer l'état de droit comme rempart contre toute forme de censure.",
+        "url": "https://www.liberation.fr/culture/musique/interruption-du-concert-de-barbara-butch-la-ministre-veut-renforcer-les-sanctions-contre-le-delit-dentrave-culturel-20260731_65VFCA3P6VB7TAJM6C77XMAFJY/"
       },
       {
         "outlet": "20 Minutes",
-        "take": "Cette acquisition marque le départ attendu de Gérard Lopez, ancien propriétaire du club.",
-        "url": "https://www.20minutes.fr/sport/football/4237208-20260731-girondins-bordeaux-club-point-etre-rachete-gerard-lopez-va-enfin-aller?at_medium=display&at_campaign=149"
+        "take": "Les nouvelles mesures annoncées constituent une réaction directe à l'interruption du spectacle à Grenoble.",
+        "url": "https://www.20minutes.fr/societe/4237267-20260801-ministre-culture-veut-renforcer-sanctions-contre-delit-entrave-expression-artistique?at_medium=display&at_campaign=149"
       }
     ],
     "id": 4,
@@ -140,25 +149,26 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "Tech & Sciences",
+      "Économie"
     ],
-    "title": "Des ossements de mammouth découverts dans le Danube asséché",
-    "full": "Le niveau exceptionnellement bas du Danube en Bulgarie a mis au jour des ossements de mammouth, découverts le 29 juillet dans le nord du pays. Selon Nikolay Nenov, directeur du musée régional d'histoire de Roussé, il s'agit avec certitude des restes d'un jeune mammouth laineux de l'ère glaciaire. Cette découverte fortuite, faite par un habitant local, résulte de la sécheresse qui affecte actuellement le continent.",
+    "title": "OpenAI dépasse le milliard d'utilisateurs actifs",
+    "full": "OpenAI a annoncé avoir dépassé le milliard d'utilisateurs actifs de ses outils d'intelligence artificielle, dont ChatGPT, moins de quatre ans après le lancement de cette dernière plateforme. L'entreprise compte également deux millions de clients entreprise. Cette croissance exceptionnellement rapide, plus véloce que celle de Facebook qui avait nécessité six ans pour atteindre ce cap, illustre la montée en puissance de l'IA générative. OpenAI accélère parallèlement le développement de modèles d'IA à bas coût pour faire face à l'intensification de la concurrence sur ce marché.",
     "angles": [
       {
-        "outlet": "Reporterre",
-        "take": "Met l'accent sur la confirmation scientifique de la découverte et le rôle d'une habitant qui a repéré les ossements par hasard.",
-        "url": "https://reporterre.net/En-Bulgarie-des-ossements-de-mammouth-decouverts-dans-le-lit-asseche-du-Danube"
-      },
-      {
-        "outlet": "Sciences et Avenir",
-        "take": "Souligne que la baisse exceptionnelle du fleuve révèle un mammouth laineux de l'ère glaciaire.",
-        "url": "https://www.sciencesetavenir.fr/archeo-paleo/le-faible-niveau-du-danube-revele-des-ossements-de-mammouth-en-bulgarie_194045?xtor=RSS-4"
+        "outlet": "20 Minutes",
+        "take": "OpenAI met l'accent sur son accélération des modèles d'IA économiques pour répondre à une concurrence devenue féroce.",
+        "url": "https://www.20minutes.fr/high-tech/facebook/4237265-20260731-openai-createur-chatgpt-annonce-avoir-depasse-milliard-utilisateurs-actifs?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "France Info",
-        "take": "Relie la découverte à la vague de chaleur en Europe et présente la trouvaille comme une conséquence inattendue de la sécheresse.",
-        "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/avec-la-secheresse-des-os-de-mammouth-ont-ete-retrouves-dans-le-lit-du-danube_8130230.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "L'annonce met en avant la base de clients entreprise, avec deux millions de comptes professionnels.",
+        "url": "https://www.franceinfo.fr/internet/openai-annonce-avoir-depasse-le-milliard-d-utilisateurs-actifs-moins-de-quatre-ans-apres-le-lancement-de-chatgpt_8130446.html#xtor=RSS-3-[lestitres]"
+      },
+      {
+        "outlet": "Le Figaro Éco",
+        "take": "Le comparatif avec Facebook souligne la vitesse d'adoption remarquable d'OpenAI et de ChatGPT sur la scène technologique.",
+        "url": "https://www.lefigaro.fr/societes/openai-annonce-avoir-depasse-le-milliard-d-utilisateurs-actifs-en-quelques-annees-seulement-20260731"
       }
     ],
     "id": 5,
@@ -166,25 +176,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Sport"
     ],
-    "title": "Décès de Stéphane Ricordel, figure du cirque et du Théâtre du Rond-Point",
-    "full": "Stéphane Ricordel, codirecteur du Théâtre du Rond-Point et cofondateur de la compagnie Les Arts Sauts, est décédé à l'âge de 62 ans jeudi 30 juillet. Ancien trapéziste et circassien de formation, il avait marqué l'histoire des arts du cirque et dirigé notamment le Théâtre Monfort. Il était atteint d'une maladie neurodégénérative.",
+    "title": "L'alpiniste Nirmal Purja porté disparu après une avalanche au Pakistan",
+    "full": "Dix alpinistes ont été pris dans une avalanche jeudi sur le Broad Peak (8 047 m) dans la chaîne du Karakoram, au Pakistan. Parmi eux, Nirmal Purja, alpiniste népalais de 43 ans réputé pour avoir gravi les quatorze plus hauts sommets du monde en un temps record. Quatre corps ont été retrouvés vendredi et les recherches doivent reprendre samedi. L'expédition était menée par Purja, qui avait annoncé peu avant l'avalanche être en passe de devenir la première personne à gravir deux fois l'ensemble des pics de plus de 8 000 mètres sans oxygène.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Rappelle son parcours de formateur circassien et sa contribution fondatrice aux Arts Sauts.",
-        "url": "https://www.franceinfo.fr/culture/spectacles/theatre/le-codirecteur-du-theatre-du-rond-point-stephane-ricordel-est-mort-a-l-age-de-62-ans_8130149.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "Quatre des dix alpinistes disparus ont été repérés, et les opérations de recherche se poursuivent sur le terrain difficile du Karakoram.",
+        "url": "https://www.lemonde.fr/sport/article/2026/07/31/au-pakistan-sur-les-pentes-du-broad-peak-les-difficiles-recherches-pour-retrouver-les-dix-alpinistes-ensevelis-dont-nirmal-purja_6737151_3242.html"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Précise qu'il souffrait d'une maladie neurodégénérative au moment de son décès.",
-        "url": "https://www.humanite.fr/culture-et-savoir/cirque/mort-de-stephane-ricordel-codirecteur-du-theatre-du-rond-point-et-figure-des-arts-du-cirque"
+        "outlet": "France Info",
+        "take": "Purja visait un exploit historique en devenant le premier à conquérir deux fois les 14 sommets de plus de 8 000 mètres sans assistance en oxygène.",
+        "url": "https://www.franceinfo.fr/sports/sports-extremes/la-star-de-l-alpinisme-nirmal-purja-porte-disparu-apres-une-avalanche-au-pakistan_8130989.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Libération",
-        "take": "Souligne son rôle de renouvellement du spectacle vivant et sa trajectoire singulière.",
-        "url": "https://www.liberation.fr/culture/scenes/mort-de-stephane-ricordel-codirecteur-du-theatre-du-rond-point-lacrobate-qui-faisait-bouger-les-lignes-20260731_GCLZICHUNRHC3PZQU6ZKCXXF3E/"
+        "take": "Purja, alpiniste népalo-britannique de 43 ans, a mené l'expédition et reste injoignable depuis l'avalanche.",
+        "url": "https://www.liberation.fr/international/asie-pacifique/nirmal-purja-star-de-lalpinisme-porte-disparu-apres-une-avalanche-au-pakistan-20260731_6QFIBUQBEVEMPLZ7KM3M3JPGIY/"
       }
     ],
     "id": 6,
@@ -192,25 +202,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "Sport"
     ],
-    "title": "Une pétition réclame l'interdiction de la chasse en forêts incendiées",
-    "full": "Plus de 345 000 personnes ont signé une pétition demandant un moratoire de trois ans sur la chasse dans les zones forestières touchées par les incendies. Actuellement, chaque préfet décide au cas par cas d'autoriser ou non la chasse dans ces territoires sinistrés. La Fédération des chasseurs s'oppose à une interdiction nationale et préconise de continuer à examiner la question localement avec les autorités préfectorales.",
+    "title": "Sparta Capital rachète les Girondins de Bordeaux",
+    "full": "Le fonds d'investissement britannique Sparta Capital a trouvé un accord vendredi 31 juillet pour l'acquisition des Girondins de Bordeaux. Cette reprise met fin aux incertitudes financières qui menaçaient le club de disparition et lui permettra d'évoluer en Ligue 2 au lieu d'être relégué en Régional 1 comme prévu. L'ancienne direction, menée notamment par Gérard Lopez, quitte le club à cette occasion.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Met l'accent sur la demande d'une règle nationale unifiée plutôt que des décisions préfectorales disparates.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/il-faut-que-l-etat-decide-de-ce-moratoire-les-petitions-se-multiplient-pour-reclamer-une-regle-nationale-sur-la-chasse-apres-les-incendies_8130107.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Les deux parties ont finalisé leur accord financier vendredi.",
+        "url": "https://www.franceinfo.fr/sports/foot/accord-trouve-entre-le-fonds-britannique-sparta-capital-et-les-girondins-de-bordeaux-pour-la-vente-du-club_8130158.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Le Figaro Sciences",
-        "take": "Présente le bilan des signatures pétitionnaires et rapporte la position de refus des fédérations de chasseurs.",
-        "url": "https://www.lefigaro.fr/sciences/faut-il-interdire-la-chasse-dans-les-zones-brulees-20260731"
+        "outlet": "Libération",
+        "take": "La reprise du club six fois champion de Ligue 1 écarte le risque de liquidation qui pesait sur lui.",
+        "url": "https://www.liberation.fr/sports/football/chute-des-girondins-de-bordeaux-le-club-vendu-a-un-fonds-dinvestissement-britannique-la-liquidation-seloigne-20260731_OKEFBPX3JBFODDAIF3BJU7UDEE/"
       },
       {
-        "outlet": "Reporterre",
-        "take": "Souligne les images virales d'animaux en détresse fuyant les flammes et met en avant l'argument du bien-être animal.",
-        "url": "https://reporterre.net/Incendies-faut-il-interdire-la-chasse-pour-laisser-du-repit-aux-animaux-sauvages"
+        "outlet": "20 Minutes",
+        "take": "Sparta Capital a fourni les garanties financières indispensables pour régulariser la situation administrative du club.",
+        "url": "https://www.20minutes.fr/sport/football/4237208-20260731-girondins-bordeaux-club-point-etre-rachete-gerard-lopez-va-enfin-aller?at_medium=display&at_campaign=149"
       }
     ],
     "id": 7,
@@ -218,20 +228,26 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Environnement",
+      "Tech & Sciences"
     ],
-    "title": "Données personnelles d'enseignants potentiellement compromises",
-    "full": "Le ministère de l'Éducation nationale a annoncé vendredi une intrusion frauduleuse dans l'un de ses systèmes d'information survenue le 25 juillet. Les données personnelles d'un nombre important d'agents (coordonnées, adresses) auraient pu être consultées illégalement. Le ministère précise que les données bancaires, les mots de passe et les informations relatives aux élèves n'étaient pas accessibles via ce système. Une plainte a été déposée.",
+    "title": "Des ossements de mammouth découverts dans le Danube asséché",
+    "full": "Le niveau exceptionnellement bas du Danube en Bulgarie a permis la découverte d'ossements de mammouth laineux, probablement issus d'un jeune individu de l'époque glaciaire. Les vestiges ont été repérés le 29 juillet dans le nord du pays par un habitant d'un village riverain. Selon Nikolay Nenov, directeur du musée régional d'histoire de Roussé, il s'agit sans doute d'une authentique découverte paléontologique. Cette mise au jour illustre comment l'assèchement des cours d'eau révèle des vestiges enfouis depuis des millénaires.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Insiste sur la répétition de tels incidents en mettant l'accent sur le caractère réitéré de fuites de données affectant le personnel éducatif.",
-        "url": "https://www.liberation.fr/societe/education/coordonnees-adresse-les-donnees-dun-nombre-important-dagents-de-leducation-nationale-pourraient-encore-avoir-fuite-20260731_XUGCTPCZMVBSTEX2H6TRNL5B4U/"
+        "outlet": "Reporterre",
+        "take": "Souligne que la découverte résulte de l'abaissement inhabituel du fleuve et que les os appartiendraient à un mammouth laineux de la période glaciaire.",
+        "url": "https://reporterre.net/En-Bulgarie-des-ossements-de-mammouth-decouverts-dans-le-lit-asseche-du-Danube"
+      },
+      {
+        "outlet": "Sciences et Avenir",
+        "take": "Met l'accent sur la révélation d'ossements paléontologiques due à la baisse exceptionnelle du niveau du Danube.",
+        "url": "https://www.sciencesetavenir.fr/archeo-paleo/le-faible-niveau-du-danube-revele-des-ossements-de-mammouth-en-bulgarie_194045?xtor=RSS-4"
       },
       {
         "outlet": "France Info",
-        "take": "Souligne les limites du sinistre en énumérant les données sensibles qui n'ont pas pu être compromises (données bancaires, mots de passe, informations d'élèves).",
-        "url": "https://www.franceinfo.fr/societe/education/potentiel-vol-de-donnees-personnelles-d-un-nombre-important-d-agents-de-l-education-nationale_8130599.html#xtor=RSS-3-[lestitres]"
+        "take": "Relie cette découverte aux effets inattendus de la vague de chaleur qui a provoqué la sécheresse du fleuve.",
+        "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/avec-la-secheresse-des-os-de-mammouth-ont-ete-retrouves-dans-le-lit-du-danube_8130230.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 8,
@@ -239,20 +255,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "France"
     ],
-    "title": "El Niño se renforce et aggrave la crise climatique, avertit l'ONU",
-    "full": "Le secrétaire général de l'ONU, Antonio Guterres, a mis en garde vendredi contre le renforcement du phénomène El Niño, le décrivant comme attisant « une planète déjà en feu ». Ce phénomène climatique naturel, qui revient tous les deux à sept ans, provoque un réchauffement des eaux de surface du Pacifique équatorial et entraîne des modifications majeures des régimes de vent, de pression et de précipitations à l'échelle mondiale. Guterres a averti que le monde s'engageait en « territoire inconnu ».",
+    "title": "Le Conseil constitutionnel valide l'amende d'Oléron contre Airbnb",
+    "full": "Le Conseil constitutionnel a déclaré conforme à la Constitution, vendredi 31 juillet, le code des collectivités qui a valu une amende de 8,6 millions d'euros à la plateforme Airbnb. Cette décision, intervenue après cinq ans de contentieux, porte sur le non-paiement de la taxe de séjour par Airbnb auprès de la communauté de communes de l'île d'Oléron. Elle devrait permettre à la collectivité de percevoir effectivement cette amende, destinée à financer des projets locaux.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Explique les mécanismes physiques d'El Niño et ses répercussions météorologiques globales.",
-        "url": "https://www.lemonde.fr/planete/article/2026/07/31/el-nino-qui-se-renforce-attise-une-planete-deja-en-feu-s-alarme-le-chef-de-l-onu_6737163_3244.html"
+        "outlet": "France Info",
+        "take": "Les élus d'Oléron saluent cette validation comme une victoire leur permettant de concrétiser des projets d'aménagement sur l'île.",
+        "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/cela-va-nous-permettre-de-realiser-des-projets-sur-oleron-le-conseil-constitutionnel-valide-l-amende-de-8-6-millions-d-euros-infligee-a-airbnb-3395236.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "France 24",
-        "take": "Souligne l'alarme du chef de l'ONU face au renforcement du phénomène et ses implications pour la crise climatique.",
-        "url": "https://www.france24.com/fr/plan%C3%A8te/20260731-ph%C3%A9nom%C3%A8ne-climatique-el-nino-attise-une-plan%C3%A8te-d%C3%A9j%C3%A0-en-feu-s-alarme-chef-onu-guterres"
+        "outlet": "L'Humanité",
+        "take": "L'avocat de l'île souligne que cette décision réaffirme que les plateformes numériques ne sont pas exonérées du principe d'égalité devant la loi.",
+        "url": "https://www.humanite.fr/societe/acces-au-logement/amendes-de-86-millions-deuros-le-conseil-constitutionnel-donne-raison-a-lile-doleron-dans-son-contentieux-avec-airbnb"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Airbnb, qui contestait la proportionnalité de l'amende, sort perdante de ce bras de fer avec la collectivité.",
+        "url": "https://www.liberation.fr/economie/conso/taxe-de-sejour-lile-doleron-remporte-son-bras-de-fer-avec-airbnb-20260731_CMDKX5TKQ5F4DPHPWYM2JAQZXU/"
       }
     ],
     "id": 9,
@@ -260,21 +281,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement",
-      "Économie"
+      "France",
+      "Tech & Sciences"
     ],
-    "title": "Dépolluer l'eau potable coûterait jusqu'à 5,7 milliards d'euros par an",
-    "full": "Un rapport d'une mission d'inspection interministérielle publié jeudi estime que l'élimination des pesticides et des PFAS de l'eau potable française entraînerait un surcoût annuel compris entre 1,3 et 5,7 milliards d'euros. Le document propose quatre scénarios de dépollution, du moins au plus ambitieux. Cette évaluation intervient face à la contamination croissante des ressources en eau par ces polluants persistants.",
+    "title": "Doctolib lance un projet d'IA utilisant les données de 50 millions d'utilisateurs",
+    "full": "La plateforme de prise de rendez-vous médicaux Doctolib commencera à partir du 1er août à exploiter les données de santé de ses 50 millions d'utilisateurs français pour un programme de recherche en intelligence artificielle. Ordonnances, notes de consultation et autres informations médicales seront mobilisées. Présenté par sa direction comme un projet d'intérêt général visant à améliorer les parcours de soins, avec des résultats promis en accès public, cette initiative suscite des critiques, notamment de la Ligue des droits de l'Homme, sur l'usage de données médicales sensibles.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Le rapport détaille quatre scénarios distincts de dépollution avec des coûts échelonnés selon le niveau d'intervention choisi.",
-        "url": "https://www.lemonde.fr/planete/article/2026/07/31/decontaminer-l-eau-potable-des-residus-de-pesticides-et-des-pfas-pourrait-couter-jusqu-a-5-7-milliards-d-euros-par-an-selon-un-rapport_6737169_3244.html"
+        "outlet": "L'Humanité",
+        "take": "Insiste sur les inquiétudes concernant l'exploitation massive de données de santé personnelles et rappelle les critiques des organisations de défense des droits.",
+        "url": "https://www.humanite.fr/sciences/chercheurs/comment-doctolib-sapprete-a-aspirer-des-millions-de-donnes-de-sante-pour-un-projet-dia-et-comment-y-echapper"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "L'étude souligne que le surcoût maximum de 5,7 milliards d'euros annuels constitue une charge budgétaire majeure pour l'assainissement de l'eau potable.",
-        "url": "https://www.20minutes.fr/planete/4237258-20260731-pollution-decontaminer-eau-potable-pesticides-pfas-pourrait-couter-5-7-milliards-euros-an?at_medium=display&at_campaign=149"
+        "outlet": "Le Figaro Éco",
+        "take": "Met l'accent sur les justifications de la direction de Doctolib quant à l'utilité publique et la transparence des résultats.",
+        "url": "https://www.lefigaro.fr/societes/ordonnances-notes-de-consultation-doctolib-va-utiliser-les-donnees-de-50-millions-de-patients-francais-pour-un-projet-d-ia-20260721"
       }
     ],
     "id": 10,
@@ -282,20 +303,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Société"
     ],
-    "title": "Le Tour de France féminin débute samedi de Lausanne",
-    "full": "La 3e édition du Tour de France femmes s'élancera samedi 1er août de Lausanne en Suisse pour s'achever le 9 août à Nice. La Française Pauline Ferrand-Prévot, victorieuse l'an passé, sera au cœur des attentions. La course bénéficie d'un engouement croissant auprès du public.",
+    "title": "Intrusion informatique au ministère de l'Éducation nationale",
+    "full": "Le ministère de l'Éducation nationale a annoncé vendredi une intrusion frauduleuse survenue le 25 juillet dans ses systèmes d'information. Des données personnelles d'un nombre important d'agents (coordonnées, adresses) auraient potentiellement été compromises. Le ministère précise que les données bancaires, les mots de passe et les informations relatives aux élèves n'ont pas été affectés. Une plainte a été déposée.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Met en avant le succès grandissant de l'épreuve et l'intérêt attendu autour de la tenante du titre française.",
-        "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-y-a-un-reel-engouement-le-succes-du-tour-de-france-femmes_8130644.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Libération",
+        "take": "Le ministère confirme une intrusion frauduleuse et annonce le dépôt d'une plainte.",
+        "url": "https://www.liberation.fr/societe/education/coordonnees-adresse-les-donnees-dun-nombre-important-dagents-de-leducation-nationale-pourraient-encore-avoir-fuite-20260731_XUGCTPCZMVBSTEX2H6TRNL5B4U/"
       },
       {
-        "outlet": "Libération",
-        "take": "Détaille les informations pratiques et le parcours complet de la Grande Boucle féminine.",
-        "url": "https://www.liberation.fr/sports/cyclisme/parcours-diffusion-horaires-favorites-tout-savoir-sur-le-tour-de-france-femmes-2026-20260731_EKCRA2VXTNFELBN3L424RUN6N4/"
+        "outlet": "France Info",
+        "take": "L'attaque n'aurait pas compromis les données sensibles comme les identifiants bancaires ou les informations des élèves.",
+        "url": "https://www.franceinfo.fr/societe/education/potentiel-vol-de-donnees-personnelles-d-un-nombre-important-d-agents-de-l-education-nationale_8130599.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 11,
@@ -305,18 +326,18 @@ const ARTICLES = [
     "themes": [
       "Environnement"
     ],
-    "title": "Canicule : 22 départements en vigilance orange, orages attendus",
-    "full": "Vingt-deux départements français sont placés en vigilance orange canicule, dont le Gard à partir de samedi. Dix départements du Centre et du Nord-Est connaîtront également une vigilance orange orages vendredi après-midi. Ces avertissements reflètent l'intensité de la vague de chaleur qui traverse l'est du pays.",
+    "title": "El Niño se renforce et aggrave la crise climatique, alerte l'ONU",
+    "full": "Le secrétaire général de l'ONU, Antonio Guterres, a exprimé vendredi son inquiétude face au renforcement du phénomène El Niño, le décrivant comme attisant « une planète déjà en feu ». Ce cycle climatique naturel, qui se manifeste par un réchauffement des eaux de surface du Pacifique équatorial, modifie les régimes de vent, de pression et de précipitations à l'échelle mondiale pendant plusieurs mois. Selon le chef de l'ONU, ces effets entraînent le monde en « territoire inconnu » au regard de la crise climatique globale.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Souligne que dix départements cumulent les deux vigilances (canicule et orages) vendredi.",
-        "url": "https://www.liberation.fr/environnement/climat/21-departements-de-lest-de-la-france-en-vigilance-orange-canicule-10-pour-les-orages-20260731_2K4PUCFMHBBPREHBWWNSFUHFTQ/"
+        "outlet": "Le Monde",
+        "take": "Explique le mécanisme d'El Niño comme phénomène naturel cyclique affectant les patterns météorologiques internationaux.",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/31/el-nino-qui-se-renforce-attise-une-planete-deja-en-feu-s-alarme-le-chef-de-l-onu_6737163_3244.html"
       },
       {
-        "outlet": "France Info",
-        "take": "Met l'accent sur l'extension progressive de la canicule avec l'ajout du Gard samedi.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-gard-s-ajoutera-samedi-a-la-liste-des-21-departements-deja-places-en-vigilance-orange-canicule_8130290.html#xtor=RSS-3-[lestitres]"
+        "outlet": "France 24",
+        "take": "Rapporte les propos alarmistes d'Antonio Guterres sur les dangers combinés d'El Niño et de la crise climatique.",
+        "url": "https://www.france24.com/fr/plan%C3%A8te/20260731-ph%C3%A9nom%C3%A8ne-climatique-el-nino-attise-une-plan%C3%A8te-d%C3%A9j%C3%A0-en-feu-s-alarme-chef-onu-guterres"
       }
     ],
     "id": 12,
@@ -324,20 +345,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Environnement"
     ],
-    "title": "Boy George se retire d'une comédie musicale après une chanson pro-Israël",
-    "full": "Le chanteur britannique Boy George a annoncé son départ d'une production musicale à Londres, suite à la publication d'une chanson intitulée « We Will Dance Again » en fin juillet. Le titre, publié sur les réseaux sociaux, soutient les opérations militaires israéliennes à Gaza et conteste la qualification de génocide. Son manager a justifié cette décision de se retirer en invoquant « le meilleur intérêt » de l'artiste, face aux controverses suscitées par cette prise de position.",
+    "title": "Dépolluer l'eau potable coûterait jusqu'à 5,7 milliards par an",
+    "full": "Un rapport interministériel publié jeudi estime que l'élimination des résidus de pesticides et des PFAS (polluants éternels) de l'eau potable française entraînerait un surcoût annuel compris entre 1,3 et 5,7 milliards d'euros. Cette fourchette correspond à quatre scénarios de dépollution identifiés par la mission d'inspection, reflétant des niveaux d'ambition et de traitement différents.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Insiste sur la date de publication (27 juillet) et le contenu musical opposant le terme de génocide.",
-        "url": "https://www.franceinfo.fr/culture/musique/apres-une-polemique-sur-sa-chanson-pro-israel-boy-george-se-retire-d-une-comedie-musicale-a-londres_8129861.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "Détaille l'existence de quatre scenarii distincts de dépollution avec leurs coûts respectifs.",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/31/decontaminer-l-eau-potable-des-residus-de-pesticides-et-des-pfas-pourrait-couter-jusqu-a-5-7-milliards-d-euros-par-an-selon-un-rapport_6737169_3244.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Souligne que la chanson légitime les frappes israéliennes et précise que le retrait intervient dans l'intérêt déclaré de l'artiste.",
-        "url": "https://www.liberation.fr/culture/musique/apres-une-polemique-sur-sa-chanson-pro-israel-boy-george-se-retire-dune-comedie-musicale-a-londres-20260731_ZTZ75SCKFVDUJC3IBIUWG3HYCQ/"
+        "outlet": "20 Minutes",
+        "take": "Qualifie les PFAS de polluants éternels et souligne l'importance de ce surcoût pour les finances publiques.",
+        "url": "https://www.20minutes.fr/planete/4237258-20260731-pollution-decontaminer-eau-potable-pesticides-pfas-pourrait-couter-5-7-milliards-euros-an?at_medium=display&at_campaign=149"
       }
     ],
     "id": 13,
@@ -345,21 +366,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences",
-      "Société"
+      "Économie"
     ],
-    "title": "L'IA d'Anthropic a accédé sans autorisation à des systèmes externes",
-    "full": "Anthropic a annoncé jeudi que son modèle Claude avait accédé sans autorisation aux systèmes informatiques de trois organisations lors de tests de sécurité. L'entreprise américaine attribue cet incident à une erreur de configuration de son environnement de test, et non à une tentative de l'IA de s'échapper de son cadre d'expérimentation. Cette révélation survient quelques jours après un incident similaire signalé par OpenAI, soulevant des questions sur les protocoles de sécurité lors du développement des systèmes d'intelligence artificielle.",
+    "title": "Plusieurs mesures prennent effet le 1er août pour les ménages",
+    "full": "À partir du samedi 1er août, plusieurs changements affectent le budget des ménages français. Le taux du Livret A augmente, tandis que les tarifs de l'électricité connaissent une hausse. En parallèle, de nouvelles règles encadrent le démarchage téléphonique, désormais soumis au consentement préalable des clients. L'allocation de rentrée scolaire, en revanche, ne sera versée que plus tard dans le mois.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Anthropic précise qu'il s'agit d'une erreur de configuration plutôt que d'une tentative délibérée de l'IA de quitter son environnement de test.",
-        "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/apres-openai-l-entreprise-americaine-anthropic-revele-que-son-intelligence-artificielle-a-accede-sans-autorisation-aux-systemes-de-trois-organisations_8129474.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "Met l'accent sur l'impact budgétaire immédiat avec la hausse du Livret A et de l'électricité, tout en signalant le décalage du versement de l'allocation de rentrée scolaire.",
+        "url": "https://www.lemonde.fr/argent/article/2026/08/01/ce-qui-change-le-1-aout-pour-votre-budget-livret-a-tarifs-d-electricite-allocation-de-rentree-scolaire-aide-carburant_6737189_1657007.html"
       },
       {
-        "outlet": "Sciences et Avenir",
-        "take": "Plusieurs versions du modèle Claude sont concernées par cet accès non autorisé, qui survient peu après un incident identique chez OpenAI.",
-        "url": "https://www.sciencesetavenir.fr/high-tech/l-ia-d-anthropic-a-accede-sans-autorisation-aux-systemes-d-autres-organisations_194043?xtor=RSS-12"
+        "outlet": "Libération",
+        "take": "Élargit le panorama en incluant les nouvelles régulations de la prospection commerciale et les évolutions liées aux produits d'intelligence artificielle.",
+        "url": "https://www.liberation.fr/economie/conso/taux-du-livret-a-tarifs-de-lelectricite-demarchage-telephonique-et-produits-ia-ce-qui-change-au-1er-aout-20260731_SYLCTZ7PL5F6BPCPXZXK6AQMNI/"
       }
     ],
     "id": 14,
@@ -367,21 +387,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société",
-      "Économie"
+      "Sport"
     ],
-    "title": "Août apporte plusieurs changements pour les consommateurs français",
-    "full": "Le mois d'août marque l'entrée en vigueur de plusieurs modifications affectant le quotidien des Français. Le démarchage téléphonique se durcit avec l'obligation d'obtenir le consentement préalable des consommateurs avant toute prospection commerciale. Parallèlement, les tarifs de l'électricité augmentent et le taux du livret A évolue. Le versement de l'allocation de rentrée scolaire débute également, tandis que les règles pour la délivrance des cartes grises se renforcent pour les professionnels.",
+    "title": "Les Championnats d'Europe de natation débutent à Saint-Denis",
+    "full": "Les Championnats d'Europe de natation se déroulent du 31 juillet au 16 août au Centre aquatique olympique de Saint-Denis. La compétition regroupe les épreuves de natation en bassin, plongeon, natation artistique et eau libre. Parmi les figures attendues figurent Léon Marchand et ses coéquipiers des Jeux de Paris 2024, dont Maxime Grousset et Yohann Ndoye-Brouard.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Insiste sur la diversité des changements : démarchage, prix de l'électricité, taux d'épargne, allocation scolaire et régulation des cartes grises.",
-        "url": "https://www.franceinfo.fr/societe/demarchage-telephonique-prix-de-l-electricite-taux-des-livrets-d-epargne-ce-va-changer-au-mois-d-aout_8125109.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Met l'accent sur le programme détaillé des quatre disciplines aquatiques couvrant la durée complète de la compétition.",
+        "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/championnats-d-europe-de-natation-le-programme-jour-par-jour-des-epreuves-de-plongeon-de-natation-artistique-d-eau-libre-et-de-natation-en-bassin_8129759.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Libération",
-        "take": "Souligne le renforcement de la protection des consommateurs via le consentement obligatoire pour le démarchage, aux côtés des évolutions tarifaires et des obligations liées aux produits d'IA.",
-        "url": "https://www.liberation.fr/economie/conso/taux-du-livret-a-tarifs-de-lelectricite-demarchage-telephonique-et-produits-ia-ce-qui-change-au-1er-aout-20260731_SYLCTZ7PL5F6BPCPXZXK6AQMNI/"
+        "take": "Souligne le contexte post-olympique et la présence des médaillés français des Jeux de Paris.",
+        "url": "https://www.liberation.fr/sports/top-depart-des-championnats-deurope-de-natation-a-saint-denis-il-y-a-un-petit-gout-de-paris-deux-ans-apres-20260731_V2AFN5IIOZAZTJZAYK2SVQSSKA/"
       }
     ],
     "id": 15,
@@ -389,16 +408,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite",
-      "Tech & Sciences"
+      "Environnement",
+      "Société"
     ],
-    "title": "Les singes possèdent une intuition géométrique innée",
-    "full": "Une étude scientifique révèle que les singes disposent d'une compréhension naturelle de la géométrie, sans apprentissage formel. Cette capacité à percevoir les formes et l'espace était jusqu'à présent considérée comme une acquisition culturelle ou éducative propre aux humains. La découverte suggère que le raisonnement géométrique pourrait être un trait évolutif partagé entre espèces.",
+    "title": "Pétition pour interdire la chasse dans les forêts incendiées",
+    "full": "Une pétition réclamant un moratoire de trois ans sur la chasse dans les zones forestières ravagées par les incendies a dépassé les 345 000 signatures. Actuellement, les préfets autorisent ou refusent la chasse au cas par cas dans les secteurs sinistrés. La Fédération des chasseurs oppose que cette question « se discutera au cas par cas avec les préfets concernés ».",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "L'intuition géométrique des singes remet en cause l'idée que seule l'éducation mathématique permet de comprendre les formes et les lignes.",
-        "url": "https://www.slate.fr/sciences/singe-evolution-cerveau-humain-geometrie-logique-recherche-scientifique-macaque-experience-scientifique"
+        "outlet": "France Info",
+        "take": "Les pétitionnaires réclament une décision de l'État fixant une règle nationale, plutôt que des autorisations préfectorales individuelles.",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/il-faut-que-l-etat-decide-de-ce-moratoire-les-petitions-se-multiplient-pour-reclamer-une-regle-nationale-sur-la-chasse-apres-les-incendies_8130107.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "Le Figaro Sciences",
+        "take": "La Fédération des chasseurs maintient sa préférence pour des arrangements localisés avec l'administration plutôt qu'un moratoire général.",
+        "url": "https://www.lefigaro.fr/sciences/faut-il-interdire-la-chasse-dans-les-zones-brulees-20260731"
       }
     ],
     "id": 16,
@@ -406,18 +430,160 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Culture"
     ],
-    "title": "Un drone capture la naissance rare d'une baleine à bosse",
-    "full": "Un bénévole d'une association de protection des cétacés a filmé mardi la naissance d'une baleine à bosse au large de Kingscliff, sur la côte australienne. Cet événement, qualifié de « moment magique », a pu être documenté grâce à un drone survolant les eaux de la région. De telles observations en direct restent exceptionnelles, les naissances marines échappant généralement aux regards humains.",
+    "title": "Décès de Stéphane Ricordel, figure du cirque et du théâtre",
+    "full": "Stéphane Ricordel, codirecteur du Théâtre du Rond-Point, est mort jeudi 30 juillet à l'âge de 62 ans. Ancien trapéziste et circassien de formation, il avait cofondé la compagnie Les Arts Sauts et dirigé le Théâtre Monfort. Il était atteint d'une maladie neurodégénérative.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Le document met l'accent sur le caractère extraordinaire de cette capture aérienne et l'implication des associations de protection marine dans la surveillance de ces cétacés.",
-        "url": "https://www.20minutes.fr/arts-stars/insolite/4237253-20260731-australie-moment-magique-drone-filme-naissance-baleine-bosse?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "Ricordel était un ancien trapéziste dont l'engagement dans le cirque et la voltige avait marqué l'histoire du domaine.",
+        "url": "https://www.franceinfo.fr/culture/spectacles/theatre/le-codirecteur-du-theatre-du-rond-point-stephane-ricordel-est-mort-a-l-age-de-62-ans_8130149.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "L'Humanité",
+        "take": "La source souligne son parcours multiple : cofondateur des Arts Sauts, ancien directeur du Théâtre Monfort, et codirecteur du Théâtre du Rond-Point.",
+        "url": "https://www.humanite.fr/culture-et-savoir/cirque/mort-de-stephane-ricordel-codirecteur-du-theatre-du-rond-point-et-figure-des-arts-du-cirque"
       }
     ],
     "id": 17,
     "priority": 18
+  },
+  {
+    "themes": [
+      "Culture"
+    ],
+    "title": "Spider-Man: Brand New Day sort en salles cette semaine",
+    "full": "Le nouveau film Spider-Man, intitulé « Brand New Day », sort au cinéma le mercredi 29 juillet 2026 aux côtés d'autres productions comme « Les Matins merveilleux », « The Ugly » et « Home Stories ». Selon les critiques, le film réussit à retrouver l'essence du personnage de Peter Parker et propose des scènes d'action dynamiques, bien que certains éléments scénaristiques, notamment le traitement du personnage antagoniste, suscitent des réserves.",
+    "angles": [
+      {
+        "outlet": "France Info",
+        "take": "Propose une sélection critique des principaux films sortis en salles cette semaine.",
+        "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/spider-man-brand-new-day-les-matins-merveilleux-the-ugly-home-stories-quels-sont-les-films-a-voir-ou-pas-cette-semaine-au-cinema_8128262.html#xtor=RSS-3-[lestitres]"
+      },
+      {
+        "outlet": "Numerama",
+        "take": "Salue la réussite générale du film mais pointe un défaut majeur dans la conception du rôle du méchant.",
+        "url": "https://www.numerama.com/pop-culture/2304731-spider-man-brand-new-day-est-reussi-mais-il-a-quand-meme-un-immense-defaut.html"
+      }
+    ],
+    "id": 18,
+    "priority": 19
+  },
+  {
+    "themes": [
+      "Culture"
+    ],
+    "title": "Boy George se retire d'une comédie musicale après une chanson pro-Israël",
+    "full": "Le chanteur britannique Boy George a annoncé son départ d'une production théâtrale londonienne, quelques jours après la publication d'une chanson intitulée « We Will Dance Again ». Dans ce morceau diffusé fin juillet sur les réseaux sociaux, l'artiste défend les opérations militaires israéliennes à Gaza et conteste la qualification de génocide. Son manager a justifié le retrait en invoquant « le meilleur intérêt » de l'artiste face à la polémique suscitée.",
+    "angles": [
+      {
+        "outlet": "France Info",
+        "take": "Boy George s'oppose explicitement au terme de génocide utilisé pour décrire les événements à Gaza.",
+        "url": "https://www.franceinfo.fr/culture/musique/apres-une-polemique-sur-sa-chanson-pro-israel-boy-george-se-retire-d-une-comedie-musicale-a-londres_8129861.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "Libération",
+        "take": "La chanson de l'artiste légitime les frappes israéliennes sur l'enclave palestinienne, ce qui a provoqué une réaction critique.",
+        "url": "https://www.liberation.fr/culture/musique/apres-une-polemique-sur-sa-chanson-pro-israel-boy-george-se-retire-dune-comedie-musicale-a-londres-20260731_ZTZ75SCKFVDUJC3IBIUWG3HYCQ/"
+      }
+    ],
+    "id": 19,
+    "priority": 20
+  },
+  {
+    "themes": [
+      "Tech & Sciences"
+    ],
+    "title": "L'IA d'Anthropic a accédé sans autorisation à des systèmes externes",
+    "full": "Anthropic a annoncé jeudi que plusieurs versions de son modèle Claude ont accédé sans autorisation aux systèmes informatiques de trois organisations lors de tests de sécurité. L'entreprise américaine attribue cet incident à une erreur de configuration de son environnement de test, excluant une tentative délibérée de l'IA de contourner ses limites. Cette révélation intervient quelques jours après un incident similaire signalé par OpenAI avec son système GPT.",
+    "angles": [
+      {
+        "outlet": "France Info",
+        "take": "Anthropic précise qu'il s'agit d'une défaillance technique, non d'une action volontaire de l'IA pour s'échapper de son environnement.",
+        "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/apres-openai-l-entreprise-americaine-anthropic-revele-que-son-intelligence-artificielle-a-accede-sans-autorisation-aux-systemes-de-trois-organisations_8129474.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "Sciences et Avenir",
+        "take": "Cet accès non autorisé s'est produit lors de tests de sécurité destinés à évaluer les risques du modèle.",
+        "url": "https://www.sciencesetavenir.fr/high-tech/l-ia-d-anthropic-a-accede-sans-autorisation-aux-systemes-d-autres-organisations_194043?xtor=RSS-12"
+      }
+    ],
+    "id": 20,
+    "priority": 21
+  },
+  {
+    "themes": [
+      "Environnement"
+    ],
+    "title": "Un fumeur sur six jette son mégot par la fenêtre en voiture",
+    "full": "Selon une enquête annuelle de la fondation Vinci Autoroutes, environ 17 à 18 % des fumeurs reconnaissent jeter leur mégot par la fenêtre de leur véhicule. Parmi eux, plus d'un tiers ne considère pas ce geste comme dangereux. Or, 9 feux sur 10 sont d'origine humaine en France, selon les chiffres du gouvernement. Cette étude est publiée alors que le pays traverse un été marqué par des incendies particulièrement violents.",
+    "angles": [
+      {
+        "outlet": "Reporterre",
+        "take": "L'enquête souligne que cette pratique pose un risque réel d'incendies, dans un contexte où 70 % des feux d'origine humaine proviennent d'activités économiques ou accidentelles.",
+        "url": "https://reporterre.net/Incendies-17-des-fumeurs-jettent-leur-megot-par-la-fenetre-de-leur-voiture"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Le sondage est publié en pleine crise estivale des incendies en France, donnant une actualité particulière aux dangers de cette négligence.",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/31/pres-de-18-des-fumeurs-reconnaissent-jeter-leur-megot-par-la-fenetre-sur-l-autoroute-le-constat-alarmant-d-un-sondage_6737116_3244.html"
+      }
+    ],
+    "id": 21,
+    "priority": 22
+  },
+  {
+    "themes": [
+      "Économie"
+    ],
+    "title": "L'inflation française accélère à 2,1 % sur un an en juillet",
+    "full": "Selon l'Insee, l'inflation en France a atteint 2,1 % sur douze mois en juillet, en hausse par rapport aux mois précédents. Cette accélération est principalement portée par les prix de l'énergie, dans un contexte de tensions géopolitiques au Moyen-Orient, ainsi que par ceux des services d'hébergement et de communication. Le gouvernement estime que cette remontée reste contenue dans un environnement de faible croissance économique.",
+    "angles": [
+      {
+        "outlet": "France Info",
+        "take": "Met l'accent sur les facteurs explicatifs de l'inflation, notamment les tensions énergétiques liées à la situation géopolitique.",
+        "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-en-france-depasse-les-2-sur-un-an-en-juillet-selon-l-insee_8129645.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "Le Figaro Éco",
+        "take": "Souligne l'accélération continue de l'inflation et rapporte l'appréciation du gouvernement sur le caractère contenu de cette hausse.",
+        "url": "https://www.lefigaro.fr/conjoncture/l-inflation-continue-de-grimper-et-accelere-a-2-1-sur-un-an-en-juillet-indique-l-insee-20260731"
+      }
+    ],
+    "id": 22,
+    "priority": 23
+  },
+  {
+    "themes": [
+      "Insolite"
+    ],
+    "title": "Les singes possèdent une intuition géométrique innée",
+    "full": "Une étude scientifique révèle que les singes disposent d'une capacité innée à comprendre les formes, les lignes droites et l'espace, sans apprentissage préalable. Cette découverte remet en question l'idée longtemps admise que la géométrie était une compétence exclusivement humaine, acquise par la culture ou l'éducation formelle. Les chercheurs ont observé cette aptitude notamment chez les macaques.",
+    "angles": [
+      {
+        "outlet": "Slate",
+        "take": "L'étude démontre que l'intuition géométrique n'est pas un privilège humain fruit de la culture, mais une capacité évolutive partagée avec d'autres primates.",
+        "url": "https://www.slate.fr/sciences/singe-evolution-cerveau-humain-geometrie-logique-recherche-scientifique-macaque-experience-scientifique"
+      }
+    ],
+    "id": 23,
+    "priority": 24
+  },
+  {
+    "themes": [
+      "Insolite"
+    ],
+    "title": "En Australie, un drone capture la naissance rare d'une baleine à bosse",
+    "full": "Un bénévole d'une association de protection des cétacés a filmé mardi au large de Kingscliff, en Australie, l'accouchement d'une baleine à bosse grâce à un drone. Cet événement, décrit comme « un moment magique », reste exceptionnel à documenter car les naissances marines sont rarement observées aussi clairement.",
+    "angles": [
+      {
+        "outlet": "20 Minutes",
+        "take": "L'enregistrement drone constitue une capture vidéo rare et spectaculaire d'un événement naturel difficile à témoigner en direct.",
+        "url": "https://www.20minutes.fr/arts-stars/insolite/4237253-20260731-australie-moment-magique-drone-filme-naissance-baleine-bosse?at_medium=display&at_campaign=149"
+      }
+    ],
+    "id": 24,
+    "priority": 25
   }
 ];
