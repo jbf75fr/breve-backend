@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-08-03T04:01:52.416002+00:00",
+  "generated_at": "2026-08-03T06:50:04.973352+00:00",
   "date_label": "Lundi 3 août",
-  "count": 12,
+  "count": 9,
   "breves": [
     {
       "themes": [
-        "Environnement"
+        "Monde"
       ],
-      "title": "Incendies en Europe : réouverture en Gironde, situation critique en Grèce",
-      "full": "Après douze jours de feu, la préfecture de Gironde a annoncé dimanche la réouverture de Lège-Cap-Ferret et du Porge à partir de lundi 3 août à 14 heures, bien que certaines zones restent inaccessibles. En parallèle, un nouvel incendie s'est déclaré dans le Var et requiert un travail de longue haleine, tandis qu'en Grèce, les conditions extrêmes avec des vents dépassant 100 km/h rendent la lutte contre les feux « extrêmement difficile ». La collision de deux hélicoptères grecs combattant un incendie a fait deux morts dimanche.",
+      "title": "L'alpiniste Nirmal Purja retrouvé mort au Pakistan",
+      "full": "Le corps de Nirmal Purja, alpiniste népalo-britannique de renommée mondiale, a été découvert dimanche 2 août à 5 700 mètres d'altitude sur le Broad Peak, dans le nord du Pakistan. Il avait péri le 30 juillet dans une avalanche aux côtés de neuf autres alpinistes. Purja s'était illustré en 2019 en accomplissant l'ascension des 14 sommets de plus de 8 000 mètres en six mois et six jours, un record qui avait marqué l'histoire de l'alpinisme.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Les deux dernières communes girondines évacuées depuis plus d'une semaine pourront accueillir à nouveau leurs habitants à partir de lundi.",
-          "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/incendie-en-gironde-la-presqu-ile-du-cap-ferret-et-le-porge-seront-de-nouveau-accessibles-ce-lundi-apres-plus-d-une-semaine-d-evacuation-3395890.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Le feu de Gironde reste contenu mais des secteurs actifs persistent sur certains secteurs, tandis que des habitants du Var ont été partiellement déconfinés dimanche.",
-          "url": "https://www.lemonde.fr/planete/live/2026/08/02/en-direct-incendies-pas-d-evolution-du-perimetre-du-feu-dans-le-var-en-gironde-le-feu-toujours-fixe-mais-sous-surveillance_6737097_3244.html"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "L'extinction complète du feu en Gironde pourrait s'étendre jusqu'à cet hiver, nécessitant un suivi prolongé des braises vivaces.",
-          "url": "https://www.humanite.fr/environnement/environnement/incendies-nouveau-feu-pas-encore-fixe-dans-le-var-une-extinction-jusqua-cet-hiver-en-gironde-les-dernieres-informations"
+          "outlet": "Libération",
+          "take": "Insiste sur la découverte de la dépouille et les circonstances de la mort dans l'Himalaya, aux côtés de dix alpinistes.",
+          "url": "https://www.liberation.fr/international/asie-pacifique/le-corps-de-lalpiniste-nirmal-purja-mort-dans-une-avalanche-au-pakistan-a-ete-retrouve-20260802_6SZAFSSYJJGVNO5NEUPJGBL6AE/"
         },
         {
           "outlet": "France 24",
-          "take": "La Grèce fait face à des incendies « extrêmement difficiles » à maîtriser en raison des canicules récurrentes et de vents violents.",
-          "url": "https://www.france24.com/fr/europe/20260802-en-gr%C3%A8ce-les-vents-violents-rendent-la-lutte-contre-les-incendies-extr%C3%AAmement-difficile"
+          "take": "Souligne le statut de grimpeur renommé et localise précisément le Broad Peak comme sommet de plus de 8 000 mètres.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260802-pakistan-le-corps-de-l-alpiniste-nirmal-purja-retrouv%C3%A9"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Met en avant l'exploit historique de 2019 et le record des 14 « 8 000 » en moins de sept mois.",
+          "url": "https://www.franceinfo.fr/sports/quand-l-alpiniste-nirmal-purja-decede-dans-une-avalanche-marquait-l-histoire-en-2019_8132306.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
+          "outlet": "Le Figaro International",
+          "take": "Décrit Purja comme une figure controversée de l'alpinisme et souligne sa dimension commerciale en Himalaya.",
+          "url": "https://www.lefigaro.fr/international/nirmal-purja-alpiniste-star-du-nepal-et-roi-du-business-en-himalaya-est-mort-20260801"
         }
       ],
       "id": 0,
@@ -38,28 +38,23 @@
       "themes": [
         "Monde"
       ],
-      "title": "Le corps de l'alpiniste Nirmal Purja retrouvé au Pakistan",
-      "full": "Le corps de Nirmal Purja, alpiniste népalo-britannique de 43 ans, a été retrouvé dimanche 2 août à environ 5700 mètres d'altitude sur le Broad Peak, au Pakistan, a annoncé le Club alpin du Pakistan. L'alpiniste avait péri jeudi 30 juillet dans une avalanche qui a également tué neuf autres membres de son expédition. Purja s'était rendu célèbre en 2019 en accomplissant l'ascension des 14 sommets de plus de 8000 mètres en six mois et six jours, un exploit présenté dans un documentaire Netflix en 2021.",
+      "title": "Cuba subit sa sixième panne d'électricité nationale en 2025",
+      "full": "Une nouvelle panne totale du réseau électrique a plongé Cuba dans l'obscurité dans la nuit de dimanche à lundi, quelques heures après le rétablissement du courant suite à un précédent black-out. Il s'agit de la sixième défaillance du système depuis janvier 2025. Ces coupures se sont intensifiées après l'imposition en janvier d'un blocus pétrolier par les États-Unis, qui complique l'approvisionnement en carburant des centrales électriques et des générateurs de secours de l'île. L'île fait face depuis cinq ans à une grave crise économique qui amplifie ces difficultés énergétiques.",
       "angles": [
         {
+          "outlet": "France 24",
+          "take": "Établit le lien direct entre la panne et le blocus pétrolier américain imposé au début de l'année.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260803-cuba-sixi%C3%A8me-panne-%C3%A9lectricit%C3%A9-nationale-depuis-d%C3%A9but-ann%C3%A9e-blocus-petrolier-etats-unis"
+        },
+        {
           "outlet": "Le Monde",
-          "take": "Souligne la médiatisation mondiale de l'alpiniste via le documentaire Netflix et son statut de figure emblématique de l'alpinisme contemporain.",
-          "url": "https://www.lemonde.fr/disparitions/article/2026/08/02/nirmal-purja-la-mort-d-un-alpiniste-sans-limites_6737317_3382.html"
+          "take": "Souligne la portée totale de la panne, affectant le système électrique national y compris la capitale La Havane.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/03/cuba-de-nouveau-confrontee-a-une-panne-de-courant-geante-y-compris-la-havane_6737337_3210.html"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Rapporte que quatre corps au total, dont celui de Purja et trois autres membres de l'expédition, ont été récupérés par les secours.",
-          "url": "https://www.20minutes.fr/monde/4237347-20260802-corps-legende-alpinisme-nirmal-purja-retrouve?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Précise que dix alpinistes au total ont périalors de l'avalanche sur ce sommet de l'Himalaya.",
-          "url": "https://www.liberation.fr/international/asie-pacifique/le-corps-de-lalpiniste-nirmal-purja-mort-dans-une-avalanche-au-pakistan-a-ete-retrouve-20260802_6SZAFSSYJJGVNO5NEUPJGBL6AE/"
-        },
-        {
-          "outlet": "Le Figaro International",
-          "take": "Décrit Purja comme une figure controversée et entrepreneuriale de l'alpinisme qui s'était construit un empire commercial en Himalaya.",
-          "url": "https://www.lefigaro.fr/international/nirmal-purja-alpiniste-star-du-nepal-et-roi-du-business-en-himalaya-est-mort-20260801"
+          "outlet": "France Info",
+          "take": "Contextualise la crise énergétique dans la grave crise économique que traverse l'île depuis cinq ans.",
+          "url": "https://www.franceinfo.fr/monde/cuba/nouvelle-panne-de-courant-generalisee-a-cuba-la-sixieme-depuis-le-debut-de-l-annee_8106446.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 1,
@@ -67,25 +62,25 @@
     },
     {
       "themes": [
-        "Sport"
+        "Société"
       ],
-      "title": "Lorena Wiebes remporte sa deuxième étape consécutive du Tour féminin",
-      "full": "La sprinteuse néerlandaise Lorena Wiebes a remporté dimanche 2 août la deuxième étape du Tour de France Femmes à Genève, signant ainsi un doublé après sa victoire de la veille à Lausanne. Wiebes, qui conserve le maillot jaune de leader, a devancé l'Italienne Elisa Balsamo et sa compatriote Marianne Vos au sprint final. Cette démonstration confirme la domination de la coureuse de l'équipe SD Worx-Protime dans les phases de conclusion.",
+      "title": "L'avocat Antoine Vey mis en examen pour harcèlement moral",
+      "full": "Antoine Vey, pénaliste réputé et ancien associé du ministre de la Justice Eric Dupond-Moretti, a été mis en examen pour harcèlement moral et abus de confiance. L'enquête, ouverte en 2024 suite à des révélations de presse en 2023, porte sur son comportement envers ses collaborateurs et salariés, parmi lesquels dix personnes sont citées. Il a également reçu le statut de témoin assisté pour des faits de harcèlement sexuel.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Souligne que la porteuse du maillot jaune enchaîne les victoires au sprint avec une nouvelle prestation de haut niveau.",
-          "url": "https://www.franceinfo.fr/tour-de-france/videos/nouvelle-demonstration-de-lorena-wiebes-sur-le-sprint-de-la-2e-etape-du-tour-de-france-femmes_8132267.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
           "outlet": "Libération",
-          "take": "Met l'accent sur l'efficacité de Wiebes en Suisse et sa mainmise sur les deux premières étapes.",
-          "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-lorena-wiebes-encore-servie-a-geneve-20260802_K4ACWJB4NVG7HAMRSMURZYOLAY/"
+          "take": "L'enquête a été déclenchée par une première révélation du journal en 2023 sur le management du cabinet.",
+          "url": "https://www.liberation.fr/societe/police-justice/lavocat-antoine-vey-mis-en-examen-pour-harcelement-moral-20260802_IKRS45SCGRDRHCMGFHK7ARZ6MU/"
         },
         {
-          "outlet": "France 24",
-          "take": "Précise les rivales directes de Wiebes au sprint et souligne le renforcement de son avance au classement général.",
-          "url": "https://www.france24.com/fr/sports/20260802-tour-de-france-femmes-%C3%A9tape-2-wiebes-r%C3%A9cidive-au-sprint-et-conforte-son-maillot-jaune"
+          "outlet": "20 Minutes",
+          "take": "Le harcèlement moral allégué s'inscrit dans un pattern incluant un management considéré comme inconstant et des propos humiliants.",
+          "url": "https://www.20minutes.fr/justice/4237383-20260802-management-inconstant-propos-humiliants-celebre-avocat-antoine-vey-mis-examen-harcelement-moral?at_medium=display&at_campaign=149"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Le pénaliste est connu pour avoir défendu plusieurs clients de haut profil, dont le lanceur d'alerte Julian Assange et l'ex-ministre Jérôme Cahuzac.",
+          "url": "https://www.franceinfo.fr/societe/justice/l-avocat-antoine-vey-ex-associe-de-dupond-moretti-mis-en-examen-pour-harcelement-moral-et-abus-de-confiance_8132333.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 2,
@@ -95,23 +90,23 @@
       "themes": [
         "Société"
       ],
-      "title": "L'avocat Antoine Vey mis en examen pour harcèlement moral",
-      "full": "L'avocat pénaliste Antoine Vey, ancien associé du ministre de la Justice Eric Dupond-Moretti, a été mis en examen pour harcèlement moral et abus de confiance. Selon les enquêteurs, ses agissements auraient concerné au moins dix collaborateurs et salariés. Il a également été placé sous le statut de témoin assisté pour des faits de harcèlement sexuel. L'enquête, ouverte en 2024, fait suite à des révélations publiées en 2023 concernant son comportement managérial.",
+      "title": "L'amende pour baignade sauvage passe à 68 euros",
+      "full": "La baignade en zone non autorisée est désormais sanctionnée par une amende de 68 euros, selon un décret publié au Journal officiel le 2 août. Cette hausse, qui remplace l'ancienne contravention de 38 euros, répond à l'augmentation des baignades sauvages durant les périodes de fortes chaleurs. Les autorités pourront dresser directement des procès-verbaux électroniques pour cette infraction.",
       "angles": [
         {
+          "outlet": "France Info",
+          "take": "Cette mesure résulte d'une demande conjointe de la préfecture de Police et de la région Île-de-France face au phénomène croissant des baignades sauvages.",
+          "url": "https://www.franceinfo.fr/faits-divers/noyades/la-baignade-en-zone-non-autorisee-est-desormais-passible-d-une-amende-de-68-euros_8132189.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
           "outlet": "Libération",
-          "take": "L'enquête pénale, lancée en 2024, résulte de révélations du journal sur l'attitude de Vey envers ses collaborateurs et employés.",
-          "url": "https://www.liberation.fr/societe/police-justice/lavocat-antoine-vey-mis-en-examen-pour-harcelement-moral-20260802_IKRS45SCGRDRHCMGFHK7ARZ6MU/"
+          "take": "Le durcissement se concrétise par le classement de l'infraction en contravention de troisième classe, justifiée par les pics de baignades sauvages lors des pics de chaleur.",
+          "url": "https://www.liberation.fr/societe/les-baignades-en-zone-non-autorisee-desormais-sanctionnees-par-une-amende-de-68-euros-20260802_Q6DGGA7BNJDOJKE5HTOBEYJKII/"
         },
         {
           "outlet": "20 Minutes",
-          "take": "Les griefs spécifiques incluent un « management inconstant » et des « propos humiliants » adressés à ses équipes.",
-          "url": "https://www.20minutes.fr/justice/4237383-20260802-management-inconstant-propos-humiliants-celebre-avocat-antoine-vey-mis-examen-harcelement-moral?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Vey est un pénaliste de renom ayant défendu de nombreuses personnalités, dont Julian Assange et le PDG Mohed Altrad.",
-          "url": "https://www.franceinfo.fr/societe/justice/l-avocat-antoine-vey-ex-associe-de-dupond-moretti-mis-en-examen-pour-harcelement-moral-et-abus-de-confiance_8132333.html#xtor=RSS-3-[lestitres]"
+          "take": "Le nouveau montant de l'amende, presque doublé, s'accompagne de la possibilité de dresser des procès-verbaux électroniques.",
+          "url": "https://www.20minutes.fr/societe/4237359-20260802-baignades-hors-zones-autorisees-plus-strictement-sanctionnees?at_medium=display&at_campaign=149"
         }
       ],
       "id": 3,
@@ -119,20 +114,20 @@
     },
     {
       "themes": [
-        "Monde"
+        "Tech & Sciences"
       ],
-      "title": "Attentat-suicide devant un commissariat au Pakistan",
-      "full": "Un homme a activé une ceinture d'explosifs devant un commissariat dans le district de Swat, au Pakistan, faisant au moins 13 morts et 22 blessés selon les premiers bilans. L'attaque s'est déroulée lors d'une manifestation dans cette province frontalière de l'Afghanistan, région où les autorités pakistanaises font face à l'insurrection croissante du Tehreek-i-Taliban Pakistan (TTP). Aucun groupe n'a revendiqué l'attentat dans l'immédiat, bien que le TTP soit responsable de la plupart des attentats au Pakistan depuis 2007.",
+      "title": "L'Union européenne active sa loi sur l'intelligence artificielle",
+      "full": "Depuis le 2 août, plusieurs dispositions de l'AI Act, la loi européenne sur l'intelligence artificielle, sont entrées en vigueur. Les contenus générés ou modifiés par l'IA doivent désormais être signalés aux utilisateurs par des icônes officielles. Bruxelles acquiert également des pouvoirs étendus pour contrôler les modèles les plus puissants, enquêter sur les entreprises et limiter leur déploiement.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "L'attaque s'est produite dans le district de Swat, zone particulièrement exposée aux attentats du Tehreek-i-Taliban Pakistan.",
-          "url": "https://www.franceinfo.fr/monde/asie/un-homme-a-tente-de-penetrer-dans-le-commissariat-13-morts-et-22-blesses-dans-un-attentat-suicide-pendant-une-manifestation-au-pakistan_8132354.html#xtor=RSS-3-[lestitres]"
+          "take": "Insiste sur l'obligation d'étiquetage des contenus générés par l'IA et le renforcement des capacités de régulation de l'Union européenne.",
+          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/genere-par-ia-on-vous-explique-ce-que-change-la-nouvelle-loi-de-l-union-europeenne-sur-l-intelligence-artificielle_8132225.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Le TTP a été derrière la majorité des attentats pakistanais depuis fin 2007, causant plus de 4 000 morts.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/02/au-pakistan-un-attentat-suicide-fait-au-moins-neuf-morts-et-20-blesses_6737308_3210.html"
+          "outlet": "Libération",
+          "take": "Met l'accent sur les nouveaux pouvoirs de contrôle et de sanction accordés à Bruxelles pour évaluer et limiter les déploiements des grands modèles.",
+          "url": "https://www.liberation.fr/economie/economie-numerique/ai-act-lunion-europeenne-peut-desormais-controler-et-sanctionner-les-grands-modeles-dintelligence-artificielle-20260802_DFRYYATMWVCAVLWY3B7OS2M56I/"
         }
       ],
       "id": 4,
@@ -140,21 +135,20 @@
     },
     {
       "themes": [
-        "France",
         "Santé"
       ],
-      "title": "Les kinésithérapeutes rejoignent le dispositif « Mon Bilan Prévention »",
-      "full": "À partir d'octobre, les kinésithérapeutes pourront réaliser des « bilans prévention », un entretien gratuit destiné à détecter les risques de maladies chroniques et de dépendance. Ce dispositif, lancé en 2024 et confié jusqu'à présent à d'autres professionnels de santé, s'adresse à des « âges clés de la vie » pour sensibiliser aux comportements favorables à la santé. L'extension du dispositif aux kinés vise à améliorer son accessibilité dans un contexte de vieillissement démographique.",
+      "title": "Injections esthétiques illégales : les médecins alertent sur les risques",
+      "full": "Plus de 200 signalements de faux praticiens exerçant la médecine esthétique ont été enregistrés par l'Ordre des médecins en un an, notamment via les réseaux sociaux. Le botox et l'acide hyaluronique demeurent l'apanage des médecins, mais cette exclusivité n'est pas respectée. Après un deuxième décès cette année en France dans un salon de beauté, quelque 5 000 médecins libéraux ont interpellé le ministère de la Santé, dénonçant l'inaction gouvernementale face à ce qu'ils qualifient de problème de santé publique.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Met l'accent sur l'ajout des kinés au dispositif et leur capacité à repérer des maladies ou risques de dépendance.",
-          "url": "https://www.20minutes.fr/sante/4237350-20260802-kines-pourront-realiser-bilans-prevention-octobre?at_medium=display&at_campaign=149"
+          "outlet": "France Info",
+          "take": "Insiste sur l'ampleur des signalements et la propagation de ces pratiques illégales par le canal des réseaux sociaux.",
+          "url": "https://www.franceinfo.fr/sante/injections-esthetiques-illegales-les-medecins-tirent-la-sonnette-d-alarme_8132576.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France Info",
-          "take": "Souligne que cette extension a pour objectif de renforcer l'accessibilité du bilan en réponse au vieillissement de la population et à la hausse des maladies chroniques.",
-          "url": "https://www.franceinfo.fr/sante/les-kinesitherapeutes-pourront-realiser-des-bilans-prevention-des-octobre-dans-le-but-de-renforcer-l-accessibilite-du-dispositif_8132222.html#xtor=RSS-3-[lestitres]"
+          "outlet": "Libération",
+          "take": "Met l'accent sur les décès survenus et la mobilisation collective des médecins demandant une intervention du gouvernement.",
+          "url": "https://www.liberation.fr/societe/sante/injections-esthetiques-illegales-5-000-medecins-interpellent-le-ministere-de-la-sante-sur-un-probleme-de-sante-publique-20260802_2NTDRH3AFVEDLOAW7MMNBZZCHE/"
         }
       ],
       "id": 5,
@@ -162,21 +156,16 @@
     },
     {
       "themes": [
-        "Monde",
-        "Environnement"
+        "Insolite",
+        "Tech & Sciences"
       ],
-      "title": "La Hongrie arrête sa centrale nucléaire pour la première fois en 44 ans",
-      "full": "Le Premier ministre hongrois Peter Magyar a annoncé dimanche 2 août l'arrêt de la centrale nucléaire de Paks, une première depuis 1982. Cette décision répond à un niveau d'eau anormalement bas dans le Danube, provoqué par la canicule qui affecte la région. La centrale, située à une centaine de kilomètres au sud de Budapest, assure environ 40% de la production annuelle d'électricité du pays.",
+      "title": "Un ver découvert à 3,6 km de profondeur remet en question les limites du vivant",
+      "full": "Des scientifiques ont identifié une nouvelle espèce de nématode, baptisée « Halicephalobus mephisto » (le ver du diable), dans une mine d'or sud-africaine à une profondeur extrême. Cet organisme microscopique prospère dans un environnement quasi dépourvu de lumière, d'oxygène et de ressources nutritives. Sa découverte redéfinit les frontières supposées de l'habitabilité terrestre et élargit notre compréhension de ce que les formes de vie peuvent tolérer.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "Met l'accent sur le caractère inédit de cet arrêt en 44 ans, directement lié aux conditions hydriques du Danube.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260802-la-hongrie-annonce-l-arr%C3%AAt-in%C3%A9dit-de-sa-centrale-nucl%C3%A9aire-%C3%A0-cause-de-la-canicule"
-        },
-        {
-          "outlet": "Le Figaro Éco",
-          "take": "Souligne l'importance stratégique de Paks dans l'approvisionnement énergétique du pays, pourvoyeuse de 40% de l'électricité nationale.",
-          "url": "https://www.lefigaro.fr/conjoncture/une-premiere-en-44-ans-la-hongrie-annonce-l-arret-inedit-de-sa-centrale-nucleaire-a-cause-de-la-canicule-20260802"
+          "outlet": "Slate",
+          "take": "L'existence de cet organisme dans des conditions jugées jusqu'alors incompatibles avec la vie remet profondément en question nos modèles scientifiques sur les extrémophiles.",
+          "url": "https://www.slate.fr/sciences/vie-profondeur-terre-mine-extremophile-ver-diable-nematode-bacterie-roche-faune-oxygene"
         }
       ],
       "id": 6,
@@ -184,21 +173,15 @@
     },
     {
       "themes": [
-        "Tech & Sciences",
-        "France"
+        "Insolite"
       ],
-      "title": "L'UE impose la mention « généré par IA » dès ce dimanche",
-      "full": "À partir du 2 août, une disposition du règlement européen sur l'intelligence artificielle entre en vigueur : les concepteurs et utilisateurs professionnels de systèmes d'IA devront obligatoirement signaler que leurs contenus ont été générés par cette technologie. Le non-respect de cette obligation expose les contrevenants à des amendes. Cette mesure vise à renforcer la transparence et à permettre aux utilisateurs d'identifier les contenus produits par l'IA.",
+      "title": "En Sicile, des sacs de 665 000 euros découverts sur une plage",
+      "full": "Des vacanciers ont découvert plusieurs sacs remplis de billets de banque échoués sur une plage de Sicile. Le butin s'élève à environ 665 000 euros. Les autorités italiennes enquêtent sur l'origine de cet argent, probablement jeté depuis un navire ou perdu en mer.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Souligne l'entrée en vigueur d'une disposition-clé du règlement et les risques de sanctions financières pour les contrevenants.",
-          "url": "https://www.lemonde.fr/economie/article/2026/08/02/intelligence-artificielle-la-mention-genere-par-ia-devient-obligatoire-dans-l-ue_6737268_3234.html"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "Précise que cette obligation s'applique à l'ensemble de l'Union Européenne et détaille l'étendue du dispositif.",
-          "url": "https://www.humanite.fr/societe/intelligence-artificielle/quest-ce-que-la-mention-genere-par-ia-devenue-obligatoire-dans-lue-aujourdhui"
+          "outlet": "France Info",
+          "take": "Des touristes ont eu la surprise de trouver des sacs de billets sur le sable, révélant un coup de chance insolite sur les côtes siciliennes.",
+          "url": "https://www.franceinfo.fr/monde/italie/en-sicile-des-sacs-remplis-de-665-000-euros-en-billets-de-banque-echouent-sur-une-plage_8132273.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 7,
@@ -206,73 +189,19 @@
     },
     {
       "themes": [
-        "Culture"
+        "Insolite"
       ],
-      "title": "L'acteur Vincent Pastore, icône des Soprano, est décédé",
-      "full": "Vincent Pastore, acteur américain connu pour son rôle de « Big Pussy » Blundetto dans la série « Les Soprano », est mort à l'âge de 80 ans. Le comédien avait également participé à des films de prestige comme « Les Affranchis » de Martin Scorsese et « L'Impasse » de Brian De Palma. Son assassinat spectaculaire à la fin de la deuxième saison des « Soprano » demeure l'une des scènes les plus mémorables de la série.",
+      "title": "1920 : un président français chute d'un train en pyjama",
+      "full": "Le 23 mai 1920, Paul Deschanel, président de la République française, tombe d'un train en marche alors qu'il est vêtu de son pyjama. Cet incident cocasse met fin à un mandat de courte durée marqué par des comportements extravagants. L'événement illustre une période tumultueuse de la présidence Deschanel, caractérisée par des décisions impulsives et des excentricités qui surprennent le pays.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Retrace sa carrière en soulignant ses apparitions dans des films de cinéma réputés aux côtés de son rôle phare dans la série télévisée.",
-          "url": "https://www.franceinfo.fr/culture/cinema/l-acteur-americain-vincent-pastore-connu-pour-son-role-de-big-pussy-dans-les-soprano-est-mort-a-l-age-de-80-ans_8132009.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Insiste sur le caractère emblématique de sa mort à l'écran dans « Les Soprano » comme moment marquant de la série.",
-          "url": "https://www.lemonde.fr/disparitions/article/2026/08/02/mort-de-l-acteur-americain-vincent-pastore-connu-pour-son-role-de-big-pussy-dans-la-serie-les-soprano_6737260_3382.html"
+          "outlet": "Slate",
+          "take": "La chute du chef d'État en pyjama constitue l'épilogue absurde d'une présidence brève et agitée.",
+          "url": "https://www.slate.fr/politique/paul-deschanel-president-republique-chute-pyjama-train-folie"
         }
       ],
       "id": 8,
       "priority": 9
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Des sacs de 665 000 euros découverts sur une plage sicilienne",
-      "full": "Des vacanciers ont découvert plusieurs sacs remplis de billets de banque échoués sur le sable d'une plage en Sicile. Le montant total atteint environ 665 000 euros. Les autorités italiennes enquêtent pour déterminer l'origine de cet argent et ses circonstances d'arrivée en mer.",
-      "angles": [
-        {
-          "outlet": "France Info",
-          "take": "Des touristes ont eu la surprise de trouver de l'argent liquide sur le rivage, révélant comment la fortune peut s'échouer sur les côtes siciliennes.",
-          "url": "https://www.franceinfo.fr/monde/italie/en-sicile-des-sacs-remplis-de-665-000-euros-en-billets-de-banque-echouent-sur-une-plage_8132273.html#xtor=RSS-3-%5Bgeneral%5D"
-        }
-      ],
-      "id": 9,
-      "priority": 10
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Le président Deschanel chute d'un train en pyjama en 1920",
-      "full": "Le 23 mai 1920, le président de la République Paul Deschanel tombe d'un train en marche vêtu de son pyjama. Cet incident survient lors d'un mandat présidentiel particulièrement bref et marque un tournant spectaculaire dans sa vie politique.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "L'événement illustre une période de comportements erratiques du chef d'État, aboutissant à une conclusion abrupte de sa présidence.",
-          "url": "https://www.slate.fr/politique/paul-deschanel-president-republique-chute-pyjama-train-folie"
-        }
-      ],
-      "id": 10,
-      "priority": 11
-    },
-    {
-      "themes": [
-        "Insolite",
-        "Environnement"
-      ],
-      "title": "Évacués des incendies girondins, certains regrettent de quitter leur refuge",
-      "full": "Après l'évacuation de 224 000 personnes lors des incendies en Gironde, les résidents des établissements médico-sociaux commencent à regagner leurs logements à partir de lundi. Quelques-uns expriment cependant une certaine nostalgie face au retour à la normalité, ayant apprécié la vie en commun temporaire durant leur refugium. Environ 15 000 personnes restent encore évacuées.",
-      "angles": [
-        {
-          "outlet": "France Info",
-          "take": "Certains résidents d'établissements médico-sociaux accueillent le retour à la normalité avec des sentiments mitigés, ayant trouvé un aspect positif à la cohabitation forcée liée à l'évacuation.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/une-joyeuse-colocation-en-gironde-ces-residents-d-etablissements-medico-sociaux-regrettent-un-peu-le-retour-a-la-normale_8131934.html#xtor=RSS-3-%5Bgeneral%5D"
-        }
-      ],
-      "id": 11,
-      "priority": 12
     }
   ]
 }
