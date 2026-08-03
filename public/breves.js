@@ -1,37 +1,32 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-08-02T06:26:02.367823+00:00
+// 2026-08-03T04:01:52.416002+00:00
 const ARTICLES = [
   {
     "themes": [
-      "Monde"
+      "Environnement"
     ],
-    "title": "Afflux massif de migrants à Ceuta, tensions diplomatiques en Europe",
-    "full": "Quelque 60 000 migrants en provenance du Maroc ont traversé illégalement la frontière vers l'enclave espagnole de Ceuta en quelques jours. Selon les autorités espagnoles, la majorité a déjà regagné le Maroc, mais l'incident a ravivé les tensions au sein de l'Union européenne, certains États reprochant à Madrid son approche migratoire. L'afflux serait lié à des rumeurs de réouverture de frontière et à des malentendus autour de décisions judiciaires, tandis que le rôle des autorités marocaines dans cet événement reste interrogé. L'Union a convoqué une réunion d'urgence pour discuter de la crise.",
+    "title": "Incendies en Europe : réouverture en Gironde, situation critique en Grèce",
+    "full": "Après douze jours de feu, la préfecture de Gironde a annoncé dimanche la réouverture de Lège-Cap-Ferret et du Porge à partir de lundi 3 août à 14 heures, bien que certaines zones restent inaccessibles. En parallèle, un nouvel incendie s'est déclaré dans le Var et requiert un travail de longue haleine, tandis qu'en Grèce, les conditions extrêmes avec des vents dépassant 100 km/h rendent la lutte contre les feux « extrêmement difficile ». La collision de deux hélicoptères grecs combattant un incendie a fait deux morts dimanche.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Les rumeurs circulant sur les réseaux sociaux et les malentendus autour de décisions judiciaires auraient joué un rôle clé dans le déclenchement de l'afflux.",
-        "url": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/decision-de-justice-mal-interpretee-rumeurs-tensions-diplomatiques-comment-expliquer-l-afflux-de-migrants-marocains-dans-l-enclave-espagnole-de-ceuta_8131058.html#xtor=RSS-3-[lestitres]"
+        "take": "Les deux dernières communes girondines évacuées depuis plus d'une semaine pourront accueillir à nouveau leurs habitants à partir de lundi.",
+        "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/incendie-en-gironde-la-presqu-ile-du-cap-ferret-et-le-porge-seront-de-nouveau-accessibles-ce-lundi-apres-plus-d-une-semaine-d-evacuation-3395890.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "Le Monde",
-        "take": "Le Premier ministre espagnol dénonce l'attitude jugée « égoïste » de certains États membres face à la crise.",
-        "url": "https://www.lemonde.fr/international/article/2026/08/01/ceuta-l-ue-convoque-une-reunion-d-urgence-afin-d-echanger-sur-la-crise-migratoire_6737238_3210.html"
+        "take": "Le feu de Gironde reste contenu mais des secteurs actifs persistent sur certains secteurs, tandis que des habitants du Var ont été partiellement déconfinés dimanche.",
+        "url": "https://www.lemonde.fr/planete/live/2026/08/02/en-direct-incendies-pas-d-evolution-du-perimetre-du-feu-dans-le-var-en-gironde-le-feu-toujours-fixe-mais-sous-surveillance_6737097_3244.html"
       },
       {
-        "outlet": "Le Figaro",
-        "take": "Cet épisode révèle les limites du pacte migratoire hispano-marocain établi en 2023, dépendant de la volonté politique des deux voisins.",
-        "url": "https://www.liberation.fr/international/europe/ampleur-inedite-role-du-maroc-reactions-internationales-que-sait-on-de-lafflux-de-migrants-a-ceuta-20260801_KATQUN7HAJAZRCAORAIXQYB3HE/"
+        "outlet": "L'Humanité",
+        "take": "L'extinction complète du feu en Gironde pourrait s'étendre jusqu'à cet hiver, nécessitant un suivi prolongé des braises vivaces.",
+        "url": "https://www.humanite.fr/environnement/environnement/incendies-nouveau-feu-pas-encore-fixe-dans-le-var-une-extinction-jusqua-cet-hiver-en-gironde-les-dernieres-informations"
       },
       {
-        "outlet": "Mediapart",
-        "take": "La crise illustre une « double instrumentalisation » du dossier migratoire par le Maroc et par les forces politiques d'extrême droite en Europe.",
-        "url": "https://www.mediapart.fr/journal/international/010826/ceuta-nous-faisons-face-une-double-instrumentalisation-du-maroc-et-de-l-extreme-droite"
-      },
-      {
-        "outlet": "Courrier International",
-        "take": "Les dirigeants de droite et d'extrême droite européens exploitent l'incident pour critiquer la politique migratoire espagnole, isolant Madrid au sein des Vingt-Sept.",
-        "url": "https://www.courrierinternational.com/article/vu-d-espagne-la-crise-des-migrants-a-ceuta-fait-valser-la-solidarite-europeenne_255390"
+        "outlet": "France 24",
+        "take": "La Grèce fait face à des incendies « extrêmement difficiles » à maîtriser en raison des canicules récurrentes et de vents violents.",
+        "url": "https://www.france24.com/fr/europe/20260802-en-gr%C3%A8ce-les-vents-violents-rendent-la-lutte-contre-les-incendies-extr%C3%AAmement-difficile"
       }
     ],
     "id": 0,
@@ -39,35 +34,29 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde",
-      "Sport"
+      "Monde"
     ],
-    "title": "L'alpiniste Nirmal Purja et neuf compagnons tués au Pakistan",
-    "full": "L'alpiniste britannico-népalais Nirmal Purja et les neuf membres de son expédition ont péri dans une avalanche jeudi au Pakistan, à plus de 6 000 mètres d'altitude. L'absence de nouvelles de l'équipe depuis cette date a été confirmée samedi par Elite Expedition, la société dirigée par Purja. Réputé pour avoir gravi plus de 50 sommets dépassant 8 000 mètres, Purja s'était imposé comme une figure majeure de l'alpinisme international et du secteur commercial de la haute montagne.",
+    "title": "Le corps de l'alpiniste Nirmal Purja retrouvé au Pakistan",
+    "full": "Le corps de Nirmal Purja, alpiniste népalo-britannique de 43 ans, a été retrouvé dimanche 2 août à environ 5700 mètres d'altitude sur le Broad Peak, au Pakistan, a annoncé le Club alpin du Pakistan. L'alpiniste avait péri jeudi 30 juillet dans une avalanche qui a également tué neuf autres membres de son expédition. Purja s'était rendu célèbre en 2019 en accomplissant l'ascension des 14 sommets de plus de 8000 mètres en six mois et six jours, un exploit présenté dans un documentaire Netflix en 2021.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "L'avalanche a interrompu tout contact avec l'expédition internationale jeudi.",
-        "url": "https://www.franceinfo.fr/sports/sports-d-hiver/ski-alpinisme/l-alpiniste-star-nirmal-purja-est-mort-dans-une-avalanche-au-pakistan_8131316.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "Souligne la médiatisation mondiale de l'alpiniste via le documentaire Netflix et son statut de figure emblématique de l'alpinisme contemporain.",
+        "url": "https://www.lemonde.fr/disparitions/article/2026/08/02/nirmal-purja-la-mort-d-un-alpiniste-sans-limites_6737317_3382.html"
       },
       {
         "outlet": "20 Minutes",
-        "take": "L'équipe n'avait plus donné de nouvelles depuis jeudi avant la confirmation du décès.",
-        "url": "https://www.20minutes.fr/sport/4237299-20260801-alpiniste-star-nirmal-purja-neuf-membres-expedition-bien-tues-avalanche-pakistan?at_medium=display&at_campaign=149"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Elite Expedition a annoncé la mort de l'alpiniste et de ses compagnons via les réseaux sociaux samedi.",
-        "url": "https://www.france24.com/fr/asie-pacifique/20260801-mort-de-la-l%C3%A9gende-de-l-alpinisme-nirmal-purja-et-des-neuf-membres-de-son-exp%C3%A9dition-au-pakistan"
+        "take": "Rapporte que quatre corps au total, dont celui de Purja et trois autres membres de l'expédition, ont été récupérés par les secours.",
+        "url": "https://www.20minutes.fr/monde/4237347-20260802-corps-legende-alpinisme-nirmal-purja-retrouve?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Libération",
-        "take": "Purja, connu pour ses records en haute altitude, est décédé sur le Broad Peak dans l'Himalaya.",
-        "url": "https://www.liberation.fr/sports/mort-de-lalpiniste-star-nirmal-purja-emporte-au-sommet-20260801_UNBTMHMJ25CMTCQCDTKWIOS4SE/"
+        "take": "Précise que dix alpinistes au total ont périalors de l'avalanche sur ce sommet de l'Himalaya.",
+        "url": "https://www.liberation.fr/international/asie-pacifique/le-corps-de-lalpiniste-nirmal-purja-mort-dans-une-avalanche-au-pakistan-a-ete-retrouve-20260802_6SZAFSSYJJGVNO5NEUPJGBL6AE/"
       },
       {
         "outlet": "Le Figaro International",
-        "take": "Purja était devenu une figure controversée de l'alpinisme au cours des dernières années grâce à ses activités commerciales en montagne.",
+        "take": "Décrit Purja comme une figure controversée et entrepreneuriale de l'alpinisme qui s'était construit un empire commercial en Himalaya.",
         "url": "https://www.lefigaro.fr/international/nirmal-purja-alpiniste-star-du-nepal-et-roi-du-business-en-himalaya-est-mort-20260801"
       }
     ],
@@ -78,23 +67,23 @@ const ARTICLES = [
     "themes": [
       "Sport"
     ],
-    "title": "Tour de France femmes 2026 : Wiebes remporte l'étape de Lausanne",
-    "full": "La sprinteuse néerlandaise Lorena Wiebes a remporté samedi la première étape du Tour de France femmes 2026, disputée à Lausanne. Elle endosse le maillot jaune de leader de cette cinquième édition de la course. Cette dernière se déroulera du 1er au 9 août, avec pour temps fort l'ascension du Mont Ventoux en 7e étape. Un contre-la-montre figurera également au programme en Côte-d'Or.",
+    "title": "Lorena Wiebes remporte sa deuxième étape consécutive du Tour féminin",
+    "full": "La sprinteuse néerlandaise Lorena Wiebes a remporté dimanche 2 août la deuxième étape du Tour de France Femmes à Genève, signant ainsi un doublé après sa victoire de la veille à Lausanne. Wiebes, qui conserve le maillot jaune de leader, a devancé l'Italienne Elisa Balsamo et sa compatriote Marianne Vos au sprint final. Cette démonstration confirme la domination de la coureuse de l'équipe SD Worx-Protime dans les phases de conclusion.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Le parcours 2026 débute en Suisse et culmine avec l'étape mythique du Mont Ventoux, que la directrice Marion Rousse juge essentielle à chaque édition.",
-        "url": "https://www.franceinfo.fr/tour-de-france/femmes/depart-de-lausanne-etape-reine-au-mont-ventoux-le-parcours-du-tour-de-france-femmes_8131130.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Souligne que la porteuse du maillot jaune enchaîne les victoires au sprint avec une nouvelle prestation de haut niveau.",
+        "url": "https://www.franceinfo.fr/tour-de-france/videos/nouvelle-demonstration-de-lorena-wiebes-sur-le-sprint-de-la-2e-etape-du-tour-de-france-femmes_8132267.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Parmi les favorites, Demi Vollering finit 3e et Pauline Ferrand-Prévot 8e, tandis que la Française Océane Mahé remporte le maillot à pois de meilleure grimpeuse.",
-        "url": "https://www.humanite.fr/sports/cyclisme/tour-de-france-femmes-lorena-wiebes-en-jaune-la-francaise-oceane-mahe-meilleure-grimpeuse"
+        "outlet": "Libération",
+        "take": "Met l'accent sur l'efficacité de Wiebes en Suisse et sa mainmise sur les deux premières étapes.",
+        "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-lorena-wiebes-encore-servie-a-geneve-20260802_K4ACWJB4NVG7HAMRSMURZYOLAY/"
       },
       {
-        "outlet": "Courrier International",
-        "take": "Depuis sa nouvelle formule en 2022, le Tour de France femmes s'est imposé comme un rendez-vous incontournable du cyclisme mondial.",
-        "url": "https://www.courrierinternational.com/article/cyclisme-tour-de-france-femmes-victoire-sans-equivoque-de-la-neerlandaise-lorena-wiebes-a-lausanne_255423"
+        "outlet": "France 24",
+        "take": "Précise les rivales directes de Wiebes au sprint et souligne le renforcement de son avance au classement général.",
+        "url": "https://www.france24.com/fr/sports/20260802-tour-de-france-femmes-%C3%A9tape-2-wiebes-r%C3%A9cidive-au-sprint-et-conforte-son-maillot-jaune"
       }
     ],
     "id": 2,
@@ -102,35 +91,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Société"
     ],
-    "title": "L'UEFA rejette Infantino malgré le retrait de son projet",
-    "full": "Après le retrait du projet de Gianni Infantino d'ouvrir la FIFA à des investisseurs privés, l'UEFA a déclaré samedi avoir perdu confiance en le président de l'instance mondiale du football. La confédération européenne dénonce des « manœuvres secrètes » et pousse pour son départ, estimant que cette volte-face ne suffit pas à restaurer la relation entre les deux organisations. Ces tensions interviennent à moins d'un an de l'élection du président de la FIFA.",
+    "title": "L'avocat Antoine Vey mis en examen pour harcèlement moral",
+    "full": "L'avocat pénaliste Antoine Vey, ancien associé du ministre de la Justice Eric Dupond-Moretti, a été mis en examen pour harcèlement moral et abus de confiance. Selon les enquêteurs, ses agissements auraient concerné au moins dix collaborateurs et salariés. Il a également été placé sous le statut de témoin assisté pour des faits de harcèlement sexuel. L'enquête, ouverte en 2024, fait suite à des révélations publiées en 2023 concernant son comportement managérial.",
     "angles": [
       {
+        "outlet": "Libération",
+        "take": "L'enquête pénale, lancée en 2024, résulte de révélations du journal sur l'attitude de Vey envers ses collaborateurs et employés.",
+        "url": "https://www.liberation.fr/societe/police-justice/lavocat-antoine-vey-mis-en-examen-pour-harcelement-moral-20260802_IKRS45SCGRDRHCMGFHK7ARZ6MU/"
+      },
+      {
         "outlet": "20 Minutes",
-        "take": "Le retrait du projet commercial n'a pas apaisé les tensions : l'UEFA maintient son manque de confiance envers Infantino.",
-        "url": "https://www.20minutes.fr/sport/football/4237294-20260801-coupe-monde-gianni-infantino-perdu-confiance-uefa?at_medium=display&at_campaign=149"
+        "take": "Les griefs spécifiques incluent un « management inconstant » et des « propos humiliants » adressés à ses équipes.",
+        "url": "https://www.20minutes.fr/justice/4237383-20260802-management-inconstant-propos-humiliants-celebre-avocat-antoine-vey-mis-examen-harcelement-moral?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "France Info",
-        "take": "L'UEFA dénonce des « manœuvres secrètes » et accuse Infantino d'avoir brisé la confiance entre les deux instances.",
-        "url": "https://www.franceinfo.fr/sports/foot/gianni-infantino-a-perdu-la-confiance-de-l-uefa-affirme-l-instance-europeenne-qui-ne-veut-plus-tolerer-ces-man-uvres-secretes_8131223.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Malgré cette concession, la confédération européenne en première ligne de la contestation réclame le départ du patron du football mondial.",
-        "url": "https://www.lemonde.fr/sport/article/2026/08/01/malgre-la-volte-face-de-gianni-infantino-l-uefa-veut-son-depart-ayant-perdu-confiance-en-lui_6737241_3242.html"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Le projet rejeté visait à créer une entité commerciale ouverte aux investisseurs privés pour gérer les activités de la FIFA.",
-        "url": "https://www.liberation.fr/sports/football/investisseurs-prives-a-la-fifa-isole-gianni-infantino-renonce-enfin-a-son-projet-20260801_5QXLV35NLNHQ3FUH5NIX7A4SWM/"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Ces tensions surviennent quelques mois avant le scrutin d'élection du président de la FIFA.",
-        "url": "https://www.france24.com/fr/sports/20260801-projet-controvers%C3%A9-de-la-fifa-infantino-a-perdu-la-confiance-de-l-uefa"
+        "take": "Vey est un pénaliste de renom ayant défendu de nombreuses personnalités, dont Julian Assange et le PDG Mohed Altrad.",
+        "url": "https://www.franceinfo.fr/societe/justice/l-avocat-antoine-vey-ex-associe-de-dupond-moretti-mis-en-examen-pour-harcelement-moral-et-abus-de-confiance_8132333.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 3,
@@ -140,23 +119,18 @@ const ARTICLES = [
     "themes": [
       "Monde"
     ],
-    "title": "Trump suspend les frappes contre l'Iran en attente d'un accord",
-    "full": "Donald Trump a annoncé dimanche suspendre les opérations militaires américaines prévues contre l'Iran, à la demande de Téhéran et d'autres pays de la région. Cette suspension reste conditionnée à la conclusion rapide d'un accord incluant l'ouverture du détroit d'Ormuz et l'abandon du programme nucléaire iranien, selon le président américain. Israël a confirmé son soutien à cet engagement. Cette annonce intervient après que Washington a appelé ses ressortissants à quitter le Moyen-Orient en raison du risque d'escalade régionale.",
+    "title": "Attentat-suicide devant un commissariat au Pakistan",
+    "full": "Un homme a activé une ceinture d'explosifs devant un commissariat dans le district de Swat, au Pakistan, faisant au moins 13 morts et 22 blessés selon les premiers bilans. L'attaque s'est déroulée lors d'une manifestation dans cette province frontalière de l'Afghanistan, région où les autorités pakistanaises font face à l'insurrection croissante du Tehreek-i-Taliban Pakistan (TTP). Aucun groupe n'a revendiqué l'attentat dans l'immédiat, bien que le TTP soit responsable de la plupart des attentats au Pakistan depuis 2007.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Les États-Unis ont simultanément demandé à leurs citoyens d'envisager un départ du Moyen-Orient en cas d'aggravation du conflit.",
-        "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-suspend-les-frappes-contre-l-iran-a-la-demande-de-teheran-et-d-autres-pays-de-la-region_8131964.html#xtor=RSS-3-[lestitres]"
+        "take": "L'attaque s'est produite dans le district de Swat, zone particulièrement exposée aux attentats du Tehreek-i-Taliban Pakistan.",
+        "url": "https://www.franceinfo.fr/monde/asie/un-homme-a-tente-de-penetrer-dans-le-commissariat-13-morts-et-22-blesses-dans-un-attentat-suicide-pendant-une-manifestation-au-pakistan_8132354.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "Le Monde",
-        "take": "Trump précise les conditions de l'accord attendu : libre accès au détroit d'Ormuz et fin de la menace nucléaire iranienne.",
-        "url": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-donald-trump-assure-suspendre-des-frappes-contre-l-iran-a-la-demande-de-teheran-et-de-pays-de-la-region-dans-l-attente-d-un-accord-rapide_6737099_3210.html"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Israël s'associe à la décision américaine de suspension des frappes.",
-        "url": "https://www.france24.com/fr/moyen-orient/20260802-guerre-au-moyen-orient-donald-trump-annonce-suspendre-frappes-am%C3%A9ricaines-contre-iran"
+        "take": "Le TTP a été derrière la majorité des attentats pakistanais depuis fin 2007, causant plus de 4 000 morts.",
+        "url": "https://www.lemonde.fr/international/article/2026/08/02/au-pakistan-un-attentat-suicide-fait-au-moins-neuf-morts-et-20-blesses_6737308_3210.html"
       }
     ],
     "id": 4,
@@ -164,30 +138,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "France",
+      "Santé"
     ],
-    "title": "Les incendies en France sont stabilisés mais restent précaires",
-    "full": "Le Premier ministre Sébastien Lecornu a déclaré samedi que les incendies en France sont globalement « sous contrôle ». En Gironde, le mégafeu qui a ravagé 42 000 hectares en dix jours est désormais « fixé », permettant le retour de résidents. Dans le Var, où un nouvel incendie s'est déclaré, la situation est stabilisée mais demeure fragile en raison des conditions météorologiques imprévisibles. Le gouvernement tempère néanmoins son optimisme en soulignant que la situation reste « évolutive ».",
+    "title": "Les kinésithérapeutes rejoignent le dispositif « Mon Bilan Prévention »",
+    "full": "À partir d'octobre, les kinésithérapeutes pourront réaliser des « bilans prévention », un entretien gratuit destiné à détecter les risques de maladies chroniques et de dépendance. Ce dispositif, lancé en 2024 et confié jusqu'à présent à d'autres professionnels de santé, s'adresse à des « âges clés de la vie » pour sensibiliser aux comportements favorables à la santé. L'extension du dispositif aux kinés vise à améliorer son accessibilité dans un contexte de vieillissement démographique.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Souligne que malgré la stabilisation, la vigilance s'impose face aux vents imprévisibles, notamment dans le Var.",
-        "url": "https://www.lemonde.fr/planete/live/2026/08/02/en-direct-incendies-des-feux-sous-controle-mais-une-situation-qui-reste-evolutive-tempere-le-gouvernement_6737097_3244.html"
-      },
-      {
         "outlet": "20 Minutes",
-        "take": "Relève l'optimisme du Premier ministre tout en pointant la précarité persistante de la situation dans le Var.",
-        "url": "https://www.20minutes.fr/planete/4237330-20260802-incendies-gironde-var-sebastien-lecornu-optimiste-evolution-feux-france?at_medium=display&at_campaign=149"
+        "take": "Met l'accent sur l'ajout des kinés au dispositif et leur capacité à repérer des maladies ou risques de dépendance.",
+        "url": "https://www.20minutes.fr/sante/4237350-20260802-kines-pourront-realiser-bilans-prevention-octobre?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Libération",
-        "take": "Précise que l'incendie girondin est fixé et que des habitants peuvent regagner leur domicile, contrairement au Var où les flammes restent menaçantes.",
-        "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-dans-le-var-un-feu-qui-progresse-plus-vite-quun-cheval-au-galop-20260801_JK5HKTGTI5DYXJ27VARYLXNFKI/"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Insiste sur la distinction entre « stabilisé » et « éteint », rappelant que le combat continue dans les deux départements.",
-        "url": "https://www.france24.com/fr/france/20260801-les-incendies-en-france-sont-globalement-sous-contr%C3%B4le-assure-le-premier-ministre"
+        "outlet": "France Info",
+        "take": "Souligne que cette extension a pour objectif de renforcer l'accessibilité du bilan en réponse au vieillissement de la population et à la hausse des maladies chroniques.",
+        "url": "https://www.franceinfo.fr/sante/les-kinesitherapeutes-pourront-realiser-des-bilans-prevention-des-octobre-dans-le-but-de-renforcer-l-accessibilite-du-dispositif_8132222.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 5,
@@ -195,25 +160,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Monde",
+      "Environnement"
     ],
-    "title": "Explosion dans un café à Moscou : trois morts et 21 blessés",
-    "full": "Une explosion s'est produite samedi soir dans un établissement à Moscou, faisant au moins trois morts et 21 blessés selon les autorités russes. Les enquêteurs ont identifié la cause comme étant un engin explosif artisanal transporté par une femme, qui figure parmi les victimes. La police avait d'abord envisagé la piste d'une fuite de gaz avant de se concentrer sur la piste explosive.",
+    "title": "La Hongrie arrête sa centrale nucléaire pour la première fois en 44 ans",
+    "full": "Le Premier ministre hongrois Peter Magyar a annoncé dimanche 2 août l'arrêt de la centrale nucléaire de Paks, une première depuis 1982. Cette décision répond à un niveau d'eau anormalement bas dans le Danube, provoqué par la canicule qui affecte la région. La centrale, située à une centaine de kilomètres au sud de Budapest, assure environ 40% de la production annuelle d'électricité du pays.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Les enquêteurs ont conclu à un engin explosif artisanal après avoir d'abord examiné l'hypothèse d'une fuite de gaz.",
-        "url": "https://www.franceinfo.fr/monde/russie/au-moins-3-morts-et-15-blesses-apres-une-explosion-dans-un-cafe-a-moscou-en-russie_8131613.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "L'explosion, survenue à 19h10, a entraîné des blessures de gravités variables parmi les 21 victimes, et la femme portant l'engin faisait partie des décédés.",
-        "url": "https://www.20minutes.fr/monde/russie/4237311-20260801-russie-trois-morts-15-blesses-explosion-cafe-moscou?at_medium=display&at_campaign=149"
-      },
-      {
         "outlet": "France 24",
-        "take": "Un engin artisanal a explosé dans un restaurant moscovite, l'incident étant qualifié d'attaque terroriste par les autorités.",
-        "url": "https://www.france24.com/fr/europe/20260802-russie-au-moins-trois-morts-attentat-%C3%A0-la-bombe-restaurant-moscou-place-koudrine-engin-exposif-attaque-terroriste"
+        "take": "Met l'accent sur le caractère inédit de cet arrêt en 44 ans, directement lié aux conditions hydriques du Danube.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260802-la-hongrie-annonce-l-arr%C3%AAt-in%C3%A9dit-de-sa-centrale-nucl%C3%A9aire-%C3%A0-cause-de-la-canicule"
+      },
+      {
+        "outlet": "Le Figaro Éco",
+        "take": "Souligne l'importance stratégique de Paks dans l'approvisionnement énergétique du pays, pourvoyeuse de 40% de l'électricité nationale.",
+        "url": "https://www.lefigaro.fr/conjoncture/une-premiere-en-44-ans-la-hongrie-annonce-l-arret-inedit-de-sa-centrale-nucleaire-a-cause-de-la-canicule-20260802"
       }
     ],
     "id": 6,
@@ -221,25 +182,21 @@ const ARTICLES = [
   },
   {
     "themes": [
+      "Tech & Sciences",
       "France"
     ],
-    "title": "Dans le Var, un incendie ravive l'inquiétude après une accalmie",
-    "full": "Un incendie s'est ravivé vendredi dans le Var après une accalmie de trois jours. Les flammes ont parcouru 1 500 hectares en deux jours, forçant 2 800 habitants à évacuer à nouveau. Les pompiers se préparent à une nuit difficile, les conditions météorologiques (vents, température de 40 degrés) alimentant la progression du feu.",
+    "title": "L'UE impose la mention « généré par IA » dès ce dimanche",
+    "full": "À partir du 2 août, une disposition du règlement européen sur l'intelligence artificielle entre en vigueur : les concepteurs et utilisateurs professionnels de systèmes d'IA devront obligatoirement signaler que leurs contenus ont été générés par cette technologie. Le non-respect de cette obligation expose les contrevenants à des amendes. Cette mesure vise à renforcer la transparence et à permettre aux utilisateurs d'identifier les contenus produits par l'IA.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Les pompiers alertent sur les heures à venir annoncées comme particulièrement à risque dans la région.",
-        "url": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-le-var-une-soiree-a-haut-risque_8131631.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "Souligne l'entrée en vigueur d'une disposition-clé du règlement et les risques de sanctions financières pour les contrevenants.",
+        "url": "https://www.lemonde.fr/economie/article/2026/08/02/intelligence-artificielle-la-mention-genere-par-ia-devient-obligatoire-dans-l-ue_6737268_3234.html"
       },
       {
-        "outlet": "France 24",
-        "take": "Les moyens de lutte continuent d'être massifs pour contenir le feu et protéger les zones menacées.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260801-france-dans-le-var-la-course-contre-la-montre-pour-ma%C3%AEtriser-l-incendie"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Les habitants vivent le stress d'une double évacuation en quelques jours, entretenant une anxiety persistante.",
-        "url": "https://www.liberation.fr/societe/on-est-toujours-sur-le-qui-vive-dans-le-var-langoisse-des-habitants-forces-a-une-nouvelle-evacuation-face-aux-incendies-20260801_ZZRQMH6NCVC7PMOGU5U3GOH4OU/"
+        "outlet": "L'Humanité",
+        "take": "Précise que cette obligation s'applique à l'ensemble de l'Union Européenne et détaille l'étendue du dispositif.",
+        "url": "https://www.humanite.fr/societe/intelligence-artificielle/quest-ce-que-la-mention-genere-par-ia-devenue-obligatoire-dans-lue-aujourdhui"
       }
     ],
     "id": 7,
@@ -247,25 +204,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Culture"
     ],
-    "title": "Départs en vacances : embouteillages massifs et contrôles renforcés",
-    "full": "Samedi 1er août, journée de grands départs en vacances, plus de 1 000 kilomètres de bouchons ont été enregistrés sur les routes françaises à la mi-journée, selon Bison futé. La circulation est classée noire au niveau national dans le sens des départs, particulièrement dans la moitié sud du pays. Les gendarmes sont mobilisés sur les routes pour sensibiliser les automobilistes aux risques de vols dans les véhicules et aux infractions liées aux jets de mégots de cigarette.",
+    "title": "L'acteur Vincent Pastore, icône des Soprano, est décédé",
+    "full": "Vincent Pastore, acteur américain connu pour son rôle de « Big Pussy » Blundetto dans la série « Les Soprano », est mort à l'âge de 80 ans. Le comédien avait également participé à des films de prestige comme « Les Affranchis » de Martin Scorsese et « L'Impasse » de Brian De Palma. Son assassinat spectaculaire à la fin de la deuxième saison des « Soprano » demeure l'une des scènes les plus mémorables de la série.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Les gendarmes intensifient leur présence et leur vigilance sur les enjeux de sécurité des véhicules (vols) et du respect des règles environnementales.",
-        "url": "https://www.franceinfo.fr/france/departs-en-vacances-les-gendarmes-sensibilisent-les-automobilistes-aux-risques-de-vol-et-aux-jets-de-megots_8131355.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Retrace sa carrière en soulignant ses apparitions dans des films de cinéma réputés aux côtés de son rôle phare dans la série télévisée.",
+        "url": "https://www.franceinfo.fr/culture/cinema/l-acteur-americain-vincent-pastore-connu-pour-son-role-de-big-pussy-dans-les-soprano-est-mort-a-l-age-de-80-ans_8132009.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Le Monde",
-        "take": "Dimanche s'annonce rouge pour les départs dans la moitié sud, tandis que les retours restent généralement fluides sauf sur le littoral méditerranéen.",
-        "url": "https://www.lemonde.fr/societe/article/2026/08/01/chasse-croise-des-vacances-plus-de-1-000-kilometres-de-bouchons-sur-les-routes-enregistres-samedi-a-la-mi-journee_6737215_3224.html"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "Bison futé confirme une journée classée noire au niveau national pour le sens des départs.",
-        "url": "https://www.20minutes.fr/societe/4237290-20260801-departs-vacances-plus-300-km-bouchons-samedi-matin-selon-bison-fute?at_medium=display&at_campaign=149"
+        "take": "Insiste sur le caractère emblématique de sa mort à l'écran dans « Les Soprano » comme moment marquant de la série.",
+        "url": "https://www.lemonde.fr/disparitions/article/2026/08/02/mort-de-l-acteur-americain-vincent-pastore-connu-pour-son-role-de-big-pussy-dans-la-serie-les-soprano_6737260_3382.html"
       }
     ],
     "id": 8,
@@ -273,20 +225,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Insolite"
     ],
-    "title": "Décès de Vincent Pastore, acteur des Soprano",
-    "full": "Vincent Pastore, acteur américain connu pour son rôle de « Big Pussy » Blundetto dans la série « Les Soprano », est décédé à l'âge de 80 ans. Son personnage, un informateur de la mafia, avait été assassiné lors de la deuxième saison, dans une scène devenue l'une des plus mémorables de la série. Pastore avait également participé à des films de prestige, notamment « Les Affranchis » de Martin Scorsese et « L'Impasse » de Brian de Palma.",
+    "title": "Des sacs de 665 000 euros découverts sur une plage sicilienne",
+    "full": "Des vacanciers ont découvert plusieurs sacs remplis de billets de banque échoués sur le sable d'une plage en Sicile. Le montant total atteint environ 665 000 euros. Les autorités italiennes enquêtent pour déterminer l'origine de cet argent et ses circonstances d'arrivée en mer.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Souligne la filmographie variée de l'acteur au-delà des Soprano, incluant des collaborations avec des réalisateurs majeurs du cinéma américain.",
-        "url": "https://www.lemonde.fr/disparitions/article/2026/08/02/mort-de-l-acteur-americain-vincent-pastore-connu-pour-son-role-de-big-pussy-dans-la-serie-les-soprano_6737260_3382.html"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "Rappelle son statut d'indic dans la série et mentionne ses apparitions dans des films de prestige.",
-        "url": "https://www.20minutes.fr/arts-stars/culture/4237333-20260802-vincent-pastore-indic-big-pussy-soprano-mort-80-ans?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "Des touristes ont eu la surprise de trouver de l'argent liquide sur le rivage, révélant comment la fortune peut s'échouer sur les côtes siciliennes.",
+        "url": "https://www.franceinfo.fr/monde/italie/en-sicile-des-sacs-remplis-de-665-000-euros-en-billets-de-banque-echouent-sur-une-plage_8132273.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 9,
@@ -294,20 +241,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Insolite"
     ],
-    "title": "Ogier et Ingrassia indemnes après un accident au rallye de Finlande",
-    "full": "Sébastien Ogier et son copilote Julien Ingrassia ont eu un accident spectaculaire lors de la 17e spéciale du rallye de Finlande samedi. Bien que le pilote français ait été héliporté à l'hôpital, les examens médicaux se sont avérés rassurants : tous deux ne présentent aucune blessure grave. Ils ont passé la nuit en observation avant leur libération. Cet abandon compromet la course du nonuple champion du monde vers un dixième titre mondial.",
+    "title": "Le président Deschanel chute d'un train en pyjama en 1920",
+    "full": "Le 23 mai 1920, le président de la République Paul Deschanel tombe d'un train en marche vêtu de son pyjama. Cet incident survient lors d'un mandat présidentiel particulièrement bref et marque un tournant spectaculaire dans sa vie politique.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Souligne l'ampleur de l'accident et l'évacuation d'urgence par hélicoptère du leader de la course.",
-        "url": "https://www.20minutes.fr/sport/4237308-20260801-rallye-finlande-sebastien-ogier-copilote-hospitalises-apres-gros-accident?at_medium=display&at_campaign=149"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Insiste sur l'issue favorable après les examens et les répercussions sportives de cet abandon sur le classement mondial.",
-        "url": "https://www.lemonde.fr/sport/article/2026/08/02/sebastien-ogier-et-son-copilote-indemnes-apres-une-sortie-de-route-spectaculaire-au-rallye-de-finlande_6737246_3242.html"
+        "outlet": "Slate",
+        "take": "L'événement illustre une période de comportements erratiques du chef d'État, aboutissant à une conclusion abrupte de sa présidence.",
+        "url": "https://www.slate.fr/politique/paul-deschanel-president-republique-chute-pyjama-train-folie"
       }
     ],
     "id": 10,
@@ -315,233 +257,19 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Insolite",
+      "Environnement"
     ],
-    "title": "Deux-Sèvres : une rave-party se tient malgré l'interdiction préfectorale",
-    "full": "Une rave-party réunissant environ 1 500 personnes s'est déroulée à Aubigny en Deux-Sèvres ce week-end, en dépit de l'interdiction émise par la préfecture. L'événement avait été prohibé en raison de risques d'incendie significatifs dans le contexte de conditions météorologiques difficiles. Les autorités ont exprimé leur préoccupation face au maintien de cette manifestation malgré les avertissements officiels.",
+    "title": "Évacués des incendies girondins, certains regrettent de quitter leur refuge",
+    "full": "Après l'évacuation de 224 000 personnes lors des incendies en Gironde, les résidents des établissements médico-sociaux commencent à regagner leurs logements à partir de lundi. Quelques-uns expriment cependant une certaine nostalgie face au retour à la normalité, ayant apprécié la vie en commun temporaire durant leur refugium. Environ 15 000 personnes restent encore évacuées.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "La rave-party s'est tenue vendredi soir avec environ 1 500 participants, directement contre l'interdiction prononcée par la préfecture pour des raisons de sécurité incendie.",
-        "url": "https://www.20minutes.fr/societe/4237303-20260801-deux-sevres-rave-party-reunie-1-500-personnes-malgre-interdiction-due-risques-incendie?at_medium=display&at_campaign=149"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Les autorités demeurent inquiètes du déroulement de cet événement interdit qui pose des risques réels selon la préfecture.",
-        "url": "https://www.liberation.fr/societe/de-reels-risques-dincendie-dans-les-deux-sevres-une-rave-party-qui-inquiete-20260801_73S3YFFTIBEZ3ED6NUTXQI4AS4/"
+        "outlet": "France Info",
+        "take": "Certains résidents d'établissements médico-sociaux accueillent le retour à la normalité avec des sentiments mitigés, ayant trouvé un aspect positif à la cohabitation forcée liée à l'évacuation.",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/une-joyeuse-colocation-en-gironde-ces-residents-d-etablissements-medico-sociaux-regrettent-un-peu-le-retour-a-la-normale_8131934.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 11,
     "priority": 12
-  },
-  {
-    "themes": [
-      "Santé",
-      "Monde"
-    ],
-    "title": "Épidémie d'Ebola en RDC : l'OMS alerte sur une intensification exceptionnelle",
-    "full": "L'Organisation mondiale de la santé qualifie l'épidémie d'Ebola en République démocratique du Congo de « plus importante » jamais enregistrée dans le pays. Au 1er août, 3 605 cas et 1 587 décès ont été confirmés depuis le début officiel de la flambée le 15 mai. L'épidémie est causée par le variant Bundibugyo, pour lequel aucun vaccin ni traitement n'existe actuellement. La propagation s'accélère dans des régions aux infrastructures sanitaires fragiles et à la présence étatique limitée. L'Ouganda a en revanche déclaré la fin de son épidémie.",
-    "angles": [
-      {
-        "outlet": "Libération",
-        "take": "L'OMS reconnaît cette épidémie comme la plus importante jamais documentée en RDC, tandis que l'Ouganda a maîtrisé son foyer.",
-        "url": "https://www.liberation.fr/international/afrique/ebola-en-rdc-lepidemie-sintensifie-a-un-rythme-exceptionnel-3-605-cas-dont-1-587-deces-recenses-20260801_MJTMU6ZLTFFEFA6JTURLOTOXTI/"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Le variant Bundibugyo responsable de la flambée n'a actuellement aucune solution thérapeutique ou vaccinale disponible.",
-        "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republiquedemocratique-du-congo-s-intensifie-a-un-rythme-exceptionnel-avertit-l-oms_8131370.html#xtor=RSS-3-[lestitres]"
-      }
-    ],
-    "id": 12,
-    "priority": 13
-  },
-  {
-    "themes": [
-      "Économie",
-      "Environnement"
-    ],
-    "title": "Les trains circulent à nouveau au sud de Bordeaux après les incendies",
-    "full": "Le trafic ferroviaire a repris progressivement samedi au sud de Bordeaux, interrompu depuis dimanche en raison des incendies en Gironde et dans les Landes. La moitié des TGV circulaient samedi entre Bordeaux et le Sud-Ouest dans les deux sens, après inspection et réparation de deux tronçons de voie. SNCF Réseau a confirmé que les infrastructures avaient été épargnées par le feu. Un service normal est prévu dès dimanche sur l'ensemble des lignes.",
-    "angles": [
-      {
-        "outlet": "Le Figaro Éco",
-        "take": "Les infrastructures ferroviaires ont échappé aux dégâts du feu, permettant la reprise rapide du trafic après inspection et réparation des voies.",
-        "url": "https://www.lefigaro.fr/societes/incendies-en-gironde-le-trafic-ferroviaire-va-reprendre-a-partir-de-samedi-au-sud-de-bordeaux-20260731"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Le trafic a progressivement repris en capacité réduite samedi avant un retour à la normale dimanche sur toutes les lignes du Sud-Ouest.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/le-trafic-ferroviaire-a-progressivement-repris-samedi-au-sud-de-bordeaux_8131352.html#xtor=RSS-3-[lestitres]"
-      }
-    ],
-    "id": 13,
-    "priority": 14
-  },
-  {
-    "themes": [
-      "Sport"
-    ],
-    "title": "Monaco, champion de France en titre, exclu des championnats professionnels",
-    "full": "La chambre d'appel de la Fédération française de basket a confirmé samedi l'exclusion de l'AS Monaco des championnats professionnels pour la saison à venir. Le club monégasque, sacré champion de France en juin, se voit refuser l'accès à la Betclic Elite et à l'Elite 2 en raison de difficultés financières majeures.",
-    "angles": [
-      {
-        "outlet": "France Info",
-        "take": "La décision de la chambre d'appel fédérale confirme définitivement l'exclusion du club de tous les championnats professionnels.",
-        "url": "https://www.franceinfo.fr/sports/basket/basket-monaco-champion-de-france-en-titre-exclu-de-betclic-elite-et-d-elite-2_8131298.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Le gendarme financier de la ligue nationale avait déjà refusé d'engager Monaco, qui traverse une grave crise financière malgré son titre récent.",
-        "url": "https://www.liberation.fr/sports/basket-champion-en-titre-monaco-prive-de-championnat-professionnel-20260801_3GSXEGQR7ZDRFBVYOHWVHXX4AI/"
-      }
-    ],
-    "id": 14,
-    "priority": 15
-  },
-  {
-    "themes": [
-      "Environnement"
-    ],
-    "title": "Le mégafeu de Gironde stabilisé, 10 000 habitants autorisés à revenir",
-    "full": "L'incendie qui ravage la Gironde depuis plusieurs jours est désormais « fixé » et « ne progresse plus », selon les autorités. Plus de 10 000 habitants supplémentaires des communes de Saumos, Le Temple, Arès et Marcheprime sont autorisés à regagner leurs domiciles. Au total, 208 000 personnes sur les 224 000 évacuées au pic de la crise peuvent désormais rentrer chez elles. Les communes de Lège-Cap-Ferret et du Porge restent évacuées par mesure de précaution.",
-    "angles": [
-      {
-        "outlet": "France Info",
-        "take": "Détaille les communes concernées par les retours autorisés et le bilan chiffré des évacuations.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/alors-que-le-megafeu-est-fixe-en-gironde-et-ne-progresse-plus-plus-de-10-000-habitants-supplementaires-autorises-a-rentrer-chez-eux_8131664.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Met l'accent sur l'annonce officielle de la stabilisation du feu par les autorités.",
-        "url": "https://www.france24.com/fr/france/20260801-incendies-en-france-le-m%C3%A9gafeu-contenu-en-gironde-plus-de-propagation-dans-le-var"
-      }
-    ],
-    "id": 15,
-    "priority": 16
-  },
-  {
-    "themes": [
-      "Tech & Sciences"
-    ],
-    "title": "Une éclipse solaire spectaculaire le 12 août en France",
-    "full": "Le 12 août prochain, une éclipse solaire partielle sera visible depuis la France, avec un taux d'occultation moyen de 95 % selon les régions, atteignant jusqu'à 99,5 % dans certaines zones. Pour observer en toute sécurité ce phénomène astronomique, il est recommandé de se munir de lunettes spéciales et de consulter les horaires et sites d'observation adaptés à sa localisation.",
-    "angles": [
-      {
-        "outlet": "Sciences et Avenir",
-        "take": "Met l'accent sur l'ampleur du phénomène (occlusion jusqu'à 99,5 %) et propose horaires, cartes et schémas pour suivre l'événement.",
-        "url": "https://www.sciencesetavenir.fr/espace/eclipse-solaire-du-12-aout-2026-a-quelle-heure-et-ou-l-observer-en-france_193174?xtor=RSS-9"
-      },
-      {
-        "outlet": "Le Figaro Sciences",
-        "take": "Souligne l'importance de la préparation pratique en détaillant les équipements nécessaires et les conditions d'observation.",
-        "url": "https://www.lefigaro.fr/sciences/lunettes-heures-sites-d-observation-comment-se-preparer-au-mieux-a-l-eclipse-de-soleil-du-12-aout-20260801"
-      }
-    ],
-    "id": 16,
-    "priority": 17
-  },
-  {
-    "themes": [
-      "Environnement",
-      "Société"
-    ],
-    "title": "Gironde : les habitants rentrent après le plus vaste incendie depuis 1949",
-    "full": "Dix jours après le début de l'incendie qui a ravagé la Gironde, environ 200 000 habitants sur 220 000 évacués ont pu regagner leur domicile. Cet incendie constitue le plus vaste en superficie enregistré en France depuis 1949. Les autorités attribuent l'origine du feu à une étincelle survenue lors de travaux à Saumos, où le sinistre a débuté.",
-    "angles": [
-      {
-        "outlet": "France 24",
-        "take": "Les autorités identifient les travaux comme point de départ de l'incendie à Saumos.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260801-incendie-en-gironde-%C3%A0-saumos-le-jour-d-apr%C3%A8s"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Le feu a détruit d'importants travaux forestiers et représente le sinistre le plus étendu en France en plus de 75 ans.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/reportage-vers-midi-il-y-a-eu-l-etincelle-fatidique-retour-dans-le-fosse-de-saumos-ou-l-incendie-qui-a-ravage-la-gironde-a-pris-il-y-a-dix-jours_8131046.html#xtor=RSS-3-%5Bgeneral%5D"
-      }
-    ],
-    "id": 17,
-    "priority": 18
-  },
-  {
-    "themes": [
-      "Insolite",
-      "Société"
-    ],
-    "title": "En Gironde, des résidents d'Ehpad regrettent la fin de l'évacuation",
-    "full": "Après l'incendie qui a ravagé la Gironde, les 15 000 personnes encore évacuées vont pouvoir regagner leur domicile à partir de lundi. Parmi eux, des résidents d'établissements médico-sociaux qui, contre toute attente, expriment de la réticence face au retour à la normale. Durant leur colocation forcée, certains ont apprécié cette expérience de vie commune et craignent de retrouver l'isolement de leur quotidien habituel.",
-    "angles": [
-      {
-        "outlet": "France Info",
-        "take": "Des résidents d'établissements médico-sociaux évacués regrettent de quitter l'ambiance conviviale de la colocation d'urgence pour retourner à leur vie isolée.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/une-joyeuse-colocation-en-gironde-ces-residents-d-etablissements-medico-sociaux-regrettent-un-peu-le-retour-a-la-normale_8131934.html#xtor=RSS-3-%5Bgeneral%5D"
-      }
-    ],
-    "id": 18,
-    "priority": 19
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Les vieux torchons essuient mieux que les neufs",
-    "full": "Contrairement aux apparences, les torchons usagés offrent de meilleures performances d'absorption que leurs homologues neufs. Leur tissu fatigué développerait une capacité supérieure à retenir l'eau et à sécher la vaisselle efficacement. Un phénomène qui justifie de conserver ces vieux linges plutôt que de les remplacer hâtivement.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "L'usure du tissu crée des conditions d'absorption optimales, transformant un torchon apparemment détérioré en outil plus performant qu'un neuf.",
-        "url": "https://www.slate.fr/sciences/pourquoi-vieux-torchons-essuient-mieux-vaisselle-absorption-serviette-gouttes-eau"
-      }
-    ],
-    "id": 19,
-    "priority": 20
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Aménager son balcon en refuge estival, même petit",
-    "full": "20 Minutes propose un guide pratique pour transformer balcon, terrasse ou jardin en espace de détente pour l'été. Selon le média, même les surfaces réduites peuvent devenir des refuges confortables à condition de suivre quelques principes d'aménagement adaptés à sa surface et ses envies.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "Met l'accent sur la possibilité d'aménager n'importe quel petit espace extérieur en véritable coin de détente estival.",
-        "url": "https://www.20minutes.fr/tempo/style/4237001-20260801-balcon-terrasse-jardin-comment-creer-coin-detente?at_medium=display&at_campaign=149"
-      }
-    ],
-    "id": 20,
-    "priority": 21
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Le slip de bain italien conquiert la mode française",
-    "full": "Le slip de bain, autrefois source de moqueries en France, gagne en popularité hexagonale. Porté traditionnellement en Italie, ce maillot minimaliste est désormais adopté par les fashionistas et athlètes français, marquant un tournant dans les tendances vestimentaires estivales.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "Le slip de bain change d'image en France, passant du statut de curiosité italienne à celui d'accessoire prisé par les amateurs de mode et de sport.",
-        "url": "https://www.20minutes.fr/tempo/style/4236054-20260801-fashions-sportifs-2026-slip-bain-plus-reserve-italiens?at_medium=display&at_campaign=149"
-      }
-    ],
-    "id": 21,
-    "priority": 22
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Une recette d'élixir ressemblant au Coca-Cola découverte en Italie",
-    "full": "En fouillant les archives d'une ancienne pharmacie de couvent à Florence, le recteur du lieu a mis au jour un document détaillant la composition d'un élixir dont la formule rappelle étrangement celle du Coca-Cola. Cette découverte suggère que des moines italiens auraient pu préparer une boisson similaire bien avant son invention officielle par les Américains.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "Un document d'archive florenrin décrit une recette d'élixir ancien aux ingrédients comparables à ceux du célèbre soda américain.",
-        "url": "https://www.slate.fr/boire-manger/coca-cola-recette-origine-americaine-florence-moines-elixir-fatigue-archives-pharmacie-couvent-decouverte"
-      }
-    ],
-    "id": 22,
-    "priority": 23
   }
 ];
