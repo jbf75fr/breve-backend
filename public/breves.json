@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-08-04T04:02:21.913428+00:00",
+  "generated_at": "2026-08-04T06:18:50.632518+00:00",
   "date_label": "Mardi 4 août",
-  "count": 17,
+  "count": 13,
   "breves": [
     {
       "themes": [
         "Environnement",
         "Santé"
       ],
-      "title": "Incendies et sécheresse : l'Europe face à l'été caniculaire",
-      "full": "L'Europe traverse un été exceptionnellement chaud et sec. En France, les pompiers poursuivent la maîtrise d'incendies majeurs en Gironde et dans le Var, tandis que douze départements sont placés en alerte « élevée ». La Grèce affronte des feux près d'Athènes depuis quatre jours, et l'Angleterre a enregistré son mois de juillet le plus sec jamais noté. Cette sécheresse affecte aussi les infrastructures : la centrale nucléaire de Chooz, dans les Ardennes, est entièrement à l'arrêt depuis le 1er août faute de débit suffisant de la Meuse pour le refroidissement. Au-delà des enjeux matériels, les pompiers et sinistrés confrontés à ces feux exceptionnels risquent de développer des troubles psychologiques, notamment un stress post-traumatique.",
+      "title": "Canicule et incendies en Europe : pompiers et réacteurs affectés",
+      "full": "L'Europe traverse un épisode caniculaire et sec d'une ampleur exceptionnelle. En France, 16 départements restent en vigilance orange, tandis que les incendies continuent de ravager le Var et menacent les zones grecques autour d'Athènes. Au-delà des enjeux de sécurité immédiate, cette sécheresse extrême frappe aussi les infrastructures énergétiques : la centrale nucléaire de Chooz, en Ardennes, est entièrement arrêtée depuis le 1er août faute d'un débit suffisant de la Meuse pour le refroidissement des réacteurs. Les pompiers et sinistrés confrontés à ces feux exceptionnels risquent en outre des troubles psychologiques durables, selon les experts.",
       "angles": [
         {
+          "outlet": "France Info",
+          "take": "Les pompiers et victimes des incendies s'exposent à un risque élevé de stress post-traumatique à moyen terme.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-le-risque-pour-les-pompiers-c-est-le-stress-post-traumatique-explique-stephanie-rossignol-infirmiere-sapeur-pompier-au-sdis-33_8132930.html#xtor=RSS-3-%5Bgeneral%5D"
+        },
+        {
           "outlet": "France 24",
-          "take": "Situe la crise des incendies dans un contexte européen plus large, montrant que plusieurs pays connaissent simultanément des records de chaleur et de sécheresse.",
+          "take": "Incendies en Grèce et France, sécheresse record en Angleterre et Pays de Galles marquent un été exceptionnellement rude en Europe.",
           "url": "https://www.france24.com/fr/europe/20260803-entre-incendies-et-s%C3%A9cheresse-l-%C3%A9t%C3%A9-caniculaire-continue-de-s%C3%A9vir-en-europe"
         },
         {
           "outlet": "Reporterre",
-          "take": "Met l'accent sur les impacts de la sécheresse sur les réacteurs nucléaires, contraints à l'arrêt pour raisons de refroidissement.",
+          "take": "La sécheresse généralisée contraint l'arrêt de plusieurs réacteurs nucléaires en France et Hongrie faute d'eau pour le refroidissement.",
           "url": "https://reporterre.net/Secheresse-plusieurs-reacteurs-nucleaires-a-l-arret-en-France-et-en-Hongrie"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Souligne les conséquences psychologiques des sinistres pour les pompiers et les victimes de ces incendies d'ampleur exceptionnelle.",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-le-risque-pour-les-pompiers-c-est-le-stress-post-traumatique-explique-stephanie-rossignol-infirmiere-sapeur-pompier-au-sdis-33_8132930.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 0,
@@ -32,35 +32,30 @@
     },
     {
       "themes": [
-        "Société"
+        "Tech & Sciences"
       ],
-      "title": "Enquête ouverte à Matignon après deux suicides en sept mois",
-      "full": "Une enquête a été lancée dans les services du Premier ministre pour harcèlement moral, suite à deux suicides et deux tentatives de suicide survenus en sept mois, révèle France Inter. Le signalement a été adressé à la justice fin juin. L'instabilité gouvernementale serait l'une des causes du mal-être de fonctionnaires travaillant rue de Varenne, notamment au Secrétariat général du gouvernement.",
+      "title": "Cyberattaque chez Intermarché : 300 000 clients du Drive visés",
+      "full": "Une intrusion dans les serveurs d'Intermarché a entraîné la fuite de données personnelles d'environ 300 000 clients du service Drive. Les informations compromises incluent les noms, prénoms, numéros de téléphone, adresses postales, dates de naissance et numéros de carte de fidélité. L'enseigne précise que les mots de passe, adresses e-mail et données bancaires n'ont pas été affectés. Des investigations sont en cours pour déterminer l'étendue complète de l'incident, et une plainte a été déposée auprès du parquet de Paris.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "France Inter révèle une enquête pour harcèlement moral suite à ces drames au sein des services administratifs de Matignon.",
-          "url": "https://www.liberation.fr/economie/social/enquete-ouverte-a-matignon-dans-les-services-administratifs-apres-deux-suicides-et-deux-tentatives-en-sept-mois-revele-france-inter-20260803_HY6RYMZ2IZE5NEA3KEXKWMRCJQ/"
-        },
-        {
-          "outlet": "France Info",
-          "take": "La justice française confirme le rejet du recours de la chroniqueuse russe Xenia Fedorova contre son expulsion du territoire.",
-          "url": "https://www.franceinfo.fr/economie/medias/la-justice-francaise-rejette-un-recours-de-la-chroniqueuse-russe-xenia-fedorova-contre-son-expulsion_8132987.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Le tribunal administratif de Paris valide l'expulsion et le gel des avoirs de la chroniqueuse pro-Kremlin.",
-          "url": "https://www.20minutes.fr/justice/4237582-20260803-justice-confirme-expulsion-chroniqueuse-pro-russe-xenia-fedorova?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Xenia Fedorova, déjà à l'étranger, déclare qu'elle ne reviendra en France que si l'arrêté d'expulsion est suspendu.",
-          "url": "https://www.france24.com/fr/france/20260803-expulsion-de-xenia-fedorova-la-justice-administrative-rejette-son-recours"
-        },
-        {
           "outlet": "Le Monde",
-          "take": "La chroniqueuse affirme avoir découvert l'arrêté d'expulsion alors qu'elle était en vacances loin de Paris.",
-          "url": "https://www.lemonde.fr/societe/article/2026/08/03/xenia-fedorova-la-justice-administrative-rejette-un-recours-de-la-propagandiste-pro-poutine-contre-son-arrete-d-expulsion_6737353_3224.html"
+          "take": "Souligne que les données bancaires et mots de passe n'ont pas été dérobés lors de cette fuite.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/08/03/cyberattaque-300-000-clients-d-intermarche-concernes-par-une-fuite-de-donnees_6737677_4408996.html"
+        },
+        {
+          "outlet": "Numerama",
+          "take": "Insiste sur la nécessité pour les clients de vérifier leurs comptes et d'adopter les bonnes pratiques de sécurité.",
+          "url": "https://www.numerama.com/cyberguerre/2305933-immense-fuite-de-donnees-chez-intermarche-2-millions-de-clients-concernes-voici-details-et-les-bons-reflexes-a-adopter.html"
+        },
+        {
+          "outlet": "Le Figaro Éco",
+          "take": "Détaille précisément la liste des données personnelles exfiltrées du service Drive.",
+          "url": "https://www.lefigaro.fr/conjoncture/intermarche-victime-d-une-cyberattaque-pres-de-300-000-clients-concernes-par-une-fuite-de-donnees-20260803"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Rapporte que le groupe a porté plainte et que des investigations complémentaires sont en cours pour identifier d'éventuelles autres victimes.",
+          "url": "https://www.liberation.fr/economie/conso/intermarche-victime-dune-cyberattaque-pres-de-300-000-clients-concernes-par-une-fuite-de-donnees-20260803_QRWEGVYWT5BGBJCXF25GJGIMYY/"
         }
       ],
       "id": 1,
@@ -68,30 +63,25 @@
     },
     {
       "themes": [
-        "Économie"
+        "Sport"
       ],
-      "title": "Boeing obtient enfin la certification du 737 MAX 7",
-      "full": "La FAA, l'agence fédérale de l'aviation américaine, a certifié lundi le Boeing 737 MAX 7, après un délai de sept ans par rapport au calendrier initial. Cette plus petite version de la famille des 737 MAX devrait entrer en service en 2027. L'avionneur américain pourra désormais procéder aux premières livraisons, bien que les compagnies aériennes attendent toujours la certification du modèle MAX 10.",
+      "title": "Haugset s'impose en solitaire et prend le maillot jaune",
+      "full": "Sigrid Haugset a remporté la troisième étape du Tour de France Femmes lundi à Poligny. La Norvégienne de 27 ans a concrétisé un raid en solitaire de 88 kilomètres, devançant la double championne du monde Lotte Kopecky à l'arrivée. Cette victoire lui permet de prendre le maillot jaune au classement général, signant la plus belle victoire de sa carrière.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Met l'accent sur le processus de certification exceptionnellement long et les perspectives de livraisons futures pour Boeing.",
-          "url": "https://www.20minutes.fr/economie/4237660-20260803-boeing-agence-federale-aviation-americaine-valide-enfin-certification-737-max-7?at_medium=display&at_campaign=149"
+          "outlet": "France Info",
+          "take": "Haugset a mené un numéro solitaire remarquable sur 88 kilomètres avant l'arrivée, résistant à Kopecky jusqu'à Poligny.",
+          "url": "https://www.franceinfo.fr/tour-de-france/femmes/partie-seule-a-88-kilometres-de-l-arrivee-sigrid-haugset-remporte-heroiquement-la-3e-etape-du-tour-de-france-femmes-et-prend-le-maillot-jaune_8133431.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "France 24",
-          "take": "Souligne que cette certification ne satisfait pas complètement le secteur aérien, qui demeure en attente du modèle MAX 10.",
-          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260803-boeing-737-max-7-decroche-certification-sept-ans-retard"
+          "take": "La Norvégienne détrône la Néerlandaise Lorena Wiebes du maillot jaune.",
+          "url": "https://www.france24.com/fr/sports/20260803-tour-de-france-femmes-%C3%A9tape-3-victorieuse-la-norv%C3%A9gienne-sigrid-haugset-prend-le-maillot-jaune"
         },
         {
-          "outlet": "France Info",
-          "take": "Insiste sur les retards successifs accumulés avant l'obtention de l'agrément réglementaire.",
-          "url": "https://www.franceinfo.fr/economie/aeronautique/le-737-max-7-de-boeing-decroche-enfin-sa-certification-apres-sept-ans-de-retard_8133563.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Rappelle que le calendrier initial prévoyait des livraisons dès 2019, soit huit ans plus tôt.",
-          "url": "https://www.lemonde.fr/economie/article/2026/08/03/le-boeing-737-max-7-certifie-avec-sept-ans-de-retard_6737611_3234.html"
+          "outlet": "L'Humanité",
+          "take": "L'équipe Uno-X Mobility réalise un coup stratégique à la veille du contre-la-montre bourguignon, tandis que Lotto Intermarché subit des abandons en raison de la chaleur.",
+          "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-femmes-2026-en-bourgogne-la-norvegienne-sigrid-haugset-simpose-en-solitaire-et-prend-le-maillot-jaune"
         }
       ],
       "id": 2,
@@ -99,30 +89,25 @@
     },
     {
       "themes": [
-        "Monde"
+        "Économie"
       ],
-      "title": "L'opposant russe Nadejdine s'exile en France",
-      "full": "Boris Nadejdine, l'une des dernières voix critiques du régime de Vladimir Poutine restées en Russie, a annoncé lundi avoir quitté le pays pour se réfugier en France. Ancien député russe, il avait été condamné récemment pour « extrémisme » et déclaré « agent de l'étranger » par les autorités russes. Il avait renoncé à se présenter aux législatives de septembre après son arrestation et sa condamnation à une amende. Son départ représente un nouveau départ forcé d'une figure de l'opposition, annoncé via une vidéo publiée sur Telegram.",
+      "title": "Boeing obtient enfin la certification de son 737 MAX 7",
+      "full": "L'Agence fédérale de l'aviation américaine (FAA) a certifié lundi le Boeing 737 MAX 7, marquant l'aboutissement d'un processus d'approbation qui a duré environ sept ans. Cet appareil, la plus petite variante de la famille des 737 MAX, pourra désormais être commercialisé en vue de son entrée en service programmée en 2027. Le calendrier de certification avait connu de nombreux retards, la livraison devant initialement débuter en 2019.",
       "angles": [
         {
+          "outlet": "20 Minutes",
+          "take": "La certification ouvre la voie aux premières livraisons de cet appareil attendu par l'avionneur depuis une décennie.",
+          "url": "https://www.20minutes.fr/economie/4237660-20260803-boeing-agence-federale-aviation-americaine-valide-enfin-certification-737-max-7?at_medium=display&at_campaign=149"
+        },
+        {
           "outlet": "France 24",
-          "take": "Insiste sur le statut exceptionnel de Nadejdine comme critique du Kremlin qui avait jusqu'à présent échappé à l'emprisonnement.",
-          "url": "https://www.france24.com/fr/europe/20260803-condamn%C3%A9-en-russie-l-opposant-russe-boris-nadejdine-s-est-r%C3%A9fugi%C3%A9-en-france"
+          "take": "Malgré cette avancée, les compagnies aériennes restent en attente de l'approbation du modèle plus grand, le 737 MAX 10.",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260803-boeing-737-max-7-decroche-certification-sept-ans-retard"
         },
         {
           "outlet": "Le Monde",
-          "take": "Souligne son parcours politique passé en tant que député et les obstacles législatifs rencontrés en 2024 et 2025.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/03/l-opposant-russe-boris-nadejdine-condamne-en-russie-annonce-avoir-rejoint-la-france_6737405_3210.html"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Met en avant les accusations russes d'« extrémisme » et de lien avec l'étranger, ainsi que la preuve visuelle par vidéo à la tour Eiffel.",
-          "url": "https://www.franceinfo.fr/monde/russie/l-opposant-russe-boris-nadejdine-annonce-avoir-quitte-la-russie-et-se-trouve-en-france_8133320.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Rappelle sa candidature présidentielle empêchée en 2024 et son statut de dernier opposant libre sur le territoire russe avant son départ.",
-          "url": "https://www.liberation.fr/international/europe/russie-lopposant-boris-nadejdine-a-fui-moscou-pour-paris-20260803_UGUAVBHAYFH55FBR6AM2EXWZBU/"
+          "take": "Le délai de certification, initié en 2019, illustre les obstacles rencontrés par Boeing dans ses processus d'homologation récents.",
+          "url": "https://www.lemonde.fr/economie/article/2026/08/03/le-boeing-737-max-7-certifie-avec-sept-ans-de-retard_6737611_3234.html"
         }
       ],
       "id": 3,
@@ -130,30 +115,26 @@
     },
     {
       "themes": [
-        "Société"
+        "France",
+        "Économie"
       ],
-      "title": "Le chef Jean Imbert placé en garde à vue pour violences conjugales",
-      "full": "Le cuisinier Jean Imbert, vainqueur de Top Chef en 2013, a été placé en garde à vue lundi matin à Paris, soupçonné de violences conjugales. Il fait l'objet de plusieurs plaintes émanant d'ex-compagnes, dont l'ancienne Miss France Alexandra Rosenfeld et l'actrice Lilat Salet. Selon les accusations, il aurait commis des violences psychologiques et physiques.",
+      "title": "Classement sans suite de la plainte contre le député Alloncle",
+      "full": "Le Parquet national financier a classé sans suite, lundi, la plainte déposée contre le député Charles Alloncle pour prise illégale d'intérêts et trafic d'influence. L'association AC!! Anti-Corruption avait saisi la justice après les révélations du Monde sur l'envoi par Lagardère News de listes de questions aux membres de la commission d'enquête sur l'audiovisuel public, dont Alloncle était rapporteur. Le parquet a estimé ne pas disposer d'éléments suffisants pour poursuivre.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Trois plaintes de ses ex-compagnes visent le chef pour violences conjugales.",
-          "url": "https://www.20minutes.fr/faits_divers/4237622-20260803-chef-jean-imbert-soupconne-violences-conjugales-place-garde-vue?at_medium=display&at_campaign=149"
-        },
-        {
           "outlet": "France Info",
-          "take": "Parmi les plaignantes figure l'ancienne Miss France Alexandra Rosenfeld.",
-          "url": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/le-chef-cuisinier-jean-imbert-place-en-garde-a-vue-a-paris_8133365.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "Les accusations incluent mauvais traitements physiques (nez fracturé, brûlures de cigarettes) et psychologiques de cinq ex-compagnes.",
-          "url": "https://www.humanite.fr/medias/m6/nez-fracture-brulures-de-cigarettes-humiliations-le-chef-jean-imbert-en-garde-a-vue-pour-violences-conjugales-sur-cinq-de-ses-ex-compagnes"
+          "take": "Alloncle était accusé d'avoir influencé les débats de la commission en posant des questions suggérées par le groupe médiatique.",
+          "url": "https://www.franceinfo.fr/economie/medias/audiovisuel-public/la-plainte-contre-x-visant-le-depute-charles-alloncle-pour-prise-illegale-d-interets-a-ete-classee-sans-suite_8133509.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Libération",
-          "take": "Le chef médiatisé aux étoiles Michelin est accusé par des femmes du monde du spectacle et de la télévision.",
-          "url": "https://www.liberation.fr/societe/police-justice/le-chef-jean-imbert-accuse-de-violences-conjugales-entendu-par-les-enqueteurs-20260803_EZQANGALW5HGDLRG2ZOTOXKWXA/"
+          "take": "La plainte est intervenue après les révélations du Monde sur l'envoi de listes de questions par Lagardère News aux députés de la commission.",
+          "url": "https://www.liberation.fr/politique/la-plainte-visant-charles-alloncle-pour-prise-illegale-dinterets-et-trafic-dinfluence-classee-sans-suite-20260803_LULIVBHE2FDRZLJVZWBQEDTSFE/"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Le parquet a justifié son classement par l'absence d'éléments suffisants pour constituer une infraction pénale.",
+          "url": "https://www.20minutes.fr/justice/4237671-20260803-parquet-classe-suite-plainte-visant-charles-alloncle-prise-illegale-interets?at_medium=display&at_campaign=149"
         }
       ],
       "id": 4,
@@ -161,25 +142,26 @@
     },
     {
       "themes": [
-        "Monde"
+        "Économie",
+        "Environnement"
       ],
-      "title": "Zelensky limoge son ambassadrice aux États-Unis",
-      "full": "Le président ukrainien Volodymyr Zelensky a révoqué lundi Olga Stefanichyna de ses fonctions d'ambassadrice aux États-Unis, poste stratégique pour Kiev en quête de soutien militaire américain. L'intéressée a évoqué une « décision personnelle » sur les réseaux sociaux, mais la presse ukrainienne rapporte l'ouverture d'une enquête de l'agence anticorruption à son encontre pour soupçons de malversations. Ce limogeage intervient alors que l'Ukraine espère obtenir de Washington de nouveaux missiles antiaériens pour faire face aux frappes russes.",
+      "title": "Coquerel demande un budget rectificatif pour les mégafeux",
+      "full": "Le président de la commission des finances de l'Assemblée nationale réclame une session extraordinaire du Parlement à la rentrée pour voter un budget rectificatif destiné à financer la lutte contre les mégafeux et le réchauffement climatique. Éric Coquerel propose de financer ces mesures par une taxe sur les superprofits des multinationales, procédé déjà utilisé lors de la crise du Covid. Il justifie l'urgence de cette démarche en soulignant qu'on ne peut attendre janvier pour lancer les commandes nécessaires.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Le limogeage survient dans un contexte de réchauffement des relations entre Zelensky et Trump face à la Russie.",
-          "url": "https://www.20minutes.fr/monde/ukraine/4237692-20260804-guerre-ukraine-zelensky-limoge-ambassadrice-etats-unis-poste-crucial-kiev?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "France Info",
-          "take": "L'ambassadrice évincée a justifié son départ par une décision personnelle, tandis qu'une enquête anticorruption la viserait.",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-president-volodymyr-zelensky-limoge-l-ambassadrice-ukrainienne-aux-etats-unis_8133581.html#xtor=RSS-3-[lestitres]"
+          "outlet": "Le Figaro Éco",
+          "take": "Coquerel envisage spécifiquement une taxation des multinationales ayant réalisé des superprofits récemment, comparable aux mesures exceptionnelles prises en 2020.",
+          "url": "https://www.lefigaro.fr/conjoncture/l-insoumis-eric-coquerel-reclame-un-budget-rectificatif-pour-financer-la-lutte-contre-les-megafeux-20260803"
         },
         {
           "outlet": "Libération",
-          "take": "La décision coïncide avec les efforts de Kyiv pour obtenir de nouveaux systèmes de défense aérienne des États-Unis.",
-          "url": "https://www.liberation.fr/international/europe/volodymyr-zelensky-limoge-lambassadrice-ukrainienne-aux-etats-unis-20260803_LNZWDIHITJFEFF3GVHIHX6LFNM/"
+          "take": "L'élu insiste sur l'impossibilité d'attendre les débats budgétaires de janvier pour mobiliser les crédits et les moyens opérationnels.",
+          "url": "https://www.liberation.fr/politique/eric-coquerel-face-aux-megafeux-on-ne-peut-pas-attendre-janvier-pour-lancer-des-commandes-20260803_5DRYTPAOFJALVIMEKF7LJSSJMU/"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Le député demande une convocation du Parlement en session extraordinaire et un réajustement des priorités budgétaires de lutte contre les incendies.",
+          "url": "https://www.lemonde.fr/politique/article/2026/08/04/le-depute-insoumis-eric-coquerel-reclame-un-budget-rectificatif-pour-financer-la-lutte-contre-les-megafeux_6737809_823448.html"
         }
       ],
       "id": 5,
@@ -187,26 +169,20 @@
     },
     {
       "themes": [
-        "Économie",
         "France"
       ],
-      "title": "Plainte contre le député Alloncle classée sans suite",
-      "full": "Le Parquet national financier a classé sans suite, lundi, la plainte déposée contre le député Charles Alloncle pour prise illégale d'intérêts et trafic d'influence. Alloncle, rapporteur de la commission d'enquête sur l'audiovisuel public, était visé après des révélations du Monde sur l'envoi par Lagardère News de listes de questions suggérées aux membres de cette commission. Le parquet a estimé qu'il n'y avait pas d'éléments suffisants pour poursuivre.",
+      "title": "Attal veut renforcer la lutte contre les campements illégaux",
+      "full": "Le candidat à la présidentielle Gabriel Attal a annoncé vouloir s'attaquer aux installations illégales des gens du voyage, déclarant que « tous les modes de vie doivent respecter la loi de la République ». Ces déclarations, faites à « Le Figaro », s'inscrivent dans sa campagne pour 2027. Elles surviennent dans un contexte de tensions au sein de la droite présidentielle, le maire de Cannes David Lisnard l'accusant de plagiat sur son projet institutionnel.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "L'association AC!! Anti-Corruption accusait le député d'avoir influencé les débats en posant des questions proposées par Lagardère News.",
-          "url": "https://www.franceinfo.fr/economie/medias/audiovisuel-public/la-plainte-contre-x-visant-le-depute-charles-alloncle-pour-prise-illegale-d-interets-a-ete-classee-sans-suite_8133509.html#xtor=RSS-3-[lestitres]"
+          "take": "Attal pose le principe du respect de la loi républicaine comme fondement de sa position sur les campements des gens du voyage.",
+          "url": "https://www.franceinfo.fr/politique/gabriel-attal/le-candidat-a-la-presidentielle-gabriel-attal-veut-s-attaquer-aux-installations-illegales-des-gens-du-voyage_8133644.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "Libération",
-          "take": "Le classement intervient après les révélations du Monde sur le système d'envoi de listes de questions par le groupe Lagardère aux députés.",
-          "url": "https://www.liberation.fr/politique/la-plainte-visant-charles-alloncle-pour-prise-illegale-dinterets-et-trafic-dinfluence-classee-sans-suite-20260803_LULIVBHE2FDRZLJVZWBQEDTSFE/"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Le parquet justifie le classement par l'absence d'éléments suffisants pour établir les faits reprochés.",
-          "url": "https://www.20minutes.fr/justice/4237671-20260803-parquet-classe-suite-plainte-visant-charles-alloncle-prise-illegale-interets?at_medium=display&at_campaign=149"
+          "outlet": "Le Figaro Politique",
+          "take": "David Lisnard conteste la nouveauté de la proposition d'Attal en l'accusant d'avoir repris ses idées institutionnelles.",
+          "url": "https://www.lefigaro.fr/politique/presidentielle-2027-david-lisnard-accuse-gabriel-attal-de-plagiat-sur-son-projet-institutionnel-20260803"
         }
       ],
       "id": 6,
@@ -214,21 +190,20 @@
     },
     {
       "themes": [
-        "Environnement",
-        "France"
+        "Monde"
       ],
-      "title": "Coquerel demande un budget rectificatif pour lutter contre les mégafeux",
-      "full": "Eric Coquerel, président de la commission des finances de l'Assemblée nationale, réclame un budget rectificatif dès la rentrée pour augmenter les crédits consacrés à la lutte contre les incendies et le réchauffement climatique. Le député demande une session extraordinaire du Parlement et propose de financer ces mesures par une taxe sur les superprofits, estimant qu'il ne faut pas attendre janvier pour lancer les commandes face à l'ampleur des mégafeux.",
+      "title": "La junte birmane divulgue des images d'Aung San Suu Kyi",
+      "full": "La junte militaire birmane a rendu public des documents montrant Aung San Suu Kyi, l'ancienne dirigeante détenue depuis cinq ans, lors d'une rencontre avec un représentant du Comité international de la Croix-Rouge lundi à Naypyidaw. Kim Aris, le fils de l'ex-leader, a salué cette divulgation comme une première étape importante et source d'espoir, bien que la junte maintienne toujours Aung San Suu Kyi en détention.",
       "angles": [
         {
           "outlet": "Libération",
-          "take": "L'urgence du calendrier : Coquerel insiste sur l'impossibilité d'attendre le budget 2026 pour mobiliser les moyens de lutte contre les incendies et le changement climatique.",
-          "url": "https://www.liberation.fr/politique/eric-coquerel-face-aux-megafeux-on-ne-peut-pas-attendre-janvier-pour-lancer-des-commandes-20260803_5DRYTPAOFJALVIMEKF7LJSSJMU/"
+          "take": "Le fils d'Aung San Suu Kyi interprète la publication de ces images comme un signe positif, marquant une première étape dans la reconnaissance de l'état de sa mère.",
+          "url": "https://www.liberation.fr/international/asie-pacifique/en-birmanie-la-junte-devoile-des-images-daung-san-suu-kyi-qui-donnent-de-lespoir-cest-une-premiere-etape-importante-20260803_UIMDGV7QKRBO7FVIZHISVXQF3A/"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Une proposition de financement : le député envisage une taxe sur les superprofits pour financer les nouveaux crédits sans alourdir le déficit budgétaire.",
-          "url": "https://www.lemonde.fr/politique/article/2026/08/04/le-depute-insoumis-eric-coquerel-reclame-un-budget-rectificatif-pour-financer-la-lutte-contre-les-megafeux_6737809_823448.html"
+          "outlet": "Courrier International",
+          "take": "Cette actualité figure parmi les principaux événements internationaux de la nuit passée.",
+          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-aung-san-suu-kyi-xenia-fedorova-et-boeing-737-max-les-informations-de-la-nuit_256084"
         }
       ],
       "id": 7,
@@ -236,20 +211,20 @@
     },
     {
       "themes": [
-        "Société"
+        "Économie"
       ],
-      "title": "Jean-Vincent Placé jugé en octobre pour agressions sexuelles",
-      "full": "L'ancien secrétaire d'État écologiste Jean-Vincent Placé sera jugé le 29 octobre pour agressions sexuelles commises selon deux femmes lors de déplacements officiels à l'étranger. Placé conteste les accusations. Déjà condamné en 2021 pour harcèlement sexuel sur une gendarme, il fait face à cette nouvelle procédure judiciaire.",
+      "title": "États-Unis et Japon interviennent pour soutenir le yen",
+      "full": "Les États-Unis et le Japon ont mené lundi 3 août une opération coordonnée sur les marchés des changes pour renforcer la valeur du yen, une première intervention conjointe depuis vingt-huit ans. La devise japonaise avait atteint son cours le plus faible face au dollar depuis 1986, affaiblissement qui rend les exportations nippones plus compétitives mais alimente l'inflation domestique.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Souligne que l'ancienne figure écologiste est accusée par deux femmes de les avoir agressées durant des voyages gouvernementaux.",
-          "url": "https://www.liberation.fr/politique/accuse-dagressions-sexuelles-lex-secretaire-detat-jean-vincent-place-sera-juge-le-29-octobre-20260803_DUV435ORCFB5NMCQY4YIHCDNAA/"
+          "outlet": "France Info",
+          "take": "Souligne les effets contrastés de la faiblesse du yen : avantage pour les exportations japonaises, mais accélération de l'inflation intérieure.",
+          "url": "https://www.franceinfo.fr/monde/japon/les-etats-unis-et-le-japon-interviennent-sur-les-marches-financiers-pour-soutenir-la-valeur-du-yen-une-premiere-depuis-28-ans_8105525.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France Info",
-          "take": "Rappelle que Placé a déjà été condamné en 2021 pour harcèlement sexuel et qu'il conteste les nouveaux faits reprochés.",
-          "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-ancien-secretaire-d-etat-ecologiste-jean-vincent-place-sera-juge-le-29-octobre-pour-agressions-sexuelles-sur-deux-femmes_8133227.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Libération",
+          "take": "Met l'accent sur la dimension exceptionnelle de cette intervention conjointe, absente depuis 1998.",
+          "url": "https://www.liberation.fr/economie/pour-revaloriser-le-yen-les-etats-unis-et-le-japon-interviennent-pour-la-premiere-fois-en-28-ans-20260803_LG7H5NMYVRE3NJ5UESOD6T47CI/"
         }
       ],
       "id": 8,
@@ -257,20 +232,15 @@
     },
     {
       "themes": [
-        "Monde"
+        "Insolite"
       ],
-      "title": "La junte birmane diffuse des images d'Aung San Suu Kyi",
-      "full": "La junte militaire birmane a rendu publiques des photographies d'Aung San Suu Kyi, l'ancienne ministre déposée et emprisonnée depuis cinq ans, lors d'une rencontre avec un représentant du Comité international de la Croix-Rouge lundi à Naypyidaw. Son fils, Kim Aris, a qualifié cette divulgation de « première étape importante » et source d'espoir. Cette communication de la junte intervient dans un contexte de pression internationale sur le sort de la figure emblématique de l'opposition birmane.",
+      "title": "Le Hugo détrône l'Aperol Spritz aux États-Unis",
+      "full": "Les ventes de liqueur St-Germain ont augmenté de 40% en trois mois aux États-Unis, selon Slate. Le Hugo, cocktail à base de fleur de sureau, gagne en popularité auprès des consommateurs américains au détriment de l'Aperol Spritz, boisson phare des apéritifs européens.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Le fils d'Aung San Suu Kyi interprète la publication de ces images comme un signal positif et un progrès dans l'accès à sa mère détenue.",
-          "url": "https://www.liberation.fr/international/asie-pacifique/en-birmanie-la-junte-devoile-des-images-daung-san-suu-kyi-qui-donnent-de-lespoir-cest-une-premiere-etape-importante-20260803_UIMDGV7QKRBO7FVIZHISVXQF3A/"
-        },
-        {
-          "outlet": "Courrier International",
-          "take": "Ces informations figurent parmi les principaux événements internationaux de la nuit, aux côtés d'autres actualités majeures.",
-          "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-aung-san-suu-kyi-xenia-fedorova-et-boeing-737-max-les-informations-de-la-nuit_256084"
+          "outlet": "Slate",
+          "take": "Les ventes de St-Germain explosent outre-Atlantique alors que le Hugo remplace progressivement l'Aperol Spritz dans les tendances de consommation américaines.",
+          "url": "https://www.slate.fr/boire-manger/aperol-spritz-hugo-boissons-alcool-tendance-americains-usa-cocktails-ete-boom-ventes"
         }
       ],
       "id": 9,
@@ -278,21 +248,15 @@
     },
     {
       "themes": [
-        "France",
-        "Société"
+        "Insolite"
       ],
-      "title": "Enquête fragilise le récit policier dans la mort de Cheikh F.",
-      "full": "Cheikh F., 29 ans, a été tué par les tirs d'un policier municipal du Pontet (Vaucluse) dans la nuit du 14 au 15 juillet lors d'un refus d'obtempérer. Selon les révélations de Libération et Mediapart, l'enquête en cours établit que son véhicule était bloqué au moment des tirs et que la victime a été touchée dans le dos. Ces éléments contredisent les conditions habituellement invoquées pour justifier une légitime défense.",
+      "title": "Un blogueur promet d'installer la clim coûte que coûte",
+      "full": "Un contributeur de Slate affirme vouloir installer un climatiseur chez lui l'année prochaine, jugeant indispensable cette équipement face aux canicules récurrentes. Il justifie cette décision par des enjeux de santé physique et mentale, estimant vivre sans clim en période de fortes chaleurs relève d'une prise de risque excessive.",
       "angles": [
         {
-          "outlet": "L'Humanité",
-          "take": "Met l'accent sur la fragilisation du récit policier initial à mesure que l'enquête progresse et révèle des détails incompatibles avec la légitime défense invoquée.",
-          "url": "https://www.humanite.fr/societe/police-municipale/mort-de-cheikh-f-au-pontet-les-avancees-de-lenquete-fragilisent-le-recit-policier"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Souligne que les premiers éléments d'enquête (véhicule entravé, blessure au dos) rendent le fondement juridique de la légitime défense difficilement tenable.",
-          "url": "https://www.liberation.fr/societe/police-justice/mort-de-cheikh-f-tue-par-un-policier-municipal-du-vaucluse-la-legitime-defense-difficilement-compatible-avec-les-premiers-elements-de-lenquete-20260803_XJ5ICIOBLVDD3D3FDGKHQI67PI/"
+          "outlet": "Slate",
+          "take": "Le blogueur présente l'installation d'une climatisation comme une nécessité sanitaire face à la multiplication des épisodes caniculaires.",
+          "url": "https://www.slate.fr/societe/blog-sagalovitsch-installation-climatiseur-sante-mentale-physique-ete-canicule-environnement"
         }
       ],
       "id": 10,
@@ -300,20 +264,15 @@
     },
     {
       "themes": [
-        "Culture"
+        "Insolite"
       ],
-      "title": "Spider-Man établit un record de démarrage au box-office mondial",
-      "full": "Le film « Spider-Man : un jour nouveau » réalise le deuxième meilleur démarrage de l'histoire du cinéma avec 928 millions de dollars de recettes mondiales. Aux États-Unis seul, il enregistre 355 millions de dollars en un week-end, meilleur démarrage depuis la fin de la pandémie. En France, le film avec Tom Holland et Zendaya récolte 2 millions d'entrées en deux jours. Les critiques et spectateurs l'accueillent favorablement, avec 90 % d'approbation critique et 98 % d'avis positifs sur Rotten Tomatoes.",
+      "title": "Vol de plus de 200 carpes koï dans l'Oise",
+      "full": "Un cambriolage insolite a visé une pisciculture à Cauffry, dans l'Oise : 200 carpes koï ont été dérobées. Ces poissons, importés du Japon et destinés à la revente en France, représentent un préjudice estimé à plus de 80 000 euros. Le vol témoigne de la valeur marchande importante de ces espèces ornementales très prisées.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Souligne la position historique du film au box-office mondial et l'excellent accueil critique et public sur Rotten Tomatoes.",
-          "url": "https://www.franceinfo.fr/culture/cinema/spider-man-un-jour-nouveau-signe-le-deuxieme-meilleur-demarrage-de-l-histoire-du-box-office-avec-928-millions-de-dollars-de-recettes-mondiales_8132867.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Insiste sur le record de démarrage aux États-Unis depuis la pandémie et le succès commercial en France avec 2 millions d'entrées.",
-          "url": "https://www.liberation.fr/culture/cinema/box-office-spider-man-brand-new-day-realise-le-plus-gros-demarrage-depuis-la-pandemie-20260803_DVTOM65Q5VFEZES5SS6ZDCICVI/"
+          "take": "Le vol cible une pisciculture spécialisée dans des poissons d'exception sélectionnés au Japon, représentant un butin substantiel pour les voleurs.",
+          "url": "https://www.franceinfo.fr/faits-divers/un-trafiquant-il-sait-exactement-a-qui-il-va-les-ecouler-plus-de-200-carpes-koi-derobees-dans-l-oise-pour-un-prejudice-qui-depasse-les-80-000-euros_8133323.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 11,
@@ -323,83 +282,17 @@
       "themes": [
         "Insolite"
       ],
-      "title": "Le Hugo détrône l'Aperol Spritz aux États-Unis",
-      "full": "Les ventes de liqueur St-Germain ont augmenté de 40 % ces trois derniers mois aux États-Unis, portées par la popularité croissante du Hugo, un cocktail à base de fleur de sureau. Cette tendance marque un recul de l'Aperol Spritz, boisson phare des apéritifs estivaux, au profit de son concurrent sucré et floral.",
+      "title": "Roumanie : un ours surgit derrière un touriste distrait par son téléphone",
+      "full": "Un touriste en Roumanie a frôlé une mauvaise rencontre alors qu'il était concentré sur son téléphone au bord d'une route réputée. Un ours s'est approché à quelques mètres de lui sans qu'il ne s'en aperçoive, la scène ayant été capturée par un automobiliste de passage.",
       "angles": [
         {
-          "outlet": "Slate",
-          "take": "Les consommateurs américains abandonnent l'Aperol Spritz pour le Hugo, une tendance reflétée par l'explosion des ventes de St-Germain en trois mois.",
-          "url": "https://www.slate.fr/boire-manger/aperol-spritz-hugo-boissons-alcool-tendance-americains-usa-cocktails-ete-boom-ventes"
+          "outlet": "20 Minutes",
+          "take": "Le média souligne l'inattention du touriste, absorbé par son écran au moment où l'animal sauvage s'est présenté à proximité immédiate.",
+          "url": "https://www.20minutes.fr/arts-stars/insolite/4237593-20260803-roumanie-concentre-telephone-touriste-voit-ours-surgit-juste-derriere?at_medium=display&at_campaign=149"
         }
       ],
       "id": 12,
       "priority": 13
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Un blogueur promet d'installer la clim coûte que coûte",
-      "full": "Un contributeur de Slate annonce son intention d'installer un climatiseur chez lui l'année prochaine, déterminé à ne pas revivre un été aussi éprouvant. Il justifie cette décision par des enjeux de santé, tant physique que mentale, face à la multiplication des canicules. Le billet soulève implicitement la tension entre bien-être personnel et préoccupations environnementales.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "Un blogueur affirme que vivre sans climatisation durant les canicules devient intenable pour sa santé, au point de faire de l'installation un impératif pour l'année prochaine.",
-          "url": "https://www.slate.fr/societe/blog-sagalovitsch-installation-climatiseur-sante-mentale-physique-ete-canicule-environnement"
-        }
-      ],
-      "id": 13,
-      "priority": 14
-    },
-    {
-      "themes": [
-        "Insolite",
-        "Société"
-      ],
-      "title": "Plus de 200 carpes koï volées en Oise pour 80 000 euros",
-      "full": "Un vol spectaculaire de carpes koï a été commis dans une pisciculture de Cauffry, dans l'Oise. Les malfaiteurs ont dérobé plus de 200 poissons d'exception, sélectionnés au Japon et destinés à la revente en France. Le préjudice est estimé à plus de 80 000 euros, ce qui en fait un cambriolage rarissime visant des animaux d'ornement de grande valeur.",
-      "angles": [
-        {
-          "outlet": "France Info",
-          "take": "L'enquête soupçonne que le trafiquant avait déjà un acheteur identifié pour écouler rapidement cette marchandise de luxe très recherchée.",
-          "url": "https://www.franceinfo.fr/faits-divers/un-trafiquant-il-sait-exactement-a-qui-il-va-les-ecouler-plus-de-200-carpes-koi-derobees-dans-l-oise-pour-un-prejudice-qui-depasse-les-80-000-euros_8133323.html#xtor=RSS-3-%5Bgeneral%5D"
-        }
-      ],
-      "id": 14,
-      "priority": 15
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "En Roumanie, un touriste évite de justesse un ours en surfant sur son téléphone",
-      "full": "Un touriste s'est retrouvé à quelques mètres d'un ours en Roumanie, absorbé par son téléphone, sans s'apercevoir de la présence de l'animal qui surgissait derrière lui. La scène s'est déroulée près d'une route réputée dans le pays et a été capturée par un automobiliste passant par là. L'incident illustre les risques de distraction face à la faune locale dans les zones touristiques.",
-      "angles": [
-        {
-          "outlet": "20 Minutes",
-          "take": "Met l'accent sur le contraste entre l'inattention du touriste, plongé dans son téléphone, et le danger immédiat représenté par l'apparition soudaine de l'ours.",
-          "url": "https://www.20minutes.fr/arts-stars/insolite/4237593-20260803-roumanie-concentre-telephone-touriste-voit-ours-surgit-juste-derriere?at_medium=display&at_campaign=149"
-        }
-      ],
-      "id": 15,
-      "priority": 16
-    },
-    {
-      "themes": [
-        "Insolite",
-        "Tech & Sciences"
-      ],
-      "title": "Un ver survit à 3,6 km de profondeur en Afrique du Sud",
-      "full": "Des scientifiques ont découvert dans une mine d'or sud-africaine une espèce de nématode capable de vivre à une profondeur extrême, baptisée « Halicephalobus mephisto » ou « ver du diable ». Cet organisme prospère dans un environnement quasi dépourvu de lumière, d'oxygène et de ressources alimentaires conventionnelles, à une profondeur où l'on croyait toute vie impossible. Cette découverte remet en question notre compréhension des limites biologiques et élargit considérablement notre conception des écosystèmes.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "La survie de ce nématode dans des conditions d'extrême dénuement remet fondamentalement en cause les frontières du vivant telles qu'on les concevait.",
-          "url": "https://www.slate.fr/sciences/vie-profondeur-terre-mine-extremophile-ver-diable-nematode-bacterie-roche-faune-oxygene"
-        }
-      ],
-      "id": 16,
-      "priority": 17
     }
   ]
 }
