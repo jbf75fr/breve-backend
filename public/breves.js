@@ -1,27 +1,37 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-08-06T06:21:36.093321+00:00
+// 2026-08-07T04:03:20.648631+00:00
 const ARTICLES = [
   {
     "themes": [
-      "Monde"
+      "Sport"
     ],
-    "title": "L'Iran annonce un accord avec Oman sur le détroit d'Ormuz",
-    "full": "Téhéran a affirmé mercredi s'être mis d'accord avec Oman sur un nouvel itinéraire de transit des navires dans le détroit d'Ormuz. Les deux États riverains auraient approuvé les coordonnées géographiques du tracé envisagé. L'Iran précise cependant que la réouverture effective de cette voie maritime dépendra des actions de Washington, qui a imposé un blocus des ports iraniens en réponse au blocage iranien du détroit début juillet. Oman n'a pas encore confirmé publiquement cet accord.",
+    "title": "L'UEFA maintient son boycott de la Coupe du monde malgré le recul de la Fifa",
+    "full": "La confédération européenne de football poursuit son boycott des compétitions de la Fifa, notamment les Coupes du monde, malgré l'abandon par Gianni Infantino de son projet d'ouverture à des investisseurs privés. L'UEFA réclame des garanties que « de telles tentatives de défigurer le football » ne puissent « jamais se reproduire » et maintient sa défiance envers le président de la Fifa. La Fifa a reconnu des « erreurs » et présenté ses « excuses » pour cette initiative controversée.",
     "angles": [
       {
+        "outlet": "20 Minutes",
+        "take": "L'UEFA maintient la pression sur Infantino en refusant de lever son boycott tant que sa confiance n'est pas restaurée.",
+        "url": "https://www.20minutes.fr/sport/football/4238121-20260806-crise-fifa-uefa-continue-boycotter-coupe-monde-infantino-toujours-sous-pression?at_medium=display&at_campaign=149"
+      },
+      {
         "outlet": "France 24",
-        "take": "Téhéran présente l'accord comme conditionné par la levée du blocus américain contre ses ports.",
-        "url": "https://www.france24.com/fr/moyen-orient/20260805-moyen-orient-iran-detroit-ormuz-accord-oman-nouvel-itineraire-transit-etats-unis"
+        "take": "L'UEFA conditionne la fin de son boycott à des assurances structurelles empêchant de futures tentatives de commercialisation.",
+        "url": "https://www.france24.com/fr/sports/20260806-crise-fifa-uefa-poursuit-fronde-contre-infantino-boycotte-toujours-coupes-du-monde"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Le boycott persistant de l'UEFA est une réaction au projet de monétisation de la Coupe du monde porté par Infantino.",
+        "url": "https://www.liberation.fr/sports/football/crise-a-la-fifa-luefa-maintient-son-boycott-des-coupes-du-monde-20260806_X4AROCYRGNC5FHDK45VCYSYNJU/"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Bien que la Fifa présente ses excuses et reconnaisse ses erreurs, l'UEFA refuse de lever son boycott.",
+        "url": "https://www.franceinfo.fr/sports/foot/giovanni-infantino/la-fifa-presente-ses-excuses-apres-son-projet-polemique-d-investisseurs-prives_8137439.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Le Monde",
-        "take": "Les représentants d'Oman n'ont pas encore formellement confirmé l'accord annoncé par l'Iran.",
-        "url": "https://www.lemonde.fr/international/article/2026/08/05/l-iran-dit-avoir-trouve-un-accord-avec-oman-sur-un-nouveau-trace-dans-le-detroit-d-ormuz_6739360_3211.html"
-      },
-      {
-        "outlet": "Courrier International",
-        "take": "Selon la presse américaine, le nouvel itinéraire consacrerait le contrôle exercé par l'Iran sur le détroit.",
-        "url": "https://www.courrierinternational.com/article/moyen-orient-l-iran-dit-avoir-trouve-un-accord-avec-oman-pour-rouvrir-le-detroit-d-ormuz_256644"
+        "take": "La Confédération sud-américaine de football exprime également sa préoccupation face aux actions unilatérales répétées de la Fifa.",
+        "url": "https://www.lemonde.fr/sport/article/2026/08/06/malgre-le-recul-de-gianni-infantino-sur-son-projet-d-ouverture-aux-investisseurs-prives-l-uefa-maintient-son-boycott-des-coupes-du-monde-de-la-fifa_6739967_3242.html"
       }
     ],
     "id": 0,
@@ -29,35 +39,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "France"
     ],
-    "title": "Un drone explosif découvert à l'aéroport de Leipzig en Allemagne",
-    "full": "Un drone équipé d'un engin explosif a été découvert mardi soir à l'aéroport de Leipzig, hub logistique stratégique pour l'Otan et l'acheminement de matériel vers l'Ukraine. L'appareil n'a pas explosé en raison d'un dysfonctionnement technique. Le trafic aérien a été interrompu pendant deux heures après qu'un avion-cargo ukrainien aurait heurté l'objet lors de sa remise en altitude. Le gouvernement allemand a qualifié cet incident de « très grave » et le ministre de l'Intérieur a souligné que le drone n'était pas l'œuvre d'amateurs.",
+    "title": "Présidentielle 2027 : trois candidats visés par des campagnes russes",
+    "full": "Raphaël Glucksmann, Gabriel Attal et Édouard Philippe ont été la cible ces derniers jours de campagnes de désinformation attribuées aux services russes, notamment sur les réseaux sociaux. Le groupe russe Storm-1516 est responsable de ces opérations, dont les contenus restent pour l'instant peu impactants sur le débat public. Le gouvernement entend faire adopter un projet de loi à l'automne pour renforcer la dissuasion face à ces ingérences, un texte déjà déposé au Sénat en juillet.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Souligne l'importance stratégique de Leipzig comme point d'appui logistique de l'Otan pour les livraisons vers l'Ukraine.",
-        "url": "https://www.20minutes.fr/monde/ukraine/4237958-20260805-allemagne-sait-drone-explosif-touche-avion-leipzig-hub-strategique-otan-ukraine?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Souligne que malgré l'inquiétude affichée par les candidats, les actes de désinformation restent peu crédibles et sans grand impact sur le débat politique.",
+        "url": "https://www.lemonde.fr/politique/article/2026/08/07/presidentielle-2027-glucksmann-attal-philippe-les-ingerences-russes-s-invitent-dans-la-campagne_6740451_823448.html"
       },
       {
         "outlet": "Libération",
-        "take": "Met l'accent sur la qualification officielle du gouvernement allemand qui parle d'un « événement de sécurité très grave ».",
-        "url": "https://www.liberation.fr/international/allemagne-un-drone-charge-dun-engin-explosif-decouvert-a-laeroport-de-leipzig-hub-strategique-pour-lukraine-20260805_PQIQZ3BKXFCKZEHKWJ3MPURBJE/"
+        "take": "Rapporte qu'une enquête a été ouverte suite à la manipulation visant Glucksmann et note les craintes transversales à gauche comme à droite.",
+        "url": "https://www.liberation.fr/politique/philippe-attal-et-glucksmann-cibles-par-des-ingerences-russes0160-la-campagne-presidentielle-dans-les-enfumages-du-kremlin-20260805_PGG5P5HT2FBJ3NP7OEHHYLOL74/"
       },
       {
-        "outlet": "Le Figaro International",
-        "take": "Insiste sur le caractère professionnel de l'attaque selon le ministre allemand et le rôle croissant de Leipzig dans le transport militaire européen.",
-        "url": "https://www.lefigaro.fr/international/allemagne-une-catastrophe-evitee-de-justesse-apres-la-decouverte-d-un-drone-barde-d-explosifs-a-l-aeroport-de-leipzig-20260805"
-      },
-      {
-        "outlet": "Mediapart",
-        "take": "Cadre l'incident comme révélateur d'une « nouvelle dimension de menace » pour l'Allemagne.",
-        "url": "https://www.mediapart.fr/journal/international/060826/drone-explosif-leipzig-l-allemagne-alerte-sur-une-nouvelle-dimension-de-menace"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Rapporte que l'avion aurait apparemment heurté l'objet volant au moment de sa remise en altitude.",
-        "url": "https://www.lemonde.fr/international/article/2026/08/05/en-allemagne-le-trafic-a-l-aeroport-de-leipzig-temporairement-interrompu-en-raison-d-un-objet-volant-non-identifie_6739411_3210.html"
+        "outlet": "L'Humanité",
+        "take": "Contextualise en rappelant que des candidats insoumis avaient déjà été visés par des opérations similaires venues d'Israël lors des municipales.",
+        "url": "https://www.humanite.fr/politique/edouard-philippe/presidentielle-2027-gabriel-attal-raphael-glucksmann-et-edouard-philippe-vises-par-des-tentatives-de-destabilisation-russes"
       }
     ],
     "id": 1,
@@ -65,30 +65,35 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Monde"
     ],
-    "title": "Trois candidats à la présidentielle visés par des campagnes de désinformation russes",
-    "full": "Édouard Philippe, Raphaël Glucksmann et Gabriel Attal ont été les cibles ces derniers jours de campagnes de désinformation attribuées aux services russes, selon plusieurs sources. Ces opérations, menées via des réseaux de diffusion de fausses informations en ligne, interviennent à quelques mois de la présidentielle française de 2027. Un projet de loi visant à renforcer les mesures contre ces ingérences a été déposé au Sénat en juillet.",
+    "title": "Le Venezuela amorce un dialogue entre pouvoir et opposition",
+    "full": "Des délégations du gouvernement vénézuélien et de l'opposition se sont rencontrées jeudi à Caracas pour initier des pourparlers sous médiation américaine. Ces discussions interviennent sept mois après l'arrestation du président Nicolas Maduro par les autorités américaines. Les négociations, qui ne visent pas directement la cheffe de l'opposition Maria Corina Machado restée en exil, portent sur une possible transition politique, des élections futures et la gestion des conséquences du séisme de juin.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Gabriel Attal, candidat et patron de Renaissance, aurait été victime d'une opération attribuée avec confiance élevée au réseau prorusse Matriochka.",
-        "url": "https://www.20minutes.fr/politique/4237994-20260805-apres-glucksmann-philippe-attal-cible-tentative-destabilisation-venue-russie?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "La rencontre s'est déroulée sur une base militaire américaine sans communication publique officielle des parties.",
+        "url": "https://www.franceinfo.fr/monde/venezuela/au-venezuela-des-delegations-de-l-opposition-et-du-pouvoir-initient-un-dialogue-sous-la-houlette-des-etats-unis_8137751.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "Courrier International",
-        "take": "Plusieurs personnalités politiques en lice pour 2027 ont récemment subi des campagnes de désinformation émanant des services russes, rapporte la presse internationale.",
-        "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-desinformation-les-services-russes-ont-la-presidentielle-francaise-en-ligne-de-mire_256522"
+        "outlet": "Le Monde",
+        "take": "Ces pourparlers pourraient aboutir à une transition politique et à l'organisation d'élections.",
+        "url": "https://www.lemonde.fr/international/article/2026/08/07/au-venezuela-debut-des-pourparlers-entre-pouvoir-et-opposition-qui-pourraient-deboucher-sur-une-transition-politique-et-des-elections_6740279_3210.html"
       },
       {
         "outlet": "Libération",
-        "take": "Les trois candidats ont été victimes d'opérations russes sur les réseaux sociaux, une menace qui suscite l'inquiétude à gauche comme à droite.",
-        "url": "https://www.liberation.fr/politique/philippe-attal-et-glucksmann-cibles-par-des-ingerences-russes0160-la-campagne-presidentielle-dans-les-enfumages-du-kremlin-20260805_PGG5P5HT2FBJ3NP7OEHHYLOL74/"
+        "take": "Washington pousse Caracas à négocier une transition, alors que la gestion de la catastrophe sismique a accentué la défiance populaire envers le pouvoir.",
+        "url": "https://www.liberation.fr/international/amerique/venezuela-entre-pouvoir-et-opposition-un-timide-debut-de-discussion-20260806_3S64MXO76RBK3G6CFOZYPVGNI4/"
+      },
+      {
+        "outlet": "L'Humanité",
+        "take": "L'administration Trump a orchestré le retour de Dinorah Figuera pour diriger les négociations sans consultation préalable du reste de l'opposition.",
+        "url": "https://www.humanite.fr/monde/etats-unis/a-travers-dinorah-figuera-les-etats-unis-a-la-manoeuvre-de-la-transition-politique-au-venezuela"
       },
       {
         "outlet": "France 24",
-        "take": "Ces ingérences russes soulèvent des questions sur le rôle des plateformes comme X, tandis que d'autres puissances, dont l'administration américaine, pratiquent également des ingérences électorales.",
-        "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260806-ing%C3%A9rences-%C3%A9trang%C3%A8res-faut-il-interdire-la-plateforme-x"
+        "take": "Les discussions doivent aussi aborder la réponse aux dégâts du séisme de juin et une éventuelle transition démocratique.",
+        "url": "https://www.france24.com/fr/am%C3%A9riques/20260806-venezuela-debut-dialogue-pouvoir-opposition-transition-dinorah-figuera-jorge-rodriguez"
       }
     ],
     "id": 2,
@@ -96,30 +101,35 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Sport"
     ],
-    "title": "Abdul El-Sayed remporte la primaire sénatoriale du Michigan",
-    "full": "Le médecin progressiste Abdul El-Sayed a remporté mardi 4 août la primaire démocrate pour le Sénat américain dans le Michigan, face à une rivale centriste. Soutenu par Bernie Sanders et Alexandria Ocasio-Cortez, il affrontera un candidat républicain en novembre lors des élections de mi-mandat. Ce scrutin s'inscrit dans un mouvement plus large de candidats de gauche débordant l'establishment démocrate aux primaires, alimenté par le rejet du parti traditionnel après la défaite présidentielle de 2024.",
+    "title": "Kim Le Court remporte la 6e étape du Tour de France femmes",
+    "full": "La Mauricienne Kim Le Court a remporté jeudi au sprint la sixième étape du Tour de France Femmes entre Montbrisson et Tournon-sur-Rhône, devançant la Française Cédrine Kerbaol. Marlen Reusser conserve le maillot jaune. Cette victoire constitue le deuxième succès de Le Court sur la Grande Boucle, à la veille de l'étape reine du Mont Ventoux.",
     "angles": [
       {
-        "outlet": "L'Humanité",
-        "take": "Présente la victoire comme un épisode de la révolte de la base démocrate contre une direction jugée discréditée.",
-        "url": "https://www.humanite.fr/monde/bernie-sanders/victoire-dabdul-el-sayed-dans-le-michigan-face-a-lestablishment-democrate-la-nouvelle-voie-des-insurges"
-      },
-      {
-        "outlet": "Mediapart",
-        "take": "Souligne le renforcement des positions de la gauche progressiste avant les midterms, mentionnant aussi la victoire d'un autre candidat climatique.",
-        "url": "https://www.mediapart.fr/journal/international/050826/dans-le-michigan-la-gauche-progressiste-renforce-ses-positions-avant-les-midterms"
+        "outlet": "France Info",
+        "take": "Kim Le Court a remporté un sprint à huit coureurs en Ardèche.",
+        "url": "https://www.franceinfo.fr/tour-de-france/femmes/la-mauricienne-kim-le-court-pienaar-remporte-la-6e-etape-du-tour-de-france-femmes-en-reglant-le-sprint-de-l-echappee-marlen-reusser-toujours-en-jaune_8136980.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "20 Minutes",
-        "take": "Identifie El-Sayed comme un médecin progressiste et note que sa campagne a été marquée par les divisions démocrates sur Israël.",
-        "url": "https://www.20minutes.fr/monde/etats-unis/4237990-20260805-etats-unis-abdul-el-sayed-medecin-progressiste-victorieux-michigan?at_medium=display&at_campaign=149"
+        "take": "Cédrine Kerbaol a frôlé la victoire lors d'une étape où Marlen Reusser a conservé son leadership.",
+        "url": "https://www.20minutes.fr/sport/cyclisme/tour-france-femmes/4238047-20260806-direct-tour-france-femmes-marlen-reusser-resistera-encore-fois-demi-vollering-suivez-6e-etape?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Le Figaro International",
-        "take": "Analyse cette vague de candidats très à gauche comme porteuse de risques électoraux pour les démocrates malgré l'impopularité de Trump.",
-        "url": "https://www.lefigaro.fr/international/les-caciques-centristes-du-parti-democrate-debordes-dans-les-primaires-par-la-gauche-radicale-20260805"
+        "outlet": "France 24",
+        "take": "L'étape s'est déroulée dans des conditions chaotiques malgré une chute de la gagnante.",
+        "url": "https://www.france24.com/fr/sports/20260806-tour-de-france-femmes-la-mauricienne-kim-le-court-remporte-la-6e-%C3%A9tape"
+      },
+      {
+        "outlet": "L'Humanité",
+        "take": "Les trois premières du classement se sont préservées en amont de l'étape décisive du Ventoux prévue vendredi.",
+        "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-femmes-2026-le-court-remporte-la-sixieme-etape-devant-kerbaol"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Kim Le Court, ancienne leader du classement général, signe son deuxième succès depuis l'édition précédente.",
+        "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-femmes-victoire-de-kim-le-court-marlen-reusser-reste-maillot-jaune-20260806_PJV7ZGZB4RH5RMFBOKWA6ISTMY/"
       }
     ],
     "id": 3,
@@ -127,26 +137,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Tech & Sciences",
-      "Monde"
+      "Société"
     ],
-    "title": "Un étage de fusée SpaceX s'écrase sur la Lune",
-    "full": "L'étage supérieur d'une fusée Falcon 9 de SpaceX lancée en janvier 2025 s'est écrasé sur la Lune mercredi matin à environ 8 h 35, formant un cratère d'une trentaine de mètres. L'impact, détecté par un télescope au Chili, était attendu par les scientifiques. Cet événement offre une opportunité rare d'étudier la formation des cratères lunaires et d'affiner la compréhension du satellite. Il soulève aussi des questions sur l'absence de cadre international coordonnant les activités susceptibles de modifier l'environnement lunaire.",
+    "title": "Un deuxième chef présumé de la DZ Mafia arrêté en Algérie",
+    "full": "Les autorités algériennes ont interpellé début août Rachid Djeha, considéré comme l'un des parrains du narcotrafic à la Castellane, quartier de Marseille. Cette arrestation, annoncée par le garde des Sceaux Gérald Darmanin, intervient après celle de Mehdi Laribi, cofondateur du réseau criminaliste DZ Mafia, interpellé en juillet en Algérie. Ces opérations reflètent une coopération accrue entre les autorités françaises et algériennes contre le trafic de drogue.",
     "angles": [
       {
         "outlet": "France 24",
-        "take": "L'impact, bien que limité en ampleur, constitue une aubaine pour les connaissances scientifiques et s'inscrit dans les ambitions lunaires américaines.",
-        "url": "https://www.france24.com/fr/%C3%A9co-tech/20260805-crash-d%C3%A9bris-fus%C3%A9e-spacex-lune-petit-impact-grandes-ambitions"
+        "take": "Rachid Djeha est un trafiquant marseillais considéré comme l'un des parrains du réseau de la Castellane, suivant l'arrestation du cofondateur Mehdi Laribi.",
+        "url": "https://www.france24.com/fr/france/20260806-dz-mafia-nouveau-cadre-pr%C3%A9sum%C3%A9-narcotrafic-france-arr%C3%AAt%C3%A9-alg%C3%A9rie-rachid-djeha"
       },
       {
-        "outlet": "Numerama",
-        "take": "Le crash met en lumière le vide juridique international concernant la régulation des activités lunaires et la nécessité d'un registre comparé à ceux de l'aviation.",
-        "url": "https://www.numerama.com/sciences/2306887-crash-a-8-700-km-h-quand-un-accident-sur-la-lune-devient-une-aubaine-scientifique-et-questionne-le-droit.html"
+        "outlet": "20 Minutes",
+        "take": "Cette deuxième interpellation confirme le démantèlement progressif de l'organisation DZ Mafia par les autorités algériennes.",
+        "url": "https://www.20minutes.fr/faits_divers/4238135-20260806-narcotrafic-autorites-algeriennes-interpellent-deuxieme-cadre-dz-mafia?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "France Info",
-        "take": "Les agences spatiales prévoient de documenter le cratère nouvellement formé dans les prochains jours.",
-        "url": "https://www.franceinfo.fr/sciences/espace/l-etage-superieur-d-une-fusee-spacex-s-est-ecrase-sur-la-lune-comme-prevu-par-les-scientifiques_8136731.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Le Monde",
+        "take": "Rachid Djeha dirigeait l'un des réseaux les plus rentables de Marseille, disposant de deux points de deals à la Castellane.",
+        "url": "https://www.lemonde.fr/societe/article/2026/08/06/dz-mafia-un-nouveau-cadre-presume-du-groupe-criminel-marseillais-interpelle-et-place-sous-controle-judiciaire-en-algerie_6740081_3224.html"
       }
     ],
     "id": 4,
@@ -154,25 +163,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Monde"
     ],
-    "title": "Vollering remporte la 5e étape, Ferrand-Prévôt abandonne ses ambitions",
-    "full": "La Néerlandaise Demi Vollering s'est imposée mercredi lors de la cinquième étape du Tour de France femmes à Belleville-en-Beaujolais. Pauline Ferrand-Prévôt, tenante du titre française, a été lâchée par ses rivales à 30 kilomètres de l'arrivée et a perdu plus de deux minutes et demie, compromettant définitivement ses chances de réaliser un doublé. La Suissesse Marlen Reusser, deuxième du jour, conserve le maillot jaune.",
+    "title": "Trump signe un décret contre le « tourisme des naissances »",
+    "full": "Le président américain Donald Trump a signé jeudi un décret visant à empêcher les étrangères d'accoucher aux États-Unis pour obtenir la nationalité américaine à leur enfant. Cette nouvelle mesure intervient un mois après l'annulation par la Cour suprême d'une première tentative du gouvernement sur le même sujet. Trump cherche ainsi à contourner le droit du sol, qui accorde automatiquement la nationalité américaine à tout enfant né sur le territoire.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Vollering a dominé au sprint ses rivales Ruesser et Niewiadoma après les avoir lâchées dans les difficultés.",
-        "url": "https://www.franceinfo.fr/tour-de-france/femmes/demi-vollering-remporte-la-5e-etape-du-tour-de-france-femmes-en-reglant-le-groupe-des-favorites-pauline-ferrand-prevot-dit-adieu-a-son-reve-d-un-second-sacre_8136182.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Libération",
-        "take": "L'étape vallonnée du Beaujolais a permis à Vollering de faire jeu égal avec Ferrand-Prévôt, qui s'effondre.",
-        "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-dans-le-beaujolais-pauline-ferrand-prevot-prend-un-coup-sur-la-carafe-20260805_MUHARITVURESDD2EEPWHXMM36E/"
-      },
-      {
         "outlet": "France 24",
-        "take": "Reusser garde le leadership au classement général malgré la victoire de Vollering.",
-        "url": "https://www.france24.com/fr/sports/20260805-tour-de-france-femmes-vollering-remporte-cinqui%C3%A8me-%C3%A9tape-ferrand-pr%C3%A9vot-perd-chance-doubl%C3%A9"
+        "take": "Met l'accent sur le renouvellement de l'offensive après un revers juridique récent devant la Cour suprême.",
+        "url": "https://www.france24.com/fr/am%C3%A9riques/20260806-etats-unis-tourisme-des-naissances-donald-trump-tente-contester-droit-du-sol-nationalite-americaine"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Souligne que Trump poursuit une lutte contre la pratique du « tourisme des naissances » déjà contestée par la justice.",
+        "url": "https://www.lemonde.fr/international/article/2026/08/06/etats-unis-donald-trump-prend-un-decret-cense-empecher-le-tourisme-des-naissances-et-contester-le-droit-du-sol_6740246_3210.html"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Rapproche cette mesure d'une extension du contrôle des réseaux sociaux pour les demandeurs de visas annoncée le même jour.",
+        "url": "https://www.20minutes.fr/monde/etats-unis/4238138-20260806-etats-unis-trump-etend-controle-reseaux-sociaux-demandeurs-visas-menace-droit-sol?at_medium=display&at_campaign=149"
       }
     ],
     "id": 5,
@@ -182,23 +191,28 @@ const ARTICLES = [
     "themes": [
       "Société"
     ],
-    "title": "Un fondateur présumé de la DZ Mafia arrêté en Algérie",
-    "full": "Mehdi Laribi, présenté comme l'un des fondateurs de la DZ Mafia, a été interpellé en Algérie fin juillet sur exécution d'un mandat d'arrêt français. Connu sous le surnom de « Tic », le suspect de 36 ans a été placé sous contrôle judiciaire le 21 juillet, selon le procureur de Marseille. Son arrestation intervient dans le cadre de l'enquête « Octopus » menée par les juges d'instruction marseillais contre cette organisation criminelle impliquée dans le narcotrafic.",
+    "title": "Le FLNC-UC menace les non-Corses, le parquet antiterroriste enquête",
+    "full": "Le Parquet national antiterroriste a ouvert une enquête après des menaces formulées par le Front de libération nationale corse-Union des combattants (FLNC-UC) contre les non-Corses s'installant sur l'île. Le groupuscule indépendantiste a déclaré « restez chez vous » à l'adresse des non-Corses, dénonçant l'arrivée annuelle d'environ 5 000 étrangers et Français de métropole. L'enquête porte notamment sur une possible « association de malfaiteurs en vue de la préparation d'actes de terrorisme » ainsi que sur la détention d'armes en relation avec une entreprise terroriste. Cette action intervient après le rejet du processus d'autonomie pour la Corse approuvé en juin par l'Assemblée nationale.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Mehdi Laribi a été interpellé fin juillet puis placé sous contrôle judiciaire, ce qui a été confirmé le 5 août.",
-        "url": "https://www.franceinfo.fr/societe/justice/l-un-des-fondateurs-presumes-de-la-dz-mafia-arrete-en-algerie_8135537.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Le FLNC-UC a adressé directement un ultimatum aux non-Corses via un message public.",
+        "url": "https://www.franceinfo.fr/france/corse/le-parquet-national-antiterroriste-ouvre-une-enquete-apres-des-menaces-formulees-par-le-flnc-uc-contre-les-etrangers-y-compris-les-francais-non-corses_8136869.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "Mediapart",
+        "take": "Le groupe conteste le processus d'autonomie en le qualifiant de « mascarade » et cible l'immigration de métropole vers la Corse.",
+        "url": "https://www.mediapart.fr/journal/france/060826/corse-le-flnc-uc-menace-les-non-corses-venant-vivre-sur-l-ile-l-antiterrorisme-saisi"
       },
       {
         "outlet": "Le Monde",
-        "take": "Le suspect, surnommé « Tic », a été arrêté à la suite d'un mandat français et placé sous contrôle judiciaire le 21 juillet.",
-        "url": "https://www.lemonde.fr/societe/article/2026/08/05/mehdi-laribi-presente-comme-un-cadre-de-la-dz-mafia-a-ete-arrete-en-algerie-sur-execution-d-un-mandat-d-arret-francais-a-la-fin-du-mois-de-juillet_6739406_3224.html"
+        "take": "L'enquête préliminaire inclut des investigations sur la possession d'armes de catégorie A et B liées à une entreprise terroriste.",
+        "url": "https://www.lemonde.fr/societe/article/2026/08/06/menaces-du-flnc-contre-les-non-corses-le-parquet-national-antiterroriste-annonce-l-ouverture-d-une-enquete_6739831_3224.html"
       },
       {
-        "outlet": "France 24",
-        "take": "L'interpellation s'inscrit dans l'exécution d'un mandat d'arrêt français visant un chef de l'une des principales organisations criminelles marseillaises.",
-        "url": "https://www.france24.com/fr/france/20260805-narcotrafic-chef-pr%C3%A9sum%C3%A9-dz-mafia-interpell%C3%A9-fin-juillet-alg%C3%A9rie-marseille-mehdi-laribi"
+        "outlet": "Libération",
+        "take": "Un sociologue analyse cette prise de position comme un raidissement violent contre le projet d'autonomie examiné au Parlement.",
+        "url": "https://www.liberation.fr/politique/front-de-liberation-nationale-corse-arme-et-cagoule-une-conference-de-presse-clandestine-ne-suffit-pas-a-faire-une-force-politique-20260806_72FGR34RI5A7TOSYRTF77WROPA/"
       }
     ],
     "id": 6,
@@ -208,23 +222,23 @@ const ARTICLES = [
     "themes": [
       "Monde"
     ],
-    "title": "Quatre hommes poignardés à Londres, une femme interpellée",
-    "full": "Quatre hommes âgés de 34 à 52 ans ont été poignardés mercredi 5 août en début d'après-midi à Covent Garden, dans le centre de Londres. Une femme de 47 ans a été interpellée sur les lieux. Selon la police londonienne, l'incident serait lié à des problèmes de santé mentale de la suspecte.",
+    "title": "Iran et Oman négocient la réouverture du détroit d'Ormuz",
+    "full": "L'Iran et Oman auraient convenu d'un accord pour rétablir le transit des navires dans le détroit d'Ormuz, l'une des routes maritimes majeures du commerce mondial. Depuis le début de la guerre au Moyen-Orient, Téhéran bloque le passage des navires dans ce détroit par lequel transitent environ un cinquième du gaz et du pétrole mondiaux, ce qui a entraîné une hausse des prix. L'Iran prévoit d'instaurer un droit de passage inexistant avant la crise. L'accord reste conditionné à l'absence d'intervention de « tiers », allusion directe aux États-Unis qui n'ont pas participé aux négociations.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "L'attaque s'est déroulée dans un quartier touristique très fréquenté, à proximité de nombreux théâtres.",
-        "url": "https://www.lemonde.fr/international/article/2026/08/05/londres-quatre-hommes-poignardes-a-covent-garden-une-femme-arretee_6739434_3210.html"
+        "outlet": "Le Figaro International",
+        "take": "L'Iran cherche à contourner Washington en négociant directement avec Oman, mais son intention de prélever un droit de passage inédit constitue un précédent dangereux.",
+        "url": "https://www.lefigaro.fr/international/contournant-les-etats-unis-l-iran-negocie-la-reouverture-du-detroit-d-ormuz-avec-oman-20260806"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "La suspecte serait une sans-abri souffrant de troubles mentaux selon les autorités.",
-        "url": "https://www.20minutes.fr/monde/4237963-20260805-royaume-uni-moins-quatre-hommes-poignardes-centre-londres-femme-arretee?at_medium=display&at_campaign=149"
+        "outlet": "France 24",
+        "take": "La réouverture du détroit pourrait servir les intérêts de l'administration Trump en stabilisant les prix du pétrole.",
+        "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260806-d%C3%A9troit-d-ormuz-accord-entre-iran-et-oman-une-%C3%A9ventuelle-r%C3%A9ouverture-pourrait-arranger-trump"
       },
       {
-        "outlet": "France Info",
-        "take": "Une paire de ciseaux a été découverte sur les lieux de l'incident.",
-        "url": "https://www.franceinfo.fr/monde/royaume-uni/une-attaque-a-l-arme-blanche-dans-le-centre-de-londres-fait-quatre-blesses-une-femme-interpellee_8136023.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Mediapart",
+        "take": "Bien que l'accord soit annoncé avec Oman, sa concrétisation dépendra ultimement de la position de Washington.",
+        "url": "https://www.mediapart.fr/journal/international/060826/l-iran-dit-s-etre-accorde-avec-oman-sur-ormuz-mais-la-reouverture-dependra-de-washington"
       }
     ],
     "id": 7,
@@ -232,30 +246,26 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "France",
+      "Environnement"
     ],
-    "title": "Deux streameurs condamnés pour violences en ligne",
-    "full": "Le tribunal correctionnel de Nice a condamné mercredi Owen Cenazandotti (alias Naruto) et Safine Hamadi à de la prison avec sursis, une amende et six mois d'interdiction d'exercer sur les réseaux sociaux pour violences et humiliations en ligne. Ces faits se sont déroulés sur une chaîne de streaming et ont visé plusieurs personnes, dont Jean Pormanove, décédé en direct en août 2025. Le procès portait sur les violences en ligne et non sur les causes du décès, dont l'enquête a été classée sans suite en février.",
+    "title": "Un incendie de 100 hectares maîtrisé dans l'Aude",
+    "full": "Un feu de végétation s'est déclaré jeudi 6 août dans le massif des Corbières, en Aude, suite à un accident de voiture. Environ 250 pompiers ont été mobilisés pour combattre les flammes, attisées par une tramontane à 30 km/h. L'incendie a parcouru 100 hectares avant d'être fixé en fin de journée. La préfecture avait invité les habitants du secteur à se confiner par mesure de précaution. Dans le Var voisin, sept massifs forestiers ont été fermés à l'accès vendredi en raison de risques d'incendie jugés extrêmes.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "Le jugement s'inscrit dans une tension entre les regrets exprimés par les accusés et leur aveuglement présumé face aux violences qu'ils ont commises.",
-        "url": "https://www.lemonde.fr/societe/article/2026/08/05/affaire-jean-pormanove-apres-un-proces-entre-regret-et-aveuglement-face-aux-violences-en-ligne-les-deux-streameurs-condamnes_6739446_3224.html"
+        "take": "Met l'accent sur la situation dans le Var avec des fermetures de massifs forestiers face à des risques très sévères.",
+        "url": "https://www.lemonde.fr/planete/live/2026/08/07/en-direct-incendies-dans-l-aude-le-feu-signale-a-montseret-est-fixe_6737310_3244.html"
       },
       {
-        "outlet": "Mediapart",
-        "take": "Les deux influenceurs sont spécifiquement bannis de la plateforme de streaming Kick pour six mois.",
-        "url": "https://www.mediapart.fr/journal/france/050826/affaire-jean-pormanove-prison-avec-sursis-pour-les-influenceurs-naruto-et-safine-bannis-six-mois-de-kick"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "L'enquête sur les circonstances du décès de Pormanove a été classée sans suite, distinguant clairement la responsabilité pénale pour violences de celle concernant le décès.",
-        "url": "https://www.humanite.fr/societe/cyberharcelement/affaire-pormanove-les-streamers-naruto-et-safine-condamnes-a-de-la-prison-avec-sursis-et-six-mois-de-bannissement-numerique"
+        "outlet": "Libération",
+        "take": "Souligne que l'incendie des Corbières a une évolution jugée favorable et précise l'origine accidentelle du feu.",
+        "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-8-departements-en-vigilance-orange-canicule-journee-a-tres-haut-risque-dans-le-var-20260806_O6EWLDOYLJCUXLJYRHFJUJBXA4/"
       },
       {
         "outlet": "France Info",
-        "take": "La peine principale consiste en une interdiction d'exercer une activité sur les réseaux sociaux pendant six mois.",
-        "url": "https://www.franceinfo.fr/faits-divers/justice-proces/les-streameurs-naruto-et-safine-condamnes-a-des-peines-de-prison-avec-sursis-pour-des-violences-sur-jean-pormanove-mort-lors-d-une-diffusion-en-ligne_8135882.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Détaille la mobilisation imposante des pompiers et la rapidité de progression des flammes due aux conditions météorologiques.",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/un-nouvel-incendie-s-est-declare-dans-l-aude-250-pompiers-mobilises_8137616.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 8,
@@ -265,28 +275,23 @@ const ARTICLES = [
     "themes": [
       "Monde"
     ],
-    "title": "Le volcan Fuego au Guatemala entre en éruption puis se calme",
-    "full": "Le Fuego, le volcan le plus actif d'Amérique centrale, est entré en phase éruptive lundi au Guatemala. Environ 1 700 personnes ont été évacuées des zones proches, situées à une trentaine de kilomètres de la capitale. L'activité volcanique a retrouvé des niveaux normaux dès mercredi, permettant aux habitants de regagner progressivement leurs foyers. Aucune victime n'a été signalée.",
+    "title": "Yémen : au moins 58 morts dans des attaques houthies",
+    "full": "Les rebelles houthis du Yémen ont revendiqué jeudi des attaques contre les forces gouvernementales qui ont fait au moins 58 morts, selon plusieurs agences de presse. Le mouvement pro-iranien présente ces opérations comme une réaction au renforcement récent des troupes yéménites appuyées par l'Arabie saoudite. Des tirs des Houthis ont également blessé 11 civils jeudi soir dans le sud du territoire saoudien. Ce bilan représente l'escalade la plus meurtrière depuis la trêve conclue en 2022 entre les deux camps.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Insiste sur l'exposition directe de quelque 29 000 personnes aux retombées de cendres et la nécessité d'une évacuation.",
-        "url": "https://www.lemonde.fr/international/video/2026/08/05/guatemala-les-images-de-l-eruption-du-volcan-fuego_6739412_3210.html"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "Met l'accent sur la proximité du volcan avec Guatemala City, la capitale du pays.",
-        "url": "https://www.20minutes.fr/planete/diaporama-4237949-photos-guatemala-impressionnant-reveil-volcan-el-fuego?at_medium=display&at_campaign=149"
-      },
-      {
-        "outlet": "Courrier International",
-        "take": "Souligne le déclenchement de l'alerte maximale dans plusieurs départements en réponse à cette nouvelle phase éruptive.",
-        "url": "https://www.courrierinternational.com/article/amerique-centrale-l-eruption-du-volcan-de-fuego-met-le-guatemala-en-etat-d-alerte_256552"
-      },
-      {
         "outlet": "France 24",
-        "take": "Rapporte la fin rapide de la crise et le retour des évacués, avec un appel des autorités à maintenir la vigilance.",
-        "url": "https://www.france24.com/fr/am%C3%A9riques/20260805-guatemala-fin-eruption-volcan-fuego-evacues-rentrent-chez-eux"
+        "take": "Les Houthis justifient leurs attaques par une riposte au renforcement militaire saoudien et revendiquent des frappes ayant également touché des civils en territoire saoudien.",
+        "url": "https://www.france24.com/fr/moyen-orient/20260806-y%C3%A9men-au-moins-58-morts-attaques-rebelles-houthis"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Les attaques s'inscrivent dans une reprise des hostilités entre la formation pro-iranienne et la coalition menée par l'Arabie saoudite, après une escalade qui a commencé en juillet.",
+        "url": "https://www.lemonde.fr/international/article/2026/08/06/au-yemen-au-moins-38-soldats-ont-ete-tues-dans-des-attaques-revendiquees-par-les-rebelles-houthistes_6739968_3210.html"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Le bilan fait de ces attaques l'événement le plus meurtrier depuis la trêve de 2022, confirmé par plusieurs médias et agences internationales.",
+        "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-au-moins-38-soldats-des-forces-gouvernementales-ont-ete-tues-dans-une-attaque-des-rebelles-houthis_8137547.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 9,
@@ -294,30 +299,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Santé"
     ],
-    "title": "Le chef Jean Imbert placé sous le statut de témoin assisté",
-    "full": "Le cuisinier étoilé Jean Imbert, connu pour sa victoire à Top Chef, a été placé sous le statut de témoin assisté mercredi 5 août, après deux jours de garde à vue. Il est visé par plusieurs plaintes d'anciennes compagnes l'accusant de violences conjugales. Selon le parquet, six ex-compagnes ont été entendues et ont confirmé avoir subi des violences ou un contrôle coercitif, des charges étant retenues contre deux d'entre elles.",
+    "title": "Un touriste positif au hantavirus avait transité en France",
+    "full": "Un voyageur testé positif à l'hantavirus et actuellement isolé en Espagne a circulé en France en juillet, notamment en Île-de-France, Normandie et Nouvelle-Aquitaine. Les analyses confirment qu'il porte la souche Andes, identique à celle détectée sur un navire de recherche. Le patient présentait peu de symptômes et n'en manifeste plus actuellement. Les autorités sanitaires françaises établissent les mesures de suivi et retraçage de ses déplacements.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Après sa garde à vue, le chef a été placé sous le statut de témoin assisté, une qualification intermédiaire dans la procédure judiciaire.",
-        "url": "https://www.franceinfo.fr/societe/justice/accuse-de-violences-conjugales-le-chef-cuisinier-jean-imbert-place-sous-le-statut-de-temoin-assiste_8136728.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
         "outlet": "Libération",
-        "take": "Les accusateurs sont des anciennes compagnes qui l'accusent depuis plusieurs années, ce cuisinier ayant été révélé par le télé-crochet de M6.",
-        "url": "https://www.liberation.fr/societe/police-justice/ancien-vainqueur-de-top-chef-le-chef-jean-imbert-accuse-de-violences-conjugales-place-sous-statut-de-temoin-assiste-20260805_GVXD7DTEUFAMNCZY3M2GVXE6P4/"
+        "take": "Confirmation de la souche Andes chez ce patient et identification de son parcours précis sur le territoire français.",
+        "url": "https://www.liberation.fr/societe/sante/hantavirus-un-patient-positif-isole-en-espagne-a-transite-en-france-fin-juillet-20260806_4D46O3MR7BH47AQ4L7NYTIVVQ4/"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Le parquet a documenté les accusations de six victimes décrivant des humiliations, des bleus et des traces de morsures.",
-        "url": "https://www.20minutes.fr/justice/4237868-20260805-violences-conjugales-apres-levee-garde-vue-jean-imbert-defere-tribunal-judiciaire-paris?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "Mise en avant du contexte de voyage touristique et de l'alerte du ministère de la Santé aux autorités.",
+        "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-un-touriste-de-passage-en-france-teste-positif_8137643.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Le Monde",
-        "take": "Toutes les six ex-compagnes entendues ont confirmé les faits, et le parquet a retenu des charges contre deux d'entre elles en particulier.",
-        "url": "https://www.lemonde.fr/societe/article/2026/08/05/jean-imbert-accuse-de-violences-conjugales-par-plusieurs-ex-compagnes-place-sous-le-statut-de-temoin-assiste_6739452_3224.html"
+        "take": "Insistance sur l'amélioration clinique du patient et les mesures de traçabilité mises en œuvre par les autorités.",
+        "url": "https://www.lemonde.fr/planete/article/2026/08/06/hantavirus-un-touriste-ayant-transite-en-france-en-juillet-a-ete-declare-positif-et-isole-en-espagne-annonce-le-ministere-de-la-sante_6739961_3244.html"
       }
     ],
     "id": 10,
@@ -325,25 +325,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "Économie"
     ],
-    "title": "Canicule et incendies : huit départements en alerte orange",
-    "full": "Huit départements du Sud-Est et la Corse restent en vigilance orange canicule jeudi, tandis que le Rhône et l'Isère sont rétrogradés en alerte jaune, annonce Météo France. Les températures doivent atteindre 36 à 38 °C dans les zones concernées. Dans le Var, les pompiers se préparent à une « journée à très haut risque » en raison de la menace d'une reprise d'incendie au Gros Bessillon, amplifiée par des conditions météorologiques défavorables. Plusieurs massifs forestiers sont fermés à titre préventif dans le Sud-Est et les Pyrénées-Orientales.",
+    "title": "Duralex : trois repreneurs en lice, délai prolongé",
+    "full": "La verrerie Duralex, en redressement judiciaire depuis juin, a reçu trois dossiers de reprise auprès du tribunal de commerce d'Orléans. Le délai de dépôt des offres, initialement fixé au 6 août, a été prolongé jusqu'au 11 septembre. Les 244 salariés de l'usine du Loiret devront attendre cette nouvelle échéance pour connaître l'identité du repreneur.",
     "angles": [
       {
+        "outlet": "20 Minutes",
+        "take": "Trois candidats à la reprise ont déposé leurs dossiers et la date limite a été repoussée au 11 septembre.",
+        "url": "https://www.20minutes.fr/economie/4238136-20260806-duralex-trois-candidats-reprise-verrerie-delai-prolonge?at_medium=display&at_campaign=149"
+      },
+      {
+        "outlet": "Le Figaro Éco",
+        "take": "Le tribunal d'Orléans fixe au 6 août la deadline pour le dépôt des offres de cette verrerie célèbre pour ses verres incassables.",
+        "url": "https://www.lefigaro.fr/societes/duralex-les-candidats-a-la-reprise-ont-jusqu-a-ce-jeudi-pour-deposer-leur-offre-20260806"
+      },
+      {
         "outlet": "Libération",
-        "take": "Focus sur le système de vigilance météorologique avec des rétrogradations partielles et le maintien d'une alerte orange pour le Var.",
-        "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-8-departements-en-vigilance-orange-canicule-journee-a-tres-haut-risque-dans-le-var-20260806_O6EWLDOYLJCUXLJYRHFJUJBXA4/"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Accent sur les conditions opérationnelles difficiles pour les sapeurs-pompiers et les mesures de fermeture préventive des massifs forestiers.",
-        "url": "https://www.lemonde.fr/planete/live/2026/08/06/en-direct-incendies-dans-le-var-les-sapeurs-pompiers-se-preparent-a-une-journee-a-tres-haut-risque-jeudi_6737310_3244.html"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Détail des températures maximales attendues dans les départements en vigilance orange.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/toujours-huit-departements-du-sud-est-en-vigilance-orange-canicule-l-isere-et-le-rhone-repassent-en-alerte-jaune_8135666.html#xtor=RSS-3-[lestitres]"
+        "take": "L'entreprise en redressement judiciaire depuis juin voit son délai d'examen des offres reculé, impactant directement les 244 salariés en attente.",
+        "url": "https://www.liberation.fr/economie/trois-candidats-sur-les-rangs-pour-reprendre-duralex-le-delai-de-depot-des-offres-prolonge-20260806_YIECCHVI65EJVO2XTCX5JNOFMM/"
       }
     ],
     "id": 11,
@@ -351,25 +351,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "France"
     ],
-    "title": "Une randonneuse emportée par une crue en Haute-Savoie",
-    "full": "Le corps d'une femme de 56 ans a été retrouvé mercredi en Haute-Savoie, un jour après avoir été emportée par la montée brutale des eaux du Giffre à Sixt-Fer-à-Cheval. La victime, originaire de l'Oise, a disparu mardi soir sous les yeux de son mari lors d'un orage violent qui a provoqué une coulée de boue. Quinze personnes, dont deux bébés, ont dû être évacuées par hélicoptère de cette zone touristique des Alpes.",
+    "title": "La France expulse la chroniqueuse russe Xenia Fedorova",
+    "full": "Paris a pris un arrêté d'expulsion contre Xenia Fedorova, chroniqueuse intervenant dans plusieurs médias français, l'accusant d'être un relais de campagnes de désinformation pilotées par les autorités russes pour déstabiliser l'ordre public en France. La diplomatie russe a dénoncé jeudi cette décision comme une « persécution politique » incompatible avec la liberté d'expression.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Souligne que la femme a disparu sous les yeux de son mari pendant un orage violent.",
-        "url": "https://www.franceinfo.fr/faits-divers/coulee-de-boue-en-haute-savoie-le-corps-de-la-randonneuse-emportee-retrouve-sans-vie_8136320.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "20 Minutes",
-        "take": "Précise que le corps a été retrouvé le lendemain après avoir été emporté par la montée brutale des eaux du Giffre.",
-        "url": "https://www.20minutes.fr/faits_divers/4237993-20260805-haute-savoie-corps-vacanciere-emportee-hausse-soudaine-riviere-retrouve?at_medium=display&at_campaign=149"
+        "take": "Les autorités françaises justifient l'expulsion par des activités de désinformation attribuées aux autorités russes, visant à déstabiliser l'ordre public français.",
+        "url": "https://www.franceinfo.fr/economie/medias/l-arrete-d-expulsion-pris-par-la-france-contre-xenia-fedorova-est-une-persecution-politique-incompatible-avec-l-attachement-de-la-france-aux-principes-de-la-liberte-d-expression_8137172.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Libération",
-        "take": "Rapporte les évacuations par hélicoptère de quinze personnes et le caractère touristique du site du Cirque du Fer à Cheval.",
-        "url": "https://www.liberation.fr/environnement/climat/orages-en-haute-savoie-une-femme-recherchee-apres-le-declenchement-dune-lave-torrentielle-20260805_X6WNNSDJSJCAHFHRDQJB5HOQ2M/"
+        "take": "Moscou dénonce une atteinte aux principes de liberté d'expression suite à la décision française contre cette chroniqueuse.",
+        "url": "https://www.liberation.fr/international/europe/une-persecution-politique-la-diplomatie-russe-reagit-a-larrete-dexpulsion-contre-xenia-fedorova-20260806_MEOGEIO2UVANVKNA7ONKO46P3A/"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Le média qualifie Fedorova de propagandiste pro-Poutine dans son présentation de l'arrêté d'expulsion français.",
+        "url": "https://www.lemonde.fr/international/article/2026/08/06/xenia-fedorova-propagandiste-pro-poutine-l-arrete-d-expulsion-pris-par-la-france-est-une-persecution-politique-assure-la-diplomatie-russe_6739944_3210.html"
       }
     ],
     "id": 12,
@@ -377,25 +377,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie"
+      "Monde"
     ],
-    "title": "Daniel Bernard, ex-PDG de Carrefour, décédé à 80 ans",
-    "full": "Daniel Bernard, qui a dirigé Carrefour de 1998 à 2005, est décédé à 80 ans après une longue maladie. Sous sa présidence, le groupe français a accéléré son expansion internationale et s'est hissé au rang de deuxième distributeur mondial, derrière Walmart.",
+    "title": "Mort d'une journaliste libanaise : trois ONG accusent Israël de crime de guerre",
+    "full": "Amnesty International, Human Rights Watch et The Legal Agenda ont publié des rapports dénonçant la mort de la journaliste libanaise Amal Khalil, tuée en avril au Liban lors d'une opération militaire israélienne. Les deux premières organisations estiment que l'armée israélienne savait ou aurait dû savoir que la journaliste et sa collègue Zeinab Faraj étaient des civiles, les accusant d'avoir délibérément ciblé cette dernière. Ces ONG réclament une enquête indépendante et qualifient l'attaque de violation grave du droit international humanitaire.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Relève le décès survenu dans la nuit du 4 au 5 août et la maladie comme cause.",
-        "url": "https://www.liberation.fr/economie/conso/carrefour-daniel-bernard-ex-pdg-de-lentreprise-est-mort-a-80-ans-20260805_QGWISJFQUZHVDBIJNWHLYPPW3Y/"
+        "outlet": "Mediapart",
+        "take": "Les ONG affirment que l'armée israélienne avait connaissance du statut civil des victimes ou aurait dû le connaître avant l'attaque.",
+        "url": "https://www.mediapart.fr/journal/international/060826/mort-de-la-journaliste-amal-khalil-au-liban-des-ong-accusent-israel-de-crime-de-guerre"
       },
       {
-        "outlet": "Le Figaro Éco",
-        "take": "Souligne le rôle de Daniel Bernard dans l'accélération de l'expansion internationale du groupe.",
-        "url": "https://www.lefigaro.fr/societes/daniel-bernard-ancien-pdg-de-carrefour-de-1998-a-2005-est-decede-a-80-ans-20260805"
+        "outlet": "L'Humanité",
+        "take": "Les deux organisations documentent l'attaque dans le contexte plus large des opérations militaires menées dans le sud du Liban.",
+        "url": "https://www.humanite.fr/monde/amnesty-international/mort-de-la-journaliste-libanaise-amal-khalil-lautopsie-dun-crime-de-guerre-commis-par-israel"
       },
       {
-        "outlet": "Le Monde",
-        "take": "Met l'accent sur l'émergence de Carrefour comme numéro deux mondial sous son impulsion.",
-        "url": "https://www.lemonde.fr/disparitions/article/2026/08/05/daniel-bernard-l-ex-pdg-de-carrefour-est-mort-a-80-ans_6739437_3382.html"
+        "outlet": "France Info",
+        "take": "Trois ONG sont mobilisées, chacune qualifiant l'incident de violation du droit international humanitaire.",
+        "url": "https://www.franceinfo.fr/monde/israel/des-attaques-manifestement-deliberees-contre-des-civils-des-ong-accusent-israel-de-crime-de-guerre-apres-la-mort-d-une-journaliste-libanaise_8137148.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 13,
@@ -403,25 +403,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Société"
     ],
-    "title": "Didier Decoin, prix Goncourt 1977, est décédé à 81 ans",
-    "full": "L'écrivain Didier Decoin est mort le 5 août à l'âge de 81 ans. Romancier, scénariste et journaliste né à Boulogne-Billancourt en 1945, il avait remporté le prix Goncourt en 1977 pour son roman « John l'Enfer ». Il a présidé l'Académie Goncourt de 2020 à 2024. Fils du cinéaste Henri Decoin, il s'était illustré dans plusieurs domaines des lettres et du cinéma.",
+    "title": "Jean Imbert placé sous le statut de témoin assisté",
+    "full": "Le chef cuisinier Jean Imbert a été placé sous le statut de témoin assisté mercredi 5 août, après deux jours de garde à vue. Il fait l'objet de plusieurs plaintes d'anciennes compagnes l'accusant de violences conjugales. Ce statut intermédiaire, entre simple témoin et mis en examen, lui permet de bénéficier d'une certaine protection juridique tout en restant concerné par l'enquête.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Souligne son parcours en tant que romancier, scénariste et journaliste, ainsi que sa responsabilité à la tête de l'Académie Goncourt durant quatre ans.",
-        "url": "https://www.franceinfo.fr/culture/l-ecrivain-didier-decoin-prix-goncourt-en-1977-et-ancien-president-de-l-academie-goncourt-est-mort-a-l-age-de-81-ans_8135864.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "L'Humanité",
-        "take": "Précise ses origines géographiques (Boulogne-Billancourt) et confirme la date du décès, 5 août.",
-        "url": "https://www.humanite.fr/carnet/didier-decoin/mort-de-didier-decoin-auteur-et-president-du-prix-goncourt"
+        "take": "Après quarante-huit heures de garde à vue, le magistrat a opté pour le statut de témoin assisté plutôt qu'une mise en examen.",
+        "url": "https://www.franceinfo.fr/societe/justice/accuse-de-violences-conjugales-le-chef-cuisinier-jean-imbert-place-sous-le-statut-de-temoin-assiste_8136728.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Libération",
-        "take": "Mentionne son héritage familial en rappelant que son père était le cinéaste Henri Decoin.",
-        "url": "https://www.liberation.fr/culture/mort-de-lecrivain-didier-decoin-prix-goncourt-en-1977-20260805_LM45YCOVWVH6BBU5DB74RMOAYA/"
+        "take": "Le placement sous ce statut intervient dans le cadre d'une information judiciaire ouverte contre le cuisinier.",
+        "url": "https://www.liberation.fr/societe/police-justice/jean-imbert-accuse-de-violences-conjugales-que-signifie-le-statut-de-temoin-assiste-20260806_VW6G6NINVRCNDKGGW6XHZFJRL4/"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Ce régime juridique représente une position intermédiaire plus favorable qu'une mise en examen, offrant au suspect certaines garanties procédurales.",
+        "url": "https://www.lemonde.fr/societe/article/2026/08/06/jean-imbert-place-sous-le-statut-de-temoin-assiste-de-quoi-s-agit-il-et-pourquoi-cette-categorie-juridique-est-elle-plus-favorable-qu-une-mise-en-examen_6739795_3224.html"
       }
     ],
     "id": 14,
@@ -429,25 +429,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé"
+      "Santé",
+      "Tech & Sciences"
     ],
-    "title": "10 260 postes d'internes ouverts pour 2026, hausse de 15 %",
-    "full": "Le ministère de la Santé annonce l'ouverture de 10 260 postes d'internes en médecine pour la promotion 2026, soit 1 341 places supplémentaires par rapport à 2025. Cette augmentation de 15 % reflète les effets de la suppression du numerus clausus décidée en 2019. L'État priorise certaines spécialités en tension, comme la gériatrie, la pédiatrie et la psychiatrie, ainsi que les régions confrontées à des difficultés d'accès aux soins.",
+    "title": "Meta condamné à 567 millions de dollars pour protéger les mineurs",
+    "full": "Un tribunal du Nouveau-Mexique a ordonné à Meta de verser 567 millions de dollars pour financer des programmes de santé mentale et de prévention destinés aux jeunes, s'ajoutant à 375 millions de dollars de pénalités infligées en mars. Cette décision marque une première aux États-Unis en matière de réparation des dommages causés par les réseaux sociaux aux mineurs. Le juge a également imposé des mesures inédites, notamment une limite de 90 heures par mois d'utilisation cumulée de Facebook et Instagram pour les moins de 18 ans.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "Le gouvernement présente cette hausse comme une conséquence directe de la réforme d'accès aux études de médecine engagée depuis 2019.",
-        "url": "https://www.lemonde.fr/campus/article/2026/08/05/etudes-de-medecine-10-260-postes-d-internes-ouverts-pour-la-promotion-2026-annonce-le-gouvernement_6739423_4401467.html"
+        "take": "Souligne que les 567 millions de dollars financeront sur cinq ans des programmes de santé mentale et de prévention pour les jeunes.",
+        "url": "https://www.lemonde.fr/pixels/article/2026/08/07/meta-condamne-a-verser-567-millions-de-dollars-supplementaires-au-nouveau-mexique-pour-proteger-les-mineurs-sur-facebook-et-instagram_6740345_4408996.html"
       },
       {
-        "outlet": "Libération",
-        "take": "L'augmentation concerne particulièrement les spécialités identifiées comme étant en tension sur le marché du travail médical.",
-        "url": "https://www.liberation.fr/societe/sante/geriatrie-pediatrie-dermatologie-psychiatrie-il-y-aura-plus-de-postes-dinternes-ouverts-pour-la-promotion-2026-20260805_KF7Z5WKJCJGMBFOZKDRHBUYPZU/"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Le ministère cible spécifiquement les régions rurales et moins dotées, comme le Centre-Val de Loire ou les Hauts-de-France.",
-        "url": "https://www.franceinfo.fr/sante/le-ministere-de-la-sante-annonce-l-ouverture-de-10-260-postes-d-internes-pour-la-promotion-2026-en-hausse-de-15_8136230.html#xtor=RSS-3-[lestitres]"
+        "outlet": "France 24",
+        "take": "Met l'accent sur le caractère inédit de la décision aux États-Unis et détaille les mesures de limitation d'usage imposées aux mineurs.",
+        "url": "https://www.france24.com/fr/%C3%A9co-tech/20260807-au-nouveau-mexique-meta-devra-verser-567-millions-de-dollars-pour-prot%C3%A9ger-les-mineurs"
       }
     ],
     "id": 15,
@@ -455,21 +451,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé",
-      "Tech & Sciences"
+      "France"
     ],
-    "title": "Éclipse solaire : comment choisir ses lunettes de protection",
-    "full": "L'observation de l'éclipse solaire prévue dans une semaine nécessite des lunettes spéciales respectant des normes strictes, car regarder le soleil à l'œil nu, même brièvement, présente un risque grave pour la vision. Ces lunettes de protection sont fabriquées selon des processus particuliers garantissant une filtration adéquate des rayons solaires. Leur achat doit être effectué auprès de sources fiables pour s'assurer de leur conformité aux standards de sécurité.",
+    "title": "Tondelier et Musk s'affrontent sur X et les ingérences électorales",
+    "full": "Marine Tondelier, candidate écologiste à la présidentielle, a proposé d'interdire la plateforme X en cas d'ingérences constatées durant la campagne, craignant que son algorithme ne s'ingère dans le scrutin. Elon Musk a réagi vivement en réclamant qu'elle soit « réduite au silence pour trahison envers la France ». La candidate a riposté en écrivant directement au milliardaire, relançant un débat sur le rôle des réseaux sociaux lors des élections.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Explique le processus de fabrication des lunettes d'éclipse et propose des conseils pour identifier les modèles sûrs et savoir où les acquérir.",
-        "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/comment-sont-fabriquees-les-lunettes-specialisees-pour-regarder-l-eclipse-solaire_8136395.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Libération",
+        "take": "Elon Musk oppose une fin de non-recevoir musclée à la proposition d'interdiction de X portée par l'écologiste.",
+        "url": "https://www.liberation.fr/politique/elections/interdiction-de-x-elon-musk-exige-de-faire-taire-au-silence-marine-tondelier-pour-trahison-envers-la-france-20260806_UXBDOIZ5FBC5LOZ7UESGZNFYOY/"
       },
       {
-        "outlet": "Sciences et Avenir",
-        "take": "Insiste sur les règles de sécurité essentielles et les bonnes pratiques d'utilisation pour observer sans danger le phénomène du 12 août.",
-        "url": "https://www.sciencesetavenir.fr/espace/des-lunettes-pour-observer-l-eclipse-en-toute-securite_193176?xtor=RSS-9"
+        "outlet": "France Info",
+        "take": "Tondelier envisage une menace d'interdiction temporaire si des ingérences sont identifiées avant le scrutin.",
+        "url": "https://www.franceinfo.fr/politique/marine-tondelier-s-en-prend-a-la-plateforme-x-et-ecrit-directement-a-elon-musk-apres-un-message-agace-du-milliardaire_8137658.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 16,
@@ -477,20 +472,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Santé"
     ],
-    "title": "Célia Géry, championne de France à 20 ans, découvre le Tour de France femmes",
-    "full": "L'Ardéchoise Célia Géry, âgée de 20 ans, participe pour la première fois au Tour de France femmes cette année. Championne de France depuis juin, elle dispute l'épreuve sur ses terres, entre Montbrison et Tournon-sur-Rhône. Ses performances en début de saison et son titre national alimentent les espoirs autour de cette jeune coureuse, considérée par son environnement comme ayant le potentiel pour devenir l'une des meilleures cyclistes mondiales.",
+    "title": "Une Française contaminée à l'hantavirus sort de réanimation",
+    "full": "La seule Française touchée par l'épidémie d'hantavirus du navire MV Hondius au printemps a quitté la réanimation après trois mois d'hospitalisation à Paris. Cette retraitée, rapatriée en mai dans un état grave, a été transférée jeudi dans un centre de convalescence, selon le ministère de la Santé.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Célia Géry étrenne son maillot de championne de France au Tour de France femmes dans un circuit qui lui est familier.",
-        "url": "https://www.franceinfo.fr/tour-de-france/femmes/portrait-introvertie-explosive-sur-le-velo-hors-du-commun-qui-est-celia-gery-la-nouvelle-pepite-du-cyclisme-tricolore-qui-decouvre-le-tour-de-france-femmes_8134445.html#xtor=RSS-3-[lestitres]"
+        "outlet": "20 Minutes",
+        "take": "Insiste sur la durée quasi intégrale de l'hospitalisation en réanimation et le transfert vers la convalescence.",
+        "url": "https://www.20minutes.fr/sante/4238126-20260806-hantavirus-francaise-contaminee-printemps-mv-hondius-sortie-reanimation?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Le Monde",
-        "take": "Le Tour constitue une étape de confirmation pour la jeune Ardéchoise, dont les résultats de cette saison justifient des attentes élevées pour son avenir.",
-        "url": "https://www.lemonde.fr/sport/article/2026/08/06/tour-de-france-femmes-2026-l-annee-de-la-confirmation-pour-celia-gery-qui-a-tout-pour-devenir-une-des-meilleures-coureuses-du-monde_6739682_3242.html"
+        "outlet": "France Info",
+        "take": "Souligne l'état initial critique de la patiente au moment de son rapatriement en mai.",
+        "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/la-francaise-contaminee-a-l-hantavirus-au-printemps-sur-le-mv-hondius-est-sortie-de-reanimation_8137370.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 17,
@@ -498,21 +493,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé",
-      "Environnement"
+      "Économie"
     ],
-    "title": "Chikungunya, dengue et virus du Nil détectés en France",
-    "full": "Santé publique France a identifié plusieurs cas autochtones de chikungunya, dengue et virus du Nil occidental dans le sud du pays. Contrairement aux cas précédents, ces infections n'ont pas été importées par des voyageurs mais contractées sur le territoire français, signalant une circulation locale de ces virus transmis par moustiques. L'agence appelle à renforcer la vigilance face à cette évolution.",
+    "title": "Apollo finalise le rachat d'EasyJet pour 6,7 milliards d'euros",
+    "full": "Le fonds d'investissement américain Apollo a remporté l'acquisition de la compagnie aérienne britannique EasyJet pour 6,7 milliards d'euros, après le retrait de son concurrent Castlelake. La transaction, qui doit être conclue début 2027, intervient dans un contexte difficile pour le secteur du low-cost, confronté à la hausse des prix du kérosène et aux tensions géopolitiques au Moyen-Orient. Les résultats d'EasyJet ont enregistré une chute significative au cours de son dernier trimestre.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Marque un basculement majeur : les cas passent d'une transmission exclusivement importée à une transmission autochtone établie en France.",
-        "url": "https://www.liberation.fr/societe/sante/chikungunya-dengue-west-nile-de-nouveaux-cas-autochtones-identifies-dans-le-sud-de-la-france-20260805_VFDFJOOTXZBN5IVKTUQNOTWWAE/"
+        "outlet": "20 Minutes",
+        "take": "Apollo devient l'acquéreur unique d'EasyJet après l'abandon de Castlelake dans cette bataille de rachat.",
+        "url": "https://www.20minutes.fr/economie/4238130-20260806-easyjet-americain-apollo-remporte-bataille-racheter-compagnie-aerienne-low-cost?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Souligne l'appel officiel à une vigilance accrue de la part de Santé publique France face à ces nouveaux foyers.",
-        "url": "https://www.20minutes.fr/sante/4237995-20260805-chikungunya-dengue-virus-nil-nouveaux-cas-identifies-sud-france?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Le secteur du low-cost subit une crise majeure liée au renchérissement du carburant et à l'instabilité géopolitique.",
+        "url": "https://www.lemonde.fr/economie/article/2026/08/06/le-fonds-apollo-confirme-son-rachat-de-la-compagnie-aerienne-low-cost-easyjet-pour-6-7-milliards-d-euros_6739963_3234.html"
       }
     ],
     "id": 18,
@@ -520,20 +514,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "Tech & Sciences"
     ],
-    "title": "Incendie dans la Drôme : situation stabilisée mais non maîtrisée",
-    "full": "Le feu de forêt qui sévit dans la Drôme depuis lundi connaît une situation stabilisée jeudi, mais les flammes ne sont pas encore fixées. La surface brûlée a été réévaluée à environ 240 hectares. Une enquête est en cours pour identifier l'origine de la violente reprise d'incendie observée récemment, alors qu'un autre foyer s'est désormais déclaré dans le Var.",
+    "title": "Les Nuits des étoiles 2026 mobilisent la France",
+    "full": "Du 7 au 9 août 2026, près de 500 soirées d'observation du ciel seront organisées en France dans le cadre des Nuits des étoiles. L'édition de cette année est placée sous le thème du Soleil, qui sera partiellement éclipsé le 12 août en France métropolitaine et à Saint-Pierre-et-Miquelon. Le pic des Perséides suivra dans la nuit du 12 au 13 août, offrant une semaine d'événements astronomiques exceptionnels.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Insiste sur le statut contradictoire du sinistre : stable mais pas fixé, mettant l'accent sur l'incertitude quant à l'évolution.",
-        "url": "https://www.20minutes.fr/planete/4238024-20260806-direct-incendies-feu-foret-drome-stable-fixe?at_medium=display&at_campaign=149"
+        "outlet": "Numerama",
+        "take": "Insiste sur l'accumulation de phénomènes astronomiques rares : les nuits d'observation précèdent une éclipse solaire et le pic des Perséides.",
+        "url": "https://www.numerama.com/sciences/2305869-les-nuits-des-etoiles-2026-ou-aller-pour-observer-le-ciel-en-france-ce-week-end.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Met en avant la révision à la baisse de la surface affectée et signale l'enquête en cours sur les causes de la réactivation du foyer.",
-        "url": "https://www.liberation.fr/environnement/en-direct-incendies-apres-une-nuit-calme-les-pompiers-de-la-drome-sattendent-a-une-journee-difficile-20260805_WJYUHXJDYNC2NIOHOPWQAEN5DQ/"
+        "outlet": "Le Monde",
+        "take": "Met l'accent sur le thème annuel consacré au Soleil et précise que l'éclipse sera visible dans l'hexagone et à Saint-Pierre-et-Miquelon.",
+        "url": "https://www.lemonde.fr/sciences/article/2026/08/06/les-nuits-des-etoiles-tout-ce-qu-il-faut-savoir-sur-l-edition-2026_6739959_1650684.html"
       }
     ],
     "id": 19,
@@ -541,20 +535,21 @@ const ARTICLES = [
   },
   {
     "themes": [
+      "Culture",
       "Économie"
     ],
-    "title": "États-Unis: 100 milliards de dollars remboursés en droits de douane",
-    "full": "L'administration américaine a remboursé près de 100 milliards de dollars aux entreprises suite à l'annulation de surtaxes douanières par la Cour suprême en février. Selon des documents judiciaires, les demandes de remboursement en cours ou déjà traitées s'élèvent à plus de 128 milliards de dollars. Cette décision judiciaire n'a toutefois pas freiné le gouvernement Trump, qui a lancé une nouvelle vague de droits de douane.",
+    "title": "Le Royaume-Uni approuve la fusion Paramount-Warner Bros",
+    "full": "Les autorités britanniques ont autorisé le rachat de Warner Bros Discovery par Paramount Skydance, franchissant une étape majeure pour cette mégafusion du secteur audiovisuel. Cependant, l'opération reste bloquée aux États-Unis, où une juge fédérale californienne a ordonné en juillet la suspension de la procédure. Le examen du dossier sur le fond est prévu pour juin 2027, laissant en suspens le sort de ce projet de géant du divertissement.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "Met l'accent sur l'ampleur des remboursements évalués par l'administration des douanes et le volume des demandes en cours de traitement.",
-        "url": "https://www.lemonde.fr/international/article/2026/08/06/droits-de-douane-l-administration-trump-a-rembourse-pres-de-100-milliards-de-dollars-aux-entreprises-apres-la-decision-de-la-cour-supreme_6739503_3210.html"
+        "take": "L'approbation britannique intervient alors que la fusion fait face à des obstacles judiciaires importants aux États-Unis, où l'examen de l'affaire s'étire sur plusieurs mois.",
+        "url": "https://www.lemonde.fr/international/article/2026/08/06/le-royaume-uni-autorise-le-rachat-de-warner-bros-par-paramount_6739954_3210.html"
       },
       {
-        "outlet": "Le Figaro Éco",
-        "take": "Souligne le contraste entre l'annulation des surtaxes par la justice et la relance rapide d'une nouvelle politique tarifaire par Trump.",
-        "url": "https://www.lefigaro.fr/conjoncture/les-etats-unis-ont-deja-rembourse-100-milliards-de-dollars-de-droits-de-douane-20260805"
+        "outlet": "Numerama",
+        "take": "Bien que Londres valide le projet, c'est l'impasse judiciaire américaine qui constitue le véritable frein, les délais et coûts s'accumulant pour les deux groupes.",
+        "url": "https://www.numerama.com/pop-culture/2307435-le-debut-de-la-fin-la-fusion-warner-paramount-passe-un-cap-mais-tout-nest-pas-joue.html"
       }
     ],
     "id": 20,
@@ -562,20 +557,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Environnement",
+      "Économie"
     ],
-    "title": "Matignon répond aux accusations de mal-être au travail",
-    "full": "Les services du Premier ministre ont réagi mercredi aux révélations sur plusieurs suicides et tentatives de suicide parmi leurs agents. Une fonctionnaire avait porté plainte suite à une tentative de suicide, tandis qu'un signalement évoque une autre tentative et deux suicides survenus récemment dans les entités rattachées à Matignon. L'administration a fourni sa version des faits par courrier consulté par l'AFP.",
+    "title": "La Fresque du climat en procédure de sauvegarde",
+    "full": "L'association La Fresque du climat a été placée en procédure de sauvegarde fin juillet après une dégradation de sa situation financière. L'organisation, qui propose des ateliers de sensibilisation aux enjeux climatiques, assure que cette mesure ne compromet ni ses activités ni sa mission pédagogique.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Matignon précise sa position officielle face aux accusations portant sur les conditions de travail et les drames survenus dans ses services.",
-        "url": "https://www.franceinfo.fr/societe/suicides-ou-tentatives-mis-en-cause-les-services-du-premier-ministre-donnent-leur-version-des-faits_8136275.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "20 Minutes",
+        "take": "L'association insiste sur la continuité de ses ateliers et de son action de sensibilisation malgré les difficultés financières.",
+        "url": "https://www.20minutes.fr/planete/rechauffement-climatique/4238134-20260806-fresque-climat-difficultes-financieres-association-placee-procedure-sauvegarde?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Libération",
-        "take": "L'administration réagit pour la première fois aux révélations de France Inter sur les souffrances et leurs conséquences au travail rue de Varenne.",
-        "url": "https://www.liberation.fr/politique/suicides-et-tentatives-a-matignon-mis-en-cause-les-services-du-premier-ministre-donnent-leur-version-des-faits-20260805_JI3K4NCY2FDPBGTJ3XM2Y6L24M/"
+        "outlet": "Le Monde",
+        "take": "La procédure de sauvegarde intervient après plusieurs mois de dégradation des finances de l'association.",
+        "url": "https://www.lemonde.fr/economie/article/2026/08/06/la-fresque-du-climat-placee-en-procedure-de-sauvegarde_6739951_3234.html"
       }
     ],
     "id": 21,
@@ -583,20 +579,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Culture",
+      "Société"
     ],
-    "title": "« The Shards » : l'adaptation de Ryan Murphy du roman d'Ellis arrive",
-    "full": "Ryan Murphy adapte en série pour Disney+ « The Shards », le roman de Bret Easton Ellis. Cette création mélange thriller, drame et enquête criminelle dans le Los Angeles des années 1980, avec pour cadre un groupe d'adolescents issus de la haute société. La série conjugue intrigue policière, personnages en proie à des dépendances et une bande sonore marquante de l'époque.",
+    "title": "Le musée Jacques Chirac cambriolé pour la troisième fois en un an",
+    "full": "Le musée du Président Chirac à Sarran, en Corrèze, a subi un nouveau cambriolage dans la nuit du 5 au 6 août, le troisième en moins de douze mois. L'établissement, qui expose des cadeaux diplomatiques offerts aux anciens présidents, a été fermé temporairement suite à ce vol. Les deux précédents cambriolages remontaient à octobre de l'année précédente. Ces attaques répétées s'inscrivent dans un contexte plus large de multiplication des tentatives de vol visant les musées.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "La série concentre sexe, drogues et meurtres sadiques sur fond d'atmosphère des années 1980.",
-        "url": "https://www.franceinfo.fr/culture/series/cinq-choses-a-savoir-sur-the-shards-la-sulfureuse-serie-de-ryan-murphy-adaptee-du-roman-de-bret-easton-ellis_8134625.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Libération",
+        "take": "Le musée a déjà été ciblé deux fois en octobre, avant de subir ce troisième cambriolage qui entraîne sa fermeture temporaire.",
+        "url": "https://www.liberation.fr/societe/police-justice/en-correze-le-musee-jacques-chirac-victime-dun-troisieme-vol-en-dix-mois-20260806_GAMNMBTVURCCRN443OSTXI2QK4/"
       },
       {
-        "outlet": "Libération",
-        "take": "L'adaptation entrelace tueurs en série, figures hollywoodiennes et jeunesse aisée dans une fresque névrotique.",
-        "url": "https://www.liberation.fr/culture/series/the-shards-sur-disney-ladaptation-nevrose-bonbon-du-roman-de-bret-easton-ellis-20260805_BCAP5F7RX5AJLA4FZTLRPTXCRI/"
+        "outlet": "France Info",
+        "take": "L'établissement s'ajoute à une tendance générale de hausse des tentatives de vol dans les musées français.",
+        "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/nouveau-cambriolage-au-musee-du-president-chirac-le-troisieme-en-un-an_8137217.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 22,
@@ -604,21 +601,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France",
-      "Santé"
+      "Société"
     ],
-    "title": "Un rapport sur la mortalité infantile en France rendu public tardivement",
-    "full": "Un rapport de l'Inspection générale des affaires sociales (Igas) examinant les causes de la forte mortalité infantile en France a été rendu public six mois après son achèvement, suite à la révélation de son existence par la presse. Selon le document, la France occupe le 23e rang européen avec environ 2 709 décès d'enfants avant leur premier anniversaire. Le rapport pointe notamment les fermetures de maternités et l'affaiblissement de la prévention comme facteurs contributifs, des enjeux soulevés par les analyses de politiques menées depuis plus de deux décennies.",
+    "title": "Deux pompiers morts à Mérignac cités à l'ordre de la Nation",
+    "full": "Wilfried Schmitter et Anthony Berthôme, deux adjudants sapeurs-pompiers, ont été cités à l'ordre de la Nation pour leur « engagement total ». Les deux hommes ont péri le 21 juillet en luttant contre un incendie qui s'était déclaré dans une pinède aux abords de l'aéroport de Bordeaux-Mérignac, en Gironde. Leur camion-citerne s'était retrouvé piégé dans les flammes.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Le rapport a été rendu public avec un délai de six mois, révélé indirectement par un article de presse signalant son existence.",
-        "url": "https://www.franceinfo.fr/societe/enfance-et-adolescence/au-c-ur-de-l-ete-un-rapport-interroge-les-causes-de-la-forte-mortalite-infantile-en-france_8136389.html#xtor=RSS-3-[lestitres]"
+        "take": "Met l'accent sur la reconnaissance officielle de leur dévouement et les circonstances du drame, le piégeage du véhicule d'intervention dans le foyer.",
+        "url": "https://www.franceinfo.fr/faits-divers/incendie/distingues-pour-leur-engagement-total-wilfried-schmitter-et-anthony-berthome-les-deux-pompiers-morts-a-merignac-cites-a-l-ordre-de-la-nation_8137142.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "Le ministère de la Santé aurait volontairement retardé la publication d'un document critiquant les politiques sanitaires menées depuis vingt ans, particulièrement les fermetures de maternités.",
-        "url": "https://www.humanite.fr/politique/gouvernement/fermeture-des-maternites-ruine-de-la-prevention-le-gouvernement-enterre-un-rapport-qui-eclaire-sur-la-mortalite-infantile"
+        "outlet": "20 Minutes",
+        "take": "Précise les grades des deux pompiers et la date exacte de l'accident.",
+        "url": "https://www.20minutes.fr/societe/4238083-20260806-gironde-citation-ordre-nation-deux-pompiers-morts-feu?at_medium=display&at_campaign=149"
       }
     ],
     "id": 23,
@@ -626,20 +622,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Santé"
     ],
-    "title": "Teddy Riner forfait pour Lima, reporté avant les Mondiaux",
-    "full": "Le judoka français Teddy Riner ne participera pas au tournoi de Lima prévu mi-août au Pérou. Le champion de 37 ans a annoncé son forfait en raison d'une blessure contractée à l'entraînement, sans préciser sa nature. Cette compétition devait constituer son retour à la compétition individuelle depuis les Jeux olympiques de Paris, en amont des Mondiaux d'octobre.",
+    "title": "La France enregistre une hausse préoccupante de la mortalité infantile",
+    "full": "La mortalité infantile continue d'augmenter en France, plaçant le pays parmi les plus mauvais élèves européens en matière de mortalité périnatale. Selon un rapport de l'Inspection générale des affaires sociales (IGAS) révélé par Le Canard enchaîné, cette dégradation ne peut être attribuée uniquement à la fermeture des petites maternités. Le document identifie plusieurs causes à cette hausse et propose différentes pistes pour inverser la tendance.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Riner ne peut pas honorer ce qui aurait dû être son premier tournoi avant les Championnats du monde de 2025.",
-        "url": "https://www.franceinfo.fr/sports/judo/teddy-riner/judo-teddy-riner-forfait-pour-le-tournoi-de-lima-qui-devait-marquer-son-retour-sur-les-tatamis-avant-les-mondiaux-en-octobre_8135927.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Monde",
+        "take": "L'IGAS estime que les restructurations des maternités n'expliquent pas seules le recul de la France dans les classements européens.",
+        "url": "https://www.lemonde.fr/societe/article/2026/08/07/hausse-de-la-mortalite-infantile-un-rapport-de-l-igas-relativise-le-role-de-la-fermeture-des-petites-maternites_6740413_3224.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Le forfait survient alors que ce serait sa première compétition individuelle depuis ses performances aux Jeux de Paris.",
-        "url": "https://www.liberation.fr/sports/teddy-riner-blesse-ne-participera-pas-a-sa-premiere-competition-individuelle-depuis-les-jo-de-paris-20260805_7S6OWZRNEJDNDERQEZBGIQYKPY/"
+        "outlet": "Sciences et Avenir",
+        "take": "Le rapport de l'IGAS, jusqu'alors non public, pointe des causes multiples sans considérer les fermetures de petites maternités comme la solution unique.",
+        "url": "https://www.sciencesetavenir.fr/sante/derriere-la-hausse-de-la-mortalite-infantile-un-rapport-pointe-des-causes-multiples_194137?xtor=RSS-16"
       }
     ],
     "id": 24,
@@ -647,21 +643,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture",
-      "Tech & Sciences"
+      "Sport",
+      "Monde"
     ],
-    "title": "Disney autorise TikTok à utiliser des extraits de ses films et séries",
-    "full": "Disney et TikTok ont annoncé un partenariat permettant à la plateforme vidéo de diffuser des extraits des productions du géant américain. Une phase pilote sera lancée aux États-Unis dans les prochains mois avant une possible extension internationale. Cet accord facilite la promotion des contenus Disney sur les réseaux sociaux tout en encadrant leur utilisation.",
+    "title": "Deux footballeuses iraniennes deviennent citoyennes australiennes",
+    "full": "Fatemeh Pasandideh et Atefeh Ramezanisadeh ont obtenu la nationalité australienne mercredi 5 août, lors d'une cérémonie officielle. Les deux anciennes joueuses de l'équipe nationale iranienne avaient refusé de chanter l'hymne national iranien lors de la Coupe d'Asie disputée en Australie en mars, geste qui les a exposées à des accusations de trahison dans leur pays d'origine. Elles avaient alors demandé l'asile en Australie.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Le partenariat autorise explicitement l'utilisation d'extraits de films Disney sur TikTok, avec un lancement imminent aux États-Unis.",
-        "url": "https://www.franceinfo.fr/culture/cinema/disney-annonce-un-partenariat-avec-tiktok-autorisant-l-utilisation-d-extraits-de-ses-films_8068817.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Les deux footballeuses expriment leur fierté d'accéder à la nationalité australienne après leur acte de protestation lors de la compétition asiatique.",
+        "url": "https://www.franceinfo.fr/sports/foot/deux-anciennes-footballeuses-iraniennes-obtiennent-la-nationalite-australienne-avec-fierte_8137007.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "Le Monde",
-        "take": "L'accord porte sur les extraits de films et de séries, précisant que le déploiement suivra un modèle pilote avant internationalisation.",
-        "url": "https://www.lemonde.fr/culture/article/2026/08/05/disney-et-tiktok-annoncent-un-accord-pour-l-utilisation-d-extraits-de-films-et-de-series-sur-la-plateforme_6739424_3246.html"
+        "outlet": "Libération",
+        "take": "Le refus de chanter l'hymne iranien les a désignées comme traîtres en Iran et les a contraintes à demander l'asile, débouchant sur l'obtention de la citoyenneté australienne.",
+        "url": "https://www.liberation.fr/international/moyen-orient/deux-footballeuses-iraniennes-fieres-dobtenir-la-nationalite-australienne-apres-avoir-refuse-de-chanter-lhymne-national-en-mars-20260806_LQROBMWQQNHR7MXO32LUCDHOUQ/"
       }
     ],
     "id": 25,
@@ -669,20 +665,21 @@ const ARTICLES = [
   },
   {
     "themes": [
+      "Environnement",
       "Économie"
     ],
-    "title": "Paramount défend son projet de rachat de Warner",
-    "full": "Le patron de Paramount, David Ellison, a publié un article dans le New York Times pour justifier son projet de fusion avec Warner, actuellement bloqué par des recours en justice. Il s'engage à préserver l'indépendance éditoriale des médias du groupe et conteste l'argument d'une domination du marché, affirmant que l'entité fusionnée représenterait moins de 20% du temps consacré par les Américains à la télévision et au streaming.",
+    "title": "Éclipse solaire du 12 août : baisse temporaire de l'électricité photovoltaïque",
+    "full": "Une éclipse solaire partielle le 12 août entre 19 h 30 et 21 h 30 réduira temporairement la production d'électricité solaire en Europe. Le phénomène masquera jusqu'à 99 % du soleil dans certaines régions françaises et intégralement dans le nord de l'Espagne. Selon RTE, aucune perturbation de l'approvisionnement électrique n'est attendue en France malgré cette baisse.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Ellison tente de rassurer face aux craintes d'ingérence éditoriale que suscite la fusion des deux géants de l'audiovisuel.",
-        "url": "https://www.liberation.fr/international/amerique/face-aux-recours-en-justice-le-patron-de-paramount-defend-le-rachat-de-warner-et-sengage-a-respecter-lindependance-des-medias-20260805_XJAUL2JRUFE6JADMFJQ2Z46OIU/"
+        "outlet": "Le Monde",
+        "take": "Met l'accent sur l'ampleur géographique de l'occultation solaire, avec des taux de masquage très élevés dans certains territoires.",
+        "url": "https://www.lemonde.fr/sciences/article/2026/08/06/eclipse-du-12-aout-une-baisse-temporaire-de-la-production-d-electricite-solaire-attendue-en-europe_6739722_1650684.html"
       },
       {
-        "outlet": "France Info",
-        "take": "Le PDG réfute les accusations de domination du marché en avançant que la future entreprise n'accaparerait qu'une part mineure du temps d'écran américain.",
-        "url": "https://www.franceinfo.fr/culture/cinema/rachat-de-warner-par-paramount-david-ellison-signe-un-plaidoyer-en-faveur-de-son-projet-de-fusion-dans-le-new-york-times_8135606.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Le Figaro Éco",
+        "take": "Souligne que malgré la baisse photovoltaïque, la stabilité du réseau électrique français est assurée.",
+        "url": "https://www.lefigaro.fr/conjoncture/la-production-d-electricite-solaire-baissera-temporairement-en-europe-le-temps-de-l-eclipse-20260805"
       }
     ],
     "id": 26,
@@ -690,20 +687,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Économie",
+      "Sport"
     ],
-    "title": "Un jeune cinéaste japonais à Cannes avec son premier film",
-    "full": "Yuiga Danzuka, réalisateur japonais, a été sélectionné à la Quinzaine des cinéastes du festival de Cannes pour son premier long-métrage « Des Fleurs pour Tokyo ». Le film entrelace l'histoire du réaménagement d'un quartier de la capitale nippone avec un drame familial mettant en scène deux frères et sœurs confrontés à l'absence de leur père architecte. Danzuka est le plus jeune réalisateur japonais retenu dans cette sélection.",
+    "title": "La Liga quitte BeIN Sports pour DAZN et Disney+ en France",
+    "full": "À partir du 15 août, le championnat espagnol de football sera diffusé exclusivement sur les plateformes numériques DAZN et Disney+ en France, pour les trois prochaines saisons. BeIN Sports, qui détenait historiquement les droits de retransmission, n'a pas conservé cette licence. La Liga disparaît ainsi de la télévision linéaire hexagonale au profit du streaming.",
     "angles": [
       {
-        "outlet": "L'Humanité",
-        "take": "Le cinéaste souligne l'importance de la ville comme personnage à part entière dans son récit, aux côtés de l'intrigue familiale.",
-        "url": "https://www.humanite.fr/culture-et-savoir/cinema/yuiga-danzuka-realisateur-des-fleurs-pour-tokyo-il-fallait-que-la-ville-parle-autant-que-le-personnage"
+        "outlet": "Libération",
+        "take": "L'intégralité des matchs de la Liga sera disponible sur les deux plateformes numériques à partir de la nouvelle saison.",
+        "url": "https://www.liberation.fr/sports/football/droits-tele-la-liga-sera-diffusee-sur-sur-dazn-et-disney-en-france-20260806_OP2V4IXOHVDQPBICZKCHMQOVMQ/"
       },
       {
         "outlet": "Le Monde",
-        "take": "Le film exploite le décor urbain de Tokyo en perpétuelle transformation comme cadre d'une histoire intime et mélancolique.",
-        "url": "https://www.lemonde.fr/culture/article/2026/08/05/des-fleurs-pour-tokyo-retrouvailles-ameres-dans-le-dedale-de-la-capitale-japonaise_6739403_3246.html"
+        "take": "Le président de la Liga confirme le passage à une diffusion numérique exclusive en remplacement de la télévision linéaire française.",
+        "url": "https://www.lemonde.fr/sport/article/2026/08/06/le-championnat-espagnol-de-football-change-de-diffuseur-en-france-et-quitte-bein-sports-pour-dazn-et-disney_6739717_3242.html"
       }
     ],
     "id": 27,
@@ -711,15 +709,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "France",
+      "Environnement"
     ],
-    "title": "Une méduse « immortelle » pourrait croiser les baigneurs cet été",
-    "full": "Une espèce de méduse minuscule, de la taille d'un dé à coudre, possède la capacité remarquable de rajeunir biologiquement au moment où elle devrait mourir. En laboratoire, ce processus de régression vers un état juvénile lui permet de recommencer son cycle de vie, théoriquement à l'infini. Cette curiosité biologique pourrait être rencontrée par les baigneurs en mer durant l'été.",
+    "title": "Un député LR propose de taxer les fabricants de cigarettes pour financer la lutte contre les incendies",
+    "full": "Yannick Neuder, député LR et ancien ministre de la Santé, annonce le dépôt d'une proposition de loi visant à imposer une taxe aux fabricants de cigarettes. Cette mesure viserait à dégager un fonds de 350 millions d'euros destiné à financer l'achat d'équipements pour les pompiers, ainsi qu'à la dépollution des sols et des eaux. Le projet répond à la récurrence des incendies causés par des mégots mal éteints.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "Cette méduse est capable de vivre éternellement en inversant son processus de vieillissement plutôt que de connaître la mort.",
-        "url": "https://www.slate.fr/sciences/baigneurs-attention-meduse-immortelle-laboratoire-espece-vie-eternelle-animaux-marins-mer-decouverte-immortalite"
+        "outlet": "France Info",
+        "take": "Insiste sur le lien entre les mégots et les incendies de forêt, mettant l'accent sur la nécessité de financer les pompiers et la dépollution.",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-depute-lr-yannick-neuder-souhaite-taxer-les-fabricants-de-cigarettes-pour-lutter-contre-le-fleau-des-megots_8136638.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Souligne que la proposition de loi vise à faire « prendre leur part » aux cigarettiers suite aux feux qui ont affecté la France.",
+        "url": "https://www.liberation.fr/economie/une-proposition-de-loi-veut-financer-la-lutte-contre-les-incendies-avec-une-taxe-sur-les-fabricants-de-tabac-20260806_PUYCGL2WG5CVNG4K5URW2KZ4HY/"
       }
     ],
     "id": 28,
@@ -727,16 +731,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite",
-      "Santé"
+      "Insolite"
     ],
-    "title": "Un drone équipé de bouée testé contre les noyades",
-    "full": "À Valras-Plage dans l'Hérault, un drone porteur de bouée est expérimenté pour prévenir les noyades en zone balnéaire. Cet appareil surveille les baigneurs et peut intervenir rapidement en cas de détresse. En France, environ 1 000 décès par noyade sont enregistrés chaque année.",
+    "title": "Canicule : où ranger ses œufs quand il fait très chaud ?",
+    "full": "Lors des épisodes de fortes chaleurs, la conservation des œufs demande une vigilance accrue. Contrairement à une idée reçue, les conditions estivales peuvent modifier les règles habituelles de stockage. Les œufs supportent mal les variations de température et l'humidité excessive qui accompagnent les canicules, ce qui impose de repenser leur entreposage pendant ces périodes.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Un drone doté d'une bouée est déployé sur une plage du sud de la France pour améliorer la surveillance des baigneurs et réduire les noyades en zones touristiques.",
-        "url": "https://www.franceinfo.fr/faits-divers/noyades/un-drone-pour-eviter-les-noyades_8135765.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "20 Minutes",
+        "take": "Les fortes chaleurs imposent une attention particulière à la conservation des œufs, qui ne se rangent pas de la même façon en été qu'en temps normal.",
+        "url": "https://www.20minutes.fr/tempo/food/4238031-20260806-canicule-faut-conserver-ufs-frigo-temperature-ambiante-pendant-fortes-chaleurs?at_medium=display&at_campaign=149"
       }
     ],
     "id": 29,
@@ -744,15 +747,16 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Insolite",
+      "Tech & Sciences"
     ],
-    "title": "Un trésor d'or soviétique de la Seconde Guerre mondiale découvert",
-    "full": "Un chasseur de trésor sous-marin a mis au jour une cargaison de lingots d'or estimée à plus de quarante millions de livres sterling, restée immergée pendant quatre décennies. Ces précieux chargements avaient été embarqués en 1942 à bord d'un navire à destination des États-Unis, destinés à financer l'acquisition de matériel militaire pour l'effort de guerre soviétique.",
+    "title": "Un fossile australien révèle trois reptiles marins en cascade",
+    "full": "Des paléontologues ont découvert en Australie un fossile vieux de plus de 100 millions d'années documentant une chaîne de prédation exceptionnelle. Le spécimen contient les restes d'un ptérosaure (reptile volant) avalé par un ichthyosaure (reptile marin), lui-même tué et englouti par un pliosaure (grand prédateur marin). Cette fossilisation successive offre un instantané rare de la vie au Crétacé.",
     "angles": [
       {
         "outlet": "Slate",
-        "take": "La découverte met en lumière une cargaison d'or perdue datant de la Seconde Guerre mondiale, destinée à approvisionner les États-Unis en fonds pour le conflit.",
-        "url": "https://www.slate.fr/monde/lingots-or-seconde-guerre-mondiale-bateau-navire-mers-urss-union-sovietique-usa-fouilles-sous-marins-chasseur-tresor"
+        "take": "Le fossile raconte une histoire de prédation en trois niveaux s'étant déroulée dans les mers du Crétacé ancien.",
+        "url": "https://www.slate.fr/sciences/fossile-dinosaure-ichthyosaure-pterosaure-pliosaure-reptile-fossile-paleontologie-decouverte-sciences-cretace"
       }
     ],
     "id": 30,
@@ -760,35 +764,18 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite",
-      "Santé"
+      "Insolite"
     ],
-    "title": "Frappée par la foudre en 2017, elle raconte son combat",
-    "full": "Raphaëlle a été victime d'un coup de foudre lors d'un festival en 2017, un choc qui a radicalement transformé sa vie. Après l'accident, elle a souffert de perte de parole et de douleurs extrêmes, avant d'engager un long processus de rééducation pour retrouver son autonomie. Elle revient aujourd'hui sur cette épreuve et son parcours de reconstruction.",
+    "title": "En Italie, une femme jette un ticket gagnant d'un million d'euros",
+    "full": "Une Italienne a jeté par inadvertance un ticket de loterie remportant un million d'euros. Le billet a été retrouvé avant d'être définitivement perdu, permettant à la gagnante de réclamer son prix.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Le récit personnel d'une rescapée de foudre qui détaille les séquelles physiques et psychologiques immédiates et durables de ce type d'accident extrême.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/c-est-une-scene-de-chaos-frappee-par-la-foudre-elle-raconte-son-combat_8135969.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Une histoire de malchance évitée de justesse, où un ticket gagnant a failli disparaître à la poubelle.",
+        "url": "https://www.franceinfo.fr/faits-divers/en-italie-elle-a-jete-un-ticket-de-loterie-qui-valait-1-million-d-euros_8136920.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 31,
     "priority": 32
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "Une ex-agente du FBI décrypte le profil des tueurs en série",
-    "full": "Candice DeLong, ancienne profileuse du FBI ayant interrogé des dizaines de criminels violents, identifie un trait psychologique commun aux tueurs en série les plus dangereux : l'absence totale de culpabilité. Au cours de sa carrière, elle a travaillé sur plusieurs affaires de meurtres en série et estime que cette incapacité à ressentir de la remorse distingue systématiquement les criminels les plus meurtriers des autres délinquants.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "L'article met l'accent sur les conclusions tirées par DeLong après des décennies d'interrogatoires et d'études de cas criminels majeurs.",
-        "url": "https://www.slate.fr/societe/decennies-face-tueurs-serie-ancienne-agente-fbi-identifie-point-commun-enfance-empathie-psychopathie-usa-unabomber-tueur-criminel"
-      }
-    ],
-    "id": 32,
-    "priority": 33
   }
 ];
