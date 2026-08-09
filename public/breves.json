@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-08T04:46:08.437988+00:00",
-  "date_label": "Samedi 8 août",
-  "count": 35,
+  "generated_at": "2026-08-09T04:02:21.087410+00:00",
+  "date_label": "Dimanche 9 août",
+  "count": 27,
   "breves": [
     {
       "themes": [
-        "Monde"
+        "Sport"
       ],
-      "title": "La salle de bal de Trump à la Maison-Blanche reste bloquée",
-      "full": "Une cour d'appel fédérale américaine a confirmé vendredi le blocage du chantier de la salle de bal que Donald Trump souhaite construire à la Maison-Blanche. Les juges ont estimé que le président ne pouvait pas engager de tels travaux sans l'autorisation du Congrès. Trump a qualifié cette décision de « politique » et annoncé qu'il saisirait la Cour suprême pour contester ce blocage maintenu depuis avril.",
+      "title": "Vollering prend le maillot jaune du Tour de France femmes",
+      "full": "Demi Vollering a remporté la 8e étape du Tour de France femmes samedi, reliant Sisteron à Nice, et s'empare du maillot jaune avec seulement 8 secondes d'avance sur la Polonaise Kasia Niewiadoma. La Néerlandaise a attaqué dans les cinq derniers kilomètres pour décrocher sa rivale. L'ultime étape de dimanche devrait être décisive. En parallèle, Pauline Ferrand-Prévot, tenante du titre, a abandonné avant le départ de cette même étape après avoir été mise en difficulté tout au long de la course.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Met l'accent sur le fondement juridique du blocage : l'absence d'autorisation du Congrès requise pour modifier la résidence présidentielle.",
-          "url": "https://www.liberation.fr/international/amerique/aux-etats-unis-le-chantier-de-la-salle-de-bal-de-trump-bloque-par-la-justice-20260807_4UA4S7N6EVFJLN4BOMRIICHFAI/"
-        },
-        {
           "outlet": "France Info",
-          "take": "Souligne la réaction de Trump qualifiant le jugement de « politique » et son intention de saisir la Cour suprême.",
-          "url": "https://www.franceinfo.fr/monde/usa/la-justice-americaine-bloque-en-appel-le-chantier-de-la-salle-de-bal-voulue-par-donald-trump-a-la-maison-blanche_8138942.html#xtor=RSS-3-[lestitres]"
+          "take": "Vollering a signé son deuxième succès en étape en décrochant Niewiadoma dans un raidard à cinq kilomètres de l'arrivée.",
+          "url": "https://www.franceinfo.fr/tour-de-france/femmes/demi-vollering-fait-craquer-kasia-niewiadoma-et-prend-le-maillot-jaune-au-terme-de-la-8e-et-avant-derniere-etape-du-tour-de-france-femmes_8139992.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France 24",
-          "take": "Rapporte que Trump a dénoncé une décision « horrible » tout en confirmant la confirmation en appel du blocage initial.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260807-chantier-salle-bal-trump-maison-blanche-bloqu%C3%A9-appel"
+          "outlet": "Le Monde",
+          "take": "Ferrand-Prévot, candidate à sa propre succession, n'a jamais pu peser sur la course et a rapidement été en difficulté avant d'abandonner.",
+          "url": "https://www.lemonde.fr/sport/article/2026/08/08/pour-pauline-ferrand-prevot-un-tour-de-france-complique-et-inacheve-loin-de-ses-espoirs-de-double_6741513_3242.html"
+        },
+        {
+          "outlet": "Libération",
+          "take": "L'écart de seulement 8 secondes entre Vollering et Niewiadoma rend la dernière étape de dimanche décisive pour le titre.",
+          "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-pour-demi-vollering-un-maillot-jaune-qui-ne-tient-qua-huit-secondes-20260808_S3C25ZA2AVC2NAGP5UJLP56Q64/"
         }
       ],
       "id": 0,
@@ -31,30 +31,30 @@
     },
     {
       "themes": [
-        "Sport"
+        "France"
       ],
-      "title": "Niewiadoma s'impose au Ventoux et prend le maillot jaune",
-      "full": "La coureuse polonaise Kasia Niewiadoma a remporté vendredi 7 août la septième étape du Tour de France femmes 2026 en franchissant en solitaire le sommet du mont Ventoux. Cette victoire lui permet de s'emparer du maillot jaune à deux jours de l'arrivée à Nice. L'écart reste serré avec ses principales rivales, puisque les écarts demeurent minimes au classement général, promettant un dénouement incertain lors des dernières étapes.",
+      "title": "Gabriel Attal porte plainte pour ingérence russe en ligne",
+      "full": "Gabriel Attal, candidat à la présidentielle 2027 et chef de file du parti Renaissance, a déposé plainte pour ingérence étrangère après la diffusion de contenus truqués le visant. L'opération, attribuée à des réseaux russes, comprenait des deepfakes, de faux reportages vidéo et de fausses unes de journaux diffusés mercredi et jeudi. La plainte dénonce des faits de manipulation de l'information et de fabrication de contenus susceptibles de porter atteinte à la sincérité du scrutin présidentiel.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Niewiadoma remporte cette étape reine face à un public nombreux sur le Mont Ventoux.",
-          "url": "https://www.franceinfo.fr/tour-de-france/femmes/tour-de-france-femmes-2026-la-polonaise-kasia-niewiadoma-s-offre-le-maillot-jaune-en-haut-du-redoute-mont-ventoux_8139044.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "France 24",
+          "take": "Attal a signalé la diffusion de deepfakes et de fausses unes de journaux en provenance de réseaux russes.",
+          "url": "https://www.france24.com/fr/france/20260808-candidat-%C3%A0-la-pr%C3%A9sidentielle-gabriel-attal-porte-plainte-pour-ing%C3%A9rence-%C3%A9trange-en-provenance-de-la-russie"
         },
         {
           "outlet": "Libération",
-          "take": "La Polonaise, déjà vainqueure du Tour 2024, s'impose en solitaire lors de la première ascension du Ventoux au Tour féminin.",
-          "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-kasia-niewiadoma-en-demonstration-sur-les-pentes-du-mont-ventoux-20260807_ZLFBDKOH55AZTC7KSRWA33RKUQ/"
+          "take": "Les avocats du candidat ont confirmé le dépôt de plainte samedi 8 août pour ingérence étrangère russe.",
+          "url": "https://www.liberation.fr/politique/elections/deepfakes-faux-reportages-video-fausses-unes-de-journaux-gabriel-attal-porte-plainte-denoncant-une-ingerence-russe-20260808_6N4VP5J3JJEBNGXXZRD532ZQVE/"
         },
         {
-          "outlet": "Courrier International",
-          "take": "Cette victoire rebat considérablement les cartes et relance la compétition avant les deux dernières étapes selon la presse européenne.",
-          "url": "https://www.courrierinternational.com/article/cyclisme-tour-de-france-femmes-niewiadoma-signe-un-coup-de-maitre-au-sommet-du-redoutable-mont-ventoux_256974"
+          "outlet": "France Info",
+          "take": "L'opération de désinformation a visé Attal selon des modes opératoires identifiés comme pro-russes.",
+          "url": "https://www.franceinfo.fr/monde/russie/gabriel-attal-porte-plainte-apres-des-soupcons-d-ingerence-russe_8139455.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "L'Humanité",
-          "take": "Dans la lutte à trois entre favorites, Niewiadoma domine largement Reusser et Vollering, mais les écarts restent très serrés au classement.",
-          "url": "https://www.humanite.fr/sports/tour-de-france/tour-de-france-femmes-kasia-niewiadoma-triomphe-au-sommet-du-mont-ventoux-et-relance-la-bataille-pour-le-maillot-jaune"
+          "outlet": "Le Monde",
+          "take": "La plainte porte spécifiquement sur les risques d'atteinte aux intérêts fondamentaux de la nation et à la sincérité du scrutin à venir.",
+          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/08/gabriel-attal-porte-plainte-pour-une-ingerence-numerique-exterieure-et-en-provenance-de-russie_6740860_6205049.html"
         }
       ],
       "id": 1,
@@ -62,25 +62,36 @@
     },
     {
       "themes": [
-        "Monde"
+        "Tech & Sciences",
+        "Économie"
       ],
-      "title": "Arabie saoudite, Turquie et Pakistan signent un pacte de défense",
-      "full": "Le Pakistan, l'Arabie saoudite et la Turquie ont signé vendredi 7 août un accord de défense conjoint à La Mecque. Ce pacte stipule qu'une attaque contre l'un des trois pays sera considérée comme une attaque contre tous. L'accord marque un tournant dans les équilibres sécuritaires régionaux et intervient dans un contexte de tensions croissantes avec l'Iran et de défiance envers Washington.",
+      "title": "Une éclipse solaire totale attendue mercredi 12 août en Espagne",
+      "full": "Une éclipse solaire totale sera observable en Espagne le 12 août en fin de journée. En France, le phénomène sera partiel mais spectaculaire, avec le Soleil masqué à plus de 90 % par la Lune. Les compagnies électriques européennes se mobilisent pour compenser la baisse temporaire de production d'énergie solaire durant l'événement. Pour l'observer sans risque, des lunettes spécialisées sont recommandées.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Cet accord est accéléré par les tensions régionales et la méfiance croissante envers les États-Unis.",
-          "url": "https://www.liberation.fr/international/moyen-orient/arabie-saoudite-pakistan-et-turquie-scellent-un-pacte-de-defense-en-pleine-guerre-au-moyen-orient-20260807_VTPNOEBCZVHWLLOJXNDLBMSQKI/"
-        },
-        {
           "outlet": "Le Monde",
-          "take": "L'alliance scelle un tournant dans les équilibres sécuritaires du Moyen-Orient, notamment face aux tensions avec l'Iran.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/08/l-arabie-saoudite-la-turquie-et-le-pakistan-scellent-a-la-mecque-une-alliance-de-defense-inedite_6740783_3210.html"
+          "take": "Une éclipse totale en Espagne et une couverture partielle dépassant les 90 % en France.",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/08/08/eclipse-solaire-tout-comprendre-au-phenomene-attendu-le-12-aout_6740821_4355770.html"
         },
         {
-          "outlet": "Courrier International",
-          "take": "Le pacte, inspiré du modèle de l'Otan, constitue un 'bouclier' contre la menace iranienne et marque une restructuration inédite de l'architecture régionale.",
-          "url": "https://www.courrierinternational.com/article/moyen-orient-l-arabie-saoudite-le-pakistan-et-la-turquie-scellent-un-pacte-de-defense-regional-inspire-de-l-otan_257007"
+          "outlet": "20 Minutes",
+          "take": "Les producteurs d'électricité européens anticipent une baisse significative de la production solaire pendant l'éclipse.",
+          "url": "https://www.20minutes.fr/planete/4238312-20260808-eclipse-solaire-europe-prepare-baisse-production-electricite?at_medium=display&at_campaign=149"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Plusieurs conditions météorologiques et géographiques doivent être réunies pour observer correctement le phénomène.",
+          "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/horizon-degage-meteo-comment-trouver-le-bon-endroit-pour-observer-l-eclipse-solaire-du-12-aout_8134073.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "outlet": "Sciences et Avenir",
+          "take": "L'observation sécurisée de l'éclipse nécessite des lunettes adaptées et des précautions spécifiques.",
+          "url": "https://www.sciencesetavenir.fr/espace/des-lunettes-pour-observer-l-eclipse-en-toute-securite_193176?xtor=RSS-9"
+        },
+        {
+          "outlet": "Numerama",
+          "take": "À Paris, le Soleil sera masqué à plus de 92 % avec des points d'observation privilégiés identifiés dans la capitale.",
+          "url": "https://www.numerama.com/sciences/2306461-eclipse-solaire-du-12-aout-y-a-t-il-des-spots-parfaits-a-paris-pour-voir-le-phenomene.html"
         }
       ],
       "id": 2,
@@ -88,25 +99,30 @@
     },
     {
       "themes": [
-        "Environnement"
+        "Monde"
       ],
-      "title": "Le feu du Gros Bessillon dans le Var enfin maîtrisé après 18 jours",
-      "full": "L'incendie déclaré le 21 juillet dans le massif du Gros Bessillon (Var) a été fixé vendredi 7 août après dix-huit jours de mobilisation des pompiers. Le feu avait parcouru 6 300 hectares, détruit des dizaines d'habitations et menacé plusieurs villages. La préfecture a qualifié cet événement d'« inédit de par sa durée » pour le département. Cette crise met en lumière l'importance du débroussaillage préventif et de la préparation des communes à la défense anti-incendie.",
+      "title": "Un drone explose près d'un gazoduc en Bulgarie",
+      "full": "Un drone s'est écrasé et a explosé samedi 8 août dans un champ bulgare, à environ un kilomètre du gazoduc transbalkanique reliant la Turquie à l'Ukraine. Le ministère de la Défense bulgare a identifié l'engin comme un drone Maya, largement utilisé par les forces armées ukrainiennes. Toutefois, les autorités bulgares ont précisé qu'aucun élément ne permet actuellement de considérer cet incident comme intentionnel. L'Ukraine a confirmé qu'il ne s'agissait pas d'un ciblage délibéré et promis une enquête pour clarifier les circonstances de l'accident.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "La maire de Correns, Nicole Rullan, a mobilisé ses efforts sans relâche face au dévastement provoqué par le sinistre dans sa commune.",
-          "url": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-le-var-le-combat-d-une-maire-pour-sa-commune-devastee_8139038.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Le feu, déclaré fin juillet au centre du département, s'est distingué par son ampleur exceptionnelle et sa durée remarquable.",
-          "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-le-feu-dans-laude-desormais-fixe-legere-reprise-dans-la-drome-20260807_DLBDW73KIBG2HBOCVJ7UFV2SBU/"
+          "take": "Le drone identifié appartient à un modèle standard des forces armées ukrainiennes.",
+          "url": "https://www.franceinfo.fr/monde/europe/un-drone-entre-en-bulgarie-a-explose-pres-d-un-gazoduc-a-la-frontiere-roumaine-selon-le-premier-ministre-bulgare_8139743.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Le Monde",
-          "take": "L'incendie a révélé les défis majeurs posés par un feu extrêmement complexe et l'enjeu stratégique de la prévention et de la préparation territoriale.",
-          "url": "https://www.lemonde.fr/planete/article/2026/08/08/incendies-dans-le-var-les-lecons-d-un-feu-qui-a-tenu-tete-aux-pompiers-pendant-dix-huit-jours_6740785_3244.html"
+          "take": "Les autorités bulgares excluent pour l'instant tout acte volontaire et l'Ukraine dément une intention délibérée.",
+          "url": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-le-drone-qui-s-est-ecrase-samedi-en-bulgarie-est-d-un-type-largement-utilise-par-les-forces-armees-ukrainiennes_6737250_3210.html"
+        },
+        {
+          "outlet": "Libération",
+          "take": "L'explosion s'est produite à proximité d'une installation énergétique stratégique.",
+          "url": "https://www.liberation.fr/international/europe/un-drone-entre-en-bulgarie-a-explose-pres-dun-gazoduc-a-la-frontiere-roumaine-20260808_XGY73WLYINEGNC6BRKCGJ7WK2E/"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "L'incident survient alors que le président ukrainien Volodymyr Zelensky était en visite en Serbie.",
+          "url": "https://www.20minutes.fr/monde/ukraine/4238329-20260808-guerre-ukraine-drone-ukrainien-ecrase-bulgarie-acte-delibere?at_medium=display&at_campaign=149"
         }
       ],
       "id": 3,
@@ -114,30 +130,30 @@
     },
     {
       "themes": [
-        "Monde"
+        "Environnement"
       ],
-      "title": "L'Espagne instaure des contrôles frontaliers face à l'Italie",
-      "full": "L'Espagne a annoncé vendredi le rétablissement de contrôles temporaires aux frontières pour les voyageurs en provenance d'Italie, à partir de samedi. Cette mesure de rétorsion, prévue jusqu'au 7 septembre, répond aux restrictions que Rome a imposées après la crise migratoire à Ceuta, enclave espagnole en Afrique du Nord. Le gouvernement espagnol justifie cette décision par la persistance de la pression migratoire irrégulière, accentuant ainsi les tensions diplomatiques entre les deux États membres de l'Union européenne.",
+      "title": "La Gironde en vigilance rouge incendies, canicule annoncée",
+      "full": "La Gironde passe en vigilance rouge à partir de samedi midi en raison d'un risque « très élevé » de feux de forêt, annonce la préfecture. Parallèlement, Météo-France prévoit un retour progressif de la chaleur dans les prochains jours, avec des pics attendus jusqu'à 39 degrés dans le Sud-Ouest. Treize départements, situés principalement dans le Sud-Est et en Corse, sont placés en vigilance orange canicule dimanche.",
       "angles": [
         {
           "outlet": "20 Minutes",
-          "take": "L'Espagne adopte une mesure symétrique en réponse aux restrictions italiennes imposées suite à la crise de Ceuta.",
-          "url": "https://www.20minutes.fr/monde/espagne/4238281-20260807-crise-ceuta-espagne-repond-rome-retablissant-controles-frontieres-voyageurs-venant-italie?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Ces contrôles, valables jusqu'au 7 septembre, approfondissent la crise diplomatique entre Madrid et Rome au sein de l'UE.",
-          "url": "https://www.franceinfo.fr/monde/espagne/l-espagne-impose-des-controles-aux-frontieres-aux-voyageurs-venant-d-italie-en-reponse-aux-mesures-prises-par-rome-apres-la-crise-de-ceuta_8139068.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Madrid avait prévenu qu'elle recourrait à des mesures de rétorsion si l'Italie ne levait pas sa suspension de l'accord Schengen.",
-          "url": "https://www.france24.com/fr/europe/20260807-espagne-riposte-rome-impose-contr%C3%B4les-fronti%C3%A8res-voyageurs-venant-italie"
+          "take": "Met l'accent sur le basculement de la Gironde en vigilance rouge à partir de samedi midi.",
+          "url": "https://www.20minutes.fr/planete/4238314-20260808-incendie-gironde-departement-repasse-vigilance-rouge?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "Le Monde",
-          "take": "Le gouvernement espagnol justifie l'instauration de ces contrôles par la persistance de la pression migratoire irrégulière.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/07/l-espagne-impose-des-controles-aux-frontieres-aux-voyageurs-venant-d-italie-en-reponse-aux-mesures-similaires-introduites-par-rome-apres-la-crise-de-ceuta_6740539_3210.html"
+          "take": "Lie les deux phénomènes en signalant les pics de chaleur prévus dans le Sud-Ouest et la vallée du Rhône.",
+          "url": "https://www.lemonde.fr/planete/article/2026/08/08/incendies-la-gironde-repasse-en-vigilance-rouge-pour-risque-tres-eleve-de-feux-de-foret-13-departements-en-vigilance-orange-canicule-dimanche_6740857_3245.html"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Souligne l'annonce de Météo-France d'un « retour en force » progressif de la chaleur et cite les températures attendues.",
+          "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-le-feu-est-fixe-dans-le-var-mais-poursuit-sa-progression-dans-la-drome-20260808_CLNZ3Y5XOZBVBAQUJGX7J4BODA/"
+        },
+        {
+          "outlet": "France Info",
+          "take": "Énumère précisément les treize départements en vigilance orange canicule dimanche.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/douze-departements-en-vigilance-orange-canicule-samedi-et-dimanche_8139443.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 4,
@@ -145,25 +161,31 @@
     },
     {
       "themes": [
-        "Santé"
+        "Culture",
+        "France"
       ],
-      "title": "Un touriste franco-argentin positif à l'hantavirus",
-      "full": "Un citoyen franco-argentin a été testé positif jeudi 6 août à l'hantavirus, souche Andes, après un séjour touristique en France en juillet. Le patient, actuellement isolé en Espagne avec sa famille et asymptomatique, avait transité par l'Île-de-France, la Normandie et la Nouvelle-Aquitaine. Les autorités sanitaires françaises recommandent l'isolement à domicile pour les contacts proches, tout en précisant que le risque de transmission entre humains demeure très faible.",
+      "title": "L'Assemblée nationale veut démolir un bâtiment de 1888 pour un pavillon d'accueil",
+      "full": "La présidente de l'Assemblée nationale, Yaël Braun-Pivet, porte un projet de démolition d'un bâtiment datant de 1888 pour construire un nouveau pavillon d'accueil au Palais Bourbon, estimé à 53 millions d'euros. L'objectif affiché est d'améliorer l'accès des visiteurs et l'ouverture au public de l'institution. Le projet déclenche une vive polémique : les défenseurs du patrimoine et les opposants politiques critiquent la destruction d'un édifice ancien dans un contexte d'appels à réduire la dépense publique. Le bâtiment n'est pas classé au titre du patrimoine, ce qui permet la démolition.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Souligne l'isolement familial du patient en Galice et l'amélioration de son état de santé.",
-          "url": "https://www.lemonde.fr/planete/article/2026/08/07/hantavirus-isolement-a-domicile-recommande-pour-les-contacts-proches-du-touriste-franco-argentin_6740480_3244.html"
+          "outlet": "Le Figaro Politique",
+          "take": "Le chantier, porté depuis 2023 par la présidente de l'Assemblée, cristallise les tensions politiques entre majorité et oppositions.",
+          "url": "https://www.lefigaro.fr/politique/une-demolition-pure-et-simple-a-l-assemblee-nationale-le-futur-pavillon-d-accueil-declenche-une-bataille-politique-20260807"
         },
         {
-          "outlet": "Libération",
-          "take": "Met l'accent sur l'itinéraire du patient à travers plusieurs régions françaises et la correspondance avec la souche du navire MV Hondius.",
-          "url": "https://www.liberation.fr/societe/sante/hantavirus-un-patient-positif-isole-en-espagne-a-transite-en-france-fin-juillet-20260806_4D46O3MR7BH47AQ4L7NYTIVVQ4/"
+          "outlet": "Le Figaro Éco",
+          "take": "Le coût du projet pose question alors que l'État prône une réduction des dépenses publiques, les détails du budget restant flous.",
+          "url": "https://www.lefigaro.fr/conjoncture/les-dessous-tres-flous-de-l-addition-a-53-millions-d-euros-pour-le-futur-pavillon-de-l-assemblee-nationale-20260808"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "La démolition du bâtiment non classé provoque une mobilisation des défenseurs du patrimoine contre cette décision.",
+          "url": "https://www.lemonde.fr/politique/article/2026/08/08/le-projet-de-construction-d-un-nouveau-pavillon-d-accueil-a-l-assemblee-nationale-vire-a-la-polemique_6741405_823448.html"
         },
         {
           "outlet": "France Info",
-          "take": "Insiste sur le caractère transmissible entre humains tout en relativisant le risque épidémiologique global.",
-          "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/passe-par-la-france-en-juillet-isole-en-espagne-ce-que-l-on-sait-du-touriste-franco-argentin-chez-lequel-un-cas-d-hantavirus-a-ete-detecte_8138522.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "L'association Sites et Monuments critique la décision du Conseil de Paris, jugeant le futur bâtiment « grossier ».",
+          "url": "https://www.franceinfo.fr/culture/patrimoine/nouveau-pavillon-d-accueil-a-l-assemblee-l-association-sites-et-monuments-denonce-la-decision-du-conseil-de-paris-pour-faciliter-la-creation-d-un-batiment-grossier_8139761.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 5,
@@ -171,30 +193,25 @@
     },
     {
       "themes": [
-        "France"
+        "Monde"
       ],
-      "title": "Le rappeur Moha la Squale condamné à deux ans de prison",
-      "full": "Le rappeur Moha la Squale a été condamné vendredi 7 août à deux ans de prison, dont un avec sursis, pour violences sur deux femmes lors d'une soirée à Paris en mai. L'artiste de 31 ans avait été arrêté fin mai après que les deux victimes l'ont accusé de les avoir frappées à son domicile dans le 18e arrondissement. Cette condamnation intervient alors qu'il avait déjà été condamné en 2024 à quatre ans de prison, dont un avec sursis, notamment pour violences conjugales.",
+      "title": "Colombie : Abelardo de la Espriella prend ses fonctions",
+      "full": "Abelardo de la Espriella a été investi président de la Colombie vendredi 7 août. Le nouveau chef d'État a annoncé l'abandon de la politique de « paix totale » menée par son prédécesseur Gustavo Petro et a promis une confrontation directe avec les groupes armés et le narcotrafic, marquant une rupture stratégique nette. Dès le lendemain de son investiture, deux attaques violentes ont été perpétrées dans le pays, attribuées à des dissidents des FARC et ayant fait au moins un mort.",
       "angles": [
         {
-          "outlet": "L'Humanité",
-          "take": "Insiste sur le caractère de récidive légale et l'état d'ivresse présumé au moment des faits.",
-          "url": "https://www.humanite.fr/societe/musique/deja-condamne-moha-la-squale-de-retour-au-tribunal-pour-des-violences-volontaires-en-etat-divresse-et-en-recidive-legale"
+          "outlet": "Courrier International",
+          "take": "De la Espriella lance « l'ère du Tigre » et rompt avec la stratégie de paix en déclarant la guerre aux groupes armés et narcotrafiquants.",
+          "url": "https://www.courrierinternational.com/article/politique-en-colombie-le-president-de-la-espriella-lance-l-ere-du-tigre-avec-une-declaration-de-guerre_257106"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Le nouveau président d'extrême-droite réaffirme son attachement à « l'ordre » et « l'autorité » lors d'une cérémonie aux accents militaires et religieux.",
+          "url": "https://www.liberation.fr/international/amerique/en-colombie-le-nouveau-president-abelardo-de-la-espriella-sonne-le-retour-de-lordre-et-de-dieu-20260808_S3WZU7AGGNAKTOW5P57A4WWQ4Y/"
         },
         {
           "outlet": "Le Monde",
-          "take": "Précise que les faits se sont déroulés lors d'une soirée en mai 2026 et détaille l'historique judiciaire de l'artiste.",
-          "url": "https://www.lemonde.fr/societe/article/2026/08/08/le-rappeur-moha-la-squale-condamne-a-deux-ans-de-prison-pour-des-violences-sur-deux-femmes_6740503_3225.html"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Souligne la composition de la peine avec un an exécutoire et un an avec sursis probatoire.",
-          "url": "https://www.20minutes.fr/justice/4238295-20260808-rappeur-moha-squale-ecope-deux-ans-prison-avoir-frappe-deux-femmes-lors-soiree-paris?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Relève que l'artiste avait précédemment été condamné à trois ans de prison ferme en 2024 pour violences conjugales.",
-          "url": "https://www.franceinfo.fr/faits-divers/justice-proces/le-rappeur-moha-la-squale-comparait-devant-le-tribunal-correctionnel-de-paris-ce-vendredi-pour-violences-sur-deux-femmes_8138315.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Des attaques violentes surviennent le lendemain de l'investiture, illustrant l'instabilité sécuritaire du pays.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/08/colombie-l-attaque-d-un-peage-imputee-aux-dissidents-des-farc-au-lendemain-de-l-investiture-du-nouveau-president_6741582_3210.html"
         }
       ],
       "id": 6,
@@ -202,25 +219,25 @@
     },
     {
       "themes": [
-        "Tech & Sciences"
+        "Monde"
       ],
-      "title": "Eclipse solaire du 12 août : la France partiellement dans l'ombre",
-      "full": "Une éclipse solaire totale sera observable en Espagne mercredi 12 août en fin d'après-midi. En France, le phénomène sera partiel mais spectaculaire, avec plus de 90 % du Soleil masqué par la Lune. L'observation nécessite des lunettes de protection spécialisées, dont les stocks diminuent rapidement dans les pharmacies à quelques jours de l'événement.",
+      "title": "L'Espagne impose des contrôles aux frontières avec l'Italie",
+      "full": "L'Espagne a instauré vendredi des contrôles temporaires aux ports et aéroports pour les voyageurs en provenance d'Italie, valables jusqu'au 7 septembre. Cette mesure de rétorsion répond à la suspension par Rome de l'accord de libre circulation Schengen, décidée après l'arrivée massive de migrants dans l'enclave espagnole de Ceuta. Madrid avait auparavant averti qu'elle appliquerait des mesures similaires si l'Italie ne levait pas ces restrictions.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "Explique le mécanisme de l'éclipse et ses modalités d'observation selon les régions françaises.",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/08/08/eclipse-solaire-tout-comprendre-au-phenomene-attendu-le-12-aout_6740821_4355770.html"
+          "take": "Les contrôles espagnols seront effectués de manière aléatoire sur les liaisons aériennes et maritimes.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/08/crise-de-ceuta-en-espagne-debut-des-controles-aux-frontieres-pour-les-voyageurs-venant-d-italie-en-reponse-aux-mesures-similaires-prises-par-rome_6741510_3210.html"
         },
         {
-          "outlet": "France Info",
-          "take": "Souligne les pénuries de lunettes de protection et s'interroge sur la possibilité de réutiliser d'anciens modèles.",
-          "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/les-lunettes-de-protection-pour-admirer-l-eclipse-a-court-de-stock-peut-on-reutiliser-de-vieilles-paires_8139032.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "France 24",
+          "take": "Cette riposte espagnole était conditionnée au maintien par Rome de la suspension unilatérale de Schengen.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260808-l-espagne-riposte-face-%C3%A0-rome-en-imposant-des-contr%C3%B4les-aux-fronti%C3%A8res-aux-voyageurs-venant-d-italie"
         },
         {
-          "outlet": "Sciences et Avenir",
-          "take": "Fournit des conseils pratiques de sécurité pour choisir et utiliser correctement les lunettes d'observation.",
-          "url": "https://www.sciencesetavenir.fr/espace/des-lunettes-pour-observer-l-eclipse-en-toute-securite_193176?xtor=RSS-9"
+          "outlet": "Libération",
+          "take": "L'Espagne applique désormais des mesures symétriques à celles imposées par l'Italie aux voyageurs venus directement d'Espagne.",
+          "url": "https://www.liberation.fr/international/europe/les-voyageurs-venant-ditalie-sont-desormais-controles-aux-frontieres-espagnoles-20260808_URLGXZ6S6BFWTHRI5SJML2CIGM/"
         }
       ],
       "id": 7,
@@ -228,25 +245,25 @@
     },
     {
       "themes": [
-        "Monde"
+        "Sport"
       ],
-      "title": "Un drone explosif désamorcé à l'aéroport de Leipzig",
-      "full": "Un drone chargé d'un explosif militaire a été neutralisé près de l'aéroport de Leipzig en Allemagne, où sont stationnés des avions de transport de fret ukrainiens. Cet hub stratégique de l'Otan était visé dans le cadre d'une tentative de sabotage que les autorités allemandes et européennes attribuent aux services russes. L'état-major français a démenti la présence de munitions françaises à bord des appareils ciblés. L'incident a ravivé les tensions entre Berlin et Moscou concernant les ingérences russes en Europe.",
+      "title": "Championnats d'Europe de natation : le plongeon s'envole sur la Seine",
+      "full": "L'épreuve de plongeon de haut-vol des championnats d'Europe de natation se déroule actuellement sur la Seine, au pied de la tour Eiffel. Parallèlement, le nageur français Léon Marchand a annoncé son forfait sur les 200 et 400 mètres quatre nages, ses disciplines de prédilection, en raison d'une blessure à l'adducteur dont il redoute une récidive. Il conserve cependant ses inscriptions sur les 200 mètres papillon et 400 mètres nage libre.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Un drone porteur d'explosif militaire a visé des avions ukrainiens, avec soupçons de responsabilité russe.",
-          "url": "https://www.liberation.fr/international/europe/apres-la-tentative-de-sabotage-a-laeroport-de-leipzig-en-allemagne-les-services-russes-dans-le-viseur-20260807_Z4QJ4VTTFFAGDIAZMGBQZA3F6I/"
+          "outlet": "France Info",
+          "take": "Le cadre exceptionnel de la Seine, près de la tour Eiffel, offre un spectacle unique pour cette épreuve de plongeon de haut-vol.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/championnats-d-europe-de-natation-l-epreuve-de-plongeon-de-haut-vol-se-deroule-sur-la-seine_8139824.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "20 Minutes",
-          "take": "La découverte du drone explosive à Leipzig intensifie les tensions entre la Russie et l'Allemagne sur les tentatives de déstabilisation russes.",
-          "url": "https://www.20minutes.fr/monde/ukraine/4238276-20260807-guerre-ukraine-europe-face-ingerences-russes-tensions-allemagne-affaire-drone-leipzig?at_medium=display&at_campaign=149"
+          "take": "Marchand renonce à ses épreuves les plus importantes pour éviter d'aggraver sa blessure musculaire.",
+          "url": "https://www.20minutes.fr/sport/4238317-20260808-leon-marchand-forfait-200-400-quatre-nages-championnats-europe-natation?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Parallèlement, des frappes russes près de Kiev ont tué trois personnes dont un enfant.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-trois-morts-dont-un-enfant-dans-des-frappes-russes-pres-de-kiev_6737250_3210.html"
+          "outlet": "Libération",
+          "take": "Le forfait intervient avant le coup d'envoi de la compétition continentale, programmée le 10 août à Saint-Denis.",
+          "url": "https://www.liberation.fr/sports/leon-marchand-forfait-sur-ses-courses-de-predilection-aux-championnats-deurope-de-natation-20260808_LIQXWOOTMRFTNA32XYDI3AW4XY/"
         }
       ],
       "id": 8,
@@ -254,25 +271,25 @@
     },
     {
       "themes": [
-        "France"
+        "Monde"
       ],
-      "title": "Enquête ouverte après un incident impliquant Erik Tegnér en Bretagne",
-      "full": "Une enquête a été ouverte par le parquet de Lorient suite à des faits survenue dans la nuit du 5 au 6 août sur l'île de Groix, impliquant Erik Tegnér, fondateur du média Frontières. Tegnér a porté plainte pour agression, affirmant avoir été poussé par plusieurs individus. Cependant, selon les premières informations de la justice relayées mercredi, les éléments recueillis décrivent une « ambiance animée mais calme » et pointent un « comportement inadapté » de sa part, sans acte de violence clairement établi. Aucun auteur n'a pour l'instant été identifié.",
+      "title": "Le Sénat américain confirme Todd Blanche à la Justice",
+      "full": "Le Sénat américain a approuvé de justesse la nomination de Todd Blanche, ancien avocat de Donald Trump, au poste de ministre de la Justice, par un vote de 50 voix contre 49 samedi 8 août. Deux sénatrices républicaines ont voté contre cette confirmation. Blanche, qui assure l'intérim depuis avril, se verra confier la direction de l'ensemble du parquet fédéral et des procureurs américains.",
       "angles": [
         {
+          "outlet": "France 24",
+          "take": "Trump conteste devant les tribunaux le blocage de ses travaux d'aménagement à la Maison Blanche, déjà partiellement réalisés et financés.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260808-la-justice-bloque-encore-la-salle-de-bal-de-trump-qui-va-saisir-la-cour-supr%C3%AAme"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "La confirmation de Blanche au ministère de la Justice s'est faite malgré l'opposition de deux sénatrices de son propre camp.",
+          "url": "https://www.20minutes.fr/monde/etats-unis/4238310-20260808-senat-americain-approuve-nomination-todd-blanche-comme-ministre-justice?at_medium=display&at_campaign=149"
+        },
+        {
           "outlet": "Libération",
-          "take": "Tegnér dénonce une agression de la part d'« agresseurs antifascistes » et a porté plainte.",
-          "url": "https://www.liberation.fr/societe/police-justice/le-journaliste-dextreme-droite-erik-tegner-pris-a-partie-en-bretagne-une-enquete-ouverte-20260807_JS4EN4G3BNFBFNCKIXNYRFISPA/"
-        },
-        {
-          "outlet": "L'Humanité",
-          "take": "Le parquet contredit la version de Tegnér en décrivant une ambiance calme et pointant son comportement inapproprié.",
-          "url": "https://www.humanite.fr/societe/extreme-droite/le-parquet-de-lorient-contredit-le-recit-derik-tegner-patron-du-media-dextreme-droite-frontieres-apres-sa-plainte-pour-une-agression-presumee"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Aucun auteur n'a été identifié ni arrêté à ce stade de l'enquête.",
-          "url": "https://www.lemonde.fr/societe/article/2026/08/07/une-enquete-ouverte-apres-la-prise-a-partie-du-fondateur-du-media-identitaire-frontieres-dans-le-morbihan_6740536_3224.html"
+          "take": "Blanche, fidèle collaborateur du milliardaire républicain, occupait déjà le poste en intérim avant cette confirmation définitive.",
+          "url": "https://www.liberation.fr/international/amerique/le-senat-americain-approuve-sur-le-fil-la-nomination-de-todd-blanche-ancien-avocat-de-donald-trump-comme-ministre-de-la-justice-20260808_3HXB2GBEQRHHZPDG4IZQDFBIEA/"
         }
       ],
       "id": 9,
@@ -280,25 +297,25 @@
     },
     {
       "themes": [
-        "Économie"
+        "Culture"
       ],
-      "title": "Trenitalia commande 19 trains à Hitachi pour deux milliards",
-      "full": "Trenitalia France a passé commande de 19 trains à grande vitesse auprès du constructeur japonais Hitachi pour environ deux milliards d'euros. Ces trains circuleront sur le marché français au départ de Paris et sur une nouvelle liaison Paris-Londres que l'opérateur italien compte lancer en 2029, entrant en concurrence avec Eurostar. Les rames devront encore être homologuées pour le tunnel sous la Manche et le marché britannique.",
+      "title": "Catherine Dasté, pionnière du théâtre jeune public, décède à 96 ans",
+      "full": "Catherine Dasté, metteuse en scène et comédienne, est décédée jeudi 8 août à l'âge de 96 ans. Figure majeure du théâtre pour enfants, elle a fondé la compagnie La Pomme verte et créé, en collaboration avec Françoise Dolto, le premier centre dramatique pour l'enfance au théâtre de Sartrouville. Ses créations s'appuyaient sur la parole des enfants eux-mêmes.",
       "angles": [
         {
-          "outlet": "Le Figaro Éco",
-          "take": "Souligne l'ampleur de l'investissement (deux milliards d'euros) et les routes d'exploitation prévues en France et vers Londres.",
-          "url": "https://www.lefigaro.fr/societes/ferroviaire-trenitalia-france-commande-19-trains-a-grande-vitesse-au-japonais-hitachi-pour-environ-deux-milliards-d-euros-20260807"
-        },
-        {
           "outlet": "France Info",
-          "take": "Met l'accent sur la date confirmée de lancement de la liaison transalpine (2029) et la volonté de Trenitalia de défier Eurostar.",
-          "url": "https://www.franceinfo.fr/economie/transports/trenitalia-france-commande-19-trains-au-constructeur-hitachi-et-confirme-l-ouverture-d-une-liaison-paris-londres-en-2029_8139125.html#xtor=RSS-3-[lestitres]"
+          "take": "Insiste sur le rôle majeur qu'elle a joué dans la reconnaissance institutionnelle du théâtre jeune public en France.",
+          "url": "https://www.franceinfo.fr/culture/spectacles/theatre/catherine-daste-pionniere-du-theatre-pour-jeunes-est-morte-a-l-age-de-96-ans_8139863.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "Le Monde",
-          "take": "Précise que les trains seront adaptés aux réseaux européens à grande vitesse et que des étapes d'homologation restent nécessaires.",
-          "url": "https://www.lemonde.fr/economie/article/2026/08/07/trenitalia-commande-19-trains-a-hitachi-et-confirme-l-ouverture-de-la-liaison-paris-londres-en-2029_6740535_3234.html"
+          "take": "Détaille son approche créative basée sur la parole des enfants et son initiative du premier centre dramatique dédié à l'enfance.",
+          "url": "https://www.lemonde.fr/disparitions/article/2026/08/08/la-metteuse-en-scene-et-comedienne-catherine-daste-pionniere-du-theatre-jeune-public-est-morte_6741227_3382.html"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Souligne son statut de veuve du chanteur Graeme Allwright et précise la chronologie du décès et de l'annonce.",
+          "url": "https://www.liberation.fr/culture/arts/mort-de-catherine-daste-pionniere-du-theatre-pour-jeunes-20260808_BB7SRFI7SBB4JHWOAGERAGSLRU/"
         }
       ],
       "id": 10,
@@ -306,25 +323,25 @@
     },
     {
       "themes": [
-        "Culture"
+        "Économie"
       ],
-      "title": "Décès du producteur William Orbit, collaborateur emblématique de Madonna",
-      "full": "William Orbit, producteur britannique et architecte du son électronique de « Ray of Light » (1998), est décédé à l'âge de 69 ans. Cet album de Madonna, qui lui avait valu deux Grammy Awards en 1999, avait marqué un tournant dans sa carrière en le propulsant sur la scène internationale. Au-delà de la reine de la pop, Orbit avait travaillé avec Blur et Britney Spears, apportant sa signature électronique à de nombreux tubes pop.",
+      "title": "Indemnité carburant : délai de demande prolongé jusqu'à fin août",
+      "full": "La date limite pour demander l'indemnité « grands rouleurs » a été repoussée au 31 août 2026, selon un décret publié samedi. Elle devait initialement expirer le 30 juillet. Ce dispositif, destiné aux ménages modestes effectuant de longs trajets, avait été mis en place en avril pour compenser l'impact de la hausse des prix à la pompe liée aux tensions au Moyen-Orient.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "Souligne la double carrière de compositeur et de producteur reconnu pour avoir infusé une sensibilité électronique dans la musique pop grand public.",
-          "url": "https://www.lemonde.fr/disparitions/article/2026/08/07/le-producteur-william-orbit-proche-collaborateur-de-madonna-est-mort-a-l-age-de-69-ans_6740516_3382.html"
+          "take": "Le décret du ministère de l'action et des comptes publics officialise le report d'une semaine supplémentaire pour le dépôt des demandes.",
+          "url": "https://www.lemonde.fr/economie/article/2026/08/08/carburant-la-date-limite-de-depot-d-un-dossier-pour-demander-l-indemnite-grands-rouleurs-reportee-au-31-aout_6741026_3234.html"
         },
         {
-          "outlet": "Libération",
-          "take": "Met l'accent sur le rôle décisif de « Ray of Light » en 1998 comme moment charnière propulsant Orbit parmi les figures majeures de la production électronique.",
-          "url": "https://www.liberation.fr/culture/musique/mort-du-musicien-william-orbit-producteur-de-madonna-blur-britney-spears-20260807_WIGTAQBMXZGMJAJXJPRELEO7AY/"
+          "outlet": "Le Figaro Éco",
+          "take": "L'indemnité carburant s'inscrit dans une réponse gouvernementale aux conséquences économiques de la tension géopolitique au Moyen-Orient.",
+          "url": "https://www.lefigaro.fr/flash-eco/indemnite-carburant-pour-les-grands-rouleurs-la-date-limite-de-depot-reportee-a-la-fin-du-mois-20260808"
         },
         {
           "outlet": "France Info",
-          "take": "Rappelle l'apogée de sa collaboration avec Madonna marquée par le double Grammy Award obtenu en 1999.",
-          "url": "https://www.franceinfo.fr/culture/musique/william-orbit-le-producteur-de-l-iconique-ray-of-light-de-madonna-s-est-eteint-a-l-age-de-69-ans_8138666.html#xtor=RSS-3-[lestitres]"
+          "take": "Le dispositif est réservé aux ménages modestes parmi les travailleurs ayant des trajets importants.",
+          "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/la-date-limite-de-demande-de-l-indemnite-carburant-pour-les-grands-rouleurs-officiellement-reportee-fin-aout_8139521.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 11,
@@ -333,25 +350,25 @@
     {
       "themes": [
         "Économie",
-        "Société"
+        "Environnement"
       ],
-      "title": "La liaison ferroviaire directe Paris-Berlin suspendue pour défaillances techniques",
-      "full": "Deutsche Bahn a interrompu les trains directs entre Paris et Berlin en raison de problèmes techniques affectant le système fourni par le groupe français Alstom. Les voyageurs doivent désormais effectuer une correspondance en Allemagne, à Francfort ou Mannheim. La compagnie ferroviaire allemande demande à Alstom de corriger ces défaillances sans délai.",
+      "title": "La FNSEA réclame plusieurs milliards d'euros face aux dégâts climatiques",
+      "full": "Le syndicat agricole FNSEA demande un plan d'aide de plusieurs milliards d'euros pour compenser les dégâts causés par la sécheresse, les canicules et les incendies qui frappent le secteur agricole. Son président Arnaud Rousseau juge cette compensation nécessaire pour éviter que de nombreuses exploitations ne disparaissent, la situant comme une réponse gouvernementale « d'une ampleur inédite ». Le gouvernement a déjà dévoilé un plan de soutien d'urgence, mais le syndicat appelle à une intervention à la mesure de la « catastrophe climatique » décrite.",
       "angles": [
         {
-          "outlet": "Le Figaro Éco",
-          "take": "Deutsche Bahn impute les dysfonctionnements à des défaillances du système de signalisation Alstom, forçant les passagers à transiter par d'autres gares allemandes.",
-          "url": "https://www.lefigaro.fr/societes/la-liaison-ferroviaire-directe-paris-berlin-est-suspendue-a-cause-de-problemes-techniques-20260807"
+          "outlet": "20 Minutes",
+          "take": "Insiste sur le caractère « sans précédent » de la crise agricole combinant canicule, sécheresse et incendies.",
+          "url": "https://www.20minutes.fr/planete/4238315-20260808-canicule-secheresse-incendies-agriculture-reclame-milliards-euros-faire-face-degats?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "France Info",
-          "take": "La suspension affecte spécifiquement la circulation des trains à grande vitesse ICE et met en lumière des problèmes liés à l'équipement fourni par le groupe français Alstom.",
-          "url": "https://www.franceinfo.fr/economie/transports/la-liaison-ferroviaire-directe-entre-paris-et-berlin-est-suspendue-a-cause-d-un-probleme-technique_8138879.html#xtor=RSS-3-[lestitres]"
+          "take": "Met l'accent sur le risque de fermetures d'exploitations si les aides ne sont pas suffisamment massives.",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-president-de-la-fnsea-reclame-un-plan-de-plusieurs-milliards-d-euros-pour-soutenir-les-agriculteurs-touches-par-la-secheresse-et-les-episodes-de-canicule_8139515.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "Le Monde",
-          "take": "Deutsche Bahn réclame à Alstom une correction rapide des erreurs techniques à l'origine de l'arrêt des liaisons directes.",
-          "url": "https://www.lemonde.fr/economie/article/2026/08/07/train-paris-berlin-un-probleme-technique-empeche-les-liaisons-directes_6740509_3234.html"
+          "take": "Qualifie la situation de « catastrophe climatique inédite » et souligne l'appel à une réponse gouvernementale exceptionnelle.",
+          "url": "https://www.lemonde.fr/economie/article/2026/08/08/secheresse-et-canicules-les-agriculteurs-qui-font-face-a-une-une-catastrophe-climatique-inedite-ont-besoin-de-milliards-d-euros-d-aides-selon-la-fnsea_6741127_3234.html"
         }
       ],
       "id": 12,
@@ -359,25 +376,20 @@
     },
     {
       "themes": [
-        "Société"
+        "Monde"
       ],
-      "title": "Éducateur de gym mis en examen pour agressions sexuelles sur mineures",
-      "full": "Un éducateur de gymnastique de 58 ans a été mis en examen dans les Yvelines pour agressions et harcèlement sexuels sur une dizaine de mineures. L'enquête a débuté en mars après le témoignage d'une ancienne élève de 13 ans auprès de la gendarmerie, décrivant des caresses sur les parties intimes lors des cours. L'homme exerçait depuis une trentaine d'années dans le département et était connu du milieu associatif. Il fait l'objet de plusieurs qualifications pénales : agression sexuelle sur mineur, abus d'autorité, harcèlement sexuel et moral, ainsi que violence sans incapacité.",
+      "title": "Au Niger, une collision entre deux bus fait 22 morts",
+      "full": "Un choc frontal entre deux bus au Niger a fait au moins 22 morts, dont 17 militaires. Cet accident s'inscrit dans un contexte de sécurité routière dégradée : le pays a enregistré plus de 7 000 accidents de la route en 2025, responsables de plus de 1 200 décès selon les autorités nigériennes.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Met l'accent sur le signalement initial d'une victime de 13 ans et les gestes précis rapportés lors des séances sportives.",
-          "url": "https://www.liberation.fr/societe/police-justice/un-educateur-de-gym-dans-les-yvelines-mis-en-examen-pour-agressions-et-harcelement-sexuels-sur-mineures-20260807_IDKE3VN55BAHVKLB5EK7O5I4FY/"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Détaille l'âge du mis en examen et énumère précisément les infractions retenues contre lui.",
-          "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-educateur-de-gymnastique-mis-en-examen-dans-les-yvelines-pour-agressions-et-harcelement-sexuels-sur-une-dizaine-de-mineures_8138552.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "20 Minutes",
+          "take": "Souligne que les accidents de la route constituent un fléau récurrent au Niger, avec un bilan annuel lourd.",
+          "url": "https://www.20minutes.fr/monde/niger/4238346-20260809-niger-choc-frontal-entre-deux-bus-fait-22-morts-dont-17-militaires?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "Le Monde",
-          "take": "Souligne l'ancienneté et la notoriété de l'éducateur dans le milieu associatif régional.",
-          "url": "https://www.lemonde.fr/societe/article/2026/08/07/yvelines-un-educateur-de-gymnastique-mis-en-examen-pour-agressions-et-harcelement-sexuels-sur-mineures_6740513_3224.html"
+          "take": "Relève que le drame intervient alors que les autorités nigériennes cherchent à enrayer cette tendance accidentogène.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/09/une-violente-collision-entre-deux-bus-au-niger-fait-au-moins-22-morts-dont-17-militaires_6741681_3210.html"
         }
       ],
       "id": 13,
@@ -385,26 +397,20 @@
     },
     {
       "themes": [
-        "Monde",
-        "Santé"
+        "Environnement"
       ],
-      "title": "L'épidémie d'Ebola s'aggrave en RDC, l'OMS envisage un vaccin ancien",
-      "full": "La République démocratique du Congo fait face à une épidémie d'Ebola incontrôlée avec plus de 4 000 cas confirmés et environ 1 850 décès en moins de trois mois. Le virus s'étend à deux nouvelles zones de santé, tandis que l'aide internationale peine à arriver sur le terrain. L'Organisation mondiale de la santé propose de tester l'Ervebo, un ancien vaccin présentant des données préliminaires encourageantes et sans problème de sécurité majeur détecté. Les organisations internationales avertissent que la situation sécuritaire du pays complique le contrôle des chaînes de transmission.",
+      "title": "Incendie en Drôme : 320 hectares brûlés, situation instable",
+      "full": "Un incendie ravage le massif du Claps, près de Bellegarde-en-Diois en Drôme. Le feu, qui avait été stabilisé samedi matin, a repris de l'ampleur sous l'effet des températures élevées et a progressé jusqu'à consumer 320 hectares de forêt. La préfecture maintient une vigilance particulière sur deux secteurs du sinistre.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "L'OMS recommande de lancer un essai clinique avec le vaccin Ervebo, ancien mais prometteur selon les données initiales.",
-          "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-oms-appelle-a-organiser-un-essai-clinique-avec-l-ancien-vaccin-ervebo-pour-lutter-contre-le-nouveau-variant-d-ebola-qui-sevit-en-republique-democratique-du-congo_8138966.html#xtor=RSS-3-[lestitres]"
+          "outlet": "20 Minutes",
+          "take": "La préfecture déclare la situation stabilisée malgré une vigilance accrue sur certains fronts du feu.",
+          "url": "https://www.20minutes.fr/planete/4238319-20260808-incendie-drome-feu-stabilise-indique-prefecture?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "Courrier International",
-          "take": "L'épidémie est hors de contrôle et l'insécurité du pays entrave les efforts de lutte contre le virus.",
-          "url": "https://www.courrierinternational.com/article/sante-l-epidemie-d-ebola-a-fait-plus-de-1-800-morts-en-rdc-et-l-aide-internationale-tarde-a-arriver_256704"
-        },
-        {
-          "outlet": "France 24",
-          "take": "La progression du virus atteint désormais deux nouvelles zones de santé dans le pays.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260807-rd-congo-l-%C3%A9pid%C3%A9mie-d-ebola-s-%C3%A9tend-%C3%A0-deux-nouvelles-zones-de-sant%C3%A9"
+          "outlet": "Le Monde",
+          "take": "L'incendie a repris samedi après-midi après une stabilisation matinale, progressant de 9 hectares en quelques heures du fait des conditions thermiques.",
+          "url": "https://www.lemonde.fr/planete/article/2026/08/08/incendie-dans-la-drome-le-feu-stabilise-samedi-matin-a-repris-sous-l-effet-de-la-chaleur-et-a-legerement-progresse_6741362_3245.html"
         }
       ],
       "id": 14,
@@ -412,25 +418,20 @@
     },
     {
       "themes": [
-        "France"
+        "Environnement"
       ],
-      "title": "Le maire de Saint-Denis visé par une plainte pour cumul d'emplois",
-      "full": "Une association anticorruption a déposé plainte contre Bally Bagayoko, maire de Saint-Denis, suite à des révélations du Canard enchaîné. L'enquête évoque un cumul d'emplois entre son mandat local et un poste de cadre à la RATP, deux fonctions publiques à temps plein normalement incompatibles sans autorisation expresse. La plainte porte sur des soupçons de détournement de fonds publics et d'emploi fictif et a été transmise au Parquet national financier.",
+      "title": "Un incendie ravage 4 000 hectares en Andalousie",
+      "full": "Un incendie s'est déclaré près de Niebla, en Andalousie, dans le sud-ouest de l'Espagne, à environ 70 kilomètres de la frontière portugaise. Le feu a détruit plus de 4 000 hectares de forêt, alimenté par des vents violents soufflant entre 40 et 50 kilomètres à l'heure.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "AC !! Anti-Corruption a porté plainte pour détournement de fonds publics et emploi fictif.",
-          "url": "https://www.lemonde.fr/politique/article/2026/08/07/le-maire-de-saint-denis-bally-bagayoko-vise-par-une-plainte-d-ac-anti-corruption_6740517_823448.html"
-        },
-        {
-          "outlet": "Libération",
-          "take": "L'association dénonce un cumul d'emplois à la ville et à la RATP, qualifié de « double agenda » par le Canard enchaîné.",
-          "url": "https://www.liberation.fr/politique/soupcons-de-cumul-demplois-a-la-ville-et-a-la-ratp-une-association-anticorruption-porte-plainte-contre-bally-bagayoko-20260807_KWB5RW3HPBCB3LPGOXK7GQQCVA/"
+          "take": "Insiste sur la localisation précise du foyer et la vitesse des vents ayant attisé les flammes.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/08/un-incendie-dans-le-sud-ouest-de-l-espagne-a-touche-plus-de-4-000-hectares-de-foret_6741402_3210.html"
         },
         {
           "outlet": "France Info",
-          "take": "L'exercice simultané de deux emplois publics à temps plein viole la réglementation sauf autorisation motivée.",
-          "url": "https://www.franceinfo.fr/societe/justice/une-plainte-contre-x-deposee-pour-des-soupcons-de-detournement-de-fonds-publics-a-la-ratp-apres-une-enquete-du-canard-enchaine-sur-bally-bagayoko_8138669.html#xtor=RSS-3-[lestitres]"
+          "take": "Met l'accent sur l'ampleur de la destruction forestière dans la province de Huelva.",
+          "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-un-feu-de-foret-dans-la-province-de-huelva-dans-le-sud-ouest-du-pays-a-deja-ravage-4-000-hectares_8139842.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 15,
@@ -440,23 +441,18 @@
       "themes": [
         "Société"
       ],
-      "title": "Le pape Léon XIV rencontrera des victimes d'abus en France",
-      "full": "Lors de sa visite en France du 25 au 28 septembre, le pape Léon XIV rencontrera des victimes de violences sexuelles dans l'Église, a annoncé le Vatican vendredi. Le pontife se rendra à Paris, Metz et Lourdes. Cette rencontre s'inscrit dans les engagements pris par le pape en juin face au « fléau » des abus sexuels au sein de l'institution religieuse. Un rapport de 2021 avait estimé à 330 000 le nombre de mineurs victimes de violences sexuelles dans l'Église en France.",
+      "title": "Paris impose le casque et le gilet pour les trottinettes",
+      "full": "La préfecture de police de Paris rend obligatoires le port du casque et d'un équipement rétro-réfléchissant pour les utilisateurs de trottinettes électriques, ainsi que dans la petite couronne. Cette mesure répond à une augmentation des accidents graves. Le non-respect entraîne une amende de 135 euros pour le casque et de 35 euros pour l'absence d'équipement réfléchissant.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Souligne le contexte des promesses antérieures du pape concernant une réponse plus efficace aux violences sexuelles et rappelle l'ampleur du phénomène en France.",
-          "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/a-l-occasion-de-sa-visite-en-france-fin-septembre-le-pape-leon-xiv-rencontrera-des-victimes-de-violences-sexuelles-dans-l-eglise-annonce-le-vatican_8138405.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Souligne que cette décision s'inscrit en réaction à la hausse des accidents graves liés à ce mode de transport.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/trottinettes-electriques-le-casque-et-le-gilet-reflechissant-deviennent-obligatoires-a-paris_8140136.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France 24",
-          "take": "Relève que le Vatican n'a fourni aucun détail immédiat sur cette rencontre programmée.",
-          "url": "https://www.france24.com/fr/france/20260807-le-pape-l%C3%A9on-xiv-rencontrera-en-france-des-victimes-de-violences-sexuelles-dans-l-%C3%A9glise"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Précise que ce sera la première visite du pape en France et que les inscriptions gratuites pour assister aux célébrations ouvrent lundi.",
-          "url": "https://www.20minutes.fr/societe/4238236-20260807-rencontre-victimes-eglise-inscriptions-gratuites-sait-voyage-pape-leon-xiv-france?at_medium=display&at_campaign=149"
+          "outlet": "Le Monde",
+          "take": "Met l'accent sur les montants précis des sanctions forfaitaires instituées pour le non-respect de ces obligations.",
+          "url": "https://www.lemonde.fr/politique/article/2026/08/08/trottinettes-electriques-casque-et-gilet-reflechissant-sont-desormais-obligatoires-a-paris-et-en-petite-couronne_6741401_823448.html"
         }
       ],
       "id": 16,
@@ -464,20 +460,20 @@
     },
     {
       "themes": [
-        "Environnement"
+        "Société"
       ],
-      "title": "La déforestation de l'Amazonie brésilienne au plus bas en un an",
-      "full": "Entre août 2025 et juillet 2026, environ 2 900 kilomètres carrés de forêt amazonienne brésilienne ont été déboisés, marquant une baisse de 37 % comparée aux douze mois précédents, selon les données satellite. Ce recul s'inscrit dans la continuité des efforts du président Lula depuis son élection, loin du pic de 10 278 km² enregistré sur l'année 2022 sous Jair Bolsonaro.",
+      "title": "Darmanin dénonce des défaillances majeures dans le traitement des violences sexuelles sur mineurs",
+      "full": "Dans une note datée du 29 juillet adressée au ministère de l'Intérieur, Gérald Darmanin a relevé des dysfonctionnements importants dans la prise en charge des violences sexuelles contre les enfants. Le document, révélé par la presse le 8 août, pointe des dossiers en suspens, des enquêtes abandonnées et des manques de moyens au sein des services judiciaires qui ralentissent le suivi des procédures. Le Syndicat de la magistrature a réagi en notant avec ironie que le ministre semblait découvrir des problèmes structurels des services de police et de gendarmerie depuis longtemps identifiés.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Souligne l'amélioration intervenue sous le mandat actuel du président Lula.",
-          "url": "https://www.franceinfo.fr/monde/bresil/la-deforestation-dans-l-amazonie-bresilienne-est-au-plus-bas-sur-un-an-selon-les-dernieres-donnees-satellite_8139152.html#xtor=RSS-3-[lestitres]"
+          "take": "Le syndicat de la magistrature soulève que ces défaillances dans la prise en compte des violences sexuelles sur mineurs ne sont pas nouvelles pour les services judiciaires.",
+          "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/violences-sexuelles-sur-mineurs-le-syndicat-de-la-magistrature-a-l-impression-que-gerald-darmanin-decouvre-l-etat-des-services-de-police-et-de-gendarmerie_8140166.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Contextualise cette baisse historique face au pic de déforestation de l'ère Bolsonaro et l'associe aux promesses électorales de Lula.",
-          "url": "https://www.lemonde.fr/planete/article/2026/08/08/la-deforestation-de-l-amazonie-bresilienne-poursuit-une-baisse-historique-dans-la-lignee-de-la-promesse-de-campagne-de-lula_6740574_3244.html"
+          "outlet": "Libération",
+          "take": "Le courrier du ministre établit un diagnostic critique des retards procéduraux dus aux insuffisances de moyens des services judiciaires.",
+          "url": "https://www.liberation.fr/societe/police-justice/dossiers-fantomes-enquetes-a-labandon-le-gouvernement-veut-corriger-les-defaillances-dans-la-prise-en-compte-des-violences-sexuelles-sur-mineurs-20260808_EO3TDI3CMBEYLOPB5SA5F2SM4E/"
         }
       ],
       "id": 17,
@@ -487,18 +483,18 @@
       "themes": [
         "Société"
       ],
-      "title": "Un militaire mis en examen pour détournement d'IA à des fins criminelles",
-      "full": "Un militaire de 42 ans a été mis en examen à Metz après avoir détourné l'intelligence artificielle du ministère des Armées pour générer des images à caractère pédopornographique. Selon le procureur de la République, il avait effectué plus de 10 000 requêtes afin de forcer la création de ce type de contenu illégal.",
+      "title": "Plainte contre le maire de Saint-Denis pour cumul d'emplois",
+      "full": "L'association AC !! Anti-Corruption a déposé plainte vendredi auprès du Parquet national financier contre Bally Bagayoko, maire insoumis de Saint-Denis, pour soupçons de cumul d'emplois et de détournement de fonds publics. Selon une enquête du Canard enchaîné, l'élu aurait exercé simultanément ses fonctions municipales et un emploi à temps plein à la RATP.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Insiste sur l'utilisation détournée des outils informatiques militaires à titre personnel par le suspect.",
-          "url": "https://www.20minutes.fr/faits_divers/4238294-20260808-metz-detourne-ia-armee-fins-pedopornographiques-militaire-mis-examen?at_medium=display&at_campaign=149"
+          "outlet": "Libération",
+          "take": "L'association réagit à une révélation du Canard enchaîné évoquant un « double agenda » entre les responsabilités de Bagayoko à la ville et à la RATP.",
+          "url": "https://www.liberation.fr/politique/soupcons-de-cumul-demplois-a-la-ville-et-a-la-ratp-une-association-anticorruption-porte-plainte-contre-bally-bagayoko-20260807_KWB5RW3HPBCB3LPGOXK7GQQCVA/"
         },
         {
           "outlet": "France Info",
-          "take": "Met l'accent sur l'ampleur de l'activité criminelle, quantifiée par le nombre de requêtes effectuées.",
-          "url": "https://www.franceinfo.fr/faits-divers/un-militaire-a-ete-mis-en-examen-a-metz-pour-avoir-detourne-l-ia-de-l-armee-a-des-fins-pedopornographiques_8139062.html#xtor=RSS-3-[lestitres]"
+          "take": "La plainte vise spécifiquement des soupçons de détournement de fonds publics et d'emploi fictif liés au cumul de fonctions.",
+          "url": "https://www.franceinfo.fr/politique/la-france-insoumise/une-plainte-deposee-contre-bally-bagayoko-pour-des-soupcons-de-detournement-de-fonds-publics_8139734.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 18,
@@ -506,21 +502,20 @@
     },
     {
       "themes": [
-        "Culture",
-        "Société"
+        "Sport"
       ],
-      "title": "Le Paname Art Café accusé de sexisme et de maltraitance envers les artistes",
-      "full": "Une vidéo publiée mercredi par l'humoriste Sylvain Fergot a déclenché une vague de témoignages contre le Paname Art Café, le plus grand comedy club de France. Plusieurs artistes dénoncent des conditions de travail précaires, l'absence de rémunération et un environnement profondément sexiste au sein de l'établissement parisien. La direction réfute ces accusations de management toxique.",
+      "title": "Gianni Infantino face à une contestation croissante à la FIFA",
+      "full": "Le président de la FIFA, Gianni Infantino, traverse une période de fragilité politique au sein de la fédération internationale. La Fédération norvégienne réclame son départ, tandis que la FIFA elle-même dénonce « un effort concerté et continu » pour l'affaiblir. L'Italo-Suisse de 56 ans, candidat à sa propre succession en mars, est notamment critiqué pour son projet d'ouverture aux investisseurs privés, finalement abandonné. Il conserve cependant des soutiens solides, particulièrement en Afrique.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Les témoignages recueillis soulignent une atmosphère très masculine et des artistes très mal payés voire non rémunérés.",
-          "url": "https://www.liberation.fr/culture/au-paname-art-cafe-plusieurs-humoristes-denoncent-les-methodes-du-comedy-club-il-y-a-du-sexisme-et-les-artistes-sont-tres-mal-payes-voire-pas-du-tout-20260807_332BGM6BEVGHLMDGNFLE35CYPA/"
+          "outlet": "France Info",
+          "take": "Infantino fait face à une fronde grandissante, mais maintient des appuis importants au sein du football africain.",
+          "url": "https://www.franceinfo.fr/sports/foot/gianni-infantino-un-president-de-la-fifa-plus-que-jamais-conteste_8139527.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France Info",
-          "take": "La vidéo dénonciatrice a atteint plus de 6 millions de vues et incite d'autres humoristes, notamment des femmes, à s'exprimer sur les conditions du comedy club.",
-          "url": "https://www.franceinfo.fr/culture/spectacles/humour/le-paname-art-cafe-accuse-de-management-toxique-par-plusieurs-humoristes_8138831.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "La FIFA qualifie les critiques contre son président de campagne organisée, alors qu'il brigue sa réélection en mars.",
+          "url": "https://www.lemonde.fr/sport/article/2026/08/09/la-fifa-denonce-un-effort-concerte-et-continu-pour-affaiblir-son-president-gianni-infantino-sous-le-feu-des-critiques_6741714_3242.html"
         }
       ],
       "id": 19,
@@ -528,21 +523,20 @@
     },
     {
       "themes": [
-        "Économie",
         "Société"
       ],
-      "title": "Les culottes menstruelles réutilisables auront un cahier des charges strict",
-      "full": "Le gouvernement a publié au Journal officiel un arrêté fixant les critères de remboursement des culottes menstruelles réutilisables. Le texte impose une composition minimale de trois couches : une couche drainante en coton biologique ou lyocell au contact de la peau, une couche absorbante et une couche imperméable antifuites. Des normes de résistance au lavage et de capacité d'absorption sont également définis. Cette réglementation suscite déjà des critiques parmi certains fabricants français, qui jugent les exigences trop strictes.",
+      "title": "Le rappeur Moha La Squale condamné à deux ans de prison",
+      "full": "Le rappeur parisien Moha La Squale a été condamné vendredi 7 août à deux ans d'emprisonnement, dont un ferme, pour violences sur deux femmes lors d'une soirée à son domicile en mai dernier. Il avait déjà été condamné en 2024 pour violences sur conjoint.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Met l'accent sur les spécifications techniques précises imposées par l'arrêté concernant la composition des trois couches obligatoires.",
-          "url": "https://www.franceinfo.fr/societe/resistance-au-lavage-composition-specifique-capacite-d-absorption-minimum-les-regles-du-remboursement-des-culottes-menstruelles-precisees_8138828.html#xtor=RSS-3-[lestitres]"
+          "outlet": "Libération",
+          "take": "Souligne la condamnation assortie d'une probation et le contexte précis de l'incident en soirée privée.",
+          "url": "https://www.liberation.fr/societe/police-justice/moha-la-squale-le-rappeur-condamne-a-deux-ans-de-prison-dont-un-ferme-pour-des-violences-sur-deux-femmes-20260808_753V643PTVEFRIR5G3T7ZW22SM/"
         },
         {
-          "outlet": "Le Figaro Éco",
-          "take": "Souligne que ces critères stricts génèrent déjà des réactions négatives du côté des producteurs français.",
-          "url": "https://www.lefigaro.fr/social/culottes-et-coupes-menstruelles-reutilisables-le-gouvernement-precise-les-regles-du-remboursement-20260807"
+          "outlet": "France Info",
+          "take": "Met l'accent sur l'antécédent judiciaire du rappeur en matière de violences conjugales.",
+          "url": "https://www.franceinfo.fr/societe/justice/moha-la-squale-condamne-a-deux-ans-de-prison-dont-un-avec-sursis-pour-des-violences-sur-deux-femmes_8139470.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 20,
@@ -550,21 +544,20 @@
     },
     {
       "themes": [
-        "Économie",
-        "Environnement"
+        "Sport"
       ],
-      "title": "La production française de maïs chute à son plus bas depuis 1980",
-      "full": "La récolte de maïs devrait atteindre neuf millions de tonnes en 2026, en baisse de 35% par rapport aux années précédentes, marquant son plus faible niveau depuis 1980. Cette effondrement résulte de la conjonction de la sécheresse, qui grève les rendements, et des choix des agriculteurs face aux conditions climatiques difficiles. Le gouvernement a annoncé un plan d'urgence mercredi 5 août associant mesures économiques pour éviter les faillites d'exploitation et facilitation de l'accès à l'eau.",
+      "title": "Le ballon de la main de Dieu de Maradona aux enchères",
+      "full": "Le ballon avec lequel Diego Maradona a marqué deux buts lors du quart de finale du Mondial-1986 entre l'Argentine et l'Angleterre, dont le controversé but de la main de Dieu, sera mis aux enchères fin août à Beverly Hills. Il est estimé à plus de 10 millions de dollars. Le maillot porté par l'Argentin lors de cette même rencontre du 22 juin 1986, remportée 2-1 par l'Argentine, avait déjà atteint le prix record de 9,3 millions de dollars en 2022.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Le gouvernement met l'accent sur un soutien économique global aux agriculteurs pour prévenir les défaillances d'exploitations et améliorer l'accès à la ressource hydrique.",
-          "url": "https://www.liberation.fr/environnement/agriculture/canicule-et-secheresse-la-production-francaise-de-mais-au-plus-bas-depuis-1980-20260807_PJ4XF2BWOBH3JAA4C6GPXFVBKI/"
+          "outlet": "France Info",
+          "take": "Souligne la valeur exceptionnelle estimée à plus de 10 millions de dollars pour ce ballon historique.",
+          "url": "https://www.franceinfo.fr/sports/foot/diego-maradona/le-ballon-de-la-main-de-dieu-vendu-aux-encheres-estime-a-plus-de-10-millions-de-dollars_8139974.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Le Figaro Éco",
-          "take": "La baisse est attribuée conjointement à l'impact climatique direct (sécheresse) et aux décisions d'adaptation des agriculteurs face à ces conditions.",
-          "url": "https://www.lefigaro.fr/conjoncture/canicules-la-recolte-francaise-de-mais-tombe-a-son-plus-bas-niveau-depuis-1980-20260807"
+          "outlet": "Libération",
+          "take": "Rappelle le contexte du match et note que le maillot de Maradona de cette même rencontre s'était vendu 9,3 millions de dollars en 2022.",
+          "url": "https://www.liberation.fr/sports/football/le-ballon-de-la-main-de-dieu-de-maradona-aux-encheres-estime-a-plus-de-10-millions-de-dollars-20260808_3STHDNYANJHEFPPO5S5EUJ7Q3Y/"
         }
       ],
       "id": 21,
@@ -572,20 +565,15 @@
     },
     {
       "themes": [
-        "Économie"
+        "Insolite"
       ],
-      "title": "Le magazine VSD racheté par l'entrepreneur Vianney d'Alançon",
-      "full": "L'entrepreneur Vianney d'Alançon, ancien président de l'école de journalisme ESJ Paris, a acquis le magazine VSD auprès du groupe Heroes Media. Il prévoit de développer la publication en renforçant sa stratégie numérique pour élargir son audience face aux grands magazines de week-end.",
+      "title": "Les cabanes, refuges essentiels de l'imagination enfantine",
+      "full": "Slate explore le phénomène universel des cabanes construites par les enfants, analysant leur rôle dans le développement imaginaire et le rapport à la nature. Ces espaces improvisés permettraient aux jeunes de créer un univers personnel protégé, facilitant progressivement leur appropriation de l'environnement extérieur et leur confiance en eux.",
       "angles": [
         {
-          "outlet": "Le Figaro Éco",
-          "take": "Le rachat place VSD, emblème des années 1980, sous la direction d'un nouvel entrepreneur ayant des ambitions concurrentielles dans le secteur des magazines généralistes.",
-          "url": "https://www.lefigaro.fr/medias/embleme-des-annees-1980-le-magazine-vsd-est-rachete-par-l-entrepreneur-vianney-d-alancon-20260807"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "L'acquisition s'accompagne d'une stratégie explicite d'élargissement d'audience fondée sur le renforcement du volet numérique.",
-          "url": "https://www.20minutes.fr/arts-stars/medias/4238274-20260807-entrepreneur-vianney-alancon-rachete-vsd-objectif-elargir-audience?at_medium=display&at_campaign=149"
+          "outlet": "Slate",
+          "take": "Les cabanes fonctionnent comme des laboratoires de l'imagination où l'enfant expérimente l'autonomie et se construit un lien émotionnel avec la nature.",
+          "url": "https://www.slate.fr/enfants/construction-cabanes-enfants-imagination-bonheur-vegetaux-bois"
         }
       ],
       "id": 22,
@@ -593,20 +581,15 @@
     },
     {
       "themes": [
-        "Sport"
+        "Insolite"
       ],
-      "title": "La Fédération norvégienne demande la démission d'Infantino",
-      "full": "La Fédération norvégienne de football appelle Gianni Infantino à quitter son poste à la tête de la Fifa, estimant qu'il n'est plus en mesure de diriger l'institution. Cette demande intervient après l'abandon du projet FFE (Football for Everyone), qui visait à ouvrir la Fifa aux investisseurs privés et qui avait soulevé de vives critiques. Selon la fédération scandinave, « il n'y a plus de retour en arrière possible », signifiant que la confiance envers le président italien n'a pas pu être restaurée malgré le retrait du projet polémique.",
+      "title": "Dix plantes aromatiques qui prospèrent sous la chaleur intense",
+      "full": "Contrairement à l'idée reçue, certaines plantes aromatiques ne redoutent pas les fortes chaleurs et le soleil direct : elles en tirent même leurs meilleures conditions de croissance. Un guide en recense dix variétés particulièrement résistantes, idéales pour les jardins exposés ou les périodes estivales.",
       "angles": [
         {
           "outlet": "20 Minutes",
-          "take": "La Fédération norvégienne considère qu'Infantino a perdu la légitimité nécessaire pour diriger l'instance, indépendamment de l'abandon de la réforme FFE.",
-          "url": "https://www.20minutes.fr/sport/football/4238234-20260807-fifa-plus-retour-arriere-possible-federation-norvegienne-reclame-demission-infantino?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Le président Infantino traverse une période de fragilité croissante, avec une contestation qui s'intensifie à la suite de l'échec de son plan d'ouverture aux capitaux privés.",
-          "url": "https://www.liberation.fr/sports/football/la-federation-norvegienne-reclame-la-demission-dinfantino-a-la-tete-de-la-fifa-20260807_J4IYXKQTKZBQZAYBBNH4N6N7U4/"
+          "take": "Le média souligne que les fortes chaleurs constituent un avantage plutôt qu'un obstacle pour certaines plantes aromatiques qui s'y adaptent naturellement.",
+          "url": "https://www.20minutes.fr/tempo/style/4238216-20260808-10-plantes-aromatiques-increvables-adorent-soleil-chaleur?at_medium=display&at_campaign=149"
         }
       ],
       "id": 23,
@@ -614,20 +597,15 @@
     },
     {
       "themes": [
-        "Environnement"
+        "Insolite"
       ],
-      "title": "Une nouvelle vague de chaleur s'installe en France",
-      "full": "Météo-France prévoit un renforcement des températures élevées dans les prochains jours, porté par une remontée d'air chaud via la vallée du Rhône. Le seuil des 30 °C sera dépassé dans une large partie du territoire, du nord de la Bretagne à la frontière allemande, avec des pointes de 36 à 38 °C dans le Sud et jusqu'à 39 °C en Aquitaine. Il s'agit de la troisième vague de chaleur estivale.",
+      "title": "L'Islande a sa propre pratique de rencontre amoureuse",
+      "full": "En Islande existe une forme de dating appelée « quarter to four », qui se distingue des codes de séduction français. Cette pratique, typiquement islandaise, répond à des conventions locales en matière de rencontres amoureuses. D'autres pays comme la Suède ou le Brésil possèdent également leurs propres codes de dating, reflétant la diversité des usages culturels selon les régions.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Souligne le mécanisme météorologique : une remontée d'air chaud par le Rhône provoquant ce retour brutal des fortes températures.",
-          "url": "https://www.liberation.fr/environnement/climat/plus-de-30c-dans-le-nord-39-dans-le-sud-ouest-meteo-france-annonce-un-retour-en-force-des-fortes-temperatures-dans-les-prochains-jours-20260807_PVLI2HKBQFD5DJ5E56KHAAIKH4/"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Détaille précisément la géographie thermique attendue, en distinguant les zones à 30 °C du reste du pays et les pics du Sud-Ouest.",
-          "url": "https://www.lemonde.fr/planete/article/2026/08/07/vague-de-chaleur-un-retour-en-force-progressif-des-hautes-temperatures-prevu-dans-les-prochains-jours-en-france_6740490_3244.html"
+          "outlet": "20 Minutes",
+          "take": "L'Islande pratique une forme de dating appelée « quarter to four » qui diffère des conventions françaises et s'inscrit dans une variété de codes de séduction selon les destinations.",
+          "url": "https://www.20minutes.fr/tempo/bien-etre/4236811-20260808-nuit-vie-quoi-quarter-to-four-forme-dating-typiquement-islandaise?at_medium=display&at_campaign=149"
         }
       ],
       "id": 24,
@@ -635,21 +613,15 @@
     },
     {
       "themes": [
-        "France",
-        "Société"
+        "Insolite"
       ],
-      "title": "Le pape Léon XIV en visite officielle en France en septembre",
-      "full": "Le souverain pontife effectuera sa première visite d'État officielle en France depuis dix-huit ans, fin septembre. Son périple comprendra notamment Notre-Dame de Paris, les Champs-Élysées, Lourdes et Metz. Une messe rassemblant plusieurs centaines de milliers de fidèles est prévue à la place de la Concorde et sur les Champs-Élysées, ce qui suscite des interrogations sur le choix symbolique de ces lieux.",
+      "title": "Un essai sur l'histoire du sel crée le buzz deux décennies après sa sortie",
+      "full": "Le livre « Salt » de Mark Kurlansky, paru en 2002 et consacré à l'histoire du sel à travers les civilisations, connaît un regain d'intérêt inattendu. En début juillet, un créateur de contenu a partagé un avis enthousiaste sur l'ouvrage de 500 pages, générant une vague de popularité sur les réseaux sociaux. L'éditeur français a confirmé ce phénomène imprévu, transformant cet essai en best-seller des décennies après sa première publication.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Met l'accent sur la portée symbolique du lieu choisi pour la célébration et le questionnement qu'elle soulève quant à cette « démonstration de puissance ».",
-          "url": "https://www.liberation.fr/societe/religions/leon-xiv-en-france-est-il-bien-raisonnable-de-celebrer-une-messe-sur-la-place-de-la-concorde-et-les-champs-elysees-20260807_5Q23F7JGIZGAZL4OAJJCNC4TIQ/"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Souligne le caractère exceptionnel de cette première visite d'État depuis dix-huit ans et détaille l'itinéraire complet du pape à travers plusieurs villes françaises.",
-          "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/notre-dame-de-paris-champs-elysees-stade-de-france-lourdes-metz-les-principales-etapes-du-pape-leon-xiv-lors-de-sa-visite-en-france-en-septembre_8138573.html#xtor=RSS-3-[lestitres]"
+          "outlet": "20 Minutes",
+          "take": "Un créateur de contenu a relancé le succès du livre via les réseaux sociaux, attirant l'attention de l'éditeur français qui observe ce phénomène viral.",
+          "url": "https://www.20minutes.fr/arts-stars/culture/4237722-20260808-salt-livre-500-pages-histoire-sel-devient-phenomene-vingt-quatre-ans-apres-parution?at_medium=display&at_campaign=149"
         }
       ],
       "id": 25,
@@ -657,169 +629,19 @@
     },
     {
       "themes": [
-        "Santé"
+        "Insolite"
       ],
-      "title": "Une octogénaire dénonce son passage six jours sur un brancard aux urgences",
-      "full": "Une ancienne élue d'Orléans, âgée de 85 ans, affirme avoir passé six jours et cinq nuits sur un brancard aux urgences du CHU après une hémorragie. Traumatisée par cette prise en charge, elle a finalement quitté l'établissement contre l'avis médical en signant une décharge. Son témoignage illustre les tensions actuelles dans les services d'urgence français.",
+      "title": "Le musée Chirac cambriolé pour la troisième fois en un an",
+      "full": "Le musée Jacques-Chirac de Sarran, en Corrèze, a rouvert ses portes deux jours après son troisième cambriolage en douze mois. Inauguré en 2000, cet établissement abrite environ 5 000 cadeaux diplomatiques offerts à l'ancien président de la République durant ses deux mandats. La répétition des intrusions soulève des questions sur la sécurité du site.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "La patiente décrit son expérience comme une « plongée en enfer » et a accepté un entretien pour raconter son séjour prolongé en brancard.",
-          "url": "https://www.franceinfo.fr/sante/hopital/crise/urgences-six-jours-aux-urgences-sur-un-brancard_8139041.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Libération",
-          "take": "La retraitée a dénoncé publiquement, via un communiqué, la prise en charge jugée scandaleuse et a quitté l'hôpital traumatisée.",
-          "url": "https://www.liberation.fr/societe/sante/une-ancienne-elue-de-85-ans-hospitalisee-six-jours-sur-un-brancard-aux-urgences-dorleans-denonce-un-enfer-20260807_Q4AV6MSPEZEFNPRMOYOR7WCJRA/"
+          "take": "Le musée rouvre rapidement malgré les cambriolages récurrents qui affectent sa collection de présents d'État.",
+          "url": "https://www.franceinfo.fr/france/nouvelle-aquitaine/correze/le-musee-jacques-chirac-de-sarran-en-correze-rouvre-ses-portes-deux-jours-apres-un-troisieme-cambriolage-en-un-an_8139554.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 26,
       "priority": 27
-    },
-    {
-      "themes": [
-        "Culture"
-      ],
-      "title": "La 36e « Nuit des étoiles » propose des centaines d'ateliers jusqu'à dimanche",
-      "full": "L'édition 2026 de la « Nuit des étoiles » se déroule du vendredi 7 au dimanche 9 août dans toute la France. Plus de 600 rendez-vous gratuits d'observation du ciel sont organisés, permettant au public d'admirer notamment les Perséides, la Voie lactée et une éclipse solaire. Cette manifestation annuelle se distingue par son ampleur en termes d'ateliers et de sites d'observation proposés aux amateurs d'astronomie.",
-      "angles": [
-        {
-          "outlet": "20 Minutes",
-          "take": "Mise en avant de la 36e édition et des centaines d'ateliers proposés avant l'événement astronomique de l'éclipse.",
-          "url": "https://www.20minutes.fr/planete/4238182-20260807-avant-eclipse-tout-faut-savoir-nuit-etoiles-lieu-jusqu-dimanche?at_medium=display&at_campaign=149"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Souligne le nombre précis de rendez-vous gratuits (plus de 600) et les phénomènes célestes visibles durant ces trois jours.",
-          "url": "https://www.franceinfo.fr/sciences/espace/nuit-des-etoiles/perseides-voie-lactee-eclipse-solaire-ce-qu-il-faut-savoir-sur-l-edition-2026-des-nuits-des-etoiles-qui-debute-vendredi_8138264.html#xtor=RSS-3-[lestitres]"
-        }
-      ],
-      "id": 27,
-      "priority": 28
-    },
-    {
-      "themes": [
-        "Société",
-        "Tech & Sciences"
-      ],
-      "title": "Meta condamnée à verser près d'un milliard de dollars pour protéger les mineurs",
-      "full": "Un juge du Nouveau-Mexique a ordonné à Meta de verser près d'un milliard de dollars pour réparer les préjudices causés aux mineurs par Facebook et Instagram. Cette condamnation inclut le financement de programmes de santé mentale et de prévention sur cinq ans, ainsi que des pénalités civiles décidées en mars par un jury de Santa Fe. Meta devra également mettre en place des mesures de protection inédites : masquer les compteurs de « likes » aux mineurs, désactiver certaines notifications la nuit et pendant les heures de cours.",
-      "angles": [
-        {
-          "outlet": "France Info",
-          "take": "Le jugement impose à Meta des obligations concrètes et inhabituelles visant à réduire les mécanismes d'addiction auprès des jeunes utilisateurs.",
-          "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/facebook/meta-somme-de-verser-pres-d-un-milliard-de-dollars-aux-etats-unis-pour-reparer-les-dommages-causes-aux-mineurs-par-ses-reseaux-sociaux_8138054.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Mediapart",
-          "take": "Les fonds condamnés seront affectés à des programmes de prévention et de soutien psychologique pour les jeunes, au-delà des simples amendes financières.",
-          "url": "https://www.mediapart.fr/journal/international/070826/mineurs-et-reseaux-sociaux-meta-somme-de-verser-pres-d-un-milliard-de-dollars-au-nouveau-mexique"
-        }
-      ],
-      "id": 28,
-      "priority": 29
-    },
-    {
-      "themes": [
-        "France"
-      ],
-      "title": "Un pavillon de 53 millions d'euros à l'Assemblée nationale cristallise les critiques",
-      "full": "La présidente de l'Assemblée nationale Yaël Braun-Pivet porte un projet de nouveau pavillon d'accueil estimé à 53 millions d'euros, destiné à améliorer la visite du Palais Bourbon par le public. Lancé en 2023, ce chantier implique la démolition d'un bâtiment datant de 1888 et suscite une vive polémique : oppositions, élus et commentateurs contestent son coût, son esthétique et son calendrier.",
-      "angles": [
-        {
-          "outlet": "Le Figaro Politique",
-          "take": "Le projet cristallise une bataille politique, les différentes oppositions s'unissant contre ce qu'elles jugent comme un usage questionnable des deniers publics.",
-          "url": "https://www.lefigaro.fr/politique/une-demolition-pure-et-simple-a-l-assemblee-nationale-le-futur-pavillon-d-accueil-declenche-une-bataille-politique-20260807"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Les critiques multiples (coût, design, planification) laissent la présidente de l'Assemblée en difficulté face à l'ampleur de la contestation.",
-          "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-yael-braun-pivet-depassee-par-les-critiques-sur-le-projet-du-nouveau-pavillon-d-accueil-de-l-assemblee-nationale_8069999.html#xtor=RSS-3-%5Bgeneral%5D"
-        }
-      ],
-      "id": 29,
-      "priority": 30
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Zidane sélectionneur : la rédaction salue le retour en grâce des chauves",
-      "full": "La nomination de Zinedine Zidane au poste de sélectionneur de l'équipe de France fait réagir au-delà du simple domaine sportif. Un chroniqueur du magazine Slate y voit l'occasion d'une réhabilitation symbolique des hommes chauves, que l'ancien joueur incarne depuis des décennies avec assurance.",
-      "angles": [
-        {
-          "outlet": "Slate",
-          "take": "La prise en main de l'équipe de France par Zidane représenterait, selon la chronique, un tournant pour l'image sociale et la popularité des chauves.",
-          "url": "https://www.slate.fr/societe/blog-sagalovitsch-avec-zidane-selectionneur-equipe-france-retour-grace-chauves"
-        }
-      ],
-      "id": 30,
-      "priority": 31
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "La disco fait son grand retour cet été à Paris",
-      "full": "Le mouvement disco connaît une renaissance en cette période estivale. Plusieurs lieux parisiens proposent aux amateurs de danser sur les grands classiques du genre, avec boules à facettes et ambiance années 1970 au programme. Cette vague de nostalgie s'inspire notamment de l'époque dorée du mythique Studio 54 de New York, haut lieu de la culture disco.",
-      "angles": [
-        {
-          "outlet": "20 Minutes",
-          "take": "La rédaction propose une série estivale consacrée à la disco, en mettant en avant les pistes de danse parisiennes où revivre l'esprit festif de cette époque.",
-          "url": "https://www.20minutes.fr/tempo/4235816-20260807-disco-revival-quand-studio-54-new-york-sens-fete?at_medium=display&at_campaign=149"
-        }
-      ],
-      "id": 31,
-      "priority": 32
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Le birdwatching séduit les jeunes générations en Islande",
-      "full": "L'observation des oiseaux, longtemps réputée comme hobby de spécialistes, connaît un engouement croissant auprès des jeunes et des novices. L'Islande, riche de sa biodiversité aviaire, s'impose comme destination prisée pour cette activité, au point qu'elle devient une offre touristique structurée. Le macareux, emblématique des côtes islandaises, figure parmi les vedettes de ces expéditions.",
-      "angles": [
-        {
-          "outlet": "20 Minutes",
-          "take": "Le birdwatching sort de son statut de niche pour devenir une activité touristique grand public, attirant notamment les jeunes générations et les débutants.",
-          "url": "https://www.20minutes.fr/tempo/escapade/4237880-20260807-macareux-roi-islande-teste-birdwatching-activite-plein-boom-aupres-jeunes-novices?at_medium=display&at_campaign=149"
-        }
-      ],
-      "id": 32,
-      "priority": 33
-    },
-    {
-      "themes": [
-        "Insolite",
-        "Société"
-      ],
-      "title": "La tendance TikTok du compagnon qui marche devant",
-      "full": "Sur TikTok, un phénomène viral intitulé « Man Walking Ahead Theory » fait débat. Des femmes y partagent des vidéos montrant leur compagnon marchant plusieurs mètres en avant d'elles. Si ce comportement peut sembler banal, il suscite des commentaires nourris sur les réseaux sociaux, alimentant des discussions sur ce qu'il révèlerait des relations de couple.",
-      "angles": [
-        {
-          "outlet": "20 Minutes",
-          "take": "La plateforme TikTok amplifie cette observation en la posant comme révélatrice d'une dynamique relationnelle digne d'analyse.",
-          "url": "https://www.20minutes.fr/societe/4238127-20260807-marcher-devant-partenaire-detail-dit-long?at_medium=display&at_campaign=149"
-        }
-      ],
-      "id": 33,
-      "priority": 34
-    },
-    {
-      "themes": [
-        "Insolite"
-      ],
-      "title": "Turbulences en air clair : 17 blessés sur un vol Air India",
-      "full": "Un avion Air India reliant Phuket à New Delhi a traversé une zone de turbulences extrêmes au-dessus du golfe du Bengale, provoquant une chute brutale de 90 mètres en quelques secondes. Le phénomène a blessé 17 passagers. Des vidéos de bord montrent les dégâts causés à l'intérieur de l'appareil et témoignent de la violence des secousses ressenties par les voyageurs.",
-      "angles": [
-        {
-          "outlet": "20 Minutes",
-          "take": "Met l'accent sur les témoignages vidéo des passagers décrivant leur peur et les dommages visibles à bord de l'avion.",
-          "url": "https://www.20minutes.fr/arts-stars/insolite/4238206-20260807-inde-tremblais-pleurais-video-degats-violentes-turbulences-blesse-17-passagers?at_medium=display&at_campaign=149"
-        }
-      ],
-      "id": 34,
-      "priority": 35
     }
   ]
 }
