@@ -1,28 +1,27 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-08-13T05:26:08.037694+00:00
+// 2026-08-14T04:02:16.092302+00:00
 const ARTICLES = [
   {
     "themes": [
-      "Environnement",
-      "Tech & Sciences"
+      "Monde"
     ],
-    "title": "Éclipse solaire en Europe: effets énergétiques et précautions d'observation",
-    "full": "Une éclipse solaire partielle sera visible mercredi 12 août en France et touchera plusieurs pays européens. En Allemagne et Espagne, la baisse de production d'énergie photovoltaïque pendant le phénomène devrait faire plus que doubler les prix de gros de l'électricité pendant quelques heures. L'Espagne, située dans la zone de totalité, anticipe cependant un afflux touristique compensateur. Pour les observateurs français, des précautions s'imposent: photographier directement le Soleil ou l'observer nécessite un équipement de protection spécifique pour éviter les dommages aux yeux et au matériel photographique.",
+    "title": "Mali gracie un agent français de la DGSE condamné à 20 ans",
+    "full": "Le président de la Transition malien Assimi Goïta a gracié jeudi un officier de la direction générale de la sécurité extérieure (DGSE) français, condamné en juin à vingt ans de prison. Cet agent, dûment accrédité auprès des autorités maliennes, était détenu depuis un an à Bamako. Cette libération intervient après plusieurs mois de négociations diplomatiques et des années de tensions entre Paris et Bamako.",
     "angles": [
       {
-        "outlet": "France 24",
-        "take": "Met l'accent sur les impacts économiques de l'éclipse, notamment la volatilité des prix de l'électricité en Allemagne et le potentiel touristique en Espagne et Islande.",
-        "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260812-eclipse-l-%C3%A9lectricit%C3%A9-solaire-en-berne-l-astro-tourisme-au-firmament"
+        "outlet": "Le Monde",
+        "take": "L'officier Yann Vézilier, officiellement accrédité, a pu être libéré au terme de tractations diplomatiques entre les deux pays.",
+        "url": "https://www.lemonde.fr/afrique/article/2026/08/13/l-agent-de-la-dgse-yann-vezilier-condamne-au-mali-a-vingt-ans-de-prison-a-ete-gracie_6745816_3212.html"
       },
       {
-        "outlet": "Le Figaro Sciences",
-        "take": "Insiste sur les recommandations de sécurité pour les photographes et observateurs afin de protéger leurs yeux et leur matériel.",
-        "url": "https://www.lefigaro.fr/secteur/high-tech/eclipse-ces-precautions-a-prendre-si-vous-voulez-faire-des-belles-photos-sans-abimer-vos-yeux-ni-votre-materiel-20260812"
+        "outlet": "France Info",
+        "take": "Le Mali l'accusait de travailler pour le service de renseignement français, accusations que Paris avait qualifiées de sans fondement.",
+        "url": "https://www.franceinfo.fr/monde/afrique/mali/un-francais-condamne-a-20-ans-de-prison-au-mali-a-ete-gracie_8146412.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "outlet": "Le Figaro Politique",
-        "take": "Rapporte la réaction du gouvernement face aux critiques relatives à la disponibilité des lunettes de protection solaire.",
-        "url": "https://www.lefigaro.fr/politique/on-peut-facilement-en-trouver-le-gouvernement-repond-a-la-polemique-sur-les-lunettes-de-protection-pour-l-eclipse-solaire-20260812"
+        "outlet": "Libération",
+        "take": "La détention à Bamako aura duré environ un an avant cette grâce présidentielle.",
+        "url": "https://www.liberation.fr/international/afrique/mali-un-agent-du-renseignement-francais-detenu-depuis-un-an-gracie-20260813_TU2YG62K5RAFZPJA7UVJFN4QBI/"
       }
     ],
     "id": 0,
@@ -30,25 +29,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie"
+      "Monde"
     ],
-    "title": "Appel à la grève chez EasyJet France les 15 et 16 août",
-    "full": "L'intersyndicale du personnel de cabine d'EasyJet France appelle à la grève pour le week-end du 15 et 16 août. Les trois syndicats dénoncent une dégradation continue des conditions de travail, évoquant un épuisement physique et mental du personnel due à l'instabilité chronique des plannings. Un préavis de grève couvre la période du 7 août au 2 septembre. Un mouvement social antérieur, lors du lundi de Pâques, avait eu des conséquences très limitées sur le trafic.",
+    "title": "Nigel Farage revendique la victoire à une législative partielle britannique",
+    "full": "Le chef du parti anti-immigration Reform UK, Nigel Farage, a revendiqué vendredi matin une victoire « écrasante » à l'élection législative partielle de Clacton, au Royaume-Uni. Ce scrutin a été provoqué par sa propre démission début juillet, consécutive à des affaires de dons non déclarés. Les partis traditionnels britanniques ont boycotté l'élection, la qualifiant de « cirque » et de « farce ».",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Le préavis couvre une période élargie (7 août au 2 septembre) permettant une mobilisation sur plusieurs semaines.",
-        "url": "https://www.lemonde.fr/economie/article/2026/08/12/easyjet-les-hotesses-et-stewards-appeles-a-la-greve-en-france-les-15-et-16-aout_6745060_3234.html"
+        "outlet": "France 24",
+        "take": "Farage a lui-même déclenché cette législative partielle après avoir été visé par des problèmes de financement, tandis que les partis établis ont refusé d'y participer.",
+        "url": "https://www.france24.com/fr/europe/20260814-l%C3%A9gislative-partielle-au-royaume-uni-nigel-farage-revendique-la-victoire"
       },
       {
-        "outlet": "France Info",
-        "take": "Les syndicats pointent l'instabilité chronique des plannings comme source majeure d'épuisement physique et mental.",
-        "url": "https://www.franceinfo.fr/economie/greve/trois-syndicats-d-hotesses-et-stewards-d-easyjet-france-appellent-a-la-greve-samedi-et-dimanche_8144567.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Trois syndicats coordonnent leur action via un communiqué commun ce mercredi.",
-        "url": "https://www.liberation.fr/economie/social/greve-chez-easyjet-france-hotesses-et-stewards-appeles-a-la-mobilisation-les-15-et-16-aout-20260812_ILKXQ5OEBBC6FHN2ES72S5FZAI/"
+        "outlet": "Courrier International",
+        "take": "Les partis traditionnels dénoncent l'absence de véritable portée politique de ce scrutin auquel ils ont choisi de ne pas prendre part.",
+        "url": "https://www.courrierinternational.com/article/royaume-uni-nigel-farage-revendique-la-victoire-a-une-election-legislative-partielle-sans-reelle-portee_259185"
       }
     ],
     "id": 1,
@@ -56,25 +50,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Société"
     ],
-    "title": "Eurovision durcit ses règles pour les pays en conflit",
-    "full": "À partir de 2027, l'Eurovision modifie son règlement. Un pays vainqueur ne pourra plus accueillir le concours s'il connaît un conflit armé, une situation géopolitique sensible ou tout risque pour la sécurité de son territoire. L'âge minimum des candidats sera également relevé à 18 ans. Ces changements ont été annoncés mercredi 12 août par les organisateurs du concours.",
+    "title": "Finistère : enquête après la mort d'une fillette d'intoxication alimentaire",
+    "full": "Une enquête a été ouverte suite au décès d'une fillette de 2 ans et huit mois à Brest le 1er août. Selon sa mère, l'enfant aurait contracté la bactérie E.coli après avoir mangé dans un restaurant de Quimper quelques jours avant son hospitalisation. À ce stade, les analyses menées dans l'établissement n'ont révélé aucune contamination, indique le parquet.",
     "angles": [
       {
         "outlet": "20 Minutes",
-        "take": "Souligne que ces nouvelles règles s'appliqueront à partir de 2027 et concernent l'inéligibilité automatique des pays en conflit.",
-        "url": "https://www.20minutes.fr/arts-stars/culture/4238939-20260812-eurovision-nouvelles-regles-pays-guerre-pourront-accueillir-concours-avenir?at_medium=display&at_campaign=149"
+        "take": "Souligne l'ouverture d'une enquête et met en avant la suspicion d'une contamination bactérienne suite au décès.",
+        "url": "https://www.20minutes.fr/faits_divers/4239134-20260813-brest-intoxication-alimentaire-suspectee-apres-mort-fillette-2-ans?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Libération",
-        "take": "Précise les critères d'inéligibilité en mentionnant explicitement le conflit armé, la situation géopolitique sensible et les enjeux de sécurité.",
-        "url": "https://www.liberation.fr/culture/eurovision-les-pays-en-guerre-ne-pourront-plus-accueillir-le-concours-a-lavenir-20260812_P67TM3PTXRAQLJOFUIZ2MOBNWQ/"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Contextualise la mesure en rappelant qu'Israël a terminé deuxième lors des deux dernières éditions.",
-        "url": "https://www.franceinfo.fr/culture/musique/eurovision/l-eurovision-annonce-que-les-pays-en-guerre-ne-pourront-plus-accueillir-le-concours-a-l-avenir_8145236.html#xtor=RSS-3-[lestitres]"
+        "take": "Précise le lieu du repas (restaurant de Quimper) et note que les premières analyses de l'établissement n'ont pour l'instant rien détecté.",
+        "url": "https://www.liberation.fr/societe/police-justice/dans-le-finistere-enquete-ouverte-sur-la-mort-dune-fillette-de-deux-ans-apres-une-possible-intoxication-alimentaire-20260813_2N54RJFTP5DAZAN6BLMAUQAGM4/"
       }
     ],
     "id": 2,
@@ -82,25 +71,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Économie"
     ],
-    "title": "Ukraine face à l'intensification russe et aux difficultés logistiques",
-    "full": "La Russie intensifie ses opérations militaires en Ukraine, multipliant les frappes balistiques en profondeur tandis que le président Poutine menace de saisir les navires occidentaux. L'armée ukrainienne, confrontée à une pénurie d'intercepteurs Patriot, peine à bloquer ces attaques et signale des problèmes d'approvisionnement en eau et nourriture sur le terrain. Parallèlement, le soutien américain s'essouffle, plongeant les alliés de Kiev dans une phase d'incertitude accrue quant à la poursuite de leur aide militaire.",
+    "title": "Le ministre de l'Économie envisage un gel partiel des retraites",
+    "full": "Roland Lescure a défendu jeudi l'idée d'une revalorisation des retraites inférieure à l'inflation pour le budget 2027, afin de dégager des économies. Le ministre propose de préserver les retraités aux revenus modestes tout en mettant à contribution les retraités aisés. Cette suggestion intervient alors que le gouvernement cherche à réduire le déficit public pour l'exercice budgétaire à venir.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Poutine brandit la menace de saisir des navires occidentaux en représailles tandis que les soldats ukrainiens manquent de ressources vitales.",
-        "url": "https://www.20minutes.fr/monde/ukraine/4238935-20260812-guerre-ukraine-poutine-menace-navires-occidentaux-soldats-ukrainiens-manquent-eau-nourriture?at_medium=display&at_campaign=149"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "La Russie intensifie sa guerre hybride contre l'Europe au moment où le soutien américain montre des signes de faiblesse, créant une incertitude stratégique pour Kiev.",
-        "url": "https://www.lemonde.fr/international/article/2026/08/13/guerre-en-ukraine-face-a-moscou-les-allies-de-kiev-sont-entres-dans-une-phase-accrue-d-incertitude_6745505_3210.html"
-      },
-      {
         "outlet": "France Info",
-        "take": "L'armée de l'air ukrainienne, manquant d'intercepteurs Patriot, a dû restreindre la diffusion d'informations sur les frappes balistiques russes.",
-        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-difficulte-l-ukraine-restreint-la-diffusion-de-donnees-sur-les-frappes-de-missiles-russes_8145398.html#xtor=RSS-3-[lestitres]"
+        "take": "Roland Lescure plaide pour une augmentation des retraites inférieure à l'inflation, tout en veillant à épargner les retraités les plus modestes.",
+        "url": "https://www.franceinfo.fr/economie/budget/la-question-d-un-gel-partiel-des-retraites-merite-d-etre-posee-en-vue-du-budget-2027-defend-le-ministre-de-l-economie_8146724.html#xtor=RSS-3-[lestitres]"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Le ministre ouvre la porte à une mise à contribution spécifique des retraités aisés dans le contexte des défis budgétaires et économiques du gouvernement.",
+        "url": "https://www.liberation.fr/economie/roland-lescure-ministre-de-leconomie-la-question-de-la-contribution-des-retraites-aises-merite-detre-posee-20260813_U5IQ2HGOTBGIHI7V5XSDBYS7XI/"
       }
     ],
     "id": 3,
@@ -108,25 +92,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Culture",
+      "Société"
     ],
-    "title": "Clacton-on-Sea : Farage face à des candidats parodiques",
-    "full": "Nigel Farage, leader de la droite populiste britannique, devrait être réélu député de Clacton-on-Sea le 13 août lors d'une élection partielle qu'il a lui-même provoquée en démissionnant après la révélation d'un don non déclaré. Travaillistes et conservateurs boycottent le scrutin, laissant Farage face à un nombre record de 33 candidats, dont de nombreux satiriques comme Count Binface, dont le programme ridiculise l'extrême droite. Cette élection reflète les clivages britanniques sur l'immigration et le rapport à l'élite politique.",
+    "title": "En Isère, 80 000 euros de cartes Pokémon volées dans un braquage",
+    "full": "Quatre cambrioleurs ont forcé l'entrée d'une boutique de cartes à collectionner à Bourgoin-Jallieu (Isère) jeudi 13 août vers 4 heures du matin, dérobant plusieurs centaines de cartes, principalement de la franchise Pokémon, pour un préjudice estimé à 80 000 euros. Ce vol s'inscrit dans une série de cambriolages visant les commerces spécialisés dans les cartes de collection, un phénomène en hausse depuis quelques années.",
     "angles": [
       {
         "outlet": "Libération",
-        "take": "Count Binface, candidat au look spatial, s'impose comme figure de résistance satirique face à Farage, dans la tradition britannique de l'humour politique contestataire.",
-        "url": "https://www.liberation.fr/international/europe/royaume-uni-aux-elections-de-clacton-on-sea-le-comte-a-tete-de-poubelle-rejoue-les-agitateurs-face-a-farage-20260813_FDOPGZICNRBXPIT2OCOCHSEDQQ/"
+        "take": "Souligne le caractère récurrent de ces vols ciblant les boutiques de cartes de collection.",
+        "url": "https://www.liberation.fr/societe/police-justice/dans-lisere-80-000-euros-de-cartes-de-collection-pokemon-derobes-un-phenomene-recurrent-20260813_NMFXEU34HVFZFPR5BJ6HDBENXE/"
       },
       {
-        "outlet": "Courrier International",
-        "take": "Le scrutin prend l'allure d'une élection étrange où les deux grands partis se sont retirés, laissant place à une confrontation entre Farage et une pléiade de challengers farfelus.",
-        "url": "https://www.courrierinternational.com/article/royaume-uni-nigel-farage-vers-une-victoire-dans-une-drole-d-election-que-personne-ne-trouve-marrante_258200"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "Dans les zones côtières comme Jaywick, le soutien à Farage s'enracine dans les préoccupations d'électeurs face à l'immigration et aux craintes de perte d'emplois au profit d'étrangers.",
-        "url": "https://www.lemonde.fr/international/article/2026/08/12/tous-ces-migrants-illegaux-qui-arrivent-sur-nos-cotes-prennent-les-emplois-des-britanniques-dans-la-station-balneaire-de-jaywick-le-vote-pour-nigel-farage-est-nourri-par-la-peur-de-l-etranger_6745082_3210.html"
+        "outlet": "France Info",
+        "take": "Identifie précisément la boutique visée et le montant du préjudice dans ce braquage nocturne.",
+        "url": "https://www.franceinfo.fr/culture/a-bourgoin-jallieu-des-cambrioleurs-s-emparent-de-centaines-de-cartes-pokemon_8146298.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 4,
@@ -134,25 +114,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Monde"
     ],
-    "title": "Messi doute de poursuivre sa carrière après le décès de son père",
-    "full": "Lionel Messi a exprimé mercredi des doutes sur la poursuite de sa carrière professionnelle dans une lettre d'adieu à son père, Jorge Messi, décédé samedi à 68 ans. Le joueur argentin de 39 ans, qui a remporté la Coupe du monde en 2022, a confié sur Instagram ne pas savoir « comment continuer » et qu'il ne se voyait pas jouer « encore longtemps ». Jorge Messi, qui était aussi l'agent et un proche confident de son fils, avait accompagné toute sa carrière.",
+    "title": "Pologne : arrestation d'un Russe soupçonné de préparer un assassinat à Varsovie",
+    "full": "La Pologne a annoncé jeudi l'arrestation d'un ressortissant russe soupçonné de préparer l'assassinat d'un citoyen américano-ukrainien à Varsovie. Selon le Premier ministre polonais Donald Tusk, cet homme aurait agi sur ordre de Moscou visant une personnalité jugée gênante pour Vladimir Poutine. L'opération aurait été déjouée avant son exécution.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Messi évoque à demi-mot la fin de sa carrière professionnelle alors qu'il était encore impressionnant lors du dernier Mondial.",
-        "url": "https://www.20minutes.fr/sport/football/4238912-20260812-lionel-messi-confie-voit-jouer-encore-longtemps-emouvant-message-adieu-pere-decede?at_medium=display&at_campaign=149"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Le défunt Jorge Messi était également l'ami et l'agent du joueur, rôles clés dans sa vie personnelle et professionnelle.",
-        "url": "https://www.franceinfo.fr/sports/foot/lionel-messi/lionel-messi-emet-des-doutes-sur-le-fait-qu-il-jouera-encore-longtemps-dans-une-lettre-d-adieu-a-son-pere-decede_8144807.html#xtor=RSS-3-[lestitres]"
+        "outlet": "France 24",
+        "take": "Met l'accent sur le caractère implacable de l'ordre présumé venant de Moscou et sur l'imminence du crime qui aurait pu être commis.",
+        "url": "https://www.france24.com/fr/europe/20260813-pologne-arrestation-ressortissant-russe-charg%C3%A9-ex%C3%A9cuter-am%C3%A9ricano-ukrainien-varsovie"
       },
       {
         "outlet": "Libération",
-        "take": "Messi partage publiquement son incertitude quant à son avenir au football face au deuil qu'il traverse.",
-        "url": "https://www.liberation.fr/international/amerique/je-ne-sais-pas-comment-continuer-lionel-messi-dit-quil-nest-pas-certain-de-jouer-encore-longtemps-au-foot-apres-le-deces-de-son-pere-20260812_2NBVEAVJUNBNNINLHBCW3ULPAY/"
+        "take": "Souligne que la cible était considérée comme particulièrement problématique pour le régime russe.",
+        "url": "https://www.liberation.fr/international/europe/pologne-un-ressortissant-russe-interpelle-accuse-de-tentative-dexecution-dun-americano-ukrainien-20260813_YIER3N64LJHDNBXW7LMSFVK6LI/"
       }
     ],
     "id": 5,
@@ -160,20 +135,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Société"
     ],
-    "title": "La Corée du Nord renforce son soutien militaire à la Russie en Ukraine",
-    "full": "Depuis l'invasion russe de février 2022, la collaboration entre Moscou et Pyongyang s'est intensifiée, offrant à la Corée du Nord une opportunité de contourner les sanctions internationales. Des troupes nord-coréennes ont participé aux opérations russes dans la région de Koursk en 2024 et 2025, selon les observations ukrainiennes. Après un repli momentané, les forces de Kim Jong-un ont récemment redéployé en force aux côtés de l'armée russe, suscitant l'indignation des commentateurs ukrainiens.",
+    "title": "Vol et destruction de cloches en bronze aux Vosges",
+    "full": "Une enquête a été ouverte après le vol de cloches en bronze dans une ancienne fonderie du village de Robécourt, dans les Vosges, survenu dans la nuit du 4 au 5 août. Quatre des cinq cloches ont été retrouvées et restituées au musée local le 10 août, mais elles sont gravement endommagées : deux ont perdu leurs anses et ne peuvent plus fonctionner, deux autres ont été pulvérisées à coups de masse. Le vol aurait pu rapporter environ 8 000 euros aux auteurs.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "La guerre offre à Kim Jong-un un moyen d'assouplir son isolement diplomatique en renforçant ses liens économiques et militaires avec Moscou.",
-        "url": "https://www.liberation.fr/international/asie-pacifique/guerre-en-ukraine-la-coree-du-nord-profite-de-ses-liens-avec-la-russie-pour-consolider-son-regime-20260812_UN6P63RQINDGBNB7U223NXV6PQ/"
+        "outlet": "Le Monde",
+        "take": "Détaille l'état de destruction des cloches découvertes après le vol nocturne.",
+        "url": "https://www.lemonde.fr/societe/article/2026/08/13/dans-les-vosges-une-enquete-a-ete-ouverte-apres-le-vol-de-cloches-en-bronze-dans-le-village-de-robecourt_6745798_3224.html"
       },
       {
-        "outlet": "Courrier International",
-        "take": "Des troupes nord-coréennes ont combattu aux côtés des Russes en Ukraine et reviennent en force après une absence, provoquant la réaction des autorités ukrainiennes.",
-        "url": "https://www.courrierinternational.com/article/guerre-les-signes-d-un-retour-de-la-coree-du-nord-revoltent-l-ukraine_258214"
+        "outlet": "Libération",
+        "take": "Précise le nombre de cloches récupérées et estime la valeur marchande du vol.",
+        "url": "https://www.liberation.fr/societe/police-justice/dans-les-vosges-une-enquete-ouverte-apres-le-vol-de-cinq-cloches-en-bronze-dans-une-ancienne-fonderie-20260813_54FA4RTSFZEK3KBMQPXMEHCO6A/"
       }
     ],
     "id": 6,
@@ -183,23 +158,18 @@ const ARTICLES = [
     "themes": [
       "Tech & Sciences"
     ],
-    "title": "Sophie Adenot sera la première Française à sortir dans l'espace",
-    "full": "L'astronaute française Sophie Adenot effectuera une sortie extravéhiculaire le 18 août, une première pour une femme française. Cette mission de six heures et demie se déroulera à 400 kilomètres d'altitude, en compagnie d'un collègue américain, pour effectuer des réparations sur le système de transmission de la station spatiale internationale.",
+    "title": "Taïwan victime de cyberattaques menées par des agents IA",
+    "full": "Des agences gouvernementales taïwanaises ont été ciblées par des cyberattaques orchestrées à l'aide d'agents d'intelligence artificielle, selon les autorités de l'île. Les pirates ont notamment utilisé un modèle hybride combinant des agents IA, parmi lesquels la plateforme OpenClaw, pour faciliter leurs opérations. Taïwan n'a pas précisé l'ampleur des dégâts ni les agences visées, et n'a pas identifié l'origine des attaques.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Sophie Adenot accomplira des travaux de maintenance sur les équipements de la station spatiale dans le cadre de cette sortie historique.",
-        "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/le-18-aout-ce-sera-mon-tour-de-sortir-sophie-adenot-va-accomplir-la-premiere-sortie-dans-l-espace-d-une-francaise_8144489.html#xtor=RSS-3-[lestitres]"
+        "outlet": "Le Monde",
+        "take": "Taïwan dénonce des cyberattaques générées par des agents IA sans révéler les détails de l'ampleur ou des cibles exactes des opérations.",
+        "url": "https://www.lemonde.fr/international/article/2026/08/13/a-taiwan-des-agences-gouvernementales-ont-ete-la-cible-de-cyberattaques-provoquees-par-des-agents-d-intelligence-artificielle_6745789_3210.html"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "La mission aura une durée totale de six heures et demie en orbite, à une altitude de 400 kilomètres.",
-        "url": "https://www.20minutes.fr/high-tech/sciences/4238941-20260812-espace-sophie-adenot-va-effectuer-sortie-extravehiculaire-premiere-francaise?at_medium=display&at_campaign=149"
-      },
-      {
-        "outlet": "Le Figaro Sciences",
-        "take": "L'astronaute a confirmé elle-même cette annonce via les réseaux sociaux.",
-        "url": "https://www.lefigaro.fr/sciences/une-premiere-pour-une-francaise-l-astronaute-sophie-adenot-va-accomplir-une-sortie-dans-l-espace-le-18-aout-20260812"
+        "outlet": "Le Figaro Éco",
+        "take": "Le ministère taïwanais des Affaires numériques précise que les pirates ont exploité des outils IA spécialisés, notamment OpenClaw, pour conduire les attaques.",
+        "url": "https://www.lefigaro.fr/secteur/high-tech/taiwan-dit-avoir-subi-des-cyberattaques-provoquees-par-des-agents-d-intelligence-artificielle-20260813"
       }
     ],
     "id": 7,
@@ -209,18 +179,18 @@ const ARTICLES = [
     "themes": [
       "Monde"
     ],
-    "title": "Venezuela: pouvoir et opposition conviennent d'une réforme judiciaire",
-    "full": "Le gouvernement vénézuélien et l'opposition ont trouvé un terrain d'entente lors d'une semaine de négociations à Caracas, notamment sur une réforme du système judiciaire. Les deux parties se sont également engagées à coordonner leurs efforts pour récupérer auprès du Royaume-Uni des avoirs gelés en raison des sanctions contre le pays. Ce premier cycle de dialogue marque une rare convergence entre les acteurs politiques vénézuéliens, même si les discussions ont requis plusieurs interventions des États-Unis en qualité de médiateur.",
+    "title": "Colombie : le nouveau président réoriente la diplomatie après le séisme",
+    "full": "À peine investi, le président colombien d'extrême droite Abelardo de la Espriella a opéré un tournant diplomatique majeur en reconnaissant la souveraineté israélienne sur le Golan, rompant avec la position de son prédécesseur Gustavo Petro. Cette décision intervient alors que la Colombie fait face à l'un de ses plus graves séismes depuis des décennies, survenu lundi 10 août. De la Espriella a également privilégié l'aide américaine de Donald Trump pour faire face à la catastrophe.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Insiste sur l'accord concerté autour de la réforme judiciaire et la mobilisation commune pour la récupération des fonds gelés au Royaume-Uni.",
-        "url": "https://www.lemonde.fr/international/article/2026/08/13/au-venezuela-le-pouvoir-et-l-opposition-annoncent-des-points-d-accord-autour-d-une-reforme-judiciaire_6745434_3210.html"
+        "outlet": "Courrier International",
+        "take": "Le nouveau président impose un virage diplomatique radical dès son arrivée au pouvoir, notamment en reconnaissant Israël sur le Golan, marquant une rupture nette avec son prédécesseur.",
+        "url": "https://www.courrierinternational.com/article/politique-colombie-au-lendemain-du-seisme-de-la-espriella-opere-un-virage-diplomatique-radical_258591"
       },
       {
-        "outlet": "France 24",
-        "take": "Souligne le rôle central des États-Unis comme médiateur dans les discussions, bien qu'absents de la table des négociations.",
-        "url": "https://www.france24.com/fr/am%C3%A9riques/20260813-dialogue-venezuela-pouvoir-opposition-accord-reforme-justice-dinorah-figuera-jorge-rodriguez"
+        "outlet": "Le Figaro International",
+        "take": "Confronté à une catastrophe naturelle majeure, de la Espriella s'appuie prioritairement sur les États-Unis de Donald Trump pour mobiliser l'aide internationale.",
+        "url": "https://www.lefigaro.fr/international/face-au-seisme-en-colombie-le-nouveau-president-choisi-ses-allies-internationaux-20260813"
       }
     ],
     "id": 8,
@@ -228,20 +198,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Société"
+      "Économie"
     ],
-    "title": "Montpellier : un adolescent mis en examen pour le meurtre d'un mineur",
-    "full": "Un adolescent de 17 ans a été mis en examen après la mort d'un mineur de 16 ans poignardé dimanche à Montpellier lors d'une rixe. Le jeune homme s'est présenté volontairement au commissariat le lendemain et a reconnu être l'auteur des coups de couteau. Il a été placé en détention provisoire.",
+    "title": "Boeing condamné à verser 29 millions de dollars pour un crash du 737 Max",
+    "full": "Un jury américain a ordonné jeudi à Boeing de payer 29 millions de dollars de dommages et intérêts à la famille de Michael Ryan, ingénieur irlandais de l'ONU tué dans le crash du vol ET302 d'Ethiopian Airlines le 10 mars 2019. Cet accident avait fait 157 victimes. Cette condamnation au civil intervient dans le cadre d'une action judiciaire intentée par la famille de la victime.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "L'auteur présumé s'est rendu de lui-même aux autorités, le jour suivant l'altercation.",
-        "url": "https://www.lemonde.fr/societe/article/2026/08/13/a-montpellier-un-adolescent-mis-en-examen-apres-la-mort-d-un-mineur-de-16-ans-poignarde-lors-d-une-rixe_6745268_3224.html"
+        "outlet": "Libération",
+        "take": "Un jury américain a rendu cette condamnation jeudi 13 août contre le constructeur aéronautique.",
+        "url": "https://www.liberation.fr/economie/boeing-condamne-au-civil-a-payer-29-millions-de-dollars-suite-au-crash-du-737-max-20260813_NPUZJ5DUWZELFHF272RT6MERJA/"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Le jeune homme a été placé en détention provisoire après sa présentation volontaire au commissariat.",
-        "url": "https://www.20minutes.fr/faits_divers/4238960-20260813-montpellier-ado-detention-provisoire-apres-mort-coups-couteau-mineur-16-ans?at_medium=display&at_campaign=149"
+        "outlet": "Le Figaro Éco",
+        "take": "L'affaire civile a été portée devant la justice par les proches de l'ingénieur, l'une des 157 victimes du crash.",
+        "url": "https://www.lefigaro.fr/societes/crash-d-un-737-max-boeing-condamne-au-civil-a-payer-29-millions-de-dollars-de-dommages-et-interets-20260813"
       }
     ],
     "id": 9,
@@ -249,21 +219,15 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde",
-      "Environnement"
+      "Insolite"
     ],
-    "title": "Une marée noire menace les côtes d'Oman après l'échouage d'un pétrolier",
-    "full": "Un pétrolier soupçonné d'appartenir à la « flotte fantôme » russe, échoué en juin au large d'Oman, fuit du pétrole qui a atteint les côtes omanaises sur près de 40 kilomètres. Cette marée noire menace une réserve naturelle protégée. Les conditions météorologiques liées à la mousson compliquent les opérations de confinement du sinistre.",
+    "title": "Un hamster devient star fitness avec 70 km par semaine",
+    "full": "Mollie, une femelle hamster de dix mois, cumule des milliers d'abonnés sur l'application de suivi d'activité Strava grâce à ses performances quotidiennes. Son propriétaire a mis en place un système de mesure pour enregistrer ses courses sur la roue de sa cage, alimentant régulièrement le compte de données impressionnantes : environ 70 kilomètres parcourus chaque semaine.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Souligne l'impact des conditions météorologiques défavorables sur la capacité à contenir la fuite de pétrole.",
-        "url": "https://www.lemonde.fr/international/article/2026/08/13/les-cotes-d-oman-touchees-par-une-maree-noire-qui-menace-une-reserve-naturelle_6745235_3210.html"
-      },
-      {
-        "outlet": "France 24",
-        "take": "Précise l'ampleur de la menace avec l'estimation de 40 kilomètres de rives affectées et identifie la mousson comme principal obstacle aux opérations de nettoyage.",
-        "url": "https://www.france24.com/fr/moyen-orient/20260812-petrolier-echoue-large-oman-maree-noire-atteint-cotes-environnement-pollution"
+        "outlet": "20 Minutes",
+        "take": "Le propriétaire a développé une solution technique pour documenter les exploits athlétiques du rongeur, ce qui lui a permis d'attirer plus de 9 000 followers.",
+        "url": "https://www.20minutes.fr/arts-stars/insolite/4239097-20260813-hamster-court-70-km-semaine-performances-suivies-plus-9-000-personnes-strava?at_medium=display&at_campaign=149"
       }
     ],
     "id": 10,
@@ -271,156 +235,18 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé"
+      "Insolite"
     ],
-    "title": "Légionellose en recrudescence en Savoie, deux décès",
-    "full": "Quarante-et-un cas de légionellose ont été déclarés en Savoie entre juin et août, dont deux mortels, selon l'Agence Régionale de Santé Auvergne-Rhône-Alpes. Des investigations sont en cours dans les réseaux d'eau d'immeubles collectifs, les tours de refroidissement, ainsi que dans les établissements recevant du public comme les supermarchés et restaurants. Une trentaine de prélèvements ont été effectués pour identifier les sources de contamination.",
+    "title": "Un jet privé entre en collision avec une voiture à Milan",
+    "full": "Un jet privé et une voiture se sont heurtés lundi sur le tarmac de l'aéroport de Milan, en Italie. L'incident a brièvement perturbé le trafic aérien de l'aéroport. Les images de cette collision peu commune ont rapidement circulé sur les réseaux sociaux.",
     "angles": [
       {
         "outlet": "20 Minutes",
-        "take": "Souligne la recrudescence du phénomène en Savoie avec le bilan des cas et des décès survenus entre juin et août.",
-        "url": "https://www.20minutes.fr/societe/4238967-20260813-deux-morts-41-cas-legionellose-pleine-recrudescence-savoie?at_medium=display&at_campaign=149"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Détaille les lieux ciblés par les investigations sanitaires pour tracer l'origine de l'épidémie.",
-        "url": "https://www.franceinfo.fr/sante/en-savoie-deux-personnes-decedees-de-legionellose-et-41-cas-recenses-depuis-le-mois-de-juin_8144765.html#xtor=RSS-3-[lestitres]"
+        "take": "La scène filmée sur le tarmac milanais suscite l'amusement en ligne, le choc entre ces deux véhicules de nature très différente étant perçu comme hautement improbable.",
+        "url": "https://www.20minutes.fr/arts-stars/insolite/4239098-20260813-italie-images-collision-entre-jet-prive-voiture-deviennent-virales?at_medium=display&at_campaign=149"
       }
     ],
     "id": 11,
     "priority": 12
-  },
-  {
-    "themes": [
-      "France",
-      "Économie"
-    ],
-    "title": "Un rapport propose 4,2 milliards d'économies sur les aides familiales",
-    "full": "L'inspection générale des finances et l'inspection générale des affaires sociales recommandent au gouvernement de réduire les dépenses consacrées aux politiques familiales, dans un rapport commandé par l'exécutif et dévoilé fin juillet. Parmi les dispositifs visés figurent les allocations aux parents isolés, les allocations familiales et l'aide personnalisée au logement (APL). Ces recommandations d'économies pourraient alimenter les réflexions budgétaires de Bercy pour les années à venir.",
-    "angles": [
-      {
-        "outlet": "Le Monde",
-        "take": "Le rapport insiste sur la nécessité d'améliorer la cohérence globale des politiques familiales face à la fragmentation des dispositifs actuels.",
-        "url": "https://www.lemonde.fr/politique/article/2026/08/12/aides-sociales-et-avantages-fiscaux-des-familles-un-rapport-propose-4-2-milliards-d-euros-d-economies-sur-ces-dispositifs_6745086_823448.html"
-      },
-      {
-        "outlet": "Libération",
-        "take": "Les inspections proposent une série de mesures d'économies susceptibles de servir de base pour les arbitrages budgétaires du ministère des Finances.",
-        "url": "https://www.liberation.fr/economie/parents-isoles-allocations-apl-un-rapport-recommande-au-gouvernement-de-reduire-les-politiques-familiales-20260812_OLWWICAWR5FW7DXVNI52THR5F4/"
-      }
-    ],
-    "id": 12,
-    "priority": 13
-  },
-  {
-    "themes": [
-      "France",
-      "Société"
-    ],
-    "title": "Un assistant d'éducation mis en examen pour pédopornographie à Vesoul",
-    "full": "Un assistant d'éducation a été mis en examen vendredi 7 août après la découverte de plusieurs milliers d'images et de dizaines de vidéos pédopornographiques sur son ordinateur lors d'une perquisition à son domicile à Vesoul (Haute-Saône). L'homme a reconnu les téléchargements et la détention de ces contenus ainsi que de matériel à connotation sexuelle impliquant des mineurs. Le rectorat de Besançon a précisé qu'aucun signalement concernant son comportement envers des élèves n'avait été porté à sa connaissance.",
-    "angles": [
-      {
-        "outlet": "L'Humanité",
-        "take": "Le rectorat affirme n'avoir reçu aucun signalement relatif au comportement de cet assistant envers les élèves de l'établissement.",
-        "url": "https://www.humanite.fr/societe/haute-saone/apres-la-decouverte-de-milliers-dimages-pedopornographiques-un-assistant-deducation-mis-en-examen-a-vesoul"
-      },
-      {
-        "outlet": "Le Monde",
-        "take": "L'homme a admis les téléchargements et la possession de matériel pédopornographique, ainsi que d'objets à connotation sexuelle liés à des mineurs.",
-        "url": "https://www.lemonde.fr/societe/article/2026/08/12/pedopornographie-des-milliers-d-images-et-des-dizaines-de-videos-decouvertes-chez-un-assistant-d-education-a-vesoul_6745071_3224.html"
-      }
-    ],
-    "id": 13,
-    "priority": 14
-  },
-  {
-    "themes": [
-      "Économie",
-      "Culture"
-    ],
-    "title": "Une station de métro fantôme parisienne devient studio de cinéma",
-    "full": "La RATP a reconverti une station désaffectée du métro parisien en studio de tournage. Située près de la Porte des Lilas, cette station fantôme permet aux équipes de production de réaliser des scènes complexes sans perturbation des usagers. L'exploitant peut même mettre à disposition des rames pour les prises de vue.",
-    "angles": [
-      {
-        "outlet": "France Info",
-        "take": "Paris compte plusieurs stations fantômes, et l'une d'elles a trouvé une nouvelle utilité commerciale grâce à la RATP.",
-        "url": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/une-station-fantome-de-paris-reconvertie-en-studio-de-tournage_8144267.html#xtor=RSS-3-%5Bgeneral%5D"
-      },
-      {
-        "outlet": "Le Figaro Éco",
-        "take": "Cette reconversion offre aux productions cinématographiques un lieu isolé des voyageurs où réaliser des tournages sans contrainte.",
-        "url": "https://www.lefigaro.fr/societes/ici-on-peut-faire-tout-ce-qu-ils-veulent-plongee-dans-la-station-fantome-du-metro-de-paris-reconvertie-en-studio-de-cinema-20260812"
-      }
-    ],
-    "id": 14,
-    "priority": 15
-  },
-  {
-    "themes": [
-      "Insolite",
-      "Monde"
-    ],
-    "title": "Des peuples autochtones choisissent l'isolement volontaire",
-    "full": "Certains peuples autochtones d'Amazonie ont opté pour un isolement volontaire, loin du contact avec le monde extérieur. Des anthropologues tentent néanmoins de les étudier, soulevant des questions sur les enjeux de la recherche face au droit à l'isolement de ces communautés.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "L'article explore qui sont ces peuples isolés et les raisons historiques et contemporaines de leur choix de vivre à l'écart, notamment face aux conséquences de la colonisation.",
-        "url": "https://www.slate.fr/monde/population-autochtone-isolement-choix-amazonie-colonisation-tribu-anthropologie"
-      }
-    ],
-    "id": 15,
-    "priority": 16
-  },
-  {
-    "themes": [
-      "Insolite"
-    ],
-    "title": "L'auteur de l'attentat contre Reagan relance son obsession pour Jodie Foster",
-    "full": "John Hinckley Jr., qui avait tiré sur le président Ronald Reagan en 1981 pour tenter d'impressionner l'actrice Jodie Foster, a resurgit dans les médias en lui adressant un nouveau message quarante-cinq ans après les faits. L'homme, auteur de six coups de feu ayant blessé le président, avait alors justifié son geste par une obsession envers la comédienne. Ce rebondissement intervient décennies après l'incident qui avait marqué l'histoire politique américaine.",
-    "angles": [
-      {
-        "outlet": "20 Minutes",
-        "take": "John Hinckley Jr. relance son harcèlement envers Jodie Foster quatre décennies et demie après sa tentative d'assassinat du président Reagan.",
-        "url": "https://www.20minutes.fr/arts-stars/insolite/4238840-20260812-stalker-jodie-foster-envoie-message-45-ans-apres-avoir-tire-ronald-reagan-impressionner?at_medium=display&at_campaign=149"
-      }
-    ],
-    "id": 16,
-    "priority": 17
-  },
-  {
-    "themes": [
-      "Insolite",
-      "Tech & Sciences"
-    ],
-    "title": "Un méga-barrage chinois pourrait modifier l'axe de la Terre",
-    "full": "Le projet chinois de centrales hydroélectriques de Medog, qui deviendra le plus grand barrage du monde, pourrait légèrement déplacer l'axe de rotation terrestre. En stockant d'énormes quantités d'eau, les très gros barrages modifient la distribution des masses sur la planète, ce qui peut influer sur son axe de rotation. Ce phénomène, documenté scientifiquement, ne devrait pas causer de dommages visibles mais reste une conséquence mécanique mesurable de cette infrastructure monumentale.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "Le barrage de Medog, en raison de sa capacité sans précédent à stocker de l'eau, aura un impact géophysique détectable sur l'orientation de la Terre.",
-        "url": "https://www.slate.fr/sciences/chine-barrage-gigantesque-construction-rotation-terre-projet-infrastructure-innovation-electricite"
-      }
-    ],
-    "id": 17,
-    "priority": 18
-  },
-  {
-    "themes": [
-      "Insolite",
-      "Santé"
-    ],
-    "title": "Les éclipses solaires provoquent un émerveillement psychologique intense",
-    "full": "L'obscurcissement du soleil par la lune pendant quelques minutes génère une forme d'émerveillement psychologique remarquable chez de nombreux observateurs. Des chercheurs ont étudié ce phénomène et ses effets sur le bien-être des spectateurs.",
-    "angles": [
-      {
-        "outlet": "Slate",
-        "take": "Les éclipses solaires suscitent une réaction émotionnelle d'intensité extraordinaire, que les scientifiques cherchent à comprendre et documenter.",
-        "url": "https://www.slate.fr/sciences/effet-psychologique-innatendu-eclipses-solaire-phenomene-emerveillement-curiosite-recherche-soleil-lune"
-      }
-    ],
-    "id": 18,
-    "priority": 19
   }
 ];
