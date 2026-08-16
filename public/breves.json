@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T04:02:06.603952+00:00",
+  "generated_at": "2026-08-16T04:24:12.535796+00:00",
   "date_label": "Dimanche 16 août",
   "count": 22,
   "breves": [
@@ -7,33 +7,28 @@
       "themes": [
         "Sport"
       ],
-      "title": "Marchand et Moluh sacrés aux championnats d'Europe de natation",
-      "full": "Léon Marchand a remporté samedi son premier titre européen en s'imposant au 200 m papillon lors des championnats d'Europe de natation à Saint-Denis, signant la meilleure performance mondiale de l'année. Mary-Ambre Moluh s'est imposée dans la foulée au 100 m dos, améliorant son propre record d'Europe. La même soirée a marqué les adieux à la compétition de Florent Manaudou, qui s'est retiré de la natation en présence de sa sœur Laure et d'anciens coéquipiers.",
+      "title": "Marchand et Moluh brillent aux championnats d'Europe de natation",
+      "full": "Léon Marchand a remporté samedi son premier titre européen en s'imposant au 200 m papillon à Saint-Denis, avec la meilleure performance mondiale de l'année, malgré une blessure musculaire à la cuisse. Mary-Ambre Moluh s'est adjugée l'or du 100 m dos et a amélioré son propre record d'Europe, décrochant sa troisième médaille de la semaine. Pauline Mahieu a complété le podium en prenant le bronze. Samedi également, Florent Manaudou a disputé son dernier match en tant que nageur professionnel, faisant ses adieux à la compétition lors d'un jubilé à la piscine de Saint-Denis en présence de sa soeur Laure et de l'ancien nageur Frédérick Bousquet.",
       "angles": [
         {
           "outlet": "France 24",
-          "take": "Marchand et Moluh ont remporté deux titres majeurs samedi à domicile, consolidant la domination française.",
+          "take": "Léon Marchand signe la meilleure performance mondiale de l'année sur le 200 m papillon et remporte son premier titre européen.",
           "url": "https://www.france24.com/fr/sports/20260815-l%C3%A9on-marchand-remporte-son-premier-titre-europ%C3%A9en-sur-le-200-m-papillon"
         },
         {
-          "outlet": "Courrier International",
-          "take": "Marchand, diminué par une blessure à la cuisse, a décroché son premier or européen malgré les difficultés physiques.",
-          "url": "https://www.courrierinternational.com/article/sport-euro-de-natation-leon-marchand-et-mary-ambre-moluh-decrochent-l-or-et-font-briller-la-france_259845"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Pauline Mahieu complète la moisson française en obtenant le bronze au 100 m dos.",
-          "url": "https://www.liberation.fr/sports/euro-de-natation-leon-marchand-sacre-sur-le-200-m-papillon-20260815_DVCA6CIT6ZD5RN7A2PXA6N7IK4/"
+          "outlet": "Le Monde",
+          "take": "Mary-Ambre Moluh, 20 ans, accumule les médailles cette semaine et poursuit sa préparation en vue des Jeux 2028.",
+          "url": "https://www.lemonde.fr/sport/article/2026/08/15/championnats-d-europe-de-natation-2026-mary-ambre-moluh-sacree-sur-le-100-m-dos-poursuit-sa-belle-lancee-vers-les-jeux-2028_6746752_3242.html"
         },
         {
           "outlet": "France Info",
-          "take": "Florent Manaudou a eu droit à une cérémonie d'adieu émouvante à Saint-Denis avant de prendre sa retraite.",
+          "take": "Florent Manaudou marque ses adieux à la natation lors d'une cérémonie en présence de proches et de figures du milieu.",
           "url": "https://www.franceinfo.fr/sports/natation/championnats-d-europe-de-natation/florent-manaudou-emu-aux-larmes-pour-ses-adieux-a-la-natation_8149079.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "outlet": "Le Monde",
-          "take": "La réintégration complète des nageurs russes et biélorusses aux compétitions européennes suscite des tensions en raison de la poursuite du conflit ukrainien.",
-          "url": "https://www.lemonde.fr/sport/article/2026/08/15/championnats-d-europe-de-natation-2026-a-saint-denis-le-retour-ineluctable-des-russes-cree-des-remous_6746617_3242.html"
+          "outlet": "Courrier International",
+          "take": "Le quadruple champion olympique Marchand, malgré sa blessure, remporte un premier titre européen attendu.",
+          "url": "https://www.courrierinternational.com/article/sport-euro-de-natation-leon-marchand-et-mary-ambre-moluh-decrochent-l-or-et-font-briller-la-france_259845"
         }
       ],
       "id": 0,
@@ -41,30 +36,40 @@
     },
     {
       "themes": [
-        "Société"
+        "Environnement"
       ],
-      "title": "Patrick Bruel autorisé à quitter la France, le parquet fait appel",
-      "full": "Un juge d'instruction a levé le 21 juillet l'interdiction de quitter le territoire imposée à Patrick Bruel dans le cadre de sa mise en examen pour viol et agression sexuelle. Le chanteur de 67 ans, mis en examen depuis juin dans quatre dossiers, peut désormais se déplacer à l'étranger. Le parquet de Nanterre a néanmoins décidé de contester cette décision en interjetant appel.",
+      "title": "Incendies majeurs dans les Landes et en Belgique",
+      "full": "Un incendie de forêt ravage les Landes depuis jeudi, brûlant environ 1 580 hectares après une reprise de feu samedi matin. Le sinistre a entraîné l'évacuation d'une centaine de personnes. Bien que la progression se soit ralentie grâce à des conditions météorologiques plus favorables, le feu n'est pas fixé selon les autorités. En Belgique, un foyer distinct s'est déclaré vendredi dans les Hautes Fagnes, une grande réserve naturelle près de la frontière allemande, détruisant plus de 2 700 hectares. Ces deux incendies constituent parmi les plus importants de ces dernières années dans leurs régions respectives.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Patrick Bruel reste sous contrôle judiciaire dans quatre autres affaires où il a le statut de témoin assisté.",
-          "url": "https://www.franceinfo.fr/culture/musique/patrick-bruel/le-controle-judiciaire-de-patrick-bruel-a-ete-a-assoupli-le-parquet-a-fait-appel_8148995.html#xtor=RSS-3-[lestitres]"
+          "outlet": "20 Minutes",
+          "take": "Réactivation nocturne de l'incendie et nouvelle évacuation de résidents.",
+          "url": "https://www.20minutes.fr/planete/4239303-20260815-landes-feu-repris-nuit-1-580-hectares-brules?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "Libération",
-          "take": "L'allègement a été révélé après que des lecteurs ont rapporté avoir croisé le chanteur à l'étranger.",
-          "url": "https://www.liberation.fr/societe/police-justice/le-controle-judiciaire-de-patrick-bruel-allege-revele-mediapart-20260815_6IWMFMS3XFD45H632N4T3BV7SU/"
+          "outlet": "France Info",
+          "take": "Stabilisation progressive du feu après deux jours de lutte, sans avancée supplémentaire.",
+          "url": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-les-landes-le-contenir-a-tout-prix_8149226.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
           "outlet": "Le Monde",
-          "take": "L'assouplissement a été obtenu à la demande des avocats du chanteur.",
-          "url": "https://www.lemonde.fr/societe/article/2026/08/15/le-controle-judiciaire-de-patrick-bruel-assoupli-le-chanteur-autorise-a-quitter-le-territoire-francais_6746819_3224.html"
+          "take": "Ampleur comparée des deux foyers majeurs en Europe occidentale.",
+          "url": "https://www.lemonde.fr/climat/live/2026/08/16/en-direct-incendies-et-canicule-plus-de-2-700-hectares-ravages-en-belgique-dans-les-landes-le-feu-ne-progresse-plus-mais-n-est-pas-en-voie-d-etre-fixe_6744636_1652612.html"
+        },
+        {
+          "outlet": "Courrier International",
+          "take": "Conséquences environnementales graves pour l'un des espaces naturels majeurs de Belgique.",
+          "url": "https://www.courrierinternational.com/article/environnement-incendies-dans-les-fagnes-un-feu-d-une-ampleur-inedite-ravage-l-est-de-la-belgique_259878"
         },
         {
           "outlet": "France 24",
-          "take": "Le parquet a formellement notifié son appel de la décision du juge d'instruction.",
-          "url": "https://www.france24.com/fr/france/20260815-son-contr%C3%B4le-judiciaire-assoupli-patrick-bruel-autoris%C3%A9-%C3%A0-quitter-le-territoire-fran%C3%A7ais"
+          "take": "Amélioration météorologique qui freine sans maîtriser l'incendie landais.",
+          "url": "https://www.france24.com/fr/france/20260815-incendie-dans-les-landes-1-580-hectares-br%C3%BBl%C3%A9s-apr%C3%A8s-une-reprise-de-feu-dans-la-nuit"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Précision du préfet soulignant que le feu reste incontrôlable malgré le déploiement de 550 pompiers.",
+          "url": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-reprise-de-feu-dans-la-nuit-1-580-hectares-brules-20260815_IQO2KVYGEZH5BAL5Z4XJURSBQY/"
         }
       ],
       "id": 1,
@@ -72,36 +77,30 @@
     },
     {
       "themes": [
-        "Environnement",
         "Société"
       ],
-      "title": "Incendie dans les Landes: 1.580 hectares brûlés, le feu toujours actif",
-      "full": "Un incendie qui s'est déclaré jeudi dans les Landes s'est réactivé samedi à l'aube, portant la surface brûlée à 1.580 hectares. Bien que la progression du feu ait ralenti au cours de la journée grâce à des conditions météorologiques plus favorables, les autorités précisent que l'incendie n'est pas fixé et n'est pas en voie de l'être. Environ 550 pompiers sont engagés dans la lutte et une centaine de personnes supplémentaires ont dû être évacuées.",
+      "title": "Patrick Bruel autorisé à quitter la France, le parquet fait appel",
+      "full": "Un juge d'instruction a levé le 21 juillet l'interdiction de quitter le territoire imposée à Patrick Bruel dans le cadre de sa mise en examen. Le chanteur de 67 ans, poursuivi pour viol et agression sexuelle dans plusieurs affaires, peut désormais voyager librement. Le parquet de Nanterre a cependant annoncé son appel contre cette décision d'allègement du contrôle judiciaire.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Réactivation du feu samedi matin avec extension significative de la zone sinistrée et nouvelles évacuations.",
-          "url": "https://www.20minutes.fr/planete/4239303-20260815-landes-feu-repris-nuit-1-580-hectares-brules?at_medium=display&at_campaign=149"
-        },
-        {
           "outlet": "France Info",
-          "take": "Après deux jours de lutte intense, une première amélioration avec stabilisation des flammes qui ne progressent plus.",
-          "url": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-les-landes-le-contenir-a-tout-prix_8149226.html#xtor=RSS-3-%5Bgeneral%5D"
-        },
-        {
-          "outlet": "Le Monde",
-          "take": "Incendie majeur à l'échelle belge concomitant aux foyers français.",
-          "url": "https://www.lemonde.fr/climat/live/2026/08/16/en-direct-incendies-et-canicule-plus-de-2-700-hectares-ravages-en-belgique-dans-les-landes-le-feu-ne-progresse-plus-mais-n-est-pas-en-voie-d-etre-fixe_6744636_1652612.html"
-        },
-        {
-          "outlet": "France 24",
-          "take": "Ralentissement de la progression favorisé par une météo plus clémente sans pour autant permettre la fixation du sinistre.",
-          "url": "https://www.france24.com/fr/france/20260815-incendie-dans-les-landes-1-580-hectares-br%C3%BBl%C3%A9s-apr%C3%A8s-une-reprise-de-feu-dans-la-nuit"
+          "take": "Patrick Bruel est mis en examen dans quatre dossiers et placé sous le statut de témoin assisté dans quatre autres.",
+          "url": "https://www.franceinfo.fr/culture/musique/patrick-bruel/le-controle-judiciaire-de-patrick-bruel-a-ete-a-assoupli-le-parquet-a-fait-appel_8148995.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Libération",
-          "take": "Le préfet modère l'optimisme en soulignant que l'incendie demeure incontrôlé malgré le déploiement massif de moyens.",
-          "url": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-reprise-de-feu-dans-la-nuit-1-580-hectares-brules-20260815_IQO2KVYGEZH5BAL5Z4XJURSBQY/"
+          "take": "La levée de l'interdiction de quitter le pays a été révélée par le site Mediapart après des signalements de lecteurs ayant croisé le chanteur à l'étranger.",
+          "url": "https://www.liberation.fr/societe/police-justice/le-controle-judiciaire-de-patrick-bruel-allege-revele-mediapart-20260815_6IWMFMS3XFD45H632N4T3BV7SU/"
+        },
+        {
+          "outlet": "Le Monde",
+          "take": "Cette allègement a été accordé à la demande des avocats de Patrick Bruel.",
+          "url": "https://www.lemonde.fr/societe/article/2026/08/15/le-controle-judiciaire-de-patrick-bruel-assoupli-le-chanteur-autorise-a-quitter-le-territoire-francais_6746819_3224.html"
+        },
+        {
+          "outlet": "20 Minutes",
+          "take": "Patrick Bruel est spécifiquement mis en examen pour viol parmi les accusations portées contre lui.",
+          "url": "https://www.20minutes.fr/justice/4239346-20260816-mis-examen-viol-patrick-bruel-obtient-allegement-controle-judiciaire?at_medium=display&at_campaign=149"
         }
       ],
       "id": 2,
@@ -112,27 +111,27 @@
         "France",
         "Tech & Sciences"
       ],
-      "title": "Le parquet de Paris enquête sur le piratage du fisc",
-      "full": "Le parquet de Paris a ouvert une enquête samedi suite à une cyberattaque contre le système d'information des impôts qui s'est déroulée fin juin. Quelque 678 000 à 700 000 particuliers et professionnels ont eu leurs données personnelles compromises, notamment noms, prénoms, revenus fiscaux et taux de prélèvement à la source. L'administration fiscale a qualifié cette opération de particulièrement sophistiquée. Les usagers concernés seront contactés à compter de lundi.",
+      "title": "Piratage du fisc : le parquet de Paris lance une enquête",
+      "full": "Le parquet de Paris a ouvert une enquête samedi suite à une cyberattaque contre le système d'information de l'administration fiscale survenue fin juin. Environ 678 000 particuliers et professionnels ont eu leurs données personnelles dérobées, notamment leurs noms, quotient familial, revenu fiscal de référence et taux de prélèvement à la source. L'administration fiscale a qualifié cette opération de « plus sophistiquée » que les précédentes cyberattaques. Les personnes concernées seront contactées à partir de lundi.",
       "angles": [
         {
           "outlet": "France 24",
-          "take": "Détaille le type de données personnelles dérobées lors du piratage.",
+          "take": "L'enquête du parquet cible le vol de données sensibles de contribuables incluant informations fiscales et revenus.",
           "url": "https://www.france24.com/fr/france/20260815-apr%C3%A8s-piratage-fisc-parquet-paris-ouvre-enqu%C3%AAte"
         },
         {
           "outlet": "20 Minutes",
-          "take": "Souligne qu'il s'agit de la énième cyberattaque visant la France.",
+          "take": "Cette attaque s'inscrit dans une série de cybermenaces récentes contre l'infrastructure française.",
           "url": "https://www.20minutes.fr/economie/4239323-20260815-parquet-paris-ouvre-enquete-apres-piratage-fisc?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "France Info",
-          "take": "Précise le nombre exact de 678 000 victimes annoncé par la direction générale des finances publiques.",
+          "take": "Le nombre exact de victimes est précisé à 678 000 particuliers et professionnels.",
           "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-parquet-de-paris-ouvre-une-enquete-sur-le-piratage-du-systeme-d-information-des-impots_8148881.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Le Monde",
-          "take": "Relève le caractère sophistiqué de l'attaque en comparaison avec les précédentes opérations malveillantes.",
+          "take": "L'attaque se distingue par sa complexité technique et les usagers seront avertis à compter de lundi.",
           "url": "https://www.lemonde.fr/pixels/article/2026/08/15/piratage-du-fisc-le-parquet-de-paris-ouvre-une-enquete_6746676_4408996.html"
         }
       ],
@@ -143,27 +142,27 @@
       "themes": [
         "Monde"
       ],
-      "title": "Deux séismes ravagent l'est de l'Indonésie, au moins 38 morts",
-      "full": "Un séisme de magnitude 7,7 a frappé samedi matin l'est de l'Indonésie, faisant au moins 38 morts et 50 blessés selon les premiers bilans. Une secousse secondaire de magnitude 6,9 a suivi peu après. Des milliers d'habitants des zones côtières ont été évacués par mesure de précaution face au risque de tsunami.",
+      "title": "Un séisme de magnitude 7,7 frappe l'est de l'Indonésie",
+      "full": "Un puissant séisme de magnitude 7,7 a secoué samedi matin l'est de l'Indonésie, faisant au moins 38 morts selon les derniers bilans. Un second séisme, de magnitude 6,9, a suivi. L'ampleur de la secousse a provoqué l'évacuation de milliers d'habitants des zones côtières par crainte d'une montée des eaux.",
       "angles": [
         {
           "outlet": "Libération",
-          "take": "Met l'accent sur l'ampleur du séisme et les évacuations massives déclenchées par la menace d'une montée des eaux.",
+          "take": "Insiste sur l'évacuation préventive des populations côtières face au risque de tsunami.",
           "url": "https://www.liberation.fr/international/asie-pacifique/indonesie-au-moins-20-morts-dans-un-puissant-seisme-20260815_ZA2BHKRBQVATDAOEQCOWV5Q7N4/"
         },
         {
           "outlet": "Le Monde",
-          "take": "Rapporte le bilan de 38 décès confirmés comme données officielles du sinistre.",
+          "take": "Documente l'événement par des images visuelles du séisme et de ses dégâts.",
           "url": "https://www.lemonde.fr/international/video/2026/08/15/les-images-du-seisme-qui-a-frappe-l-est-de-l-indonesie-et-fait-au-moins-38-morts_6746657_3210.html"
         },
         {
           "outlet": "20 Minutes",
-          "take": "Souligne la succession rapide de deux séismes dans une même journée et précise le nombre de blessés.",
+          "take": "Rapporte un bilan légèrement plus élevé (40 morts) et précise le nombre de blessés (50).",
           "url": "https://www.20minutes.fr/monde/4239315-20260815-indonesie-frappee-second-seisme-moins-40-morts-apres-premier?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "France 24",
-          "take": "Insiste sur les opérations d'évacuation préventive des populations côtières face aux risques connexes.",
+          "take": "Souligne les mesures d'évacuation d'urgence des habitants des côtes.",
           "url": "https://www.france24.com/fr/vid%C3%A9o/20260815-s%C3%A9isme-en-indon%C3%A9sie-des-milliers-d-habitants-%C3%A9vacu%C3%A9s-par-crainte-d-une-mont%C3%A9e-des-eaux"
         }
       ],
@@ -172,30 +171,30 @@
     },
     {
       "themes": [
-        "Sport"
+        "Société"
       ],
-      "title": "Un coureur britannique tué lors du Tour du Portugal",
-      "full": "Finlay Tarling, 19 ans, coureur de l'équipe NSN Development, a été mortellement percuté vendredi par un véhicule circulant en sens inverse lors de la huitième étape du Tour du Portugal. L'équipe NSN a annoncé son retrait de la course, renonçant aux deux dernières étapes. Cet accident s'inscrit dans une série de décès de jeunes cyclistes survenus lors de compétitions officielles ces dernières années.",
+      "title": "Le Conseil constitutionnel censure l'interdiction des réseaux sociaux aux moins de 15 ans",
+      "full": "Le Conseil constitutionnel a rejeté jeudi la loi visant à interdire l'accès aux réseaux sociaux aux mineurs de moins de 15 ans, jugeant le dispositif contraire à la Constitution. Emmanuel Macron a aussitôt confié au gouvernement la mission de rédiger une nouvelle version « juridiquement robuste » avant la fin de son mandat. Les critiques soulignent que le texte initial était mal construit et ne respectait pas les normes constitutionnelles et européennes.",
       "angles": [
         {
+          "outlet": "France 24",
+          "take": "Le Conseil constitutionnel a invalidé la loi tandis que la loi sur le droit à l'aide à mourir a été déclarée conforme à la Constitution.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260815-france-la-loi-sur-l-interdiction-des-r%C3%A9seaux-sociaux-aux-moins-de-15-ans-censur%C3%A9e"
+        },
+        {
+          "outlet": "Mediapart",
+          "take": "Macron demande une réécriture rapide du texte, mais des doutes subsistent sur la possibilité de concevoir un dispositif valide constitutionnellement.",
+          "url": "https://www.mediapart.fr/journal/politique/150826/interdiction-des-reseaux-sociaux-aux-mineurs-apres-la-censure-le-cul-de-sac"
+        },
+        {
           "outlet": "France Info",
-          "take": "L'équipe NSN a pris la décision de ne pas participer aux deux étapes finales du Tour du Portugal.",
-          "url": "https://www.franceinfo.fr/sports/cyclisme/l-equipe-cycliste-nsn-se-retire-du-tour-du-portugal-apres-la-mort-du-jeune-coureur-britannique-finlay-tarling_8148782.html#xtor=RSS-3-%5Bgeneral%5D"
+          "take": "Une sénatrice centriste critique rétrospectivement le dispositif initial, affirmant que le Sénat aurait proposé une approche à la fois constitutionnelle et conforme au droit européen.",
+          "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/le-dispositif-d-interdiction-des-reseaux-sociaux-pour-les-moins-de-15-ans-n-etait-pas-raisonnable-estime-la-senatrice-catherine-morin-desailly_8148467.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "Courrier International",
-          "take": "Le décès soulève des questions sur la sécurité routière lors des courses cyclistes, dans un contexte de plusieurs jeunes coureurs tués en compétition.",
-          "url": "https://www.courrierinternational.com/article/cyclisme-la-mort-du-coureur-britannique-finlay-tarling-jette-une-ombre-sur-le-tour-du-portugal_259713"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Le véhicule impliqué, circulant en sens inverse, n'était pas un élément officiel de la course.",
-          "url": "https://www.liberation.fr/sports/cyclisme/mort-du-cycliste-britannique-finlay-tarling-percute-par-une-voiture-lors-du-tour-du-portugal-20260814_CTCXQEF6RFFEJOJS5BAECMKP4I/"
-        },
-        {
-          "outlet": "20 Minutes",
-          "take": "Il s'agit d'un nouvel endeuil pour le monde du cyclisme professionnel.",
-          "url": "https://www.20minutes.fr/sport/cyclisme/4239313-20260815-tour-portugal-comment-finlay-tarling-pu-etre-percute-mortellement-voiture-contresens?at_medium=display&at_campaign=149"
+          "outlet": "Le Figaro",
+          "take": "La censure constitue un revers pour l'exécutif, particulièrement investi dans ce projet.",
+          "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/le-dispositif-d-interdiction-des-reseaux-sociaux-pour-les-moins-de-15-ans-n-etait-pas-raisonnable-estime-la-senatrice-catherine-morin-desailly_8148467.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
       "id": 5,
@@ -203,30 +202,30 @@
     },
     {
       "themes": [
-        "Société"
+        "Économie"
       ],
-      "title": "Le Conseil constitutionnel censure l'interdiction des réseaux sociaux aux moins de 15 ans",
-      "full": "Le Conseil constitutionnel a rejeté jeudi le dispositif d'interdiction des réseaux sociaux pour les moins de 15 ans, jugé contraire à la Constitution. Emmanuel Macron a confié au gouvernement la mission de réécrire le texte en version « juridiquement robuste » avant la fin de son mandat. Les parlementaires de gauche avaient saisi les Sages sur ce projet de loi, que le Sénat avait déjà critiqué comme mal ficelé et non conforme au droit européen.",
+      "title": "EasyJet annule une centaine de vols en France pendant une grève",
+      "full": "Une centaine de vols EasyJet au départ de la France sont annulés samedi et dimanche en raison d'une grève du personnel navigant commercial. Plus de deux tiers des quelque 340 membres du personnel de cabine prévus ce week-end se sont portés grévistes. L'intersyndicale regroupant plusieurs organisations syndicales a appelé au mouvement après l'échec de négociations portant notamment sur la stabilité des plannings et l'amélioration des conditions de travail.",
       "angles": [
         {
-          "outlet": "France 24",
-          "take": "La censure du Conseil constitutionnel concerne l'article 1er de la loi, ouvrant en revanche la voie définitive à la loi sur le droit à l'aide à mourir.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260815-france-la-loi-sur-l-interdiction-des-r%C3%A9seaux-sociaux-aux-moins-de-15-ans-censur%C3%A9e"
+          "outlet": "20 Minutes",
+          "take": "Souligne l'ampleur massive du suivi de grève parmi les membres du personnel de cabine.",
+          "url": "https://www.20minutes.fr/economie/4239306-20260815-easyjet-centaine-vols-annules-week-end-france-fond-greve?at_medium=display&at_campaign=149"
         },
         {
-          "outlet": "Mediapart",
-          "take": "Après la censure, se pose la question de la possibilité même de réécrire un texte jugé fondamentalement mal conçu dans les délais impartis.",
-          "url": "https://www.mediapart.fr/journal/politique/150826/interdiction-des-reseaux-sociaux-aux-mineurs-apres-la-censure-le-cul-de-sac"
-        },
-        {
-          "outlet": "France Info",
-          "take": "Une sénatrice centriste relève que le Sénat avait proposé dès l'origine un dispositif constitutionnel et compatible avec le droit européen.",
-          "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/le-dispositif-d-interdiction-des-reseaux-sociaux-pour-les-moins-de-15-ans-n-etait-pas-raisonnable-estime-la-senatrice-catherine-morin-desailly_8148467.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "Précise le taux de participation à la grève et identifie la stabilité des plannings comme revendication centrale.",
+          "url": "https://www.lemonde.fr/economie/article/2026/08/15/easyjet-la-greve-des-hotesses-et-stewards-entraine-l-annulation-d-une-centaine-de-vols-au-depart-de-la-france_6746613_3234.html"
         },
         {
           "outlet": "Le Figaro Éco",
-          "take": "Cette censure constitue un revers politique majeur pour l'exécutif, particulièrement investi dans ce projet.",
-          "url": "https://www.lefigaro.fr/secteur/high-tech/pourquoi-les-sages-ont-censure-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-jugee-contraire-a-la-constitution-20260814"
+          "take": "Identifie les trois organisations syndicales signataires du préavis et rapporte l'échec des discussions préalables.",
+          "url": "https://www.lefigaro.fr/societes/greve-chez-easyjet-une-quarantaine-de-vols-annules-samedi-et-probablement-autant-dimanche-20260813"
+        },
+        {
+          "outlet": "Libération",
+          "take": "Indique que la moitié des vols du week-end sont affectés et souligne la dégradation des conditions de travail dénoncée.",
+          "url": "https://www.liberation.fr/economie/transports/greve-massive-a-easyjet-une-centaine-de-vols-au-depart-de-la-france-annules-ce-week-end-20260815_PZRQYWB7NNAKNFPDABZCU2B7PY/"
         }
       ],
       "id": 6,
@@ -234,30 +233,20 @@
     },
     {
       "themes": [
-        "Économie"
+        "Monde"
       ],
-      "title": "EasyJet annule une centaine de vols en France lors d'une grève",
-      "full": "EasyJet a annulé environ cent vols au départ de la France samedi 14 et dimanche 15 août en raison d'une grève du personnel navigant commercial. Plus des deux tiers des quelque 340 membres d'équipage prévus ce week-end se sont joints au mouvement. L'intersyndicale regroupant le SNPNC-FO, l'UNPNC-CFDT et l'UNAC-CFE-CGC a appelé à cette grève après l'échec de discussions sur l'amélioration des conditions de travail, notamment la stabilité des plannings.",
+      "title": "Ukraine et Russie intensifient les frappes mutuelles",
+      "full": "La nuit du 15 au 16 août a été marquée par une escalade des attaques aériennes entre l'Ukraine et la Russie. Moscou a été visée par environ 600 drones ukrainiens, une ampleur rare qui a fait au moins trois blessés selon le maire de la capitale russe. De son côté, Kiev a subi des frappes de missiles faisant au moins un mort et six blessés à Kryvy Rih, dans le centre du pays, ainsi qu'un blessé dans la capitale.",
       "angles": [
         {
-          "outlet": "20 Minutes",
-          "take": "Souligne l'ampleur de la mobilisation du personnel de cabine lors de ce week-end d'août.",
-          "url": "https://www.20minutes.fr/economie/4239306-20260815-easyjet-centaine-vols-annules-week-end-france-fond-greve?at_medium=display&at_campaign=149"
-        },
-        {
           "outlet": "Le Monde",
-          "take": "Précise que plus de deux tiers du personnel navigant ont répondu à l'appel et identifie la stabilité des plannings comme principal enjeu revendicatif.",
-          "url": "https://www.lemonde.fr/economie/article/2026/08/15/easyjet-la-greve-des-hotesses-et-stewards-entraine-l-annulation-d-une-centaine-de-vols-au-depart-de-la-france_6746613_3234.html"
+          "take": "Rapporte l'attaque massive de drones contre Moscou (600 appareils) et les dégâts causés par les frappes russes sur les villes ukrainiennes.",
+          "url": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-le-maire-de-kiev-annonce-une-attaque-de-missiles-alors-que-retentissent-des-explosions-dans-la-capitale_6746952_3210.html"
         },
         {
-          "outlet": "Le Figaro Éco",
-          "take": "Rappelle que l'intersyndicale a lancé le préavis après l'échec de négociations sur les conditions de travail.",
-          "url": "https://www.lefigaro.fr/societes/greve-chez-easyjet-une-quarantaine-de-vols-annules-samedi-et-probablement-autant-dimanche-20260813"
-        },
-        {
-          "outlet": "Libération",
-          "take": "Indique que la moitié des vols sont impactés et souligne la détérioration perçue des conditions de travail par le personnel.",
-          "url": "https://www.liberation.fr/economie/transports/greve-massive-a-easyjet-une-centaine-de-vols-au-depart-de-la-france-annules-ce-week-end-20260815_PZRQYWB7NNAKNFPDABZCU2B7PY/"
+          "outlet": "20 Minutes",
+          "take": "Souligne le cycle répétitif des échanges de frappes et note des pénuries de carburant en Russie.",
+          "url": "https://www.20minutes.fr/monde/ukraine/4239325-20260815-guerre-ukraine-moscou-kiev-enchainent-frappes-essence-manque-russie?at_medium=display&at_campaign=149"
         }
       ],
       "id": 7,
@@ -268,22 +257,22 @@
         "France",
         "Environnement"
       ],
-      "title": "Lecornu promet des mesures agricoles pour le budget 2027",
-      "full": "Le Premier ministre Sébastien Lecornu a adressé une lettre à la presse régionale promettant des mesures de soutien et d'investissement pour l'agriculture dans le budget 2027. Ces aides porteront notamment sur les investissements hydrauliques et l'adaptation du secteur au changement climatique, ainsi que sur la préservation de la compétitivité des filières. Face à la sécheresse précoce et sévère observée, Lecornu assure que la réponse sera rapide et forte, en complément des aides déjà annoncées par la ministre de l'agriculture.",
+      "title": "Lecornu promet des mesures agricoles pour 2027",
+      "full": "Le Premier ministre Sébastien Lecornu a annoncé mercredi, par lettre ouverte adressée au monde rural, un ensemble de mesures de soutien à l'agriculture pour le budget 2027. Ces annonces visent notamment à soutenir les investissements hydrauliques, adapter l'agriculture au changement climatique et préserver la compétitivité des filières françaises. Lecornu, qui se rendra lundi en Gironde, assure que la réponse face à la sécheresse précoce et sévère sera « rapide et forte ».",
       "angles": [
         {
           "outlet": "Libération",
-          "take": "Le Premier ministre cherche à mobiliser le monde rural en annonçant un nouveau cadre de soutien budgétaire.",
+          "take": "Le Premier ministre s'adresse directement au monde rural par la presse régionale pour annoncer un budget d'investissement destiné au secteur agricole.",
           "url": "https://www.liberation.fr/politique/lecornu-prend-la-plume-et-promet-de-nouvelles-mesures-aux-agriculteurs-20260815_GX2ROS3DDBAK3LHIGXKFILSLDM/"
         },
         {
           "outlet": "France Info",
-          "take": "Les mesures visent à concilier soutien agricole et adaptation aux défis climatiques du secteur.",
+          "take": "Les mesures visent trois axes : les investissements hydrauliques, l'adaptation au changement climatique et la compétitivité des filières agricoles.",
           "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/sebastien-lecornu-promet-de-nouvelles-mesures-pour-l-agriculture-dans-le-budget-2027_8149130.html#xtor=RSS-3-[lestitres]"
         },
         {
           "outlet": "Le Monde",
-          "take": "Les contours précis de ces mesures restent à définir malgré l'urgence créée par la sécheresse.",
+          "take": "Bien que promettant une réponse « rapide et forte » à la sécheresse, le Premier ministre reste vague sur les contours concrets de ces mesures.",
           "url": "https://www.lemonde.fr/politique/article/2026/08/15/sebastien-lecornu-promet-des-mesures-de-soutien-pour-l-agriculture-aux-contours-flous-dans-une-lettre-ouverte_6746717_823448.html"
         }
       ],
@@ -292,24 +281,24 @@
     },
     {
       "themes": [
-        "Société"
+        "Économie"
       ],
-      "title": "Plus de 700 km de bouchons lors du chassé-croisé du 15 août",
-      "full": "Samedi 15 août, le traditionnel chassé-croisé estival a provoqué des embouteillages massifs sur les autoroutes françaises, avec plus de 700 kilomètres de bouchons cumulés en milieu de journée hors Île-de-France. Bison futé a classé cette journée en rouge, voire en noir dans le sens des départs en région Auvergne-Rhône-Alpes. Les axes les plus saturés étaient l'A7, l'A10, l'A9, la N165 et l'A71.",
+      "title": "Le chassé-croisé du 15 août provoque plus de 700 km de bouchons",
+      "full": "La circulation routière est paralysée samedi en France lors du pic estival des départs en vacances. Bison futé recense plus de 700 kilomètres de bouchons cumulés à midi, hors Ile-de-France, avec un classement rouge national et noir en Auvergne-Rhône-Alpes. Les principaux embouteillages concernent l'A7, l'A10, l'A9, la N165 et l'A71.",
       "angles": [
         {
           "outlet": "20 Minutes",
-          "take": "La circulation en Auvergne-Rhône-Alpes a été particulièrement chargée, notamment sur l'A7.",
+          "take": "Signale une charge particulièrement importante en Auvergne-Rhône-Alpes et notamment sur l'A7 samedi.",
           "url": "https://www.20minutes.fr/societe/4239316-20260815-bouchons-15-aout-principaux-bouchons-autoroutes-samedi?at_medium=display&at_campaign=149"
         },
         {
           "outlet": "Le Figaro Éco",
-          "take": "Bison futé a classé samedi en niveau rouge national et noir pour les départs en Auvergne-Rhône-Alpes.",
+          "take": "Souligne le classement noir de Bison futé pour les départs en région Auvergne-Rhône-Alpes en cette journée rouge nationale.",
           "url": "https://www.lefigaro.fr/conjoncture/circulation-plusieurs-centaines-de-kilometres-de-bouchons-en-ce-week-end-du-15-aout-20260815"
         },
         {
           "outlet": "France Info",
-          "take": "Les principaux embouteillages se concentraient sur cinq axes majeurs hors région parisienne.",
+          "take": "Détaille les cinq axes autoroutiers et route nationale les plus affectés en dehors de l'Ile-de-France.",
           "url": "https://www.franceinfo.fr/economie/transports/trafic/plus-de-700-km-de-bouchons-cumules-samedi-midi-hors-ile-de-france_8148839.html#xtor=RSS-3-[lestitres]"
         }
       ],
@@ -321,21 +310,21 @@
         "Monde"
       ],
       "title": "Jason Arday, professeur noir de Cambridge, retrouvé mort",
-      "full": "Jason Arday, 41 ans, ancien plus jeune professeur noir de l'université de Cambridge, a été retrouvé mort vendredi 14 août à son domicile. Le sociologue était au cœur d'un scandale de plagiat depuis sa nomination il y a trois ans. Son entourage et ses collègues dénoncent une « campagne de harcèlement » à son encontre, que sa famille considère comme responsable de sa situation.",
+      "full": "Jason Arday, 41 ans, docteur en sociologie et ancien plus jeune professeur noir de l'université de Cambridge, a été retrouvé mort vendredi 14 août à son domicile. Sa nomination à ce poste prestigieux, il y a trois ans, avait été marquée par un scandale de plagiat qui lui avait attiré de nombreuses critiques. Son entourage et ses collègues dénoncent depuis une « campagne de harcèlement » systématique ayant suivi ces accusations.",
       "angles": [
         {
           "outlet": "Libération",
-          "take": "La famille dénonce explicitement une « campagne de harcèlement » combinant les accusations de plagiat et des enjeux raciaux.",
+          "take": "La famille soulève l'hypothèse d'un harcèlement orchestré autour du scandale de plagiat, dans un contexte de racisme.",
           "url": "https://www.liberation.fr/international/europe/jason-arday-ancien-plus-jeune-professeur-noir-de-cambridge-retrouve-mort-apres-des-accusations-de-plagiat-20260815_25GJDLS3HVC6JG3E34VSCE4XKY/"
         },
         {
           "outlet": "Le Monde",
-          "take": "Les proches et collègues s'expriment unanimement pour dénoncer le harcèlement subi depuis trois ans au sein de Cambridge.",
+          "take": "Les proches et collègues affirment que le professeur subissait un harcèlement continu depuis sa prise de fonction à Cambridge.",
           "url": "https://www.lemonde.fr/international/article/2026/08/15/les-hommages-se-multiplient-apres-la-mort-de-jason-arday-qui-fut-le-plus-jeune-professeur-noir-de-cambridge-avant-d-etre-accuse-de-plagiat_6746667_3210.html"
         },
         {
           "outlet": "France 24",
-          "take": "L'accent est mis sur la multiplication des hommages et la caractérisation du harcèlement comme ayant des conséquences mortelles.",
+          "take": "Les hommages se multiplient, mettant l'accent sur la durée et l'intensité du harcèlement ayant précédé son décès.",
           "url": "https://www.france24.com/fr/europe/20260815-jason-arday-professeur-noir-%C3%A0-cambridge-victime-d-un-harc%C3%A8lement-mortel"
         }
       ],
@@ -344,25 +333,26 @@
     },
     {
       "themes": [
-        "Société"
+        "Monde",
+        "Sport"
       ],
-      "title": "Classement de Shanghai : la France stable, Harvard domine toujours",
-      "full": "La France maintient sa position dans le top 10 mondial du classement de Shanghai 2026, publié samedi. Paris-Saclay reste la meilleure université française à la 13e place, tandis que PSL et Paris Cité progressent. Quatre établissements français figurent dans le top 100 sur les 27 universités du pays classées. Aux États-Unis et en Grande-Bretagne, les universités gardent l'ascendant avec Harvard, Stanford et le MIT en tête.",
+      "title": "Un cycliste britannique tué lors du Tour du Portugal",
+      "full": "Finlay Tarling, coureur de 19 ans de l'équipe NSN Development Team, a été percuté mortellement vendredi 14 août lors de la huitième étape du Tour du Portugal. Un véhicule circulant en sens inverse sur le parcours de la course l'a heurté de plein fouet. Cet incident relance les questions de sécurité dans le cyclisme professionnel, plusieurs jeunes coureurs ayant trouvé la mort sur les routes lors de compétitions officielles ces dernières années.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "PSL et Paris Cité progressent au classement tandis que la Sorbonne recule.",
-          "url": "https://www.franceinfo.fr/societe/education/classement-de-shanghai-la-france-se-maintient-dans-le-top-10-mondial-les-universites-americaines-toujours-en-tete_8148497.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Courrier International",
+          "take": "Le décès soulève des inquiétudes plus larges concernant la sécurité des jeunes coureurs lors des compétitions officielles.",
+          "url": "https://www.courrierinternational.com/article/cyclisme-la-mort-du-coureur-britannique-finlay-tarling-jette-une-ombre-sur-le-tour-du-portugal_259713"
         },
         {
           "outlet": "Libération",
-          "take": "Les établissements anglo-saxons dominent largement les premières places du palmarès.",
-          "url": "https://www.liberation.fr/international/classement-mondial-de-shanghai-harvard-toujours-au-sommet-malgre-le-bras-de-fer-avec-trump-paris-saclay-a-la-13e-place-20260815_V3IKHHETBNDQNGLE7JT4YJ7YLM/"
+          "take": "Le véhicule impliqué circulait apparemment en sens inverse sur le parcours officiel de l'épreuve.",
+          "url": "https://www.liberation.fr/sports/cyclisme/mort-du-cycliste-britannique-finlay-tarling-percute-par-une-voiture-lors-du-tour-du-portugal-20260814_CTCXQEF6RFFEJOJS5BAECMKP4I/"
         },
         {
-          "outlet": "Le Monde",
-          "take": "La Chine gagne des places dans un classement où la France se maintient stable.",
-          "url": "https://www.lemonde.fr/societe/article/2026/08/15/dans-le-classement-de-shanghai-2026-la-france-se-maintient-et-la-chine-progresse_6746507_3224.html"
+          "outlet": "20 Minutes",
+          "take": "Le véhicule était un utilitaire sans lien avec l'organisation de la course.",
+          "url": "https://www.20minutes.fr/sport/cyclisme/4239313-20260815-tour-portugal-comment-finlay-tarling-pu-etre-percute-mortellement-voiture-contresens?at_medium=display&at_campaign=149"
         }
       ],
       "id": 11,
@@ -370,20 +360,20 @@
     },
     {
       "themes": [
-        "Monde"
+        "Société"
       ],
-      "title": "Ukraine : intensification des frappes aériennes de part et d'autre",
-      "full": "La Russie affirme avoir intercepté et détruit 180 drones ukrainiens samedi 15 août, selon son ministère de la Défense. Ces appareils auraient été abattus entre 8 et 20 heures au-dessus de plusieurs régions russes et de Crimée. De son côté, l'Ukraine poursuit ses opérations offensives. Des pénuries d'essence commencent à apparaître en Russie, conséquence des destructions d'infrastructure.",
+      "title": "Isère : enquête après des propos antisémites d'une commerçante",
+      "full": "Une enquête a été ouverte à Grenoble pour « provocation publique à la haine ou à la violence en raison de l'origine ou de la religion » après des propos antisémites tenus par la propriétaire d'une buvette aux Deux-Alpes. Des vidéos diffusées sur les réseaux sociaux montrent la commerçante affirmer que la présence de personnes juives « excède les gens ». Selon le parquet, la mise en cause a reconnu ses propos en invoquant le contexte dans lequel ils ont été prononcés.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "La Russie revendique l'interception d'une masse importante de drones sur un périmètre très vaste, couvrant plusieurs régions frontalières et le sud.",
-          "url": "https://www.lemonde.fr/international/live/2026/08/15/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-intercepte-et-detruit-180-drones-ukrainiens-dans-la-journee_6741928_3210.html"
+          "take": "Souligne l'ouverture de l'enquête judiciaire pour provocation à la haine et la reconnaissance des propos par la commerçante.",
+          "url": "https://www.lemonde.fr/societe/article/2026/08/15/isere-laurent-nunez-et-aurore-berge-denoncent-les-propos-antisemites-d-une-commercante-une-enquete-ouverte_6746852_3224.html"
         },
         {
-          "outlet": "20 Minutes",
-          "take": "Au-delà des échanges de frappes, les difficultés d'approvisionnement en carburant commencent à toucher le territoire russe.",
-          "url": "https://www.20minutes.fr/monde/ukraine/4239325-20260815-guerre-ukraine-moscou-kiev-enchainent-frappes-essence-manque-russie?at_medium=display&at_campaign=149"
+          "outlet": "France Info",
+          "take": "Met l'accent sur le contenu spécifique des déclarations filmées visant la présence de personnes juives.",
+          "url": "https://www.franceinfo.fr/societe/antisemitisme/vous-etes-trop-nombreux-une-enquete-ouverte-apres-les-actes-et-propos-antisemites-de-la-proprietaire-d-une-buvette-en-isere_8148953.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "id": 12,
@@ -391,20 +381,20 @@
     },
     {
       "themes": [
-        "Société"
+        "Culture"
       ],
-      "title": "Isère : enquête pour propos antisémites d'une commerçante",
-      "full": "Une enquête a été ouverte à Grenoble après la diffusion de vidéos montrant une propriétaire de buvette aux Deux-Alpes tenir des propos antisémites. La femme a notamment déclaré que la présence de personnes juives sur les lieux « excède les gens ». Le parquet poursuit cette affaire pour « provocation publique à la haine ou à la violence en raison de l'origine ou de la religion ». La commerçante a reconnu ces propos en les replacant dans leur contexte.",
+      "title": "Le Léopard d'or du Festival de Locarno à un film roumain",
+      "full": "Le film « You Don't Belong Here » du réalisateur roumain Florin Serban a remporté le Léopard d'or, plus haute distinction du Festival de Locarno. Monica Bellucci a reçu le prix de la meilleure interprétation féminine. Par ailleurs, le film sud-coréen « Nowhere To Lay My Eyes » de Hong Sang-soo s'est vu attribuer le prix de la meilleure réalisation, tandis que l'actrice Kim Min-hee recevait celui de la meilleure interprétation.",
       "angles": [
         {
-          "outlet": "Le Monde",
-          "take": "Met l'accent sur la reconnaissance des propos par l'intéressée et la qualification juridique retenue par le parquet.",
-          "url": "https://www.lemonde.fr/societe/article/2026/08/15/isere-laurent-nunez-et-aurore-berge-denoncent-les-propos-antisemites-d-une-commercante-une-enquete-ouverte_6746852_3224.html"
+          "outlet": "France Info",
+          "take": "La récompense majeure du festival était partagée entre le réalisateur et le producteur du film primé, parmi dix-sept productions en compétition.",
+          "url": "https://www.franceinfo.fr/culture/cinema/un-film-roumain-de-florin-serban-et-monica-bellucci-primes-au-festival-de-locarno_8148899.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France Info",
-          "take": "Détaille le contenu des déclarations filmées et diffusées sur les réseaux sociaux.",
-          "url": "https://www.franceinfo.fr/societe/antisemitisme/vous-etes-trop-nombreux-une-enquete-ouverte-apres-les-actes-et-propos-antisemites-de-la-proprietaire-d-une-buvette-en-isere_8148953.html#xtor=RSS-3-[lestitres]"
+          "outlet": "Le Monde",
+          "take": "Plusieurs prix d'interprétation et de réalisation ont été distribués à d'autres productions, notamment le film sud-coréen.",
+          "url": "https://www.lemonde.fr/culture/article/2026/08/15/a-locarno-le-leopard-d-or-est-attribue-a-you-don-t-belong-here-du-roumain-florin-serban_6746674_3246.html"
         }
       ],
       "id": 13,
@@ -412,20 +402,20 @@
     },
     {
       "themes": [
-        "Culture"
+        "Monde"
       ],
-      "title": "Le Léopard d'Or du Festival de Locarno à un film roumain",
-      "full": "« You Don't Belong Here », du réalisateur roumain Florin Serban, a remporté le Léopard d'Or, la plus haute distinction du Festival de Locarno. L'actrice italienne Monica Bellucci a été récompensée pour sa performance dans ce film. Le cinéaste sud-coréen Hong Sang-soo a reçu le prix de la meilleure réalisation pour « Nowhere To Lay My Eyes », tandis que l'interprète Kim Min-hee obtenait celui de la meilleure interprétation. Dix-sept films concouraient pour la palme d'Or.",
+      "title": "Grenade secouée par un rare séisme de magnitude 5",
+      "full": "Un tremblement de terre de magnitude 5 a frappé la région de Grenade, en Andalousie, peu après 1 heure du matin. L'épicentre s'est situé à Alhendin, à environ 10 kilomètres au sud de la ville. Aucune victime n'a été signalée, et les dégâts matériels sont restés isolés. Le palais de l'Alhambra, monument emblématique du site, n'a pas subi de dommages. Il s'agit du premier séisme de cette amplitude depuis 1955 dans la région.",
       "angles": [
         {
-          "outlet": "France Info",
-          "take": "Monica Bellucci figure parmi les lauréats du festival, aux côtés du réalisateur Serban pour le prix suprême.",
-          "url": "https://www.franceinfo.fr/culture/cinema/un-film-roumain-de-florin-serban-et-monica-bellucci-primes-au-festival-de-locarno_8148899.html#xtor=RSS-3-%5Bgeneral%5D"
+          "outlet": "Le Monde",
+          "take": "Insiste sur la localisation précise du tremblement de terre selon l'Institut géographique national espagnol et l'absence de bilan humain.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/15/espagne-grenade-secouee-par-un-rare-seisme-de-magnitude-5-pas-de-victimes_6746661_3210.html"
         },
         {
-          "outlet": "Le Monde",
-          "take": "Plusieurs cinématographies sont représentées au palmarès, avec des prix distincts pour la réalisation et l'interprétation.",
-          "url": "https://www.lemonde.fr/culture/article/2026/08/15/a-locarno-le-leopard-d-or-est-attribue-a-you-don-t-belong-here-du-roumain-florin-serban_6746674_3246.html"
+          "outlet": "Libération",
+          "take": "Souligne le caractère rarissime de cet événement en le comparant au dernier séisme équivalent datant de 1955, et confirme l'intégrité du patrimoine architectural.",
+          "url": "https://www.liberation.fr/international/europe/espagne-grenade-secoue-par-un-rare-seisme-de-magnitude-5-pas-de-victimes-20260815_KPEU757GUZADDK3R3PG3GM2ZPM/"
         }
       ],
       "id": 14,
@@ -433,20 +423,20 @@
     },
     {
       "themes": [
-        "Monde"
+        "Société"
       ],
-      "title": "Un séisme rare de magnitude 5 secoue Grenade en Espagne",
-      "full": "La ville andalouse de Grenade a été frappée par un tremblement de terre de magnitude 5 peu après 1 heure du matin, avec un épicentre situé à Alhendin, 10 kilomètres au sud de la ville. Aucune victime n'a été dénombrée et les dégâts matériels sont restés isolés. Le palais de l'Alhambra n'a pas été endommagé. C'est le premier séisme d'une telle intensité à frapper la région depuis 1955.",
+      "title": "Un adolescent grièvement blessé par balles près de Lyon",
+      "full": "Un adolescent a été grièvement blessé par balle à Villeurbanne, près de Lyon. Son pronostic vital est engagé. Le parquet a ouvert une enquête pour tentative de meurtre en bande organisée, transport et détention d'arme, ainsi qu'association de malfaiteurs, confiée à la division de la criminalité organisée et spécialisée du Rhône.",
       "angles": [
         {
           "outlet": "Le Monde",
-          "take": "Précise la localisation exacte et l'heure du séisme selon l'Institut géographique national espagnol.",
-          "url": "https://www.lemonde.fr/international/article/2026/08/15/espagne-grenade-secouee-par-un-rare-seisme-de-magnitude-5-pas-de-victimes_6746661_3210.html"
+          "take": "Le parquet a qualifié les faits de tentative de meurtre en bande organisée et a saisi les services spécialisés en criminalité organisée.",
+          "url": "https://www.lemonde.fr/societe/article/2026/08/15/pres-de-lyon-un-adolescent-grievement-blesse-par-balle_6746662_3224.html"
         },
         {
-          "outlet": "Libération",
-          "take": "Souligne l'absence de dégâts aux monuments historiques majeurs et l'intervalle de 71 ans depuis le dernier événement comparable.",
-          "url": "https://www.liberation.fr/international/europe/espagne-grenade-secoue-par-un-rare-seisme-de-magnitude-5-pas-de-victimes-20260815_KPEU757GUZADDK3R3PG3GM2ZPM/"
+          "outlet": "20 Minutes",
+          "take": "L'état de santé de la victime est critique, son pronostic vital restant engagé.",
+          "url": "https://www.20minutes.fr/faits_divers/faits-divers-lyon/4239311-20260815-villeurbanne-adolescent-grievement-blesse-balles-pres-lyon?at_medium=display&at_campaign=149"
         }
       ],
       "id": 15,
@@ -454,20 +444,20 @@
     },
     {
       "themes": [
-        "Monde"
+        "Société"
       ],
-      "title": "Au moins neuf morts dans des frappes israéliennes au sud du Liban",
-      "full": "Des frappes aériennes israéliennes ont frappé samedi le sud du Liban, tuant au moins neuf civils, dont des enfants, dans les villages d'Ansar et Deir Zahrani. C'est le bilan le plus meurtrier depuis des accords conclus en juin visant à réduire les hostilités entre Israël et le Hezbollah. L'armée israélienne a déclaré avoir visé un commandant du mouvement pro-iranien, qui a promis en retour une « riposte appropriée ».",
+      "title": "Classement de Shanghai: la France progresse dans le top 10 mondial",
+      "full": "Selon le classement de Shanghai publié samedi, la France consolide sa présence parmi les dix meilleures nations universitaires mondiales. Paris-Saclay reste l'établissement français le mieux classé à la 13e place mondiale, tandis que Paris Sciences et Lettres et Paris Cité gagnent des positions. La Sorbonne recule en revanche de plusieurs places. Aux États-Unis, Harvard, Stanford et le MIT conservent leur domination du classement, les universités américaines et britanniques occupant toujours les premières places.",
       "angles": [
         {
-          "outlet": "Libération",
-          "take": "Insiste sur le caractère exceptionnellement meurtre de ces frappes depuis la signature des accords de juin et souligne la promesse de riposte du Hezbollah.",
-          "url": "https://www.liberation.fr/international/moyen-orient/sud-du-liban-neuf-morts-dont-des-enfants-dans-des-frappes-israeliennes-20260815_TGA5K3NGVRCDRL5QCHCKCVOPXE/"
+          "outlet": "France Info",
+          "take": "Souligne la progression de certains établissements français, notamment PSL et Paris Cité, tandis que la Sorbonne perd du terrain.",
+          "url": "https://www.franceinfo.fr/societe/education/classement-de-shanghai-la-france-se-maintient-dans-le-top-10-mondial-les-universites-americaines-toujours-en-tete_8148497.html#xtor=RSS-3-%5Bgeneral%5D"
         },
         {
-          "outlet": "France 24",
-          "take": "Détaille la localisation des attaques et précise qu'Israël affirme avoir tué l'un des commandants du mouvement chiite.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260815-au-moins-onze-morts-dans-le-sud-liban-le-hezbollah-menace-de-risposter"
+          "outlet": "Libération",
+          "take": "Note que quatre institutions françaises figurent dans le top 100 et relève la position dominante persistante des universités anglo-saxonnes malgré les tensions politiques américaines.",
+          "url": "https://www.liberation.fr/international/classement-mondial-de-shanghai-harvard-toujours-au-sommet-malgre-le-bras-de-fer-avec-trump-paris-saclay-a-la-13e-place-20260815_V3IKHHETBNDQNGLE7JT4YJ7YLM/"
         }
       ],
       "id": 16,
@@ -477,12 +467,12 @@
       "themes": [
         "Insolite"
       ],
-      "title": "En Belgique, des ouvriers découvrent 9 millions d'euros en or",
-      "full": "Des ouvriers belges ont mis au jour plusieurs kilos d'or sur un chantier de construction, d'une valeur estimée à 9 millions d'euros. La découverte soulève désormais la question de l'identification du propriétaire de ce trésor enfoui.",
+      "title": "Des ouvriers belges découvrent 9 millions d'euros d'or sur un chantier",
+      "full": "En Belgique, des ouvriers ont mis au jour plusieurs kilos d'or d'une valeur estimée à 9 millions d'euros lors de travaux de construction. La découverte fortuite laisse ouvertes les questions sur l'origine du trésor et l'identité de son propriétaire légitime.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Des ouvriers ont exhumé plusieurs kilos d'or d'une valeur colossale lors de travaux sur un chantier belge, dont la propriété reste à déterminer.",
+          "take": "Des ouvriers excavent accidentellement une somme considérable en or sur un chantier belge, soulevant l'énigme de son provenance et de ses ayants droit.",
           "url": "https://www.franceinfo.fr/faits-divers/j-ai-compris-qu-une-somme-d-argent-colossale-attendait-au-fond-en-belgique-des-ouvriers-exhument-un-tresor-estime-a-9-millions-d-euros_8149187.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
@@ -491,15 +481,14 @@
     },
     {
       "themes": [
-        "Insolite",
-        "Monde"
+        "Insolite"
       ],
-      "title": "Trois tableaux de maîtres volés en Italie en moins d'une minute",
-      "full": "Les images d'un cambriolage survenu en mars en Italie ont été rendues publiques samedi 15 août. En moins de soixante secondes, des voleurs se sont emparés de trois toiles : une de Cézanne, une de Renoir et une de Matisse. Les trois chefs-d'œuvre ont depuis été retrouvés.",
+      "title": "Trois chefs-d'œuvre italiens volés en moins d'une minute",
+      "full": "Les images de surveillance d'un vol survenu en mars en Italie ont été rendues publiques samedi 15 août. En soixante secondes, des cambrioleurs ont dérobé trois toiles de Cézanne, Renoir et Matisse. Les tableaux ont depuis été retrouvés.",
       "angles": [
         {
           "outlet": "France Info",
-          "take": "Les enregistrements de sécurité du vol montrent la rapidité de l'opération et permettent de documenter le cambriolage plusieurs mois après les faits.",
+          "take": "La diffusion des vidéos du braquage montre l'extrême rapidité d'exécution et permet de visualiser le modus operandi des voleurs.",
           "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/trois-chefs-d-uvre-retrouves-en-italie-les-images-du-cambriolage-devoilees_8149175.html#xtor=RSS-3-%5Bgeneral%5D"
         }
       ],
@@ -512,11 +501,11 @@
         "Économie"
       ],
       "title": "Un t-shirt blanc vendu plus de 500 euros par les marques de luxe",
-      "full": "Certaines maisons de luxe commercialisent des t-shirts blancs minimalistes à des prix dépassant les 500 euros. Ces vêtements, dépourvus de caractéristiques techniques justifiant leur tarif, illustrent comment le positionnement haut de gamme, la réputation de la marque et l'absence de décoration apparente deviennent des leviers marketing pour justifier des prix exorbitants. Ce phénomène reflète une stratégie commerciale fondée sur le prestige plutôt que sur la matière première ou l'innovation.",
+      "full": "Certaines maisons de luxe commercialisent des t-shirts blancs minimalistes à des prix dépassant les 500 euros. Ces articles, dépourvus de motifs ou de logos apparents, illustrent une stratégie marketing basée sur le prestige de la marque plutôt que sur des caractéristiques matérielles distinctives. Ce phénomène reflète la tendance du « quiet luxury », qui valorise la discrétion et le minimalisme comme signes de standing.",
       "angles": [
         {
           "outlet": "Slate",
-          "take": "L'article interroge les mécanismes de marketing qui permettent aux marques de luxe de valoriser des pièces épurées à des prix disproportionnés par rapport à leur composition matérielle.",
+          "take": "L'article examine les mécanismes marketing permettant aux grands noms du luxe de justifier des tarifs exorbitants pour des basiques dépouillés de tout élément ostentatoire.",
           "url": "https://www.slate.fr/economie/quiet-luxury-shirt-blanc-prix-cher-marketing-luxe"
         }
       ],
@@ -527,12 +516,12 @@
       "themes": [
         "Insolite"
       ],
-      "title": "Dix astuces de grand-mère contre les moucherons des fruits",
-      "full": "20 Minutes propose une sélection de remèdes simples et accessibles pour éloigner les moucherons qui envahissent les corbeilles de fruits. Ces méthodes, transmises par la tradition, permettent de protéger naturellement ses provisions sans recourir à des produits chimiques.",
+      "title": "Dix astuces simples pour éloigner les moucherons des fruits",
+      "full": "Face à l'invasion de moucherons dans les corbeilles de fruits, des solutions domestiques éprouvées permettent de tenir ces insectes à distance sans recourir à des produits chimiques. Ces méthodes, transmises par les générations précédentes, reposent sur des ingrédients courants du placard ou de la cuisine.",
       "angles": [
         {
           "outlet": "20 Minutes",
-          "take": "Mise en avant de solutions éprouvées et faciles à mettre en œuvre, basées sur le savoir-faire populaire, pour se débarrasser des moucherons.",
+          "take": "Propose des astuces de grand-mère simples et accessibles pour repousser les moucherons des fruits sans utiliser de pesticides.",
           "url": "https://www.20minutes.fr/tempo/style/4238984-20260815-10-astuces-grand-mere-eloigner-moucherons-fruits?at_medium=display&at_campaign=149"
         }
       ],
@@ -544,11 +533,11 @@
         "Insolite"
       ],
       "title": "Au Brésil, la « règle des trois secondes » fait le buzz sur les réseaux",
-      "full": "Une pratique de rencontre brésilienne suscite l'intérêt sur les réseaux sociaux : la « règle des trois secondes ». Cette convention locale du dating contraste avec les codes de séduction français et ceux d'autres pays comme la Suède ou l'Islande, rappelant que les rituels amoureux varient considérablement selon les cultures et les régions.",
+      "full": "Une tendance de séduction circule sur les réseaux sociaux brésiliens sous le nom de « règle des trois secondes ». Cette pratique de dating suscite des réactions variées en ligne. Le phénomène illustre comment les codes de la rencontre amoureuse diffèrent selon les régions du monde.",
       "angles": [
         {
           "outlet": "20 Minutes",
-          "take": "La plateforme souligne comment cette règle brésilienne de rencontre attire l'attention en ligne et illustre la diversité des codes de séduction selon les destinations touristiques.",
+          "take": "La source présente cette règle de dating brésilienne comme un exemple des variations culturelles en matière de séduction, comparables à celles observées en Suède ou en Islande.",
           "url": "https://www.20minutes.fr/tempo/4237778-20260815-quoi-regle-trois-secondes-dating-bresil-fait-parler-reseaux-sociaux?at_medium=display&at_campaign=149"
         }
       ],
