@@ -1,32 +1,38 @@
 // Généré automatiquement par Brève — ne pas éditer à la main.
-// 2026-08-17T04:29:57.519910+00:00
+// 2026-08-18T04:02:46.273472+00:00
 const ARTICLES = [
   {
     "themes": [
-      "Sport"
+      "France",
+      "Environnement"
     ],
-    "title": "Championnats d'Europe : succès français en athlétisme et natation",
-    "full": "La France a remporté plusieurs médailles aux championnats d'Europe en cours. En athlétisme, la sauteuse en longueur Hilary Kpatcha a décroché le bronze dimanche à Birmingham, décrochant sa première médaille continentale à 28 ans après un changement de structure d'entraînement. En natation, Léon Marchand a remporté l'or sur 400 m nage libre avant de contribuer à une médaille de bronze en relais 4x100 m 4 nages. Le perchiste suédois Armand Duplantis a remporté son quatrième titre européen consécutif, tandis que le Français Baptiste Thiery a obtenu le bronze à la perche. En gymnastique, Elena Colas, 16 ans, a surpris en devenant championne d'Europe sur poutre à ses débuts internationaux en tant que senior.",
+    "title": "Lecornu annonce 100 millions d'euros après les mégafeux",
+    "full": "Le Premier ministre Sébastien Lecornu a présenté lundi 17 août un plan d'aide aux communes sinistrées par les incendies d'été en Gironde, Landes et Var. Une première enveloppe de 12 millions d'euros est destinée aux collectivités, le dispositif total pouvant dépasser 100 millions d'euros avec des procédures accélérées de reconstruction. Le chef du gouvernement a été conspué par les habitants du Porge qui s'estiment abandonnés, trois semaines après le mégafeu ayant détruit 183 maisons. Emmanuel Macron a confirmé que le Var bénéficierait des mêmes mécanismes d'accompagnement.",
     "angles": [
       {
         "outlet": "France Info",
-        "take": "Hilary Kpatcha concrétise enfin son potentiel de jeune prodige en remportant sa première médaille européenne après une refonte complète de son entraînement.",
-        "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/apres-la-frustrante-4e-place-des-mondiaux-de-tokyo-comment-hilary-kpatcha-a-rebondi-pour-s-adjuger-sa-premiere-medaille-europeenne_8150348.html#xtor=RSS-3-[lestitres]"
+        "take": "Les sinistrés ont exprimé leur colère lors de la visite du Premier ministre, dénonçant un sentiment d'abandon face aux destructions.",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/il-n-y-a-plus-rien-manque-de-consideration-sebastien-lecornu-hue-au-porge_8151008.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "France 24",
-        "take": "Armand Duplantis confirme sa domination avec un quatrième titre consécutif en percant à 6,15 m, seul franchisseur de cette hauteur.",
-        "url": "https://www.france24.com/fr/sports/20260816-athl%C3%A9tisme-le-perchiste-armand-duplantis-%C3%A0-nouveau-champion-d-europe-baptiste-thiery-en-bronze"
+        "outlet": "Libération",
+        "take": "Le plan gouvernemental prévoit une enveloppe initiale de 12 millions pour les collectivités, avec un montant total susceptible de dépasser 100 millions.",
+        "url": "https://www.liberation.fr/societe/incendies-ce-que-contient-le-plan-du-gouvernement-apres-les-feux-en-gironde-dans-les-landes-et-dans-le-var-20260817_OTIQUTTTGRFWVKCCGP7QEMZPCM/"
       },
       {
-        "outlet": "20 Minutes",
-        "take": "Léon Marchand enchaîne les médailles sur 400 m nage libre en or et relais 4x100 m 4 nages en bronze.",
-        "url": "https://www.20minutes.fr/sport/natation/4239361-20260816-direct-championnats-europe-natation-belle-surprise-leon-marchand-400-finir-suivez-courses?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Emmanuel Macron a annoncé l'extension des mêmes dispositifs d'aide au Var, en déplacement pour commémorer la libération.",
+        "url": "https://www.lemonde.fr/climat/live/2026/08/17/en-direct-incendies-et-canicule-emmanuel-macron-promet-les-memes-dispositifs-d-aide-qu-en-gironde-pour-les-communes-sinistrees-du-var_6744636_1652612.html"
       },
       {
         "outlet": "L'Humanité",
-        "take": "Elena Colas, 16 ans, remporte l'or sur poutre en tant que première expérience en compétition senior et signe sa troisième médaille.",
-        "url": "https://www.humanite.fr/sports/gymnastique/la-gymnaste-francaise-elena-colas-16-ans-et-deja-championne-deurope-sur-poutre"
+        "take": "Le Premier ministre a refusé de présenter des excuses sur les moyens alloués aux pompiers malgré des révélations sur les défaillances gouvernementales.",
+        "url": "https://www.humanite.fr/politique/gironde/incendie-en-gironde-12-millions-deuros-mais-sans-mea-culpa-de-lecornu"
+      },
+      {
+        "outlet": "Mediapart",
+        "take": "Les ministres se sont embourbés dans leurs explications après des révélations sur le double discours du gouvernement concernant les ressources manquantes.",
+        "url": "https://www.mediapart.fr/journal/ecologie/170826/incendies-pris-en-flagrant-delit-de-mensonge-nunez-reconnait-une-maladresse-lecornu-sattaque"
       }
     ],
     "id": 0,
@@ -36,33 +42,33 @@ const ARTICLES = [
     "themes": [
       "Monde"
     ],
-    "title": "Attaque de drones massive entre la Russie et l'Ukraine",
-    "full": "Une vague de plusieurs centaines de drones ukrainiens a visé la région de Moscou dans la nuit du 16 au 17 août, causant la mort d'au moins plusieurs personnes. Le gouverneur régional a qualifié cette offensive d'« une des plus massives de mémoire récente ». En riposte, des missiles et drones russes ont frappé l'Ukraine, tuant notamment deux personnes dans une aciérie d'ArcelorMittal à Kryvyï Rig. Ces échanges s'inscrivent dans une intensification des raids transfrontaliers des deux côtés depuis plusieurs semaines.",
+    "title": "Kushner en Israël et Égypte pour relancer le plan de paix américain",
+    "full": "L'émissaire américain Jared Kushner a rencontré dimanche le chef du Hamas en Égypte, puis lundi le premier ministre israélien à Jérusalem, afin de faire avancer le plan de paix américain pour Gaza. Le Hamas a accepté ce plan, tandis que Netanyahou pose des conditions : il demande qu'un général américain supervise le désarmement du mouvement palestinien avant tout retrait des troupes israéliennes. Les deux parties campent sur leurs positions, sans signe d'avancée imminente.",
     "angles": [
       {
-        "outlet": "France 24",
-        "take": "Souligne l'ampleur matérielle de l'attaque ukrainienne, visible à travers d'énormes panaches de fumée aperçus à grande distance de Moscou.",
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260817-attaque-massive-des-frappes-ont-fait-au-moins-19-morts-en-russie-et-en-ukraine"
+        "outlet": "L'Humanité",
+        "take": "Netanyahou rejette le plan tout en poursuivant les attaques contre les Palestiniens sans conséquences.",
+        "url": "https://www.humanite.fr/monde/benyamin-netanyahou/apres-la-rencontre-entre-jared-kushner-et-le-chef-du-hamas-netanyahou-poursuit-la-guerre-au-moyen-orient"
       },
       {
-        "outlet": "France Info",
-        "take": "Précise que la région de Moscou a été visée par environ 600 drones, chiffre confirmé par les autorités russes.",
-        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-nouvelle-nuit-de-frappes-dans-la-region-de-moscou-et-a-kiev_8149607.html#xtor=RSS-3-[lestitres]"
+        "outlet": "20 Minutes",
+        "take": "Le désarmement du Hamas sous supervision américaine est présenté comme une condition préalable au retrait israélien.",
+        "url": "https://www.20minutes.fr/monde/israel/4239636-20260817-gaza-avant-eventuel-retrait-netanyahou-pose-conditions-envoye-trump-jared-kushner?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Le Monde",
-        "take": "Met l'accent sur l'action du 413e régiment de drones ukrainien et son objectif de frapper l'infrastructure économique russe en profondeur.",
-        "url": "https://www.lemonde.fr/international/article/2026/08/17/guerre-en-ukraine-au-c-ur-de-la-nuit-avec-le-regiment-de-drones-qui-frappe-durement-moscou_6747970_3210.html"
+        "take": "Kushner espère un début du désarmement du Hamas dans un délai de trente jours.",
+        "url": "https://www.lemonde.fr/international/article/2026/08/17/gaza-benyamin-netanyahou-demande-qu-un-general-americain-supervise-le-desarmement-du-hamas-avant-tout-retrait-israelien_6748405_3210.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Rapporte un bilan plus modéré avec trois blessés de chaque côté, en contraste avec les chiffres de morts évoqués ailleurs.",
-        "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-moscou-dit-avoir-ete-vise-par-600-drones-dans-la-nuit-kyiv-par-des-missiles-balistiques-20260816_XJZ46VKYGZDHPM5G6MTXEHBDTM/"
+        "outlet": "France 24",
+        "take": "Aucune avancée imminente n'apparaît malgré la signature d'un accord israélo-américain sur le désarmement.",
+        "url": "https://www.france24.com/fr/moyen-orient/20260817-gaza-kushner-rencontre-netanyahu-pour-tenter-de-sortir-le-plan-trump-de-l-impasse"
       },
       {
         "outlet": "Courrier International",
-        "take": "Situe cette attaque comme la plus importante sur Moscou depuis deux ans et l'inscrit dans une escalade récente des frappes ukrainiennes.",
-        "url": "https://www.courrierinternational.com/article/l-ukraine-lance-une-attaque-de-drones-massive-sur-moscou_259977"
+        "take": "L'Iran préparerait l'intensification du conflit régional alors qu'un accord avec Washington arrive à expiration.",
+        "url": "https://www.courrierinternational.com/article/conflit-le-plan-secret-de-l-iran-pour-intensifier-la-guerre-au-moyen-orient_260274"
       }
     ],
     "id": 1,
@@ -70,26 +76,35 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde",
-      "Environnement"
+      "Monde"
     ],
-    "title": "Belgique : un des pires incendies de son histoire ravage 3 000 hectares",
-    "full": "Un incendie majeur a dévasté près de 3 000 hectares dans les Hautes Fagnes, une grande réserve naturelle de l'est de la Belgique, depuis vendredi. Cet événement figure parmi les plus graves de l'histoire du pays. Le terrain difficile d'accès complique les opérations d'extinction. Des hélicoptères venus notamment de République tchèque et des bombardiers d'eau suédois ont été dépêchés sur place pour soutenir les efforts des autorités wallonnes.",
+    "title": "Trump réduit les exercices militaires avec la Corée du Sud",
+    "full": "Donald Trump a annoncé une réduction substantielle de la participation américaine aux exercices militaires conjoints avec la Corée du Sud, qui devaient débuter lundi. Le président américain justifie cette décision par le coût de ces manœuvres et invoque sa « très bonne relation » avec le dirigeant nord-coréen Kim Jong-un, les qualifiant de signaux « hostiles ». Cette annonce intervient au moment où Washington et Séoul s'apprêtaient à lancer onze jours d'exercices militaires annuels.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Insiste sur l'ampleur historique de l'incendie avec des images du sinistre.",
-        "url": "https://www.lemonde.fr/international/video/2026/08/16/belgique-les-images-d-un-des-pires-incendies-de-l-histoire-du-pays_6747398_3210.html"
+        "outlet": "France 24",
+        "take": "Trump met en avant les considérations financières et sa relation personnelle avec Kim Jong-un pour justifier cette réduction drastique.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260817-cor%C3%A9e-du-sud-trump-r%C3%A9duit-la-participation-am%C3%A9ricaine-aux-exercices-militaires"
       },
       {
         "outlet": "France Info",
-        "take": "Souligne le caractère prisé de cette réserve boisée auprès des randonneurs.",
-        "url": "https://www.franceinfo.fr/monde/europe/belgique/en-belgique-3-000-hectares-d-un-parc-naturel-ont-ete-ravages-par-l-un-des-pires-incendies-de-l-histoire-du-pays_8149637.html#xtor=RSS-3-%5Bgeneral%5D"
+        "take": "Le président américain perçoit ces exercices comme un geste d'hostilité envers la Corée du Nord et son chef.",
+        "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-annonce-reduire-considerablement-des-exercices-militaires-avec-la-coree-du-sud_8150573.html#xtor=RSS-3-[lestitres]"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Cette décision suggère une volonté de renouer le dialogue avec Pyongyang aux dépens des alliances régionales.",
+        "url": "https://www.lemonde.fr/international/article/2026/08/18/donald-trump-maltraite-la-coree-du-sud-et-envisage-a-nouveau-un-dialogue-avec-pyongyang_6748717_3210.html"
+      },
+      {
+        "outlet": "Courrier International",
+        "take": "Cette nouvelle position pourrait refléter des calculs géopolitiques plus larges impliquant l'Iran et la Corée du Nord.",
+        "url": "https://www.courrierinternational.com/article/revirement-pourquoi-trump-ne-veut-il-plus-des-exercices-militaires-conjoints-avec-la-coree-du-sud_260406"
       },
       {
         "outlet": "Libération",
-        "take": "Met l'accent sur l'aide internationale avec l'arrivée d'hélicoptères et bombardiers d'eau étrangers.",
-        "url": "https://www.liberation.fr/international/europe/face-a-un-des-pires-incendies-de-son-histoire-la-belgique-en-attente-dun-soutien-venu-du-ciel-20260816_YSWX73OJWNC4TKH3A22GPLRJME/"
+        "take": "La réduction menace la défense de la Corée du Sud et pourrait préparer une nouvelle rencontre entre Trump et Kim Jong-un.",
+        "url": "https://www.liberation.fr/international/amerique/trump-annonce-reduire-considerablement-ses-exercices-militaires-avec-la-coree-du-sud-sur-fond-de-rapprochement-avec-pyongyang-20260817_MTUMCZAY2BBH7LBRY4NSZPY33Y/"
       }
     ],
     "id": 2,
@@ -97,25 +112,36 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Monde",
+      "Santé"
     ],
-    "title": "Diplomatie américaine pour Gaza face au blocage israélien",
-    "full": "L'émissaire américain Jared Kushner rencontre lundi Benjamin Netanyahu en Israël pour tenter de relancer un plan de paix américain sur Gaza, que le Premier ministre israélien a rejeté début août. Ce plan prévoit le désarmement du Hamas et le retrait israélien du territoire, après un accord du mouvement islamiste fin juillet. Parallèlement, huit pays musulmans (Arabie saoudite, Égypte, Jordanie, Pakistan, Indonésie, Turquie, Qatar, Émirats arabes unis) ont publiquement appelé à sauver cette initiative, jugeant que le refus israélien compromet les efforts de paix.",
+    "title": "Ebola en RDC : l'épidémie la plus meurtrière de l'histoire du pays",
+    "full": "L'épidémie d'Ebola en République démocratique du Congo a dépassé les 2 300 morts en trois mois, devenant la plus meurtrière de l'histoire du pays. Avec plus de 4 900 cas confirmés, cette flambée progresse à un rythme sans précédent, tuant environ une personne toutes les 30 minutes selon l'ONU. L'absence de vaccin contre la souche Bundibugyo, associée à la défiance des populations, au manque de financement et aux arriérés de salaires des soignants, entrave les efforts de riposte.",
     "angles": [
       {
+        "outlet": "Libération",
+        "take": "La crise sanitaire bat des records de mortalité depuis la déclaration officielle du 15 mai, pénalisée par l'absence de vaccin adapté à cette souche.",
+        "url": "https://www.liberation.fr/societe/sante/ebola-lepidemie-devient-la-plus-meurtriere-de-lhistoire-de-la-republique-democratique-du-congo-avec-plus-de-2-000-morts-20260817_MYQLYLSLDBDIRFHM2VH7PIZUQ4/"
+      },
+      {
         "outlet": "France 24",
-        "take": "Kushner se rend directement en Israël pour convaincre Netanyahu de poursuivre les négociations.",
-        "url": "https://www.france24.com/fr/moyen-orient/20260817-en-direct-jared-kushner-va-rencontrer-benjamin-netanyahu-relancer-plan-de-paix-gaza-israel-etats-unis-iran-liban-detroit-ormuz"
+        "take": "L'épidémie surpasse le bilan de la précédente crise de 2018-2020, avec des appels croissants pour accélérer la commercialisation des vaccins en expérimentation.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260817-ebola-en-rdc-l-actuelle-%C3%A9pid%C3%A9mie-devient-la-plus-meurtri%C3%A8re-de-l-histoire-du-pays"
+      },
+      {
+        "outlet": "Sciences et Avenir",
+        "take": "La propagation actuelle est plus rapide que toutes les précédentes, entravée par les obstacles systémiques à la riposte (défiance, financement, ressources humaines).",
+        "url": "https://www.sciencesetavenir.fr/sante/rdc-l-epidemie-d-ebola-devient-la-plus-meurtriere-de-l-histoire-du-pays_194303?xtor=RSS-16"
       },
       {
         "outlet": "Le Monde",
-        "take": "Le Hamas a accepté la feuille de route américaine, tandis qu'Israël la rejette officiellement.",
-        "url": "https://www.lemonde.fr/international/article/2026/08/16/gaza-huit-pays-musulmans-condamnent-le-refus-israelien-de-poursuivre-le-plan-de-donald-trump-pour-mettre-fin-de-la-guerre_6747720_3210.html"
+        "take": "Sur 4 945 cas confirmés, le taux de mortalité atteint 47 % en seulement trois mois.",
+        "url": "https://www.lemonde.fr/international/article/2026/08/17/ebola-en-rdc-l-epidemie-devient-la-plus-meurtriere-de-l-histoire-du-pays-en-seulement-trois-mois_6748146_3210.html"
       },
       {
-        "outlet": "Courrier International",
-        "take": "Huit pays musulmans font pression sur Israël et demandent des mesures concrètes au Conseil de la paix.",
-        "url": "https://www.courrierinternational.com/article/diplomatie-gaza-huit-pays-musulmans-font-pression-sur-israel-pendant-que-jared-kushner-rencontre-des-dirigeants-du-hamas-en-egypte_260109"
+        "outlet": "France Info",
+        "take": "L'ONU qualifie cette épidémie de plus rapide jamais enregistrée dans l'histoire du virus.",
+        "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-devient-la-plus-meurtriere-de-l-histoire-de-la-republique-democratique-du-congo-avec-plus-de-2-300-morts_8150732.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 3,
@@ -123,21 +149,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie",
-      "Environnement"
+      "Société"
     ],
-    "title": "Gironde : la fréquentation touristique s'effondre après le mégafeu",
-    "full": "La fréquentation touristique en Gironde a chuté de moitié depuis la fin juillet, suite au mégaincendie qui a ravagé près de 42 000 hectares en juillet. Le Premier ministre Sébastien Lecornu se rend lundi dans le département pour lancer la reconstruction des communes sinistrées. Les habitants réclament des aides substantielles et concrètes pour faire face aux dégâts.",
+    "title": "Un prêtre parisien de 81 ans mis en examen pour viols sur mineur",
+    "full": "Un prêtre de 81 ans a été mis en examen à Paris pour des viols présumés sur des mineurs. Selon le parquet, les faits allégués s'étalent de 1979 à 2015, avec une première victime agressée à partir de ses 12 ans sur plusieurs années. Au total, quatre personnes aujourd'hui adultes ont dénoncé des faits similaires. L'homme avait déjà été signalé au diocèse entre 2018 et 2020 et avait reçu une interdiction d'officier auprès de mineurs.",
     "angles": [
       {
+        "outlet": "Le Monde",
+        "take": "L'ecclésiastique avait été précédemment signalé au diocèse et soumis à des restrictions pastorales avant cette mise en examen.",
+        "url": "https://www.lemonde.fr/societe/article/2026/08/17/a-paris-un-pretre-de-81-ans-mis-en-examen-pour-viols-sur-mineur_6748414_3224.html"
+      },
+      {
+        "outlet": "20 Minutes",
+        "take": "Les viols présumés auraient notamment eu lieu pendant les Journées mondiales de la jeunesse.",
+        "url": "https://www.20minutes.fr/faits_divers/4239649-20260817-paris-pretre-mis-examen-viols-mineurs-notamment-cours-jmj?at_medium=display&at_campaign=149"
+      },
+      {
         "outlet": "France Info",
-        "take": "La baisse nette de la fréquentation touristique révèle l'impact économique direct du sinistre sur le secteur touristique régional.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/apres-l-incendie-en-gironde-la-frequentation-touristique-a-baisse-de-moitie-depuis-fin-juillet-dans-le-departement_8150066.html#xtor=RSS-3-[lestitres]"
+        "take": "La mise en examen intervient suite à une plainte dénonçant des agressions et viols répétés s'étendant sur plusieurs années.",
+        "url": "https://www.franceinfo.fr/faits-divers/un-pretre-parisien-de-81-ans-mis-en-examen-pour-viols-sur-mineur_8151335.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "Libération",
-        "take": "Les sinistrés du Porge, commune la plus frappée, attendent du gouvernement des mesures financières concrètes plutôt que des promesses.",
-        "url": "https://www.liberation.fr/societe/lecornu-ne-doit-pas-venir-pour-un-discours-mais-avec-un-gros-cheque-au-porge-le-gouvernement-attendu-au-tournant-apres-lincendie-20260817_MCTS6Y6LWFCZ3L2TAM4U7THJIE/"
+        "take": "L'accusé a exercé dans diverses églises parisiennes avant cette affaire qui concerne quatre victimes.",
+        "url": "https://www.liberation.fr/societe/police-justice/un-pretre-parisien-mis-en-examen-pour-viols-sur-mineur-notamment-pendant-les-jmj-20260817_R53ZPWRHYRF63GO7MRQPS7VTWQ/"
       }
     ],
     "id": 4,
@@ -145,30 +180,31 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Économie",
+      "Culture"
     ],
-    "title": "Le gouvernement cherche une nouvelle approche après le veto du Conseil constitutionnel",
-    "full": "Le Conseil constitutionnel a censuré vendredi la loi interdisant les réseaux sociaux aux moins de 15 ans, votée en juillet. Emmanuel Macron a confié au Premier ministre la tâche de rédiger une nouvelle version « juridiquement robuste » de cette mesure avant le printemps 2027. Gabriel Attal, ancien Premier ministre, propose quant à lui de recourir à un référendum pour contourner les obstacles constitutionnels et sortir 1,5 million d'enfants de l'emprise des algorithmes.",
+    "title": "Olivier Nora lance sa propre maison d'édition après son départ de Grasset",
+    "full": "Olivier Nora, évincé en juin de la présidence de Grasset (groupe Hachette), a annoncé la création d'Olivier Nora Editions. La nouvelle maison d'édition, dans laquelle le groupe Editis détient une participation minoritaire, publiera ses premiers titres en octobre 2026 et vise une production de 30 à 50 ouvrages par an. L'éditeur affirme vouloir retrouver de la liberté éditoriale après son limogeage par le milliardaire Vincent Bolloré.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "L'exécutif mise sur une reformulation légale solide de l'interdiction, confiée au Premier ministre.",
-        "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/quelles-sont-les-pistes-du-gouvernement-pour-mettre-en-place-une-interdiction-des-reseaux-sociaux-pour-les-moins-de-15-ans-apres-la-decision-defavorable-du-conseil-constitutionnel_8148581.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Libération",
+        "take": "Souligne l'ambition de la nouvelle maison avec un programme éditorial de croisière entre trente et cinquante titres annuels.",
+        "url": "https://www.liberation.fr/culture/livres/apres-son-limogeage-par-grasset-olivier-nora-lance-sa-maison-dedition-qui-publiera-ses-premiers-livres-en-octobre-20260817_3TAUW75LFVHZ7JATHZDFHWOZDM/"
       },
       {
-        "outlet": "Libération",
-        "take": "Gabriel Attal préconise un référendum comme solution plus rapide et efficace pour imposer l'interdiction.",
-        "url": "https://www.liberation.fr/politique/gabriel-attal-appelle-a-un-referendum-sur-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-20260816_7ROBUUANWNC7BKUPZILRBWR6VY/"
+        "outlet": "Le Monde",
+        "take": "Précise que le lancement commercial est prévu pour janvier 2027 et qu'Editis prend une participation minoritaire.",
+        "url": "https://www.lemonde.fr/economie/article/2026/08/17/quatre-mois-apres-son-eviction-de-la-presidence-de-grasset-olivier-nora-cree-sa-propre-maison-d-edition_6748180_3234.html"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Insiste sur le caractère indépendant et généraliste du projet, avec les deux premiers ouvrages programmés pour octobre.",
+        "url": "https://www.franceinfo.fr/culture/livres/ce-metier-est-un-acte-de-foi-dans-le-temps-long-olivier-nora-ex-pdg-de-grasset-lance-sa-propre-maison-d-edition-independante-et-generaliste_8150792.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
         "outlet": "Le Figaro Éco",
-        "take": "Les obstacles constitutionnels rendent l'aboutissement de ce projet avant la fin du quinquennat particulièrement difficile.",
-        "url": "https://www.lefigaro.fr/secteur/high-tech/interdiction-des-reseaux-sociaux-pour-les-mineurs-pourquoi-aboutir-avant-la-fin-du-quinquennat-s-annonce-complique-20260816"
-      },
-      {
-        "outlet": "Le Figaro Politique",
-        "take": "Cette censure renforce les critiques contre l'étendue des pouvoirs du Conseil constitutionnel.",
-        "url": "https://www.lefigaro.fr/politique/reseaux-sociaux-fin-de-vie-le-conseil-constitutionnel-imprime-sa-marque-et-concentre-les-critiques-20260816"
+        "take": "Met en avant le discours de Nora sur la liberté éditoriale et le soutien initial d'Editis pour la mise en route.",
+        "url": "https://www.lefigaro.fr/medias/publier-en-toute-liberte-des-textes-aimes-olivier-nora-tourne-la-page-grasset-en-creant-une-maison-d-edition-independante-a-son-nom-20260817"
       }
     ],
     "id": 5,
@@ -176,25 +212,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Société"
     ],
-    "title": "Les États-Unis réduisent les exercices militaires en Corée du Sud",
-    "full": "Donald Trump a demandé dimanche une réduction « considérable » des manœuvres conjointes entre les États-Unis et la Corée du Sud, programmées du 17 au 27 août, les jugeant coûteuses et porteuses d'un signal « hostile » envers Pyongyang. Le président américain a justifié cette demande par ses bonnes relations avec le leader nord-coréen. Malgré cette demande, Séoul a confirmé que les exercices ont débuté lundi comme initialement prévu. Ces manœuvres visent à préparer les deux alliés à un conflit moderne, tandis que la Corée du Nord renforce sa coopération militaire avec la Russie.",
+    "title": "Haute-Loire : condamnation pour injures racistes et tirs près d'enfants",
+    "full": "Un sexagénaire habitant Espaly-Saint-Marcel a été condamné lundi par le tribunal correctionnel du Puy-en-Velay à quinze mois de prison avec sursis probatoire. Il était poursuivi pour avoir tenu des propos racistes envers un groupe d'enfants et avoir tiré à la carabine à proximité d'eux. La sentence comprend une obligation de soins et une interdiction de port ou de détention d'arme pendant dix ans. L'affaire a soulevé des questions sur la police locale, accusée d'avoir omis de relever les injures racistes lors du dépôt de plainte initial.",
     "angles": [
       {
-        "outlet": "Le Monde",
-        "take": "Les exercices conjoints se déroulent selon le calendrier malgré la demande de réduction américaine, dans un contexte d'évolution de la nature des conflits modernes.",
-        "url": "https://www.lemonde.fr/international/article/2026/08/16/en-coree-du-sud-des-man-uvres-americano-sud-coreennes-pour-faire-face-a-l-evolution-de-la-nature-de-la-guerre_6747541_3210.html"
+        "outlet": "Libération",
+        "take": "Souligne la dimension politique de l'affaire, la police étant accusée d'avoir occulté les injures racistes au moment du signalement.",
+        "url": "https://www.liberation.fr/societe/police-justice/haute-loire-un-homme-juge-pour-injures-racistes-et-tirs-a-proximite-denfants-20260817_7SUW4Z662BDU3FJ3G653GACMPI/"
       },
       {
-        "outlet": "France 24",
-        "take": "Trump qualifie les manœuvres de coûteuses et d'inappropriées, tandis que Séoul maintient le programme d'entraînement prévu.",
-        "url": "https://www.france24.com/fr/am%C3%A9riques/20260816-donald-trump-va-reduire-considerablement-exercices-militaires-avec-coree-du-sud-etats-unis-coree-nord-kim-jong-un"
+        "outlet": "France Info",
+        "take": "Détaille les conditions de la condamnation, en particulier l'obligation de soins et l'interdiction décennale d'armes.",
+        "url": "https://www.franceinfo.fr/faits-divers/justice-proces/l-homme-juge-pour-des-insultes-racistes-et-un-tir-a-la-carabine-pres-d-enfants-en-haute-loire-a-ete-condamne-a-15-mois-de-prison-avec-sursis-probatoire_8151356.html#xtor=RSS-3-[lestitres]"
       },
       {
         "outlet": "20 Minutes",
-        "take": "La réduction des exercices représente un geste de rapprochement de Trump envers la Corée du Nord.",
-        "url": "https://www.20minutes.fr/monde/etats-unis/4239394-20260817-trump-encense-relation-kim-jong-fait-geste-envers-coree-nord?at_medium=display&at_campaign=149"
+        "take": "Rapporte le scepticisme du procureur face aux tentatives de l'accusé de minimiser ses actes.",
+        "url": "https://www.20minutes.fr/societe/4239648-20260817-homme-condamne-quinze-mois-prison-avoir-tenu-propos-racistes-tire-pres-groupe-enfants?at_medium=display&at_campaign=149"
+      },
+      {
+        "outlet": "Le Monde",
+        "take": "Précise la nature exacte des insultes proférées et la localisation du domicile du condamné dans un quartier défavorisé.",
+        "url": "https://www.lemonde.fr/societe/article/2026/08/17/injures-racistes-envers-des-enfants-en-haute-loire-un-sexagenaire-condamne-a-15-mois-de-prison-avec-sursis-probatoire_6748412_3224.html"
       }
     ],
     "id": 6,
@@ -202,25 +243,30 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Culture"
+      "Société"
     ],
-    "title": "Quatre œuvres d'Antonello de Messine volées en Sicile",
-    "full": "Quatre tableaux du peintre de la Renaissance Antonello de Messine ont été dérobés samedi soir dans un musée de Messine, sa ville natale en Sicile. Le vol porte notamment sur trois panneaux du polyptyque de saint Grégoire, datant du XVe siècle, commis durant les célébrations en l'honneur de la Vierge Marie. Ces vols d'œuvres d'art demeurent fréquents en Italie : deux jours avant cette annonce, la police italienne avait retrouvé trois tableaux de Renoir, Cézanne et Matisse, d'une valeur totale de plus de 9 millions d'euros, dérobés en mars dans un musée près de Parme.",
+    "title": "Collision de bateaux en baie de Cannes, un disparu",
+    "full": "Deux bateaux de plaisance se sont violemment percutés dimanche soir en baie de Cannes, au large de Mandelieu-la-Napoule. L'impact a projeté à l'eau les passagers du semi-rigide : dix personnes ont été blessées, dont quatre en urgence absolue, et un jeune homme est porté disparu. Selon Libération, la victime disparue fêtait un anniversaire à bord. Les opérations de recherche se poursuivent.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Le vol s'est produit dans la ville natale du peintre et a ciblé le polyptyque de saint Grégoire du XVe siècle, durant des célébrations religieuses.",
-        "url": "https://www.liberation.fr/culture/arts/quatre-oeuvres-dantonello-de-messine-volees-en-sicile-dans-la-ville-natale-du-peintre-de-la-renaissance-20260816_BBULLCWPLFCUTLL2MUDRQCMHSQ/"
+        "outlet": "France Info",
+        "take": "Met l'accent sur la soudaineté du drame et l'état critique de plusieurs blessés.",
+        "url": "https://www.franceinfo.fr/faits-divers/collision-en-mer-un-disparu-et-dix-blesses_8151428.html#xtor=RSS-3-%5Bgeneral%5D"
       },
       {
-        "outlet": "France Info",
-        "take": "Ce vol s'inscrit dans un contexte plus large : les vols d'œuvres d'art sont courants en Italie.",
-        "url": "https://www.franceinfo.fr/culture/arts-expos/quatre-uvres-d-antonello-de-messine-volees-dans-un-musee-sicilien_8149856.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "20 Minutes",
+        "take": "Précise qu'au total 21 personnes étaient impliquées dans cet accident.",
+        "url": "https://www.20minutes.fr/faits_divers/4239611-20260817-cannes-jeune-disparu-fete-anniversaire-sait-collision-entre-deux-bateaux?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Le Monde",
-        "take": "La police italienne a récemment retrouvé trois autres tableaux de maîtres volés en mars, illustrant une activité criminelle persistante.",
-        "url": "https://www.lemonde.fr/international/article/2026/08/16/quatre-uvres-d-antonello-de-messine-volees-dans-un-musee-en-sicile_6747473_3210.html"
+        "take": "Détaille la répartition des blessés entre urgence relative et absolue, avec reprise des recherches.",
+        "url": "https://www.lemonde.fr/societe/article/2026/08/17/collision-de-bateaux-a-cannes-un-disparu-et-dix-blesses-a-la-suite-d-une-collision-entre-deux-bateaux-de-plaisance-les-recherches-reprennent_6747981_3224.html"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Contextualise l'accident en précisant que la victime disparue fêtait un anniversaire à bord.",
+        "url": "https://www.liberation.fr/societe/dans-la-baie-de-cannes-un-jeune-homme-porte-disparu-apres-la-collision-de-deux-bateaux-de-plaisance-20260817_M56YHQ2PGZDVTBNQQGNACNCSYY/"
       }
     ],
     "id": 7,
@@ -228,25 +274,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Monde"
+      "Culture"
     ],
-    "title": "Un car polonais se renverse en Hongrie, 12 morts",
-    "full": "Un autocar en provenance de Serbie s'est renversé dans la nuit sur l'autoroute M3, à environ 140 kilomètres à l'est de Budapest, faisant 12 morts et au moins 10 blessés graves. Le véhicule transportait 57 passagers et deux conducteurs et se dirigeait vers Mezokeresztes quand l'accident s'est produit vers 1 heure du matin. Il s'agit du plus grave accident de bus survenu en Hongrie depuis 2003. La Pologne a dépêché un avion sanitaire à Budapest pour rapatrier les blessés.",
+    "title": "L'actrice Hayden Panettiere, star de « Heroes », décédée à 36 ans",
+    "full": "L'actrice américaine Hayden Panettiere est décédée à l'âge de 36 ans, selon l'annonce de son père Skip Panettiere. Les circonstances de sa mort n'ont pas été communiquées. Révélée dès l'enfance, elle s'était fait connaître internationalement grâce à son rôle dans la série « Heroes », avant d'accéder à la notoriété par sa participation à « Nashville ».",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Insiste sur la mobilisation polonaise et le caractère catastrophique de l'accident comparé au plus grave sinistre routier hongrois des deux dernières décennies.",
-        "url": "https://www.liberation.fr/international/europe/un-bus-sest-renverse-en-hongrie-12-morts-et-au-moins-10-blesses-graves-20260816_KUJ7HFXN6FAQPO7X3J4HL7XEXU/"
-      },
-      {
-        "outlet": "France Info",
-        "take": "Précise les circonstances factuelles de l'accident : heure, localisation exacte et trajet du car.",
-        "url": "https://www.franceinfo.fr/faits-divers/accident/un-bus-se-renverse-en-hongrie-faisant-12-morts-et-au-moins-10-blesses-graves_8149577.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "20 Minutes",
+        "take": "Rappelle ses principaux rôles dans des séries à succès et son autobiographie.",
+        "url": "https://www.20minutes.fr/diaporama/diaporama-4239532-images-series-heroes-nashville-autobiographie-choc-retour-carriere-hayden-panettiere?at_medium=display&at_campaign=149"
       },
       {
         "outlet": "Le Monde",
-        "take": "Détaille la composition du véhicule et indique l'autorité responsable de l'enquête.",
-        "url": "https://www.lemonde.fr/international/video/2026/08/16/hongrie-les-images-de-l-accident-de-car-qui-a-fait-au-moins-12-morts-et-10-blesses_6747648_3210.html"
+        "take": "Souligne son parcours précoce et cite l'hommage de son père qui la décrit comme rayonnante.",
+        "url": "https://www.lemonde.fr/disparitions/article/2026/08/17/hayden-panettiere-revelee-par-les-series-heroes-et-nashville-est-morte-a-l-age-de-36-ans_6747975_3382.html"
+      },
+      {
+        "outlet": "Libération",
+        "take": "Évoque son rôle emblématique de cheerleader dans « Heroes » et ses apparitions dans « Scream ».",
+        "url": "https://www.liberation.fr/culture/series/mort-a-36-ans-de-hayden-panettiere-eternelle-cheerleader-de-la-serie-heroes-20260817_OGBUR5A4AZCDHJWNQIFJZAJDY4/"
       }
     ],
     "id": 8,
@@ -254,20 +300,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "Monde"
     ],
-    "title": "Incendie dans les Landes : premiers retours à domicile",
-    "full": "Un incendie qui a ravagé environ 1 700 hectares de pinèdes dans les Landes depuis jeudi a permis le retour progressif des évacués. Une cinquantaine de personnes sur les 650 évacuées au total sont autorisées à regagner leur domicile dès lundi soir, a indiqué le préfet. Le feu demeure moins intense mais n'est pas encore maîtrisé. Ailleurs dans le sud-est, six départements (Ardèche, Bouches-du-Rhône, Drôme, Gard, Var, Vaucluse) restent en vigilance orange pour canicule.",
+    "title": "Ukraine : frappes russes nocturnes, répression accrue en Russie",
+    "full": "Les autorités ukrainiennes ont signalé de nouvelles attaques russes nocturnes, notamment à Zaporijia dans le sud du pays, où au moins deux personnes ont été tuées selon le chef de l'administration militaire locale. En Russie, le pouvoir intensifie la répression : le seul parti antiguerre a subi une vive répression, et Andreï Klepach, économiste en chef d'une grande banque russe, a été renvoyé après avoir critiqué le conflit. Ces mouvements reflètent une durcissement de la position de Moscou face aux voix dissidentes internes.",
     "angles": [
       {
         "outlet": "Le Monde",
-        "take": "Souligne la persistance de la canicule en vigilance orange dans le sud-est et l'ampleur du sinistre dans les Landes (1 700 hectares).",
-        "url": "https://www.lemonde.fr/climat/live/2026/08/16/en-direct-incendies-et-canicule-la-canicule-se-maintient-dans-le-sud-est-dans-les-landes-une-partie-des-personnes-evacuees-sont-autorisees-a-rentrer-chez-elles_6744636_1652612.html"
+        "take": "Met l'accent sur les bombardements russes continus et leurs conséquences immédiates pour la population civile ukrainienne.",
+        "url": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-les-autorites-ukrainiennes-font-etat-d-attaques-russes-nocturnes-notamment-dans-le-sud-du-pays_6746952_3210.html"
       },
       {
-        "outlet": "Libération",
-        "take": "Met l'accent sur les premiers retours à domicile et précise que l'incendie, déclaré jeudi à Luglon, reste non maîtrisé.",
-        "url": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-la-situation-evolue-plutot-favorablement-mais-pas-encore-de-retour-a-domicile-20260816_RXAJR6YU4NGMRAXNPXSLV4I2PE/"
+        "outlet": "20 Minutes",
+        "take": "Élargit le contexte en soulignant la réaction allemande avec une augmentation des effectifs militaires face à la menace potentielle.",
+        "url": "https://www.20minutes.fr/monde/ukraine/4239642-20260817-guerre-ukraine-parti-antiguerre-vivement-reprime-russie-armee-allemande-prepare-conflit?at_medium=display&at_campaign=149"
+      },
+      {
+        "outlet": "Le Figaro Éco",
+        "take": "Pointe la répression politique du régime russe envers les figures publiques qui questionnent la ligne officielle sur la guerre.",
+        "url": "https://www.lefigaro.fr/conjoncture/guerre-en-ukraine-l-un-des-plus-eminents-economistes-russes-ecarte-par-le-pouvoir-pour-avoir-ose-critiquer-le-kremlin-20260817"
       }
     ],
     "id": 9,
@@ -275,20 +326,26 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Sport"
+      "Santé",
+      "Société"
     ],
-    "title": "Le biathlète Jacquelin dispute sa première course cycliste",
-    "full": "Emilien Jacquelin, médaillé d'or olympique en biathlon, a participé dimanche à la Polynormande, sa première épreuve cycliste en tant que professionnel. Le sportif de 31 ans a terminé 88e de cette course normande, à près de 12 minutes du vainqueur Hugo Page, distancé seulement en fin d'épreuve.",
+    "title": "À Strasbourg, des drones illégaux perturbent les vols d'hélicoptères hospitaliers",
+    "full": "Les vols de nuit des hélicoptères de la sécurité civile et du SAMU vers l'hôpital de Hautepierre à Strasbourg sont suspendus depuis trois semaines en raison de survols répétés de drones illégaux. Ces appareils effectueraient des livraisons non autorisées à la prison voisine, compromettant la sécurité des opérations aériennes nocturnes. Selon la préfecture du Bas-Rhin, la prise en charge des urgences hospitalières n'est pas affectée malgré cette suspension.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Jacquelin s'est montré un coéquipier impliqué malgré une fin de course difficile.",
-        "url": "https://www.20minutes.fr/sport/cyclisme/4239367-20260816-cyclisme-coequipier-modele-fin-difficile-emilien-jacquelin-debuts-professionnels-encourageants?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Met en avant le caractère illégal des drones utilisés pour ravitailler la prison et souligne la durée de cette perturbation depuis trois semaines.",
+        "url": "https://www.lemonde.fr/societe/article/2026/08/17/a-strasbourg-des-drones-illegaux-empechent-les-helicopteres-transportant-blesses-et-malades-d-atterrir-la-nuit-a-l-hopital-de-hautepierre_6748413_3224.html"
       },
       {
         "outlet": "Libération",
-        "take": "L'athlète olympique découvre la compétition cycliste professionnelle avec des débuts jugés encourageants malgré le classement.",
-        "url": "https://www.liberation.fr/sports/cyclisme/cyclisme-le-biathlete-emilien-jacquelin-entre-trac-et-excitation-pour-ses-debuts-pros-en-normandie-ce-dimanche-20260816_LGOI6P7UBZGKXHQ37JRHNKLH6U/"
+        "take": "Insiste sur l'absence de conséquence pour l'accueil des urgences malgré la suspension des vols de nuit.",
+        "url": "https://www.liberation.fr/societe/sante/a-strasbourg-le-transport-des-patients-en-helicoptere-vers-lhopital-stoppe-par-les-drones-survolant-la-prison-20260817_AWZZMWCBLJGZND2SLG26MZZAWM/"
+      },
+      {
+        "outlet": "France Info",
+        "take": "Rapporte que la préfecture qualifie ces survols de répétés et souligne les risques pour la sécurité des opérations aériennes.",
+        "url": "https://www.franceinfo.fr/faits-divers/strasbourg-des-survols-de-drones-empechent-les-helicopteres-d-atterrir-de-nuit-sur-un-hopital_8150726.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 10,
@@ -296,20 +353,25 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Environnement"
+      "France"
     ],
-    "title": "COP 17 contre la désertification s'ouvre en Mongolie",
-    "full": "La conférence mondiale de lutte contre la désertification débute lundi 17 août en Mongolie. Face à l'accélération des phénomènes de sécheresse et à la dégradation des sols affectant 40 % de la planète, ce sommet vise à mettre en œuvre les objectifs de neutralité en matière de dégradation des terres fixés pour 2030. L'enjeu est crucial pour la sécurité alimentaire mondiale, la France étant elle-même concernée par ces phénomènes.",
+    "title": "Le Conseil constitutionnel critiqué pour son veto sur les réseaux sociaux",
+    "full": "Le Conseil constitutionnel a censuré vendredi l'article de loi interdisant l'accès aux réseaux sociaux aux moins de 15 ans, le jugeant non conforme à la Constitution. Cette décision provoque des critiques transversales de la droite et de la macronie, qui remettent en question la légitimité de l'institution face à la volonté populaire. Gabriel Attal, figure de la majorité, propose de contourner cette décision par un référendum. Au-delà de ce texte, les contestations portent plus largement sur l'étendue des pouvoirs des « Sages ».",
     "angles": [
       {
         "outlet": "L'Humanité",
-        "take": "Souligne le constat alarmant de la dégradation progressive des sols et interroge l'efficacité réelle du plan lancé en 2017.",
-        "url": "https://www.humanite.fr/monde/agriculture-intensive/cop17-en-mongolie-tout-ce-quil-faut-savoir-sur-le-sommet-mondial-contre-la-desertification"
+        "take": "La droite et l'extrême droite dénoncent le Conseil constitutionnel comme illegitime, opposant son autorité à celle du peuple.",
+        "url": "https://www.humanite.fr/politique/alliance-rn-les-republicains/la-droite-attaque-les-sages-du-conseil-constitutionnel-sur-le-dos-de-la-democratie"
       },
       {
-        "outlet": "Libération",
-        "take": "Met l'accent sur le caractère primordial du sommet pour restaurer les sols comme ressource stratégique de résilience future.",
-        "url": "https://www.liberation.fr/environnement/cop17-sur-la-desertification-un-sommet-primordial-pour-restaurer-les-sols-notre-capital-de-resilience-pour-le-futur-20260817_4CTX2RY6SJB4TEVZMKIPEBKU5M/"
+        "outlet": "Mediapart",
+        "take": "Outre les attaques de la droite, la macronie envisage des contournements institutionnels pour imposer sa volonté législative.",
+        "url": "https://www.mediapart.fr/journal/politique/170826/le-conseil-constitutionnel-vise-par-un-nouvel-assaut-de-la-droite-apres-avoir-censure-l-article-de-loi"
+      },
+      {
+        "outlet": "Le Figaro",
+        "take": "La controverse sur le Conseil constitutionnel s'étend au-delà des réseaux sociaux, incluant son rôle dans le projet de loi sur l'aide à mourir.",
+        "url": "https://www.lefigaro.fr/politique/reseaux-sociaux-fin-de-vie-le-conseil-constitutionnel-imprime-sa-marque-et-concentre-les-critiques-20260816"
       }
     ],
     "id": 11,
@@ -317,21 +379,26 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Santé",
-      "Environnement"
+      "France",
+      "Société"
     ],
-    "title": "La canicule se retire progressivement de France",
-    "full": "À partir de lundi 6 heures, seuls six départements du Sud-Est resteront en vigilance orange canicule, tandis que le reste de l'Hexagone basculera en vigilance verte ou jaune. Cette amélioration marque la fin progressive de l'épisode de chaleur intense qui a affecté le pays. Parallèlement, le risque orageux diminue également, aucun département n'étant placé en alerte orange orages.",
+    "title": "Le coût de la vie étudiante a grimpé de 35 % depuis 2017",
+    "full": "Le reste à charge mensuel moyen des étudiants s'élève à 1 300 euros, selon l'enquête annuelle de l'Unef. Sur un an, la vie étudiante a renchéri de 1,66 %, notamment en raison de la hausse des loyers, transports et produits alimentaires. Depuis l'élection d'Emmanuel Macron en 2017, l'augmentation cumulée dépasse les 35 %. Le syndicat pointe des disparités : les étudiants étrangers extracommunautaires déboursent deux fois plus, tandis que ceux des outre-mer paient entre 314 et 408 euros supplémentaires par an par rapport à l'Hexagone.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Identifie les six derniers départements du Sud-Est concernés par la vigilance orange et souligne le passage à un niveau d'alerte moins critique pour l'ensemble du territoire.",
-        "url": "https://www.20minutes.fr/societe/4239365-20260816-canicule-six-derniers-departements-vigilance-orange-lundi?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "L'Unef souligne que les étudiants étrangers et ultramarins sont particulièrement frappés par les politiques austéritaires du gouvernement.",
+        "url": "https://www.lemonde.fr/campus/article/2026/08/17/le-cout-de-la-vie-etudiante-a-augmente-de-1-66-sur-un-an-et-de-plus-de-35-depuis-l-election-d-emmanuel-macron-en-2017-alerte-l-unef_6747977_4401467.html"
+      },
+      {
+        "outlet": "L'Humanité",
+        "take": "Le syndicat met l'accent sur l'envolée du coût mensuel moyen supporté par les étudiants et sur la longue durée de cette hausse.",
+        "url": "https://www.humanite.fr/societe/economie/le-cout-de-la-vie-etudiante-a-augmente-de-plus-de-35-sous-le-macronisme"
       },
       {
         "outlet": "France Info",
-        "take": "Précise que l'amélioration s'étend aussi au risque orageux, aucun département ne demeurant en orange sur ce type de phénomène.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/seuls-six-departements-du-sud-est-maintenus-en-vigilance-orange-canicule-lundi-a-partir-de-6-heures_8150288.html#xtor=RSS-3-[lestitres]"
+        "take": "L'étude établit un lien entre la récente augmentation de 1,66 % et la tendance plus large de 35 % depuis 2017.",
+        "url": "https://www.franceinfo.fr/societe/education/loyers-transports-courses-le-cout-de-la-vie-etudiante-augmente-encore-alerte-l-unef_8150909.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 12,
@@ -339,20 +406,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Monde"
     ],
-    "title": "Space Mountain ferme en 2027 pour une métamorphose à Disneyland Paris",
-    "full": "L'attraction Space Mountain de Disneyland Paris fermera plusieurs mois à partir de 2027 pour une transformation complète. Disney a confirmé lors de la D23 que le manège sera réinventé pour retrouver sa version d'origine. Cette fermeture s'inscrit dans un vaste projet de rénovation du parc, qui accueillera aussi une nouvelle parade en 2028 et une zone consacrée au Roi Lion.",
+    "title": "Trump suspend un projet de barrières à la frontière texane",
+    "full": "L'administration Trump a suspendu lundi un projet de sécurisation de la frontière entre les États-Unis et le Mexique dans le parc national Big Bend, au Texas. Le dispositif prévoyait l'installation de barrières, d'éclairage et de technologies de détection dans cet espace protégé. Le chef de la police aux frontières américaine justifie cette suspension par le besoin de « procéder à une évaluation personnelle ». Le projet était vivement critiqué par les habitants et élus locaux de la région.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "Insiste sur la confirmation officielle de Disney et la fermeture de plusieurs mois de l'une des attractions les plus emblématiques du parc.",
-        "url": "https://www.20minutes.fr/tempo/4239372-20260816-disneyland-paris-pourtant-iconique-pourquoi-attraction-space-mountain-va-fermer-2027?at_medium=display&at_campaign=149"
+        "outlet": "Le Monde",
+        "take": "Souligne l'ampleur des critiques locales contre ce plan au sein d'une zone naturelle protégée.",
+        "url": "https://www.lemonde.fr/international/article/2026/08/18/au-texas-donald-trump-suspend-un-projet-de-securisation-de-la-frontiere-avec-le-mexique_6748517_3210.html"
       },
       {
-        "outlet": "Le Figaro Éco",
-        "take": "Souligne l'ampleur des transformations prévues au parc, au-delà de Space Mountain, avec de nouvelles attractions et zones à venir.",
-        "url": "https://www.lefigaro.fr/societes/disneyland-paris-va-transformer-son-attraction-iconique-space-mountain-qui-va-fermer-en-2027-20260816"
+        "outlet": "France 24",
+        "take": "Rapporte l'annonce officielle du chef de la police aux frontières et l'invocation d'une réévaluation.",
+        "url": "https://www.france24.com/fr/am%C3%A9riques/20260817-administration-trump-etats-unis-met-coup-frein-projet-barrieres-anti-immigration-texas-big-bend-critiques"
       }
     ],
     "id": 13,
@@ -360,21 +427,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Économie",
-      "Tech & Sciences"
+      "Société"
     ],
-    "title": "Piratage de l'administration fiscale : 678 000 personnes affectées",
-    "full": "L'administration fiscale a confirmé vendredi une intrusion dans ses systèmes informatiques, mettant en danger les données de près de 678 000 particuliers et professionnels. Des sénateurs du groupe socialiste demandent la création d'une commission d'enquête parlementaire pour déterminer si ces incidents résultent de facteurs externes ou révèlent des failles de sécurité structurelles au sein de l'institution.",
+    "title": "Recherches en cours pour un voilier à la dérive en Vendée",
+    "full": "Des opérations de secours sont menées au large de l'île d'Yeu pour localiser les occupants d'un voilier en détresse. L'alerte a été donnée lundi par un passager de ferry qui a aperçu l'embarcation en mauvaise posture. Le nombre exact de personnes à bord reste inconnu.",
     "angles": [
       {
-        "outlet": "Le Figaro Éco",
-        "take": "Met l'accent sur l'ampleur du piratage et la demande des sénateurs PS d'une commission d'enquête.",
-        "url": "https://www.lefigaro.fr/economie/piratage-du-fisc-les-senateurs-ps-demandent-une-commission-d-enquete-20260816"
+        "outlet": "20 Minutes",
+        "take": "Met l'accent sur l'inquiétude suscitée par le sort des passagers du navire à la dérive.",
+        "url": "https://www.20minutes.fr/faits_divers/4239667-20260818-sort-passagers-voilier-derivant-large-ile-yeu-inquiete?at_medium=display&at_campaign=149"
       },
       {
-        "outlet": "Le Monde",
-        "take": "Souligne que les parlementaires cherchent à établir si la répétition des incidents trahit des vulnérabilités systémiques.",
-        "url": "https://www.lemonde.fr/pixels/article/2026/08/16/piratage-du-fisc-les-senateurs-socialistes-demandent-une-commission-d-enquete-parlementaire_6747471_4408996.html"
+        "outlet": "France Info",
+        "take": "Souligne que l'alerte provient d'un tiers et précise l'absence de certitude sur le nombre d'occupants.",
+        "url": "https://www.franceinfo.fr/faits-divers/un-voilier-a-la-derive-au-large-de-l-ile-d-yeu-des-operations-de-recherches-en-cours_8151470.html#xtor=RSS-3-[lestitres]"
       }
     ],
     "id": 14,
@@ -382,20 +448,21 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "France"
+      "Société",
+      "Économie"
     ],
-    "title": "Marine Tondelier appelle à l'unité de la gauche pour 2027",
-    "full": "La secrétaire nationale des Écologistes Marine Tondelier se déclare ouverte à des discussions avec l'ensemble des formations de gauche en vue de la présidentielle de 2027. Dans une interview et un courrier adressé aux chefs de groupes parlementaires, elle plaide pour un « sursaut collectif » face à l'extrême droite et propose d'organiser des rencontres bilatérales avec ses potentiels partenaires. Cette initiative intervient quelques jours avant la rentrée du parti écologiste.",
+    "title": "Allocation de rentrée scolaire versée à 3 millions de familles",
+    "full": "L'allocation de rentrée scolaire a été versée mardi 18 août à près de 3 millions de familles éligibles. Cette aide, soumise à conditions de ressources, s'adresse aux ménages modestes ayant des enfants scolarisés, étudiants ou apprentis entre 6 et 18 ans. Bien que les prix des fournitures scolaires affichent actuellement une baisse, les experts anticipent une hausse des tarifs à partir de septembre, en raison des tensions géopolitiques au Moyen-Orient susceptibles de relancer l'inflation.",
     "angles": [
       {
-        "outlet": "Libération",
-        "take": "Tondelier relance le débat sur les alliances électorales à gauche en affichant une disponibilité à rediscuter avec l'ensemble des acteurs de la gauche.",
-        "url": "https://www.liberation.fr/politique/marine-tondelier-se-dit-prete-a-rediscuter-avec-tout-le-monde-a-gauche-20260816_OPGWFNAASRFKZFVPHBXFMJZTO4/"
+        "outlet": "Le Monde",
+        "take": "Les ventes de fournitures scolaires sont en recul malgré des prix compétitifs, mais une inflation est attendue après septembre.",
+        "url": "https://www.lemonde.fr/economie/article/2026/08/18/rentree-scolaire-pourquoi-les-prix-des-fournitures-sont-en-baisse-mais-devraient-augmenter-apres-septembre_6748682_3234.html"
       },
       {
-        "outlet": "L'Humanité",
-        "take": "La dirigeante écologiste appelle à un sursaut collectif et propose des rencontres bilatérales pour éviter une nouvelle fragmentation de la gauche en 2027.",
-        "url": "https://www.humanite.fr/politique/gauche/presidentielle-2027-marine-tondelier-veut-remettre-lunion-de-la-gauche-sur-le-metier"
+        "outlet": "Le Figaro Éco",
+        "take": "L'allocation vise spécifiquement à soutenir les familles modestes avec enfants en âge de scolarité.",
+        "url": "https://www.lefigaro.fr/conso/l-allocation-de-rentree-scolaire-versee-a-pres-de-3-millions-de-familles-ce-mardi-18-aout-20260817"
       }
     ],
     "id": 15,
@@ -403,15 +470,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Environnement"
     ],
-    "title": "Des ouvriers découvrent neuf millions d'euros d'or en Belgique",
-    "full": "Sur un chantier en Belgique, des ouvriers ont mis au jour plusieurs kilos d'or dissimulés dans un mur, pour une valeur estimée à neuf millions d'euros. Cette découverte inattendue soulève désormais la question de l'identité du propriétaire de ce trésor.",
+    "title": "La COP17 sur la désertification s'ouvre en Mongolie",
+    "full": "La 17e conférence des Nations unies sur la lutte contre la désertification a débuté le 17 août à Oulan-Bator, en Mongolie, réunissant 197 pays et organisations. L'objectif affiché est de freiner la dégradation des terres aggravée par les sécheresses et les activités humaines, un phénomène qui s'accélère dans plusieurs régions du monde, y compris en France. Moins médiatisée que la COP sur le climat, cette conférence aborde des enjeux de sécurité alimentaire liés à la désertification.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Des ouvriers belges ont découvert une fortune cachée dans une paroi, composée de lingots et de pièces d'or, sans que le propriétaire soit identifié.",
-        "url": "https://www.franceinfo.fr/faits-divers/lingots-piece-d-or-neuf-millions-d-euros-caches-dans-un-mur_8150249.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Reporterre",
+        "take": "Le sommet intervient sur fond de canicules répétées et d'aggravation progressive de la dégradation des terres dans de nombreux pays.",
+        "url": "https://reporterre.net/Tout-comprendre-aux-enjeux-de-la-COP-17-desertification"
+      },
+      {
+        "outlet": "Courrier International",
+        "take": "Cette « petite sœur » de la COP climat reste peu visible médiatiquement malgré ses enjeux cruciaux pour la sécurité alimentaire mondiale.",
+        "url": "https://www.courrierinternational.com/explainer/cop17-sur-la-desertification-un-sommet-meconnu-aux-enjeux-pourtant-cruciaux_260279"
       }
     ],
     "id": 16,
@@ -419,15 +491,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Environnement"
     ],
-    "title": "Un clocher frappé par la foudre s'enflamme en Aveyron",
-    "full": "Le clocher de l'église de Saint-Salvadou, en Aveyron, a pris feu samedi 15 août après avoir été frappé par la foudre. L'incendie s'est déclaré en soirée, alors que l'ouest du département subissait des orages particulièrement violents.",
+    "title": "Incendies en Europe : la pluie soulage la Belgique",
+    "full": "Plusieurs pays européens, dont la Belgique, la France, la Grèce, le Portugal et l'Espagne, font face à des incendies massifs après des semaines de chaleur et de sécheresse. En Belgique, l'un des plus importants de son histoire a détruit 3 000 hectares de forêt avant que la pluie n'apporte un soulagement lundi. Bien que certains foyers soient désormais maîtrisés, le bilan humain et matériel continue de s'alourdir sur l'ensemble du continent.",
     "angles": [
       {
-        "outlet": "France Info",
-        "take": "Souligne les conditions météorologiques extrêmes ayant favorisé l'incident dans la région.",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/frappe-par-la-foudre-le-clocher-d-une-eglise-en-flammes-dans-l-aveyron_8150153.html#xtor=RSS-3-%5Bgeneral%5D"
+        "outlet": "Sciences et Avenir",
+        "take": "Met l'accent sur l'ampleur géographique des incendies frappant l'Europe et les conséquences durables malgré les premiers progrès.",
+        "url": "https://www.sciencesetavenir.fr/nature-environnement/climat/incendies-en-europe-les-derniers-developpements_194265?xtor=RSS-15"
+      },
+      {
+        "outlet": "France 24",
+        "take": "Souligne l'arrivée de précipitations en Belgique comme facteur de ralentissement face à l'un des plus graves sinistres de l'histoire du pays.",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260817-incendie-en-belgique-3-000-hectares-br%C3%BBl%C3%A9s"
       }
     ],
     "id": 17,
@@ -435,15 +512,20 @@ const ARTICLES = [
   },
   {
     "themes": [
-      "Insolite"
+      "Sport"
     ],
-    "title": "Un dessert viral à base de croissant divise les réseaux sociaux",
-    "full": "Un croissant glacé est devenu tendance sur TikTok comme solution rafraîchissante pour l'été, mais le dessert suscite des réactions très mitigées. Les internautes dénoncent notamment sa richesse calorique et expriment leur dégoût face à cette préparation, qui ne fait donc pas l'unanimité malgré sa viralité sur les réseaux.",
+    "title": "Félix Lebrun remporte son premier Grand Smash en tennis de table",
+    "full": "Le Français Félix Lebrun a remporté en simple le tournoi Europe Smash de Malmö, devenant le premier de sa nationalité à inscrire son nom au palmarès d'un Grand Smash, l'équivalent d'un tournoi du Grand Chelem en tennis. Cette victoire, qui succède à un titre en double, propulse le joueur de 19 ans à la deuxième place du classement mondial.",
     "angles": [
       {
-        "outlet": "20 Minutes",
-        "take": "La tendance food du croissant glacé, initialement présentée comme une réponse aux fortes chaleurs, génère surtout des critiques sur son apport calorique et son aspect peu appétissant.",
-        "url": "https://www.20minutes.fr/tempo/food/4239182-20260816-bombe-calorique-degoutant-pourquoi-dessert-viral-base-croissant-fait-unanimite?at_medium=display&at_campaign=149"
+        "outlet": "France Info",
+        "take": "Lebrun souligne que cette victoire ne représente qu'une étape et qu'il nourrit des ambitions plus hautes encore.",
+        "url": "https://www.franceinfo.fr/sports/tennis-de-table/felix-lebrun/ce-n-est-qu-une-partie-du-chemin-vainqueur-du-grand-smash-le-francais-felix-lebrun-a-encore-des-ambitions_8150735.html#xtor=RSS-3-%5Bgeneral%5D"
+      },
+      {
+        "outlet": "Libération",
+        "take": "L'article insiste sur le statut historique du cadet des Lebrun, premier Français à conquérir un Grand Smash.",
+        "url": "https://www.liberation.fr/sports/ping-pong-felix-lebrun-devient-le-premier-francais-a-remporter-un-grand-smash-lequivalent-dun-tournoi-du-grand-chelem-en-tennis-20260817_4P4PUBV7SZGJRH7UQBRZIKPB5I/"
       }
     ],
     "id": 18,
@@ -453,16 +535,83 @@ const ARTICLES = [
     "themes": [
       "Insolite"
     ],
-    "title": "Le plus ancien recueil de blagues du monde revisité",
-    "full": "Le Philogelos, compilé autour du IIIe siècle en Grèce antique, rassemble près de 300 histoires drôles et constitue le plus vieux recueil d'humour connu de l'histoire. Ce document fascinant révèle les ressorts comiques qui amusaient nos ancêtres, des jeux de mots aux situations absurdes impliquant des personnages célèbres comme Socrate ou Aristote. L'humour antique demeure toutefois étrange aux yeux modernes, invitant à se demander si ces blagues millénaires gardent leur efficacité humoristique aujourd'hui.",
+    "title": "Un avion militaire se pose d'urgence sur une route en Provence",
+    "full": "Un avion militaire a effectué un atterrissage de fortune sur la Nationale 113, près de Salon-de-Provence, au milieu du trafic routier. L'appareil a pris feu après son arrivée au sol. Les deux pilotes à bord, un instructeur et son élève, ont pu s'extraire du cockpit indemnes.",
     "angles": [
       {
-        "outlet": "Slate",
-        "take": "Slate propose une exploration de ce document historique unique en questionnant l'intemporalité de l'humour antique et sa réception contemporaine.",
-        "url": "https://www.slate.fr/culture/philogelos-recueil-blagues-histoires-droles-socarte-aristote-grece-antique"
+        "outlet": "France Info",
+        "take": "L'accent est mis sur le caractère fortuit et dramatique de la scène, soulignant que les deux occupants ont échappé à une catastrophe.",
+        "url": "https://www.franceinfo.fr/faits-divers/crash-d-avion-une-catastrophe-evitee-de-justesse_8151404.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     ],
     "id": 19,
     "priority": 20
+  },
+  {
+    "themes": [
+      "Insolite",
+      "Environnement"
+    ],
+    "title": "Au Costa Rica, une maison entièrement bâtie en plastique recyclé",
+    "full": "Une mère costaricienne a fait construire sa maison à partir de 850 blocs de plastique recyclé, après neuf ans d'économies pour acquérir un terrain et offrir un logement à son fils. Cette construction originale a suscité l'intérêt local et international, illustrant une approche créative du réemploi de déchets pour la construction d'habitat.",
+    "angles": [
+      {
+        "outlet": "Slate",
+        "take": "Le projet conjugue démarche écologique et initiative personnelle, une mère ayant transformé des années d'épargne en habitation durable grâce à des matériaux de récupération.",
+        "url": "https://www.slate.fr/sciences/maison-plastique-construction-environnement-costa-rica-ecologie-recyclage-habitat"
+      }
+    ],
+    "id": 20,
+    "priority": 21
+  },
+  {
+    "themes": [
+      "Insolite",
+      "Société"
+    ],
+    "title": "Vol massif de câbles de cuivre prive 2 000 Perpignanais d'internet",
+    "full": "Un vol « d'ampleur exceptionnelle » de câbles de cuivre a provoqué une coupure d'internet d'une semaine pour près de 2 000 clients à Perpignan. Selon Orange, ces vols se multiplient : la région Occitanie a enregistré une hausse de 10 % en 2026, une tendance qui s'accentue depuis plusieurs années.",
+    "angles": [
+      {
+        "outlet": "France Info",
+        "take": "Met l'accent sur l'ampleur exceptionnelle du vol et ses conséquences directes pour les habitants, dans un contexte d'augmentation générale des vols de câbles en Occitanie.",
+        "url": "https://www.franceinfo.fr/faits-divers/un-vol-de-cables-de-cuivre-d-une-ampleur-exceptionnelle-provoque-une-coupure-d-internet-depuis-une-semaine-pour-pres-de-2-000-clients-a-perpignan_8151308.html#xtor=RSS-3-%5Bgeneral%5D"
+      }
+    ],
+    "id": 21,
+    "priority": 22
+  },
+  {
+    "themes": [
+      "Insolite"
+    ],
+    "title": "L'île de Skye, quintessence sauvage de l'Écosse",
+    "full": "L'île de Skye, située dans l'archipel des Hébrides, incarne la Suisse écossaise à travers ses paysages de brumes, de sommets et de reliefs spectaculaires. Destination de randonnée et d'exploration, elle se découvre au rythme d'une météo changeante et offre aux visiteurs une immersion dans les caractéristiques les plus grandioses des Highlands.",
+    "angles": [
+      {
+        "outlet": "20 Minutes",
+        "take": "Skye concentre l'essence sauvage des Highlands et des Hébrides, accessible principalement à pied malgré des conditions météorologiques imprévisibles.",
+        "url": "https://www.20minutes.fr/tempo/escapade/4238636-20260817-ecosse-majeste-brumes-skye-sommets-highlands?at_medium=display&at_campaign=149"
+      }
+    ],
+    "id": 22,
+    "priority": 23
+  },
+  {
+    "themes": [
+      "Insolite",
+      "Culture"
+    ],
+    "title": "Une épave byzantine du VIIe siècle livre un trésor d'or en Méditerranée",
+    "full": "Des archéologues ont découvert plus de 600 grammes d'or, des bijoux et une chevalière impériale dans une épave byzantine datant du VIIe siècle, en Méditerranée. Ce butin représente la plus importante quantité d'or jamais retrouvée dans une épave de cette région. La présence de ces objets précieux et de la chevalière suggère qu'un haut dignitaire de l'Empire byzantin voyageait à bord du navire, mais le motif exact de ce voyage reste inconnu.",
+    "angles": [
+      {
+        "outlet": "Slate",
+        "take": "La découverte exceptionnelle de plus de 600 grammes d'or et d'une chevalière impériale indique la présence d'un personnage de haut rang à bord, tandis que les raisons du voyage demeurent mystérieuses.",
+        "url": "https://www.slate.fr/sciences/epave-bateau-navire-empire-byzantin-croatie-archeologie-or-decouverte-navire"
+      }
+    ],
+    "id": 23,
+    "priority": 24
   }
 ];
